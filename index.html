@@ -7,14 +7,11 @@ layout: default
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+	  <span class="date">
+		  {{ post.date | date: '%B %d, %Y' }}
+	  </span>
 
       <div class="entry">
-        <p class="summary">
-          {{ post.category }}
-          <span class="date">
-            {{ post.date | date: '%B %d, %Y' }}
-          </span>
-        </p>
         {{ post.excerpt }}
       </div>
 
