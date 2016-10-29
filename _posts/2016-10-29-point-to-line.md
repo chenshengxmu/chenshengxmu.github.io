@@ -3,10 +3,10 @@ layout: post
 title: Optimum location of point to minimize total distance
 ---
 
-# Problem
+## Problem
 Given a set of points as and a line as ax+by+c = 0. We need to find a point on given line for which sum of distances from given set of points is minimum.
 
-# Solution
+## Solution
 {% highlight c %}
 double findOptimumCost(point p[], int n, line l)
 {
@@ -43,7 +43,7 @@ double findOptimumCost(point p[], int n, line l)
 }
 {% endhighlight %}
 
-# Extension
+## Extension
 {% highlight python %}
 def ternarySearch(f, left, right, absolutePrecision):
     """
