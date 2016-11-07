@@ -55,7 +55,7 @@ baseurl: ""
 
 permalink: /:title/
 
-paginate: 10 
+paginate: 3 
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
