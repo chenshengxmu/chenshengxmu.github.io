@@ -54,7 +54,7 @@ baseurl: ""
 #
 
 permalink: /:title/
-paginate: 4
+paginate: 9
 #paginate_path: 'page:num'
 
 # The release of Jekyll Now that you're using
