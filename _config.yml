@@ -58,7 +58,7 @@ paginate: 10
 paginate_path: 'page:num'
 
 collections:
-  qing_mi:
+  qinmi:
     output: true
 
 # The release of Jekyll Now that you're using
