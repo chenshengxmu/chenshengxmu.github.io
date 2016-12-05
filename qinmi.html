@@ -2,6 +2,10 @@
 layout: page
 title: 秦迷
 ---
+<ul>
 {% for cookie in site.qinmi reversed %}
+    <li>
 	<h2><a href="{{ cookie.url }}">{{ cookie.title }}</a></h2>
+    </li>
 {% endfor %}
+</ul>
