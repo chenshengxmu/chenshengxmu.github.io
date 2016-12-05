@@ -6,7 +6,7 @@ title: Blog
 <ul>
   {% for post in paginator.posts %}
     <li>
-      <center><h1><a href="{{ post.url }}">{{ post.title }}</a></h1></center>
+      <h1><center><a href="{{ post.url }}">{{ post.title }}</a></center></h1>
 	  <span class="date">
 		  {{ post.date | date: '%B %d, %Y' }}
 	  </span>
