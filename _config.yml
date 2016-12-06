@@ -60,6 +60,8 @@ paginate_path: 'page:num'
 collections:
   qinmi:
     output: true
+  zerone:
+    output: true
 
 # The release of Jekyll Now that you're using
 version: v2.0.0
