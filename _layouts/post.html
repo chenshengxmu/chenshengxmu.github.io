@@ -18,9 +18,9 @@ layout: default
 
 <div class="pagination">  
   {% if page.next.url %}  
-    <a class="prev" href="{{page.next.url}}">&laquo; {{page.next.title}}</a>  
+    <a class="prev" href="{{page.next.url}}">&laquo; {{page.next.title | strip | truncate: 10}}</a>  
   {% endif %}  
   {% if page.previous.url %}  
-    <a class="next" href="{{page.previous.url}}">{{page.previous.title}} &raquo;</a>  
+    <a class="next" href="{{page.previous.url}}">{{page.previous.title | strip | truncate: 10}} &raquo;</a>  
   {% endif %}  
 </div>  
