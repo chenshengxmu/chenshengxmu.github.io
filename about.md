@@ -3,7 +3,13 @@ layout: page
 title: About
 permalink: /about/
 ---
-![snowboarding]({{site.baseurl}}/images/snow1.jpg)
+<ul>
+{% for i in (1..10) %}
+	<li>
+	![snowboarding]({{site.baseurl}}/images/snow{{i}}.jpg)
+	</li>
+{% endfor %}
+</ul>
 
 ### Contact me
 
