@@ -70,6 +70,8 @@ collections:
     output: true
   wen-ming-zhi-guang:
     output: true
+  the-martian:
+    output: true
 
 # The release of Jekyll Now that you're using
 version: v2.0.0
