@@ -82,6 +82,12 @@ collections:
     output: true
   hong-tai-yang:
     output: true
+  san-ti:
+    output: true
+  san-ti2:
+    output: true
+  san-ti3:
+    output: true
 
 # The release of Jekyll Now that you're using
 version: v2.0.0
