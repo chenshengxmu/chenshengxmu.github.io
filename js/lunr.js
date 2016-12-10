@@ -1846,10 +1846,10 @@ lunr.Pipeline.registerFunction(lunr.stopWordFilter, 'stopWordFilter')
  * @see lunr.Pipeline
  */
 lunr.trimmer = function (token) {
-   var reg = /[\u4E00-\u9FA5\uF900-\uFA2D]/;  
-	if (reg.test(token)){
-		return token;
-	}
+  //var reg = /[\u4E00-\u9FA5\uF900-\uFA2D]/;  
+  //if (reg.test(token)){
+  //    return token;
+  //}
   return token.replace(/^\W+/, '').replace(/\W+$/, '')
 }
 
