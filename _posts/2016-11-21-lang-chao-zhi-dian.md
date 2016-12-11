@@ -3,9 +3,7 @@ layout: post
 title: 《浪潮之巅》
 ---
 {% assign filename = page.url | remove: '/' %}
-{% assign category = page.categories[0] %}
-{{category}}
-{% assign posts = site.categories[filename] %}
+{% assign posts = site.collections[filename] %}
 {{filename}}
 {{posts}}
 
