@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 《浪潮之巅》
+title: 《送你一颗子弹》
 ---
 {% assign filename = page.url | remove: '/' %}
 {% assign col = site.collections | where: "label", filename | first %}
