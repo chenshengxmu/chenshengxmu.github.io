@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 《浪潮之巅》
+title: 《送你一颗子弹》
 ---
 {% assign filename = page.url | remove: '/' %}
 {% assign col = site.collections | where: "label", filename | first %}
 
 <img src="{{site.baseurl}}/images/{{filename}}.jpg" width="360">
 
-从一百年前算起，AT&T 公司、IBM 公司、苹果公司、英特尔公司、微软公司、思科公司、雅虎公司和Google公司都先后被幸运地推到了浪尖。虽然，它们来自不同的领域，中间有些已经衰落或正在衰落，但是它们都极度辉煌过。本书系统地介绍了这些公司成功的本质原因及科技工业一百多年的发展。
+这本书里记录的是作者2005—2009年左右（尤其是2006—2007年）生活里的点点滴滴。在这本书里，被“审视”的东西杂七杂八，有街上的疯老头，有同宿舍的室友，有爱情、电影和书，大到制度，小到老鼠。由于我写这些东西的时候，出发点并不是写一本书，所以不同文章往往风格迥异，长短不一，质量不均，随着社会形势、荷尔蒙周期以及我逃避生活的力度而起伏。
 
 {% for cookie in col.docs reversed %}
 ## [{{ cookie.title }}]({{ cookie.url }})
