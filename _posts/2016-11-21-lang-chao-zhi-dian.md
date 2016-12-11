@@ -3,8 +3,7 @@ layout: post
 title: 《浪潮之巅》
 ---
 {% assign filename = page.url | remove: '/' %}
-{% assign post = site.collections | where: "label", filename | first %}
-{{post}}
+{% assign posts = site.collections | where: "label", filename | first %}
 
 <img src="{{site.baseurl}}/images/{{filename}}.jpg" width="360">
 
