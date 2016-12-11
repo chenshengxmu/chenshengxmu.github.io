@@ -3,7 +3,7 @@ layout: post
 title: 《浪潮之巅》
 ---
 {% assign filename = page.url | remove: '/' %}
-{% assign posts = site.filename %}
+{% assign posts = site.categories[filename] %}
 {{posts}}
 
 <img src="{{site.baseurl}}/images/{{filename}}.jpg" width="360">
