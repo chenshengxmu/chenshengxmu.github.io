@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postd
 title: 为者常成 行者常至
 ---
 梁丘据谓晏子曰：

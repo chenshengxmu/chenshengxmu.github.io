@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<article class="post">
+  <h2><center>{{ page.title }}</center></h2>
+
+  <div class="entry">
+    {{ content }}
+  </div>
+
+  <div class="date">
+    Written on {{ page.date | date: "%B %e, %Y" }}
+  </div>
+
+  {% include disqus.html %}
+</article>
+
+<br>
+<div class="pagination">  
+  {% if page.next.url %}  
+    <a class="prev" href="{{page.next.url}}">&laquo; {{page.next.title | strip | append: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"}}</a>  
+  {% endif %}  
+  {% if page.previous.url %}  
+    <a class="next" href="{{page.previous.url}}">{{page.previous.title | strip | prepend: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"}} &raquo;</a>  
+  {% endif %}  
+</div>  
