@@ -1,5 +1,5 @@
 ---
-layout: postd
+layout: post
 title: 云在青天水在瓶
 ---
 (翱)初见俨
