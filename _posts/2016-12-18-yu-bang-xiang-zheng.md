@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 赵且伐燕
+title: 鹬蚌相争
 ---
 赵且伐燕，苏代为燕谓惠王曰：
 
