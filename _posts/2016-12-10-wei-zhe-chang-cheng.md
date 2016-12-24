@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 为者常成 行者常至
+title: 为者常成
 ---
 梁丘据谓晏子曰：
 
