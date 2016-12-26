@@ -7,7 +7,7 @@ title: About
 
 [chenshengxmu@163.com](mailto:chenshengxmu@163.com)
 
-### Snowboarding
+### My hobby
 ---
 
 {% for i in (1..7) %}
