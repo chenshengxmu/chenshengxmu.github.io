@@ -34,11 +34,11 @@ layout: default
 
   {% for page in (1..paginator.total_pages) %}
     {% if page == paginator.page %}
-      <em>{{ page }}</em>
+      <em>&nbsp&nbsp{{ page }}&nbsp&nbsp</em>
     {% elsif page == 1 %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{   page   }}</a>
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&nbsp&nbsp{{ page }}&nbsp&nbsp</a>
     {% else %}
-      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{   page   }}</a>
+      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">&nbsp&nbsp{{ page }}&nbsp&nbsp</a>
     {% endif %}
   {% endfor %}
 
