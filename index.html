@@ -18,7 +18,7 @@ layout: default
 	  </span>
 	  <p>
 		  <!--{{ post.excerpt }}-->
-		  {{ post.content | strip_html | truncatewords: 50 }}
+		  {{ post.content | truncatewords: 5 }}
 	  </p>
       <a href="{{ post.url }}" class="read-more">继续阅读</a>
     </li>
