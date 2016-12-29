@@ -92,6 +92,8 @@ collections:
     output: true
   song-ni-yi-ke-zi-dan:
     output: true
+  ci-ke:
+    output: true
 
 # The release of Jekyll Now that you're using
 version: v2.0.0
