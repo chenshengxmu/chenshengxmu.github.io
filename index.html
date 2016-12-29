@@ -17,7 +17,7 @@ layout: default
 		  {{ post.date | date: '%Y-%m-%d' }}
 	  </span>
 	  <p>
-		  {{ post.content | strip_html | truncate: 50, "" }}
+		  {{ post.content | truncate: 50, "" }}
 	  </p>
       <a href="{{ post.url }}" class="read-more">继续阅读</a>
     </li>
