@@ -94,6 +94,8 @@ collections:
     output: true
   ci-ke:
     output: true
+  cheng-yu:
+    output: true
 
 # The release of Jekyll Now that you're using
 version: v2.0.0
