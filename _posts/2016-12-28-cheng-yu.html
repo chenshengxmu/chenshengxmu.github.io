@@ -6,6 +6,9 @@ title: 成语典故
 {% assign col = site.collections | where: "label", filename | first %}
 
 {% for cookie in col.docs reversed %}
-[{{cookie.title}}]({{cookie.url}})
+<center>
+<a href="{{cookie.url}}">{{cookie.title}}</a>
+</center>
+<br>
 {% endfor %}
 
