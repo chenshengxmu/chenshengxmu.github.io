@@ -19,7 +19,7 @@ layout: default
 	  <p>
 		  {{ post.content | truncatewords: 4, "" }}
 	  </p>
-      <center><a href="{{ post.url }}" class="read-more">继续阅读</a></center>
+      <a href="{{ post.url }}" class="read-more">继续阅读</a>
     </li>
   {% endfor %}
 </ul>

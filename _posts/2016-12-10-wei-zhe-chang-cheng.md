@@ -2,6 +2,8 @@
 layout: post
 title: 为者常成
 ---
+<img src="{{site.baseurl}}/images/san-ti3.jpg" width="360">
+
 梁丘据谓晏子曰：
 
 > 吾至死不及夫子矣！
