@@ -1,0 +1,13 @@
+---
+layout: post
+title: 刺客列传
+---
+{% assign filename = page.url | remove: '/' %}
+{% assign col = site.collections | where: "label", filename | first %}
+
+{% for cookie in col.docs reversed %}
+<center>
+<a href="{{cookie.url}}">{{cookie.title}}</a>
+</center>
+{% endfor %}
+
