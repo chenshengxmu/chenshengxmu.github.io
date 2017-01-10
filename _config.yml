@@ -58,40 +58,6 @@ paginate: 10
 paginate_path: 'page:num'
 
 collections:
-  qinmi:
-    output: true
-  zerone:
-    output: true
-  paypal-wars:
-    output: true
-  tian-dao:
-    output: true
-  bei-pan:
-    output: true
-  wen-ming-zhi-guang:
-    output: true
-  the-martian:
-    output: true
-  the-godfather:
-    output: true
-  wei-cheng:
-    output: true
-  san-chong-men:
-    output: true
-  time-friend:
-    output: true
-  hong-tai-yang:
-    output: true
-  san-ti:
-    output: true
-  san-ti2:
-    output: true
-  san-ti3:
-    output: true
-  lang-chao-zhi-dian:
-    output: true
-  song-ni-yi-ke-zi-dan:
-    output: true
   ci-ke:
     output: true
   cheng-yu:

@@ -2,12 +2,12 @@
 layout: page
 title: About
 ---
-### Contact me
+### Contact Me
 ---
 
 [chenshengxmu@163.com](mailto:chenshengxmu@163.com)
 
-### My hobby
+### My life
 ---
 
 {% for i in (1..7) %}
