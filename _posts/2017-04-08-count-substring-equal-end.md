@@ -3,7 +3,7 @@ layout: post
 title: count substring with equal ends
 ---
 ```java
-private static int countSubstringWithEqualEnds(char[] a)
+    int countSubstringWithEqualEnds(char[] a)
     {
         int count = 0;
         int n = a.length;
@@ -20,7 +20,7 @@ private static int countSubstringWithEqualEnds(char[] a)
         return count;
     }
 
-private static int countSubstringWithEqualEndsBest(char[] a)
+    int countSubstringWithEqualEndsBest(char[] a)
     {
         int result = 0;
         int[] count = new int[26];
