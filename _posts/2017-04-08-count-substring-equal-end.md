@@ -1,6 +1,6 @@
 ---
 layout: post
-title: count substring with equal ends
+title: Count substrings with same first and last characters
 ---
 ```java
 int countSubstringWithEqualEnds(char[] a)
