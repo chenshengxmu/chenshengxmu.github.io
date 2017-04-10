@@ -3,9 +3,8 @@ layout: post
 title: Find an equal point in a string of brackets
 ---
 ```java
-int findEqualIndex(char[] a)
+int findEqualIndex(char[] a, int n)
 {
-    int n = a.length;
     int[] open = new int[n + 1];
     int[] close = new int[n + 1];
     open[0] = 0;

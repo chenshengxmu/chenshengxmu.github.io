@@ -3,10 +3,9 @@ layout: post
 title: Count substrings with same first and last characters
 ---
 ```java
-int countSubstringWithEqualEnds(char[] a)
+int countSubstringWithEqualEnds(char[] a, int n)
 {
     int count = 0;
-    int n = a.length;
     for (int i = 0; i < n; i++)
     {
         for (int j = i; j < n; j++)
@@ -20,11 +19,10 @@ int countSubstringWithEqualEnds(char[] a)
     return count;
 }
 
-int countSubstringWithEqualEndsBest(char[] a)
+int countSubstringWithEqualEndsBest(char[] a, int n)
 {
     int result = 0;
     int[] count = new int[26];
-    int n = a.length;
     for (int i = 0; i < n; i++)
     {
         int key = a[i] - 'a';

@@ -3,10 +3,9 @@ layout: post
 title: Remove extra spaces from a string
 ---
 ```java
-void removeAllSpace(char[] a)
+void removeAllSpace(char[] a, int n)
 {
     int j = 0;
-    int n = a.length;
     for (int i = 0; i < n; i++)
     {
         if (a[i] != ' ')
@@ -15,13 +14,12 @@ void removeAllSpace(char[] a)
             j++;
         }
     }
-    a[j] = '@';
+    a[j] = '\0';
 }
 
-void removeExtraSpace(char[] a)
+void removeExtraSpace(char[] a, int n)
 {
     int j = 0;
-    int n = a.length;
     int i = 0;
     while (i < n && a[i] == ' ')
     {
@@ -48,13 +46,12 @@ void removeExtraSpace(char[] a)
             }
         }
     }
-    a[j] = '@';
+    a[j] = '\0';
 }
 
-void removeExtraSpacePunctuation(char[] a)
+void removeExtraSpacePunctuation(char[] a, int n)
 {
     int j = 0;
-    int n = a.length;
     int i = 0;
     while (i < n && a[i] == ' ')
     {
@@ -84,6 +81,6 @@ void removeExtraSpacePunctuation(char[] a)
             }
         }
     }
-    a[j] = '@';
+    a[j] = '\0';
 }
 ```
