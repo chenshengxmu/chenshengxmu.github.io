@@ -12,7 +12,8 @@ int maxSubArraySum(int[] a, int n)
         if (b[i-1] >= 0)
         {
             b[i] = b[i - 1] + a[i];
-        }else
+        }
+        else
         {
             b[i] = a[i];
         }
@@ -37,7 +38,8 @@ int maxSubArraySumOpt(int[] a, int n)
         if (curr_max >= 0)
         {
             curr_max = curr_max + a[i];
-        }else
+        }
+        else
         {
             curr_max = a[i];
         }
@@ -61,7 +63,8 @@ int maxSubArraySumWithIndex(int[] a, int n)
         if (curr_max >= 0)
         {
             curr_max = curr_max + a[i];
-        }else
+        }
+        else
         {
             curr_max = a[i];
             s = i;

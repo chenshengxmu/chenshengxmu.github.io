@@ -14,7 +14,8 @@ int findEqualIndex(char[] a, int n)
         if (a[i - 1] == '(')
         {
             open[i] = open[i - 1] + 1;
-        } else
+        } 
+        else
         {
             open[i] = open[i - 1];
         }
@@ -24,7 +25,8 @@ int findEqualIndex(char[] a, int n)
         if (a[i] == ')')
         {
             close[i] = close[i + 1] + 1;
-        } else
+        } 
+        else
         {
             close[i] = close[i + 1];
         }
