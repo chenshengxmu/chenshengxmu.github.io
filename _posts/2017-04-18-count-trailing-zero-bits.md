@@ -6,8 +6,12 @@ title: Count trailing zero bits
 int countTrailingZero(int x)
 {
     int count = 0;
-    while ((x & 1) == 0)
+    for (int i = 0; i < 32; i++)
     {
+        if ((x & 1) != 0)
+        {
+            break;
+        }
         x = x >> 1;
         count++;
     }
