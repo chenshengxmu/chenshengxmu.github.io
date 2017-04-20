@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Length of the largest subarray with contiguous elements with duplicate elements
+title: Length of the largest subarray with contiguous elements for duplicate elements
 ---
 ```java
 int findLengthWithDuplicateElements(int[] a, int n)

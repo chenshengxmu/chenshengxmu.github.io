@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Length of the largest subarray with contiguous elements with distinct elements
+title: Length of the largest subarray with contiguous elements for distinct elements
 ---
 ```java
 int findLengthWithDistinctElements(int[] a, int n)
