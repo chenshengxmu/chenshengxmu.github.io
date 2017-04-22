@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Convert array distinct elements into Zig-Zag fashion
+title: Convert array of distinct elements into Zig-Zag fashion
 ---
 ```java
 void zigZag(int[] a, int n)
