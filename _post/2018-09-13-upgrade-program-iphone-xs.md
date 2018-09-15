@@ -1,0 +1,13 @@
+---
+layout: post
+title: Upgrading to iPhone Xs via Apple's Upgrade Program? Here is what you need to know
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2018/09/iPhone-Xs-gold-space-gray-silver-horizontal-001.jpg)
+* This will be my first year upgrading to the new iPhone as a member of Apple’s iPhone Upgrade Program. Say what you want about the poor economics of the ‘leasing’ model, but with no need to list my old phone on eBay or fork over $1,000+, this may be one of my most stress-free iPhone upgrades ever. That being said, there are a few things worth noting if you’re planning to upgrade to the new iPhone Xs or Xs Max using Apple’s Upgrade Program. 
+* First things first, what is the iPhone Upgrade Program? It’s essentially a leasing program provided by Apple (in partnership with Citizens One) that allows you to spread out the cost of the iPhone over 24 monthly payments. These payments range from ~$35-$60, depending on the iPhone model, and include AppleCare+ protection—which is $200 when purchased separately. Plus after 12 months of payments, you can trade in your iPhone for the new model.
+* Since you’re technically getting a loan for the purchase price of the iPhone, you do have to submit your personal details for a credit check. Even as a returning member of the Program, I was asked to verify my SS# for pre-approval. You’ll also want to make sure your current device isn’t under contract. So like for me, I joined the Program in October last year for the iPhone X, meaning I’ll have to pay that final monthly payment (out of 12) before upgrading.
+![img](http://media.idownloadblog.com/wp-content/uploads/2018/09/up.png)
+* The actual upgrade order itself can be made in person at an Apple Store or online. If you want to keep things painless, I recommend doing it online using the Apple Store App. You can actually perform the pre-approval process right there within the app, and even pre-select your iPhone model, color and storage options, so all you really have to do is complete the checkout when it comes time to order (note that this is not available when the Apple Store is down).
+* And that’s about all there is to it! You should receive a return packet with your new iPhone so you can send it back to Apple. If it’s in good shape, the loan will be marked as paid, but if there is some damage you may be charged for repairs. For those that would rather keep or sell the device, you are welcome to do that as well. You’ll just have to either continue the monthly payments (so if you get a new phone, you’ll have dual payments) or pay the remaining balance.
+* The iPhone Xs and Xs Max will be available for pre-order at 12:01am PST on September 14, and will officially go on sale September 21.
+
