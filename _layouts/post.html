@@ -16,10 +16,11 @@ layout: default
 <div class="pagination">  
 <center>
   {% if page.next.url %}  
-    <a class="prev" href="{{page.next.url}}">&laquo; {{page.next.title | strip | append: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"}}</a>  
+    <a class="prev" href="{{page.next.url}}">&laquo; {{page.next.title}}</a>  
   {% endif %}  
+<br>
   {% if page.previous.url %}  
-    <a class="next" href="{{page.previous.url}}">{{page.previous.title | strip | prepend: "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"}} &raquo;</a>  
+    <a class="next" href="{{page.previous.url}}">{{page.previous.title}} &raquo;</a>  
   {% endif %}  
 </center>
 </div>  
