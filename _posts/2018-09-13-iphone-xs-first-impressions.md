@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Roundup: iPhone Xs and Xs Max first impressions and videos
+title: Roundup- iPhone Xs and Xs Max first impressions and videos
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/09/Apple-iPhone-Xs-combo-hero.jpg)
 * It’s been less than 24 hours since Apple’s “Gather round” event. Already, we’ve seen a long list of first impression posts and videos arrive for two the biggest stars of the event, the iPhone Xs and iPhone Xs Max. Here’s a rundown at what folks are saying about the company’s newest flagship devices.

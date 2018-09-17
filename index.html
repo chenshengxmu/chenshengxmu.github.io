@@ -16,7 +16,7 @@ layout: default
 		  {{ post.date | date: '%Y-%m-%d' }}
 	  </span>
 	  <p>
-		  {{ post.content | strip_html | truncate: 50, "" }}
+		  {{ post.excerpt }}
 	  </p>
       <a href="{{ post.url }}" class="read-more">Read More</a>
     </li>
@@ -33,6 +33,7 @@ layout: default
     <span>&laquo; Prev</span>
   {% endif %}
 
+<!--
   {% for page in (1..paginator.total_pages) %}
     {% if page == paginator.page %}
       <em>{{ page }}</em>
@@ -46,6 +47,7 @@ layout: default
       </a>
     {% endif %}
   {% endfor %}
+-->
 
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path | relative_url }}">

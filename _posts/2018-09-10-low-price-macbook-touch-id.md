@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kuo: upcoming low-price MacBook may feature Touch ID, but not Touch Bar
+title: Kuo- upcoming low-price MacBook may feature Touch ID, but not Touch Bar
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/macbook.jpg)
 * According to well-known analyst Ming-Chi Kuo, Apple’s rumored brand-new Mac notebook model might include a Touch ID fingerprint scanner but not the Touch Bar feature.

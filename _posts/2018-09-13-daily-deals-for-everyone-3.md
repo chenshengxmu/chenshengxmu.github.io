@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Daily Deals: $45 Razer DeathAdder Elite gaming mouse, up to 60% off TP-Link networking products, and more
+title: Daily Deals- $45 Razer DeathAdder Elite gaming mouse, up to 60% off TP-Link networking products, and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/daily_deals-2.jpg)
 * Looking for cool tech at great prices? Then you’ve come to the right place. iDB’s Daily Deals post is a roundup of what we believe are the best deals available on the internet today for consumer electronics, video games, media and more. So what are you waiting for? Get shopping!

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's website confirms: it's iPhone Xs, iPhone Xs Max and iPhone Xr
+title: Apple's website confirms- it's iPhone Xs, iPhone Xs Max and iPhone Xr
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/09/Gather-round-appl-event-AR72014-Mac-Desktop.png)
 * The official names for this year’s iPhones have been leaked by the best source around, Apple. Earlier today, Sept. 12, the company temporarily updated its product sitemap file, inadvertently giving the product names away. As long rumored, this year’s iPhones will be classed the iPhone Xs, iPhone Xs Max, and iPhone Xr.

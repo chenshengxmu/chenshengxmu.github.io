@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Affinity Designer for iPad review: an incredible amount of creative power
+title: Affinity Designer for iPad review- an incredible amount of creative power
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/09/Affiniy-Designer-for-iPad-teaer-003.jpg)
 * British developer Serif in July released an iPad edition of Affinity Designer, its Adobe Illustrator rival for Mac and Windows PCs. Today, we’re taking a much closer, more comprehensive look at this first-rate vector drawing iPad app that doesn’t skimp on advanced features in turning the Apple tablet into a premiere platform for digital illustrators and artists.

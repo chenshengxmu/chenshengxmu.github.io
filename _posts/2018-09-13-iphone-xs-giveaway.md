@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Giveaway: enter to win an iPhone Xs
+title: Giveaway- enter to win an iPhone Xs
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/09/iPhone-xs-giveaway.jpg)
 * Apple’s new flagship device was unveiled on Wednesday, and although it won’t be available in stores until September 21st, we are already planning on giving one away to one lucky iDB reader, with the support of our friends at iMobie.

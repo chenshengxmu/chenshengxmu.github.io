@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Snacphat tip: subscribe to publishers & creators in Discover while watching
+title: Snacphat tip- subscribe to publishers & creators in Discover while watching
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/Snapchat-banner.png)
 * Snapchat makes it a cinch to subscribe to any publisher or creator listed under the Discover tab, while watching their post or video. This handy feature makes it very easy to add creators to your following list on a whim, without having to stop viewing their posts in Discover.

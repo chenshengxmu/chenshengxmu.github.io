@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kuo: 2018 iPhones to continue using Lightning, bundle with 5W slow charge adapter
+title: Kuo- 2018 iPhones to continue using Lightning, bundle with 5W slow charge adapter
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/USB-C-Lightning-Cable.jpg)
 * Analyst Ming-Chi Kuo today issued a research note to clients in which he outlined some interesting predictions about Apple’s upcoming product refreshes. According to the analyst, 2018’s iPhones won’t ditch Lightning I/O for USB-C like iPad Pros nor will they include a stronger, Power Delivery-compatible power adapter to support the fast charge function.

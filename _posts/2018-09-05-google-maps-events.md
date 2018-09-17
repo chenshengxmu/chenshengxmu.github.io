@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Maps for iPhone: new Events section, route elevation in navigation
+title: Google Maps for iPhone- new Events section, route elevation in navigation
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/09/Google-Maps-Events.jpg)
 * The search giant yesterday refreshed the Google Maps app for iPhone and iPad on App Store, adding a new Events feature and elevation data for walking and cycling routes.

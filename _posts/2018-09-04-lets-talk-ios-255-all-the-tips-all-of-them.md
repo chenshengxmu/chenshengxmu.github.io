@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let’s Talk iOS 255: All the tips. All of them!
+title: Let’s Talk iOS 255- All the tips. All of them!
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/02/Lets-Talk-iOS-podcast-on-iPhone-X.jpg)
 * It’s a slow week in the Apple world. We just received invites for the September 12 event, and only the new iPhone and the new Apple Watch images have leaked. So yeah, a slow week!

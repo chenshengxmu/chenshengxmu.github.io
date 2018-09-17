@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Poll: which new iPhone model and configuration do you plan on buying?
+title: Poll- which new iPhone model and configuration do you plan on buying?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/09/2018-iPhone-lineup-event-slide.jpg)
 * Apple’s smartphone lineup for this year spans what’s probably the widest iPhone price gamut ever, starting at just $449 for the entry-level 32GB iPhone 7 model from last year and going all the way up to the flagship $1,449 iPhone Xs Max with an insane half a terabyte storage.

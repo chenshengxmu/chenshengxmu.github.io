@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Roundup: early first impressions and videos of the Apple Watch Series 4
+title: Roundup- early first impressions and videos of the Apple Watch Series 4
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/09/Apple-Watch-Series-4-face-hero-006.jpg)
 * The Apple Watch Series 4 features the first significant redesign since the first wearable device arrived in the spring of 2015. Naturally, those who have already seen the wearable device up close have plenty to say. Here’s a look at some of the comments making the rounds. 

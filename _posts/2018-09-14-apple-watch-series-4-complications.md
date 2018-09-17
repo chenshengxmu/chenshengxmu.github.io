@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Complications on Apple Watch Series 4: how they work & what they can do
+title: Complications on Apple Watch Series 4- how they work & what they can do
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/09/Apple-Watch-Series-4-face-hero-006.jpg)
 * Complications—small elements rendered on the Apple Watch face that provide quick access to frequently-used data—have received a boost on Series 4: all-new templates now let brand new elements, such as full-color images, text and gauges, follow curvature of the display.

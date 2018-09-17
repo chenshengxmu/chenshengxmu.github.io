@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kuo: slimmer-bezeled Series 4 watches to support EKG, have ceramic back
+title: Kuo- slimmer-bezeled Series 4 watches to support EKG, have ceramic back
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/Original-Apple-Watch-Heart-rate-watchOS-4.jpg)
 * In terms of health tracking, a fourth-generation Apple Watch has been predicted to support electrocardiography (EKG) capabilities that may presumably permit the user to take reliable, accurate readings of the electrical activity of their heart over a period of time.
