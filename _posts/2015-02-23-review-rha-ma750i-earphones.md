@@ -1,0 +1,27 @@
+---
+layout: post
+title: Review- RHA MA750i earphones
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/ma750i-1.png)
+* Music can be a very personal choice, and the same goes for the hardware that we use to enjoy it.
+* Just take a look at the sheer number of options on the table when looking to buy a new set of earphones. Taking price out of the equation for now, it’s clear that everyone has different tastes based on what they are looking for from earphones. Do they want the best sound quality that money can buy, or do they want something with a logo on the side that is going to make them look cool in front of their mates? What about design – do they want bright colors and patterns or do they want something understated?
+* Since choosing earphones isn’t simply a case of picking the best sounding option at a price you can afford, just browsing the myriad of earphones on Amazon can be daunting to say the least, with many simply resorting to choosing something with a name they know or the best looking specifications. What they need is a good, solid recommendation.
+* So before we go any further, here it is. Buy the RHA MA750i.
+* Before we go any further though, let me say this: I’m not an audiophile. I don’t own $1,000 amps and I certainly don’t own any $1,000 headphones. That said, I think I appreciate good sound when I hear it and sticking with something like Apple’s Earpods isn’t something that ever enters my head. My own earphones are a pair of SoundMagic E10s and I have a pair of AKG K451s for when I don’t want to use in-ears. Both of those are decent offerings in their respective categories, but nobody is going to argue they’re the best of the best.
+* So that being said I’m not going to sit here and review the MA750i earphones in huge detail, attempting to convey what the bass, mid-range and highs do to my inner soul as I recline on a bed of $200 cables. That’s just not what I’m about and I’m certainly not qualified to try and bluff it. Instead, I’m going to take a different tact.
+* I’m simply going to tell you how RHA’s MA750i earphones make me feel.
+![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/MA750i.png)
+* Before that though, we need to talk about what you get for your money.
+* Inside the rather large box, you’ll receive your new earphones alongside a leatherette case and a plethora of tips. There are six different pairs of dual density tips, two different pairs of double flange tips and two pairs of memory foam tips. Impressively, all of these are housed in a stainless steel tip holder that you have to see to really understand. It doesn’t seem much on the face of it, but if you’ve suffered from having a bag of tips that you have to rummage through to find a pair in, this will impress.
+* Oh, there’s even a clothing clip if you need it, too.
+* The earphones themselves are best described as ‘sturdy.’ The product page for the MA750i talks about a “handmade 560.1 driver” and a “steel reinforced, oxygen-free cable.” The whole thing is made from “individually machined stainless steel components,” and it shows. Everything is solid, but that has the negative effect of making the earphones feel heavy, too. You’re not going to be wearing these to the gym but then again, I’m not sure that was ever really intended when RHA set about designing this particular product. The MA750i are earphones that seem destined to sit at home or the office, plugged into something kicking out good quality audio where it can be enjoyed. Listening to music while sweating yourself to death in the gym probably wasn’t on the agenda when these were being thought up.
+* By now it should be clear that the overall package from RHA is an impressive one. You get more accessories in the box than you’ll ever need, and the earphones themselves are built to last as evidenced by the sprung 3.5mm jack and metal-clad remote control. Oh, did I mention that the in-line remote and microphone? It’s got those, too.
+* None of this is any good if the sound quality lets RHA’s MA750i down, though, which brings me back to how these earphones make me feel.
+* Put simply, they make me enjoy music again.
+![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/ma750i-tips-e1424631039977.png)
+* Over the years I’ve been into music, then out of it, then kind of into it again. Right now I’m into it, and that’s partly thanks to what RHA has managed to do with the MA750i. Music sounds great, because it sounds fun. Bass is there when needed and the high-ends don’t make me want to peel my own eardrums out. Put simply, everything feels balanced in a way that even my well reviewed SoundMagics can’t muster.
+* I’ve already said that I’m not going to go in-depth about what these earphones do to music and that’s just fine. If you need that then there are plenty of reviews dotted around the internet that go into that kind of detail. I’ve read a few and the gist is that RHA knows how to make earphones that reproduce sounds as they should without messing with the end result too much and that’s important.
+* Basically, there are plenty of audiophile-like reasons I like the RHA MA750i that are currently attached to my ears, but when it comes to explaining them there are others better equipped to do so.
+* To me, the only explanation is the simplest – I love to listen to music with these. And that’s all that anyone should care about.
+* The RHA MA750i are available on Amazon for $129.95 and you can check out the full RHA range at their website.
+

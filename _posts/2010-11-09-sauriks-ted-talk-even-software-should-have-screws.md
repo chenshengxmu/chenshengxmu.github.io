@@ -1,0 +1,21 @@
+---
+layout: post
+title: Saurik’s TED Talk, “Even Software Should Have Screws”
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2010/11/iCar.jpeg)
+* Jay Freeman, better known as saurik, recently gave a TED talk on the philosophy of mobile software. He compared the iPhone’s App Store and the jailbreak mentality to how consumers buy and modify cars. He made the case for what he has based his career on: that consumers do not want the software limitations that Apple maintains on iOS.
+* The first half of saurik’s TED talk explains the state of the car industry, and the consumer approach to buying and modifying cars. His comparison is interesting, and it definitely merits his point about Apple’s App Store philosophy…
+* Saurik described how some buyers of cars don’t mind keeping their car the exact way that they bought it. However, he made the case that most buyers of cars like to add and modify the look and features of their investment; whether it be the color, seats, or stereo system. He argued that this same mentality needs to be applied to the App Store.
+* In Hacker News, saurik wrote a post clarifying the points of his TED talk,
+* “The idea is that the App Store is designed to install “applications”: units of software that typically involve an icon on some kind of launcher that opens a window into some new functionality the device previously did not have.
+* However, is that really all that users want to be able to do with their devices? If we just look at the stories posted to Hacker News about Android software we already see that would be a flawed premise: there is a long train of “cool” surrounding products like Swype and 8pen. These programs replace the system input manager, aka the keyboard, for all applications.
+* These programs are not just apps: they are extensions to other applications on the device. We also see this in the form of custom launchers, dialers, and widgets: Android has numerous ways that developers can extend the core functionality of the handset in ways that escape the trap that is the icon.”
+* The goal of saurik’s talk was to basically praise the jailbreak mentality, which makes sense. Whether or not his assumptions about consumers tendencies are based in factual, statistical evidence, there is definitely a point to what he had to say.
+* “Go look at your average jailbroken iPhone: the stuff people are developing and installing is amazing. There are almost no limits to what you can change on the device; it isn’t open source, but it is damned close. No system feature or application is immune to the influence of small and large changes. And, if you really insist that open isn’t open until it is open source you can gut the bootloader and install Android on the thing thanks to the iDroid project.
+* This is why I absolutely hate it when I read people focusing on rejected applications or “opening up” the app store. In a future where Apple did exactly what you are asking them to do almost nothing will have changed: people will still need to jailbreak their phones and developers will still be writing and distributing all of this cool software using Cydia.”
+* Saurik actually came to Apple’s defense in his post after the TED talk. He talked about the reasons that Apple denies apps, and that there are legal reasons why Apple has to function the way it does. In fact, he believes that Cydia is not like the App Store at all. There are very few actual “apps” in Cydia, mostly hardware and software tweaks.
+* In the end, saurik wants people to stop pleading for Apple to open up the App Store like the Android Marketplace.
+* “So please… PLEASE… I implore you: drop the battle to get Apple to open up their App Store. Instead, work on getting Apple to open up their device (and, in the case of desktop Mac OS X, to maintain the reasonable open-ness of their MacBook line of computers). Until users are able to install whatever software they wish on the hardware that they own we will not truly have won back any of our freedom.”
+* I encourage you to watch saurik’s 13 minute TED talk. He makes an insightful presentation from an intriguing point of view.
+* What do you think about what he had to say? Do you agree with what he says; that the OS needs to be opened up instead of simply the App Store?
+

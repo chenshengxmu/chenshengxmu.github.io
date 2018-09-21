@@ -1,0 +1,19 @@
+---
+layout: post
+title: Keyfault eliminates frustrating iOS keyboard behavior
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/Keyfault.jpg)
+* Instead of simply describing this tweak, I’ll start by telling you a personal story. Like Sebastien’s incessancy over ShareLock,  I too had a tweak burning a hole in my brain at JailbreakCon. However, unlike Sebastien, I was able to convince my new favorite jailbreak dev, Filippo Bigarella, to code mine at the dinner table that fateful Friday night. Now, perhaps Filippo felt some form of quid pro quo harassment, considering I let him bunk with me at the hotel across from the convention center, but that is of no consequence.
+* Ever since I have used the emoji keyboard, I have been frustrated with the way default keyboards are selected when tapping a typable field. This behavior is also the same on language keyboards, but since I am an average American, I only know two languages, English and emoji.
+* Fixing this long annoyance of mine, Keyfault returns the active keyboard to the default language keyboard as determined in settings…
+* For example, after sending loving heart emojis to my wife in Messages.app, I immediately close the app. The next time I want to use the keyboard for anything, like compose a tweet, the emoji keyboard shows up again by default. How frustrating?!
+* With Keyfault, after I use the emoji keyboard and switch apps, the keyboard that shows up will be American English, which is the default, first position keyboard in Settings.app. Similarly, if you use an English keyboard by default but the French keyboard is also activated, when you type using the French keyboard, the next time keyboard is brought up, it will default to the primary English version.
+* The tweak solves a problem most users accept and never really pay much attention to. Once I noticed the inefficiency, I hated manually switching between keyboards. Thus, my quest to have my tweak created during JailbreakCon began. Once Sebastien, Filippo and I traveled to Apple HQ, basically had lunch with Jony Ive, and decided to split a hotel room, it was time to begin begging for my tweak.
+* Filippo working on Keyfault, Surenix finishing Auki, Ryan Petrich adding to his JailbreakCon presentation (left to right)
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/IMG_1989.jpg)
+* That night, at the dinner table within the depths of the jailbreak house, Filippo sat down to make the magic happen. After declaring keyboard tweaks were not his forte, Filippo still knocked out Keyfault in about 20 minutes. Ryan Petrich is to thank for the handy name “Keyfault,” which “defaults” the keyboard. My desire to have the tweak coded began about six months ago. However my endless twitter ramblings resulted no true success.
+* As the tweak has only been tested by Filippo and me, it is still considered beta. Consequently, you will only find Keyfault on his personal repo. In Cydia, go to the Manage tab, then tap “sources.” Tap “edit” in the top right corner, then “Add” in the top left. When prompted enter the following: http://filippobiga.com/repo/ Then, “Add Source.” You will see some lines of code as the repo is added. Finally, tap the new repo name and a list of available packages will be shown. Keyfault is available for free.
+* Filippo and I receiving sage advice from Ryan Petrich over the name “Keyfault”
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/Jim-and-Filippo.jpg)
+* A big thank you goes out to Filippo for making my personal tweak! After months of searching, Filippo came to the rescue. Make sure to catch up with him on Twitter @FilippoBiga. You should recognize his name from universally popular and highly acclaimed tweaks including Springtomize 3, CleverPin, and Sebastien’s personal tweak, SkipLock.
+

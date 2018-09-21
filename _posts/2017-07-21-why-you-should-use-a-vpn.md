@@ -1,0 +1,29 @@
+---
+layout: post
+title: Why you should use a VPN
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2017/07/vpnupdate.jpg)
+* Internet security and online privacy are becoming increasingly important topics as hacking methodologies grow more and more sophisticated. Even the government recently repealed regulations that blocked Internet Service Providers (ISPs) from selling your browsing data to advertisers without your consent. Feeling exposed yet? Given these recent events, it’s not surprising that VPNs are trending as one of the best methodologies to protect users online.
+* What exactly is a VPN? 
+* VPN stands for Virtual Private Network — think of it as your own private, shielded corner of what’s otherwise a very public space (the Internet). VPNs work as a group of private networks linked to a public network, requiring authentication before a user can access the Internet. In turn, anyone trying to sniff your traffic or hack your private info will be left with encrypted gibberish.
+* Why do you need a VPN?
+* VPNs are more essential now than ever before due to the recent decision by Congress to allow major Internet providers like AT&T, Comcast, from taking an incredibly personal dossier of browsing data and selling to advertisers, without user consent. Imagine if all the physical locations of spaces you’ve visited, places you’ve lived, financial data, personal leanings like political affiliation and sexual orientation could be bundled up and sold to companies for the use of aggressively intimate advertising.
+* There was an immediate public backlash, both by citizens and politicians stating it was a violation of privacy — but so far, the measure to deregulate the Internet and advertising still stands.
+* Why do you need a VPN as an iPhone user?
+* Benefit 1: You get an additional layer of Internet privacy. 
+* You could need to keep your browsing data private for a good number of reasons: maybe you work in a field like healthcare, education or law, which requires you to maintain confidentiality between patients, students or clients. There could be sensitive information you’ve looked up in relation to a case. Maybe you’re someone who likes to download media off the Internet, or you just like to maintain your overall sense of privacy.
+* If you tend to use a public Wi-Fi connection on your phone — for example, when you travel or when you’re hanging out in your favorite coffeeshop, your connection is particularly vulnerable to attacks from malicious hackers or data harvesters.
+* Benefit 2: You can choose your server location. 
+* Any great VPN employs a multitude of servers located across the world for redundancy and security. And if you’ve selected a high quality VPN service, you should have access to hundreds of servers around the world, that you can connect to at any point.
+* What does that mean? Since a VPN is basically the middleman between where you are sending data to and from, a website will pick up the location based on the server location rather than the actual location of your iPhone. That means no one needs to know your actual location — just the location you choose to share.
+* There are many benefits to choosing your server location,  including bypassing any geoblocked content. This is more of a nuisance than anything else, but movie buffs and Game of Throne fanatics will get it. When traveling, content (especially video content) is restricted on streaming services in a way that it wouldn’t be if you were at home. That’s because services like Netflix or Hulu have different content contracts with different geographical locations, and oftentimes restrict access content based on location.
+* Otherwise, you could circumvent any government Internet censorship — for example, countries like China and Russia have stringent firewalls preventing citizens from accessing outside information. And even more unexpectedly, some retailers are known to show online visitors two different prices on the same product due to their location.
+* Benefit 3: Surf the web with total peace of mind, even outside of your home or office. 
+* The free Wi-Fi at coffee shops and hotels can be great, but these unencrypted, unprotected Internet connections leave those who connect to them vulnerable. Without knowing, you could have your login information to bank accounts, social media accounts, emails and more intercepted on a public Wi-Fi connection via keyloggers. That’s especially true if you’re traveling this summer, when you may be using a public Wi-Fi even more frequently than you usually would to spare data.
+* Luckily, a VPN encrypts the data that is sent between you and the Internet server. And for those nefarious individuals trying to intercept your data, your VPN will encrypt your data, rendering it totally useless to them.
+* Be safe, not sorry.
+* We live in a deeply digitally connected world, and not getting on the Internet for everything from researching a new recipe to chatting with a friend is nearly impossible these days — rather than completely changing your browsing habits, it might be preferable to simply add on an additional layer of security with a VPN.
+* If you’re looking for a reliable, well-regarded service, check out VPN Unlimited: Lifetime Subscription. VPN Unlimited protects both your Wi-Fi and cellular connections, helping secure your online activity and bypass web content restrictions. They employ more than 1,000 servers worldwide, with a growing number in 70+ locations in 50+ countries.
+* Get protection for five devices for $49.99, or 90% off the original price.
+* This deal is brought to you by StackCommerce, and although iDB handpicks each deal posted on the site, this does not constitute editorial endorsement. As we earn a small portion of all sales, you are effectively supporting iDB every time you purchase one of these deals. 
+

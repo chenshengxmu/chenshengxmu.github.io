@@ -1,0 +1,22 @@
+---
+layout: post
+title: The many things Apple Watch can do on its own when connected to Wi-Fi
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2015/05/Disconnected-Apple-Watch.jpg)
+* iPhone and Apple Watch work hand in hand, and while the former can be used on its own without losing any of its abilities, the latter will need to be paired with an iPhone in order to be used to its fullest. With that said, Apple Watch doesn’t always need to be paired to an iPhone to be useful, as there are many things the wearable can do on its own. In a previous post, we highlighted a few things Apple Watch can do without its paired iPhone, including tracking workouts, playing music, being used to make purchases with Apple Pay, and more.
+* One of the most underrated features of Apple Watch is its ability to connect to known Wi-Fi networks, independently of its paired iPhone. It means that if you’ve ever been connected to a specific Wi-Fi network on your iPhone and Apple Watch, your Apple Watch will remember that network, even if its paired iPhone is nowhere nearby, giving you limited access to the web.
+* In this post, I will show you a few things you can do on Apple Watch when it is connected to a known Wi-Fi network, even if it’s currently not paired with your iPhone. Granted, these are mostly known Siri-based queries, but to my surprise, you can do more than just inquire about the weather.
+* To my biggest surprise, Apple Watch can send and receive messages even if your iPhone is not in either Bluetooth or Wi-Fi range. This means that you could go to your friend’s house without your iPhone, and assuming you connected to that Wi-Fi network in the past, you will still be able to send and/or receive messages. To me, this is quite amazing as it gives you much more freedom than we might have first thought.
+* Knowing that, I assumed FaceTime audio calls might actually work as well, but unfortunately, those, as long as regular phone calls, still need your iPhone in range. So no calls, but messages are a go!
+* Not surprisingly, if you’re on a known Wi-Fi network even though your paired iPhone might not be in range, you can still create sketches to be sent along with Digital Touches. You can also receive those.
+* Even if your iPhone is not around, you can create reminders directly from your Apple Watch. It’s interesting to note that these reminders will be stored locally, and won’t be pushed to iCloud until your Apple Watch is paired with your iPhone again. This means that until your Apple Watch and iPhone are connected, your reminders won’t be pushed to your other devices, such as iPad, Mac, etc.
+* The good news is that even though these reminders aren’t pushed to iCloud until you connect with your iPhone again, Apple Watch will still remind you in due time, assuming you have set a date and time when creating your reminder.
+* For example, Apple Watch will remind you if you use the following command: “remind me to go for a walk in 30 minutes.” However, it will not remind you for reminders that don’t have a time stamp, such as “remind me to do the dishes.”
+* Calendar events created on Apple Watch without a paired iPhone while being on a known Wi-Fi network work exactly the same as reminders. This means that your events will be created and stored locally, and you will be able to see them from your Calendar app on Apple Watch. However, these events won’t be pushed to iCloud and your other devices until you pair Apple Watch and iPhone again.
+* You can ask Siri many questions about many topics, and in many cases, she will be able to provide an answer, even if your Apple Watch is not currently paired with your iPhone.
+* As long as your Apple Watch is on Wi-Fi, you are able to inquire about the weather in many different ways, for various locations. You can use queries such as:
+* Even if your iPhone is nowhere nearby, you can still use your Apple Watch as a remote for your Apple TV. Of course, you will have to set it up on Apple TV first, but once this is done, you won’t need your iPhone in range to be able to control what’s on your TV screen.
+* This shows that Apple Watch is a much more capable device than one might have thought, even if it’s not currently paired to its an iPhone.
+* If you’re interested to learn more about what Apple Watch can do on its own, read Christian’s post titled Seven cool things Apple Watch can do without its paired iPhone.
+* More about Apple Watch?
+

@@ -1,0 +1,45 @@
+---
+layout: post
+title: A roundup of new and updated jailbreak tweaks for iOS 8
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/11/Cydia-Home-iPhone-6.jpg)
+* We’ve now been had a jailbreak for iOS 8 for several weeks and while while not all tweaks have been updated yet for Apple’s latest mobile software, many of them already have. Even better, we’ve started to see some brand new jailbreak tweaks, some of them even taking advantage of the new software and hardware features found in iPhone 6 and iPhone 6 Plus.
+* While developers still have plenty of work to do updating their old tweaks, we can already enjoy many of them. If you’re not sure what’s new and what’s been updated in Cydia recently, we have a roundup that should bring you up to speed.
+* Aeternum – Brings the Apple Watch UI to iPhone ($2.99)
+* Asos – an app locker that can be used with Touch ID ($0.99)
+* Badgomizer – customize app icon badges ($1.49)
+* CyDelete8 – delete Cydia apps directly from the Springboard (free)
+* Dotter – change the behavior of new dots (free)
+* Instagram++ – Save Instagram photos and videos, and customize the app a bit (free)
+* MyReachability – move the Reachability view around (free)
+* NevaGonnaBuy – Hides the Buy button from when listening to iTunes Radio (free)
+* NoLiveClock – prevents the Clock app icon to show current time (free)
+* Roomy – makes Lock screen notifications bigger for larger displays (free)
+* SendDelay – add a delay to messages being sent (free)
+* SpinSettings – an animated Settings icon (free)
+* TransparentVolume8 – adjust the transparency of the volume HUD (free)
+* Apex 2 – an original way to organize and access related apps ($2.99)
+* Aria – considerably improves the Music app ($1.99)
+* BackupIt – app icons layout backup tool ($1.00)
+* Bridge – Import music and videos directly to your iOS device without the need of iTunes ($1.99)
+* CallBar for iOS 8 – an unobtrusive way to be notified about incoming calls ($3.99)
+* ChargingHelper for iOS 8 – shows how much longer you have to charge your device for  and notifies you when it is fully charged (free)
+* Chrome Downloader+ – a download manager for Chrome for iOS ($3.00)
+* Gearboy – a Game Boy / Game Boy Color emulator (free)
+* HiddenCallLog7 – hide the recent calls in Phone app (free)
+* IfFound 2 – Adds a button on Lock screen with owner information in case the device is lost ($0.99)
+* InstaLauncher – an app launcher ($1.99)
+* IntelliScreenX 8 – supercharge Notification Center ($9.99)
+* NC Customizer – customize the blur effect and colors of Notification Center ($0.99)
+* NoDelay64 – remove the delay when waking phone up (free)
+* OpenOther for iOS 8 – select what app is launched when you tap on a specific icon (free)
+* PdaNet – a tethering app (free trial)
+* PrivateSMS7 – easily hide the conversations in the Messages app (free)
+* Protube HD – a feature rich YouTube app ($1.99)
+* SleekPhone – add transparency to the dialer (free)
+* SmartBatteryPercentage – only show the battery percentage when needed (free)
+* Snapper – pin screenshots on your screen ($0.99)
+* TetherStatus – replace the tether status bar with a status bar icon (free)
+* UIRotation8 – rotate your device’s screen with a gesture (free)
+* From earlier this week: 30 new and updated jailbreak tweaks worth checking out
+

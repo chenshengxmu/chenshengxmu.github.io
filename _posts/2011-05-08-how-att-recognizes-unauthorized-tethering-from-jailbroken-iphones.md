@@ -1,0 +1,18 @@
+---
+layout: post
+title: How AT&T Recognizes Unauthorized Tethering from Jailbroken iPhones
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2011/05/MyWi-Promo-Banner-e1304557847431.jpeg)
+* In case you didn’t know, AT&T has started cracking down on unauthorized tethering, specifically for jailbroken iPhones on a grandfathered unlimited data plan.
+* If you’ve gotten AT&T’s “text of death” relating to your tethering usage, you’re probably utilizing free tethering through jailbreak apps like MyWi. Understandably, AT&T doesn’t want its users to have a free broadband connection through tethering hacks, and the carrier has started moving users over to its DataPro plan for $45 a month.
+* So, how is AT&T targeting unauthorized tethering on its network?
+* Android Police,
+* “Jailbroken iPhones typically use the same tethering technique as a standard iPhone, the one that’s already present in iOS. This method exposes tethering activity quite readily, because the iPhone, when in tethering mode, sends traffic through an alternate APN (AT&T access point/router) for the express purpose of identifying the traffic as tethered data. This makes it extremely easy for AT&T to identify whether or not an iOS device is utilizing tethering, and just how much of their data is consumed via tethering.
+* Some tethering applications for iOS make use of alternative methods and route tethered traffic through the phone’s normal data APN, but by and large, most jailbreakers stick with the stock application because it’s easy to use and doesn’t require any complicated setup. In fact, many iPhone users jailbreak for the sole purpose of avoiding AT&T’s tethering fees (for why, see next section). These are the people AT&T’s is going after.”
+* Because MyWi, the most popular tethering alternative for jailbreakers, uses the same APN as the standard tethering system for iOS, AT&T can see a jailbroken iPhone’s tethering activity very easily. AT&T has been contacting its list of unauthorized tethering users in waves, and there are no signs that the warnings from AT&T will stop anytime soon.
+* The people getting targeted by AT&T are obviously those with a grandfathered unlimited data plan. If you’re fortunate enough to still have an unlimited data for your iPhone, you can tether till your heart’s content through methods like MyWi and never have to worry about going over on your bill. AT&T doesn’t like that jailbreakers are able circumvent their $45 system for tethering.
+* There are other options for tethering in Cydia. PdaNet is an alternative to MyWi that has a new option to “hide” your tethering usage, assumedly redirecting you to the regular APN that the iPhone uses for data. If PdaNet does indeed mask your data from being sent through AT&T’s tethering APN, then AT&T should have no way of distinguishing unauthorized tethering data from regular data.
+* TetherMe is another popular tethering solution for jailbreakers that hasn’t gotten much attention in this whole AT&T debacle. From what we’re hearing, TetherMe users are reporting that they haven’t gotten contacted from AT&T about any sort of unauthorized tethering. However, this doesn’t mean that TetherMe users will not be contacted by AT&T soon.
+* As of right now, it seems that the updated version of PdaNet is your best bet for safe, free tethering on a jailbroken iPhone. Although AT&T does mainly use APNs to distinguish different types of data, your carrier could also be able to sniff data packets to see different types of traffic.
+* What’s been your experience with this tethering issue on AT&T? Have you been contacted by AT&T about unauthorized tethering? What method do you use for tethering on your jailbroken iPhone? Share your thoughts and stories with us below!
+

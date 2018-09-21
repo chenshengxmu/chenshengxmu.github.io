@@ -1,0 +1,19 @@
+---
+layout: post
+title: AlternateControls brings Android-inspired software buttons to iOS
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/AlternateControls-Featured.jpg)
+* Although it might seem a little like blasphemy, a new jailbreak tweak is taking the risk and bringing Android trademarked software controls to iOS. That means that the famed back, home, and menu buttons are now available on your iPhone. Living up to its name, AlternateControls provides a new way to control your iOS device without using the Home button. But there’s a bit more to the story than what appears on the surface. Watch our full walkthrough video to see what I mean.
+* Once AlternateControls is installed, you’ll find a preference panel for the tweak that contains several switches. Besides the standard kill-switch toggle, you can switch up the appearance of AlternateControls via three options: Show Touches, Use Modern Icons, and Invert Colors. Though most of these options are self explanatory, the Use Modern Icons option stands out to me, because it allows you to toggle between the classic Android-inspired software buttons, and the new Android L-inspired software buttons.
+* Next on the list is Activation methods. You can use a simple swipe gesture from the bottom of the screen, or you can opt for an Activator gesture, which provides much more flexibility. Of course, I opt to use a double tap on the status bar gesture.
+![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/AlternateControls-Settings.png)
+* There are several more options to be found in the tweak’s preferences, such as how the software buttons are dismissed, and haptic feedback. The last option, an inclusion that may just be the tweak’s most redeeming feature, is a toggle that allows you to use the software buttons to instantly toggle between the two most recently used apps.
+* Once you have activated the AlternateControls interface, you can use the software buttons to duplicate Home button functionality. The right-most button invokes the App Switcher, the middle button mimics a single press of the Home button to get to the Home screen, and the left most button changes depending on how you have the tweak configured.
+![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/AlternateControls-Settings-2.png)
+*  
+* You can tap and hold on the left-most button to bring up a list of recently used tweaks, or, if you have the Toggle Two Apps option enabled in the settings, use it to switch between two apps. This switching function can be useful for gathering information between two apps, sort of like a pseudo-multitasking mode. You can actually use a tap and hold gesture on the right-most button to enable or disable the Toggle Two Apps mode as well.
+* If you keep the toggle option off, the left-most button performs like a back button, basically backtracking through all of the recently used apps until it reaches a stopping point. I should mention that you can also tap and hold on the middle (Home) button to invoke Siri, though you can’t use a double-tap gesture on that same button to open the App Switcher (odd).
+![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/AlternateControls.jpg)
+* I think AlternateControls could be a good idea for those of you with malfunctioning Home buttons, or for those of you who just want to try something new. Ultimately, the only truly compelling feature about this tweak is the ability to quickly toggle between two apps. That functionality, if I’m not mistaken, is not possible with many jailbreak tweaks on Cydia as it is implemented here.
+* AlternateControls is available right now on the BigBoss repo for $0.99. Yes, I know, it is a bit silly to have Android-inspired software controls on the iPhone, but that’s what makes jailbreaking so interesting. You just never know what may pop up on the Cydia store.
+

@@ -1,0 +1,28 @@
+---
+layout: post
+title: The Nightmare Cooperative is a roguelike and puzzle game combined
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/Nightmare-Cooperative-3.jpeg)
+* There is this type of puzzle game that requires players to move characters around on the board in unison in order to get everyone to the correct end point. PAC-MAN Friends uses this type of puzzle movement. It’s fairly complex and interesting, to say the least.
+* The Nightmare Cooperative is a roguelike game that uses that puzzle movement aspect to keep your party on their toes. You can use your mage to pick up that potion, but watch where your warrior is going or he may fall into the lava pit at the same time. We’ve got a full game review of The Nightmare Cooperative for you today.
+* On the surface, this game looks like a typical top-down roguelike. However, it is much more creative than just a series of pixels on the screen. Each character is crafted with a unique and stylistic look. It’s like playing a piece of art you’d see in Juxtapose or something. The graphics are fantasy, but minimalistic all at once.
+* Each level of the dungeon consists of a number of chests, potions, health points, and monsters. The dungeons are randomly generated and you’ll never enter the same one twice in a game.
+* Players move around by swiping up, down, left and right. When you swipe the screen, the adventurer will move one square. The goal is to loot as many chests of gold as possible and then get out of the room.
+* There are plenty of obstacles to keep you from easily sweeping through a room including pillars, fire-shooting towers, and slippery ice blocks. Plus, monsters keep popping up all over the place and pits of lava or acid will open up suddenly. It’s a pretty perilous dungeon.
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/Nightmare-Cooperative-2.jpeg)
+* The roguelike design of this game has players looting every possible nook of each level of the dungeon. On any given level there may be three or more chests. As soon as you open a chest, you unleash a monster or flame tower. So, the more chests you loot, the more monsters you bring forth.
+* Monsters don’t only appear after you’ve looted a chest. They will appear at random location in the dungeon after a certain number of movements. So, if you think you’re being sneaky by not opening a chest in order to avoid monsters, you’re out of luck.
+* Parts of the floor also open up to reveal lava or acid. You won’t die just by walking into a pit, but you will lose a health point. Your party each has four health points. They also have three slots for potion, which are used to trigger attacks from a distance.
+* To kill a monster, you can bump into it. However, bumping into a monster will also hurt you. Your adventurers only have four health points and monsters take two bumps to die. You will also only be able to collect one or two additional health points on each dungeon, so avoiding monsters is a better strategy.
+* If you are unable to run from a monster and you have a potion, use that instead. Each adventurer has a different ability and range for his distance weapon. For example, the archer can shoot an arrow straight ahead and the mage attacks diagonally.
+* The puzzle design of the game has players trying to plan out how to move multiple adventures at once. When you swipe to move, all characters move the same direction at the same time. This might give one an attack advantage, but push another into an acid pit. Every move you make affects all characters on the board. Strategy is important to getting your guys from one dungeon to the next. However, as long as you have at least one remaining adventurer, you won’t die. New adventurers show up in each new dungeon level.
+* The game is perma-death, which means that when you die, you lose everything and have to start over. All of the gold you’ve looted and characters you’ve unlocked are gone and you must start from scratch. Fans of roguelike games will appreciate this aspect as it is one of the key features of the genre.
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/Nightmare-Cooperative-1.jpeg)
+* I love the way this game looks. It takes place in a fantasy fiction dungeon with monsters and magicians. However, it has a highly stylized art design that gives it a hip feel.
+* The game plays smoothly and offers a rich challenge without being too hard. I managed to make it to the fourth world, but never past the first dungeon in it.
+* I also love that the developers combined a dungeon crawl with a movement puzzle game. Very unique for the genre.
+* Sometimes, the game isn’t as responsive as I’d like. I’ll have to swipe multiple times to get the adventurers to move at all. It doesn’t affect the game play, though. It is a minor issue.
+* The Nightmare Cooperative costs $3.99. Frankly, I was a bit surprised at the price. The game is very simple, even though it is a lot of fun. It seems better suited to be priced at $1.99. I completely love every aspect of the game though, and think the price is worth it. The replay value is incredibly high since no to games are ever alike and you will want to play it again and again to try to achieve the highest score.
+* Fans of roguelike games will flock to this fun little title. It looks great, plays great, and has a unique twist that others in the genre don’t have. If you’ve never played a roguelike title before, this one is appealing for its puzzle movement mechanics. However, the four-dollar price tag might make some shy away. The game is available on the iPhone, iPad, and iPod touch. Download it in the App Store today.
+* This reminds me a bit of Sword of Fargoal. Another fun roguelike game I enjoy is Dungelot 2.
+

@@ -1,0 +1,18 @@
+---
+layout: post
+title: LittleBrother- add iPhone 6 Plus-inspired scaling and a landscape Home screen to older iPhones
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/11/LittleBrother-Landscape-Home-screen.png)
+* And like clockwork, Ryan Petrich is at it again. His first headlining iOS 8 compatible tweak is called LittleBrother, and it seeks to add features enjoyed on Apple’s latest iPhone hardware to older devices like the iPhone 5 and iPhone 5s.
+* LittleBrother allows users to essentially do two things: adjust the display zoom scaling like the iPhone 6 and the iPhone 6 Plus, and enable landscape mode features on the Home screen and even Lock screen.
+* I’ve been playing around with this new tweak for several hours, and I’m convinced that many iPhone 5 and 5s users are going to love it. It’s not without its shortcomings, but the promise is definitely there. Have a look at our full 60fps video walkthrough inside for more details.
+* After installing LittleBrother, you’ll find a new preference panel dedicated to the tweak in the stock Settings app. LittleBrother contains three display zoom settings for you to enjoy, and these settings influence how much screen real estate is available on the Home screen and within compatible apps.
+* The three settings are large, which looks like the normal iPhone 5s scaling; medium, which is the best setting in my opinion; and small, a setting with potential, but with problems as well. All in all, the medium display zoom setting is the best choice for most users. It provides adequate extra real estate, and its devoid of some of the glitches induced by the small setting.
+* Like the Upscale tweak that we reviewed yesterday, the whole point of LittleBrother is to provide users with more usable space on screen. This means that you’ll see more panels on screen at any given time within the Settings app, more photo previews in the Photos app, etc. The scaling doesn’t play nice with every app, though. For example, the App Store app maintains its default scaling regardless of what display zoom setting you use.
+* The tweak’s other flagship feature, the landscape toggles for the Home and Lock screen, face similar issues. Yes, the Home screen is nice to view in landscape mode, but I find it to be somewhat frustrating since many default apps don’t play nice with landscape mode on the iPhone. To be fair, this same issue affects the iPhone 6 Plus out of the box, but to a somewhat lesser degree. The Lock screen landscape mode suffers from similar problems and a few more glitches that make it more of a “hey, look what I can do” thing more than a real feature.
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/11/LittleBrother-Landscape-Lock-Screen.png)
+* But the real meat and potatoes of LittleBrother lie with its zooming features, and that’s where it ultimately succeeds. If you stick with the medium scaling setting, especially on the iPhone 5 and iPhone 5s, you’ll be happy with the results.
+* I’m also confident that Ryan Petrich will continue to support this tweak for a very long time, so there’s that. This is a 1.0 release, and he’ll no doubt address many of the concerns laid out in this post and video. With that in mind, it’s not hard to recommend LittleBrother. It’s a great way to scale your iPhone, and features preferences that rival the ease and simplicity of something Cupertino would do itself.
+* You can find LittleBrother on Cydia’s BigBoss repo for $1.99. Check it out, and share your thoughts about the tweak down below in the comments.
+* Also, be sure to check out Upscale if you just want to test out zoom scaling or if you’re looking for a free, albeit slightly less polished, alternative.
+

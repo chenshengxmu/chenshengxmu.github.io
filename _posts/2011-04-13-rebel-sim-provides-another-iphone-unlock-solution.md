@@ -1,0 +1,17 @@
+---
+layout: post
+title: Rebel SIM Provides Another iPhone Unlock Solution
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/Rebel-SIM-Unlock.jpg)
+* With the iPhone Dev Team’s inability to find a usable baseband exploit for the iPhone 4 and release a stable unlock for basebands 2.10.04, 3.10.01, and the newer 4.10.01, several alternate iPhone 4 unlock solutions have sprouted.
+* The first option was the Gevey SIM Interposer. Similar to a Turbo SIM, the Gevey SIM Interposer worked by adding a EEPROM chip to your SIM card. You would then call 112 from the Emergency Dialer screen. Once the call connected you would hang up then toggle Airport mode on and off. When the network connection resumed, your iPhone 4 would be unlocked.
+* This method would provide a “tethered” unlock, meaning that after you reboot your iPhone, you would need to repeat the unlock process. While the legality of the unlock solution was questionable at first, Dev Team member, MuscleNerd, confirmed the unlock method was illegal.
+* Another unconfirmed and more recent method for unlocking the iPhone 4 is CutYourSim’s permanent factory unlock. The fairly expensive method costs $169.99 and claims to permanently unlock your iPhone on any baseband, without the need to jailbreak your iPhone. The process is apparently accomplished via whitelisting the iPhone’s IMEI — the number used by GSM carriers to identify valid devices on their network from Apple’s database. The unlock process takes anywhere from 2-5 days and is achieved by simply syncing your iPhone with iTunes after you receive a confirmation email from CutYourSim.
+* The latest method for unlocking your iPhone is similar to the Gevey SIM Interposer. Rebel’s Micro SIM unlocks iPhone 4 with basebands 1.59.00, 02.10.04, 03:10.01, 04.10.01, running iOS 4, iOS 4.1, 4.2, 4.2.1, 4.3 & 4.3.1 without requiring you to jailbreak your device. The Rebel Micro SIM comes in two design options, Rebel Pro Micro SIM Card, and Rebel Lite Micro SIM Card:
+* Rebel Pro Micro Sim Card is supplied with its own custom iPhone 4 Sim tray so the IC stays inside the iPhone 4 and is our Flagship Product.
+* Rebel Lite Micro Sim Card does not require a special iPhone Sim tray and the IC is located on the outside of the iPhone 4 when installed and is designed for Budget users.
+* The advantage of Rebel Pro is that you get an adapter to update the SIM Software to unlock it in future or if the company makes any changes to the product.
+* What sets the Rebel Micro SIM apart from Gevey’s SIM Interposer is that Rebel claims their product is an “untethered unlock“, meaning that you do not have to repeat the unlock process each time you reboot or power off your iPhone (like you would have to with the Gevey SIM). Additionally, the Rebel Micro SIM unlock is a little cheaper as well. While the Gevey SIM costs $70, the Rebel Pro Micro Sim Card costs 40 GBP (about $65 USD), and the Rebel Lite Micro Sim costs 30 GBP (about $48 USD). Additionally, it is still unknown whether this method of unlocking your iPhone is legal or not. So we would not recommend this method.
+* If you’re tired of waiting for the Dev Team to release an unlock, and can’t wait anymore, we would suggest CutYourSim’s permanent factory unlock method.
+* Anyone try the new Rebel Sim card unlock? Are you going to try one of three unlock methods above, or will you wait for the iPhone Dev Team to release their unlock?
+

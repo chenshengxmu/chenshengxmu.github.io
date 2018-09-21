@@ -1,0 +1,20 @@
+---
+layout: post
+title: Delta iOS emulator beta- first impressions
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2017/05/delta-header-new.png)
+* Today saw the start of the beta program for the long-awaited iOS emulator from developer Riley Testut, Delta. Capable of emulating a wide range of vintage game consoles, this spiritual successor to GBA4iOS boasts a broader feature-set and a polished UI. We managed to get one of the prized places on the Delta beta testing program, and can give you an early glimpse of how it’s shaping up.
+* First off, I have to say I’m very impressed with the stage of development which the project is at, especially as it’s supposedly a first beta build. The interface is slick and easily navigable, and all of the included functionality seems to work already. It seems the developer has chosen to leave out unfinished features entirely until they’re ready, rather than having non-functional menu items filling the app at this early stage.
+* At the moment the app only supports emulation for the Game Boy Advance and Super Nintendo, but will eventually include Game Boy, Game Boy Colour, Nintendo 64, and more. Here I am running the two currently available emulators on Delta:
+![img](http://media.idownloadblog.com/wp-content/uploads/2016/12/IMG_0013.jpg)
+* The gameplay is smooth and runs at the correct speed, indistinguishable (to me at least) from running it on the original hardware. Below you can see the in-game menu, which is accessible at any point during play:
+![img](http://media.idownloadblog.com/wp-content/uploads/2016/12/IMG_0014.jpg)
+* This is where you can find the emulator-specific features, which go well beyond the functionality of the original consoles. There is a reliable save/load state system, perfect for difficult passages of gameplay, as well as a “Fast Forward” feature which runs the emulator at double-speed (if a normal play through is too pedestrian for your liking).
+* Rounding out the emulator features in this first beta are “Sustain Buttons”, to mimic human input and save you some effort, and a cheat code entry page. All of these worked perfectly in my testing, with the exception of the “Cheat Codes” page which I have not yet got round to putting through its paces.
+* Games can be loaded in through iTunes or iCloud Drive, and the app features a nifty lookup system which loads a cover image for them, to keep your library looking good. The settings page allows you to swap the button skins for the consoles (though only the defaults are included out of the box), and allows for the connection of up to four inputs:
+![img](http://media.idownloadblog.com/wp-content/uploads/2016/12/IMG_0010.jpg)
+* That just about does it for the contents of the app at this time. I’ll be able to give more feedback on how consistently the emulation runs when I’ve tested it some more, but so far it has been impressive and bug-free, and the dark, well thought-out UI really brings it the fore. I especially like the juxtaposition of the glossy touchscreen menus with the sight of your retro favourites framed within them; it’s tastefully done and brings the games into the modern iOS design language, without forgetting that they are the focus.
+* All in all, this first beta build constitutes a bright start to the Delta project. It’s fast, reliable, and good-looking, and will only get more powerful as more emulation options make their way in. Further play-testing is required to see if there are any lurking bugs, but I’ll be keeping you up to date whenever there is a major milestone in the development, and for now it seems that GBA4iOS has a worthy descendant in Delta.
+* With interest in the project clearly very high (the beta received 10,165 applications for only 80 general and 40 press places), I’m sure many will be impatiently awaiting Delta’s release. This is (very vaguely) slated to be sometime in 2017.
+* Have you had a chance to test out Delta yet? Are you looking forward to having an emulator up and running on iOS once more? Let me know below.
+

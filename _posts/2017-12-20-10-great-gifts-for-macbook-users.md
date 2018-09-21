@@ -1,0 +1,29 @@
+---
+layout: post
+title: 10 great gifts for MacBook users
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2016/12/Gift-ideas-for-macbook-users.png)
+* Today’s entry into our 2017 Holiday Gift Guide focuses on MacBook accessories. Whether the person you’re shopping for has a MacBook Air, Pro or Retina MacBook, you’re bound to find something for them in the curated list below. But you better get to shopping, Christmas is less than a week away!
+![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/rain.png)
+* Whether you use your laptop at a desk, or on the go, everyone can use a solid stand. This year I’m recommending the iLevel 2 from Rain Design. It’s made of anodized aluminum to match Apple’s hardware, you can easily adjust its height, and it’s compatible with virtually any size and brand of laptop. The elevated design will help improve your poster and relieve eye strain, and rubber pads protect your MacBook from scratches.
+![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/BookArc-Scenery-Space-Gray.jpg)
+* While the iLevel 2 is a great stand, for those that tend to use their MacBook with an external monitor more often than not, I’d recommend the BookArc from Twelve South. It holds your laptop closed (or what Apple calls, closed-clamshell mode), in a vertical position, helping keep the internals cool, its ports exposed, and your desk looking sharp. It’s made from aluminum and has rubber inserts to fit various MacBook models.
+![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/keyboard-1.png)
+* Another great gift idea for MacBook owners is an external keyboard. They can increase productivity with more keys and shortcuts and help with your posture while working, providing you also elevate your laptop with a stand. To keep those precious ports free, get a Bluetooth keyboard, and I really like this one from Logitech. It has a full-sized number pad, incredible battery life, and it can switch between up to 3 devices with a single tap.
+![img](http://media.idownloadblog.com/wp-content/uploads/2016/12/mx-master.png)
+* For similar reasons, a good mouse also makes a great gift for any MacBook owner. Some folks will suggest that you go with something more portable, but I’m just going to recommend you get my current favorite: the Logitech MX Master. It’s very comfortable, with several customizable buttons, and it can be used while charging. There is a newer, more expensive version of this mouse out, but (to me) the added cost isn’t worth it.
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/Twelve-South-Rutledge-BookBook-image-010.jpg)
+* If the person you’re shopping for is more of an on-the-go MacBook user, consider getting them a carrying case. Now usually with subjective items like bags and covers, I recommend going very minimal—slim, practical, solid colors. But if you want your gift to stand out a bit more, check out the Rutledge BookBook cover from Twelve South. It looks like a beautiful Artisan leather book, but it’s really a well-made carrying case and lap desk.
+![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/hex-bag.png)
+* If they need to tote around more than a laptop, consider getting them a bag. Again I recommend going very minimal here, but that would make for a boring gift guide. My wildcard laptop bag pick this year is the X ADLC from Hex. The beautiful quilted design is a limited edition collab. with artist Aaron De La Cruz, the padded compartment fits up to 17-inch laptops, and it easily converts from a backpack to a briefcase.
+![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/wd.png)
+* Up next we have the My Passport external storage from Western Digital. This is the 512gb SSD version, meaning it’s a solid state drive versus your normal hard drive. Yes, portable SSDs are more expensive than their hard drive counterparts, but they are also faster and less susceptible to damage while in transit. This one from WD is compatible with virtually all USB ports, has built-in encryption, and it looks good to boot.
+![img](http://media.idownloadblog.com/wp-content/uploads/2017/07/Satechi-Type-C-Pro-Hub-Adapter-cables.jpg)
+* This one should be a no-brainer. All of the latest MacBook and MacBook Pro models lack USB-A ports, SD card readers and have limited USB-C ports. A hub can instantly add these things to your laptop by simply plugging it in, and the best one I’ve tried thus far is this one from Satechi. It plugs into two of your USB-C ports and features an HDMI port, SD card reader, USB-C port, pass-through charging port and two USB-A ports.
+![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/lap.jpg)
+* Trying to use your MacBook while sitting on the couch, lying in bed or while traveling can be uncomfortable. That’s where a lap desk comes in. There are countless options out there, but we like the All Purpose Lapdesk from Sofia + Sam. It has a cool and comfortable design, a large sturdy work surface that supports up to 17-inch laptops, a built-in wrist rest and a handle for additional portability.
+![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/marshall.png)
+* A solid pair of headphones always make for an awesome gift, and this year I’m really liking the Monitor wireless headphones from Marshall. They are lightweight and portable, very comfortable, and most importantly, offer great sound. I like that they can be used with or without the cable and the battery can go over 30 hours before needing a recharge. Plus, they have that unique, classic Marshall amp design.
+* *price was believed to be discounted at time of publishing and is subject to change at anytime.
+* Know of a great MacBook-related gift we missed? Let us know about it in the comments below. Also, be sure to check out our other gift guides:
+

@@ -1,0 +1,27 @@
+---
+layout: post
+title: Duet Game review- twist your way through a musical maze
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/Duet-Game-1.jpeg)
+* Casual games are definitely fun. Lately, the App Store has been flooded with some great titles. However, sometimes, they can feel just a bit too casual. Sometimes, you might want a game that will make your palms sweat and your heart pound.
+* Duet Game is one of those casual games that really make you work for your win. It fits into that cliché saying of, “easy to play, hard to master”…
+* The game is geometrically designed. Most objects are squares, rectangles, or triangles. Your two vessels are colorful dots that are connected in a ring. They rotate left or right, depending on what side of the screen you touch.
+* The default background is black, although you can switch it to white in the Settings section. In the background, shapes rotate and change in size. The animation is subtle and does not impact your ability to play the game. If it does, you can turn it off in the Settings section. The falling shapes are white (or black when the background is white). Your vessels are red and blue.
+* If you run into a shape, you will splatter paint onto it. The paint will remain, even if you restart the level, reminding you of where you last crashed. There are no controls. Players touch either the right or left side of the screen to rotate the two connected vessels.
+* Your job is to protect two vessels that are connected in a ring.  When a level starts, rectangular and square shapes begin slowly falling from the sky. To avoid hitting the shapes, players rotate the vessels, navigating them around the shapes. With precise timing, you will be able to twist and turn the vessels around so that they miss the shapes, just in time.
+* Sometimes, it is best to tap on the left or right side, in order to position the two vessels just outside of the falling shape and then rotate as the shape falls in order to avoid crashing into the other side. Pay close attention to the next shape above. If you rotate too far, or don’t switch to the opposite rotation fast enough, you will crash into another shape.
+* Sometimes, the shapes fall at just the right speed to let you touch and hold one side of the screen while the vessels rotate around them without crashing. You may have to be ready to touch the other side quickly to match up with a new set of shapes.
+* The key to this game is exact timing. If you rotate a split second too soon or too late, you will crash into a shape. It can be very trying at times. When you crash, you have to start the level over from the beginning. Luckily, levels are relatively short, so you won’t have to replay too much. It is just enough to make you angry that you crashed.
+* There are nine stages, each with five, six, or nine levels. The stages are based around the five stages of grief, including denial, anger, bargaining, depression, and acceptance. Other stages included ignorance, hope, and transcendence.
+* There is an endless mode that can be unlocked after you pass a certain number of levels. However, I don’t know what that threshold is. I didn’t get very far before getting stuck in the game.
+* The levels within the stages tell a sort of story that adds to the ambience of the game. The soundtrack was composed by Tim Shiel, who created nine distinct songs for each stage of the game.
+* It sounds simple, but because of the need for pinpoint accurate timing, it turns an otherwise casual game into an anxiety-inducing arcade game that is harder than Dragon’s Lair, and more fun, too.
+![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/Duet-Game-2.jpeg)
+* The rules to this game are simple. Touch the screen on the left or right side to rotate the vessels and avoid crashing into the falling shapes. One’s ability to complete the task at hand is nearly impossible, making this game highly challenging and very fun.
+* I’d like to see an easy mode or a practice mode. I got stuck pretty early on and found myself frustrated with having to replay the same five seconds of a level over and over again. It would be nice to have an easy mode to give players a chance to feel like they are capable of playing this game.
+* The app is priced fairly high. Games in this genre tend to be in the $0.99 range. I’d like to see the price drop to at least $1.99.
+* Duet Game costs $2.99. As I mentioned above, that is a fairly hefty price to pay for a game in this genre. There are only 52 levels and one goal. The game is very fun and exciting, but the price is about two dollars too high. The creator, Kumobius, is another independent company that worked very hard to bring this game to life. So, keep that in mind when you think about downloading it.
+* Even though I feel that the game is priced a bit high, I still recommend it for fans of traditional arcade games. Although it looks more like a casual game, this uses the basic aesthetics of precision-timing games from decades ago. If you wait a second too late or move a second too soon, you will crash. Not many games cut so quickly to the end these days. It reminds me of  how much I enjoyed arcade games from the 1980s. This game is available for iPhone, iPad, and iPod touch. Download it in the App Store today.
+* Move is a casual puzzle game that is fun and challenging. Rotato is another game that is very challenging, even though it is lots of fun.
+* Do you prefer relaxing casual games or intense arcade games?
+

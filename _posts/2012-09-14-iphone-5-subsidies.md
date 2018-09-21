@@ -1,0 +1,12 @@
+---
+layout: post
+title: iPhone 5 to cost carriers $10B in subsidies
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iPhone-5-dock-camera.png)
+* If there was a frenemy to carrier profits, it could be Apple’s iPhone. While iPhone users were rejoicing over the iPhone 5, U.S. wireless providers could pay $10 billion in subsidies to sell the new smartphone, according to one analyst. Indeed, AT&T and Verizon were downgraded just days after the new iPhone was announced.
+* The iPhone’s success is a double-edged sword for US carriers. Although a new Apple phone can draw new subscribers like a magnet, the Cupertino, Calif. company is aware of its power, costing carriers $425 per handset in subsidies. Couple that high cost with the early sale of the device and carrier margins for the last half of 2012 will be slimmer than the iPhone 5, writes Stifel Nicolaus analyst Christopher King. King told investors AT&T and Verizon could be over-valued and downgraded both companies to ‘hold.’
+* Noting the $425 per handset subsidy, the $10 billion dent in carrier profits would be “entirely due to the new iPhone launch,” King had previously written. The high cost of subsidies haven’t gone unnoticed.
+* Just a day before Apple unveiled the iPhone 5, Deutsche Bank analyst Brett Feldman told Down Jones Newswire that subsidies “outweigh any other benefits, including customer additions, more revenue and higher average revenue-per-user.” Sprint added to the skepticism, when it told analysts the carrier doesn’t expect the iPhone to help its bottom line until 2015.
+* AT&T President and CEO Ralph de la Vega has also spoken out about the need to wean U.S. mobile consumers from subsidized handsets. Speaking in May, he said carriers have to “watch subsidies and make sure that we bring devices to market that customers love and will keep and have low subsidies.”
+* In one of the more intriguing comments regarding iPhone subsidies, T-Mobile’s marketing chief Cole Brodman earlier this year tried to make the point that consumers need tough love about how much the popular smartphone really costs. Subsidizing a $500 iPhone so that subscribers can sign up and pay $199 at AT&T, Verizon or Sprint creates a “disposal marketplace” where consumers are quick to toss yesterday’s technology for the latest and greatest gadget. Coming from a carrier that was left out in the cold and is doing all it can to entice iPhone users to become subscribers, the comment sounds more like sour grapes than commentary on the state of subsidies.
+

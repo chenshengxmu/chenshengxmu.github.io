@@ -1,0 +1,26 @@
+---
+layout: post
+title: Five neat tricks Spotlight search can do for you on iPhone
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2017/04/headerspotlightsearch.jpg)
+* Bearing in mind the numerous ways to invoke Spotlight search on your iPhone today, the feature has clearly become a centerpiece of iOS 10th iteration.
+* That is because for one, it’s the fastest way to rifle through your device for any type of information, however it is also incrementally adopting Siri-level intelligence. You might know about using Spotlight for swift currency and measurement conversions by now, but the list does not end here. Largely undiscussed on the web, here are five more cool uses for Spotlight.
+* Traditionally, Spotlight search has been the go-to place for search requests of all sorts. With the scope of them broadening and deepening over the years (plus extending to third-party app contents), Spotlight has slowly stepped up its game to a point of utility formerly held only by Siri.
+* While it does not always give Siri a run for its money just yet, several instances where you would normally summon Siri are now just as easily serviced by Spotlight. The advantage? Siri responds to spoken input, whereas Spotlight search can be triggered by quickly punching in a few letters.
+* So outside of the well-known Spotlight shortcut of currency conversion, try these five tricks and see if they fit into your daily iPhone use.
+* Note that Spotlight suggestions are only available in a handful of country so far. Check Apple’s website to see if your country is on this list.
+![img](http://media.idownloadblog.com/wp-content/uploads/2017/04/spotlight-search-ios-10.jpg)
+* The worldwide number of weather requests levelled at Siri day in and day out must be dizzying, because it’s super informative and fast. Gladly, the feature has trickled down to Spotlight search, meaning you can simply type the same request into the search bar and you will be presented with a similar result.
+* Like all the tips in this section, the obvious upside of it is that you don’t have to speak, whisper or shout at your iPhone, depending on your surrounding. What’s more is that like Siri, Spotlight search is context sensitive and is capable of handling various requests including ‘Weather now’, ‘Weather in [another location]’ or ‘Weather tomorrow’. Note that you can also 3D touch the search result for an hour-to-hour prediction of the temperature of any location.
+![img](http://media.idownloadblog.com/wp-content/uploads/2017/04/spotlight-search-ios-10-2.jpg)
+* Another extremely handy skill of Siri is the ability to provide answers to light trivia questions such as capital cities or population numbers. And you guessed it: Spotlight search can mostly keep up with that.
+* In order for it to answer your question satisfactorily, the question you type needs to be very plain and straightforward – otherwise the phone might fail to identify the keywords properly and struggle to display the right excerpt. Provided you play it safe (population numbers, flags, capitals) though, this is a very fast way to access information.
+* By the same token, since the integration of Apple News into search, the single word ‘news’ is going to conveniently aggregate the latest stories in Spotlight search. According to where you are in your iPhone’s operating system, this can potentially be the shortest path to a quick news fix.
+![img](http://media.idownloadblog.com/wp-content/uploads/2017/04/spotlight-search-ios-10-3.jpg)
+* Spotlight search is intelligent enough to compute that a request like ‘gas station nearby’ is directed at your Maps service, and can subsequently provide a window into the app without you having to launch it first.
+* Naturally this type of request is more intuitive inside Apple Maps if you’re making use of the GPS anyway, but we all know there are other situations where we just want to learn the whereabouts of the next grocery store by way of example. Accordingly, next time this or a comparable situation comes up, just swipe down to open Spotlight search and start typing.
+* As long as your iPhone has permission to locate you, this is a neat shortcut to quickly scan your surroundings for any commercial enterprise.
+![img](http://media.idownloadblog.com/wp-content/uploads/2017/04/spotlight-search-ios-10-4.jpg)
+* Lastly, Spotlight search has watched Siri long enough to learn how to relay sport scores. Granted it has taken a leaf out of the personal assistant’s playbook, it is yet to fully catch up on it: Siri has become pretty adept at breaking down things like game fixtures, team rosters or tables for all kinds of sport codes, and it still easily dwarfs Spotlight in that regard. With that said, you can look up scores (chronologically listed) of the most popular American sports (but also fringe disciplines like Cricket) through Spotlight search. Simply type ‘NBA [NFL, MLB, MLS] scores’ for discreet and quick score lines.
+* And that’s it for now. Based on the surge of it over the years, it is not a stretch to see Spotlight search become even more powerful with the arrival of iOS 11 in autumn and likely adopt more Siri functionality. If you know of more shortcuts or want to make a guess regarding where the search feature is headed in the future, go ahead in the comments!
+

@@ -1,0 +1,19 @@
+---
+layout: post
+title: Real Racing 3 hands-on
+---
+* EA surprised us and dropped the Firemonkeys developed Real Racing 3 a few weeks earlier than its scheduled release in some territories. We were fortunate enough to be able to go hands-on with the highly anticipated sequel to iOS’ darling racing game franchise.
+* While we’re just beginning to progress through the game, some things were readily apparent. Yes, Real Racing 3 is a so-called freemium game, and EA is hoping that you will open your wallets as you make speedy progress through the game. We also found that the “online” experience is heavily watered down. In fact, I’d hesitate to actually call it online at all, as it’s actually more of an asynchronous affair, which pits you against your friend’s “ghost” racers instead.
+* Although the freemium aspect and the lack of true realtime head-to-head play may disappoint, the game tries to make up for it with its stunning visuals. This is hands-down the best looking iOS game I’ve ever seen or played. It’s just an absolute visual overdose. The game looks wonderful on the iPad mini, and the iPhone 4, but to really appreciate its beauty, fire it up on a Retina enabled full-sized iPad. Trust me when I say this, you’ll be picking your jaw up off the floor.
+![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/Real-Racing-3-03.jpeg)
+* The gameplay mechanics are classic Real Racing — an experience that opts for a simulation approach, instead of the run and gun arcade gameplay of Need for Speed or an entry in the longwinded Asphalt series. Controls are as tight as ever, and require braking, careful steering, and an overall attention to detail. Fans of the Gran Turismo franchise will feel quite at home with Real Racing 3.
+![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/Real-Racing-3-01.jpg)
+* Real Racing 3 is also heavy on the content. In total, there are nearly four-dozen officially licensed cars, ranging from modest entries to the most exotic flavor of vehicle out there. The Firemonkeys took cues from games like Need For Speed, and immediately place you right into the action in order to get your feet wet. Be rest assured that there’s a ton of content awaiting you after you take your initial spin.
+![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/Real-Racing-3-04.jpeg)
+* Tracks are quite varied and include locations that span the globe, and they are just as impressive from a visual standpoint as the vehicles themselves. The locals include popular areas like the Mazda Raceway Laguna Seca, Indianapolis Motor Speedway, and Silverstone.
+![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/Real-Racing-3-05.jpeg)
+* Real Racing 2 featured car damage, but the damage is taken to a whole new level this time around. The most obvious addition is the new persistent damage feature. Persistent damage forces you to make costly repairs on your vehicle, or else continue to reap the negative benefits of the damage throughout future races.
+![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/Real-Racing-3-02.jpeg)
+* Obviously I have a few beefs with the approach that EA decided to take with real Racing 3, but there’s no denying that this is a console level title with console amounts of polish. It’s just too bad that EA had to skimp on the game’s online aspects and force freemium play down its customer’s throats. It would have been much more satisfying to have been able to purchase the game outright and enjoy true head-to-head battles with friends. As it stands, you should definitely take Real Racing 3 for a spin once it is available in your country. Despite its glaring flaws, it can hold its own on visual and gameplay merits alone.
+* We’ll be back with more Real Racing 3 coverage in the near future. For now, enjoy our video hands-on above.
+

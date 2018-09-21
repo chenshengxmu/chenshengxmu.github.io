@@ -1,0 +1,15 @@
+---
+layout: post
+title: Apple TV 4 jailbreak for tvOS 10.0-10.1 complete, release imminent
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/Apple-TV-pwned.jpg)
+* As previously reported here on iDB, rumours of a jailbreak for the oft-neglected Apple TV 4 have been circulating since soon after the disclosure of Ian Beer’s Project Zero exploits, and especially since those exploits were used by Luca Todesco to fashion the Yalu jailbreak for iOS 10.0-10.2.
+* It was discovered soon after Yalu was released that many of the exploits used were also present on tvOS, and Apple TV developer nitoTV commented that consequently the jailbreak could be ported, with modifications, to that platform.
+* It seems that nitoTV may subsequently have ceased working on a solution personally, mentioning other developers already working on the project. We speculated at the time that he was referring to noted software consultant and iOS internals expert Jonathan Levin, and it soon turned out this supposition was correct. In a recent tweet, Levin confirms that work on the tvOS jailbreak is now complete and that further details, as well as the download itself, are to be released imminently. You can see a copy of the tweet below:
+![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/Screen-Shot-2017-02-27-at-14.16.01.png)
+* This is great news for Apple TV 4 owners, especially if they heeded our advice a while back and downgraded their device to tvOS 10.1 (or remained on any lower tvOS 10.x firmware). The upcoming jailbreak is extremely likely to support all tvOS 10.0-10.1, leaving out only the most recent, tvOS 10.1.1. That firmware is the counterpart to iOS 10.2.1, in which the Yalu jailbreak was patched, and will therefore not be supported.
+* Some have questioned the utility of a jailbreak for the Apple TV 4, citing its smaller user base, and the apparent lack of uses for the increased freedoms afforded by a jailbreak. However, without a current tool for the device the available applications are bound to few and far between, as no one is actively developing them, testing them, or thinking them up. It’s possible that now, with a larger number of users available and willing to test, more progress will be made on the platform and the benefits of a jailbreak will make themselves known.
+* What would be especially exciting to me would be the porting of Cydia Substrate itself to tvOS, allowing for actual tweaks to be installed to the device, rather than just the sideloading of non-standard applications. This would truly bring the utility of an Apple TV jailbreak on par with that of iOS, though there has been no word yet as to whether this is planned or possible.
+* We’ll let you know as soon as the tvOS jailbreak for 10.0-10.1 is released, as well as giving any further details which come to light in the intervening time. For now, any Apple TV 4 owners on 10.0-10.1 should avoid updating like the plague, and sit tight.
+* Do you have an Apple TV 4 on a jailbreakable firmware? Do you have any ideas for tweaks or applications which would render the upcoming jailbreak useful to you on the device?
+

@@ -1,0 +1,63 @@
+---
+layout: post
+title: A day in the life of an Apple Watch user
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/apple-watch1.png)
+* 5.15am: The alarm goes off on my iPhone. I make sure to turn it off quickly so I don’t wake up my wife. After a night of charging, I put my Apple Watch on. I wish I could just use it to wake me up, but it needs to be plugged in at night, at least for a couple hours. I’m hoping next year’s model will have better battery life.
+* 5.17am: I jump in the shower. It’s going to be a long day. I briefly check my calendar events directly on my watch while in the shower. I have to hurry because my colleague Tobias is picking me up in a little bit.
+* 5.18am: Who would have thought that checking the final score of last night’s game would have ever been possible on a watch, in the shower?
+* 5.23am: I change my Apple Watch band. Since I’ll be out on business, I want to look sharp so I slide in my link bracelet.
+* 5.29am: I go downstairs and make myself a quick breakfast before my colleague gets here. I check a few emails directly from my watch to see if anything needs immediate attention. Nothing does. I guess it’s a slow morning.
+* 5.41am: I receive a message on my wrist, a sign that my colleague is here waiting for me outside. I raise my wrist and tell Siri to send him a message saying I’ll be there in a couple minutes. I go kiss the kids goodbye while making sure not to wake them up. I won’t see them again until tomorrow.
+* 5.46am: We’re on our way to the office to pick up some files before flying to San Jose. I receive a tap on my wrist. A quick glance at it and I see this is a Facebook notification. Apparently my mother in law is already up and commenting on photos I uploaded last night.
+* 6.01am: We stop by Starbucks for a much-needed cup of java. With the Passbook app on my watch, I can simply have the barista scan my card barcode. No need for any physical transaction. No need to get iPhone out of my pocket either, obviously.
+* 6.09am: We’re on our way to the office. I get a notification from Waze app on my watch that there is an accident on the I-5 and traffic has come to a halt. I guess we’ll take the back roads to go to the office.
+* 6.18am: I use my iPhone for the first time today. I catch up on emails, and check Twitter for the latest news headlines. Looks like Google finally made Android Wear compatible with iOS. “What’s Android Wear?”, my colleague asks.
+* 6.31am: I get a tap on my wrist. My wife is up. She just sent me a message. Hey Siri, tell my wife “I love you and will miss you period kiss the kids for me smiley face.” My colleague makes fun of me. He just doesn’t get it. He didn’t get the iPad either. “A big iPhone,” he used to call it.
+* 6.33am: A tap on my wrist. Damn, another Facebook notification. I guess I should spend a few seconds tweaking those notification settings.
+* 6.37am: I get a notification on my wrist that our flight to San Jose is 20 minutes late. Interestingly, my colleague receives the same notification on his iPhone. His struggling to reach for his jacket on the back seat to get ahold of his phone. This isn’t really safe but I won’t comment on his driving. “Oh you’re right, our flight is late,” he says. Of course I’m right, do you think Southwest would send me fake notifications?
+* 6.49am: We pull in the parking garage of our office building. My wife sends me a photo of the kids making a mess at breakfast. I love that I can have a peek at this photo without being rude to my colleague for looking at my phone while he’s talking to me.
+* 7.11am: We’re in the office, waiting for some documents to be printed before we go to the airport. My wrist buzzes. It’s my wife calling. I could take the call directly from the watch but I don’t want Tobias to hear our entire conversation, so I pull my iPhone out of my pocket and talk to the wife and kids.
+* 7.22am: We’re all set and ready to go to the airport. Tobias wants to call a cab. A cab? What is this? 1999? I raise my wrist, launch the Uber app and request a ride. We proceed to the elevator to go wait for our ride.
+* 7.27am: I get a notification on my wrist from Uber telling me our ride has arrived. Indeed, it’s just pulling over. We get in.
+* 7.30am: I get a calendar alert on my watch that I need to call a client on the East coast in 30 minutes from now. I totally forgot about that. I raise my arm: “Hey Siri, remind me to call John Blockwood in 30 minutes.”
+* 7.31am: Our Uber driver asks “is this the new Apple Watch?” I confirm that it is, and he goes on to tell me that the iPhone is the best phone he’s ever had but doesn’t really see a need for an Apple Watch. Tobias jumps on the opportunity to mock me. They just don’t get it.
+* 7.56am: We arrive at Terminal 1 as my wrist gets a gentle tap. That’s Southwest showing me my flight information as well as my boarding pass QR code. I’m thinking it’s quite amazing to receive all this info directly on my watch. It’s so much more convenient than having to get my iPhone out of my pocket every time there is something happening.
+* 7.59am: Tobias has to go check in. I checked in about 24 hours ago. I make fun of him for not understanding how to get the best of Southwest. I also flash the boarding pass on my watch in his face.
+* 8.00am: Here is my reminder to call my client. I try to find a quiet place but that’s virtually impossible in an airport. I definitely have to call him on my iPhone.
+* 8.42am: Tobias reminds me we need to make reservations for dinner tonight. I raise my arm: “Hey Siri, make a reservation for 4 people at Cha Cha Sushi in San Jose tonight at 6pm.” I can’t believe I’m making a restaurant reservation from my watch.
+* 8.58am: I get an Instagram notification on my wrist. My wife tagged me on this picture of the kids doing silly things outside. Of course, I Like it.
+* 9.11am: We go through security. The TSA agent tells me it’s the first time he’s scanned a boarding pass on Apple Watch. He seems more excited than I am.
+* 9.28am: I stop by a Coke vending machine. It’s never too early to have a Coke, I say to myself. I double press the button on my watch to bring up Apple Pay, and place my watch close to the payment terminal of the machine. So seamless.
+* 9.36am: We’re waiting to board. I play with the Twitter app on my watch while we’re standing in line.
+* 9.45am: Southwest lady scans my boarding pass on the watch. She smiles at me telling me I’m the coolest passenger on that plane. She knows what she’s talking about!
+* 9.46am: I get a notification on my watch that it’s time to check in for my return flight tomorrow. Two taps on my watch and I’m all checked in (I’m B10).
+* 10.22am: We’re taking off. Thankfully there is a USB plug available at my seat. I can charge my watch for the length of the flight. I’ll need every bit of juice I can get today.
+* 11.42am: We land. I get a notification on my watch from CNN. Apparently there are snow storms on the other side of the country.
+* 12.17pm: I request a Uber ride from my watch. It should be there shortly.
+* 12.24pm: We’re in our Uber car, on our way to our hotel. Tobias is glued to his iPhone. I’m just enjoying my time away from my desk. I get a notification from eBay on my watch. Apparently I’ve been outbid for the 1986 Star Wars figurine I want so bad. A couple taps on my watch and boom, I’m once again the top bidder.
+* 12.38pm: As we pull in in front of our hotel, I quickly check in from my Apple Watch and I get a notification telling me what room I’m staying in. It’s rush time here and there is a huge line at the front desk. I tell Tobias to call me when he’s all checked in because it should take him a while. In the meantime, I go up to my room, and unlock the door with my watch. I think it’s the first time Tobias wishes he had one of these watches.
+* 12.44pm: I open my laptop for the first time today. While charging my watch and waiting for Tobias to be ready, I reply to a few emails.
+* 1.22pm: I finally get a message from Tobias that he’s waiting for me at the bar of the hotel. We’re meeting with a client there in a few minutes. I reply to him directly from my watch that I am on my way.
+* 1.34pm: Our client arrives a few minutes late. As we shake hands, he notices my Apple Watch. “Hey is this the new Apple Watch? I need one of those.”
+* 2.22pm: After our meeting, our client asks me a bunch of questions about Apple Watch. He’s definitely intrigued. I show him how I can control the lights and the temperature in my house. Coincidentally, I receive a message from our cleaning lady saying she’s at the door waiting to come in. I launch the August Lock app and unlock the door for her, right from my watch. Client is flabbergasted.
+* 2.28pm: As we start walking our client out, I get a notification on my wrist from Dark Sky saying it’s going to rain in 5 minutes. I asked my client if he brought an umbrella. He replies saying he doubts it’s going to rain today, but as we walk out the hotel door, he realizes it’s probably going to be pouring soon. He glances at me with a look of astonishment and disbelief. Apple Watch definitely made an impression on him.
+* 2.41pm: I’m back in my room to get some work done before dinner with clients tonight. The music is loud in here. From my watch, I’m able to turn it down a bit. So handy.
+* 3.33pm: I receive a Trivia Crack notification on my watch. Ads were so annoying in this game that I had kind of given up on it. But their Apple Watch app is really neat. I can quickly answer the trivia, and no ad whatsoever. What’s the capital of Bangladesh? Who knows that? FYI it’s Dhaka.
+* 5.00pm: I almost fell asleep, but thankfully, my watch gives me a gentle tap on the wrist to remind me it’s time to get ready for dinner. As an old habit, I check my phone for missed calls or messages. Silly me. I can’t help noticing my iPhone still has almost 90% of battery. It’s incredible how much less I use this thing ever since I got my watch.
+* 5.24pm: As I walk to the lobby, I raise my arm to send a message to my wife. Apple Watch tells me it’s not connected to an iPhone. Oops! I guess I forgot and left it back in the room. It shows how much less I use my iPhone these days. I head back to the room to grab my iPhone, and the devices automatically reconnect. I can’t wait for the day when Apple Watch won’t need to be connected to an iPhone. Maybe we’ll get this on Apple Watch 5s.
+* 5.29pm: I meet Tobias in the lobby. The doorman hails a cab for us. We’re on our way to dinner as I receive a message from my wife. She misses me.
+* 5.52pm: We pull in front of the sushi bar. I pay the cab ride using my watch. Cab driver says it’s the first time he sees one of those.
+* 6.44pm: I am so bored. Thankfully my wife keeps sending me these funny doodles from her watch to mine. It brightens my evening.
+* 7.56pm: This dinner is finally over. So is the game, as I receive a notification on my watch that the Red Sox lost tonight.
+* 8.24pm: We’re back at the hotel. Checking my activity for the day, it’s clear I haven’t done much, but I don’t have the energy to go work out. I decide to go for a walk in the neighborhood instead.
+* 9.11pm: I’m not sure how that happened, but I’m officially lost. I raise my arm and say “Hey Siri, give me walking direction to the Westin hotel in San Jose.” Apparently, I’m just a few blocks away.
+* 9.13pm: Back in the day, I would have had to hold my iPhone to see where to turn. Instead, my Apple Watch gives my wrist gentle taps to indicate when to turn left or right. This is brilliant!
+* 9.37pm: I’m back in my room. I’m beat, but I have the simple satisfaction of having unlocked a new achievement on my Activity app for completing 7 straight days of higher than average activity. It’s the little things.
+* 9.44pm: I FaceTime with my wife from my iPhone, which still has over 80% of battery. It’s crazy.
+* 10.01pm: I guess my mother in law is still up, as I receive yet another notification that she liked something on Facebook. That’s enough. I grab my iPhone, launch the Watch app and make sure I never see a notification from Facebook on my watch ever again. It took about 15 seconds to set up.
+* 10.03pm: The song playing in the room is pretty cool, but I have no idea what it is. I launch the Shazam app on my watch. It tells me it’s Riptide by Vance Joy. I like it.
+* 10.04pm: I browse the news on my iPhone. It’s something that you still need a phone for, I guess.
+* 10.11pm: My wife just sent me her heartbeat. It’s gimmicky but when you’re all alone away from home, it’s definitely heart warming.
+* 10.12pm: I set an alarm on my phone for tomorrow. It’s going to be another long day. I charge my watch for the night and turn off the light. I’m beat.
+

@@ -1,0 +1,30 @@
+---
+layout: post
+title: EPOCH.2 review- shoot and cover in a robot apocalypse
+---
+* Games with extraordinary graphics, mechanics, and overall design don’t come around all that often in the App Store. The time and effort that goes into making an epic game is worth more than $0.99, which is what most consumers want to pay for an iOS game.
+![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/EPOCH.2-3.jpeg)
+* EPOCH.2 is a cover system game that features rich 3-D graphics, a deeply involved storyline, and lots and lots of shooting…
+* The graphics are fantastic in this mobile game. Players are taken deep into a world where two warring robot armies have destroyed the country. Follow the story of one robot that is programmed to protect a princess who is frozen in cryostasis. Doesn’t that sound cool?
+* During the game’s shootouts, players control Epoch’s movements using swipe and tap gestures. The battle-hardened robot has precise aim, but needs help ducking under cover. Players must keep track of multiple attacks in various situations and shoot, jump, and hide until all enemies are destroyed.
+* In between shootouts, players watch short cinematic clips of interactions with a hologram of the Princess and learn what the next step is to help save the country and stop the war.
+* When you successfully complete a level, you will earn credits to upgrade weapons and armor. You will also store new information that will explain the story going on around you with more depth.
+* Each level can be played in three different modes. The first, Campaign mode, must be completed before you can unlock the other two. The second is Time Trial, where you replay the same level but must complete it within a specific length of time. Iron mode increases the difficulty of the enemies so that you must destroy robots that are stronger, smarter, and deadlier.
+![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/EPOCH.2-1.jpeg)
+* The goal of the game is to kill everything. As soon as the first level starts, you’ll be attacked. Enemy robots shoot at you from a distance. The first thing you will learn is how to duck and cover. Swiping downward gets you out of the way. You can also swipe from left to right on the screen to roll one direction.
+* To shoot an enemy, tap the target and then swipe upward. This will trigger attack mode. When the bullets start flying at you again, swipe downward to hide again. You can also perform a lift-off that keeps you in the air for a few seconds. This trick becomes very handy later, when you are being shot at with sweeping lasers.
+* Players also have special weapons that are more powerful than the gun in hand. Throw grenades, trigger multi-shot missiles, and slow down time for just a few seconds so that you can get a shot or two in before the enemy can attack.
+* You can also activate special moves that will increase damage, critically hit the enemy, and let you reload your weapon in one pump.
+* As you kill bad guys, you will automatically move to different locations on the level. New locations offer new areas of coverage, but also inflict additional enemy attacks. Each level has about four rounds of attacks and then a boss round.
+* The boss round is a hair pulling shootout that will make you want to throw your iPhone at the wall, but when you narrowly make it out alive, you will feel like a gaming master. Boss rounds usually include one huge bad guy that is surrounded by varying degrees of minions.
+* In between levels, players learn more about the war between the Omegatroniks and the Alphetekk. Epoch’s only program is to protect the princess and he will do so at any cost. However, Princess Amelia wants to know what went wrong and how to she can fix it.
+* Of course, the game would only be one-third of its awesomeness if not for the fact that you can replay each level two more times in different modes for additional credits.
+* Credits are used in the “Scrap Yard” to upgrade weapons, armor, and special actions. If you don’t want to earn credits the old fashioned way, you can buy them through an in-app purchase. You can also purchase a “double credits” feature that will permanently double the amount of credits you earn on each level.
+![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/EPOCH.2-2.jpeg)
+* I love the way the game looks. The post-apocalyptic landscape has a depth that makes you feel like you are in the robot-overthrown world. The movement of the robotic characters is fluid. The storyline is very interesting. I can’t wait to find out what happens next.
+* This game teeters just on the edge of too difficult. I found myself getting angry at the boss rounds because they just seemed too hard. I figured it was because my gear wasn’t good enough, but I hadn’t earned enough credits to upgrade again. I tried replaying an earlier level in a different mode to earn more credits, but they were also too hard. Frankly, it felt like the game was driving me to purchase credits. You can play the game without spending more money, but it is really difficult and earning credits is even harder.
+* http://youtu.be/irj6PKZOZfI
+* Currently, EPOCH.2 is $2.99, which is half off of the full price. If you get the game before the launch sale ends, you are getting a great game at a remarkably low price. It might even make those in-app purchases seem reasonable. At the full price of $5.99, the game is still reasonably priced for what you get, but the in-app store starts to look greedy.
+* This is a great game. It is fun and exciting and will have you swiping and tapping on the edge of your seat. The graphics look great and the story is engaging. Fans of cover system games will love playing a console classic genre on a mobile device. At the discounted price, it is a great deal, but at full price, you may get a little miffed at the in-app store. This game is available for the iPhone, iPad, and iPod touch. Download it in the App Store today.
+* EPOCH. was the first game in this series and its story takes you back to the beginning when our friendly robot first awoke and went looking for the Princess.
+

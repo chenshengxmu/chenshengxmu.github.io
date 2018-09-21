@@ -1,0 +1,51 @@
+---
+layout: post
+title: A Week Later- My iPhone 4S Review
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/White-iPhone-4S.png)
+* I know I’m late to the whole iPhone 4S review thing, but to be honest, I never really understood how you could give a good review of a device after using it for two days – that’s why I take my time. I’ve been waiting for over a year for this new device so I really didn’t want to rush into a quick review without having fully used it for an extended period of time.
+* Now that I have been able to play around with virtually every feature of the new iPhone 4S, I think it’s time for my late review. There is some good, some bad, and yes, some ugly…
+* I’m not much of a technical guy. All those RAM, GB, MHz, and processor specs don’t mean anything to me, so I’ll try to leave those out of my review. At the end of the day, I don’t care how much RAM my iPhone 4S has. What matters to me is how it handles real life situations.
+* This is my review of a black 64GB iPhone 4S running on AT&T.
+* Let’s start with the obvious and get that out of the way. As you know, from the outside, the iPhone 4S is identical to its predecessor the iPhone 4. Same look, same design, same feel in your hand.
+* Like many people, I wish Apple had gone the extra mile and shipped a device with a new design. Don’t get me wrong, I think the iPhone 4 was the most beautiful smartphone ever designed, but like most people, and after a year of using it, I get weary.
+* This being said, it took me just about a minute to get over the fact that the iPhone 4S was the same as the iPhone 4, because, as Apple made clear, it’s what’s inside that matters, not what you see on the outside.
+* I think it’s important to note that I am reviewing my second iPhone 4S. The first one had a defective vibrator, and I had to exchange it – go ahead and make jokes about my vibrator issue if you want. The vibrator on my second iPhone 4S is better, but still not as good as my iPhone 4’s.
+* Out of the two iPhone 4S I had this past week, both had the same issue: the volume buttons are very slightly loose. While it’s not a big issue, it’s a little detail that shows that the built quality in the iPhone 4S may not be on par with the iPhone 4’s.
+* The mute button also feels different. It feels slightly smaller, and makes it a little harder for me to switch it on. Maybe it’s just me though.
+* Even though Apple won’t officially admit it, the “S” in iPhone 4S stands for Speed, just like it did for the iPhone 3GS. And boy it is fast, and I mean blazing fast!
+* You can see the speed improvements as soon as you boot your iPhone. Animations are fast, app switching is almost seamless. Everything you can think of is faster on the iPhone 4S. And so it should be, right? I didn’t fork over another $400 for a slower device.
+* This being said, my iPhone 4 was incredibly fast when I first got it. Everything felt snappy for a few weeks, and then sluggishness settled in slowly, to the point where it sometimes took a few seconds just to open my Settings app.
+* So while the iPhone 4S is definitely faster than any iPhone before, I do expect it to get slower in the long run.
+* I think the iPhone 4 did a pretty good job at producing great pictures. With its improved camera, the iPhone 4S does even better. Reading the early reviews of the iPhone 4S, I still expected more though.
+* If there is one thing that is immediately noticeable in the iPhone 4S camera, it’s the larger aperture, which brings in more light to your pictures. This has always been my major complaint about the iPhone 4: pictures were darker. Because it can let more light in, the iPhone 4S lens gives much clearer, and lighter (as in more light) pictures.
+* I haven’t had many chances to try the video camera, but I was immediately able to tell what an improvement the video stabilization brought to films shot with the 4S.
+* My hands are always as shaky as a tweaker in need of crack, and you can usually tell by looking at my videos recorded with an iPhone. But with the iPhone 4S, it looks like I have the hands of a surgeon. Unless I’m shaking on purpose, videos are really, really stable. I’m impressed.
+* Following the iPhone 4’s “Antennagate” saga, Apple had to make sure this year wouldn’t be a repeat of last year’s debacle. As explained by Apple, the iPhone 4S now has two antennas that the device can intelligently switch between. The result: faster download speed and better call quality.
+* While I haven’t been able to tell if the call quality has actually improved, it’s pretty obvious that this new dual antenna is working great on the iPhone 4S. AT&T’s 3G network is faster than ever. It’s really obvious.
+* As we were able to verify before, the iPhone 4S speaker is much louder than the iPhone 4’s. If you haven’t noticed that yet, just launch the Music app on an iPhone 4S and listen to the sound come out of the speaker. It’s loud.
+* But loud doesn’t mean it’s good. While it’s obviously better than the speaker volume of the iPhone 4, I think the iPhone speaker now needs some depth to it. As it is, the sound is really raw, especially if you listen to something that needs more bass.
+* All in all, the new speaker in the iPhone 4S is a plus.
+* iOS 5 is the best mobile OS Apple has come up with so far, but oh boy it’s buggy. I’m not exaggerating when I say that I have seen more bugs in iOS 5 in a week of using it than I did in a year of using iOS 4.
+* Things freeze all the time, the keyboard gets stuck, settings change by themselves, etc. Apparently I’m the only one seeing so many problems in iOS 5, but I think it’s worth noting – and yes, I set up my iPhone as a new phone, so my problems are definitely not from a bad backup restore.
+* This is just software, though, and I’m confident any little issue will be fixed in an upcoming update.
+* Much has already been said about iOS since the first beta was released, so I won’t go over this. Yes, it’s great because it brings over 200 new features, but to me, there is one thing iOS 5 really needs: it’s a goddam facelift!
+* After using iOS for over 4 years now, I’m kind of over the whole graphical UI. Don’t get me wrong. It looks good and everything, but a little make over wouldn’t hurt. Maybe I just got spoiled by WinterBoard and DreamBoard?
+* Siri is without a doubt the main reason you’d want to get the new iPhone 4S.
+* I use Siri all the time now. I use her to create calendar events, reminders, check definitions of things on Google, play music, etc. Siri really makes your life that much easier.
+* As a French native, I speak with a thick French accent – ask other iDB team members! I was really worried that Siri wouldn’t be able to understand me, but turns out she gets 90% of what I’m saying. The 10% remaining is what frustrates me about Siri.
+* I sometimes try my best to pronounce something but she still won’t get it. For example, I was not able to tell Siri that, “my wife’s name is Tina.” She would come back at me saying, “Ok, your wife’s name is Gina.” I probably tried 40 times. She still wouldn’t get it. In the end, I had my wife herself tell Siri that her name was Tina. Siri finally understood!
+* Because English is not my native language, Siri is a great teacher for me. She helps me learn how to pronounce words better. For example, the word “fahrenheit.” It took me a few minutes of frustration to get it right, but now I know how to pronounce that word. Obviously, if English is your native language, you shouldn’t have this problem.
+* Siri and dictation are both tied together, but they are also two different features.
+* Now that I can dictate to my iPhone, I do it as much as possible. Most of the time, I start typing something and I realize that I can now dictate it. When that happens, I usually erase what I just typed, and start dictating it instead. Because it is so new, I am trying to get into the habit of dictating instead of typing.
+* Just like Siri, the dictation feature is not 100% accurate with me, but again, it is mostly due to my French accent. If I take the time to really articulate and pronounce words correctly, dictation gets it right about 90% of the time as well. Even if it doesn’t get it right, you can always easily and quickly correct the word that dictation didn’t get.
+* At the end of the day, this feature is a time saver, but be ready to look stupid if you want to use it in public, as this is not socially acceptable yet.
+* With great power, comes great battery drainage. At least that’s what you would expect.
+* While there has been reports of questionable iPhone 4S battery life, I’m not sure where I stand on this, even after using the device for a week. Sure my battery drains fast, but to be honest, I am constantly messing around, using Siri, and just using my iPhone much more than I normally do.
+* At this point, it would seem unfair to say that the iPhone 4S battery life is not as good as it used to be on the iPhone 4. I’d much rather wait a few more weeks, until I have completed a few full charge cycles. These consist in draining the battery all the way down to 0, and recharging it to 100% several times. It’s a way to “train” your battery to operate at its full capacity.
+* The iPhone 4S clearly is the best iPhone so far. But again, that’s to be expected from a new device. If you don’t buy an iPhone 4S for its looks, the speed and the Siri/dictation combo should make it a compelling device for you.
+* Should you buy an iPhone 4S? It all depends on your situation. If you don’t own an iPhone yet, or if you have an iPhone 3G or 3GS, I think you’re due for an upgrade. The iPhone 4S will feel like a breeze of fresh air to you. You will undoubtedly love it.
+* If you already have an iPhone 4, I don’t think the small hardware bump is worth the price. Sure it’s faster, it takes better pictures, and you can talk to it, but that’s a lot of money for not much more, especially if you’re not eligible for a full upgrade with your carrier.
+* No matter what you decide to to do, you can’t really go wrong with an iPhone, but of course I’m a little partial.
+* Do you have an iPhone 4S, if so what do you like and dislike about it? Share your mini review in the comments section below.
+

@@ -1,0 +1,28 @@
+---
+layout: post
+title: Competition- Motorola exiting feature phones, 7" slates from Amazon, Google loom
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/Google-Nexus-tablet-Gizmodo-Australia.jpg)
+* Several reports this morning sourced from Taiwanese supply chain indicate some pretty interesting reshuffling going on in the mobile space outside Apple. Samsung is shooting to cumulatively sell ten million Galaxy S III units by early July while Motorola Mobility is mulling exiting the feature phones business in order to focus all their energies on “innovative products”.
+* In the non-iPad space, a contract manufacturer has apparently landed orders for both Amazon’s seven-inch Kindle Fire tablet and Google’s Nexus-branded expected to make an appearance at Google I/O on Wednesday…
+* Let’s start off with Samsung.
+* Associated Press reports that Samsung is so confident in Galaxy S III sales that they publicly set the sales target: they expect to move more than ten million units in July. The report suggests Samsung could sell even more because “it struggles to keep up with demand because of component shortages”.
+* No single smartphone has emerged yet to beat the iPhone sales numbers so it’ll be interesting seeing whether the 4.8-inch Galaxy S III becomes the first smartphone to claim the elusive iPhone-killer crown. The Galaxy S III landed on all four major U.S. carriers last week and Samsung has kicked off a massive advertising campaign that will come on top of a major advertising push by AT&T, Verizon, Sprint and T-Mobile USA.
+![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/Samsung-Galaxy-S-III-two-up-front-back-white.jpeg)
+* Filed as its biggest campaign to date, Samsung has reportedly set aside a marketing budget that will double in the next few months alone what the company burned on all Galaxy-branded products in the United States in 2011.
+* As Samsung takes aim at Apple, Google-owned Motorola Mobility will reportedly exit from the feature phone market in order to focus development efforts on “innovative products”, reports DigiTimes, citing a story by a Chinese-language Commercial Times.
+* Google is now officially a handset maker so it makes sense to get rid of the unprofitable business and focus on hero devices. Motorola’s Droid was key to Android’s successful launch in the U.S. and their Razr series was and still is very popular so there’s no room for doubt that Googleroola will produce some very successful Android devices in the near future.
+* Wondering about the top image? If Gizmodo Australia is to be believed, it’s possibly a rendering of a long-awaited Google-branded, Asus-manufactured seven-inch tablet set to launch at Google I/O, which runs from Wednesday through Friday at San Francisco’s Moscone West.
+* It’s said to become a Jelly Bean reference device (the upcoming Android iteration, version 4.1). Specs allegedly include a seven-inch screen running at 1280-by-800 pixels and sporting IPS technology for a 178-degree viewing angle.
+* It should also run Nvidia’s quad-core Tegra 3 chip, NFC for wireless payments (reportedly coming to the next iPhone as well), a 1.2-megapixel front camera and a nine-hour battery. The 8GB/16GB variants should be priced aggressively at just $199/$249, making the Nexus 7 tablet more of a Kindle Fire than iPad challenger.
+* Besides, contract manufacturer Quanta is said to ship three million units of the Nexus 7 tablet in 2012, which is a pretty low figure compared to the kinds of numbers we’re seeing from Samsung and Apple in the tablet space.
+* On the high-end, of course, the iPad gets to compete with Ultrabooks and Microsoft’s upcoming Surface tablet that some dismissed as a reference device meant to drive Windows 8 adoption. The Surface could be pricey and Microsoft’s hastily organized presser and lackluster demos clearly show nervousness.
+![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/surface.jpg)
+* Unfortunately, the Surface will only be sold at Microsoft’s retail stores. There are only 19 of them currently, with a new store opening in New York soon and another one planned in London in March 2012. All told, Microsoft plans to open 75 new retail stores over the next two years in an Apple-like push to better promote its products and control its brand’s message.
+* About one third of readers in our poll voted that Apple should definitely pay notice because the Surface has raised the water line on Microsoft’s platform functionality.
+* As for Amazon, it’s getting ready to launch a long-rumored seven-inch version of the Kindle Fire. Quanta, which makes the first Kindle, is expected to begin production of a smaller Kindle this month, with shipments expected to “significantly increase” in August, reports DigiTimes.
+* Cupertino is rumored to respond to the rise of the smaller slates by offering the so-called iPad mini that shouldn’t require you to sand your fingers down because at seven inches diagonally, its screen would still be sufficient for users to successfully hit the user interface targets, as outlined in Apple’s Human Interface Guidelines.
+* Summing up, I guess my question would be if Apple really needs to address the low-end of the tablet market or should the company remain comfortable in its position of the high-end player that reaps all the profits?
+* Also, I’m interested in hearing your thoughts on Samsung’s targets for Galaxy S III sales, especially compared to Apple. Can the S III become the first phone to outsell the iPhone?
+* Remember, they’re gonna promote this thing like there’s no tomorrow and sell it through around 300 mobile carriers in 147 countries by the end of July, giving it a three-month lead time over the next iPhone.
+

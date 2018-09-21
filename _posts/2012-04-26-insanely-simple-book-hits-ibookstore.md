@@ -1,0 +1,24 @@
+---
+layout: post
+title: 'Insanely Simple', new book on Apple, makes its iBookstore debut
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/Insanely-Simple-by-Ken-Segall-book-cover.png)
+* If neither Walter Isaacson’s authorized bio book on Steve Jobs nor Fortune Editor-at-large Adam Lashinsky’s Inside Apple didn’t satisfy your hunger for Apple’s dirty little secrets and the inner workings of the world’s most powerful corporation, it’ll be a case of third time lucky with this one.
+* Enter Insanely Simple: The Obsession That Drives Apple’s Success by Ken Segall, another not-to-be-missed download for your collection of e-books on Apple. It just debuted on the iBookstore, offering a fascinating inside look at Apple’s secret weapon and also their corporate religion: simplicity…
+* But who the heck is Ken Segall, you ask…
+* The marketing expert and former Creative Director at Apple, Segall worked closely with Jobs on advertising concepts at both Apple and NeXT and was also on the TBWA\Chiat\Day team behind the famous ‘Think Different’ campaign.
+* He’s also the guy who dreamed up the iMac name.
+* Segall compiled his years-long experiences working alongside Jobs in Insanely Simple, which offers an insight at what makes Apple tick from a notably different angle than the aforementioned hyped books on Apple.
+* I just woke up to this message from the iTunes Store
+![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/Ken-Segall-Apple-book-pre-orderavailable-for-download.jpg)
+* And thanks to Apple’s agency model that got the company unfairly in trouble with the clueless Department of Justice, Segall gets to choose the price for his iBookstore release.
+* Forbes got an advanced copy of Insanely Simple, having recently published a couple Steve Jobs leadership lessons from the book.
+* Segall recently revealed on his personal blog that Steve Jobs never asked a prospective employee if he was a virgin, as suggested in Pirates of Silicon Valley, a 1999 made-for-television film directed by Martyn Burke and based on the book Fire in the Valley: The Making of The Personal Computer by Paul Freiberger and Michael Swaine.
+* And commenting on Apple’s wondrous spaceship-like campus, Segall recently wrote that “To Steve, designing and building his new company home is no different than designing and building an Apple product”.
+* Here’s your Insanely Simple blurb from iTunes:
+* To Steve Jobs, Simplicity was a religion. It was also a weapon.Simplicity isn’t just a design principle at Apple—it’s a value that permeates every level of the organization. The obsession with Simplicity is what separates Apple from other technology companies. It’s what helped Apple recover from near death in 1997 to become the most valuable company on Earth in 2011.Thanks to Steve Jobs’s uncompromising ways, you can see Simplicity in everything Apple does: the way it’s structured, the way it innovates, and the way it speaks to its customers.It’s by crushing the forces of Complexity that the company remains on its stellar trajectory.As ad agency creative director, Ken Segall played a key role in Apple’s resurrection, helping to create such critical marketing campaigns as Think different. By naming the iMac, he also laid the foundation for naming waves of i-products to come.Segall has a unique perspective, given his years of experience creating campaigns for other iconic tech companies, including IBM, Intel, and Dell. It was the stark contrast of Apple’s ways that made Segall appreciate the power of Simplicity—and inspired him to help others benefit from it.In Insanely Simple, you’ll be a fly on the wall inside a conference room with Steve Jobs, and on the receiving end of his midnight phone calls. You’ll understand how his obsession with Simplicity helped Apple perform better and faster, sometimes saving millions in the process. You’ll also learn, for example, how to:• Think Minimal: Distilling choices to a minimum brings clarity to a company and its customers—as Jobs proved when he replaced over twenty product models with a lineup of four.• Think Small: Swearing allegiance to the concept of “small groups of smart people” raises both morale and productivity.• Think Motion: Keeping project teams in constant motion focuses creative thinking on well-defined…
+* Insanely Simple: The Obsession That Drives Apple’s Success is available now on the iBookstore for $12.00 a pop. The iBookstore download can be enjoyed on your iPhone, iPad or iPod touch with the iBooks app and on your computer with iTunes.
+* Speaking of which – hey Apple, how about that iBooks for Mac app, please?
+* The book is also available on the Kindle Store for $14.99 and as the hard cover copy over at Amazon, priced at $16.95.
+* Are you planning on buying Insanely Simple? Passing on this one, perhaps?
+

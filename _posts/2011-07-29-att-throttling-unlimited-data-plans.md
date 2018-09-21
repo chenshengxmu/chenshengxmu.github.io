@@ -1,0 +1,16 @@
+---
+layout: post
+title: AT&T to Start Throttling Unlimited Data Plans This Fall in Time for the iPhone 5
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2011/07/iphone-turbosim2-e1311910446453.jpeg)
+* Customers that are still on AT&T’s unlimited data plan may soon see some of their grandfathered privileges revoked, as AT&T will reportedly begin throttling data hogs on its network come October.
+* Verizon has already started throttling ‘unlimited’ data customers, and AT&T looks to be adopting the same practice— all in time for the iPhone 5’s launch in September. AT&T will be implementing this throttling to help speed up its slow 3G network that has plagued iPhone users for years.
+* 9to5Mac has learned this news, and the site believes that this new AT&T policy could be put in place as early as the first week of October. Here’s how the throttling system will work:
+* “The heaviest users will see significant speed decreases for one billing cycle once they go over a threshold of data (we’re guessing 2-4GB?).  These heavy users will still be able to access the network, but at a much slower speed.  At the start of the next billing cycle, their speeds will return to normal.  We don’t have numbers for AT&T’s throttle speeds but Virgin takes you down to 256Kb/s once you’ve reached their 2.5GB limit (not too bad actually – sometimes we’re happy to get 256kbs).  Interestingly, Virgin’s throttle also will also be implemented in the first week of October which may indicate that they’ll be carrying a certain high profile mobile device as well.”
+* Since 2007, the iPhone has seen a staggering 8,000% increase in mobile data traffic. With Apple touting iCloud and plenty of 3G streaming services out there (Netflix, Pandora, Slingbox, etc.), carriers have the looming task of building up the infrastructure to support smartphones like the iPhone that relying heavily on a solid data connection.
+* Throttling, if done properly, could actually help improve speeds for the rest of us, while the data hogs would have to pay the price. Think about if there was a guy on your street that was torrenting gigabytes of media every night— you would want your ISP to be able to slow down his bandwidth speeds so you could have your fair share. The same rule applies here.
+* 9to5Mac actually has some details on how AT&T will implement its throttling procedure:
+* “We’ve heard that, just like tiers before them, throttling of data will not effect 95% of the subscriber base. In fact, that top 5% of users using the most data account for approximately 30% of the bandwidth. There is no defined GB amount that is known yet that will put someone in the top 5%, but we’ve been told that 12,000 emails, 12,000 website views, 4 streaming movies and 5 hours of streaming music will start to put you close to that upper range of usage.”
+* 4G data speeds are a whole other issue, and hopefully AT&T and other carriers will be able to effectively implement the LTE/HSPA+ technology needed to fuel the data for 4G smartphones that are starting to hit the market. Apple isn’t expected to release an iPhone with 4G speeds until at least 2012.
+* What do you think about this news that AT&T will start throttling unlimited data plans? Do you see it as a good thing, or something harmful?
+

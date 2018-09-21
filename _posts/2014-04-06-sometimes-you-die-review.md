@@ -1,0 +1,28 @@
+---
+layout: post
+title: Sometimes You Die- a side-scrolling platformer with no rules
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/Sometimes-You-Die-2.jpeg)
+* What would a game look like if you took all of the glitz and glamor out of it – if there were no coins to collect, and no points to earn? What if, in order to progress, you had to kill your character, ruining a “perfect game”?
+* Sometimes You Die both asks and answers those questions, as well as a few others. It is striped down in looks, but extraordinary in execution. If you think you’ve beaten the game, think again…
+* The first quarter of the game is made up of a gray scale color scheme with a refreshing, bright red background on one screen whenever you reach a new level. Later levels add some brightness to the background, but keep the foreground shadowed in black
+* Your character is a small, black cube with an arrow on it. The arrow points in the direction that you are moving. The platforms and walls will oftentimes be covered in spikes that will kill you with one touch. There are also rotating circular saws that move around, killing on contact.
+* In the background of the first 16 levels, are a series of words strung together nonsensically. However, a few of the words are highlighted, creating a sentance. These sentences ask the player to think about the life and death of their character and the point of playing games. What is it all for? Would you still play a game that had no score, no achievements, and no real end?
+* The answer for me is a resounding “yes.”
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/Sometimes-You-Die-3.jpeg)
+* In an attempt to be a vague as possible, I want to describe the gameplay without revealing some of the more important secrets. It’s not like The Room where someone tells you how to find the hidden key in the table’s leg. The secrets are discovered through gameplay. You just can’t give up hope when you think all is lost.
+* Players control a small black cube by holding down a left or right arrow on the left side of the screen. To jump, tap the lower right side of the screen. That’s all there is to the movement. Sort of.
+* The overall mechanics of the game are typical of platform games. Jump from one spot to another, run past moving obstacles, and try to get to the other side. What makes this game different is that, well, sometimes you die. Sometimes you have to die in order to get across to the other side.
+* For example, on one level (this isn’t giving away any cool secrets), there is no way to get from one side of the room to the next because the floor is covered in spikes. So, close your eyes, trust your instincts, and die. Your cube will respawn with the dead on still in place. Commit “pixelicide” over and over until you’ve made a pathway with your dead cubes (sounds gruesome when I put it that way) and simply move to the other side.
+* Killing cubes becomes almost a fun way to quickly get through levels that seem particularly difficult. If I came across some spikey walls and spinning saws, I’d litter the ground with my dead cubes as I created a protection against the obstacles.
+* As the levels progress, the in-game omnipotent being (the beginning is narrated by a thought-provoking computer voice that seems to be “creating” the levels for you) would get more ruthless with his puzzles. He will “change the rules,” or mislead you.
+* There is one level that I got stuck on for a while, thinking that this was some weird version of the end of the game. I don’t want to give too much away, but if you think there is no way to beat a level, there is a way around. Think outside the box (or cube).
+* Again, I don’t want to spoil the surprise, but I have to say that, after getting through the first two sections of the game, the world really opened up. Levels become so difficult to figure out that you think there is no solution and you are stuck, falling to your death repeatedly. Then, suddenly you find yourself in a new place with more challenges. The game seems to keep going on and on with new levels to discover. I know there is an end, but it is going to take me a long time to find it.
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/Sometimes-You-Die-1.jpeg)
+* I’ve barely made it through the first third of the game, but it is so interesting that it took me a while to actually put my iPad down and write this review.
+* The first two sections of the game ask the player to think about the point of gaming in such a way that doesn’t treat casual games like junk, but reminds you that playing isn’t about scoring points or earning achievements. It is about having fun and challenging your skills. It takes all of the traditional rules of video game play and throws them out the window. What now?
+* Absolutely nothing.
+* Sometimes You Die costs $1.99. The game is filled with 70 levels of killer (literally) platform action. The replay value is through the roof. Once you make it through the first section, you get to try it all over again with new secrets unlocked.
+* This game really defies logic. I can say it is perfect for fans of platform games, but it is also perfect for fans of atmospheric games. It is also great for gamers who like artistic and thought-provoking cerebral content. It really stands out in the crowd of glossy, colorful, cartoony platformers. This game is available on the iPhone, iPad, and iPod touch. Download it in the App Store today.
+* Although the game mechanics are different, this game made me think of continue?9876543210, mostly because it also makes you think about the mortality of video game characters.
+

@@ -1,0 +1,13 @@
+---
+layout: post
+title: Apple announces 20 million Apple TVs sold to date
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/Apple-TV-teaser-001.jpg)
+* During Apple’s earnings call earlier this afternoon, CEO Tim Cook announced that the company crossed the 20 million sold mark for the Apple TV during the last quarter. The mention is noteworthy as Apple doesn’t typically breakout numbers for the set-top box (though it has on occasion).
+* The move falls in line with Cook’s previous sentiments regarding the Apple TV—at a shareholders meeting in February Cook said ‘it’s a little more difficult to call the Apple TV a hobby these days,’ and comes amid rumors that the company is preparing to launch a new version of the device…
+* Here’s the exchange from during the call’s Q&A section (transcript via MacRumors):
+* Q: Apple TV is no longer a hobby, why did you make that distinction. Interesting to hear your feedback on HBO/Amazon announcement today and what you think that means in terms of content partners being able to work with players like yourself.
+* A: Reason that I stripped off hobby label, when you look at sales of the Apple TV box itself, and the content that was bought directly off Apple TV, for 2013, that number was over $1 billion. It didn’t feel right to me to refer to something that’s over $1 billion as a hobby. From an investment point of view, we continue to make the product better and better so it doesn’t feel right from that POV either. We have HBO Go already on Apple TV and you have to authenticate in order to use it, but you have to do that with Amazon’s service as well from my brief read of their announcement. From that, they got some older content from HBO to put on there and I haven’t had a chance to evaluate exactly what it is and don’t have a personal POV of that. Look broadly, compares extremely favorable to the content that is on the Amazon box. Sold about 20 million Apple TVs and we have a pretty large installed base there. I’m feeling quite good about that business and where it can go.
+* The deal mentioned above was announced earlier today, and it essentially makes Amazon’s Prime Instant Video the first online-only subscription service to offer HBO programming. Newer shows like Game of Thrones won’t be available, but that still leaves The Sopranos and other great series.
+* Amazon also made headlines earlier this month when it announced its new set-top box ‘Fire TV.’ Pundits feel that if Apple is serious about the living room, it needs to make its next move soon. The current Apple TV is going on 2-years old, and offers less content and functionality than competitors.
+

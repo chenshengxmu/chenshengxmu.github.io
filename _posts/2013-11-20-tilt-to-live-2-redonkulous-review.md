@@ -1,0 +1,27 @@
+---
+layout: post
+title: Tilt to Live 2- Redonkulous review – it really is redonkulous
+---
+* A good, fast-paced arcade style game is hard to find in the sea of hundreds of thousands of titles that fill the App Store. When a really good one does come out, it usually rises to the top.
+![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/Tilt-to-Live-2-3.jpeg)
+* Tilt to Live 2: Redonkulous is one of those sweet gems that offer you a fast-paced gaming experience that will put your skills and reaction time to the test. It’s so hard, it’s redonkulous…
+* The entire game is somewhat protozoically themed. That is, players must try to avoid little red dots that grow and reproduce. At the same time, little colorful bonus orbs float around that allow you to kill the red dots. Grab one of the colorful orbs and trigger it to destroy the advancing red dots.
+* Players control a tiny arrow that swims around the screen. Tilt your screen to move the arrow. Avoid running into the red dots unless you have triggered a bonus that lets you kill them when you run into them. A single touch from a baddy when you are not properly armored will send your arrow spinning out of control like a damaged spacecraft.
+* There are two modes of gameplay, Classic mode, which is hard in its own right, and Code Red mode, which is just ridiculously difficult. “Too Hard to play,” as the description states.
+![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/Tilt-to-Live-2-2.jpeg)
+* Players start by setting the calibration. Every time you start a new game, you will be asked how you are holding the device, either regular (at a slight upright angle) top-down (nearly horizontal with the floor), or custom, which lets you set the calibration to the angle you want.
+* When the game begins, you will maneuver the arrow around on the screen, trying to avoid running into the dots. They will come in waves and in different patterns. Sometimes, a wall of dots will cross the screen. Other times, they will appear in a circular formation. They might even show up in random spots on the screen.
+* While the dots are moving around, and sometimes chasing you, ram your arrow into bonus orbs. These orbs trigger lots of fun and different types of weapons that will annihilate the enemy. You can send a lava ball, bouncing through the space, or shoot shards of ice to pierce through the little monsters. There is even a dual-sided laser sword so you can go all Darth Maul on them.
+* The longer you stay in the game, the more difficult it gets to succeed. At random times, a nuclear missile will shoot through the air. There is a “dot bomb” that requires precise timing to destroy. You must ram a moving target while avoiding the bomb itself and trying to steer clear of nearby red dots. It is pretty much impossible to destroy.
+* Every once in a while, you will face a “Diabolical Boss.” These boss battles don’t seem to be related to any specific achievement. They appeared to be randomly generated, although I didn’t pay close attention to my score when bosses appeared. The bosses are basically impossible to beat. I’d love to hear from someone who has made it out alive. The bosses are similar to the dot bombs. You must ram into their multiple targets without touching them. However, these bosses move and are surrounded by all kinds of spiky protection that is impossible to maneuver around. I only lasted about five seconds whenever a Diabolical Boss appeared.
+* Code Red mode is also unbelievably difficult. However, I can see it becoming a fun challenge once you’ve gotten really good at Classic mode. Basically, Code Red has more red dots that move faster. If you are really good at Classic mode, Code Red is probably a fun challenge.
+![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/Tilt-to-Live-2-1.jpeg)
+* What a fun game. I played for hours. I’m pretty sure I was drooling by the time I stopped. The tilt controls are very reactive and work well with your responses. The difficulty curve is subtle enough to grow with you.
+* There is also a second chance feature when you are hit the first time. When you die, you can try to maneuver your arrow into the center of a target to be revived.
+* The achievements required to level up are too hard. I’d prefer being able to continuously get new achievements instead of waiting until you have completed three before moving on. I had a very hard time getting past the “Diffuse a Dot Bomb” achievement because they just didn’t show up often enough for me to try.
+* There should be a list of weapons and bosses and other items that you can read a short summary for. That way, when you come across something new, like a Diabolical Boss, you know what it means.
+* Tilt to Live 2: Redunkulous is available for $2.99. Normally, I would say that the price is too high for a casual game, but I found this title to be so fun that it is worth the extra cost, in my opinion.
+* If you liked the original, this sequel offers much of the same, but adds a few new features, like new weapons, and boss levels. If you’ve never played Tilt to Live, you won’t need the background to have a blast playing the sequel. Fans of simple, classic arcade games will have a lot of fun with this one. Tilt to Live 2 is available for the iPhone, iPad, and iPod touch. Download it in the App Store today.
+* Tilt to Live is obviously a similar title. Super Hexagon is another action arcade titles with interesting graphics.
+* Do you play arcade games? What is your favorite iOS title?
+

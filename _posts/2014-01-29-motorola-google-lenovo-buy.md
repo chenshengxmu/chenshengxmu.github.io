@@ -1,0 +1,18 @@
+---
+layout: post
+title: Google selling Motorola Mobility to Lenovo for $2.9 billion
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/LenovoLockup_NEG_Color.jpg)
+* Well this is an interesting turn of events. It appears that Google has decided to sell its Motorola Mobility arm to electronics giant Lenovo for $2.91 billion. The deal is said to include the entire Motorola division and some 10,000 of its 17,000 patents.
+* If the deal gets approved, Google would be selling Motorola for far less than the $12.5 billion it paid for it back in 2011. It looks like it’s holding on to some of Motorola’s IP though, and retaining licenses to its other patents, so it wouldn’t be a total loss…
+* Google CEO Larry Page confirmed the sale in a blog post:
+* “We’ve just signed an agreement to sell Motorola to Lenovo for $2.91 billion. As this is an important move for Android users everywhere, I wanted to explain why in detail.
+* We acquired Motorola in 2012 to help supercharge the Android ecosystem by creating a stronger patent portfolio for Google and great smartphones for users. Over the past 19 months, Dennis Woodside and the Motorola team have done a tremendous job reinventing the company. They’ve focused on building a smaller number of great (and great value) smartphones that consumers love. Both the Moto G and the Moto X are doing really well, and I’m very excited about the smartphone lineup for 2014. And on the intellectual property side, Motorola’s patents have helped create a level playing field, which is good news for all Android’s users and partners.
+* But the smartphone market is super competitive, and to thrive it helps to be all-in when it comes to making mobile devices. It’s why we believe that Motorola will be better served by Lenovo—which has a rapidly growing smartphone business and is the largest (and fastest-growing) PC manufacturer in the world. This move will enable Google to devote our energy to driving innovation across the Android ecosystem, for the benefit of smartphone users everywhere. As a side note, this does not signal a larger shift for our other hardware efforts. The dynamics and maturity of the wearable and home markets, for example, are very different from that of the mobile industry. We’re excited by the opportunities to build amazing new products for users within these emerging ecosystems.
+* Lenovo has the expertise and track record to scale Motorola into a major player within the Android ecosystem. They have a lot of experience in hardware, and they have global reach. In addition, Lenovo intends to keep Motorola’s distinct brand identity—just as they did when they acquired ThinkPad from IBM in 2005. Google will retain the vast majority of Motorola’s patents, which we will continue to use to defend the entire Android ecosystem.
+* The deal has yet to be approved in the U.S. or China, and this usually takes time. So until then, it’s business as usual. I’m phenomenally impressed with everything the Motorola team has achieved and confident that with Lenovo as a partner, Motorola will build more and more great products for people everywhere.” 
+* When Google acquired Motorola, it said that it would “supercharge the Android ecosystem.” But in the 3 years since then, the purchase has yielded little fruit. In recent quarters, the Mobility division has even begun losing money—some $250 million in Q4.
+* On the flip side, Lenovo currently offers a selection of Android phones that have seen success in China and other parts of Asia, but little in the US. As a longtime electronics-maker, it’s unlikely it wants Motorola’s hardware. So is it after the name? The patents?
+* It’ll be interesting to see how this all unfolds.
+* What’s your take on all of this?
+

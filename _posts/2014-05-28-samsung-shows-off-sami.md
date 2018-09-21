@@ -1,0 +1,15 @@
+---
+layout: post
+title: Samsung introduces 'Sami,' an open health-tracking platform
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/samsung-health-sami.jpg)
+* In less than a week, Apple will be taking the stage at its WWDC keynote event to talk about OS X, iOS 8 and its new health-tracking ‘Healthbook’ app. Unsurprisingly, Samsung tried to beat them to the punch today by announcing its own healthcare initiative.
+* They’re calling it ‘SAMI,’ short for Samsung Architecture Multimodal Interactions, and it’s a cloud-based platform capable of reading and storing data from various sensors. It’s compatible with Samsung’s S-Health products, and completely open to developers…
+* Reuters has more on the event, and comments from project leader Young Sohn:
+* At an event at San Francisco’s SFJAZZ Center today, Samsung’s Strategy and Innovation Center (SSIC) team demonstrated its open platform in a wearable wristband form factor, showing how devices based on this reference-design “blueprint” could be used to track measurements such as heart rate, respiratory rate and blood pressure. The company also demonstrated its open software architecture and how it could be used to collect data from a variety of sources, aggregate it and display it in a format allowing consumers to better understand what is taking place within their bodies.
+* “Samsung’s Digital Health Initiative provides an exciting opportunity for the brightest minds in the technology world to come together to develop the products that will, for the first time, put individuals in the driver’s seat in understanding their own health and wellness,” said Young Sohn, president and chief strategy officer, Device Solutions, SamsungElectronics. “At a time when healthcare spending is at record levels and when the number of people over the age of 60 worldwide is expected to exceed more than 1.2 billion by 2025, digital health is an incredibly important area for innovation. We believe this initiative is an essential first step and we invite developers and partners across the globe to join us in creating the technologies of the future that will help make people’s lives healthier.”
+* In addition to the cloud-based software, Sami also utilizes an open hardware platform. Samsung introduced a reference Sami-friendly device at the event called the Simband, which is capable of integrating the most advanced sensing technologies in the world today.
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/samsnug-health-simband.jpg)
+* The Simband is actually pretty interesting, as it features a modular design that will allow for innovation. It won’t be sold in stores, but Samsung hopes that the project will lead to an ecosystem of third-party health products, and it’s putting $50 million toward the cause.
+* Again, the timing of today’s event is interesting, and it seems clear that Samsung wanted to preempt any announcements from WWDC next week. Earlier this month, Reuters reported that Apple was building a full health and fitness services platform, akin to the App Store.
+

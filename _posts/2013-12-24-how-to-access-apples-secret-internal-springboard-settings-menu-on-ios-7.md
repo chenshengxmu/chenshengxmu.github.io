@@ -1,0 +1,17 @@
+---
+layout: post
+title: How to access Apple's secret internal SpringBoard settings menu on iOS 7
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/SpringBoard-Settings.jpg)
+* As predicted, the flood of new tweaks has started to pour in. The latest tweak, one called HiddenSettings7, allows users to access Apple’s hidden internal SpringBoard settings menu. This menu, which contains a plethora of settings to garner fine grained control over the look and feel of your device’s SpringBoard, is accessible via a shortcut found in Control Center.
+* We’ve taken the liberty to film a high level overview of HiddenSettings7 for you to enjoy. Have a look inside to see where to get the tweak and how to access a wealth of new settings.
+* The first thing I thought about when I saw these settings was Springtomize 2—Filippo Bigarella’s insanely deep jailbreak tweak that allows users to alter various aspects of their iPhones. That tweak was deep, but I have to say that it pales in comparison to the obsessive level of detail that you’ll find in these internal settings.
+* Note: Keep in mind that HiddenSettings7, and many other tweaks don’t work with A7 devices. I tested this on my iPod touch 5th generation, for example.
+* To be frank, these settings were never meant to be exposed to the average consumer, these are deep tools to subtly modify the look at feel of iOS to a perfectionist degree. In fact, unless you really know what you’re getting in to, you’d probably be best off waiting for Filippo to update Springtomize for iOS 7 instead of tinkering around too much with these settings; the control is just that obsessive and granular.
+* Inside the main settings page, you’ll find the following sections:
+* Almost all of the aforementioned panels have their own dedicated page filled with rows and rows of settings that can be tinkered with and fine tuned. For example, Parallax has four separate sections, each with over a dozen different settings pertaining to each. Some of the setting labels seem pretty straightforward, but many of them will be quite ambiguous to the untrained eye.
+![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/HiddenSettings7.png)
+* Still, if you’re desperate to Friction of Notification Center, or the Damping of the App Slider, then be my guest. You can find HiddenSettings7 on Cydia’s BigBoss repo, and it’s available free of charge. Special shout out to developer devBug for making these settings easily accessible to everyone by means of a simple Cydia package download.
+* After you install HiddenSettings7 there are no options or settings to configure to get started. Simply swipe up from the bottom of the screen to invoke Control Center, and tap the SpringBoard settings button located right beneath the AirDrop and AirPlay settings. Once you are in the special settings menu, you’ll need to tap the Done button in the upper  right-hand corner to exit, as Control Center, the Home button, and other features are disabled while in this hidden settings menu.
+* We’ll be following up soon with an in-depth walkthrough of some of the internal menu’s more prominent sections. Until then, keep the “reset to defaults” button located at the bottom of the menu handy, as you’ll probably need it after tinkering around to any real degree. Be sure to leave us a line in the comment section below with your thought and experiences with these settings.
+

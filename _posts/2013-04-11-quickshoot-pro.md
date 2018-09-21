@@ -1,0 +1,17 @@
+---
+layout: post
+title: QuickShoot Pro- a great way to quickly snap photos and videos
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/QuickShoot-Pro-01.png)
+* Have you ever missed an ideal snapshot as you waited for the Camera app’s animation and UI to finish loading? I think it’s safe to say that all of us have missed a perfect photo as a result of having to wait on the iPhone’s Camera app. Things have gotten considerably better in this regard as hardware speeds have improved, but it’s still not exactly perfect.
+* QuickShoot Pro is a jailbreak tweak that seeks out to solve the issue by letting you snap photos and videos directly from the Home screen. It accomplishes this feat using a couple of different methods. The first method requires you to double tap on the Camera app icon for a photo, and a triple tap on the app icon for video. By doing this, a photo or video is taken without the Camera UI, hence resulting in a faster composition.
+* The second method is a simple Activator gesture. You can setup an Activator gesture for taking a photo or starting a new video. QuickShoot Pro features quite a few options that can be used to configure the tweak to your needs and liking. It’s not going to completely reduce the wait time associated with taking a new photo, but it’s certainly faster than the stock method for taking photos and videos. Take a look inside as we break down QuickShoot Pro in our hands on video walkthrough…
+* Once QuickShot Pro is installed, you can begin using it immediately. Double tap on the Camera app icon, and you’ll see an impressive little animation denoting the snapshot. You’ll also notice the green focus boxes when the camera is focusing on a subject. A triple tap on the same app icon yields a red LED indicating that video recording is now taking place.
+![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/QuickShoot-Pro-04.png)
+* Venture into the tweak’s preferences contained within the Settings app, shows an assorted variety of different options. There’s the standard kill-switch for starters, along with a bevy of preferences for configuring the way photos and videos are taken. Here’s a quick rundown on what you will find in the tweak’s settings:
+![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/QuickShoot-Pro-02.jpg)
+* If you’re the type of person who hates venturing into the Settings app over and over again, you’ll be glad to find a shortcut options window — this allows you to adjust settings on the fly. The options window can be configured using an Activator gesture, and pops up directly on the Home screen to let you change HDR, flash, and camera device settings. You can configure the window to disappear after a set amount of time in the tweak’s settings.
+![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/QuickShoot-Pro-03.png)
+* Last but not least, there’s another option contained within QuickShoot Pro’s settings. This option allows you to select additional icons for invoking the camera with double or triple taps. This is great for those of you who use an alternate camera app like Camera+, and/or for those of you who hide the stock Camera app icon.
+* As you can see, QuickShoot Pro certainly lives up to its “pro” moniker. It features tons of options, great animations, and best of all, it serves its purpose well. QuickShoot Pro can be downloaded from Cydia’s BigBoss repo for $0.99. Let me know what you think about it in the comments below.
+

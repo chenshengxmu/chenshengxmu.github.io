@@ -1,0 +1,21 @@
+---
+layout: post
+title: Is the iOS 7.1.1 jailbreak safe, and should you update?
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/Pangu-Jailbroken.png)
+* There are several questions that have been circulating since the iOS 7.1.1 untethered jailbreak was released, so I have created this FAQ of sorts to answer some of the more pressing concerns. Read ahead as I talk about the safety of the iOS 7.1.1 jailbreak, which exploits were used, the compatibility of tweaks, how this affects an iOS 8 jailbreak and more. Everything you need to know about the iOS 7.1.1 jailbreak is just ahead… 
+* While I cannot personally guarantee that the iOS 7.1.1 jailbreak is completely safe to use, as there are so many technical intricacies involved, the general consensus is that the jailbreak is not harmful. iOS developer iH8sn0w confirmed that the jailbreak does not contain any spyware or malicious trails, while fellow iPhone hacker MuscleNerd said that everything appears to be okay so far.
+* (I personally wouldn’t jump from JB 7.0.x to 7.1.1 for this. But if I were at 6.x or 7.1.x already, it appears to be okay so far!)
+* — Ⓜ MuscleNerd (@MuscleNerd) June 23, 2014
+* Nevertheless, proceed with caution. It is still highly recommended that you backup your device through iTunes before upgrading to iOS 7.1.1 and jailbreaking. It would also be wise to uncheck the box in the PanGu jailbreak tool that installs a pirated app store and PPSync, especially because the latter package is said to cause instability on jailbroken devices. Here is how to remove PPSync if you’ve already installed it.
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/PanGu-iOS-7-Jailbreak-Devices.png)
+* If you already have a jailbroken iPhone or iPad on iOS 7.0 – 7.0.x, then I would personally recommend remaining on your current software version for at least a few days. The reason is that most developers will now need to update their jailbreak tweaks to support iOS 7.1.1, and those tweaks must then be repackaged and made available on Cydia. That process could take days or weeks, depending on how quick the developer in question acts.
+* If you currently have an iPhone or iPad running iOS 7.1 or later, or perhaps iOS 6, then jailbreaking might be a no brainer to you. But keep in mind that, as explained above, not all tweaks and other packages will be supported just yet. We’ll be working on compiling a list of iOS 7.1.1 compatible jailbreak tweaks, but this thread on Reddit lists quite a few tweaks that appear to be supported so far.
+* You may have to run the PanGu tool twice, especially if you receive a blue screen on an iPhone 5s.
+* You may have forgot to uncheck the box in the PanGu tool that installs PPSync, which is said to cause system instability. Read this: how to remove PPSync.
+* It appears that the iOS 7.1.1 jailbreak involves an InfoLeak bug that at least one Chinese developer named Hao (windknown) learned how to exploit after receiving iOS kernel training from the infamous Stefan Esser (i0n1c) within the past year or so. iH8sn0w claims that the iOS 7.1.1 jailbreak burns two exploits, related to code signing and the kernel. The jailbreak also uses a “syslogd chown” vulnerability that was disclosed at the Black Hat hacking conference in August.
+* As far as an iOS 8 jailbreak is concerned, the use of two exploits for the iOS 7.1.1 jailbreak could make it harder for further vulnerabilities to be uncovered; however, the enterprise certificate loophole that is used as an injection vector for this jailbreak in the first place has yet to be patched. That certificate loophole is the reason why you have to roll back the system time on your device in order to install this jailbreak, or emulators like GBA4iOS.
+* Wikipedia claims that Pangu is the first living being and creator of all according to some Chinese mythology, so it is likely that is where the name for this jailbreak tool was derived from.
+* In terms of who belongs to the PanGu team, which seemingly came out of nowhere, it appears to consist of Hao (windknown), XiaBo Chen (dm557), Daniel Manoppo (Daniel_K4) and potentially others.
+* We’ll keep this post updated with a running list of other questions based on the comments we receive below.
+

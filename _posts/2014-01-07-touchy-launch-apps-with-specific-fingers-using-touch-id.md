@@ -1,0 +1,18 @@
+---
+layout: post
+title: Touchy- launch apps with specific fingers using Touch ID
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/Touchy-03.jpg)
+* Touchy is an awesome new tweak that allows users to assign specific apps to designated fingers via the iPhone 5s’ Touch ID sensor. I’ve been testing the upcoming jailbreak tweak through several iterations, and it’s coming along quite nicely.
+* Touchy lets you assign up to five different apps to work with up to five different fingers via its settings panel. Since it uses Touch ID, you’ll need to make sure you set up the fingerprints via Touch ID’s settings beforehand. You don’t have to configure all five fingers, you’ll just need to have as many prints set up as you want to assign to shortcuts.
+* Understandably, most of the tweaks we’ve seen involving Touch ID revolve around some sort of security aspect, but Touchy is among the first Touch ID oriented tweaks that dares to do something different. Take a look at our video inside to see how the tweak works in action.
+* Once installed, you’ll spot a new preference panel for Touchy located in the stock Settings app. Touchy’s preferences contain a kill switch for toggling the launcher, and as many finger assignment designations as you have set in Touch ID’s security settings.
+* Each app can be quickly assigned to a specific fingerprint via the individual panels for each finger. It helps if you have named the specific fingers via Touch ID’s settings in order to easily identify them and their designation.
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/Touchy-Settings.png)
+* Assigning apps to different fingers can be done on the fly without respringing. Adding or removing Touch ID fingers does require a respring, but that’s not something I imagine most would be doing very often.
+* The actual process of launching apps works pretty much as you would expect. A simple tap and hold on the Touch ID sensor with a designated finger quickly launches the application associated with that finger. It’s easy to forget which apps you have assigned to each finger. For that reason, I recommend starting out with just a couple of apps assigned, and working your way up from there.
+* I do think there is some room for growth with Touchy. It would be nice if there was some sort of HUD overlay that could quickly tell you which app is assigned to the finger currently touching the Touch ID sensor. Something like that may be difficult to implement, but it’s just an idea.
+* When comparing the way Touchy works to Activator’s Touch ID gestures, I have to give Mitch a lot of credit for getting this right. With Activator, it tends to launch the action associated with the Touch ID gesture even if you didn’t mean to do so. For instance, when just pressing the Home button to get to the Home screen, the associated action for the Touch ID gesture would often occur. This rarely happens with Touchy, and it’s evident that Mitch spent a lot of time perfecting the timing in order to get this right.
+* Just like the Fancy jailbreak tweak we showed you earlier, Touchy is developed by Mitch Treece. While that name may not ring a bell to most of us long-timers, perhaps SBCoders will. SBCoders is the development name that Mitch developed under in the past. Plenty of good tweaks hit Cydia under that moniker, including Deck, and Aero.
+* Touchy should be available in the near future on Cydia’s ModMyi repo. It will open up at an introductory price of $1.99. Afterwards, the tweak will be priced at $2.99, so you might want to get in early to score the best deal. Be sure to share your thoughts on the tweak’s premise in the comments down below.
+

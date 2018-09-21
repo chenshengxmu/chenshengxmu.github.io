@@ -1,0 +1,23 @@
+---
+layout: post
+title: iPhone 6s Smart Battery Case- One month later
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/Smart-Battery-Case-review.jpg)
+* It’s been about a month since I purchased Apple’s highly-polarizing Smart Battery Case for the iPhone 6s. During this period of time, I’ve been using the case almost non-stop. I did remove the Smart Battery Case for a few days during the past month to see what life was like without the extra battery life, but I was happy to return to it not long after my experiment.
+* Most, if not all, of my initial impressions still hold up a month later. The Smart Battery Case might not be the best looking design to come out of Cupertino, but in real world usage, this thing is a winner.
+* In my review, I shared with you the things that I liked and the things that concerned me about the Smart Battery Case. While most of those opinions still ring true, I wanted to provide a few updates and clarifications.
+* I can’t say that the design of the Smart Battery Case has grown on me in the last month; it’s still just as odd-looking as it was when it debuted. I was initially able to overlook the weird design because the case did such a good job in all other areas, and this still holds true today.
+![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/Smart-battery-case-rear.jpg)
+* I continue to get the occasional goofy look or grin whenever I pull out my iPhone in public, but I’m used to that by now, and it makes for a good conversation piece. Besides, I find that the design, however odd-looking, is actually comfortable to use from an ergonomic perspective.
+* One of the knocks that I made against the case had to do with the soft elastomer (rubber, heh) material that it’s primarily comprised of. I complained that the white version of the case picked up lots of lint through normal usage. While that still rings true, it’s not nearly as bad as it at first seemed, and over the last month it has proved to be a non-issue.
+* In fact, I find the outer surface of the case to be remarkably resilient and easy to clean. Simply wiping it off with a damp rag will eliminate 99% of the surface dirt that may cling to the case.
+* I also think that the Smart Battery Case does a great job of actually protecting its contents. Yes, the primary reason why one would want such a case is for the extra battery life, but it’s very competent when it comes to protecting the iPhone from drops and dings.
+* One thing that I failed to mention in my review was how the elastomer’s outer non-slip surface causes friction and grip. The grippiness means that it won’t slip out of your hand due to said friction, but that can be a downside as well. I’ve noticed that I have a hard time placing the case into pockets and removing it from pockets due to the friction imposed by the case material. It’s extremely non-slippery, and as such, it’s hard to wedge it into tight spaces like pockets. That can be really annoying, especially if you tend to wear slim fitting clothes.
+![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/Smart-Batter-Case-one-month-later.jpg)
+* The most impressive thing about the Smart Battery Case is that it effectively makes it so that you don’t have to worry about battery life throughout the day. Whereas previously, I would not be able to make it through an entire day without charging, now I don’t even have to think about charging my device. With the Smart Battery Case, I know for a fact that I will make it through the day with battery life to spare, and that’s a wonderful feeling.
+* But what I really appreciate, and I think I did a good job of articulating this in my initial review, is that the Smart Battery Case lives up to its name. It’s smart, because it does all of the thinking and doesn’t require anything from you. The fact that there are no buttons or settings to manage, the fact that it simply charges like normal through the Lightning port, is what makes this case so hard to go without.
+![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/Smart-battery-case-dock.jpg)
+* If the Smart Battery Case required anything from me outside of what I normally have to do to keep my iPhone charged, I’d have second thoughts about using it. Because I don’t even have to think about the case, is why I still have it on 30 days later.
+* You guys know me; I can be quite finicky when it comes to pretty much anything, but my initial review was correct, the Smart Battery Case is much smarter than you may think. And for that reason, it’s an accessory that I plan on keeping for the long haul.
+* What about you?
+

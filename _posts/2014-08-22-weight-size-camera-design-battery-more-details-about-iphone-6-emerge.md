@@ -1,0 +1,25 @@
+---
+layout: post
+title: Weight, size, camera design, battery- more details about iPhone 6 emerge
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/n56-product-overview.jpg)
+* A new report shared by French publication iGen reveals more information about the two iPhone 6 models Apple is set to announce next month. Based on details obtained from a source inside Foxconn, the report sheds more light about the weight, size, camera design, and battery of models N61 and N56, code names for the 4.7 and 5.5 inch iPhones respectively.
+* According to the report, Apple has been working on two different prototypes for model N56, but finally settled for prototype #2. Screenshots from Foxconn computers show the final dimensions of the 5.5 inch iPhone will be 158.07 x 77.79 x 7.10 mm. Adding to the thickness of the device is the camera lens protruding by 0.67 mm, which will bring the device to 7.77 mm at its thickest point. As for the weight, screenshots show that while prototype #1 was only 168.5 grams, prototype #2 is 184.6 grams. That’s a 10% weight difference that doesn’t have a confirmed explanation, but could be due to larger battery.
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/n56-n61-n51-cosmetic-comparison.jpg)
+* The smaller version of the iPhone 6 is pegged to measure 138.14 x 66.97 x 6.90 mm, but with a camera lens protruding by 0.77 mm, bringing the thickest point of the device to 7.67 mm. The weight of this model is unknown at this time.
+* For comparison, the iPhone 5s measures 123.8 x 58.6 x 7.6 mm, weighting a total of 112 grams. With that being said, and without taking into account the protruding camera, it appears both iPhone 6 models will be slightly thinner than the iPhone 5s.
+* We’ve so far heard conflicting reports about the battery capacity of the iPhone 6, with 1,810 mAh, 2,100 mAh, and 2,915 mAh being rumored to equip Apple’s latest smartphones. While there is no specific confirmation, iGen claims that their source expects the battery of the 5.5 inch model to be over 2,915 mAh. If that is the case, could the 4.7 inch model sport the leaked 2,915 mAh battery? Your guess is as good as mine.
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/iPhone-6-battery-NowhereElse-003-teaser.jpg)
+* For comparison, the iPhone 5s has a 1,560 mAh battery, which is almost half the size of what the larger iPhone 6 could have. With battery life being a recurring complaint from iPhone users, and with Apple being under marketing attack from Samsung on this front, it wouldn’t be surprising to see the Cupertino company finally make a big advancement in battery capacity.
+* While the production of both 4.7 and 5.5 inch devices started this week, certification tests were completed last week. According to iGen, Apple ordered 40 million units of the smaller version, and no less than 100 million units of the larger model over the next 12 months.
+* There currently is no price indication but some carriers who are already aware of the prices have reportedly cut back on accessory orders for the 5.5 inch device, in fear that the high price may turn potential buyers off.
+* An interesting detail shared by iGen in regards to the iPhone 5s is that the device will still be part of the show on September 9, a date when Apple is expected to unveil the new iPhone line. It will become the defacto entry level device, making us wonder what will happen to the “c” line.
+* Will Apple drop the c line completely? Despite encouraging sales numbers, this line could be reaching the end of the… line, and be replaced by the previous year’s model, the same way Apple used to do up until 2013 when it introduced the iPhone 5c and retired the iPhone 5.
+* The meat of the report has been summed up above, but iGen does provide other crusty details that are worth adding here.
+* Apple has apparently shipped 28 containers of sapphire displays to Foxconn. While the rumors have gone wild as to what device may or may not sport the stronger and more expensive displays, there are still no real reliable information about this.
+* Despite what we’d heard about what some may refer to as the ugly antenna breaks not being part of the final design, it seems that the lines will indeed be part of the final product. While not esthetically appealing, they will play a great part in letting radio waves go through.
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/5.5-inch-iPhone-6-dummy-Danny-Winget-002.jpg)
+* Finally, and still according to iGen’s source, Apple has reportedly been looking into using a 2.5 mm audio jack to replace the standard 3.5 mm jack. The goal would have been to make the devices even thinner, but cost, and maybe the probability of angering more than a few users, led Apple to drop the idea.
+* iGen is a reliable publication with a very good track record, and although everything should be taken with a grain of salt until Apple unveils the devices on September 9, we do put a lot of weight on this report.
+* Source: iGen
+

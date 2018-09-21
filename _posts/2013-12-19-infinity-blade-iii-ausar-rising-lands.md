@@ -1,0 +1,15 @@
+---
+layout: post
+title: 'Ausar Rising' update now available as Infinity Blade III goes half price
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/Infinity-Blade-III-Oslim-the-Deathless-Bloodmage.jpg)
+* Chair Entertainment’s Infinity Blade franchise has received a massive content update this morning. Hot on the heels of releasing the first major Soul Hunter content pack, Infinity Blade III Ausar Rising is now available as a free download for those who’ve purchased the game.
+* Featuring a new Arena mode that will test your skills and give you a chance to earn new skills by challenging you to fight a series of progressively harder tests against a horde of Titans, a second dragon named Pisci, three new quests, nine new enemies, over 60 new items and holiday helmets for both Isa and Siris, eight new skills and a host of new goals, potions and gems, it’s the most comprehensive Infinity Blade update yet…
+* The new Deathless quests are especially interesting: win this mode five times and a new ability to master items to level 20 will unlock. Another cool thing about Ausar Rising is that you can now master items beyond level 10. Defeating the Worker in Deathless Mode once will unlock the ability to master items up to level 15, by the way.
+* You will also love that Ausar Rising includes the original Infinity Blade castle with additional new locations so you can explore the origins of the Infinity Blade protagonist and lots, lots more.
+* Here’s everything Ausar Rising brings to the table:
+* – Play through 3 new quests: Siris and Isa come face to face with the ultimate embodiment of evil – a soulless Ausar the Vile! – Travel to where it all began – the Dark Citadel (the original Infinity Blade I castle), Siris’ home in Drem’s Maw, and the legendary Plains of Koroth. – Battle 9 new enemies, including a ferocious new Dragon. – New Mode: THE ARENA – How long can you survive in the Arena? Do you claim your prize now, or risk it for ever increasing rewards? – New Hardcore Mode: DEATHLESS QUESTS – The ultimate way for the ultimate Infinity Blade gamer to play the game! – Trade tips and secrets with your friends via the all-new in-game chat feature. – Over 60 new items for both Isa and Siris, including weapons, shields, helmets, magic rings, and armor to collect, master, and sell. – Unlock 8 new Skills: Remove equipped Gems for free, double Chips earned in Battle Challenges, cast super boosted Magic, and more! – New Goals, Potions, and Gems. – New Holiday Helmets for Isa and Siris. – Fully compatible with iOS 6 and iOS 7. – A number of additional balancing tweaks, bug fixes, and gameplay enhancements.
+* For a more detailed overview of what’s new in this update, check out my announcement article or Chair’s blog post.
+* Infinity Blade III normally costs $6.99, but is now on sale and available half price, for a limited time.
+* The massive 1.8GB download supports both iOS 6 and iOS 7 devices and is optimized for the iPad Air, iPad mini with Retina display and iPhone 5s, featuring full screen anti-aliasing, bloom, full screen vignettes, distortion, high resolution shadows and environmental reflections.
+

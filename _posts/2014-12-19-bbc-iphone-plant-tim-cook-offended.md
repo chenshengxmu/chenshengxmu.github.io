@@ -1,0 +1,51 @@
+---
+layout: post
+title: Tim Cook ‘deeply offended’ by BBC's allegations of factory worker mistreatment
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/Tim-Cook-One-More-Thing-001.jpg)
+* An undercover documentary released yesterday by the BBC about working conditions in Pegatron’s iPhone factories has reportedly sent CEO Tim Cook and the rest of Apple’s executive team through the roof, The Telegraph reported Friday.
+* BBC’s investigative report makes fresh allegations about continued poor working conditions at the iPhone manufacturing facility on the outskirts of Shanghai. The documentary’s found poor treatment of workers after Apple’s stated several times that it’s cleaned up its act.
+* The full video of the BBC documentary surfaced on YouTube this morning though it’s probably going to get taken down soon so we’ve embedded it for your viewing pleasure.
+* The notion that Apple’s contract fabricator, Pegatron, is mistreating workers reportedly “deeply offended” both Apple CEO Tim Cook and Jeff Williams SVP of Operations.
+* In an email to around 5,000 staff across the UK, the two men wrote they were “deeply offended by the suggestion that Apple would break a promise to the workers in our supply chain or mislead our customers in any way”.
+* “Panorama’s report implied that Apple isn’t improving working conditions,” Cook said. “Let me tell you, nothing could be further from the truth.”
+* And here’s the unofficial YouTube version of the controversial documentary by BBC’s Panorama programme, titled ‘Apple’s Broken Promises’ and running 38 minutes and 40 seconds long.
+* https://www.youtube.com/watch?v=AVaTl2kW6YU
+* Cook also complained that none of the “facts and perspective” the company provided to the producers made it into the documentary.
+* “We know of no other company doing as much as Apple does to ensure fair and safe working conditions, to discover and investigate problems, to fix and follow through when issues arise, and to provide transparency into the operations of our suppliers,” Williams said.
+* The 1,400 manufacturing workers Apple employs in China are “talented engineers and managers who are also compassionate people, trained to speak up when they see safety risks or mistreatment,” he continued.
+* Seen below: a scene from the documentary showing workers sleeping on the iPhone production line at the Pegatron facility.
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/BBC-Pegatron-plant-workers-sleeping.jpg)
+* According to the documentary, the iPhone 6 production line is brutal. Some workers reportedly fell asleep during twelve-hour shifts and others were forced to work eighteen days in a row after repeatedly being denied requests for a day off.
+* While noting that Apple can still, and will, do better, Williams reiterated company data acknowledging that its suppliers have achieved an average of 93 percent compliance with the 60-hour workweek limit this year.
+* Responding to the issue of child labour in Indonesian tin mines, Williams acknowledged that tin from Indonesia does end up in Apple’s products, some of which “likely comes from illegal mines,” but underscored that Apple is pushing for a change because “the government is not addressing the issue, and there is widespread corruption in the undeveloped supply chain.”
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/Indonesian-tin-mines.jpg)
+* Apple, he said, faces two choices: demand that its suppliers buy tin from smelters outside of Indonesia (“it would certainly shield us from criticism”) or do the right thing and push for changes in the country. “We chose the second path, which is to stay engaged and try to drive a collective solution,” Williams, who is pictured below, said.
+* It’s interesting that Business Insider’s Henry Blodget, who is among Apple’s staunchest critics, says that while BBC’s discoveries are startling and depressing, we should blame ourselves for supporting the dark side of today’s global economy.
+* “Some of the people who make the products you use every day have jobs and lives that you would consider appalling,” Blodget writes. “You know this. You just fortunately don’t have to think about it very often. You are also choosing to continue buying these products, even though you know what goes into them.”
+![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/jeff-williams.png)
+* 9to5Mac has the full text of Williams’ letter to UK staff:
+* UK Team,
+* As you know, Apple is dedicated to the advancement of human rights and equality around the world. We are honest about the challenges we face and we work hard to make sure that people who make our products are treated with the dignity and respect they deserve.
+* Last night, the BBC’s Panorama program called those values into question. Like many of you, Tim and I were deeply offended by the suggestion that Apple would break a promise to the workers in our supply chain or mislead our customers in any way.
+* I’d like to give you facts and perspective, all of which we shared with the BBC in advance, but were clearly missing from their program.
+* Panorama showed some of the shocking conditions around tin mining in Indonesia. Apple has publicly stated that tin from Indonesia ends up in our products, and some of that tin likely comes from illegal mines. Here are the facts:
+* Tens of thousands of artisanal miners are selling tin through many middlemen to the smelters who supply to component suppliers who sell to the world. The government is not addressing the issue, and there is widespread corruption in the undeveloped supply chain. Our team visited the same parts of Indonesia visited by the BBC, and of course we are appalled by what’s going on there.
+* Apple has two choices: We could make sure all of our suppliers buy tin from smelters outside of Indonesia, which would probably be the easiest thing for us to do and would certainly shield us from criticism. But it would be the lazy and cowardly path, because it would do nothing to improve the situation for Indonesian workers or the environment since Apple consumes a tiny fraction of the tin mined there. We chose the second path, which is to stay engaged and try to drive a collective solution.
+* We spearheaded the creation of an Indonesian Tin Working Group with other technology companies. Apple is pushing to find and implement a system that holds smelters accountable so we can influence artisanal mining in Indonesia. It could be an approach such as “bagging and tagging” legally mined material, which has been successful over time in the Democratic Republic of the Congo. We are looking to drive similar results in Indonesia, which is the right thing to do.
+* Panorama also made claims about our commitment to working conditions in our factories. We know of no other company doing as much as Apple does to ensure fair and safe working conditions, to discover and investigate problems, to fix and follow through when issues arise, and to provide transparency into the operations of our suppliers.
+* I want you to know that more than 1400 of your Apple coworkers are stationed in China to manage our manufacturing operations. They are in the factories constantly — talented engineers and managers who are also compassionate people, trained to speak up when they see safety risks or mistreatment. We also have a team of experts dedicated solely to driving compliance with our Supplier Code of Conduct across our vast supply chain.
+* In 2014 alone, our Supplier Responsibility team completed 630 comprehensive, in-person audits deep into our supply chain. These audits include face-to-face interviews with workers, away from their managers, in their native language. Sometimes critics point to the discovery of problems as evidence that the process isn’t working. The reality is that we find violations in every audit we have ever performed, no matter how sophisticated the company we’re auditing. We find problems, we drive improvement, and then we raise the bar.
+* Panorama’s report implied that Apple isn’t improving working conditions. Let me tell you, nothing could be further from the truth. Here are just a few examples:
+* Several years ago, the vast majority of workers in our supply chain worked in excess of 60 hours, and 70+ hour workweeks were typical. After years of slow progress and industry excuses, Apple decided to attack the problem by tracking the weekly hours of over one million workers, driving corrective actions with our suppliers and publishing the results on our website monthly — something no other company had ever done. It takes substantial effort, and we have to weed out false reporting, but it’s working. This year, our suppliers have achieved an average of 93% compliance with our 60-hour limit. We can still do better. And we will.
+* Our auditors were the first to identify and crack down on a ring of unscrupulous labor brokers who were holding workers’ passports and forcing them to pay exorbitant fees. To date, we have helped workers recoup $20 million in excessive payments like these.
+* We’ve gone far beyond auditing and corrective actions by creating educational programs for workers in the same facilities where they make our products. More than 750,000 people have taken advantage of these college-level courses and enrichment programs, and the feedback we get from students is inspiring.
+* I will not dive into every issue raised by Panorama in this note, but you can rest assured that we take all allegations seriously, and we investigate every claim. We know there are a lot of issues out there, and our work is never done. We will not rest until every person in our supply chain is treated with the respect and dignity they deserve.
+* If you’d like to learn more about our Supplier Responsibility program, I encourage you and our customers to visit our website at apple.com/supplierresponsibility.
+* Thanks for your time and your support.
+* Jeff.
+* Our UK readers can watch ‘Panorama: Apple’s Broken Promises’ on BBC iPlayer.
+* What’s your position on this thorny issue?
+* Is the media frenzy over working conditions in Pegatron’s plants justified, do you think, or is Apple being repeatedly lambasted due to its sheer size and influence?
+* [The Telegraph]
+

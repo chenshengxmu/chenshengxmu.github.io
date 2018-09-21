@@ -1,0 +1,11 @@
+---
+layout: post
+title: Apple TV 4 jailbreak for tvOS 10.1 is under way
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/Apple-TV-colored-screen.png)
+* Although the signing window for tvOS 10.1 closed yesterday along with that of iOS 10.2, those who are still on the penultimate firmware for the Apple TV 4 may also be receiving some jailbreak love in the near future. A tweet from software development consultant Jonathan Levin confirms that one of the exploits used in the yalu102 jailbreak for iOS 10.0-10.2 can be run on tvOS 10.1, and that as a result, development of a jailbreak is under way.
+* As recently reported by Sébastien, the exploits utilised in Luca Todesco’s yalu102 tool had been thought largely applicable to its tvOS counterpart, tvOS 10.1. This news confirms that suspicion, with CVE-2017-2370 being shown successfully targeting the device. This is one of Ian Beer’s vulnerabilities from Google’s Project Zero, and it provides kernel memory read-write access. However, it is not yet clear whether the other vulnerabilities which make up Todesco’s tool are similarly applicable, or whether workarounds will have to be found in order to create a complete jailbreak solution.
+* This development means that with a bit of luck and ingenuity, the yalu102 tool could be adapted to yield a jailbreak for the Apple TV 4 on firmwares up to and including tvOS 10.1. Suspecting this to be a possibility, we posted a guide detailing how to restore your Apple TV to tvOS 10.1 a few days ago, and advised moving to the firmware in our comprehensive jailbreak advice guide. Hopefully, many of our readers will be sitting pretty on tvOS 10.1, in anticipation of a forthcoming tool.
+* We’ll keep you up to date with any further happenings regarding the Apple TV 4 and its jailbreak eligibility. In the meantime, if you don’t know what version of tvOS you’re on, have a check; if it’s tvOS 10.1 or below then stay there, and be sure to turn off automatic firmware updates for your Apple TV 4. Users who restored to tvOS 10.1 before the signing window closed should also ensure these updates are disabled.
+* And now we play the waiting game. Hopefully, we’ll see a jailbreak tool take shape in the coming weeks. Is your Apple TV 4 on tvOS 10.1? Are you excited at the prospect of a jailbreak for the oft-neglected device?
+

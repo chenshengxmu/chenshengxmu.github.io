@@ -1,0 +1,13 @@
+---
+layout: post
+title: Cydia 1.1.28 exits beta- purchases now enabled on iOS 10
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/Cydia-Store-Purchase.jpg)
+* Since the release of yalu102 for iOS 10.0-10.2, users of the newest jailbreak have been unable to make new purchases on the Cydia store. This is completely normal behaviour; Saurik disables purchases on new firmware versions until both Cydia and the jailbreak reach a level of stability. The reason for this is to prevent complaints, refunds, and device problems brought about by the purchase and use of incompatible tweaks.
+* Today Cydia 1.1.28 exited beta, and that, in combination with the relative stability of the later yalu102 beta builds, seems to have satisfied Saurik as to the platform’s readiness to receive paid transactions.
+* The new Cydia version is available now, and should show up automatically on the standard repo, Cydia/Telesphoreo. However, installing the new build is not necessary to enable iOS 10 purchases. This is done server-side by Saurik and is not based on Cydia version number. Conversely, users who are on jailbreaks on firmwares lower than iOS 10 could of course already make purchases, but they too will receive the Cydia update.
+* The changes in Cydia 1.1.28 have already been outlined in my article on its beta phase, and include a major update to APT, the package management backend, support for iOS 10, and the conversion of Cydia to a 64-bit process. This will remove the 32-bit warning dialog box, as well as fixing a bug which rendered links within the program unclickable. Updates were also pushed today for the required packages Tape Archive and Debian Packager, Cydia’s closest friends.
+* Now that the purchasing system has been activated for iOS 10, users will no longer have to resort to workarounds such as tampering with system files, or purchasing tweaks on other devices, to get their hands on their favourite modifications. (Incidentally, the first of these two workarounds is a terrible idea anyway, and should never be attempted). Tweak developers are now free to make their creations available in exchange for cash, provided they have been updated to support iOS 10.
+* Please note, Saurik enabling the payment system on iOS 10 does not automatically mean all tweaks will instantly be available to buy; developers must also manually designate their paid tweaks as eligible for iOS 10 purchases. What Saurik has done is enable access to the infrastructure that will allow them to charge, once they are ready.
+* Is there a killer tweak you have been waiting to buy on your iOS 10 jailbreak? What are your experiences with the newest Cydia version? Let me know below.
+

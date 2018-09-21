@@ -1,0 +1,15 @@
+---
+layout: post
+title: My favorite iPad stand is getting an upgrade
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2017/07/mistand-plus-facetime.jpg)
+* On November 27, 2013, I gave a gushing review of the MiStand, where I claimed the stand was “my new go-to dock, with a small simple and highly functional design.” Today, I am still confident in that claim, as the MiStand has not left my kitchen counter since that initial review almost four full years ago. I use it regularly to hold my iPad, while working in the kitchen, watching videos or FaceTiming family. Consequently, I was very excited to learn about MiStand+, which is currently raising funds via Indiegogo for an upgraded version. 
+* MiStand+ is a more polished and streamlined version of its predecessor. With somewhat softer edges, the stand is still a bit aggressive looking, but is perfectly built to hold your device. The stand consists of three parts:
+![img](http://media.idownloadblog.com/wp-content/uploads/2017/07/mistand-plus.jpg)
+* The biggest ‘wins’ here are the materials. Milled aluminum makes the device incredibly sturdy and weighted to counter-balance your iPad. It is an extremely solid, almost industrialized design, yet it is comfortable being placed around the house. The second, and most important, are the micro suction pads. Being able to regularly remove and replace the stand, in multiple locations, is a big win. Moreover, being able to confidently attach an iPad is critical. I left my iPad on this stand, resting above a three foot fall into the sink, without worry… walking away, even leaving it over night, maybe even a few days–no problem!
+* If the micro suction pads start to lose their stick, I simply wipe them with warm water on my finger and let them dry. This removes any small particles that may be building up in the microscopic suction chambers. Do not use a cloth as it can leave lent and prevent a perfect connection.
+![img](http://media.idownloadblog.com/wp-content/uploads/2017/07/mistand-plus-remove-ipad.jpg)
+* I recommended the MiStand four years ago and stand by my word. Having actively used this stand for that long and with such frequency, it is easily the best stand I have for the home. And, quite frankly, the only stand I have ever held on to for that long. When I saw the updated design, I was quick to connect with the team about reviewing the newer version.
+* To be fair, this is really a set-it-and-forget-it stand. If you are looking for portability or a light weight option, look elsewhere. It isn’t something you are going to fold into your day pack and commute back and forth. But, it is the perfect in-home companion or desktop solution for the office.
+* Currently, early bird pricing on Indigogo has a MiStand+ in your home for £33 or approximately $43USD. Given the solid craftsmanship, carefree design, and the longevity of my initial model, this is a no-brainer for me to recommend once more. The campaign ends in two weeks! Jump over to the campaign page to order one for yourself.
+

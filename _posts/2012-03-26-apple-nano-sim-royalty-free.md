@@ -1,0 +1,15 @@
+---
+layout: post
+title: If approved, Apple will license its Nano SIM to others royalty-free
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/SIM-card-sizes.jpg)
+* Last week, we told you about two opposing proposals concerning the emerging Nano SIM standard. An Apple-backed solution requires a tray so phones would need to be re-engineered with this in mind. It is largely believed to benefit the ultra-thin design of a sixth-generation iPhone.
+* The other proposal is led by Nokia and backed by Motorola and RIM. It calls for a Nano SIM variant that doesn’t require a tray and is even smaller than Apple’s. The two camps had tabled their proposals to the European Telecommunications Standards Institute (ETSI) and now a report has emerged claiming that Apple’s solution, if approved, will be offered on a royalty-free basis to any industry player…
+* According to the patent blog FOSS Patents and its author Florian Müller, Apple is willing to license all related patents concerning the Nano SIM standard to the other members of ETSI, royalty-free. Apple has allegedly sent a letter to those members confirming this. The company is said to ask in exchange any patents essential to nano-SIMs held by other companies.
+* Müller explains:
+* A perfectly reliable source that I can’t disclose has shown me a letter dated March 19, 2012 that a senior Apple lawyer sent to ETSI. The letter addresses the primary concern of critics of the proposal. The FT said that “the Apple-led proposal has caused some concern among its rivals that the US group might eventually own the patents”. But Apple’s letter has removed this roadblock, if it ever was any, through an unequivocal commitment to grant royalty-free licenses to any Apple patents essential to nano-SIM, provided that Apple’s proposal is adopted as a standard and that all other patent holders accept the same terms in accordance with the principle of reciprocity.
+* The development comes just as ETSI is scheduled to discuss Nano SIM proposals later this week at the Smart Card Platform Plenary conference in Sophia Antipolis, Southern France. Roughly a third smaller than the Micro SIM utilized on the iPad/iPhone 4/4S, the new Nano SIM helps mobile devices shrink in size or implement additional functions.
+* Last week, Nokia opposed Apple’s proposal and issued a lengthy statement basically arguing “Apple’s proposal does not meet all of the pre-agreed requirements” for ETSI’s planned Nano SIM. The Finnish cell phone giant believes that “our proposal has features which would make it easier for consumers to insert and remove the SIM without damage”.
+* Apple first submitted a new Nano SIM requirement to the European Telecoms Standards Body back in 2011. Carrier AT&T in the United States has publicly backed the Nano SIM initiative. Whichever way you look at it, looks like the miniaturized Micro SIM is already on its way out.
+* Are you excited about the prospect of an even smaller and thinner SIM card freeing up the valuable space inside your iPhone 5, said to be a major redesign?
+

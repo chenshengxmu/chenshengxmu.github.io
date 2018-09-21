@@ -1,0 +1,29 @@
+---
+layout: post
+title: Cal by Any.DO review- a simple and beautiful calendar for iPhone
+---
+* If you are one of those iOS users that has gotten tired of Apple’s 6-year-old operating system design and are on the edge of your seat waiting for iOS 7 to drop, you will be happy to know that app developers are already on the move, making apps that reflect the whiter, flatter look that we will be seeing in a few weeks.
+![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/Cal-1.jpeg)
+* Cal by Any.DO is one of those apps that is taking on the cleaner, more minimalistic look. This calendar app looks so much like iOS 7’s native app that it is a wonder Apple even approved it…
+* Obviously, what makes Cal stand out is its design. It is the app’s most important feature. The basic calendar is white with red, gray, and black accents. I am not a font expert, but it appears that this app even shares the same font type as the Calendar app in iOS 7.
+* The dates are displayed by month. If you have events or projects listed, you can “push” the to-do list by dragging your finger upward so that only the current week is showing while the rest of the screen displays your calendar items. To view the entire month again, drag your finger downward on the screen to pull it back down.
+* The current day of the week is highlighted in red with a red line below it. In the upper left corner, you will see today’s date, or the current month, depending on how you are displaying the daily calendar items.
+* Underneath the flat, white calendar are high-quality images. On days when your calendar is full, you will only see the white background. If you don’t have very many items on a certain day, you will be able to see a picture peeking through. You can also drag your calendar upward to see the image that is hiding underneath.
+* If you want to get a full screen view of the image, tap an area on the screen where it is showing and your calendar will hide behind it. Each day features a different background picture.
+* When you tap on an event, the information will be displayed in white blocks that sit on top of an image. An event may list the title and time in one block, the people attending the event in a second, and a map of the location in the third.
+* When you are done viewing an event, you can drag your finger up or down on the screen to bring back the full calendar.
+* To see another month, swipe the calendar from right to left or the reverse. To add an event, tap the plus (+) symbol in the upper right corner.  When you invite others to join your event, you will be able to access your device’s contacts list. Strangely, the app doesn’t automatically display the names of all of your contacts, only some of them. However, you can search for names just by typing into the search bar. If your contacts have a picture attached to their account, you will be able to see it.
+* You can also add a location, set a reminder, and include a note. If you include a location, you can use it to get directions. When you tap the navigate button, you will be redirected to the Apple Maps app.
+* There is a Taxi button that I think connects you to a particular taxi-calling app. However, it doesn’t appear to be available in the U.S. App Store.
+![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/Cal-2.jpeg)
+* When you first open the app you will be asked to either log in with your Any.Do account, or connect using Facebook. If you already use the Any.Do app, you will be able to sync all of your tasks so they appear in the Cal app.
+* The app will sync with your iCloud calendar. If your iCal app on your desktop or mobile device is connected through iCloud, all of your calendars will appear. I sync iCal with my Google calendar and all of my calendars were imported into the app. It doesn’t appear that new events that I add to the app are synced with my Google Calendar, but they do sync with iCal.
+* The Cal app will sync with your contacts. I had problems with the contact section. It only showed me some names from the “A” section of my contacts. Additionally, many of them were listed twice. I don’t know if it is because I was seeing an email address with a phone number or a Facebook contact. The only thing you can see when selecting contacts is their name and a picture if they have one. I also found that some of my contacts weren’t accessible at all in the app. I tried inviting a family member whose contact is definitely in my iPhone, but it didn’t show up in the app when I typed his name.
+* When you create or edit an event, you can name or rename it, add a recurrence, invite others, include a location and tag the location as either home, work, a bar, a restaurant, or a coffee shop, add a note, set a reminder, or trash the event entirely.
+* If you connect your Any.Do account, you can also create and edit tasks within the app that will sync with the Any.Do app.
+![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/Cal-3.jpeg)
+* This app looks beautiful and is very useful. It syncs with iCal so you can access your daily events from your mobile device or your desktop. I love the location and navigation feature. The gesture-based integration works smoothly with iOS.
+* The contacts feature doesn’t seem to be working correctly. I also notice that the “Animation” theme wasn’t working either. There are a few minor bugs to work out and features to clean up.
+* The Cal app is free and syncs perfectly with your iCloud calendar. It is a great value and a fantastic looking app for fans of what will be the new look in iOS 7.
+* There is no reason not to have this easy-to-use calendar app. It offers additional features that are not available in Apple’s current iCal app and looks a whole lot better too. If you are looking for a new calendar app that is simple, but useful, download Cal for the iPhone in the App Store today.
+

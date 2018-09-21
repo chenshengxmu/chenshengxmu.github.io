@@ -1,0 +1,13 @@
+---
+layout: post
+title: Luca Maestri officially begins work as Apple's new CFO
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/Luca-Maestri-2.jpg)
+* If you don’t know the name of the guy in the picture, you should probably learn it. That is Luca Maestri, and he is Apple’s latest Senior Vice President. Maestri used to be the company’s Corporate Controller, and is now its Chief Financial Officer.
+* Apple announced in March that its long-time CFO Peter Oppenheimer would be retiring this year, and Maestri would be taking his place. And according to SEC paperwork filed today, he officially became Oppenheimer’s successor as of May 29th…
+* From the filing, first spotted by The Wall Street Journal:
+* As part of Apple Inc.’s previously announced CFO transition plan, effective May 29, 2014, Apple appointed Luca Maestri, 50, as Apple’s Senior Vice President, Chief Financial Officer. Mr. Maestri will continue to serve as Apple’s Principal Accounting Officer. Mr. Maestri succeeds Peter Oppenheimer in the role of CFO, and Mr. Oppenheimer will transition the balance of his responsibilities over the summer until his planned retirement at the end of September.
+* In connection with Mr. Maestri’s appointment as CFO, he will receive an annual salary of $1 million and will be eligible to participate in Apple’s performance-based cash bonus program for executive officers on a pro rata basis for fiscal 2014. Also in connection with his appointment, the Compensation Committee of Apple’s Board of Directors awarded Mr. Maestri 6,337 restricted stock units under Apple’s 2014 Employee Stock Plan. 1,137 restricted stock units are scheduled to vest on October 1, 2015 and 1,107 restricted stock units are scheduled to vest on October 1, 2016. In each case, between 0% and 200% of the scheduled number of units may vest, with the percentage determined based on Apple’s relative total shareholder return from May 29, 2014 through September 26, 2015 and from May 29, 2014 through September 24, 2016, respectively. The award also includes 4,093 restricted stock units scheduled to vest in equal installments on each of May 29, 2016, May 29, 2017, and May 29, 2018, subject to continued employment through the applicable vesting dates. 
+* As the new CFO, Maestri will manage a variety of aspects of Apple’s business including the controller, treasury, investor relations, tax, internal audit, facilities, corporate development and human resources functions, and report directly to Tim Cook.
+* And as for Peter Oppenheimer, he’s expected to completely retire from Apple at the end of September to spend more time with family. During his 18-year tenure at the company, the Mac maker’s annual revenue grew from $8 billion to $171 billion.
+

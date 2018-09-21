@@ -1,0 +1,44 @@
+---
+layout: post
+title: Early iPhone 6 case roundup
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/iPhone-6-seamless-screen.jpg)
+* With the actual product launch behind us, we can turn to the accessory realm. Dedicated devices have been in production behind the scenes and I received information about a few select versions about a week ago. The cases in the post are either going on sale today or by week’s end. Either way, the purchasing link is included below the case description.
+* Keep in mind, early production cases sometimes are not built on actual dimensions, instead using dummy devices that leak from the Chinese supply chain. Having never held any of these in my hands, or even an iPhone 6 for that matter, I cannot guarantee exact fit. However, if you are looking to keep your iPhone protected from day 1, you may want to nab one of these guys.
+* Again, please keep in mind the following cases are merely the ones I had early access to view. Including them in this round up is not a sign of personal endorsement. Rather, this is just an initial look at iPhone 6 (and/or Plus)-ready cases. The accessories below are included in no particular order. Finally, the information included to describe the product is simply what I received from the company’s marketing team or website. The completeness or lack thereof, is dependent solely on the information I was able to glean from personal communications and web views.
+* Spigen: iPhone 6 Slim Armor CS
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/Spigen-Slim-Armor-CS.png)
+* The Spigen iPhone 6 Slim Armor CS features a vertical sliding compartment for card storage. It closes completely for a flat back. Inside the case is an “advanced” shock absorbing technology, using a web patterned TPU casing. The TPU and exterior offer a dual layer of protection for the new device. The Slim Armor is available in Gunmetal, Shimmery White, Mint, and Champagne Gold starting at $18.99 on Amazon.
+* Spigen: iPhone 6 Wallet S
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/Spigen-Wallet-S.png)
+* Spigen’s Wallet S is a “premium” synthetic leather. Some call it pleather or vegan leather. It offers a wallet style, slim folio type to minimize bulk and weight. When flipped to one side the case offers multiple viewing angles. The case has slots for essential cards, topping off around three. The Wallet S starts on Amazon at $12.99 in Black, White, Mint, and Pink.
+* Spigen: iPhone 6 Screen Protector GLAS.tR SLIM
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/Spigen-GLAS.tR-Slim-iPhone-6.png)
+* The Spigen GLAS.tR SLIM is 28% thinner and lighter than previous versions. The R stands for the rounded edges of the protection. This change is to accommodate the new rounded edges on both the iPhone 6 and 6 Plus and to deflect shock and bumps. Even knives and other sharp objects cannot scratch the surface. The oleophobic coating prevents the build up of fingerprints and contaminants on the screen over time. This screen protector is $12.99 for iPhone 6, and $15.99 for iPhone 6 Plus.
+* Incipio: DualPro Case
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/Incipio-DualPro-iPhone-6.png)
+* The Incipio DualPro uses a hybrid design with two layers for drop protection while still remaining thin and easy to hold. A shock absorbing dLAST inner core does not stretch or tear and fits inside a rigid Plextonium polycarbonate outer shell to shield against scratches and impact. The Plextonium outer shell has a soft-touch coating to offer additional grip. The DualPro is currently available in Coral or Light Blue on Amazon, starting at $21.30. Additional colors can be ordered with a slightly longer wait. However, the SHINE edition can be found starting at $23.01 in black.
+* Incipio: FEATHER
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/Incipio-Feather-iPhone-6.png)
+* Incipio’s FEATHER lightweight case features high density Plextonium polycarbonate with shock absorbing EVA interior. The case snaps onto iPhone 6 and uses a very thin casing as to not take away from the overall feeling of the device. FEATHER is one of Incipio’s simplest cases for the minimalists. It is available in clear, pink, black, turquoise, red, navy, gray, and light blue. FEATHER is currently available in pink on Amazon for $25.00. Other colors are available for preorder, but other colors can take up to 1 – 2 months to ship and can also be pre-ordered on Amazon.
+* Incipio: WATSON
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/Incipio-iPhone-6-Watson.png)
+* The Incipio wallet folio, WATSON, is a 2 in 1 case. The snap-on shell hooks with a vegan leather fold over folio cover. It has three card slots for cards and IDs. It is great for someone who wants a versatile option on their iPhone 6. An outer elastic band makes sure everything stays tucked together nicely. The Incipio Watson can be pre-ordered on Amazon for $44.99 in purple, pink, black and gray.
+* Silk Innovation: Stealth Armor Tough Case
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/Silk-Innovation-Stealth-Armor-Tough-Case.jpg)
+* The Stealth Armor Tough Case by Silk Innovation boasts military-grade protection, guarding your device from drops, dings, and scratches with 1mm elevated 360-degree corners. It uses dual layered construction with a shock absorbing core and a polycarbonate exoskeleton shell. Silk uses a shock dispersion tactic they are calling “dual-tred,” which uses air pockets and treaded design on the inner core. Included are 3 interchangeable backplates in gunmetal, gold and silver with a scratch resistant screen protector. You can pre-order one via Amazon for $18.
+* Silk Innovation: Vault Slim Wallet Case
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/Silk-Innovation-Vault-Slim-Wallet-Case-iPhone-6.jpg)
+* Another by Silk, this ultra-slim and protective wallet case fits 3 cards plus some cash. The one piece build offers 6 sided coverage. Included with the wallet is a scratch resistant screen protector. It will feature a soft touch finish and button covers that intend to still provide a tactile feedback when depressed. The wallet case is available through Amazon for $14.99.
+* Silk Innovation: ClearView Ultra Slim Case
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/Silk-Innovation-ClearView-Ultra-Slim-iPhone-6-Case.jpg)
+* A third entry from Silk is the ClearView Ultra Slim Case. The thin protective bumper also covers the device back with a clear window built into the frame. Similar to the Stealth Armor above, the ClearView uses the “Dual-tred” shock absorption system with air pockets and corner tread design. Like the Wallet case, ClearView uses tactile button covers and comes with a scratch resistant screen protector. Additional coverage guards the front screen with bumpers projecting passed the device’s front. ClearView is available on Amazon for $11.99.
+* Urban Armor Gear: iPhone 6 Case
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/Urban-Armor-Gear-iPhone-6-Blue.jpg)
+* The Urban Armor Gear iPhone 6 Case is a hard armor shell with soft impact resistant core. The rigid structure combines with a light weight case and heavy duty protection, but still offers easy access to buttons/ports. Meeting military standards, the case is certified MIL STS 810G 516.6 for drop tests. The HD screen protector should guard against scratches. Armor Gear promises glare-free flash photos and no audio distortion. It is available in Aero, Aviator, Maverick, Navigator, Outland, Scout, and Valkyrie at $34.95.
+* CM4: Q Card Case for iPhone 6
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/CM4-Q-Card-Case-for-iPhone-6.jpg)
+* The CM4 Q Card Case is slim and functional with room for 3 credit cards and some extra cash. A 1mm front bezel means you can lay it flat without scratching the iPhone’s screen. Q Card utilizes a patent pending soft-touch rubber and premium fabric which makes it easy to pull from a pocket without catching. Interestingly, it has “Samsung Galaxy S4 design featuring an integrated audio amplifier, providing excellent sound clarity.” I am a little skeptical of that one. It is available in Black Onyx, Pacific Green, and Champagne Gold for $39.99 via Amazon.
+* As I am able to receive iPhone 6 hardware, case reviews will be covered as they are available. While the above is a quick round up of information I received prior to launch, the goal is typically to provide a real review as opposed to re-listing information from marketing representatives. Giving a true opinion is only possible with the case actually in-hand.
+* Have you already been able to find some quality cases for iPhone 6? Make sure to share them in the comments below, or shoot them my way @jim_gresham!
+

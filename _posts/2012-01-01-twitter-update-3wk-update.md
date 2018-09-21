@@ -1,0 +1,23 @@
+---
+layout: post
+title: What Twitter Got Right and Wrong With Its New iPhone App
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/twitter_icon.png)
+* Twitter is the social network of choice for many an iPhone user, and it is particularly near and dear to our hearts here at iDownloadBlog. The popularity Twitter has in the world of iOS is perhaps the main reason that the latest update to the company’s app has been so controversial.
+* Some users of the official Twitter app for the iPhone and iPod touch (the iPad app has not been redesigned just yet) clearly appreciate the changes that Twitter has made to the interface, while others hate it so much that they have sought out other, 3rd-party apps.
+* Three weeks after Twitter made these big changes to its flagship iOS app, how is one of iDB’s biggest Twitter users, namely moi, finding life with the much-changed, much-maligned Twitter 4.0? That’s a very, very good question…
+* Before I share my thoughts on the updated Twitter app, allow me to give you, dear reader, a little background.
+* I’ve been a Twitter user for a good few years now — long enough to remember using Tweetie when it was first introduced. By that, I refer to the original Tweetie app, the one that was a jailbreak app long before Apple decided to start the whole App Store movement, and before Android was even a twinkle in Eric Schmidt’s eye. I’ve used plenty of third-party Twitter apps across a variety of devices, including the popular Tweetbot, our own Sebastien’s favorite, SimplyTweet, and a few I’ve forgotten the names of. I use Twitter a lot.
+* All that said, I’ve been using the official Twitter app on iOS since it changed its name from Tweetie. Yes, I used Tweetie before that.
+* Over the time since then, Twitter’s developers have set about taking Loren Brichter’s (Tweetie’s original developer) Tweetie apart, changing parts here and there, adding new bits and removing others. I’ve never really cared that much, because nothing really changed how the app worked.
+* That all changed with Twitter 4.0.
+![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/New-Twitter-iOS-5.jpg)
+* Without a doubt, the biggest change this time around was the removal of the entire “Replies” tab, which was subsequently replaced by the new “Connect” tab. Inside you’ll find all your mentions in a new sub-tab, along with your mentions, retweets, and new follows in another.
+* For the last two weeks I have hated the Connect tab. No, not hated; despised it. The overwhelming question I found myself asking of Twitter’s iOS developers is a simple one: WHY!?
+* But the interesting thing is, as time has gone by and as Twitter has also updated its web app, I’ve grown to like the idea of the Connect tab. The reason is also a simple one: I like having everything in one place, inside one app. Now I can see who has begun following me without the need to have the notification emails switched on. It might seem like a minor thing, but if you like to see who is following you, then knowing who your new followers are is an important part of the Twitter experience. Being able to get a few less emails in my email inbox is always a welcome thing, too.
+* The new Connect tab also shows your tweets that have been retweeted, along with who retweeted what. Again, it might not seem like much, but unless you really need push notifications, this can replace apps such as Boxcar or anything else you may use to keep track of retweets. It’s a simple change once you get used to it, and one I am not sure I would want to leave behind by moving away from the official Twitter app.
+* One change that has really got on my nerves over the last three weeks is a change to the main feed of tweets, and one that I use on a very regular basis.
+* Why, Mr. Twitter iOS developer, did you see fit to remove the swipe gesture that allowed users to quickly reply to, retweet, or email tweets? We’ve also lost quick access to adding URLs to Instapaper, too, which is another feature I used a lot. Now, to save a link to read later, a user needs to click that link, let it begin loading in the built-in browser, and then ask the app to add it to Instapaper. Why make your users jump through hoops to do something that should have taken two taps?
+* If Twitter just reinstated the slide gesture — and with this the old way of adding links to Instapaper — then I would be a very happy bunny. With Twitter 4.0, the app’s developers have both added a feature that will grow on users the more they use it and taken away a few that power users will struggle to live without.
+* Well, one out of three ain’t bad.
+

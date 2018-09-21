@@ -1,0 +1,26 @@
+---
+layout: post
+title: OLO Kickstarter campaign promises first practical 3D Printer for iPhone
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/OLO-Smartphone-3D-Printer.png)
+* 3D printing is the wave of the future, and soon, you’ll be able to do it right from your smartphone, whether it’s an iPhone, Windows phone, or Android phone.
+* OLO 3D has launched a Kickstarter campaign for a super affordable 3D printer for your smartphone starting at $99, and within just a week, the campaign has gone viral and user response for the idea has excelled at an incredible rate. Out of the $80,000 goal, the campaign has already raised well over $1,100,000 as of this writing.
+* So how does it work?
+* The Kickstarter campaign explains that the OLO 3D printer will be the first commercial 3D printer with ease of use in mind. Starting at $99, you can get your hands on an OLO 3D printer, although you’ll only get a beginner’s resin kit. To get more resins for the 3D printer, you’ll have to shell out a little bit more dough.
+* The device works by using the light emitted by your smartphone’s display. The light activates the photopolymeric resins layer-by-layer; as a result, what you get are 3D objects that reflecting on a specific design. Each 3D object you make is estimated to cost you around 94¢ worth of resin, which isn’t a whole lot, so you should get long service life with each bottle of resin.
+* A special app, which will be made available for iOS devices, Windows phones, and Android phones, will need to be used to print objects. The app will include a database of objects, and you can pick from the database depending on what you would like to print.
+* Don’t worry about scope; creative individuals out there will be able to use 3D scanning tools to add custom designs to the app for printing, so you aren’t limited to what the app gives you. The app’s built-in social networking capabilities allow you to download and share 3D designs with other OLO users so you can download others’ ideas or share your own on demand.
+* The design for OLO has been getting worked on for over two years, and the initial unveiling of OLO was in the Fall of last year, but this is the first time OLO is hitting a campaign to become a real thing for everyone to use.
+* The OLO 3D printer works with smartphones with displays of up to 5.8 inches, and will work with anything smaller than 5.8 inches, including the iPhone 6s Plus, iPhone 6s, or iPhone SE.
+* After setting up the design you want to print from the OLO app on your device, all you do is place your smartphone under the glass on the base of the OLO 3D printer unit, then pour your resin into the OLO 3D printer and put the top on, and the OLO does the rest within a period of time.
+* Here’s a cool animated GIF showing the OLO in action:
+![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/OLO-Smartphone-3D-Printer-GIF.gif)
+* Obviously, the uses are going to be limited because you can only make objects out of the supplied polymer, so you won’t get to make yourself anything super complex like metal objects, or things of other materials. On the other hand, you can still make some pretty interesting 3D figures or parts depending on how creative you can get with designing things.
+* The campaigners also clarify that OLO can print both hard and flexible objects, as well as fusible or translucent objects, depending on what type of resin you’re using. Moreover, OLO can even print multiple 3D objects at once. With that being said, there are limitless opportunities to make all kinds of things with OLO, so long as you can think up the idea to do it.
+* The OLO team has worked hard to make the 3D printer itself affordable, as well as the various resins, which are “competitively” priced with comparable 3D printing technologies on the market. Regardless, this is probably one of the most advanced mobile solutions to date, and while we can’t particularly guarantee it’s the “first” mobile 3D printer ever created, it’s still one of the coolest.
+* You can make all kinds of things with a 3D printer, such as 3D models, parts for arts and crafts, stamps for your business or personal use, and more. Although the scope may seem limited because there are limited materials to print with, it all comes down to how skilled you are going to be at creating those objects. Honestly, the possibilities are endless, as they say.
+* The affordability of the OLO is the 3D printer’s main selling point. The unit itself can be had for under $100 and the resins are going to be cheap as well.
+* The OLO runs off of four AA batteries that will last about 100 printing cycles, so there aren’t going to be any issues powering the device. On the other hand, it would be nicer if it used some kind of rechargeable Lithium-Ion battery instead, but you can always get a set of rechargeable AA batteries rather than buying the disposable ones that will add up in price over time.
+* You can check out the OLO and see what it’s all about via the Kickstarter campaign page. As we can see from the current amount of backers, the OLO is a project that’s going to explode in popularity very soon; these entrepreneurs are definitely on to something!
+* Will you be backing OLO so you can print 3D print objects with your iPhone? Share in the comments!
+

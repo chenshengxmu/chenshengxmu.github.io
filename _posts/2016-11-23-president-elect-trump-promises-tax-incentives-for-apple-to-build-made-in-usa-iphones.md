@@ -1,0 +1,30 @@
+---
+layout: post
+title: President-elect Trump promises tax incentives for Apple to build “Made in USA” iPhones
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2016/11/iPhone-7-jet-black-manufacturing-image-004.jpg)
+* Apple reportedly asked contract manufacturers Foxconn and Pegatron to look into assembling iPhones in the United States and now we learn that Tim Cook phoned President-elect Donald Trump following his victory to talk about U.S. manufacturing.
+* In an interview with The New York Times, Trump reveals he’s promised tax incentives to Apple to build its products domestically rather than outsource component production and assembly work to Taiwanese and Chinese suppliers and contract manufacturers.
+* Here’s what President-elect Trump told the paper:
+* I was honored yesterday, I got a call from Bill Gates, great call, we had a great conversation, I got a call from Tim Cook at Apple, and I said, “Tim, you know one of the things that will be a real achievement for me is when I get Apple to build a big plant in the United States, or many big plants in the United States, where instead of going to China, and going to Vietnam, and going to the places that you go to, you’re making your product right here.”
+* Cook only replied by saying he understood that.
+* Unfazed by Cook’s calm demeanor, Trump promised Apple tax incentives:
+* I think we’ll create the incentives for you, and I think you’re going to do it. We’re going for a very large tax cut for corporations, which you’ll be happy about.
+* Lowering corporate tax may be easier said than done, as per Trump:
+* We’re going for big tax cuts, but we have to get rid of regulations, regulations are making it impossible. Whether you’re liberal or conservative, I mean I could sit down and show you regulations that anybody would agree are ridiculous. It’s gotten to be a free-for-all. And companies can’t, they can’t even start up, they can’t expand, they’re choking.
+* High corporate tax is the prime reason why Apple, along with many other companies, refuses to repatriate its massive $237.6 billion oversea cash hoard. Apple earns about two-thirds of its revenue overseas, but bringing that cash home would’ve required paying a corporate tax of about, or more than forty percent.
+* In January’s campaign speech at Virginia’s Liberty University, Trump proposed a 35 percent tax on any business making goods overseas to convince companies like Apple to manufacture their products domestically instead of using cheap oversea labor.
+* Tim Cook argued in an interview with 60 Minutes’ Charlie Rose last December that labor force and raw material issues bar the company from moving iPhone production to the United States. Earlier in the month, Nikkei reported that Apple had tasked Foxconn and Pegatron to look into the possibility of  “Made in USA” iPhones.
+* However, a source cautioned that building iPhones in U.S. would more than double production costs. An article in The Wall Street Journal cited economists as saying that building “Made in USA” iPhones would not necessarily create jobs at home because some manufacturing jobs done in China with human labor “could be lost to machines if production moves back to the United States.”
+![img](http://media.idownloadblog.com/wp-content/uploads/2016/11/iPhone-7-jet-black-manufacturing-image-002.jpg)
+* On the other hand, MIT Technology Review estimated five months ago that the final price of a “Made in USA” iPhone 6s Plus would rise by only $30-40 more in terms of pure assembly work. If the components were sourced from U.S. companies, the cost would increase by a hundred bucks.
+* Apple’s created 2+ million jobs in the United States, but most of them are positions in engineering, retail and call centers rather than actual manufacturing jobs. Currently, the iMac and Mac Pro are being assembled in USA. Apple says it “works” with more than 8,000 suppliers in the country and is “investing heavily in American jobs and innovation.”
+* By last count, Apple had nearly 800 iPhone suppliers, of which nearly 70 were in the States and almost half were in China. Of about 75 parts that go into an iPhone, some items rely heavily on materials that are commercially unavailable at home.
+* Aluminum, for instance comes from bauxite, but there are no bauxite mines in the U.S. Rare earth elements that are used for some iPhone parts would also need to come primarily from China, which produces 85 percent of the world’s supply.
+* Even if Apple were to assemble iPhones in the United States with human labor, it’d be paying more in labor costs because U.S. workers are unlikely to agree to the low wages of their counterparts in China. And if Apple continued sourcing parts from Asian companies for “Made in USA” iPhones, it’d incur extra costs in terms of shipping parts out of Taiwan and China to U.S. plants.
+* But the biggest reason for outsourcing iPhone and other Apple production to China lies in the fact that U.S. workers lack the required vocational skills to assemble electronics. Even more important than that, there are whole cities in Taiwan in China specifically dedicated to building products for Western technology companies.
+* In Shenzhen, a 10+ million people city in China, one could go from an idea on paper to a shipping product in less than three months versus at least a year anywhere else in the world. That’s because component makers, upstream suppliers, contract manufacturers and other firms are in the neighborhood of each other.
+* In no other region in the world could a company like Foxconn find a million people in a matter of weeks to quickly ramp up iPhone production. When Jabil Circuit, the world’s third-largest contract manufacturer, needed to quickly ramp up production of its electronics components a few years ago, the company was able to add 35,000 workers in China in less than six weeks.
+* You give Wired’s excellent documentary about Shenzen seen above a quick watch and tell me if Apple would benefit from moving iPhone assembly work to the U.S.
+* Source: The New York Times
+

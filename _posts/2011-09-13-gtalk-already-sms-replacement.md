@@ -1,0 +1,20 @@
+---
+layout: post
+title: Why Gtalk is Already the SMS Replacement that iMessage Wants to Be
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/googletalklogo_1_2.jpeg)
+* The race to kill SMS is on. Instant messaging apps have flooded both the App Store and Android Market, with WhatsApp and others seeking to replace SMS by offering free, cross-platform messaging in (sometimes) fancy-looking apps that allow not only the sending and receiving of text, but also the sending of pictures and video.
+* Even Samsung is set to join the fray, with ChatON being the company’s first foray into the world of instant messaging. Samsung promises to release apps on just about every platform. It seems that everyone has it in for SMS, and the carriers must surely know what’s going. And let’s not forget Apple’s iMessage…
+* iMessage will launch when iOS 5 is released in the coming weeks. Where iMessage falls short compared to the alternatives is its iDevice-only compatibility. That’s obviously not a problem if all your friends and family have iPhones, iPads or iPod touches, but if that isn’t the case, you’ll find yourself resorting to third-party solutions or, more likely, falling back to the world of SMS and its extortionate prices.
+* BlackBerry was the first to start the move away from SMS with the BlackBerry Messanger app – a service which has since served as a key differentiator for the platform. Business users and teenagers alike have latched onto the free messaging service. And once you’re in, it’s hard to get out.
+* While the entire mobile industry is scrambling to replace SMS with something better, cheaper, and completely carrier-agnostic, Google may have already done it, and nobody is really taking notice. Gtalk has been around for a good while now, and if you have a Gmail account, then you already have a Gtalk account waiting to be used.
+![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/gtalk-web.png)
+* Gtalk has all of the advantages we look for in an SMS replacement. It’s free, as with so many things that come out of Google, and it’s cross-platform, thanks to the hundreds of apps that support it on just about every app store you wish to name. Discoverability is easy, too. If you know someone’s email address, you know how to contact them on Gtalk. No new numbers. No silly BBM PINs. Nothing new to share. That doesn’t mean anyone and everyone can spam you, though, thanks to the need for users to accept new contacts in order for them to be able to send and receive messages.
+* Perhaps Gtalk’s biggest advantage is its integration with Google’s suite of web apps. If you live in Gmail, or even Google Plus these days, then Gtalk is always in your sidebar, sitting there patiently waiting for an incoming message. And that’s what makes Gtalk so powerful.
+* WhatsApp, BBM, iMessage — none of them have a desktop presence. It’s mobile only, which can be somewhat limiting in real-world use. With Gtalk, you can start a conversation in your browser, move to your smartphone and continue it, and then finish it on your tablet. You can be signed in on multiple devices, and Gtalk never grumbles.
+![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/gtalk-ipad-730x480.png)
+* And Gtalk is searchable. Archived conversations can be retrieved with a couple of keystrokes inside the Gmail web app. Nothing is lost, and it can be a god-send if you have the memory of a goldfish, just like me.
+![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/gtalk-iphone.png)
+* On the application front, and if you’re an iOS or Android user, you’re in for a treat. Gtalk apps are plentiful on both platforms, with some real standouts such as Beejive and IMO amongst them. Things are even better on Android handsets, with Gtalk heavily integrated into the phone’s list of contacts, and a dedicated ‘Talk’ app already installed on all hardware. If it was made by Apple I’d be tempted to say that “it just works,” but it isn’t, so I won’t.
+* With so many companies jousting for the position of the king SMS replacement, do we all run the risk of forgetting what we already have?
+

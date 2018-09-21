@@ -1,0 +1,19 @@
+---
+layout: post
+title: LockInfo7 brings essential info to the Lock screen
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/LockInfo7-Screenshot-SBS.png)
+* There are a countless number of jailbreak tweaks that aim to improve the Lock screen experience, such as Convergance and IntelliScreenX, but not many come close to LockInfo7 in terms of usefulness. The newly released tweak by iOS developer David Ashman expands the functionality of the Lock screen in several different ways. Read ahead to see what I mean… 
+* First, the tweak essentially merges Notification Center with the Lock screen to display notifications, events, reminders, stock quotes and everything else you would traditionally see in the drop-down pane. The tweak combines the notifications and widgets into one scrollable menu, eliminating the Today tab that is normally found in Notification Center.
+* Each notification can be selected and swiped to display two different quick actions. If you swipe to the right, you have the option to dismiss the notification from the Lock screen. If you swipe to the left, you will be directed to the app that issued the notification; if there is a passcode set, you will have to enter that first. Both gestures work as advertised.
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/LockInfo-for-iOS-7.png)
+* This all-new version of LockInfo also integrates Forecast and NCAgenda, giving you the functionality of three tweaks in one. Forecast displays a detailed weather forecast on the Lock screen, including current and long-term temperatures and conditions. If enabled, you can also swipe to the right on the Lock screen to view even more detailed weather information.
+* The tweak has a number of options that can be configured through the Settings app, including the ability to disable select to swipe or bypass a passcode if one is set. There are also various toggles for customizing the appearance of the Today view and Lock screen in general. The settings for Notification Center are also bundled within LockInfo for easy access.
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/LockInfo-iOS-7.png)
+* LockInfo7 is an effective solution for customizing the Lock screen to meet your personal preference. It also provides rich previews of emails and calendar events directly from the Lock screen, integrated with jailbreak tweaks BiteSMS and Auki for quick replies. Forecast integration delivers an enhanced weather widget and animated weather wallpapers.
+* The tweak has generally performed well on my older iPhone 5 running iOS 7.0.4, although it is rather inconveniencing to have to respring when you update your favorite contacts, reminders or other information. Also, sometimes the entire Lock screen will appear blank until you respring. There are also reports of the screen dimming after opening a preview, and the package might not be compatible with all other Lock screen tweaks.
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/LockInfo-View-2.png)
+* Forecast and NCAgenda are automatically removed upon installing the tweak, since those packages have been integrated into LockInfo. If you have ProWidgets installed, you are advised to disable the Today view activation method to avoid safe mode crashes. Ashman is aware of this problem, and is working on a fix for the bug to be released in a future update.
+* LockInfo7 is a free download for existing users of past LockInfo versions, while a discount will be made available for Forecast and NCAgenda owners. Otherwise, the tweak carries a $4.99 price tag on Cydia in the ModMyi repository. The package is free to install, since it comes with a 14-day trial that is activated by registering your device. Afterwards, a license must be purchased.
+* What do you think of LockInfo for iOS 7?
+

@@ -1,0 +1,18 @@
+---
+layout: post
+title: QR Mode turns the stock Camera app into an awesome QR code reader
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/QR-Mode.jpg)
+* In some countries, like Japan for example, QR codes are prolific and people user them often. Although that’s not the case in the United States, and probably never will be, it does seem like there has been an uptick in QR code usage in the last few years. A new jailbreak tweak called QR Mode will certainly help its cause, among jailbreakers at least.
+* QR Mode is by far the best looking and best functioning QR code reader on Cydia, and it’s even better than standalone app offerings found in the App Store. Its feature set is well-rounded, its implementation seriously impressive, and it doesn’t feel overly intrusive. Although it suffers from a few bugs, QR Mode is well worth its $1.99 asking price, especially if these bugs can be stamped out.
+* The great thing about QR Mode is that it supports a plethora of QR code types, and features data parsing that allows you to perform actions with the data read from these codes. The following QR code types are supported:
+* After installing QR Mode, head over to the Settings app and find the tweak’s preferences. Inside of the preference panel, you’ll find a single kill-switch for enabling the tweak. Once you enable QR Mode, tap the Camera app shortcut in the upper right-hand corner to launch the stock Camera app.
+* QR Mode adds another mode to the stock Camera app called Scanner. Swipe over to scanner, which resides to the right of the Photo mode. Once you’re in scanner mode, the interface will change to reflect the QR code scanning abilities.
+* At the top of the screen you’ll find a history button for going back and viewing previous QR codes that you’ve scanned. At the bottom of the interface, you’ll see a message that says Scanning for QR Code as it waits until a code comes into view of the viewfinder.
+![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/QR-Mode3.jpg)
+* Scanning a code involves simply placing the camera in front of the code that you want to scan. You don’t actually have to press any buttons to initiate the scan, as that is done automatically. Once a scan is completed, you’ll find contextual information related to the scan at the bottom of the screen. For example, if your scan was a phone number QR code, you’ll see a button to launch the Phone app and dial the number, if you scan a location code, then you’ll find a button to launch Apple Maps with the scanned location.
+![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/QR-Mode1.jpg)
+* You’ll may also find buttons to copy a link, perform a google search, open a web page, etc. For links and Google searches, you’ll be able to load up a built-in browser right from the stock Camera app, and it looks about as native as it could possibly be. I did, however, notice a few bugs when using the browser. The main bugs that I encountered caused the Camera app to lock up and require a force close. These crashes were quite annoying, but I’m hoping that the developer of QR Mode will issue a bug fix release in the near future.
+* No, the QR Code will probably never be as ubiquitous as it is in some other countries, but having a jailbreak tweak like QR Mode is very nice and encourages its use. It surely won’t hurt the way QR Codes are viewed in the states, and it’ll make you think twice the next time you pass one while you’re out with this tweak installed.
+* What do you think about QR Mode? Are you as impressed as I am? If so, you can try it for $1.99 on the BigBoss repo.
+

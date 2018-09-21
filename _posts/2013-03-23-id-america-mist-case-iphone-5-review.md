@@ -1,0 +1,24 @@
+---
+layout: post
+title: The Mist- a minimal and lightweight iPhone case for people who don't like cases
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/Mist-case-iPhone-5.jpg)
+* If you follow me on Twitter or listen to our podcast, you know I’m not a big fan of cases. There are two main reasons why I’d rather go for a naked iPhone. One, I consider myself a minimalist when it comes to design and aesthetics, and using a case goes against that. Two, and maybe the most important reason, is that I think the white iPhone 5 is such a beautiful device that it should be considered a criminal offense to slap a case around it.
+* This being said, I quickly changed my mind when I dropped my iPhone a few weeks ago as I was walking through the door. It appeared it had fallen face flat on the tiles. As I picked it up, I was preparing myself for the worst as I was pretty sure the screen was cracked. It was not. As a matter of fact, it just had what most people would consider a tiny dent right on the chamfer, but that was enough to make me reconsider my “no case” policy…
+![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/Mist-id-America.jpg)
+* So I became opened to the idea of using a case for my beloved iPhone 5, but I was not going to settle for just any case. No, forget about putting an OtterBox Defender case on my iPhone. I need something thin. Something light. And most importantly, something that would compliment the beauty of my iPhone.
+* Then I remembered my friend Dom‘s iPhone 5 case. I first saw it when we met at MacWorld back in January. I was immediately drawn to this case because you could barely tell it was there. I found out that the case was the white Mist, by id America.
+* We have a pretty good relationship with the folks at id America so when they heard I was in the market for an iPhone 5 case, they were kind enough to send me the Mist for review.
+![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/Mist-back.jpg)
+* The white Mist is made of a clear 0.6mm thin hard shell. Because it’s clear, you can see through it, which really preserves the look of the white iPhone 5 – something very important to me. I immediately fell in love with the Mist because as I noted above, it doesn’t take anything away from the design of the iPhone 5, it is very slim and light. The minimal design is such that it took my wife a couple weeks to even figure out I was using a case. No kidding.
+* Once in your hand, it feels just as good as it looks. Due to its thin shell, it’s incredibly light. So light that you can hardly tell it’s there – and believe me, I am very picky when it comes to these things.
+* Something I really like about the Mist is that because the edges of the case go slightly above the screen of the iPhone (see image below), your screen would very likely be left uninjured if it was to fall perfectly face flat on a flat surface. When does that happen though? More realistically, if you were to put your iPhone face down on a flat surface (ie. a table), the screen wouldn’t be in contact with the table.
+* The Mist goes over the edge of the screen by about 0.20mm
+![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/Mist-iPhone-5-lightning.jpg)
+* As you can see on the photos, the case doesn’t cover every inch of the device. As a matter of fact, there is plenty of spots left vulnerable in case of a drop. For example, the dent that I made when dropping my iPhone a few weeks ago probably wouldn’t have been prevented by this case. Those looking for good protection all around will definitely have to look elsewhere.
+* Finally, something I really don’t like about this case is the “Born in New York” branding on the back. Although it’s not a deal breaker, it kind of ruins the whole minimalism of the case to me, but you probably won’t be as nitpicky as I am.
+![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/Mist-iPhone-5-back.jpg)
+* To me, the white Mist by id America is as close as it gets to perfect when it comes to minimal cases because it has everything I’m looking for in a case: it’s thin, light, and doesn’t compromise the beauty of the iPhone 5. Of course, we all have different needs when it comes to cases, and I don’t expect all of you to be on the same page as me. If you need some serious protection for your iPhone, this is not the case for you.
+* But for those of you who are looking for a minimal case that will compliment the design of the iPhone 5, I think the Mist is a good bet. It sure won’t protect your iPhone as well as many other cases will, but this is not the point of the Mist. The Mist is a case for people who don’t like cases. And for those people, it will do the job just fine.
+* The Mist is available in various colors for $14.99 from id America’s website.
+

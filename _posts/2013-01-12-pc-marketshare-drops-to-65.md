@@ -1,0 +1,14 @@
+---
+layout: post
+title: PC marketshare to drop to 65% in 2013 as tablets take over
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/tablets.jpg)
+* The days when PCs ruled the computer market are quickly coming to a close. The familiar battle between PCs and Macs is quickly morphing into an iOS versus Android landscape. As consumers opt for tablets over PCs, shipments of Wintel devices will drop to 65 percent in 2013 amid double-digit tablet growth.
+* After PC shipments fell 10 percent during the holiday fourth quarter of 2010, the 2013 PC marketshare will drop to 65 percent, down from 72 percent last year, according to researchers at Canalys. The reason: PCs – be they desktops, notebooks, or netbooks – are no longer needed for common computing tasks, such as reading e-mail and browsing the web…
+* “Pads and, increasing, smart phones can perform many of the day-to-day computing tasks that most people require,” Pin-Chen Tang, Canalys research analyst, said Thursday. Indeed, Apple CEO Tim Cook recently told interviewers he’s “ditched” his keyboard for the iPad. To make his point, Canalys forecasts touch-screen devices (including the iPad, iPhone and ‘hybrids’ such as Microsoft’s Surface Pro) will account for 59 percent of all PCs shipped in 2016.
+* For Microsoft, attempts to adapt to the changes could be too little, too late.
+* Windows 8, designed to breath new life into the PC market, is expected to have the very opposite effect. Along with having to learn a new operating system, “it is perceived that a PC with a touch-screen is needed to get the best user experience,” analyst Tom Evans said. “In the current economic climate, this will be enough to make people delay purchases as they wait for prices to fall.”
+* As for Intel’s push to create the Ultrabook in order for PCs to compete with inexpensive Macs, such as the MacBook Air, the research firm believes more options only add to consumer confusion. “Now buyers must decide  between an Ultrabook and a standard notebook, a touch-screen and a non-touch-screen, as well as an increasing array of form-factors, such as clamshell, convertible and hybrid,” Canalys analyst Tim Coulling said. The result: more decisions and longer times to make a sale.
+* Noting the growing popularity of touch-screen displays, as well as the falling price of the input method, Coulling forecasts that the majority of PCs will look like the Surface. However, PC applications remain tied to the keyboard. “It is clear that Microsoft is now pushing touch as the primary input method for Windows, but keyboard and mouse are still needed for legacy applications,” he said.
+* The take-away: The PC market is shrinking. By this year, PC makers will have just over half of the computing marketshare. In another three years, more than half of the PCs shipped will be tablets. Additionally, the computing triad of screen, keyboard and mouse will soon shift to just screen.
+

@@ -1,0 +1,37 @@
+---
+layout: post
+title: Slow App Store downloads? Try this
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2016/02/App-Store-icon-OS-X-Yosemite-hero-2000px-1000x400.jpg)
+* The App Store is a place where you can find useful apps for your Mac or iOS devices all in one place. You simply search for something you want to download, and with the tap of a button you can empower your device with more capabilities.
+* Despite how great it is, intermittent internet issues can plague users with slower app downloads than expected, and this means more time spent staring at a progress bar as you anticipate the download to finish.
+* In this piece, we’ll talk about various reasons why your App Store downloads may not be performing the way you want them to, and some troubleshooting steps to fix the potential problem.
+* Before you can fix slow App Store download problems, you first have to identify what the problem is that could be causing the slower-than-expected download speeds.
+* There are a number of possible culprits, such as:
+* Since there are a number of possible culprits that could be causing the problem, it only seems necessary to provide you with a number of possible fixes. We’ll begin with some of the easier potential fixes, and work our way down to the more advanced ones.
+* The problem isn’t always on your end. From time to time, Apple is actually the one having the problem. Equipment goes bad and sometimes needs software updates, and in these scenarios, Apple’s App Store servers may experience intermittent down time.
+* You can easily check the status of Apple’s App Store services via the company’s System Status web page before you perform any of the troubleshooting steps below from your end.
+* If you’re trying to download an app on your Mac, iPhone, iPod touch, or iPad, and are having issues downloading apps or they’re just downloading too slowly, try rebooting the device itself. In rare instances of software glitches, a reboot can get things up and running again.
+* It seems like older devices, like my jailbroken iPhone 5 with iOS 9.0.2 on it, seem to have a lot of software glitches with App Store downloads. Sometimes it says apps are downloading, and when I check my Home screen, they’re really not. A reboot usually fixes the problem. In some cases, perhaps a jailbreak tweak itself is the cause of the problem.
+* I’ve seen some cases where only a specific app in the App Store was having issues with downloading. Sometimes the developer pulls the app and the App Store doesn’t realize it until minutes after the pull. In these cases, you might get unavailability errors or an infinitely-spinning download icon that never seems to accomplish any progress.
+* If this sounds like your symptom, try downloading another free app from the App Store and see if the same thing happens. If not, this could be your problem.
+* The problem could be related specifically to your iTunes account. Try logging out of your Apple ID under the App Store settings on your Mac or iOS device and then logging back in again. Afterwards, try the download again and see if starts to download at the expected download speeds.
+* Before you go pointing the finger at anything, confirm that the problem isn’t related to your ISP (internet service provider). Go to speedtest.net and check that your download speeds are up to snuff. Typically anything above 10 Mb/s is sufficient enough.
+* If you have slow internet to begin with, then there’s no question about why it’s taking so long for your App Store downloads to complete. Those with high-speed broadband and fiber optic connections, on the other hand, should really never experience that slow of App Store downloads unless there’s an underlying problem.
+* There are also some cases where your wireless router could be having a heart attack and just needs a good reboot. In these scenarios, the router may produce slower than expected download speeds or the downloads may not progress at all.
+* Power it off for a good 60 seconds and then power it back on and try the download again. This is usually done by disconnecting the power cable, but some routers have reset buttons on them. Refer to your router’s manual for further instructions.
+* If you can’t download apps on Wi-Fi, but the downloads seem to be working as expected on your cellular network, then this pretty much throws up the red flag that something is wrong with the Wi-Fi network you’re connected to.
+* Perhaps some necessary ports or App Store servers are blocked from access via your router settings. In many schools and institutions, the App Store is blocked to prevent bandwidth hogs from stealing all the download bandwidth with large app downloads.
+* Likewise, if you’re using a Mac, iPod touch, or iPad, and don’t have cellular data access, you can always try another Wi-Fi network to see if your problems persist.
+* If the problem only happens at your house, and not at your neighbor’s house, you may even have to question whether or not your specific ISP (internet service provider) is throttling or blocking connections to the App Store themselves. In this case, you would need to give them a call to find out.
+* If the Wi-Fi network you’re connected to is configured to use a poor DNS server, then all internet requests will have to go through that server and its poor performance will be passed on to you. This of course means slow or non-existent App Store downloads.
+* You can always try changing the DNS server you use from the Wi-Fi settings on your Mac or iOS device. We have a full tutorial on DNS settings modification that explains how this is done on a Mac or on an iPhone, iPod touch, or iPad.
+* Sometimes configuring DNS settings on the device itself isn’t good enough.
+* If the problem is affecting more than one of your devices on the network, then instead of configuring DNS settings on each and every individual device, you might want to configure custom DNS settings from the wireless router itself, as this change will affect every device that connects to it and provide better performance for everybody.
+* We have an in-depth tutorial explaining how to log into your wireless router and configure custom DNS settings for all devices on your network that could help you through this troubleshooting step.
+* In some rare scenarios, VPN software, firewall software, and anti-virus software can actually hinder your internet usage. False negatives can flag the software to block incoming and outgoing connections to the App Store, and this will certainly cause connectivity issues.
+* You may want to try disabling any VPN, firewall, or security software you have installed on your Mac or iOS device just to make sure these aren’t the root of the problem. On a Mac, it could be any combination of the three, but on an iOS device, all you really need to check for is an active VPN connection.
+* If you’ve tried everything above, contacting Apple for support might be the right way to go. A support representative can walk you through additional steps that may help get your App Store downloads sped up or working as you would expect them to.
+* Slow App Store downloads are a pain in the Lightning port, but you don’t have to deal with them. Most problems are related to something small and stupid, and one of the steps above can point you into the right direction. If not, Apple is always around to help you.
+* Have you ever experienced slower than normal App Store download speeds? If so, what caused your specific problem? Share below!
+

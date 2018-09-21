@@ -1,0 +1,17 @@
+---
+layout: post
+title: Selfy case kinda turns your iPhone into a GoPro
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/iLuv-Selfy-Splash.png)
+* Where do I even begin talking about selfies? Everyone loves a good selfie. They are wildly popular across the world, even causing South Korea to ban “unregulated” selfie stick sales. Instagram, Twitter, Facebook, SnapChat, and other forms of popular social media channels are completely filled with selfies. What caused our self obsession will never be explained, but the selfie is here to stay.
+* The selfie stick was one of the first hardware selfie assistants. I saw them around touristy places when I traveled, but didn’t think much of them about a year ago. Now, they are increasingly popular and being utilized in everyday places. Several iterations of selfie-inspired accessories cropped up and iLuv is capitalizing on the fad. Launching “selfy,” iLuv guarantees you will always have a quick way to snap a selfie and includes a laundry list of add-ons to assist.
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/iLuv-Selfy-hardware.png)
+* To explicitly clarify, the “selfy” system is managed by a standalone remote camera shutter trigger. The remote is connected via Bluetooth to an iOS device and, when the Camera app is launched, the button behaves as the shutter initiator. That’s it. Where selfy becomes more robust is with compatible accessories.
+* The basic selfy product comes with an iPhone or iPad case to match the device. I received the iPhone 5/s version. The case is a little bulky for a pocket, but the camera remote is locked into the case back. Cases are offered for iPhones 6, iPhone 5/s, iPad mini and iPad Air, currently excluding Air 2. The cases are nothing to write home about, but do offer six-sided protection with a TPU harness. The back is molded polycarbonate and locks the remote securely into place with a flush finish. Power and volume buttons are covered and the mute switch is easily accessed along with the Lightning port.
+* In addition to the basic package, iLuv spawned several additional accessories which include: mini tripod; car mount; bar mount; helmet mount; vented helmet strap, and GoPro compatible attachment. These additional pieces of hardware lock into the iPhone case with a physical connection mechanism.
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/Selfy-accessories.png)
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/iLuv-Selfy-Tripod-installation.png)
+* For example, I played with the mini tripod. A harness slides into the case back, where the remote is typically stored. A flip lock secures the two pieces together and the tripod becomes a great companion for distance selfie taking. Other accessories like the bike, GoPro, and helmet mounts help record action video, which is done in the same fashion as taking a picture.
+* If you love taking selfies or need an apparatus to record your life of action, selfy by iLuv could be a great companion for you. Integrating the remote into a case back is exactly the way I would want this to happen. iLuv did a great job in that regard. It is a fun way to capture the moment.
+* If you want one, I would buy it now for $15.22 via Amazon, down from a retail price of $49.99, which is quite pricey for a mid-tiered case and remote trigger. Additional accessories can be nabbed online as well and at some great prices:
+

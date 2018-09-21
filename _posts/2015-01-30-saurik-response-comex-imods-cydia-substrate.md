@@ -1,0 +1,16 @@
+---
+layout: post
+title: Saurik posts response to Comex's Cydia Substrate replacement, comments on new features coming to Cydia
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/Saurik-Interview-e1304046054105.png)
+* As expected, Jay “saurik” Freeman has posted a lengthy response to Comex’s Cydia Substrate replacement strategy. In the post, which appears on his personal blog, he outlines some of the history he’s had with Comex, why open source isn’t always best, and drops hints on several new upcoming Cydia features.
+* What’s clear is that, as noted in the post about Comex’s return, the drama seems to be taking its toll on saurik. He indicates that he will “retract” and step away from the front lines, reducing his accessibility to the public, and the unjust scrutiny that accompanies being the most popular public figure in the community.
+* The big stink continues to revolve around the concept of closed versus open source. Saurik, who states that he has a good “batting average” when it comes to producing and maintaining open source projects, states that one of the main reasons for closing Substrate was due to the existence of Rock Your iPhone — the now defunct Cydia competitor that was eventually purchased by SaurikIT:
+* The central reason is that we have already seen others come in and use an embrace-and-extend strategy on Substrate in order to build a totally-closed ecosystem: that was Rock Your Phone, with their Rock Extensions. People always think back to Rock 2.0, which was a reasonable “Cydia competitor” that supported APT repositories; but the mission of Rock 1.0 was to build a siloed, commercial-first (if not even commercial-only: I was told by them I should sell Cycorder, which had been free) store.
+* To his Credit, saurik has produced a lot of good stuff that continues to be fully open. WinterBoard, and Veency are just a few examples of the open source projects that he maintains to this day. But it’s clear that Freeman also believes that “open” isn’t always best for the long term, as his lengthy post outlines.
+* What will the end result be? Here’s hoping that things turn out for the best for all involved, but it’s clear, at least from the following comment, that saurik does have a breaking point:
+* We will see if it makes sense for me to continue bothering. I am, in all honestly, really tired of fighting and arguing with people who don’t see the end game. I spend way too much of my time burning myself out on reddit and IRC trying to get people to “understand”, and it has driven me at times to the brink of insanity.
+* On a lighter note, Freeman also briefly comments on several upcoming Cydia changes. Those changes include:
+* I’m really excited to see what type of payment changes come to Cydia, along with the refreshed Home page. It would be cool if we could see newly released apps and tweaks, or releases that display based on the amount of downloads amassed within a given period of time.
+* Sadly, these changes are being overshadowed by the turbulence being felt throughout the community. This is going to be an issue to keep a close eye on. What type of repercussions do you think will stem from Comex’s Substrate replacement? What will the end game be?
+

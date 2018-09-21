@@ -1,0 +1,18 @@
+---
+layout: post
+title: FolderEnhancer- the legendary folder tweak comes to iOS 7
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/FolderEnhancer-iOS-7-02.jpg)
+* FolderEnhancer used to be one of the first jailbreak tweaks that I installed on my newly jailbroken iPhone. Before iOS 7, you could only have one page of app icons in a folder, and I used FolderEnhancer to get around Apple’s arbitrary limits.
+* With iOS 7’s release, Apple has relented, and incorporated some of the features, like paging within folders, that made FolderEnhancer such a great release. For that reason, the new FolderEnhancer for iOS 7 may seem a bit underwhelming for those of you whose jailbreaking experience goes back some time.
+* That said, FolderEnhancer is still worth checking for. In fact, FolderEnhancer (iOS 7) is a free download for those of you who purchased the original version, and it’s only $0.99 for newcomers. Have a look at our video walkthrough inside to see what the latest version of FolderEnhancer is all about.
+* Inside of FolderEnhancer’s preferences, you’ll find three sections: effect, close all folders, and icon layout. The effect section features two toggles for eliminating the open/close and zooming animation when opening or closing folders. I’m not a big fan of eliminating the open and close animation, as the result is too jarring for my taste. Some may argue that eliminating the animation makes iOS seem faster, but it comes at the expense of the user experience in my opinion. The tweak’s zoom toggle, which allows you to disable the wallpaper zoom upon opening a folder is a much more palatable option.
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/Resized-FolderEnhancer-iOS-7-effect.png)
+* The close all folders section allows you to close all nested folders when launching apps or pressing the Home button. This toggle only applies when you happen to be within a nested folder (folder within a folder). Although you won’t find a toggle for nested folders within FolderEnhancer’s preferences, this ability is added when installing the tweak, and there’s no way to disable it from the preferences.
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/Resized-FolderEnhancer-iOS-7-close-all-folders.png)
+* Lastly, you’ll find a section for the icon layout. The icon layout section lets you migrate to a 4×4 layout, instead of the stock 3×3 layout normally present in iOS 7. For iPad users (yes, FolderEnhancer 7 plays nice with the iPad), you can add an optional 5×5 layout if you feel compelled to do so.
+* Personally speaking, I think that having a 4×4 layout for apps makes folders look weird. Not only do folders look odd when they’re open (there just isn’t enough padding around the app icons with 4×4 enabled) but the folder icons look weird when closed and stuffed with apps as well. Since you can place as many apps into folders as you want in iOS 7, I’m not a huge fan of stuffing as many app icons on a single folder page as possible, but to each his own.
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/Resized-FolderEnhancer-iOS-7-icon-layout.png)
+* FolderEnhancer for iOS 7 is another semi-casualty of Apple finally listening to the cries of its users. We all wanted the ability to place unlimited apps within a folder, and we got it. And there are other features that Apple has iterated over the years that have encroached on FolderEnhancer’s territory.
+* Despite my gripes, major props to FolderEnhancer developer, Lance Fetters, for making this tweak a free upgrade for those of us who already purchased it previously. You can find it right now on Cydia’s BigBoss repo. Share your thoughts about FolderEnhancer (iOS 7) in the comments.
+

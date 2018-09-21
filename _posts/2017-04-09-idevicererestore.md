@@ -1,0 +1,15 @@
+---
+layout: post
+title: iDeviceReRestore launches- restore 32-bit devices to any iOS 9.x firmware version
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2017/04/Re-restore-tool-header.png)
+* You may recall the exciting news of the iOS 9.x re-restore bug for 32-bit devices, which iDB tested out and reported on during its infancy.
+* Provided you have blobs for the destination, it allows any 32-bit device to restore to any iOS 9.x firmware, from any starting firmware, without bundles, keys, or even a jailbreak.
+* As you can probably tell from that summary, this is a powerful bug, and may give a new lease of life to all 32-bit devices. In tandem with the Home Depot jailbreak for iOS 9.1-9.3.4, legacy devices may never be without a jailbreak again, able to forever return to iOS 9, without fear of updates or restores.
+* The good news is that the re-restore tool, dubbed iDeviceReRestore, is now complete and released to the public. Essentially a tweaked version of the time-honoured tool idevicerestore, @alitek123, @Thmitt, and @JonathanSeals have made the necessary additions to take advantage of the bug discovered by @alitek123, to bring us this finished product. Beta testing of the tool is credited to @Mirko_tweets, @ee_csw and @DjSn0wfall, the latter two of which also helped me out with my own beta testing.
+* If you’d like to give the tool a test run, it can be found on the iDeviceReRestore website. It currently sits at version 1.0.1, resolving dependency issues that the initial release suffered from. There is currently no Windows edition of the tool, with Linux and macOS the two supported platforms, though I have seen success stories of using the tool via a VM.
+* For those of you who are interested in the tool’s properties and limitations, I’ll provide a brief overview here of what it can and can’t do.
+* When I last reported on this tool, it was thought it would be at least a couple of weeks in its completion, but thanks to the developers’ quick work, it’s out sooner than expected. If you’d like to check your blobs for compatibility with iDeviceReRestore, you can use this nonce-checker tool. Alternatively, open your blob up in a text editor, check it has an iBSS ticket, and check its starting string.
+* According to @DjSn0wfall, this technique can’t be patched by Apple, for the following reason. When in DFU mode, your device is waiting to verify a signed firmware component, which is iBSS. When a blob with an iBSS ticket is uploaded we are not technically evading any security mechanism, but it allows us to upload a signed iBEC next, and this has the necessary no-nonce bug. From there we can initiate a restore of the device, defeating any other software protections and verification checks. Interestingly, the bug is partially present in iOS 8 too, and up to iOS 10.2.1, but cannot be exploited.
+* I’ll be using this re-restore tool regularly going forward on my legacy devices, and I looking forward to hearing any success stories you have about it too.
+

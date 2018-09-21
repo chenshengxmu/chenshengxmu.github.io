@@ -1,0 +1,27 @@
+---
+layout: post
+title: Early iPad Air 2 reviews praise display, performance
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/ipad-air-2.png)
+* Right after its iPad event on Thursday, Apple gave a select group of journalists early access to its two new tablets— the iPad Air 2 and the iPad mini 3—for early review. Tonight, a number of those reviews hit the web, offering up initial feedback on the two devices.
+* Reviews for the new iPad mini seem pretty dull, given how similar it is to its predecessor, but reviewers had some interesting things to say about the iPad Air 2. So, as usual, we’ve rounded up some excerpts from Air 2 reviews to give you an idea of the consensus.
+* Nilay Patel for The Verge:
+* Pick up an iPad Air 2 and you’ll immediately understand why Apple pursues that thinness with such single-minded zeal. It’s so, so thin: 18 percent thinner than the older Air, and even slightly lighter […]
+* That thinness is primarily achieved from a new optically-bonded display that virtually eliminates the air gap between the LCD and the top glass, making it seem like you’re touching the pixels directly. Apple’s making a big deal out of this, but it’s actually fairly late in bringing the technology to the iPad — every iPhone since the iPhone 4 has had a bonded display, the iMac has had one for a while now, and several competing high-end tablets have one as well. All for good reason: bonded displays look terrific. The Air 2 has a vibrant, sharp display that looks almost painted on.
+* John Gruber, Daring Fireball:
+* Let’s talk performance. The iPhones 6 still have just 1 GB of RAM. The iPad Air 2 has 2 GB. The iPhone’s A8 SoC has 2 billion transistors and two cores. The iPad Air 2’s A8X SoC has 3 billion transistors. According to Geekbench 3, Apple achieved this by going from two CPU cores to three. […]
+* The Air 2 is noticeably faster than the iPhones 6 in single-core performance, but it’s simply in an altogether different ballpark in multi-core. I couldn’t get an answer from anyone at Apple regarding whether Geekbench is correct that it’s a three-core CPU,1 but the multi-core results certainly bear that out. It is remarkable not only that the new iPad Air 2 is faster than the iPhones 6, but also that it’s faster than a three-year-old MacBook Air, and within shooting distance of a two-year-old MacBook Air.
+* Joanna Stern, The Wall Street Journal:
+* The new Air’s display addresses one of my biggest complaints about previous iPads: You can finally see the screen outdoors. A thinner display with an anti-reflective layer means unless the sun is really beating down, there’s no need to pitch a towel tent over the screen while sitting by the pool. In my outdoor test, the Air 2 beat last year’s Air, Samsung’s Tab S and Amazon’s previous Fire HDX, displaying a more even balance under both sunlight and shade. Outdoors, it only loses to a bona fide e-reader like the Kindle Paperwhite.
+* Darrell Etherington, TechCrunch:
+* My review iPad Air 2 has done extremely well as a photography assistant, with Photoshop and Lightroom Mobile handling plenty of heavy lifting. iMovie, likewise, provides a great experience thanks to the beefed up internals on the tablet. But what’s most exciting are the experiences that have yet to be launched, including the mobile version of Pixelmator, which was demoed on stage at the iPad launch event. We’ve yet to see just how much additional processing power developers can wring out of the A8X, but even the first early attempts have shown a lot of promise.
+* Scott Stein for CNET:
+* A new A8X processor promises extra graphics muscle versus the A8 on the iPhone 6 and 6 Plus. And there’s a little more, too: for the first time, the iPad’s finally gotten a RAM boost: 2GB based on what GeekBench 3’s diagnostics reveal, up from 1GB.
+* The iPad Air 2, on pure benchmarks, screams past as the faster iOS device ever, as you’d expect. I ran 3DMark, a popular graphics benchmarking app, and its Ice Storm Unlimited test ran at an average overall score of 21,744, a good step above the latest iPhone 6 and 6 Plus and a big bump over last year’s iPad Air. Some Android tablets like the Nvidia Shield Tablet have showed better 3DMark performance, but this is the best iOS graphics performance by a good large margin.
+* Chris Davies, SlashGear:
+* On the iPad Air, the LCD, cover glass, and the touch sensor are all separate. The iPad Air 2 fuses them into one, doing away with the gaps in-between. That means a big reduction in internal reflectance – where light bounces between the reflective surfaces of each layer – and the result is a step up in clarity. It’s subtle: you don’t necessarily clock that there’s been an improvement in color quality, or contrast range, but simply that the screen seems clearer and more lively. At times, it almost feels like graphics are popping out, or floating just above the surface of the cover glass.
+* And here are a few video reviews:
+* https://www.youtube.com/watch?v=WctCt-C_u1M
+* So there you have it. It seems most reviewers feel that while the iPad Air 2 is a solid evolutionary update, it doesn’t offer enough for original iPad Air owners to upgrade. Many of them also found themselves wishing Apple would do more with its additional power.
+* Both the iPad Air 2 and iPad mini 3 are available for pre-order right now, and should be available in-stores soon. The Air 2 starts out at $499, for the entry level 16GB model, and the mini 3 at $399. Apple will also continue to sell several legacy iPads at a discount.
+

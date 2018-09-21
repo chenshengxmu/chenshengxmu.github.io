@@ -1,0 +1,13 @@
+---
+layout: post
+title: New report explains how Apple smart home program might work
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/Connected-Home.jpg)
+* While the Financial Times previously reported that Apple is working on a full-featured home automation software platform, a new report claims that the company actually has much smaller plans for the home. According to sources for Gigaom, Apple is hoping to lessen fragmentation in the home by certifying more connected devices through the official Made for iPhone program.
+* The company is reportedly not working on software-based automation, however, and instead is focusing its smart home efforts on connecting devices over Wi-Fi and Bluetooth for voice control. It might not be the full-out attempt at perfecting the smart home as was anticipated, but this is a good first step for Apple to be taking. Gigaom reporter Stacy Higginbotham elaborates… 
+* Instead of worrying about hubs and what might work with other devices, consumers can look for the MFi label and be assured that they can pull their smart home setup together — and control it from their iOS device. It’s technically possible that the user could control some device functions from a handset or tablet without opening the app, or that the app would open automatically based on a voice command or eventually through presence detection.
+* Apple-certified home appliances are not exactly new. As our own Christian Zibreg reported in January, the Tianzun smart air conditioner became the first connected home product to be certified under the Made for iPhone program. The big news here is that it looks like Apple will be making a much more aggressive push into the home, meaning that we could see anything from automated doors and locks to thermostats and light bulbs controlled by iOS devices in the near future.
+* Apple does have a Connected Home accessories page on its online store, although the selection is limited. Available products include the iGrill mini smart grilling thermometer, iSmartAlarm home security system, Belkin WEMO light switch, iDevices kitchen thermometer and the Netatmo urban weather station. Philips also offers various connected lightbulbs and light strips, alongside the popular Nest thermostat.
+* Home appliances will require chips that are certified for the Made for iPhone program, including those based on Wireless Accessory Configuration (WAC) that already exist. Higginbotham learned that Apple will announce new partners, devices and chips that support the MFi standard at its WWDC keynote next week, gaining a feel for the market and helping to create a more streamlined experience for connected homeowners.
+* Do you consider your home to be connected?
+

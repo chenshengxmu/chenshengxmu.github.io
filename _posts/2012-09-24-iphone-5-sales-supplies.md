@@ -1,0 +1,13 @@
+---
+layout: post
+title: iPhone 5 initial sales held back by limited supplies
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iPhone-5-launch-madness.jpg)
+* Wall Street analysts were busy Monday attempting to explain why Apple’s record-setting sales of 5 million iPhone 5 handsets during the weekend was fewer than investors expected. Among the chief reasons offered: there just weren’t enough of the new smartphones to meet demand. Despite the disappointment, Apple watchers remained confident the Cupertino, Calif. company still has the Midas Touch.
+* High-profile analyst Gene Munster told investors Apple’s sales figures released earlier today did not include online preorders, which he estimated at around 1 million units. Another potential reason “only” 5 million iPhone 5 were reported sold during the initial launch weekend: Apple was reserving some of its inventory for the smartphone’s international launch on Friday…
+* Also rushing to answer this insiders blame-game was Brian Marshall, analyst with ISI Group. According to Marshall, the discrepancy over Apple’s announcement and Wall Street expectations is due to a technicality. Marshall told investors that Apple does not actually count an iPhone sold until the customer signs on the dotted-line. As such, the analyst believes millions of iPhone 5 could still be on FedEx trucks or in the air in-transit to eager buyers.
+* Making a bit more sense is Brian White of Topeka Capital Markets. White believes while interesting, the first three days of sales aren’t indicative of real demand. First, there is the issue of demand outstripping supply. How much of this is an actual problem and simply designed to gin up press coverage is disputed. The second argument echoes Marshall’s explanation that much of the initial sales came in preorders that just haven’t arrived at customer’s doors. An actually tally of those sales might not be complete until October, when some preorders are expected to eventually be delivered.
+* The questioning of this first weekend of iPhone 5 sales certainly hasn’t dampened Wall Street expectation around other Apple product launches.
+* “We believe Apple has another blockbuster on its hands with the iPhone 5, and we expect the ‘iPad mini’ to launch in the coming weeks,” White wrote.
+* We’ve written about the questions of Apple’s ability to manage coverage of the build-up to the launch. What’s unclear is whether their marketing team has equal control over the Monday morning quarterbacking or analyst autopsies when it comes to sales. Perhaps the company should remember “They who sow the wind, shall reap the whirlwind.” What do you think?
+

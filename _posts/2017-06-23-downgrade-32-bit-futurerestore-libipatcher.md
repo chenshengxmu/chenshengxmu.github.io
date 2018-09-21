@@ -1,0 +1,17 @@
+---
+layout: post
+title: Downgrade any 32-bit device with futurerestore + libipatcher
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/futurerestore-libipatcher-header.jpg)
+* If you’ve ever wanted to downgrade your legacy devices but didn’t have the tools for the job, then this one may be for you. Tihmstar has released an addition to his well-known futurerestore tool (sometimes called Prometheus), entitled libipatcher. What does libipatcher do? In a nutshell, it will allow you to downgrade any jailbroken 32-bit device to any firmware for which you have blobs.
+* Until now, futurerestore has predominantly been of use to 64-bit devices, which it allows to restore to unsigned firmwares, provided the user has .shsh2 blobs saved. It was subsequently updated to take advantage of the iOS 9 re-restore bug, bringing some level of 32-bit support. The addition of libipatcher completes the 32-bit game, bringing functionality on par with that of futurerestore on 64-bit devices.
+* This new functionality is similar to that of the Odysseus downgrade tool, which some of you may have heard of. That also allowed you to downgrade 32-bit devices with blobs, but with one major difference: it required a bundle to complete the restore. The bundles were device+firmware specific, so many were required, and not all of them were ever made.
+* With libipatcher this requirement is removed, effectively rendering Odysseus obsolete. Libipatcher requires no bundles and makes all adjustments on the fly, meaning the user only needs their destination firmware’s blobs to use the tool.
+* Here’s a brief run-down of everything you need to know about libipatcher.
+* An additional module for tihmstar’s futurerestore, which allows moving to unsigned firmware for 32-bit devices.
+* In a very similar manner to futurerestore, though you’ll have to compile a new version of both libipatcher and futurerestore yourself for the time being, as release versions are not yet available. Compiling them is by far the hardest part, as using them is straightforward. You may want to wait until fully holistic versions are available to save yourself the headache, though I will be putting together a guide on how to assemble it if you’re feeling brave.
+* Anyone with blobs saved for their destination firmware, and a device with a jailbreak. If you don’t have a jailbreak, check if you can use the iOS 9 re-restore bug to first move to iOS 9 without needing a jailbreak, then jailbreak and use futurerestore+libipatcher.
+* As I mentioned on Twitter, I have already given this new utility a go, and it worked perfectly. Having used Odysseus in the past I found this tool a little simpler, because I didn’t have to hunt down a bundle for my device, and because it works the same as futurerestore. I restored an iPad 2 (WiFi) from iOS 9.3.4 to iOS 8.3 when Odysseus couldn’t help me, as there was no bundle for that device+firmware combination.
+* To see futurerestore+libipatcher in action, check out tihmstar’s release video, which demonstrates its usage. If you’re comfortable building from source code, you can find and make both futurerestore and libipatcher on GitHub.
+* I’ll post a guide on how to use the tool when I have worked out a foolproof way to build all the dependencies which is accessible for the average user, or once tihmstar has released a pre-built version with them included. Until then, feel free to have a go yourself and let me know your experiences in the comments.
+

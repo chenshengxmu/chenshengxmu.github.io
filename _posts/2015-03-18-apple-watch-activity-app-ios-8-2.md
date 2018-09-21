@@ -1,0 +1,34 @@
+---
+layout: post
+title: Apple Watch- a deeper look at the Activity app in iOS 8.2
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/Activity-App-Stand1.png)
+* For the last few hours I’ve been playing with the Activity app on iOS 8.2. The Activity app is a stock app included in iOS 8.2, but it’s currently hidden until you connect an Apple Watch. Thanks to developer Hamza Sood, I was able to access the app early and take it for a a test drive on video. Here’s what I found…
+* The Activity app is a stock iOS app included with iOS 8.2. It is designed to gather fitness data from the Apple Watch and its sensors. There will be Activity apps for both the Apple Watch and for the iPhone, with the iPhone version serving as a repository for long term data activity.
+* The Activity app icon shows the three progress rings associated with movement, exercise, and standing goals. The rings are in a closed state, which is the state that they appear in once the various milestones are achieved.
+![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/Activity-App-Apple-Watch.png)
+* The app is simply named “Activity” and features a black background. I know many people have complained about the look of the Apple Watch app icon, but I personally think that the Activity icon looks good, and well-represents what it’s meant to do.
+![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/Activity-App-History.jpg)
+* While the Apple Watch itself can show activity data, it’s limited in scope. The iPhone Activity app is able to store all activity data, so in theory, you could go back a year in the past and view data for a specific date.
+![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/Activity-App-Detailed-Week1.png)
+* The History tab makes getting an overview of your activity progress, and going back in time to look at past records a cinch. At its most zoomed out level, you’ll find a monthly calendar view, and you can swipe up and down to navigate between months. While in the month view, you can swipe-right-and-hold to view cumulative goal statistics for each week on the calendar.
+* In the upper right-hand corner of the month view, you’ll see a pink icon that allows you to quickly navigate to the current day. Actually, this icon isn’t just limited to month view, as it appears in the weekly/daily view as well.
+* When you tap on an individual day, you’ll zoom in to the weekly/daily view. It’s a combined view, because you have a scrollable week view at the top of the interface with individual days beneath. You can swipe on the week view to quickly navigate between weeks, and swipe on each day beneath to navigate between days. You can also tap on a day within the week view to quickly jump to a specific day.
+* For each day, you’ll find stats for the following three fitness goals:
+* Each goal features a graph that allows you to map out your progress across a 24-hour day. If you swipe left on each graph, you’ll find more statistics related to the specific goal. For example, the move goal will display active calories; exercise will tell you exercise minutes and total active time; stand will tell you hours stood along with idle hours.
+* Beneath all of the goals, you’ll see a step-counter along with total distance traveled throughout the day. As you can see, the Apple Watch’s activity app is good for daily activity monitoring, but it doesn’t have the benefit of being able to view a wider range of data from several days, weeks, or even years. What’s more is that the Activity app can work together with the Health app to share your activity and workout data, which can then be accessed by third-party health and fitness apps.
+* We saw a broad view of the Achievements in Hamza’s Activity app screenshots leak last week, but what we didn’t see are the details about each of the 19 included achievements. Achievements are personal bests or milestones that are reached through your usage of the Activity app. You’ll unlock a special badge for each achievement, which is stored on the Achievements tab in the Activity app.
+![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/Achievements-11.png)
+![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/Achievements-21.png)
+![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/Achievements-31.png)
+![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/Achievements-41.png)
+* The achievement badges are greyed-out until you reach the indicated milestones. Thereafter, the badges are filled in with cool 3D models as indicated by the teaser shot on the health and fitness section of the Apple Watch teaser site.
+* Here is a list of all of the achievements that come bundled with the Activity app:
+* Some of those goals are easy, no doubt, but some of them look pretty challenging. For example, the 1,000 Move Goal is a daily move goal that needs to be reached 1,000 times. that means that this goal cannot be reached and thus the badge cannot be earned until at least 1,000 days from April 24—the Apple Watch launch date. That’s 2.7 years post launch. See you on Thursday, January 18th, 2018!
+* But seriously, the deeper that I look at this app, the more potential that I see, and the more that I believe that this will be a true motivating factor for people to get up and get moving. I certainly can’t wait to start reaching some of these fitness goals.
+* When iOS 8.2 was released to the public, it included a front-facing Apple Watch app that will serve as the starting point for new Apple Watch owners. Once the Apple Watch launches next month, users will be able to pair their watch with their phone using the Apple Watch app. The app will also presumably serve as a means for configuring the Apple Watch.
+* Included along with the Apple Watch app was the Activity app that Apple has been advertising in its Apple Watch press materials. Unlike the Apple Watch app, the Activity app remains hidden from view until users pair an Apple Watch.
+* Last week, developer Hamza Sood exposed the Activity app along with additional Apple Watch companion app features. Although these apps remain hidden from view from most users, Sood was able to use various tactics to gain access to the hidden software.
+* Earlier today, Hamza was generous enough to show me how to gain access to the Activity app, by an extremely clever means—modifying keys inside the plist values contained within a iOS 8.2 backup, and then restoring that backup to my device. What resulted was the appearance of the new Activity app in all of its glory right on my Home screen. I’ll be sure to follow up with a how-to to show you how to do it yourself.
+* What do you think about the Activity app? Are you looking forward to using it alongside your Apple Watch? Sound off down below with your comments and thoughts. Special thanks to Hamza Sood for all of his hard work on figuring this out.
+

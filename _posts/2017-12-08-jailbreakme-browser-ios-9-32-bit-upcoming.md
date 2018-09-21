@@ -1,0 +1,15 @@
+---
+layout: post
+title: JailbreakMe-style browser jailbreak for iOS 9 in the works
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/web-exploit-tihmstar-jailbreakme-4.0-header.png)
+* After an iOS 8.4.1 jailbreak, an iOS 9.3.5 jailbreak, and an untether for the iOS 9.1-9.3.4 Home Depot jailbreak, tihmstar has now turned his attention to a mobile browser-based jailbreak for 32-bit devices.
+* Many of our loyal readers will remember the original JailbreakMe tools from the elder days of iOS, which jailbroke your device at the press of a button from a website in your browser. More recently, Luca Todesco created a similar site to host a browser exploit for the 64-bit iOS 9.3.3 jailbreak, pictured below.
+![img](http://media.idownloadblog.com/wp-content/uploads/2016/12/todesco-jbme.png)
+* Continuing in this tradition, and using the Trident bugs which caused such a ruckus a few months ago, tihmstar’s latest project exploits Safari vulnerabilities in pre-iOS 9.3.5 firmwares to inject the Home Depot code and jailbreak your device, with no need for a computer or a side-loaded jailbreak app.
+* He initially planned not to release his work, believing that it could be used to illegally bypass iCloud activation on locked devices, but may now have changed his mind. It seems that JIT (code compiled just-in-time) is not available in captive portals, preventing the risk of iCloud bypasses. His exploit relies on JIT to work, and if it were permitted in captive portals, an attacker could connect to a Wi-Fi network which used such a portal and run the exploit from there, accessing the device. However, given that this is in fact not possible, the way may be clear to release his affectionately dubbed “JailbreakMe 4.0”.
+* Many users will not be affected by this development, impressive though it is. It is a legacy tool, for 32-bit devices only, and covering only the Home Depot firmwares (iOS 9.1-9.3.4). Given that tihmstar himself has already created an untether for those firmwares, this tool will not even be necessary for reactivating the jailbreak, as it was with JailbreakMe for Pangu iOS 9.3.3. It is good to know however that Home Depot users who run into a problem with their untether will be able to re-jailbreak immediately from a webpage.
+* This does of course come with a security risk. The Trident exploits were patched in iOS 9.3.5 and later, but users should be aware that a browser-based exploit like this means that devices on iOS 9.3.4 and below can be compromised directly from the browser now. All it would take is a click on a phishing link on a website to run tihmstar’s exploit and jailbreak your device without consent. For this reason, exercise caution and avoid using a pre-iOS 9.3.5 device as a daily driver, if you are concerned.
+* The tool is not yet released, but we’ll let you know if and when it is. For now, you can watch a demonstration of it in action below:
+* It’s nice to see the convenient tradition of on-device jailbreaks continue, even if tihmstar’s JailbreakMe tool will not be of use to the jailbreaking majority.
+

@@ -1,0 +1,15 @@
+---
+layout: post
+title: How to Create Custom Shortcuts For WiFi Settings, Airplane Mode, and More - No Jailbreak Required
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/How-to-Create-Custom-Settings-App-Shortcuts.png)
+* It’s going on a month since the iPhone 4S made its initial debut, and we’re still without a jailbreak. Not that we’re complaining; we never expected a jailbreak for the 4S to be released this soon anyway.
+* Still, it’s hard giving up some of the luxuries that jailbreaking brings to the for — namely SBSettings toggles to quickly enable and disable certain low-level functions like WiFi, Bluetooth, Airplane mode, etc.
+* Fortunately, there is a compromise. We’ve briefly touched on it before, but in this article and video walkthrough we’ll show you how to create custom shortcuts to your favorite settings; no jailbreak required…
+* In this video tutorial, I used IconProject to create the custom icons with specific URL links to certain Settings app sections. IconProject is $0.99 on the App Store, but it’s super easy to use, and far and away the best app I’ve seen of this nature.
+* Admittedly, this is not a replacement for SBSettings, because SBSettings allows for direct toggles. This is more of a shortcut to specific sections of the Settings app. Again, it’s not a replacement, but it is a decent compromise until a jailbreak is released.
+* If you want to know all of the shortcut addresses to the various panels in the Settings app, you can use the following preference shortcut addresses:
+* About — prefs:root=General&path=About Accessibility — prefs:root=General&path=ACCESSIBILITY Airplane Mode On — prefs:root=AIRPLANE_MODE Auto-Lock — prefs:root=General&path=AUTOLOCK Brightness — prefs:root=Brightness Bluetooth — prefs:root=General&path=Bluetooth Date & Time — prefs:root=General&path=DATE_AND_TIME FaceTime — prefs:root=FACETIME General — prefs:root=General Keyboard — prefs:root=General&path=Keyboard iCloud — prefs:root=CASTLE iCloud Storage & Backup — prefs:root=CASTLE&path=STORAGE_AND_BACKUP International — prefs:root=General&path=INTERNATIONAL Location Services — prefs:root=LOCATION_SERVICES Music — prefs:root=MUSIC Music  Equalizer — prefs:root=MUSIC&path=EQ Music Volume Limit — prefs:root=MUSIC&path=VolumeLimit Network — prefs:root=General&path=Network Nike + iPod — prefs:root=NIKE_PLUS_IPOD Notes — prefs:root=NOTES Notification — prefs:root=NOTIFICATIONS_ID Phone — prefs:root=Phone Photos — prefs:root=Photos Profile — prefs:root=General&path=ManagedConfigurationList Reset — prefs:root=General&path=Reset Safari — prefs:root=Safari Siri — prefs:root=General&path=Assistant Sounds — prefs:root=Sounds Software Update — prefs:root=General&path=SOFTWARE_UPDATE_LINK Store — prefs:root=STORE Twitter — prefs:root=TWITTER Usage — prefs:root=General&path=USAGE VPN — prefs:root=General&path=Network/VPN Wallpaper — prefs:root=Wallpaper Wi-Fi — prefs:root=WIFI
+* Special thanks to Clay Russell at The iPhonaddict for the tip.
+* What do you think? Is this enough to hold you over until a jailbreak hits the 4S, or an untethered jailbreak hits iOS 5? Share your thoughts with us below.
+

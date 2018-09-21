@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'QuickClear' lets you clear app badges with 3D Touch
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2016/02/quickclear-review-featured-image.jpg)
+* Here’s a gem for 3D Touch fans and jailbreakers alike; a new free jailbreak tweak that goes by the name of QuickClear is now available in Cydia’s BigBoss repository that lets you perform a 3D Touch gesture on any app icon with a notification badge to clear the badge from the app icon.
+* When you have a notification badge sitting and waiting on one or more of your Home screen app icons, and you want to hide the badges from apps that are less important to you, QuickClear will come in handy. You simply use a 3D Touch gesture on any of the app icons that you want to clear the badge from, and a “Clear Badge” option will appear under the 3D Touch Quick Actions menu.
+![img](http://media.idownloadblog.com/wp-content/uploads/2016/02/quickclear-3d-touch-menu-to-clear-badges.png)
+* It’s worth noting that the “Clear Badge” Quick Action also shows you how many unread notifications you have before you clear them, but it’s self-evident how many unread notifications you have just by looking at the badge itself.
+* By tapping on the “Clear Badge” Quick Action, you will hide the badge from the app icon. You can do this for as many app icons as you would like, so long as they have a badge to hide.
+* Unlike BadgeCleaner, a similar tweak we showed you yesterday, clearing the badge from the app with QuickClear will mark the notification as read throughout Notification Center. This means it won’t appear in Notification Center anymore when you clear the badge notification with 3D Touch.
+* With that being said, be careful which notifications you clear in this manner, because you won’t be seeing them again anywhere in iOS and you might forget they were there at a later time when you have the time to go back and look at them.
+* The tweak doesn’t have any options to configure – this is one of those tweaks that you simply install and start using right away.
+* This tweak will work with non-3D Touch iPhones, iPod touches, and iPads so long as you use a 3D Touch porting tweak like revealMenu or Forcy.
+* With one of these 3D Touch-porting tweaks installed on your non-3D Touch device, you’ll simply tap and hold on an app icon to simulate a 3D Touch gesture on the app in question. So, for example, we are tapping and holding on the Messages app in our screenshot above while using the revealMenu tweak because we’re testing QuickClear on an iPhone 5, which doesn’t have 3D Touch.
+* Chalk up another point for a 3D Touch tweak that works on older devices – it absolutely will work!
+* I liked the concept behind yesterday’s release of BadgeCleaner, but the problem was any time you’d try and launch an app, you’d get pestered by a pop-up menu that would ask whether you wanted to clear the badges or launch the app.
+* I personally like the QuickClear user interface better because it integrates with an otherwise unseen gesture. The only time you’ll get prompted to clear any of the app’s badges is if you specifically go out of your way to try and clear them. This means launching apps from your Home screen as usual remains uninterrupted, and I really like that implementation.
+* I really have nothing bad to say about QuickClear or the concept, but there is one thing I’d like it to do better and I’ll get to that in a moment.
+* I really love how the tweak integrates with the 3D Touch Quick Actions menu, and I also love that it works with all apps on the Home Screen. I should also mention that I love how the tweak works with 3D Touch porting tweaks  like revealMenu and Forcy because if it weren’t for that compatibility, I wouldn’t even be able to test the tweak.
+* The implementation, as I just went over, is great because you’ll only ever see the option to clear a badge when you actually perform the gesture to clear them. This is better than other tweaks, which force a menu down your throat when you had a badge, whether you want to see the menu or not.
+* Now, for the one thing I wish the tweak did better, it clears notifications from Notification Center completely. This means when you think you’re clearing a notification badge to un-clutter unimportant badges from the home screen, you’re actually also marking those notifications as read. This could be a problem, because later on when you want to check your notifications, you’ll check the apps that still have badges and there won’t be any indication that the apps you cleared the badges for still had a notification for you to check out.
+* Nevertheless, would I recommend this tweak to a jailbreaker? Absolutely. There’s nothing wrong with this tweak so long as you use it responsibly and not carelessly. As long as you know what kind of notification you’re dismissing, which you should because the Lock screen shows previews before you even unlock your deice, you won’t have problems with dismissing notifications by accident.
+* QuickClear, which is a jailbreak tweak available free of cost from Cydia’s BigBoss repository, is a great way to make use of the 3D Touch Quick Actions menu for a function that users are going to use time and time again. The ability to clear unwanted notification badges without having to launch and load an app will save oodles of time.
+* Also read:
+* What are your thoughts on QuickClear? Share in the comments below.
+

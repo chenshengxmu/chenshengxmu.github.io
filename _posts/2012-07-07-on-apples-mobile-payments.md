@@ -1,0 +1,18 @@
+---
+layout: post
+title: On Apple's plans for a mobile payment system
+---
+![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/iphone-5-white-3.jpg)
+* There have been a few rumors bouncing around the Apple community for the last two years that just won’t die out. Among them is the iPhone-embedded, iTunes-based mobile payment system. Pundits believe that Apple, and its 400 million iTunes accounts, has the ability to kickstart the struggling mobile payment industry.
+* Apple itself added fuel to the fire last month when it unveiled its new Passbook application. It acts like a digital wallet of sorts, allowing users to store event tickets, gift cards, and even creditcards on their iOS devices. But it’s still not the end-all mobile payment solution we were all expecting. At least not yet anyway…
+* The Wall Street Journal published an interesting report last night regarding Apple’s decision making process when it comes to entering new markets. The piece helps shine some light on the company’s current ‘go-slow’ approach to the mobile payment space.
+* Apparently Apple has been interested in the subject for a while now, and started seriously looking into it sometime last year.
+* “A small group began investigating whether the company should created a new service that would embed various payment methods in the iPhone or build a payment network of its own, according to people familiar with the matter.
+* Apple’s head of iPhone software, Scott Forstall, was interested in the idea, say people familiar with the matter, and engineers on his team began to brainstorm a comprehensive “wallet app.”
+* They discussed whether Apple should facilitate payments to marchants directly, one of those people said. The idea didn’t go very far, on account of the complexity, including the possibility that the company would need to become a bank.”
+* Apple’s engineers also investigated a number of options on the hardware side. According to the report, they looked into NFC technology first, but backed off for a couple of reasons. For one, they worried whether the near-field communication tech was secure enough to handle mobile payments. And two, they were concerned how the required chip would affect device size and battery life. Apple’s executives were also leery of the slow adoption of NFC among retailers.
+* This would explain the number of NFC-related reports that popped up last year, leading up to what was eventually the iPhone 4S release. First there was going to be an NFC chip in the handset, and then there wasn’t. The rumor mill went back and fourth on this a number of times. In hindsight, some of these reports could have very well been accurate at the time they surfaced, depending on who you talked to inside Cupertino.
+* In the end, Apple’s executive team decided that it was still too early to make a call on mobile payment tech. So it came up with a platform — the Passbook application — that would allow it to quietly enter the space without making a large commitment. This way it could sit and watch the industry and decide when and how to enter it, a common tactic for the company when looking at new markets.
+* But it had better not stay on the sidelines too long. Although it has yet to gain much traction, Google has had its hand in the mobile payment space for almost a year now with its Wallet solution. And Microsoft just announced its own Wallet software at its developer conference last month. Combine these two tech giants with veteran companies like Visa and Square, and the stage is set for a battle royale for mobile payment marketshare.
+* The question is, who is going to come out on top? What do you think?
+
