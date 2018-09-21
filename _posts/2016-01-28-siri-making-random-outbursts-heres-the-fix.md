@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Siri making random outbursts? Here's the fix
+title: Siri making random outbursts? Heres the fix
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/siri-didnt-quite-get-that-example.png)
 * It’s happened many times to me before, and I can relate to those that it happens to – you’re trying to be quiet in the middle of class or in the middle of a meeting for work, and all of a sudden you hear a random noise and then Siri starts blabbering.

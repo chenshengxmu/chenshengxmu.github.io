@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft to sell 80-inch Windows 8 'tablet'
+title: Microsoft to sell 80-inch Windows 8 tablet
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Windows-8-Consumer-Preview-on-82-inch-display.jpg)
 * Seriously, Microsoft has plans to officially sell a whopping 80-inch tablet, their VP has confirmed. This beast of a ‘tablet’ is powered by Microsoft’s upcoming Windows 8 operating system and is currently hung on the wall in CEO Steve Ballmer’s office.

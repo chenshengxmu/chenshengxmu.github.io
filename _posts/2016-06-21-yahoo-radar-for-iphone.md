@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quick review- traveling smart with Radar, Yahoo's new iPhone app for planning trips
+title: Quick review- traveling smart with Radar, Yahoos new iPhone app for planning trips
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/Yahoo-Radar-1.0-for-iOS-iPhone-screenshot-001.png)
 * Yahoo today released a brand new mobile application for planning trips, Radar for the iPhone, iPad and iPod touch. The app is available at no charge in the App Store and includes a smart chat bot that you can interact with. Using data from a number of popular third-party services, like Yelp and TripAdvisor, Radar delivers personalized recommendations of sights to see, activities and restaurants in an attractively designed mobile user interface.

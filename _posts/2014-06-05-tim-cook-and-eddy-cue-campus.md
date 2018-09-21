@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook and Eddy Cue visit Apple's new Austin campus
+title: Tim Cook and Eddy Cue visit Apples new Austin campus
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/apple_austin_campus_feb_2014.jpg)
 * In late 2012, Apple began work on a major 39-acre campus in Austin, Texas. According to its development agreement, the grounds will house more than 1 million square feet of office space for various operations including human resources, finance and the like.

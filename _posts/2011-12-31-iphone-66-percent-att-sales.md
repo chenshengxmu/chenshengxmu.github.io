@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone Made Up 66% of AT&T's December Smartphone Sales
+title: iPhone Made Up 66% of AT&Ts December Smartphone Sales
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/iphone-4.jpg)
 * The iPhone has without a doubt been one of the (if not the) year’s most popular handsets. The iPhone 4 led smartphone sales at Verizon for the better part of 2011, and both the 3GS and 4 have done the same at AT&T. But is the device still on top?

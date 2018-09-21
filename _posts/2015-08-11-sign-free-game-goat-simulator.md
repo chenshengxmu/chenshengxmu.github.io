@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Goat Simulator named IGN's new Game of the Month, here's how to claim your free download
+title: Goat Simulator named IGNs new Game of the Month, heres how to claim your free download
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/08/Goat-simulator-1.2-for-iOS-iPhone-screenshot-001.jpeg)
 * Goat Simulator by Coffe Stain Studios is available at no charge as IGN’s new Free Game of the Month for August. Goat Simulator is a $5 download on the App Store so this is a nice treat on IGN’s part. In this game, you can be—you guessed right—a goat.

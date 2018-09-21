@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cook on toaster-refrigerator dilemma and why iPad and MacBook won't converge
+title: Cook on toaster-refrigerator dilemma and why iPad and MacBook wont converge
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/Oven-illustration.png)
 * Apple reported its monster first-quarter earnings yesterday and CEO Tim Cook updated investors on a conference call with various tidbits.

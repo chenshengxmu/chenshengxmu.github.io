@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Suppliers ramping up component production for 'thinner, faster' iPad Air 2 with Touch ID
+title: Suppliers ramping up component production for thinner, faster iPad Air 2 with Touch ID
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/iPad-Air-2-dummy-NowhereElse-005.jpg)
 * According to DigiTimes, a hit-and-miss Taiwanese trade publication, Apple’s suppliers are ramping up production of components for a second-generation iPad Air, which sources describe as being thinner, faster and incorporating the widely expected Touch ID fingerprint scanning feature.

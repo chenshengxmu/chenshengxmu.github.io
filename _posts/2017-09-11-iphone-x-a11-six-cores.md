@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RIP the rest of the industry- iPhone X's A11 chip has 6 independently addressable CPU cores
+title: RIP the rest of the industry- iPhone Xs A11 chip has 6 independently addressable CPU cores
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/iPhone-X-wallpaper-teaser-001.jpeg)
 * The next iPhone is going to pack in unprecedented compute power thanks to an Apple-designed A11 chip that has six independently addressable CPU cores that can all run at once, according to code strings in a leaked iOS 11 Gold Master build.

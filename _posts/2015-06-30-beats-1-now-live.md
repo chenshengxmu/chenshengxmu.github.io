@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beats 1, Apple's new global Internet radio, starts broadcasting with DJ Zane Lowe
+title: Beats 1, Apples new global Internet radio, starts broadcasting with DJ Zane Lowe
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/Beats-1-teaser-003.jpg)
 * Beats 1, Apple’s 24/7 radio station, has just started broadcasting live in over a hundred countries around the world following the release of iOS 8.4 with a much improved and revamped Music app with Beats 1 and Apple Music integration.

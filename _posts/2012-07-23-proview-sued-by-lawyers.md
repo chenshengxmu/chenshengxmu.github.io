@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Proview doesn't pay attorney fees in iPad suit, lawyers sue
+title: Proview doesnt pay attorney fees in iPad suit, lawyers sue
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/proview-plant.jpg)
 * China-based Proview recently took home a cool $60 million settlement in iPad trademark case which delayed the tablet’s launch in China.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FunAppocalypse simulates the iPhone apocalypse in the skit from Apple's WWDC keynote
+title: FunAppocalypse simulates the iPhone apocalypse in the skit from Apples WWDC keynote
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/FunApocalypse-WWDC-2017-gag-tweak.png)
 * When Apple kicked off the WWDC 2017 keynote this year, they presented a hilarious comedy skit that put into perspective just how important mobile apps are in our daily lives. As every iOS device went kaput, the world quickly delved into chaos.

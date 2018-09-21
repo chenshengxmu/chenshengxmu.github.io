@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple starts accepting orders for LG's 27" UltraFine 5K Display, ships in 2-4 weeks
+title: Apple starts accepting orders for LGs 27 UltraFine 5K Display, ships in 2-4 weeks
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/12/LG-UltraFine-5K-Display-online-order-web-screenshot-001.png)
 * LG’s UltraFine 5K Display, the external ultra high-resolution display Apple didn’t want to make, is now available to order through Apple.com. The display can be ordered with Apple’s in-store pickup option (availability of in-store pickup may vary from one store to another). First orders were scheduled to deliver on December 27 or 28, with in-store pickup availability on December 29. However, estimated delivery times quickly slipped to 2-4 weeks.

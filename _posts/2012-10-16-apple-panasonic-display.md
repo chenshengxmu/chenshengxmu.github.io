@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Panasonic reportedly looking to find its way into Apple's supply chain for the iPad
+title: Panasonic reportedly looking to find its way into Apples supply chain for the iPad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/Retina-Display-iPad-3.png)
 * Apple has traditionally used Samsung displays in products and lately has begun sourcing portable screens from other suppliers, namely LG Display, Japan Display and Sharp. If a new business report out of Japan is correct, Panasonic will exit the TV biz to focus on churning out displays for portable electronics, with a strong focus on Apple’s iPad.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dish customers can now start support conversations in Apple's Messages app
+title: Dish customers can now start support conversations in Apples Messages app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/Dish-Business-Chat.jpg)
 * Pay-TV provider Dish Network today announced that its customers are now able to start support conversations using Apple’s Business Chat feature in the Messages app.

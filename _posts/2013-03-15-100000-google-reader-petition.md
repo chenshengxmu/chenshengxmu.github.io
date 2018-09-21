@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 100,000 die-hard fans want to keep Reader alive, Google wouldn't budge
+title: 100,000 die-hard fans want to keep Reader alive, Google wouldnt budge
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/google-reader-.jpeg)
 * A petition to keep Google Reader alive, available at Change.org, already has more than a hundred thousand signatures. After the Internet giant Tuesday shocked the tech world announcing it will discontinue the service after July 1, 2013, the petition crossed 50,000 signatures in less than 24 hours as Reader die-hards scrambled to keep the web app alive. While the decision to axe Reader might actually revitalize the industry, Google refuses to change its mind, Friday news reports indicate…

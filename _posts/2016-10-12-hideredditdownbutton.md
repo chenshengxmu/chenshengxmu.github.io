@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HideRedditDownButton hides the floating 'scroll down' button in the Reddit app
+title: HideRedditDownButton hides the floating scroll down button in the Reddit app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/HideRedditDownButton-1.jpg)
 * HideRedditDownButton is a new free jailbreak tweak that hides the double-arrow scroll down button in the official Reddit app for iOS.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to bypass Facebook's Chat Heads limit on iOS
+title: How to bypass Facebooks Chat Heads limit on iOS
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/facebook-unlim.png)
 * Yesterday we showed you a couple of free, handy jailbreak tweaks that allow you to activate the new Chat Heads and sticker features in Facebook’s 6.0 app. And that’s great for the folks that didn’t have access to them, but what about everyone else?

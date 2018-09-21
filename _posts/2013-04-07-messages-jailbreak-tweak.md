@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Messages' lets you compose and reply to messages from anywhere in iOS
+title: Messages lets you compose and reply to messages from anywhere in iOS
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/messages-3.png)
 * Sometimes I feel like I’m one of the only people in the world that doesn’t use biteSMS. Don’t get me wrong, I really like some of the tweak’s features, like quick reply and compose. But in my experience, it’s not very stable and tends to clash with the stock Messages app.

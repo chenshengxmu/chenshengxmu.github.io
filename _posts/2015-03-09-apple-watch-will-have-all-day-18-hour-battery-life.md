@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Watch will have "all day", 18-hour battery life
+title: Apple Watch will have all day, 18-hour battery life
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/Apple-Watch-battery.png)
 * We’ve been waiting for months to hear how long the Apple Watch’s battery will last, and luckily the Cupertino-based company has appeased us during its “Spring Forward” media event on Monday. Apple says the Apple Watch will have an 18-hour battery life, or what Apple calls “all day battery life”.

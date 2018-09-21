@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SIM-free iPhone 6s now available in Apple's web store
+title: SIM-free iPhone 6s now available in Apples web store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/10/sim-free.png)
 * Heads up to those of you who have been waiting for SIM-free iPhone 6s and 6s Plus handsets. As noted by MacRumors, Apple on Thursday night began offering SIM-free models of its latest smartphones via its web store.

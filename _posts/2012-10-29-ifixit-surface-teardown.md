@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft's Surface is more repairable than iPad 3
+title: Microsofts Surface is more repairable than iPad 3
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/Surface-teardown-iFixit-002.jpg)
 * The repair experts over at iFixit pried open Microsoft’s Surface RT tablet (model number 1516) and awarded the device a repairability score of four out of ten (ten is the easiest to repair), thanks to several components being modular and replaceable without requiring desoldering. Plus, the battery can be removed “pretty easily”, iFixit notes.

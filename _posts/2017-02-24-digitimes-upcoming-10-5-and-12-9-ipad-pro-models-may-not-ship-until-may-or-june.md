@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DigiTimes- upcoming 10.5" and 12.9" iPad Pro models may not ship until May or June
+title: DigiTimes- upcoming 10.5 and 12.9 iPad Pro models may not ship until May or June
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/Twelve-South-BookBook-for-iPad-Pro-image-007.jpg)
 * New iPads, along with a 128-gigabyte edition of iPhone SE and iPhone 7 in a new Red color option, could be unveiled as soon as next month. Still, upgraded 10.5 and 12.9-inch iPad Pro models may not start shipping until May or June, according to DigiTimes corroborating a KGI research.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Angry Frogs- It's Like Angry Birds, Only with Frogs
+title: Angry Frogs- Its Like Angry Birds, Only with Frogs
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/Angry-Frogs.jpg)
 * Do you hate birds? Would you love to play Angry Birds, but can’t because you hate birds so much? If you answered yes to both these questions, hang on because we might have the right app for you.

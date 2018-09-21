@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's marketing boss Phil Schiller profiled as Mini-Me and Dr. No
+title: Apples marketing boss Phil Schiller profiled as Mini-Me and Dr. No
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/Phil-Schiller-headshot.jpg)
 * Bloomberg Businessweek ran an interesting profile of Apple’s senior vice president of worldwide marketing Phil Schiller who after CEO Tim Cook is said to be under tremendous pressure to fill the void following Steve Jobs’ passing last October.

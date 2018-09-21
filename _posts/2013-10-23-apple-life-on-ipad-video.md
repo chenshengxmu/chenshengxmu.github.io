@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's new 'Life on iPad' video highlights creative iPad uses the world over
+title: Apples new Life on iPad video highlights creative iPad uses the world over
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/Life-on-iPad-image-001.jpg)
 * In addition to the inaugural iPad Air television commercial dubbed ‘Pencil’ and the promotional video featuring Jony Ive and other executives who talk about solving the design challenges of making the iPad Air 28 percent lighter and 20 percent thinner, another video has just gone live on Apple’s YouTube channel.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 30+ new iOS 10 features Apple didn't mention today
+title: 30+ new iOS 10 features Apple didnt mention today
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/wwdc-2016-ios-10-features-not-mentioned.jpg)
 * In typical fashion, Apple used a portion of its WWDC keynote to go over some of the major—or “tentpole”—features coming in the next version of iOS 10. There’s a more powerful Messages app, a new HomeKit app, redesigned Music and News apps, and more.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple increases iPhone 7 production orders ahead of Wednesday's event
+title: Apple increases iPhone 7 production orders ahead of Wednesdays event
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/08/iPhone-7-backside-leak-001.jpg)
 * With just two days left until Apple’s big reveal, the Cupertino firm is said to have increased production orders for the iPhone 7 and iPhone 7 Plus. According to supply chain sources that spoke with Taiwanese trade publication DigiTimes, Apple has boosted its original prediction by ten percent for parts and components needed for production of the iPhone 7 and iPhone 7 Plus, which are scheduled to be released on Wednesday, September 7.

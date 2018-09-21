@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's massive traffic acquisition cost payments to Apple could decrease this year
+title: Googles massive traffic acquisition cost payments to Apple could decrease this year
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/iOS-10-Settings-Safari-Search-Engine-iPHone-screenshot-001.png)
 * According to Google’s parent company Alphabet’s most recent quarterly filing with the SEC, the traffic acquisition costs paid to partners like Apple for directing users to its search service will begin diminishing this year.

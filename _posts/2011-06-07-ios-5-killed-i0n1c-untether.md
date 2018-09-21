@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jailbreak Killer- iOS 5 May Have Killed i0n1c's Untether
+title: Jailbreak Killer- iOS 5 May Have Killed i0n1cs Untether
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/i0n1c-dead-iOS-5-untethered.jpeg)
 * Earlier today we shared the excellent news with you that the first beta version of iOS 5 had already been jailbroken by MuscleNerd. This tethered jailbreak uses the same LimeRa1n exploit that has been used from iOS 4 to 4.3.3.

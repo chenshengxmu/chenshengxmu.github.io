@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to use Apple Watch's Digital Crown as a remote camera shutter in compatible iPhone apps
+title: How to use Apple Watchs Digital Crown as a remote camera shutter in compatible iPhone apps
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/04/Apple-Watch-Music-teaser-001.jpg)
 * The built-in Camera Remote app for your Apple Watch turns the wearable device into a viewfinder for the iSight camera on your iPhone. With it, you can see a live preview of what your iPhone sees, snap a photo or set the timer on the iPhone’s camera, all from your wrist.

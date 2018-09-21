@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mansfield return as SVP influenced by Forstall's ousting
+title: Mansfield return as SVP influenced by Forstalls ousting
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/bob-mansfield.png)
 * The many layers of why Scott Forstall was ousted as Apple’s iOS chief just keep peeling away. The latest wrinkle: Bob Mansfield, the company’s former hardware engineering senior vice president, agreed to come out of retirement to become senior vice president of Technologies, a new group encompassing wireless and hardware tech, only after Apple CEO Tim Cook offered a boatload of cash and the promise he didn’t have to talk to Forstall…

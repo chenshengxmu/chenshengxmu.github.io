@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Valve CEO- Apple's a bigger threat to Steam Box than consoles
+title: Valve CEO- Apples a bigger threat to Steam Box than consoles
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/07/Apple-prepares-to-plug-Apple-TV-into-the-App-Store-2355.png)
 * Valve may be taking on traditional video game consoles with its upcoming Steam Box, but CEO Gabe Newell says that Apple is the company’s biggest threat to its success in the entertainment space.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'OpenOther' Jailbreak Tweak is Guaranteed to Bring the Practical Jokester Out of You
+title: OpenOther Jailbreak Tweak is Guaranteed to Bring the Practical Jokester Out of You
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/OpenOther-Feature.png)
 * Every so often you’ll stumble across a jailbreak tweak that’s absolutely perfect for use as a practical joke.

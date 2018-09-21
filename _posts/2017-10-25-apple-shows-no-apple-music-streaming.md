@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's upcoming original shows won't be streamed via Apple Music
+title: Apples upcoming original shows wont be streamed via Apple Music
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/Carpool-Karaoke-on-Apple-Music-iPhone-screenshot-001.jpg)
 * The shows “Carpool Karaoke” and ”Planet of the Apps,” Apple’s first attempt at Hollywood-style television programming, are currently being distributed at no charge to Apple Music members via the dedicated TV & Movies subsection within the Browse tab.

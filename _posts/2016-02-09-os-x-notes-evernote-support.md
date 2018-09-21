@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Notes app in OS X 10.11.4 El Capitan can import files from Evernote
+title: Apples Notes app in OS X 10.11.4 El Capitan can import files from Evernote
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/Notes-Sketch.jpg)
 * The forthcoming OS X 10.11.4 El Capitan software update, currently in testing, will bring out the ability to import Evernote content into the stock Notes application, Apple’s Vice President of Marketing, Brian Croll, has confirmed in an interview with Japanese publication PC User, as relayed yesterday by the Japanese blog Mac Otakara.

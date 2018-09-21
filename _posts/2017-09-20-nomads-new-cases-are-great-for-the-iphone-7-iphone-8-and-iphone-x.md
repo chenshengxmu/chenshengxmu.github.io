@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nomad's new cases are great for the iPhone 7, iPhone 8, and iPhone X
+title: Nomads new cases are great for the iPhone 7, iPhone 8, and iPhone X
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/Nomad-iPhone-8-X-cases-review.jpg)
 * The iPhone 8 and the iPhone X are just on the horizon, which means ostensibly millions of people are going to be looking for cases for their new devices. Nomad has recently released five new cases that work not only on the iPhone 8 and X, but the iPhone 7 series as well.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPad 2, iOS 5, MobileMe, and Steve Jobs- What to Expect From Tomorrow's Apple Event
+title: iPad 2, iOS 5, MobileMe, and Steve Jobs- What to Expect From Tomorrows Apple Event
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/03/iPad-2-Event-1.jpeg)
 * Apple will be holding an iPad-centric event tomorrow at the Yerba Buena Center in San Fransisco, California. Honestly, that’s all anyone knows at this point.

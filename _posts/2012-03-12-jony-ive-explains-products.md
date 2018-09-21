@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jony Ive explains some of the secrets to Apple's sauce
+title: Jony Ive explains some of the secrets to Apples sauce
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/jony-ive.jpg)
 * Jonathan Ive has made quite a name for himself over the past few years. And for good reason too. Apple’s SVP of industrial design is largely responsible for creating the look and feel of several popular products, including the iPod and the iPhone.

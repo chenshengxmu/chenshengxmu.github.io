@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to stop 'Up Next' videos from autoplaying on YouTube
+title: How to stop Up Next videos from autoplaying on YouTube
 ---
 * One of my pet peeves with YouTube is how after completing a video, the service shoves a new video down your throat with a feature called “Up Next,” which gives you a 15-second time frame to click the “X” button at the top right of the video before the next video starts to play.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-05-at-2.23.26-PM.png)

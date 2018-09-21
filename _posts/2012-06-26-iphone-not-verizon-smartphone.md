@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone no longer Verizon's bestselling smartphone
+title: iPhone no longer Verizons bestselling smartphone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/iphone-4s-razr-maxx.jpeg)
 * Since the iPhone launched on Verizon’s network last year, the handset has been the carrier’s most popular smartphone. Most quarters it’s even sold better than all Android devices combined.

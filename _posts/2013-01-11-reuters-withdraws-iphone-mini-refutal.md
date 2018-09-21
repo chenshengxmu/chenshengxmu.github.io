@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wow, Reuters pulls Phil Schiller 'no budget iPhone' story. Umm... Now what?
+title: Wow, Reuters pulls Phil Schiller no budget iPhone story. Umm... Now what?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/iPhone6-004.jpg)
 * Here’s something for naysayers to chew on: Reuters, the respectable news gathering organization, Friday morning issued a clarification stating it had withdrawn the story that was originally published under the headline “Apple exec dismisses cheaper iPhone as a market share grab — report”. It’s not clear what prompted Reuters to rescind its report sourced from an interview Apple’s marketing honcho Phil Schiller gave to the Shanghai Evening News.

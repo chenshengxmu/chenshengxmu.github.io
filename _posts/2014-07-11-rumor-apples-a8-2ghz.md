@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rumor- Apple's A8 chip boasts frequencies of 2.0GHz or more per core
+title: Rumor- Apples A8 chip boasts frequencies of 2.0GHz or more per core
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/iPad-Air-promo-A7-closeup-002.jpg)
 * Given Apple’s past mobile processor patterns, it’s fairly safe to assume that the new iPhones and iPads – when they drop this Fall – will feature a new A8 chip, designed by Apple and manufactured by both Samsung and Taiwanese chip foundry Taiwan Semiconductor Manufacturing Company (TSMC).

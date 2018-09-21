@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's first-look video showcases iPhone Xs video recording improvements
+title: Apples first-look video showcases iPhone Xs video recording improvements
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/09/Apple-iPhone-Xs-camera-video-shooting-modes-experiments.jpg)
 * Apple’s official YouTube channel yesterday released a first-look video offering a glimpse of camera and computational photography improvements made possible by the nearly 10x faster Neural engine in its industry-first 7-nanometer A12 Bionic system-on-a-chip.

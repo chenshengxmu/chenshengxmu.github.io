@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CVS and Walgreens also said to support Apple's new payment service
+title: CVS and Walgreens also said to support Apples new payment service
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/walgreens.jpg)
 * Recode reports that Apple has signed on the country’s two largest pharmacy chains—CVS and Walgreens—to participate in its new mobile payment service. The company is expected to unveil the service, alongside two new iPhones, at a media event in Cupertino next week.

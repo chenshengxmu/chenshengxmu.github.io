@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New iPad jailbreak tweak 'Quasar' allows for true iPad window based multitasking [Video]
+title: New iPad jailbreak tweak Quasar allows for true iPad window based multitasking [Video]
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/Quasar.jpg)
 * A new $9.99 jailbreak tweak was released for the iPad today on Cydia, and it goes by the name of Quasar.

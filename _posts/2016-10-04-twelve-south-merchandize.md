@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Only for true Apple fans- Twelve South's candle smells like a freshly unboxed Mac
+title: Only for true Apple fans- Twelve Souths candle smells like a freshly unboxed Mac
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/TWelve-South-candle.png)
 * Do you remember what your Mac smelled like the first time you unboxed it? If not, Apple-exclusive accessory maker Twelve South has you covered with a hand poured soy wax candle that delivers a “new Mac” smell to your nose. “We took that scent—and literally bottled it,” wrote the company. The candle is part of Twelve South’s line of merchandize that includes Mac-style T-shirts, hats, mugs and more.

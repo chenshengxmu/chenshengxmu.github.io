@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Glass vendor Corning to receive $200 million from Apple's new fund
+title: Glass vendor Corning to receive $200 million from Apples new fund
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/05/Corning-Gorilla-Glass-5-teaser.jpg)
 * Gorilla Glass maker Corning Incorporated shall receive a cool $200 million from Apple’s new $1 billion fund aimed at creating advanced manufacturing jobs in the United States.

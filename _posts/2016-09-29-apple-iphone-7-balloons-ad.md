@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple airs new 'Balloons' ad highlighting iPhone 7 and expressive messaging
+title: Apple airs new Balloons ad highlighting iPhone 7 and expressive messaging
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/Apple-iPhone-7-ad-Balloons-image-003.jpg)
 * Apple’s much improved Messages app in iOS 10 is more expressive than ever, especially with nicely done animations that take over the entire screen.

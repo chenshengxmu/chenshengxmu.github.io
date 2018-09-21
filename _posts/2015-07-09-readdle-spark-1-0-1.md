@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Readdle's excellent Spark email client gains bulk actions, setting for remote images and more
+title: Readdles excellent Spark email client gains bulk actions, setting for remote images and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/05/Spark-by-Readdle-1.0-for-iOS-Quick-Replies-iPhone-screenshot-001.png)
 * Readdle’s Spark, my new favorite go-to mobile email client, received a big update in the App Store today. Although you couldn’t tell it from a minor version number change (1.0.1), the new version does make the app much better while fixing a plethora of user-reported issues.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Verizon's LTE in 500 markets, VoLTE due in 2014
+title: Verizons LTE in 500 markets, VoLTE due in 2014
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/Verizon-Wireless-store-interior-001.jpg)
 * Just as U.S. wireless carrier AT&T yesterday said it rolled out its Long-Term Evolution (LTE) radio technology to new markets while expanding coverage in several existing markets, rival Verizon Wireless Thursday said its LTE now blankets five hundred markets nationwide.

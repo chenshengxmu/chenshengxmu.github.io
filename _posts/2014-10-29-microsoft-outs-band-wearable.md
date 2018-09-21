@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft outs upcoming 'Band' wearable in new Health app
+title: Microsoft outs upcoming Band wearable in new Health app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/ms-band.jpeg)
 * Microsoft has outed its upcoming ‘Band’ wearable in what appears to be the premature release of multiple applications. This evening, ‘Microsoft Health’ landed in iPhone, Android and Windows stores, and a Microsoft Band Sync client popped up in the Mac App Store.

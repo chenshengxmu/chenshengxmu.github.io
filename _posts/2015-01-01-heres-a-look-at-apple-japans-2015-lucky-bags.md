@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's a look at Apple Japan's 2015 'Lucky Bags'
+title: Heres a look at Apple Japans 2015 Lucky Bags
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/213202.png)
 * Apple kicked off its 2015 annual “Lucky Bag” promotion in Japan on Thursday, giving customers big discounts on Apple products and accessories. A “Lucky Bag” is a Japanese New Year tradition, also known as a Fukubukuro, that offers a bag for a set price filled with unknown random items, sold for a discount.

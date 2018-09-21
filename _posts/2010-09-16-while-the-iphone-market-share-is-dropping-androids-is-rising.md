@@ -1,6 +1,6 @@
 ---
 layout: post
-title: While the iPhone Market Share is Dropping, Android's is Rising
+title: While the iPhone Market Share is Dropping, Androids is Rising
 ---
 * A new report by comScore shows that the iPhone is losing ground on Android in the US smartphone market. RIM (Blackberry) still has the most market shares, Apple comes at the second place and Android is 3rd.
 * Even though the rankings remain the same, RIM and Apple’s share of the market decreased to the advantage of Android, which increased by 5 points. While boring, these numbers are a sign of what’s to come…

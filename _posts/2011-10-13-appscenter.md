@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AppsCenter- Launch Apps Directly From iOS 5's Notification Center
+title: AppsCenter- Launch Apps Directly From iOS 5s Notification Center
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/AppsCenter-e1318528454350.png)
 * It’s been a little over 24 hours since iOS 5 was released, and already, the jailbreak devs are putting in work. Case in point: AppsCenter, from jailbreak developer, Filippo Bigarella.

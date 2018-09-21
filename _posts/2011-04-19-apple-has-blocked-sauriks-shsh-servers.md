@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple has Blocked Saurik's SHSH Servers [Updated]
+title: Apple has Blocked Sauriks SHSH Servers [Updated]
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/blocked-shsh-tweet.png)
 * We’ve all been watching as the fight between Apple and jailbreakers heats up. What started as a cat and mouse game has become more of a battle. Apple has certainly become more aggressive in the fight during the last few months.

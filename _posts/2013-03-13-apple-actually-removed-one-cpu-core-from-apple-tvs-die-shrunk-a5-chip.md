@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple actually removed one CPU core from Apple TV's die-shrunk A5 chip
+title: Apple actually removed one CPU core from Apple TVs die-shrunk A5 chip
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/Apple-TV-A5-chip-old-and-new-Chipworks-002.jpg)
 * Silicon analysts over at Chipworks were able to conclude yesterday that the smaller A5 package, which was recently discovered inside a retooled Apple TV, is still being fabbed on Samsung’s 32-nanometer process rather than on TSMC’s 28-nanometer technology, as some watchers speculate. Compared to its 2012 counterpart, the new A5 with a 2013 die is noticeably smaller, prompting questions on how Apple has managed to achieve a smaller die without changing fabbing technology.

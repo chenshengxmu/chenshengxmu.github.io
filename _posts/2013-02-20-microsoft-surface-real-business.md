@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft CEO goes on defensive, says the Surface is 'a real business'
+title: Microsoft CEO goes on defensive, says the Surface is a real business
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/01/Microsofts-Steve-Ballmer-Calling-the-Shots.jpeg)
 * Microsoft CEO Steve Ballmer recently addressed the companies Surface and the tablet’s sales (or lack thereof).

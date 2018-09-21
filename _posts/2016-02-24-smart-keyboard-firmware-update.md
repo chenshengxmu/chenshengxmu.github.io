@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple releases first over-the-air firmware update for iPad Pro's Smart Keyboard
+title: Apple releases first over-the-air firmware update for iPad Pros Smart Keyboard
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/02/Smart-Keyboard-firmware-update-prompt-image-001.jpg)
 * Apple has issued its first firmware update for the iPad Pro’s $169 Smart Keyboard accessory. After attaching a Smart Keyboard to their iPad Pro, users will see an iOS prompt informing them of the availability of the new software. They can postpone updating the Smart Keyboard update or select to apply the new firmware immediately.

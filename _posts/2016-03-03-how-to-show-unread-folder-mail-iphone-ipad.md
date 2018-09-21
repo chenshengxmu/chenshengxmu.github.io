@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to triage your emails more easily by enabling 'Unread' folder in Mail for iOS
+title: How to triage your emails more easily by enabling Unread folder in Mail for iOS
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/iOS-9-Mail-app-icon-full-size.png)
 * Apple’s Mail app for the iPhone, iPod touch and iPad offers various customization options which permit you to adjust which messages you see first in the mailbox list. For instance, you can add important people to Mail’s VIP list so all their messages appear in the special VIP smart mailbox.

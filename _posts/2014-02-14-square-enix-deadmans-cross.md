@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Square Enix's card battle RPG 'Deadman's Cross' hits the App Store
+title: Square Enixs card battle RPG Deadmans Cross hits the App Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/deadmans-3.jpeg)
 * Square Enix, the studio behind the Final Fantasy franchise and several other hit games, has released a new title in the App Store this morning. It’s called ‘Deadman’s Cross,’ and it’s a zombie-themed card battle RPG for the iPhone and iPad.

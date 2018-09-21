@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gorgeous Rise Alarm Clock goes free as App Store's App of the Week
+title: Gorgeous Rise Alarm Clock goes free as App Stores App of the Week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/rise-2.png)
 * Folks unhappy with Apple’s stock alarm clock feature may want to check out the beautiful Rise Alarm Clock app by Kellen Styler. Not only is it one of the best-looking third-party alarm clock apps out there, but it’s also free for a limited time.

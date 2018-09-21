@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's what people are mainly using their smart speakers for
+title: Heres what people are mainly using their smart speakers for
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/05/Smart-speakers-use-cases-comScore-survey-Statista-chart-001.jpg)
 * Smart speakers such as Amazon’s Echo, Google’s Home (and, soon, Apple’s alleged standalone Siri device) allow users to get answers in the more comfortable settings of their homes.

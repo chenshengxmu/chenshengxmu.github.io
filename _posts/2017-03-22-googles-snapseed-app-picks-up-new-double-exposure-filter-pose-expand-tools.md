@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's Snapseed app picks up new Double Exposure filter + Pose & Expand tools
+title: Googles Snapseed app picks up new Double Exposure filter + Pose & Expand tools
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/05/Snapseed-2-for-iOS-app-icon-small.png)
 * Google just pushed a new version of Snapseed for iPhone and iPad to App Store. Snapseed version 2.17 includes a new Face Pose tool, the app’s second tool that focuses on working with portraits and selfies. There’s also a new Double Exposure filter for blending two photos using analog film techniques and digital image processing. You can grab the latest version of Snapseed for iPhone, iPad and iPod touch at no charge from App Store.

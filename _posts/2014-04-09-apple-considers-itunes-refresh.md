@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple said to be considering 'dramatic' overhaul of iTunes music store
+title: Apple said to be considering dramatic overhaul of iTunes music store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/iTunes-Radio-three-up-iPhone-5.jpg)
 * Apple is considering the most dramatic overhaul of its iTunes music store in more than a decade, according to a new report by Billboard. Citing sources familiar with the company’s deliberations, the outlet claims Apple is actively looking for ways to combat declining music downloads.

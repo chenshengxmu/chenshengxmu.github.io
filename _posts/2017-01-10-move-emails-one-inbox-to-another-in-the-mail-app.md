@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to move emails from one inbox to another in your Mac's Mail app
+title: How to move emails from one inbox to another in your Macs Mail app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/11/Mail-App-JPG-Icon.jpg)
 * The Mail app in macOS is a multi-email handler and supports a wide variety of email platforms. That said, it you wanted to move some of your emails from one of your email account inboxes to another, you could.

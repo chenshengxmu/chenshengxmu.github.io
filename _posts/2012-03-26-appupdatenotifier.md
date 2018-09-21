@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AppUpdateNotifier' keeps you informed about App Store updates
+title: AppUpdateNotifier keeps you informed about App Store updates
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/AppUpdateNotifier.jpeg)
 * First there was CydiaBulletin, and then there was the dead on arrival Aptdate. These jailbreak tweaks were conceptualized and/or created to provide notifications whenever an app or tweak had a pending updated waiting in Cydia.

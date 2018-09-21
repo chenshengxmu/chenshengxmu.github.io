@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FCC clears Amazon's iPad contender, Samsung launches Galaxy Note 10.1
+title: FCC clears Amazons iPad contender, Samsung launches Galaxy Note 10.1
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/Galaxy-Note-10.1-hand-pulling-stylus.jpg)
 * Google’s Nexus 7 tablet launch a month ago has literally obsoleted Amazon’s seven-inch Kindle Fire overnight. Three weeks ago, Reuters claimed Amazon was working on half a dozen new Android tablets, among them one with a larger display designed to take the iPad on the high-end.

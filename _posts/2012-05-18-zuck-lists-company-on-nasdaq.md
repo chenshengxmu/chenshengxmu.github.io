@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's Zuck's epic status update from this morning. Fancy topping it?
+title: Heres Zucks epic status update from this morning. Fancy topping it?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Status-update-Mark-Zuckerberg-lists-Facebook-on-Nasdaq.png)
 * This über-cool status update on Facebook will be tough to beat. The social networking behemoth co-founder and CEO posted this morning the following status update. It reads: “Mark Zuckerberg listed a company on NASDAQ”.

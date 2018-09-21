@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Telltale's The Walking Dead- Michonne hits the App Store
+title: Telltales The Walking Dead- Michonne hits the App Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/02/The-Walking-Dead-Michonne-teaser-001.jpg)
 * Telltale Games, a maker of episodic games, today launched The Walking Dead: Michonne on the App Store, Android, Mac and Windows PCs and the Xbox One, Xbox 360, PlayStation 4 and PlayStation 3 consoles. A new mini-series, The Walking Dead: Michonne is aimed at both fans who are already familiar with the iconic character Michonne and those who have no prior knowledge of Robert Kirkman’s comics, the TV show or Telltale’s titles for that matter.

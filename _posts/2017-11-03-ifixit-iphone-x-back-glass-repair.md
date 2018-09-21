@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Break the glass backing of your iPhone X and you'll be replacing the entire chassis
+title: Break the glass backing of your iPhone X and youll be replacing the entire chassis
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/iphone-X-rear-glass-shattered-003.jpeg)
 * What if you drop your brand spanking new iPhone X and its glass backing shatters to pieces?

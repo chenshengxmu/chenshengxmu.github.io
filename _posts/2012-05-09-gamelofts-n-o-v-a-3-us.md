@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gameloft's N.O.V.A 3 now available in the App Store
+title: Gamelofts N.O.V.A 3 now available in the App Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/nova3-ss.jpg)
 * Last week, we told you about Gameloft’s upcoming new first-person shooter, N.O.V.A 3. And with its stunning graphics and Halo-esque gameplay, the latest iteration of the popular sci-fi series looked pretty impressive.

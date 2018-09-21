@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's revamped “Switch to iPhone” webpage offers additional information to Android users
+title: Apples revamped “Switch to iPhone” webpage offers additional information to Android users
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/05/Apple-switch-to-iOS-web-screenshot-002.png)
 * Apple’s webpage dedicated to Android users who would switch to an iPhone has been refreshed with a modern web design and additional FAQ-style information on key iPhone features like speedy Apple-designed chips, Apple Pay, iMessage and more.

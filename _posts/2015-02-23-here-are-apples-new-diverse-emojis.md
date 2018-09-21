@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here are Apple's new diverse emojis
+title: Here are Apples new diverse emojis
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/apple-diverse-emoji.png)
 * Apple has included diverse emojis into OS X 10.10.3 beta 2 and iOS 8.3 beta 2 that were just seeded to developers on Monday.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LivePapers' adds animated wallpaper to jailbroken devices
+title: LivePapers adds animated wallpaper to jailbroken devices
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/LivePaper.jpg)
 * Looking to spice up your iPhone’s Home screen and Lock screen? If so, then look no further than LivePapers, a recently released jailbreak app available on Cydia’s BigBoss repo.

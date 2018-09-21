@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mozilla's mobile OS gains support from carriers, first phones in 2013
+title: Mozillas mobile OS gains support from carriers, first phones in 2013
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/Mozilla-Firefox-OS-phone-and-fox.jpg)
 * If Facebook building a phone was too much too handle, wait ’till you hear this. Mozilla, an open-source, non-profit organization behind the Firefox browser, announced this morning that its “Boot to Gecko” mobile initiative has gained support from several big telecoms, including Sprint, Deutsche Telekom, Smart, Telecom Italia and Telenor, to name a few. Mozilla also said that going forward, its mobile project is to be called Firefox OS. So, when are Firefox phones due and should Apple be worried?

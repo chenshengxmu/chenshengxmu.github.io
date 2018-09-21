@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 5s rules Google's 2013 phone searches
+title: iPhone 5s rules Googles 2013 phone searches
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/iOS-7-teaser-iPhone-5s-ad-009.jpg)
 * Google’s Zeitgeist has become something of an annual tradition as the Internet giant wraps up each year by giving us a glimpse into what the world’s been searching for using its search engine. Surprisingly (or not?), Apple’s iPhone 5s took the top three slots in global search trends (#5 in the U.S.), behind Nelson Mandela and Paul Walker.

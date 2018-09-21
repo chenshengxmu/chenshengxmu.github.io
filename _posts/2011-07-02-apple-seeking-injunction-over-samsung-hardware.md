@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Seeking Preliminary Injunction Over Samsung's Infuse 4G, Galaxy S 4G, Droid Charge & Galaxy Tab 10.1
+title: Apple Seeking Preliminary Injunction Over Samsungs Infuse 4G, Galaxy S 4G, Droid Charge & Galaxy Tab 10.1
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/samsung-vs-apple.png)
 * Apple is ramping up its spat with Samsung, according to reports, with the company seeking a preliminary injunction on four of Samsung’s top pieces of hardware. Three Android smartphones and one Android tablet are named by Apple as violating their patents, and the lawyers from Cupertino want all four devices yanked from store shelves.

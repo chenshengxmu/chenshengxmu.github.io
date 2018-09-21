@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple CFO- Google's $12.5 Billion Motorola Buyout is "A Lot of Money"
+title: Apple CFO- Googles $12.5 Billion Motorola Buyout is A Lot of Money
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/google-motorola-e1313642059629.jpeg)
 * The news that Google had picked up Motorola Mobility for a cool $12.5 billion is still reverberating around the tech world, with many wondering what this means for Android’s partner agreements with the likes of HTC and Samsung. The question on our mind: What does Apple think about all this?

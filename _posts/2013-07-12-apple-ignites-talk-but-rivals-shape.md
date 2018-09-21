@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is iPhone 5 'most hated' or have rivals hijacked Apple's message?
+title: Is iPhone 5 most hated or have rivals hijacked Apples message?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/apple-launch-conversation.png)
 * Judging from last week’s online chatter over whether people hate the iPhone 5 or love Samsung’s Galaxy S4, you’d have thought the tech press had returned to high school, where the halls are filled with BFFs and everyone dots their ‘i’ with hearts.

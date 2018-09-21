@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's tutorial video explains how to send and receive money with Apple Pay Cash
+title: Apples tutorial video explains how to send and receive money with Apple Pay Cash
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/iOS-11-Apple-Pay-Cash-Messages-app-image-002.jpg)
 * Apple on Tuesday published a new tutorial video via its official channel on YouTube.

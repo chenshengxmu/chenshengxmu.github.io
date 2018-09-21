@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Where Cards Fall from Alto's Adventure creators gets its first trailer
+title: Where Cards Fall from Altos Adventure creators gets its first trailer
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/08/Where-Cards-FAll-teaser-002.jpeg)
 * Back in March, we told you about a promising upcoming game, titled Where Cards Fall—a collaboration between Alto’s Adventure developer Snowman and LA-based studio The Game Band. Today, they shared with us their first-ever trailer for the game and it’s definitely worth a quick watch.

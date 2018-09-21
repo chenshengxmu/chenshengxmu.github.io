@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple granted a patent that'd allow advanced car control via your iPhone
+title: Apple granted a patent thatd allow advanced car control via your iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/Apple-patent-advanced-vehicle-control-drawing-001.png)
 * The United States Patent and Trademark Office (USPTO) on Tuesday granted Apple a patent that could be a perfect fit for Project Titan, its not-so-secretive electric car project.

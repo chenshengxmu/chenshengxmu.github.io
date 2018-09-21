@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Benchmark GPU performance of your iPhone, iPad and Mac with Geekbench's updated app
+title: Benchmark GPU performance of your iPhone, iPad and Mac with Geekbenchs updated app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/04/Geekbench-4.1-for-iOS-iPhone-screenshot-001.jpg)
 * Available on App Store free of charge, Primate Labs’ refreshed Geekbench app now lets you measure the performance of mobile GPUs in iPhone, iPad, iPod touch and Mac devices. Geekbench 4.1 brings a new Compute Benchmark to iOS and macOS. Written using Apple’s new graphics API, Metal, it measures the performance of the GPU at executing common compute tasks such as image processing and computational photography.

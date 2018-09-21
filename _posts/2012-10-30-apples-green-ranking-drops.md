@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's green ranking drops to 118 in US
+title: Apples green ranking drops to 118 in US
 ---
 * Despite recently obtaining a green apple logo, the iPhone maker’s ranking when it comes to green issues took a beating. The consumer tech giant ranks 118 among U.S. companies, a 68-point drop from a year ago. According to one report, Apple failing to answer a survey on greenhouse gas emissions from its American facilities via the Carbon Disclosure Project in both 2012 and 2011 was the chief reason for the poor showing…
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/greenpeace-120712.jpeg)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Health Records expands to nearly 80 medical providers
+title: Apples Health Records expands to nearly 80 medical providers
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/Apple-Health-Records-teaser-003.jpg)
 * Apple’s Health Records feature that debuted within iOS 11.3’s Health app now supports more than 75 different hospitals, clinics and medical providers in the United States.

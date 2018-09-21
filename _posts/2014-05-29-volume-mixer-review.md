@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Volume Mixer' brings granular control to iOS' audio categories
+title: Volume Mixer brings granular control to iOS audio categories
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/Volume-Mixer-Featured.png)
 * Volume Mixer is a jailbreak tweak that resides in Notification Center. It allows you to independently control the different audio categories in iOS at any time.

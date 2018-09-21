@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple on a hiring spree for Taiwan's upcoming R&D center
+title: Apple on a hiring spree for Taiwans upcoming R&D center
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/Apple-recruiter-video-African-American-woman-walks-holding-iPad.jpg)
 * Earlier in the month, VR-Zone learned Apple was looking to establish a research and development (R&D) center in Taiwan where talented engineers will be working on the next-generation of iPhone product development, reporting directly to Apple’s headquarters in California.

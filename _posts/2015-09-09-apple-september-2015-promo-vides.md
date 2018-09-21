@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Watch Apple's sleek promotional videos for everything it announced today
+title: Watch Apples sleek promotional videos for everything it announced today
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/Apple-September-2105-event-Tim-Cook-opening-001.jpg)
 * In addition to refreshing product webpages on its website with detailed information about the iPhone 6s and iPhone 6s Plus, the iPad Pro, the Apple Pencil, the new Apple TV and more, a batch of promotional clips providing an even closer look at the new products have surfaced on Apple’s YouTube channel.

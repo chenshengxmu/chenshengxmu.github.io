@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Proview says it's ready to negotiate with Apple over iPad trademark
+title: Proview says its ready to negotiate with Apple over iPad trademark
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/proview-plant.jpg)
 * After months of back and fourth between Apple and Proview, we’re about ready for this silly dispute to come to an end. The monitor-maker is currently blocking iPad sales in a number of south China cities over ‘trademark infringement.’

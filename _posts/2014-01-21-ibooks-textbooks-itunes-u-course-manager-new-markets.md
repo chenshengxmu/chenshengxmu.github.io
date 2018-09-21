@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's iBooks Textbooks and iTunes U Course Manager expand to new markets
+title: Apples iBooks Textbooks and iTunes U Course Manager expand to new markets
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/iTunes-U-1.4-for-iOS-iPhone-screenshot-003.jpeg)
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/iTunes-U-1.4-for-iOS-iPhone-screenshot-001.jpeg)

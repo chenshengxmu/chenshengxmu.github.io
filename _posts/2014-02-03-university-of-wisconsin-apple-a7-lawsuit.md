@@ -1,6 +1,6 @@
 ---
 layout: post
-title: University of Wisconsin takes Apple to court over A7's performance-enhancing tricks
+title: University of Wisconsin takes Apple to court over A7s performance-enhancing tricks
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/iPad-Air-promo-A7-closeup-001.jpg)
 * The University of Wisconsin via its patent-licensing arm, the Wisconsin Alumni Research Foundation, has filed a lawsuit against Apple alleging the company’s in-house designed A7 chip infringes the foundation’s patent designed to improve “the efficiency and performance of contemporary computer processors” by introducing a new process for allowing quicker execution of processor instructions.

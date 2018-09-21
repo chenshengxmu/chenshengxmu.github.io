@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Canada's largest sport retailer is now selling Apple Watch
+title: Canadas largest sport retailer is now selling Apple Watch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/Apple-Watch-Sport-Check-Canada-web-screenshot-001.jpg)
 * In what may be the first sport chain retailer to sell Apple Watch, Canada’s Sport Check stores are now selling Apple Watch. Sport Check files as the country’s largest sport retailer.

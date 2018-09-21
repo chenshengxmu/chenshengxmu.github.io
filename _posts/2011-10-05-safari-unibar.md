@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Safari UniBar- Add Google Chrome's OmniBar to Mobile Safari
+title: Safari UniBar- Add Google Chromes OmniBar to Mobile Safari
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/Safari-UniBar.png)
 * Anyone who knows me knows that I’m a staunch Google Chrome advocate for basically two reasons: a) It’s incredibly easy it is to restore all of your bookmarks, history, and extensions. And b). The OmniBar.

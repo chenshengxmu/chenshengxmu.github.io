@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 7.1 expected to unlock 'iOS in the Car' feature
+title: iOS 7.1 expected to unlock iOS in the Car feature
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/ios-7-1-in-the-car.png)
 * One of the big iOS 7 features Apple showed off during its WWDC event in June was called iOS in the Car. The feature allows for deeper integration between iOS devices and vehicles, enabling users to view iOS apps on factory in-dash displays.

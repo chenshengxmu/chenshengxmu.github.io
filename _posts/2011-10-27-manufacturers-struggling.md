@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Manufacturers Struggle to Make the iPad 3's High Resolution Display
+title: Manufacturers Struggle to Make the iPad 3s High Resolution Display
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/ipad-retina-e1319687227605.jpg)
 * The iPad 2 was a fairly big upgrade from its predecessor. It’s twice as fast, includes a front and back camera, and is more portable than the original. For some reason, however, Apple neglected to change the tablet’s screen resolution. It stayed a dismal 1024 x 768.

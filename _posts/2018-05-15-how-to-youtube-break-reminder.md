@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to have YouTube nudge you when it's time to take a break from watching
+title: How to have YouTube nudge you when its time to take a break from watching
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/05/YouTube_for_iOS_take_break_alert_001.jpg)
 * YouTube’s app features custom reminders for when you’d like to take a break from watching.

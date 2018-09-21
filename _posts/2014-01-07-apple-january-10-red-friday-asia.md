@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple confirms January 10 'Red Friday' sales event in major Asian markets
+title: Apple confirms January 10 Red Friday sales event in major Asian markets
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/Apple-Red-Friday-2014-teaser-002.jpg)
 * Apple has announced that it will be holding a one-day special sales event in a number of key Asian markets this coming Friday, January 10.

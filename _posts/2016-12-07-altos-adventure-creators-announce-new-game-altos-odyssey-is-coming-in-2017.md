@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Alto's Adventure creators announce new game Alto’s Odyssey is coming in 2017
+title: Altos Adventure creators announce new game Alto’s Odyssey is coming in 2017
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/12/Altos-Odyssey-teaser-001.png)
 * Snowman, the brains behind the award-winning endless snowboard game titled Alto’s Adventure, today said that the time has come for something new in the form of Alto’s Odyssey, their brand new game scheduled for release some time in 2017 (we’re thinking early-2017).

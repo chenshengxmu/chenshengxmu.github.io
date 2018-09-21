@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple previews its first Kyoto store with multi-level atrium ahead of Saturday's grand opening
+title: Apple previews its first Kyoto store with multi-level atrium ahead of Saturdays grand opening
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/Apple-Kyoto-store-exterior-001.jpg)
 * Apple on Thursday took the press on a tour of its first-ever retail store in Kyoto, Japan. The brick-and-mortar retail store is located on the Shijō Dori street, which has been Kyoto’s main shopping corridor since the 1600s. Grand opening celebration will be held Saturday, August 25, at 10am local time, according to the store’s listing on Apple’s Retail webpage.

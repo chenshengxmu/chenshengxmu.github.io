@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Universal Pictures announces cast list for "Steve Jobs" biopic based on Walter Isaacson's biography
+title: Universal Pictures announces cast list for Steve Jobs biopic based on Walter Isaacsons biography
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/steve-jobs.png)
 * Universal Pictures has finally announced the set-in-stone cast for the upcoming Steve Jobs biopic, along with word the picture has begun shooting in San Francisco with Academy Award-winning director Danny Boyle directing. The film will simply be titled “Steve Jobs” and will be based on the biography by Walter Isaacson.

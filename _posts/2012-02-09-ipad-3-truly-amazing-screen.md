@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple employee says iPad 3 screen is "truly amazing"
+title: Apple employee says iPad 3 screen is truly amazing
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/ipad-display.jpg)
 * Earlier today we heard a report from AllThingsD claiming that Apple’s anticipated iPad 3 announcement is just a few weeks away. The site believes that we could see Apple unveil its next-generation tablet as early as the first week in March.

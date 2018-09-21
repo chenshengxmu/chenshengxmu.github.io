@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Beats Apple's Cloud Service to the Punch
+title: Google Beats Apples Cloud Service to the Punch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/05/musicbeta-e1305050005344.jpg)
 * Google just spent the last few hours unveiling new technology and services at their global developer conference, Google I/O. Perhaps the most interesting announcement was that their new cloud service, Music Beta, is ready to go.

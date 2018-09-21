@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “OK Hound, what's this song?”
+title: “OK Hound, whats this song?”
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/Soundhound-7.1-for-iOS-iPhone-screenshot-002.jpg)
 * SoundHound, a Santa Clara, California headquartered audio recognition and cognition company, today pushed an interesting update to its free and paid App Store apps, which now include a brand new, pretty powerful voice-activated music assistant feature.

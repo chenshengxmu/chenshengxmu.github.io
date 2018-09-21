@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jony Ive explains design ideas, says he'll stick around at Apple
+title: Jony Ive explains design ideas, says hell stick around at Apple
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/jony-ive.jpg)
 * Apple’s design head Jonathan Ive certainly has a busy schedule. In between enjoying healthy meals at Apple’s cafeteria, working out in a gym and conceiving that non-TV TV in his secret design bunker at 1 Infinite Loop, he found time to fly to Britain earlier this week to receive a knighthood in honor of his contributions to industrial design.

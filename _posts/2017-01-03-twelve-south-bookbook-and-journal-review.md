@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twelve South's BookBook and Journal leather wallet cases are both classy and unique
+title: Twelve Souths BookBook and Journal leather wallet cases are both classy and unique
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/01/Twelve-South-BookBook-and-Journal-Leather-Wallet-Case-for-iPhone-7-Plus.jpg)
 * Just a couple of weeks ago, Twelve South announced the launch of two new cases for Apple’s latest handsets, the iPhone 7 and 7 Plus. One is an updated model of the popular BookBook case, which Twelve South is well-known for, while the other is a completely new case known as the Journal.

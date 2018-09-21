@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The iPhone is now one-fourth of the world's smartphone market
+title: The iPhone is now one-fourth of the worlds smartphone market
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/idc-smartphone-shipments2012.png)
 * Lost in all of the talk of Apple’s declining profits was that the iPhone now accounts for a quarter of all smartphones shipped globally in 2012.

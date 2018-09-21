@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wait, TSMC to remain Apple's key supplier for upcoming A9 chip - not Samsung
+title: Wait, TSMC to remain Apples key supplier for upcoming A9 chip - not Samsung
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/TSMC-Taiwan-facility-001.jpg)
 * Taiwan Semiconductor Manufacturing Company (TSMC) will remain the major supplier for Apple’s upcoming 14-nanometre A9 processor, reports Taipei Times, contrary to previous reports. 

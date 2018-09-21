@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Skycore launches cross-carrier delivery of Apple's Passbook items by MMS
+title: Skycore launches cross-carrier delivery of Apples Passbook items by MMS
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/SkyCore-Passbook-MMS.png)
 * Apple’s Passbook reads data from .pkpass files, which can be attached to email messages and embedded on web sites. The system lets Safari and Mail clients running on Mac, iPhone, iPod and iPad devices to automatically import tickets, digital coupons and other items into the Passbook application and sync them across devices via iCloud. That’s all fine and dandy, but what if there was an easier way to share Passbook passes? Thanks to a company called Skycore, Passbook items can be now delivered to users via MMS…

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Looks like there'll be a way to disable iPhone 8's face detection & attention
+title: Looks like therell be a way to disable iPhone 8s face detection & attention
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/07/Iris-scanning-teaser-001.jpg)
 * iPhone 8’s 3D sensor is said to recognize faces in dark-lit environments and even from odd angles, such as when the phone is resting on a desk, as well as permit you to unlock the device by glancing over at it and silence notification sounds just by looking at the screen.

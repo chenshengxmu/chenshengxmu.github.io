@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video- Apple's Craig Federighi on the new MacBook Pro, Touch Bar and a touchscreen Mac
+title: Video- Apples Craig Federighi on the new MacBook Pro, Touch Bar and a touchscreen Mac
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/MacBook-Pro-Touch-Bar-007-1.jpg)
 * The MacBook Pro controversy isn’t dying down yet so Apple dispatched Craig Federighi, its Senior Vice President of Software Engineering, who discussed the new Pro and thinking behind the Touch Bar feature in a short video interview with CNET in which he also defends no-touchscreen Mac stance.

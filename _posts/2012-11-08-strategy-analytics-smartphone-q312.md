@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung's Galaxy S III was the world's best-selling smartphone in Q3
+title: Samsungs Galaxy S III was the worlds best-selling smartphone in Q3
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iPhone-4S-and-Galaxy-S-III-in-hand.jpg)
 * Following a massive retail and advertising push, Samsung’s flagship Galaxy S III handset overtook Apple’s iPhone 4S as the world’s best-selling smartphone in the third quarter of this year, according to a Strategy Analytics survey. The Samsung phone sold an estimated 1.8 million units more than the iPhone 4S. Samsung’s lead will be short-lived as Strategy Analytics estimates that the iPhone 5 will become the world’s #1 smartphone in Q4.

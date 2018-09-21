@@ -1,6 +1,6 @@
 ---
 layout: post
-title: App Store once displayed app download count, but Apple removed it at developers' request
+title: App Store once displayed app download count, but Apple removed it at developers request
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/App-Store-teaser.jpg)
 * Many people are oblivious to the fact that Apple’s App Store once used to actually display the download count for all apps and games. Unfortunately, this undeniably cool feature (at least as far as end-users are concerned) had to be removed because the developers objected.

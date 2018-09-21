@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video of Apple's iPad education event now available
+title: Video of Apples iPad education event now available
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/03/ipad-event.png)
 * Apple chose not to provide a live video stream of its iPad education event earlier today, but it has just uploaded a video of the proceeding for the folks who’d like to go back and watch it. The recording, which lasts just over an hour, is available on Apple’s website here.

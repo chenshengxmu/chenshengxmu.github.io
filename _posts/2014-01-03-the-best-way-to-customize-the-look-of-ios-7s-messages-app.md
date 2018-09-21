@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The best way to customize the look of iOS 7's Messages app
+title: The best way to customize the look of iOS 7s Messages app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/Message-Customiser-Bubbles.png)
 * Messages Customiser [sic] is a brand new jailbreak tweak that just hit Cydia’s ModMyi repo, and it’s one of the, if not the best way to customize the stock Message app’s look on iOS 7. The most remarkable thing about Messages Customiser, besides the fact that it work great, is that its developer has made it available free of charge.

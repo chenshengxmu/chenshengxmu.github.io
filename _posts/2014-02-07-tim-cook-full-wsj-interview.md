@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook on bigger iPhones, 'crappy' Android experience, not making junk and more
+title: Tim Cook on bigger iPhones, crappy Android experience, not making junk and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/Tim-Cook-holds-iPad-with-Katie-Cotton-Jacqui-Cheng.jpg)
 * Following notable excerpts from Daisuke Wakabayashi’s interview with Tim Cook in The Wall Street Journal, the financial newspaper has now posted the whole thing on its Digits blog.

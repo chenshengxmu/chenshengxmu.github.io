@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Roundup- what's on tap for WWDC 2012 tomorrow
+title: Roundup- whats on tap for WWDC 2012 tomorrow
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/ios_6_banner-5.jpg)
 * With iOS 6 being the main theme of tomorrow’s keynote, Apple’s chief executive Tim Cook, iOS boss Scott Forstall and marketing head honcho Phil Schiller (aka Mini-Me and Dr. No) will likely share stage time to announce the latest in Apple’s mobile operating system powering the iPhone, iPad and iPod touch. Feeling excited yet?

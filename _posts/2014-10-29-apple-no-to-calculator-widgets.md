@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple doesn't want calculator widgets on iOS 8
+title: Apple doesnt want calculator widgets on iOS 8
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/PCalc-3.3.2-for-iOS-iPhone-screenshot-001.jpeg)
 * Apple today asked PCalc developer to remove its Notification Center widget after it was previously approved in the App Store. The reason? Notification Center’s Today widgets are apparently prohibited from performing any calculations, according to the company’s email to developer James Thomson.

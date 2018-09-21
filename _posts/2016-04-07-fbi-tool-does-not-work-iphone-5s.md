@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FBI confirms a tool it bought to unlock terrorist's iPhone 5c does not work on iPhone 5s and newer
+title: FBI confirms a tool it bought to unlock terrorists iPhone 5c does not work on iPhone 5s and newer
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/02/apple_vs_fbi.jpg)
 * James Comey, Director of the Federal Bureau of iPhones—that is, Investigation—confirmed in an interview with CNN yesterday that a tool that the agency had purchased from a third-party to unlock San Bernardino shooter Syed Farook’s iPhone 5c cannot be used to bypass security protections on newer models, from the iPhone 5s onward.

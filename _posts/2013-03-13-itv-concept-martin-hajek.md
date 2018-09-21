@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's an iTV concept Jony Ive would approve of
+title: Heres an iTV concept Jony Ive would approve of
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/iTV-mockup-Martin-Hajek-002.jpg)
 * Resident Apple mockup artist Martin Hajek is on a roll lately. Just a day following his publication of the traditional iWatch concept which adorns the April 2013 cover of the MacUser magazine, he’s back at it with a new Apple television mockup that has Jony Ive written all over it. The beautiful renderings are based on the familiar iMac look and sport the sinister black design, with details reminiscent of the iPhone 5. Go past the fold for the full awesomeness…

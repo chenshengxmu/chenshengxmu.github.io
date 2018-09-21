@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's risk aversion and arrogance blamed for lack of large takeovers
+title: Apples risk aversion and arrogance blamed for lack of large takeovers
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/Apple-Stores-Istanbul-Turkey-image-001.jpg)
 * Apple’s boss Tim Cook said on a recent earnings call with investors and analysts that his company on average acquired between fifteen to twenty smaller companies per year for the last four years, noting that Apple looks for startups of all sizes. “There’s not a size that we wouldn’t do based on just the size of it, it’s more about the strategic value of it,” he said.

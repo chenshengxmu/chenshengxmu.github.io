@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Galaxy S8's assistant to be called Bixby, offer camera-based visual search & text recognition
+title: Galaxy S8s assistant to be called Bixby, offer camera-based visual search & text recognition
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/Samsung-Galaxy-S8-teaser-001.jpg)
 * Galaxy S8 is widely expected to include a new Siri-like personal assistant, called Bixby, which may let users search for objects identified in a photograph and recognize text on images. These features should be integrated directly into Samsung’s standard Camera app via a dedicated Bixby button, SamMobile learned Thursday.

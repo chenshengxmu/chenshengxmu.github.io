@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The best cases for Apple's new 10.5-inch iPad Pro
+title: The best cases for Apples new 10.5-inch iPad Pro
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/apple-pencil-pro-wwdc-ipad.jpg)
 * If you’re in the market for Apple’s 10.5-inch iPad Pro, you should know that any previous cases made for the 9.7-inch model will not fit the new tablet. It’s slightly wider than its predecessor (6.8″ vs 6.67″), significantly longer (9.8″ vs 9.45″), and it has a larger rear camera.

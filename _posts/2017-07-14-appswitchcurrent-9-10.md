@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This tweak opens your App Switcher to the app you're currently using
+title: This tweak opens your App Switcher to the app youre currently using
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/07/AppSwitchCurrent-Before-and-After.jpg)
 * The App Switcher in iOS automatically opens to the app you last used upon launch rather than the one you were using when you opened the interface, and love it or hate it, a new free jailbreak tweak called AppSwitchCurrent (9 % 10) by iOS developer DGh0st flips this concept around.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Standalone 'Showtime' streaming service debuts on Apple TV for $10.99 per month
+title: Standalone Showtime streaming service debuts on Apple TV for $10.99 per month
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/07/Showtime-Ray-Donovan-teaser.jpg)
 * After CBS announced a month ago that it would soon appease cord-cutters by rolling out a standalone video-streaming service over the Internet, Re/code revealed Tuesday that the network’s premium cable television service called Showtime is now available through the Apple TV, no cable subscription required.

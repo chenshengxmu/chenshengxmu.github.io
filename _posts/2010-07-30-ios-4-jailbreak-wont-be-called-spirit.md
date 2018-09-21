@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 4 Jailbreak Won't Be Called Spirit
+title: iOS 4 Jailbreak Wont Be Called Spirit
 ---
 * We’ve all been waiting for a while for the new jailbreak for iOS 4 and it sure seems we are on the right track. I know many of you are very anxious for the tool to be released but I’m not. I really want my jailbreak back too but I want it stable and bug free, which is why it hasn’t been released yet.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/06/pwn-Apple.jpg)

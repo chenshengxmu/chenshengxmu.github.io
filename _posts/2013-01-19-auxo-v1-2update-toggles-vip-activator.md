@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Auxo' update adds new toggles, VIP apps, and native Activator support
+title: Auxo update adds new toggles, VIP apps, and native Activator support
 ---
 * Ladies and gentlemen, boys and girls, the first major update to Auxo has just been finished, and it should be pushed out to Cydia tomorrow. The update brings a whole host of new features to the popular app switching tweak. Included are new toggles, the ability to hide toggles, VIP app designations, native Activator support, and more.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/Auxo-1.2-Activator.jpg)

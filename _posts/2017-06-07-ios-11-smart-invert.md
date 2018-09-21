@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 11's new Smart Invert feature is the closest thing to Dark Mode
+title: iOS 11s new Smart Invert feature is the closest thing to Dark Mode
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/iOS-11-Smart-Invert-teaser-001.jpg)
 * iOS 11 has not enabled a system-wide Dark Mode as some have hoped it would, but it makes up for it by bringing out a new accessibility feature for inverting colors of the iOS user interface without reversing the colors of your content, like images, media and more.

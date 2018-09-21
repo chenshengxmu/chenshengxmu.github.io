@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vimeo takes on Twitter's Vine, buys iOS animated GIF-making app Echograph
+title: Vimeo takes on Twitters Vine, buys iOS animated GIF-making app Echograph
 ---
 * Video sharing service Vimeo (which in March 2011 released an awesome, free universal iOS client) has snapped up Echograph, an animated GIF app for the iPhone and iPad by Clear-Media. Vimeo wrote in a media release that as part of the acquisition, the Echograph app, previously costing three bucks, is now a free download.
 * Echograph wants to be the Instagram of animated GIFs by providing easy to use tools to help make animated photography a reality. You can simply paint and touch up moving images as if they were stills and then use your creations in in Final Cut, Keynote, iBooks Author or the web, via HTML5…

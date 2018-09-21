@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Grovemade's walnut iPhone dock is built to last and looks stunning
+title: Grovemades walnut iPhone dock is built to last and looks stunning
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/08/Grovemade-Dock.png)
 * Docks are a great way to store your iPhone on your nightstand overnight or on your office desk while you work on your computer. There are a lot of options to choose from out there with varying degrees of quality, and Grovemade makes a product that you won’t be disappointed in.

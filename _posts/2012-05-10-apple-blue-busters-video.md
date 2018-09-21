@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Another anti-IBM footage unearthed, featuring Jobs cameo in 'Ghostbusters' spoof
+title: Another anti-IBM footage unearthed, featuring Jobs cameo in Ghostbusters spoof
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Apple-1984-sales-video-Blue-Busters-Steve-Jobs-cameo.jpg)
 * Remember Apple’s ‘1994’ corporate video with Jobs impersonating Franklin Delano Roosevelt we told you about last week? Apparently, not everyone liked it so here’s a different one from the depths of the web archives, also sporting brief Jobs cameo appearance.

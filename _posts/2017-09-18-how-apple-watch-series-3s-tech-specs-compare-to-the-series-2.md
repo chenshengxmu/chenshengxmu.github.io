@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Apple Watch Series 3's tech specs compare to Series 2
+title: How Apple Watch Series 3s tech specs compare to Series 2
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/apple-watch-series-3-lte-watch-app-copy.jpeg)
 * Apple unveiled its all-new Apple Watch Series 3 last week alongside the iPhone 8 and iPhone X, and while they were clear that it would become the flagship model of their popular smartwatch, they weren’t clear about how it stacks up to the current Apple Watch Series 2.

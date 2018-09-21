@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Analyst- iPad mini suppliers 'frustrated' by Apple's product requirements
+title: Analyst- iPad mini suppliers frustrated by Apples product requirements
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iPad-mini-mockup-TaoBao-001.jpg)
 * Get ready for delays when first purchasing Apple’s still-unannounced but highly-expected iPad mini. That’s the word from one Wall Street analyst who tells investors today that suppliers are frustrated by Apple’s specifications for the 7.85-inch tablet. The concerns will likely create “supply constraints” which blunt the device’s full potential with consumers.

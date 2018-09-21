@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 9.3.3 jailbreak teased, but don't expect anything
+title: iOS 9.3.3 jailbreak teased, but dont expect anything
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/iOS-9.3.3-jailbreak-teased.jpeg)
 * There is a jailbreak for iOS 9.3.3, but you shouldn’t hold your breath for it as you most likely won’t be able to enjoy it anytime soon, if ever. As he did in the past, Italian hacker Luca Todesco teased what appears to be an iPod touch running iOS 9.3.3. beta 1 with Cydia installed earlier today, and if the past is any indication of the future, nothing will materialize for jailbreak users like you and me.

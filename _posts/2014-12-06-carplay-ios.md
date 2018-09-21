@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CarPlay iOS' lets you experiment with CarPlay right on your iPhone
+title: CarPlay iOS lets you experiment with CarPlay right on your iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/IMG_0194.png)
 * Eager to see how the CarPlay interface looks on your iOS device? If so, you can use a new jailbreak tweak to preview the look of the CarPlay interface right on your iPhone or iPad.

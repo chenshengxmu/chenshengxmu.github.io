@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New in iOS 8.3- placing phone calls through speakerphone via 'Hey Siri' command
+title: New in iOS 8.3- placing phone calls through speakerphone via Hey Siri command
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/iOS-8.4-Hey-Siri-iPhone-call-on-speakerphone.png)
 * Users who upgrade their iPhone to iOS 8.3 when it’s released next month will be finally able to tell Siri to make a phone call through the device’s speakerphone when the ‘Hey Siri’ option is enabled, reports 9to5Mac.

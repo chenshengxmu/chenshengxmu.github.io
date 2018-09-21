@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple squares off with the government in 'bizzare' e-book lawsuit
+title: Apple squares off with the government in bizzare e-book lawsuit
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/courtroom-660x439.jpg)
 * As I reported earlier this morning, Apple today squared off with the United States Department of Justice (DoJ) in a Manhattan courtroom in a “bizzare” case (Tim Cook’s words, not mine) that some watchers say will set the rules for Internet commerce. Here’s what both sides emphasized in their opening statements, including an upcoming testimony by Apple’s Internet services lead Eddy Cue…

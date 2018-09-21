@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AppleCare reps given pre-release iTunes 11 builds ahead of today's release
+title: AppleCare reps given pre-release iTunes 11 builds ahead of todays release
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iTunes-11-three-up-MacBook-iPhone-iPad.jpg)
 * According to a new report, Apple Care representatives are installing pre-release builds of iTunes 11 as we speak, most likely part of an effort to give them a couple hour lead time ahead of the official worldwide release later today. As you know, the Wall Street Journal yesterday reported that iTunes 11, after being delayed for a month due to unspecified “engineering issues” requiring parts to be rebuilt, will be ready for public consumption on Thursday, November 29…

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Advanced iPad Pro and Apple Pencil support now available in Astropad's iPad app
+title: Advanced iPad Pro and Apple Pencil support now available in Astropads iPad app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/12/Astropad-Graphics-Tablet-iPad-Pro-teaser-002.jpg)
 * Astropad, an awesome app by former Apple engineers that basically turns the screen of your iOS device into a graphics tablet for the Mac, has received an important update this morning with expanded support for Apple’s new 12.9-inch iPad Pro and the Apple Pencil. Coupled with the iPad Pro and Apple Pencil, Astropad is now truly a Wacom Cintiq replacement that’s wireless.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft's cloud-based Office 365 hits Mac and Windows without iOS/Android support
+title: Microsofts cloud-based Office 365 hits Mac and Windows without iOS/Android support
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/Office-365-Home-Premium-One-office-five-devices.jpg)
 * Microsoft is at last getting into game, offering its well-known Office suite of products for consumers increasingly turning to the cloud. Office 365 Home Premium provides all the familiar Office applications – including Word, Excel and PowerPoint – along with online storage and a free hour of Skype each month. At $99 per year ($80 for students and educators) the cloud-based application suite will work on up to 5 Macs, PCs and Windows tablets. Five years after Google launched rival Google Docs (now Google Drive), Microsoft CEO Steve Ballmer proclaims Office 365 a key component in a “fundamental shift” for the company.

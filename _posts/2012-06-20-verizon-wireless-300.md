@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Verizon's LTE network now available in over 300 markets
+title: Verizons LTE network now available in over 300 markets
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/verizon-wireless.jpg)
 * One of the most common questions we get asked regarding the third-generation iPad is, “which carrier should I go with?” Here in the US, the tablet is available on both AT&T and Verizon networks.

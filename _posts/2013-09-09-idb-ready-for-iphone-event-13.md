@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iDB is ready for Apple's iPhone event tomorrow, are you?
+title: iDB is ready for Apples iPhone event tomorrow, are you?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/Apple-September-10-iPhone-keynote-Apple-Town-Hall-banners-001.jpg)
 * In case you haven’t picked up on it yet, tomorrow is a huge day for Apple. The company is expected to unveil not one, but two new smartphones: an iPhone 5S, which will replace the current flagship iPhone 5 handset, and an all-new low-cost ‘iPhone 5C‘ model.

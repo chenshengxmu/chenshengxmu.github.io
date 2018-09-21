@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bloomberg- Apple's design guru Jony Ive 'methodically reviewing' iOS 7 overhaul
+title: Bloomberg- Apples design guru Jony Ive methodically reviewing iOS 7 overhaul
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/Jonathan-Ive-headshot-and-title.jpg)
 * It’s been six months since Tim Cook reshuffled Apple’s leadership team, firing iOS architect Scott Forstall over his abrasive management style and unwillingness to collaborate with other members of the executive team, namely Apple’s industrial design guru, the 46-year-old Jonathan Ive.

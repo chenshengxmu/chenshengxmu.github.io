@@ -1,6 +1,6 @@
 ---
 layout: post
-title: watchOS 4 lets you replace Apple Watch's honeycomb app grid with scrollable list view
+title: watchOS 4 lets you replace Apple Watchs honeycomb app grid with scrollable list view
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/watchOS-4-Home-screen-list-view-Apple-Watch-teaser-001.jpg)
 * At the Worldwide Developers Conference earlier this week, Apple unveiled a fourth major iteration to the watchOS operating system powering Apple Watch. The software offers many improvements, like more intelligence and fitness features, as well as a bunch of smaller fixes.

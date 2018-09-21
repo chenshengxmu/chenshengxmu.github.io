@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Google Should be Nervous About Android's Future
+title: Why Google Should be Nervous About Androids Future
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/android.png)
 * Google’s Android operating system has certainly rocked the mobile industry over the last three years. With multiple manufacturers offering hundreds of feature-packed handsets around the world, the little green robot certainly has a lot going for it.

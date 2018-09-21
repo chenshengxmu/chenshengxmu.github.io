@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's App Store data shows iOS 7 adoption is now at 78%
+title: Apples App Store data shows iOS 7 adoption is now at 78%
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/iOS-7-teaser-iPhone-5s-ad-003.jpg)
 * Apple has updated its App Store support page for developers this week to reflect new data regarding iOS 7 adoption. According to the company’s usage data, the new operating system is running on 78% of iOS devices accessing the App Store.

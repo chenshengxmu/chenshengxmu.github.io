@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Angry Birds Star Wars updated with 'Escape From Hoth' levels
+title: Angry Birds Star Wars updated with Escape From Hoth levels
 ---
 * Rovio just updated Star Wars Angry Birds with a new content pack named Escape from Hoth. It brings with it twenty new levels as well as two bonus levels to find and unlock. Brand new piggies need stopping, including the mynock pigs in the belly of the asteroid. You’ll also be making a daring escape in an epic moving boss fight. This updated is free to anyone who purchased the game (99 cents for the iPhone/iPod touch, five bucks on iPads)…
 * Rovio’s pitch:

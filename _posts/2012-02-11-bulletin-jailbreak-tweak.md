@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Access iOS 5's Notification Center from your Lock Screen with Bulletin
+title: Access iOS 5s Notification Center from your Lock Screen with Bulletin
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/bulletin-lockscreen.jpg)
 * One of my favorite features about IntelliscreenX is the fact that you can access your notification center from your lock screen. I don’t use the popular tweak anymore, it was too much for me. And that’s really the only element I miss.

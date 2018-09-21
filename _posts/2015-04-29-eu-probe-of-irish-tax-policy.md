@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EU probe of Irish tax policy could have 'material' impact on Apple
+title: EU probe of Irish tax policy could have material impact on Apple
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/Apple-Store-Front-logo-San-Francisco.jpg)
 * The European Commission’s investigation into Ireland’s tax deals for multinational corporations could have a “material” impact on Apple, the company said in a 10Q filing to the S&E Commissions this week. If it’s determined that Dublin’s tax policies represented unfair state aid, the Cupertino firm could suffer significant losses.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Read an excerpt from Lisa Brennan-Job's upcoming memoir, 'Small Fry'
+title: Read an excerpt from Lisa Brennan-Jobs upcoming memoir, Small Fry
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/small-fry.jpg)
 * Lisa Brennan-Jobs’ upcoming memoir, “Small Fry,” is expected to look at the final days of her famous father’s life and what it was like to grow up around him. Excerpts from the book from Steve Jobs’ daughter, out Sept. 4, have now been published by Vanity Fair. 

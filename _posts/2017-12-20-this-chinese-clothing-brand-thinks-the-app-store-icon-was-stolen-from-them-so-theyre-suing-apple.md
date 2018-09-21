@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This Chinese clothing brand thinks the App Store icon was stolen from them, so they're suing Apple
+title: This Chinese clothing brand thinks the App Store icon was stolen from them, so theyre suing Apple
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/App-Store-vs-Kon-logo-comparison.jpg)
 * Apple has been hit with yet another lawsuit, this time from Chinese clothing company KON. They believe iOS 11’s new App Store icon looks a little too similar to their own brand logo.

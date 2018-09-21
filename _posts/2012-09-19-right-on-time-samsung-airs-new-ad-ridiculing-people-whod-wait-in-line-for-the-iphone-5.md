@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung airs Galaxy ad ridiculing folks who'd wait in line for the iPhone 5
+title: Samsung airs Galaxy ad ridiculing folks whod wait in line for the iPhone 5
 ---
 * http://www.youtube.com/watch?v=nf5-Prx19ZM
 * As expected – and right on time ahead of Friday’s iPhone 5 launch – Samsung has taken another cheap shot at Apple with a new television commercial. Like last year’s anti-Apple campaign, this one again pokes fun of people who would wait in the line for a new iPhone (even if the vast majority of readers in iDB’s non-scientific poll said they pre-ordered their device).

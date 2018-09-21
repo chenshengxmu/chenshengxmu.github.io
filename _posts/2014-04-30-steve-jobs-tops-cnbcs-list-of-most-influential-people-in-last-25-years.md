@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Steve Jobs tops CNBC's list of most influential people in last 25 years
+title: Steve Jobs tops CNBCs list of most influential people in last 25 years
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/jobs.jpg)
 * As part of its ongoing 25th anniversary celebration, CNBC put together a list of what it believes were the top 25 most influential people in the last 25 years. Dubbed ‘First 25: Rebels, Icons & Leaders, the list includes the likes of Jeff Bezos and Oprah Winfrey.

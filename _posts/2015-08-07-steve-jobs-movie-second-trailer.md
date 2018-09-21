@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A new 'Steve Jobs' trailer depicts meticulous product launch preparations and other tidbits
+title: A new Steve Jobs trailer depicts meticulous product launch preparations and other tidbits
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/08/Steve-Jobss-movie-scene-001.jpg)
 * Aaron Sorkin and Danny Boyle’s’s ‘Steve Jobs’ film is scheduled to hit movie theaters in the United States on October 9 so movie producers began airing a brand new TV trailer on television in an effort to drum up publicity for the forthcoming flick.

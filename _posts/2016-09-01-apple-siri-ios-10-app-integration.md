@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple shares examples of Siri's third-party app integration on iOS 10
+title: Apple shares examples of Siris third-party app integration on iOS 10
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/iOS-10-Siri-Cash-payment-teaser-001.jpg)
 * Following first hands-on demonstrations of Siri’s app integration that select developers gave to The Wall Street Journal’s Nathan Olivarez-Giles last week, Apple on Thursday published an article of its own to share more details regarding Siri integrations for payments, messaging apps and more.

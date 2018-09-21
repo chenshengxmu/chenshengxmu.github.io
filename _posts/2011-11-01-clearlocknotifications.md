@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Clean Up Your Lock Screen With 'ClearLockNotifications'
+title: How to Clean Up Your Lock Screen With ClearLockNotifications
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/ClearLockNotifications.png)
 * Similar in vein to the just discussed NCQuickDismiss — ClearLockNotifications makes it easy to clear out iOS 5 notifications that happen to pile up on your Lock screen.

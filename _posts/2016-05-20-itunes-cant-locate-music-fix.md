@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What to do when iTunes can't locate your music files
+title: What to do when iTunes cant locate your music files
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/Screen-Shot-2016-05-09-at-1.24.08-AM.png)
 * Have you ever had the problem where an exclamation point appears next to a song in iTunes when you try and play it? This is the last thing you want to deal with when you’re in the mood to listen to your jam, but fortunately, it’s usually a pretty easy thing to fix. In this tutorial, we’ll show you how to get around this problem and get iTunes to play your music once again.

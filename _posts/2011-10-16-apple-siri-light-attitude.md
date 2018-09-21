@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Wanted Siri to Have a "Light Attitude"
+title: Apple Wanted Siri to Have a Light Attitude
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/Siri1.jpg)
 * A recent report by the Wall Street Journal focuses on Norman Winarsky, one of the co-founders of Siri. According to Winarsky, Siri came from an artificial intelligence project at SRI, a R&D group.

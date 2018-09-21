@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung's troubles prove Apple knows exactly what it's doing with its iPhone business
+title: Samsungs troubles prove Apple knows exactly what its doing with its iPhone business
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/apple-samsung-california-copyright.si_.jpg)
 * Samsung’s co-CEO and mobile chief J.K. Shin is in the hot seat as the company posts its third straight quarter of operating-profit declines.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's spun Turi into its machine learning division
+title: Apples spun Turi into its machine learning division
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/08/turi.png)
 * After acquiring machine learning (ML) and artificial intelligence (AI) startup Turi for a reported $200 million, Apple is now ramping up hiring for its new machine learning division and has spun Turi into that unit, according to job posts first discovered by MacRumors. Apple’s new division should remain in Seattle, where Turi was originally based.

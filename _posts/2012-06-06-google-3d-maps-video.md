@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Check out Google's clip showing off gorgeous 3D cityscapes in Google Earth
+title: Check out Googles clip showing off gorgeous 3D cityscapes in Google Earth
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/Google-Earth-3D-imagery.jpg)
 * As we noted in our liveblog, today’s Google Maps presser has brought out the much-anticipated 3D imagery that we’re being told is coming to both Android and iOS platforms via the Google Earth mobile app.

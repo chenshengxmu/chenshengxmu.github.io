@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to control Apple TV from your iPhone's Lock screen with CiderTV widget
+title: How to control Apple TV from your iPhones Lock screen with CiderTV widget
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/CiderTV-Notification-Widget-teaser-001.png)
 * CiderTV, a software-based alternative for your Apple TV Remote, includes a built-in keyboard and has the ability to control linked Smart TV volume. As of recently, the app comes with a handy widget that makes it possible to control most of the functions of your Apple TV right from the Notification Center. It will save you a lot of time, here’s how to get started with CiderTV and set up the widget.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Verbs for iPhone - There's Finally An IM App That Apple Would Be Proud Of
+title: Verbs for iPhone - Theres Finally An IM App That Apple Would Be Proud Of
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/01/VerbsApp-Banner.png)
 * There’s a new iPhone IM client on the block. Verbs, by #include tech software, is a simple and beautiful IM app that looks like it was designed by Apple itself.

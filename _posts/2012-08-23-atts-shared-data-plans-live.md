@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T's new Mobile Share data plans now available
+title: AT&Ts new Mobile Share data plans now available
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/att-mobile-share-plans-e1345783775707.png)
 * AT&T made good on its promise today and rolled out its new Mobile Share data plans. The launch comes amidst swirling controversy regarding the plans, and the new FaceTime over Cellular feature in iOS 6.

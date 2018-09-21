@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This tweak withholds read receipts from your iMessage recipients until you're ready
+title: This tweak withholds read receipts from your iMessage recipients until youre ready
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/iOS-Messages-App-Icon.png)
 * Admittedly, I have a love/hate relationship with read receipts. I like getting them, and I don’t particularly mind sending them to people, but sometimes I want to read someone’s message in peace without notifying them until I’m ready to deal with the consequences.

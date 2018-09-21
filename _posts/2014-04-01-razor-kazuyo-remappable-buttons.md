@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Razer's Kazuyo iOS controller redesigned for slimness, has fully remappable buttons
+title: Razers Kazuyo iOS controller redesigned for slimness, has fully remappable buttons
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/Razer-Kazuyo-render.png)
 * I’m sorry if this thought sounds a little depressing, but there’s no two ways about the fact that the first batch of iOS controllers leaves a lot to be desired. The iPhone controllers from Logitech, Stratus Moga and others have all received poor reviews, with critics slamming their high price tag, less than stellar build quality and lacking features.

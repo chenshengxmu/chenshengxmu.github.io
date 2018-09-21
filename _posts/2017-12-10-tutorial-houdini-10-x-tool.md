@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A hands-on tutorial for Houdini, the iOS 10.x "semi-jailbreak" tweaking tool
+title: A hands-on tutorial for Houdini, the iOS 10.x semi-jailbreak tweaking tool
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/houdini-header.png)
 * If you’ve heard of the new tool Houdini but haven’t got around to trying it out yet, then let us show you how in this quick guide. If you haven’t heard of it, check out my post on the topic for a bit of background information.

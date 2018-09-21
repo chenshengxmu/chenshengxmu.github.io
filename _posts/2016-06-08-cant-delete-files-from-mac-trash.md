@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Got files that won't delete from your Mac's Trash? Here's why
+title: Got files that wont delete from your Macs Trash? Heres why
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/OS-X-Full-Trash-App-Icon.jpg)
 * Sometimes when emptying the Trash on your Mac, you may get error messages that tell you files you’re trying to delete are in use. When you’re looking to delete everything that’s in your Trash to free up some storage space, error messages are going to be the last thing you want to see.

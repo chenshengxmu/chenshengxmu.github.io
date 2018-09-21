@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UK's Everything Everywhere launches 4G LTE network
+title: UKs Everything Everywhere launches 4G LTE network
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/Cell-tower-Flickr-user-forklift.jpeg)
 * Everything Everywhere today launched its 4G LTE network in the United Kingdom, giving UK shoppers plenty of reasons to buy the new iPad mini, the iPhone 5 and the fourth-generation iPad this holiday season. All these devices feature improved cellular connectivity that supports a wider gamut of LTE frequency bands across the world’s carriers.

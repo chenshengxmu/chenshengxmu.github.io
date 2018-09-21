@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OWC's new Thunderbolt 3 Dock adds 13 additional ports to your MacBook Pro
+title: OWCs new Thunderbolt 3 Dock adds 13 additional ports to your MacBook Pro
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/11/OWC-Thunderbolt-3-Dock-teaser-001.jpeg)
 * Other World Computing (OWC), a U.S.-based company and online store for Mac upgrades and accessories located at MacSales.com, today announced the ultimate docking station for your brand spanking new MacBook Pro.

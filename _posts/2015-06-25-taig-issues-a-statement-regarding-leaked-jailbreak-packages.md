@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TaiG issues a statement regarding "leaked" jailbreak packages
+title: TaiG issues a statement regarding leaked jailbreak packages
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/TaiG.jpeg)
 * TaiG has commented on the “leaks” of its TaiG jailbreak tool and the untether debian package that has spread like wildfire on the Internet this evening. Earlier today, it was discovered by a reddit users that TaiG had uploaded new versions of its tool to the official TaiG server. In fact, the naming convention, which follows a naming standard, made it extremely easy to guess the exact location of the file.

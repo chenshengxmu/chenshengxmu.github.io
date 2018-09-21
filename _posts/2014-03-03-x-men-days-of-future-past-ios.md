@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Marvel announces 'Uncanny X-Men- Days of Future Past' coming to iOS in May
+title: Marvel announces Uncanny X-Men- Days of Future Past coming to iOS in May
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/uncanny-xmen.png)
 * X-Men fans will be happy to hear that Marvel has announced that a mobile tie-in game for its upcoming X-Men: Days of Future Past film is in the works. The publisher announced today that it has teamed up with studio Glitchsoft to create ‘Uncanny X-Men: Days of Future Past.’

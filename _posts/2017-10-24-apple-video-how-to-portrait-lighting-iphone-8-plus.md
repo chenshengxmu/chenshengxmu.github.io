@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Apple how-to videos walk you through iPhone 8 Plus's Portrait Lighting mode
+title: New Apple how-to videos walk you through iPhone 8 Pluss Portrait Lighting mode
 ---
 * Apple on Tuesday shared a pair of mini video tutorials on its official YouTube channel, covering an all-new Portrait Lighting shooting mode on iPhone 8 Plus.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/iPhone-8-Portrait-Lighting-web-screenshot-001-e1506116730918.jpg)

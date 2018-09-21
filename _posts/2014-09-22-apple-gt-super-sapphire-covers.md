@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple said to be working with GT Advanced on "super sapphire" screens
+title: Apple said to be working with GT Advanced on super sapphire screens
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/GT-Advanced-furnaces-Pocketnow-001.jpg)
 * Apple and GT are continuing their work to strengthen sapphire, according to a new report from Wall Street Forensics. The site says the pair are hoping to reduce the material’s “fundamental flaw of cracking,” as well as improve its reflective properties.

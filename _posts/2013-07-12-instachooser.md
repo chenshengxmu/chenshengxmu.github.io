@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'InstaChooser' lets you import videos into Instagram
+title: InstaChooser lets you import videos into Instagram
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/InstaChooser-Featured.jpg)
 * I think it’s safe to say that Instagram’s foray into video, as delayed as it may have been, has turned out to be a resounding success. Many of the folks I follow on Instagram have happily embraced the new video feature, and services like Vine have suffered as a result.

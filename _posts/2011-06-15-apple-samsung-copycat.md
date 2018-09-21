@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Files Response to Samsung's Request to See the Next iPhone
+title: Apple Files Response to Samsungs Request to See the Next iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/samsung-vs-apple.png)
 * Now that the Nokia and Apple dispute has been settled, the tech world can turn its attention back to the Samsung “copycat case.” Apple filed the lawsuit back in April of this year, claiming that Samsung copied several iDevice design elements in their products.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 11.2 makes it clearer how Control Center's Wi-Fi and Bluetooth toggles work
+title: iOS 11.2 makes it clearer how Control Centers Wi-Fi and Bluetooth toggles work
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/iOS-11.2-Wi-Fi-Bluetooth-popups-Control-Center-screenshot-001.jpg)
 * iOS 11 has changed how Wi-Fi and Bluetooth switches in Control Center work, but many users didn’t get the memo and were left dumbfounded realizing toggling these controls off doesn’t really shut down wireless radios.

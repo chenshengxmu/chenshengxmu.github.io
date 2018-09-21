@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google is quietly lending support to Samsung's legal team
+title: Google is quietly lending support to Samsungs legal team
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/samsung-logo-with-google.jpg)
 * Samsung’s legal team sure has its hands full right now. The Korean company’s attorneys are currently in a northern California court battling Apple’s patent infringement claims in a trial that could cost them billions of dollars.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You soon won't need a Google+ account to enjoy the best of Google
+title: You soon wont need a Google+ account to enjoy the best of Google
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/Google-Plus-4.8-for-iOS-iPhone-screenshnot-001.jpg)
 * You can kiss your little-used Google+ account goodbye once and for all as the Internet giant today confirmed the disentangling of its failed social network from YouTube, Gmail and other services.

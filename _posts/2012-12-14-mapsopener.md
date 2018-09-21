@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MapsOpener' makes Google Maps the default Maps app on iOS
+title: MapsOpener makes Google Maps the default Maps app on iOS
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/MapsOpener1.png)
 * Google Maps is back on iOS, but there’s just one problem — Apple’s stock maps app still remains default, so all of your maps links will open in Apple’s version instead of Google’s.

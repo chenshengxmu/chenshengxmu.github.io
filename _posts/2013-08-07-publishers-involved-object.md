@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Publishers file objection to DoJ's e-book settlement proposal on Apple's behalf
+title: Publishers file objection to DoJs e-book settlement proposal on Apples behalf
 ---
 ![img]()
 * The Wall Street Journal is reporting this evening that the five book publishers who settled with the US government in the e-book antitrust case have filed an objection with the court on Apple’s behalf.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 6 said to feature 'Ultra-Retina' display, 3 new sensors and more
+title: iPhone 6 said to feature Ultra-Retina display, 3 new sensors and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/iphone-6-proto-3.jpg)
 * A pair of reports surfaced this weekend, claiming to have knowledge of the features and specifications for Apple’s new iPhone. The first report calls for the smartphone to have a trio of new sensors, and the other says an ‘Ultra-Retina’ display is in the cards.

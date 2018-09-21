@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple buys pricey production equipment for iPhone 8's printed circuit board
+title: Apple buys pricey production equipment for iPhone 8s printed circuit board
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/07/iPhone-8-mockup-iDropNews-001.jpg)
 * Apple has puzzled industry watchers by investing tens of millions of dollars in production equipment for iPhone 8’s rigid flexible printed circuit board, which connects chips with parts such as the display, camera and so forth, ET News reported Friday.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's Apple's EarPods video
+title: Heres Apples EarPods video
 ---
 * http://www.youtube.com/watch?v=8Rme3uZ_abc
 * Apple yesterday introduced the new in-ear headphones called EarPods that ship with every iPod touch, iPod nano and iPhone 5 (also available as a standalone accessory). The promotional video was published on Apple’s web site, explaining how the company went about re-engineering its previous crappy in-ear headset and why it spent three years redesigning it.

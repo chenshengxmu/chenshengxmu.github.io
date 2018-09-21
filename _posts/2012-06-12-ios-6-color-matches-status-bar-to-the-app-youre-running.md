@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 6 color-matches status bar to the app you're running
+title: iOS 6 color-matches status bar to the app youre running
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/iOS-6-status-bar-color-matching-image-001.jpg)
 * Here’s another little tweak in Apple’s upcoming iOS 6 mobile operating system that didn’t got any mention at yesterday’s WWDC keynote. According to the agile Reddit community, the status bar in iOS 6 changes color to match the app you’re running.

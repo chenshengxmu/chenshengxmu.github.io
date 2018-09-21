@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile and MetroPCS to grab Sprint's prepaid market share
+title: T-Mobile and MetroPCS to grab Sprints prepaid market share
 ---
 * Sprint executives must be consuming antacids by the barrel about now. Not only is the carrier a mere footnote when U.S. wireless providers are mentioned, but today’s agreement between T-Mobile and MetroPCS could put on life-support Sprint Nextel’s only real market: inexpensive prepaid cell service.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/T-Mobile-MetroPCS-handshake.jpg)

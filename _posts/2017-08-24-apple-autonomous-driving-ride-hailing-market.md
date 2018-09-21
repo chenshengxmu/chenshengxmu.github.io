@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's autonomous driving technology focused on the ride hailing market
+title: Apples autonomous driving technology focused on the ride hailing market
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/07/CarPlay-iOS-11-Maps-lane-guidance-screenshot-002.jpg)
 * Apple’s Project Titan initiative has shifted from building its own automobile to designing autonomous driving software so the Cupertino giant, according to Business Insider this morning, now appears to be eyeing the ride-hailing and ride-sharing market.

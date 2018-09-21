@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Former Swift creator Chris Lattner joins Google's AI team
+title: Former Swift creator Chris Lattner joins Googles AI team
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/Swift-2-new-features.jpg)
 * Chris Lattner, a former star Apple engineer who built early versions of Apple’s Swift programming language in 2010 before a team was formed to further the project, has joined Google’s artificial intelligence (AI) team, according to his announcement on Twitter on Monday.

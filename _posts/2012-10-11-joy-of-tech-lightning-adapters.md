@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Joy of Tech on Apple's Lightning to 30-pin adapters
+title: Joy of Tech on Apples Lightning to 30-pin adapters
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/joyoftech-adapters-header.jpg)
 * Apple upset thousands of users last month when it introduced a new charging port for its mobile devices. It replaced the decade-old 30-pin dock connector with a new Lightning plug, rendering millions of cables and old accessories virtually useless.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Workflow app gains new Apple Music actions, brings back Chrome and Pocket integrations
+title: Apples Workflow app gains new Apple Music actions, brings back Chrome and Pocket integrations
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/11/Workflow-redesign-1.jpg)
 * Workflow, the powerful iOS automation app that Apple acquired in March, has brought back a few features that were originally removed from the software following the Apple deal while adding updated Apple Music actions.

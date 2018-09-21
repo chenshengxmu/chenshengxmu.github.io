@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Many Apple supply chain vendors won't set up shop in U.S. even if Foxconn does
+title: Many Apple supply chain vendors wont set up shop in U.S. even if Foxconn does
 ---
 * After the United States President-elect Donald Trump promised tax incentives to Apple to build “Made in USA” iPhones, Japanese outlet Nikkei reported that Tim Cook & Co. already asked back in June its contract manufacturers Foxconn and Pegatron to look into assembling iPhones domestically. Foxconn reportedly complied, but don’t expect other Chinese vendors in Apple’s vast supply chain to follow suit.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/11/iPhone-7-jet-black-manufacturing-image-006.jpg)

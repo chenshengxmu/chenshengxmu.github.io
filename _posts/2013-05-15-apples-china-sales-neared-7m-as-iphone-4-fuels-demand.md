@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's China sales neared 7M as iPhone 4 fuels demand
+title: Apples China sales neared 7M as iPhone 4 fuels demand
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/asian-apple-store-e1325693319353.jpg)
 * When seeking increased sales of mobile phones, observers need to look east. That’s the word from one large analyst firm, noting more than half of all mobile phones sold during the first quarter of 2013 were in the Asia/Pacific market. For Apple, its sales in mainland China alone neared seven million units during the period, largely credited to the lower-priced iPhone 4. Worldwide, the California-based smartphone maker saw its share of mobile phone sales rise…

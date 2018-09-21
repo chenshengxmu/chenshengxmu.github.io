@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's iSpaceship campus delayed until 2016
+title: Apples iSpaceship campus delayed until 2016
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/Apple-Campus-2-Rendering-002.jpg)
 * If you’re an Apple fan, or at least follow the company, you know that it doesn’t have a reputation for hitting deadlines. The iTunes Match launch was delayed, as is iTunes 11. And it doesn’t look like the new iMacs are going to make it on time.

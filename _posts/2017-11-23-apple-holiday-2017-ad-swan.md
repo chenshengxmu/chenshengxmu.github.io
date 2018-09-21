@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's whimsical holiday ad is all about AirPods, music & romance
+title: Apples whimsical holiday ad is all about AirPods, music & romance
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/Apple-2017-holiday-ad-AirPods-001.jpg)
 * Apple would like you to give the gift of music this holiday season so the company yesterday published its first holiday ad on YouTube, just in time for Thanksgiving.

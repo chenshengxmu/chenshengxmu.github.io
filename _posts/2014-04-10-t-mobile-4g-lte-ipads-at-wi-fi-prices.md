@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile's Operation Tablet Freedom- 4G LTE iPads at Wi-Fi prices, free data through 2014
+title: T-Mobiles Operation Tablet Freedom- 4G LTE iPads at Wi-Fi prices, free data through 2014
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/T-Mobile-Operation-Tablet-Freedom.png)
 * It is no secret that T-Mobile CEO John Legere is not one to mince words or back down from competition. Thus far, he’s delivered. The Deutsche Telekom-owned carrier, the fourth largest in the United States, has taken aim at rivals once again by unleashing the latest three-phase initiative that solves another customer pain point.

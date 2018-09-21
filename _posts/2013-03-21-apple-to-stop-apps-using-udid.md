@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple to stop approving apps that use UDIDs or don't support iPhone 5
+title: Apple to stop approving apps that use UDIDs or dont support iPhone 5
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/apple-developers.png)
 * After more than a year of warnings, it looks like Apple’s finally putting the kibosh on the use of Unique Device Identifiers. An announcement was posted to the iOS developer portal this afternoon that starting May 1, apps using UDIDs will not be approved.

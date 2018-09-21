@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twitter updates iPad app with new features, starts rolling out 'mute' function
+title: Twitter updates iPad app with new features, starts rolling out mute function
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/twitter_ios_mute.jpg)
 * Twitter today posted an update for its iOS app, bringing it to version 6.5. The update brings about a handful of improvements for the iPad client, including a new design, photo and video previews for timeline, and easier access to DMs.

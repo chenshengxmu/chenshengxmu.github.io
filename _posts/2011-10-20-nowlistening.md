@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Add Banner Notifications to iPod Music With 'NowListening'
+title: How to Add Banner Notifications to iPod Music With NowListening
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/NowListening.png)
 * NowListening is a jailbreak tweak for iOS 5 that makes it so you can receive banner notifications whenever your iPod app begins playing a new song.

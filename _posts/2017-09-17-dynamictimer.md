@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DynamicTimer automatically configures iOS timers to "Stop Playing" when music is playing
+title: DynamicTimer automatically configures iOS timers to Stop Playing when music is playing
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/DynamicTimer.jpg)
 * Anyone who uses the timer in iOS knows that it’s useful for one of two things: 1) to count down for something special, or 2) to make your music playback stop after a designated amount of time.

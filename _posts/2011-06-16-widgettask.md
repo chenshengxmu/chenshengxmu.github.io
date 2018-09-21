@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jailbreak Widget Brings iPhone's Multitasking Tray to iOS 5 Notification Center
+title: Jailbreak Widget Brings iPhones Multitasking Tray to iOS 5 Notification Center
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/WidgetTask-e1308153643230.png)
 * WidgetTask is a new jailbreak widget for the iOS 5 beta that adds a multitasking tray to Notification Center. This widget is from the same people behind UISettings – another third party widget that’s available for iOS 5 beta jailbreakers.

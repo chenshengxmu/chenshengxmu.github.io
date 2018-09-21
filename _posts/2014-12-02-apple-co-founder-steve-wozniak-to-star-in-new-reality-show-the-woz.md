@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple co-founder Steve Wozniak to star in new reality show 'The Woz'
+title: Apple co-founder Steve Wozniak to star in new reality show The Woz
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/p9xgs92ww31id7j8prj8.jpg)
 * Apple co-founder Steve Wozniak will star in an upcoming reality show called ‘The Woz’, where with former Mythbusters star Kari Byron he’ll show off the latest gadgets and future of technology. 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KitKat pokes fun of Apple's design prowess
+title: KitKat pokes fun of Apples design prowess
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/KitKat-Android-edition-004.jpg)
 * You’ve likely learned by now about this morning’s surprise Google announcement, clearly conceived as a novel way of busting up Apple’s news and diverting attention from the brightening of your day.

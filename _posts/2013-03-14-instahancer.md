@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Instahancer' brings a bunch of new options to Instagram
+title: Instahancer brings a bunch of new options to Instagram
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/Instahancer-01.jpg)
 * Instahancer is a new jailbreak tweak that enhances the usability of the iPhone’s Instagram app. It does so in a vein similar to another recently released jailbreak tweak called InstaSave, a tweak primarily focused on saving photos from the service.

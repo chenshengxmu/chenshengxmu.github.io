@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung uses Steve Jobs quote against Apple- 'no one is going to buy a big phone'
+title: Samsung uses Steve Jobs quote against Apple- no one is going to buy a big phone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/Samsung-Steve-Jobs-quote.png)
 * Always eager to respond to Apple’s latest moves swiftly and boldly, Samsung of South Korea took to Twitter following yesterday’s iPhone 6/Apple Watch/Apple Pay press conference to share an interesting banner which uses Steve Jobs’s own words as a weapon against Apple to dismiss its decision to make bigger iPhones as long overdue.

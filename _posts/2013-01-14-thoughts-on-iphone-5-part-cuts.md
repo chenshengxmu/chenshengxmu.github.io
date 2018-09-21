@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Do reports of iPhone 5 part order cuts mean Apple's in trouble?
+title: Do reports of iPhone 5 part order cuts mean Apples in trouble?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iphone_5_box_header.jpg)
 * The Wall Street Journal reported last night that Apple has been contacting suppliers to reduce iPhone 5 part orders due to ‘weaker-than-expected demand.’ The story has made some serious waves today, causing Apple’s stock price to drop (at the time of writing) 16 points.

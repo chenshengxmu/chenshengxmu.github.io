@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung's Galaxy Home speaker will compete against Apple's HomePod
+title: Samsungs Galaxy Home speaker will compete against Apples HomePod
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/samsung-galaxy-home-speaker.jpg)
 * There’s a new smart speaker set to arrive this year, and like the Apple HomePod, it’s going to be sold at the top end of the emerging smart home market. The Galaxy Home speaker is the first to include Samsung’s Bixby voice assistant; it was announced earlier today alongside the Note 9 smartphone and Galaxy Watch.

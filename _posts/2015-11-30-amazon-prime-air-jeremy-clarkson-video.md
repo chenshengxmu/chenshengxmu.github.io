@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ex Top Gear presenter shows off Amazon's drone delivery system
+title: Ex Top Gear presenter shows off Amazons drone delivery system
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/11/Amazon-Prime-Air-image-005.jpg)
 * Jeremy Clarkson, the former host and presenter of BBC’s Top Gear show, has been hired by Amazon to promote its products. In addition to a recent commercials aired in the United Kingdom which promotes Amazon’s Fire devices, Clarkson can be seen in the most recent Amazon video showing off the Prime Air, the online retail giant’s drone delivery system first announced back in December of 2013.

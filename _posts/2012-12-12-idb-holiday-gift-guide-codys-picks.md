@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iDB 2012 holiday gift guide- Cody's picks
+title: iDB 2012 holiday gift guide- Codys picks
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/Screen-Shot-2011-12-24-at-10.31.25-PM-e1324783928454.jpg)
 * Christmas is rapidly approaching, and a quick glance at the calendar tell us we only have about two weeks left to finish up our last-minute holiday shopping. Luckily, for those of you that are still having trouble deciding what to get that special someone, iDB is here to help. Over the past few days we’ve been bringing you our top picks for Christmas gifts as part of our first ever iDB holiday gift guide. And now that you know what Sebastien and Jim suggest, here are my personal recommendations…

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's iPad-killer launches next Wednesday?
+title: Googles iPad-killer launches next Wednesday?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/Google-Nexus-7-tablet-PhoneArena-image-001.jpg)
 * Piggy-backing on Google chairman Eric Schmidt’s last December revelation that his company was working on own tablet, an Asian trade publication claims an Asus-engineered device marketed under the Nexus moniker launches at the Google I/O developers conference, which runs from June 27 through 29 in San Francisco’s Moscone West.

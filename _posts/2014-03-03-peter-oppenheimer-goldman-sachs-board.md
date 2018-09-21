@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's CFO Peter Oppenheimer lands a seat on the Goldman Sachs board
+title: Apples CFO Peter Oppenheimer lands a seat on the Goldman Sachs board
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/oppenheimer.png)
 * Peter Oppenheimer, Apple’s Senior Vice President and Chief Financial Officer, has joined the Board of Directors of investment banking firm Goldman Sachs. The appointment brings the Goldman Sachs board to thirteen directors, ten of whom are independent.

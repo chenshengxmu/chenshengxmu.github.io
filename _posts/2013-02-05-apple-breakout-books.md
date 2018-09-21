@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Self-published works get a home on iBookstore 'Breakout Books'
+title: Self-published works get a home on iBookstore Breakout Books
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/iTunes-Breakout-Books.jpg)
 * Apple has launched a new U.S. iTunes Store section dedicated to highlighting exclusive, self-published works from emerging talents. Sometimes, one has to expose oneself to books that cannot be found on The New York Times bestseller list. This section is aimed at surfacing cherry-picked content you’d otherwise have a hard time discovering. The move mirrors Amazon’s self-published Kindle books and Apple says new titles will be added “as they begin taking off”…

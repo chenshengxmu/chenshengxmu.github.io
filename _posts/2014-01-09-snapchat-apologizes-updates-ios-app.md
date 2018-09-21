@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Snapchat is 'sorry' for data breach, strengthens mobile app security
+title: Snapchat is sorry for data breach, strengthens mobile app security
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/snapchat-2.png)
 * Snapchat has found itself in some pretty hot water after a group of anonymous hackers on New Year’s Eve breached its database and leaked 4.6 million usernames and phone numbers on the web. The controversy wasn’t necessarily about the security breach itself, but over Snapchat’s stubborn refusal to publicly acknowledge the situation, apologize for the inconvenience and update customers on steps taken, if any, to rectify the situation.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rumor- Microsoft's Apple TV-killer is called Xbox TV, coming in 2013
+title: Rumor- Microsofts Apple TV-killer is called Xbox TV, coming in 2013
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/Xbox-interface-001.jpg)
 * I see a pattern emerging here. Apple comes up with the iPad and Microsoft launches the Surface. Then, Apple makes the iPad mini while Microsoft is allegedly readying a gadget code-named Xbox Surface, basically a seven-inch Surface tablet focused on gaming. And now, word on the street is that Redmond is working on its own set-top box to take on the Apple TV and others in the living room space. Aptly named Xbox TV, it’s aimed at casual gamers and regular couch potatoes…

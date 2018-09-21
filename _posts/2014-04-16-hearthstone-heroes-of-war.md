@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hearthstone- Heroes of Warcraft' for iPad now available worldwide
+title: Hearthstone- Heroes of Warcraft for iPad now available worldwide
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/hearthstone.jpg)
 * Back in March, Blizzard launched its digital card trading game ‘Hearthstone: Heroes of Warcraft’ on the Mac, and as promised, it has brought the game to iOS. The title soft-launched for iPad earlier this month, and now it’s available in App Stores worldwide.

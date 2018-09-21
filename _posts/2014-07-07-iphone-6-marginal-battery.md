@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's obsession with iPhone 6 thinness could yield marginal battery improvements
+title: Apples obsession with iPhone 6 thinness could yield marginal battery improvements
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/Samsung-Galaxy-S5-ad-iPhone-battery-001.jpg)
 * As a rule of thumb: the bigger the phone, the stronger the battery. At least, this has been the case with the vast majority of jumbo-sized Android handsets.

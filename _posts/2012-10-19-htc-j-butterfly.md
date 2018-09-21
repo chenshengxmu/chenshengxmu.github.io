@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HTC has the world's first five-inch 1080p phone
+title: HTC has the worlds first five-inch 1080p phone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/HTC-J-Butterfly-The-Verge-001.jpg)
 * According to Apple, a display deserves the Retina moniker if its pixel density is so high that your eye is unable to discern the individual pixels. In the case of a smartphone, Retina means at least 300 pixels per inch. The Retina display on the iPhone 4/4S/5 has 326 pixels per inch.

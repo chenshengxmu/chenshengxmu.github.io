@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bono- Apple's Jony Ive is Obi-Wan of design
+title: Bono- Apples Jony Ive is Obi-Wan of design
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/Jony-Ive-Time-001.jpg)
 * Time Magazine’s list of the 100 most interesting people for 2013 is packed with profiles of technology leaders. Apple design guru Jony Ive is among those listed, described as a Star Wars’ Obi-Wan leading a team of Jedi employees.

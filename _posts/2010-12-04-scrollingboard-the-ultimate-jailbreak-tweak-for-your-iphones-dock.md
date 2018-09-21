@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ScrollingBoard, The Ultimate Jailbreak Tweak for Your iPhone's Dock
+title: ScrollingBoard, The Ultimate Jailbreak Tweak for Your iPhones Dock
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/12/ScrollingBoard-Settings-e1291490828244.png)
 * ScrollingBoard is a new Cydia tweak that let’s you have scrolling, unlimited icons in your dock and folders, and addons in your dock (like iPod controls). What makes ScrollingBoard so interesting is that not only does it bring a few new features to your jailbroken device, but it also replicates the functions of other popular jailbreak tweaks in the process.

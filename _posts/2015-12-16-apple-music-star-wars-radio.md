@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Music launches "Star Wars" radio station
+title: Apple Music launches Star Wars radio station
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/12/star-wars-e1450302748703.png)
 * Apple on Wednesday joined the chorus of other tech companies looking to capitalize on the popularity of the new Star Wars movie, by rolling out a dedicated radio station in Apple Music. You can find the new station in the ‘Radio’ section of the Music app on iOS, or in iTunes.

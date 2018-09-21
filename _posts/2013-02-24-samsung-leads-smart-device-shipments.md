@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IDC- 2012 a race between Samsung 'juggernaut' and 'resurgent' Apple
+title: IDC- 2012 a race between Samsung juggernaut and resurgent Apple
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/idc-2012-chart.png)
 * Reports quite rightly label 2012 ‘The Year of Samsung.’ The South Korean smartphone and tablet maker is described as a ‘juggernaut’ with triple-digit growth last year, making it the top producer of smart devices, according to a Friday report. But if you thought Apple was ready to retire, you’d be wrong – thanks largely to monster holiday sales and that dynamic duo: the iPhone 5 and iPad mini.

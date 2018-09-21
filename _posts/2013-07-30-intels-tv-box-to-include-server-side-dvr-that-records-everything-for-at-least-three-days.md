@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Intel's TV box to include server-side DVR that records everything for at least three days
+title: Intels TV box to include server-side DVR that records everything for at least three days
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/iTV-on-wall-mockup.jpeg)
 * We’ve been hearing for months how Intel’s been hard at work developing its own Apple TV contender, which sources claim includes a television service of sorts. Conceivably frustrated enough with “everyone doing a half-assed Google TVs,” the world’s top chip maker reportedly set on to engineer a set-top box itself “and do it right.”

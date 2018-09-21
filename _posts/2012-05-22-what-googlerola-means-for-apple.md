@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's what Google becoming a handset maker means for Apple
+title: Heres what Google becoming a handset maker means for Apple
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Android-robot-against-dark-blue-background.jpg)
 * Earlier today, Google CEO Larry Page took to company blog to break the big news: having obtained necessary approvals from watchdogs on both side of the Atlantic, the search giant has finally closed its $12.5 billion acquisition of the ailing handset maker Motorola Mobility in a move meant to “supercharge the Android ecosystem”.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MyGlass app for iOS is available again on App Store, texting isn't supported
+title: MyGlass app for iOS is available again on App Store, texting isnt supported
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/Google-Glass-iOS-teaser-001.jpg)
 * Google’s official Glass app for iOS, MyGlass, launched in the App Store on Tuesday only to be pulled a few hours later as it “spilled the beans” too soon. The search giant promised to bring back the app later this week and it’s now available for download.

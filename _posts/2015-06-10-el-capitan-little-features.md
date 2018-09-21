@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New El Capitan features Apple didn't talk about during WWDC 2015 keynote
+title: New El Capitan features Apple didnt talk about during WWDC 2015 keynote
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/WWDC-2015-keynote-slide-El-Capitan-little-features-002.jpg)
 * Monday’s WWDC 2015 keynote talk was a jam-packed day of announcements that included iOS 9, OS X El Capitan, watchOS 2, Apple Music, the News app and updates to Apple Pay, so much so that Tim Cook had to immediately cut to the chase and skip his opening round of business updates (“Everything is going fine”, he joked).

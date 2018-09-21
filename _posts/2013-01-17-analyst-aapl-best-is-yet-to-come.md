@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Analyst- remember Steve - Apple's best days lie ahead
+title: Analyst- remember Steve - Apples best days lie ahead
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/Steve-Jobs-mosaic-illustration-001-Charis-Tsevis.jpg)
 * A Wall Street analyst Wednesday gave investors a pep talk, invoking the words of the late Apple CEO Steve Jobs to point out the iPhone maker is hardly ready to head for the exit. Instead, Topeka Capital Market analyst Brian White issued a record target price for a stock battered by negative headlines.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The iPhone remains America's best-selling handset, but Apple must double down on prepaid
+title: The iPhone remains Americas best-selling handset, but Apple must double down on prepaid
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/NPD-smartphone-market-Q212-chart-001.jpg)
 * Though Android is peaking in the United States, globally Google’s platform is widening its lead over the iPhone and in the second quarter of this year accounted for an IDC-estimated two-thirds of all smartphones sold, mainly thanks to Samsung whose Android handsets represented 44 percent of all Android smartphone shipments.

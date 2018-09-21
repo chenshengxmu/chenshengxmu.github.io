@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New 'Sync Solver' app sends Fitbit data to Apple's Health app
+title: New Sync Solver app sends Fitbit data to Apples Health app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/iOS-8-Health-teaser-001.jpg)
 * In October, Fitbit announced that it had no plans of integrating its activity trackers or software with Apple’s Health app. This means that if you have a Fitbit Flex or other device, the data it gathers will not be shared with Health, crippling its attempt to be your fitness data dashboard.

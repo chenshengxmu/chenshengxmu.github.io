@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You'll soon be able to pay for lattes at Starbucks using Square
+title: Youll soon be able to pay for lattes at Starbucks using Square
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Square-iPhone-with-Amex-card.jpg)
 * Twitter and Square founder Jack Dorsey last evening announced an interesting partnership with Starbucks, an international coffeehouse chain, that will allow coffee lovers to pay for their lattes via Square’s iOS and Android app, as well as its merchant software and the iPhone credit card reader dongle.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple details Touch ID- no on-device fingerprints, 48-hour wipe, doesn't like moisture
+title: Apple details Touch ID- no on-device fingerprints, 48-hour wipe, doesnt like moisture
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/Touch-ID-hardware.png)
 * Apple left a few important questions unanswered regarding its all-new fingerprint sensor implemented on the iPhone 5s, called Touch ID. The useful feature stems from Apple’s 2012 purchase of Israeli-based biometric security experts AuthenTec. In a nutshell, Apple strives to easily and securely authenticate users into their device and approve purchases from the iTunes Store, App Store or iBookstore – simply by scanning their finger on the Home button.

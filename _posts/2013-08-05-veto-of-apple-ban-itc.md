@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ban veto- Obama's pro-Apple ruling cripples ITC as future patent weapon
+title: Ban veto- Obamas pro-Apple ruling cripples ITC as future patent weapon
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/iphone-4-samsung-galaxy.png)
 * What’s the likely impact of the weekend decision to veto a proposed ban on sales and imports of Apple’s older iPhones and iPads? Aside from the expected self-congratulations and condemnations, the action by the Obama administration puts in question the value of patents and the ability of rivals to knee-cap their competitors via ITC rulings.

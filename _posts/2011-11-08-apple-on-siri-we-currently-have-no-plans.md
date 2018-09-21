@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple on Siri- "We Currently Have No Plans to Support Older Devices"
+title: Apple on Siri- We Currently Have No Plans to Support Older Devices
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/siri_hero.jpg)
 * With rumors circulating that the flagship feature of the iPhone 4S, Siri, is being ported to older iDevices by jailbreak hackers, many are wondering if Apple will ever bring Siri to its other mobile devices.

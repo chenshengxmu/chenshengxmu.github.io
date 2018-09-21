@@ -1,6 +1,6 @@
 ---
 layout: post
-title: And So it Begins, Apple's Long-Awaited iPhone Event Has Started
+title: And So it Begins, Apples Long-Awaited iPhone Event Has Started
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/tim-cook-e1317749084458.jpg)
 * After several months of rumors and speculation, Apple’s long-awaited iPhone event has finally arrived. As expected, Tim Cook has taken the stage to kick off the highly anticipated keynote.

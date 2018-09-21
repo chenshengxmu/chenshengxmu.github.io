@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Try typing "let it snow" into the Apple Store app search bar for a holiday Easter egg
+title: Try typing let it snow into the Apple Store app search bar for a holiday Easter egg
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/Screen-Shot-2017-12-08-at-11.53.49-PM.png)
 * Apple is spreading some holiday cheer this year by including a mini Easter egg in their official Apple Store app. Simply head to the search page and type “let it snow” to see for yourself.

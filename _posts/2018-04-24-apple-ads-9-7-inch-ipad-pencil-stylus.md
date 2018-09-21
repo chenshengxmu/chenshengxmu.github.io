@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Watch latest ads promoting 9.7" iPad with Apple Pencil support
+title: Watch latest ads promoting 9.7 iPad with Apple Pencil support
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/03/ipad_9_7_inch_pencil_slider_32718.jpg)
 * Apple last month unveiled a sixth-generation 9.7-inch iPad with full support for the company’s Pencil stylus, and now they’ve created four nice ads promoting the refreshed tablet.

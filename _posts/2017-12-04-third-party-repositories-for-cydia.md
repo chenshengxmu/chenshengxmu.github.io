@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Looking for more Cydia repositories? We've got you covered
+title: Looking for more Cydia repositories? Weve got you covered
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/Jailbreak-Cydia-Tweak-Icon.jpg)
 * BigBoss became the last-standing default Cydia repository for jailbreak tweak developers and theme creators to submit packages to following the permanent archival of ModMyi and ZodTTD/MacCiti, but did you know there are several other Cydia repositories that you can download fun and exciting jailbreak add-ons from?

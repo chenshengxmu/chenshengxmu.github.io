@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Eric Schmidt- Google Glass isn't dead, being 'made ready for users'
+title: Eric Schmidt- Google Glass isnt dead, being made ready for users
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/Google-Glass-iOS-teaser-001.jpg)
 * Following the shut down of the Google Glass Explorer program and the reorganization of the Google Glass team, some theorized Google Glass may be dead. However Eric Schmidt, executive chairman of Google, says the Google Glass technology is too fundamental for Google to end the project. 

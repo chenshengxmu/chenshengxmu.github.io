@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's marketing chief says smart speakers should have built-in displays
+title: Apples marketing chief says smart speakers should have built-in displays
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/05/Apple-Siri-device-mockup-iFunnyVlogger.jpeg)
 * Phil Schiller, Apple’s Senior Vice President of Worldwide Marketing, recently sat down for a quick interview with Gadgets 360, discussing the possibility of App Store upgrade pricing, the future of Amazon Echo-like smart speakers, Apple’s new programming language Swift and more.

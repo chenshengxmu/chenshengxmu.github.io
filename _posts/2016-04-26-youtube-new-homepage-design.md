@@ -1,6 +1,6 @@
 ---
 layout: post
-title: YouTube's revamped Home feed is smart, too, thanks to Google's deep neural network algorithm
+title: YouTubes revamped Home feed is smart, too, thanks to Googles deep neural network algorithm
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/04/YouTube-for-iOS-Home-page-redesign-teaser-001.jpg)
 * Google just said that YouTube’s mobile apps for iOS and Android are gaining a revamped homepage design today. The newly redesigned Home feed within the mobile app has a clean look and a simple format “that invites you to discover and enjoy,” said Google.

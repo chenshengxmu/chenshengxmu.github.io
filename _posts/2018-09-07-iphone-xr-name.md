@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's 6.1-inch LCD iPhone may be called “iPhone Xr,” not “iPhone 9” as some presumed
+title: Apples 6.1-inch LCD iPhone may be called “iPhone Xr,” not “iPhone 9” as some presumed
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/09/iPhone-9-concept-001-by-Jonas-Dahnert.jpg)
 * We know that Apple’s OLED smartphones to be released this year will be most likely named “iPhone Xs” and “iPhone Xs Max.” As for Apple’s third new phone this year, the 6.1-inch budget device, the name “iPhone Xr” has reportedly been circulating as its supposed title.

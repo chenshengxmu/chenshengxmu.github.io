@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Board mods Tim Cook's pay package to be more performance-based
+title: Apple Board mods Tim Cooks pay package to be more performance-based
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/tim-cook-d11-2.png)
 * According to a new filing with the SEC this afternoon, Apple’s Board of Directors has elected to modify Tim Cook’s payment package he was awarded in 2011 after being promoted to CEO. The change, which apparently came at Cook’s request, takes the one million restricted stock units he was set to receive over the next 10 years and makes the compensation more performance-based…

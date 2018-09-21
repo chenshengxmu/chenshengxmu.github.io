@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't expect to see a new Apple TV or iWatch at WWDC
+title: Dont expect to see a new Apple TV or iWatch at WWDC
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/Apple-TV-teaser-001.jpg)
 * I don’t think many folks were expecting Apple to unveil any exciting new hardware at WWDC this year. The company has rarely used the developer conference to unveil non-software related products, outside of maybe refreshed MacBooks and other Mac products.

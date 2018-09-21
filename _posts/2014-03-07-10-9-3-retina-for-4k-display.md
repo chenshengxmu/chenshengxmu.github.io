@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First OS X 10.9.3 beta includes new 'Retina' resolution option for 4K displays
+title: First OS X 10.9.3 beta includes new Retina resolution option for 4K displays
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/osx_1093_4k_support-800x493.jpg)
 * Late yesterday, Apple seeded the first beta of OS X 10.9.3 to Mac developers. The beta seemed insignificant, with no mention of any changes or new features; just a brief request that devs focus their testing on audio and graphics.

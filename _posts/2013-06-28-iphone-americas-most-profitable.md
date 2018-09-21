@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The iPhone, America's most profitable product
+title: The iPhone, Americas most profitable product
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/iPhone-and-American-flag.jpeg)
 * Apple’s iPhone isn’t just the nation’s top smartphone brand, it’s also the most profitable product in America, according to a Friday report. Despite having around just one-fifth of the overall smartphone market globally, or nearly 40 percent in the U.S. alone, the handset enjoys the industry-leading 40 percent operating margin, producing more than half of Apple’s $156.5 billion in 2012 sales. That profit margin is almost double that of the iPad, which grossed “only” $32.4 billion, according to MarketWatch…

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Expect "GarageBand for eBooks" From Apple's Event This Thursday
+title: Expect GarageBand for eBooks From Apples Event This Thursday
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/ipad-textbook.jpg)
 * Last week, Apple sent out invitations for a New York-based media event set to take place on January 19th. They read: “Join us for an education announcement in the Big Apple.” But what could Apple be announcing?

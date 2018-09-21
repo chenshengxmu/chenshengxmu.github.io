@@ -1,6 +1,6 @@
 ---
 layout: post
-title: If You Liked the Fake Apple Stores, You'll Love this Fake Steve Jobs Biography
+title: If You Liked the Fake Apple Stores, Youll Love this Fake Steve Jobs Biography
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/fake-jobs-biography.jpeg)
 * It appears fake Apple Stores aren’t the only aspects of the Cupertino outfit to fall foul to some dodgy dealings, with M.I.C. Gadget telling of an interesting new book being sold in Taiwan – a book that seems to be a fake Steve Jobs biography.

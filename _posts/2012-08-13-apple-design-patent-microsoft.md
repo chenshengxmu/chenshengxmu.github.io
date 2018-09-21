@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple licensed its prized design patents to Microsoft with an "anti-cloning" agreement
+title: Apple licensed its prized design patents to Microsoft with an anti-cloning agreement
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2009/12/apple-microsoft.jpeg)
 * A surprising revelation from the Apple v. Samsung litigation as Apple patent licensing director Boris Teksler took the stand today to testify before a San Jose court, revealing that Apple licensed its design patents to Microsoft, but with an “anti-cloning agreement” to prevent copying of the iPhone and iPad.

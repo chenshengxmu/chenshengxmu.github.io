@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple may have ordered 'very large volume' of chips from TSMC
+title: Apple may have ordered very large volume of chips from TSMC
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/iPad-mini-keynote-Phil-Schiller-A6x-slide-001.jpg)
 * Morris Chang, Chairman and CEO of the world’s largest semiconductor foundry, Taiwan Semiconductor Manufacturing Company (TSMC), said in a recent earnings call that his company’s 20 nanometer process technology will outsell the existing 28 nanometer tech in its first two years. “Enough discussions have taken place, with enough customers who have large requirements (on 20nm), to lead us to believe that the volume will be very large”, he said without specifically mentioning Apple.

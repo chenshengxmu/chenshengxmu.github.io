@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review- Satechi's new Clamp Hub Pro makes it easier to access iMac's ports
+title: Review- Satechis new Clamp Hub Pro makes it easier to access iMacs ports
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/Satechi-USB-C-Hub-iMac.jpg)
 * One of the most common issues with Apple’s all-in-one iMac and iMac Pro desktop machines is that all the ports you care about are along the back. It works aesthetically, but functionally it can be frustrating. Enter the new USB-C clamp hub from Satechi.

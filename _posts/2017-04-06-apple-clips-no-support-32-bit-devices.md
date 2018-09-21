@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Clips app does not work on 32-bit devices
+title: Apples Clips app does not work on 32-bit devices
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/03/Clips-for-iOS-iPad-screenshot-003.jpg)
 * Has Clips, Apple’s new video editing app, piqued your interest? If so, good luck downloading it on your iPhone 5/5c or iPad 4. That’s because the free of charge video creation app lacks support for 32-bit iOS devices despite requiring the recently-released iOS 10.3, which in itself runs on 32-bit iOS devices.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T CEO says carriers can't afford to continue offering major device subsidies
+title: AT&T CEO says carriers cant afford to continue offering major device subsidies
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/stephenson-att.jpg)
 * It would seem that T-Mobile was onto something when it announced that it was doing away with device subsidies earlier this year, because that appears to be where the whole industry is headed. Carriers simply can’t afford to continue heavily subsidizing phones and tablets.

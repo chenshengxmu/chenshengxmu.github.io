@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sleep Cycle silently nudges you via Apple Watch Taptic Engine when you're snoring
+title: Sleep Cycle silently nudges you via Apple Watch Taptic Engine when youre snoring
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/04/Sleep-Cycle-for-Apple-Watch-001.jpg)
 * Sleep Cycle is bringing snore prevention and haptic wake up features to your wrist.

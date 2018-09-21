@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HomePod's “FullRoom” stereo pairing is coming soon, followed by AirPlay 2 multi-room audio
+title: HomePods “FullRoom” stereo pairing is coming soon, followed by AirPlay 2 multi-room audio
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/02/HomePod-stereo-pairing-web-screnshot.png)
 * First HomePod reviews have now begun trickling in ahead of its scheduled arrival this Friday.

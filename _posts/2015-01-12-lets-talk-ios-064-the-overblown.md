@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's Talk iOS 064- The overblown
+title: Lets Talk iOS 064- The overblown
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/Lets-Talk-iOS-banner.png)
 * Episode 64: A discussion about Apple’s recent software missteps and how they could fix the situation. A talk about the rumored 12″ MacBook Air, and what it could mean for the software side of things.

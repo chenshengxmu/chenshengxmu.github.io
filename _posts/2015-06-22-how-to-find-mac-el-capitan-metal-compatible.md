@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is your Mac able to take advantage of OS X El Capitan's Metal?
+title: Is your Mac able to take advantage of OS X El Capitans Metal?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/Metal-OS-X.jpg)
 * When OS X 10.11 El Capitan launches this fall, it will feature Metal, a graphics framework Apple originally introduced for iPhones, iPads and iPods following the release of iOS 8 last fall. In addition to making El Capitan’s user interface and apps perform smoother than before, Metal for Mac is absolutely huge news for game developers and makers of graphics-intensive apps.

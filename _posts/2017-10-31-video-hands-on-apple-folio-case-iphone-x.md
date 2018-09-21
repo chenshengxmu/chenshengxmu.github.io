@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hands on with Apple's folio case for iPhone X—but is it worth $99?
+title: Hands on with Apples folio case for iPhone X—but is it worth $99?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/iPhone-X-Folio-Case.jpg)
 * When the latest iPhones were announced, Apple also released an assortment of cases. The one that has peaked most people’s interest, including my own, has been their luxurious leather folio case with premium fit and finish and some cool smarts.

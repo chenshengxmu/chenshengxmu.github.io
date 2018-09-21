@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Winter is coming- Telltale's Game of Thrones arrives in App Store
+title: Winter is coming- Telltales Game of Thrones arrives in App Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/Game-of-Thrones-1.0-for-iOS-iPhone-screenshot-005.jpeg)
 * Telltale Games last month posted a teaser trailer and a few scant details about an upcoming game based on HBO’s hugely popular, award-winning fantasy drama television series, itself adapted from of “A Song of Ice and Fire”, George R. R. Martin’s series of epic fantasy novels.

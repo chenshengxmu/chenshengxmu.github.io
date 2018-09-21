@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's what Super Mario Run would look like as a free-to-play game
+title: Heres what Super Mario Run would look like as a free-to-play game
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/12/Super-Mario-Run-free-to-play-mockup-001.jpg)
 * A recent Nintendo survey asked a subset of Super Mario Run players who linked the game with their My Nintendo account how much they’d be willing to pay for the full game.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple asks developers to update their pages for iOS 11's all-new App Store
+title: Apple asks developers to update their pages for iOS 11s all-new App Store
 ---
 * Apple on Tuesday invited its registered developers and members of the Apple Developer Program to update their product pages for iOS 11’s much redesigned App Store.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/app-store-redesign-on-iPhone-ios-11.jpg)

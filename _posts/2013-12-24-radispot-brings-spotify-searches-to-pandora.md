@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'RadiSpot' brings "Open in Spotify" support to Pandora
+title: RadiSpot brings Open in Spotify support to Pandora
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/RadiSpot-Teaser.jpg)
 * Pandora is great, but there are times when you don’t feel like being told what to listen to, and you know exactly what you want to hear. For times like these, Spotify is best suited for your needs. The point is, both apps have strong points—Pandora is best for music discovery, while Spotify is best for playing exactly what you want to hear.

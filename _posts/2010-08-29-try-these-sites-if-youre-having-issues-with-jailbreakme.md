@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Try These Sites If You're Having Issues With JailbreakMe
+title: Try These Sites If Youre Having Issues With JailbreakMe
 ---
 * I usually leave it up to Sebastien to provide our loyal readers with the jailbreak information but I’ll take the reigns this time. PMP Today has posted a couple of alternative sites for those wishing to jailbreak their iPhone after individuals claimed they were having difficulties performing the hack with JailbreakMe.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/08/jailbreakme.jpg)

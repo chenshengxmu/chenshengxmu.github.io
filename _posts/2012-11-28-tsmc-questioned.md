@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's rumored chip switch understood to upset hotshots Nvidia and Qualcomm
+title: Apples rumored chip switch understood to upset hotshots Nvidia and Qualcomm
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/a6.jpg)
 * Apple’s been distancing itself from Samsung for quite some time, by purchasing components elsewhere. The company recently added new display and battery providers to its supply chain.

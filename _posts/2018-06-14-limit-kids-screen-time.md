@@ -1,12 +1,12 @@
 ---
 layout: post
-title: How to limit kids' screen time on iPhone and iPad with iOS 12
+title: How to limit kids screen time on iPhone and iPad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/06/limit-screen-time.jpg)
-* New tools from Apple make it easier to limit kids’ screen time on iPhone and iPad. Here’s a look at how you can limit screen time for your kids in iOS 12.
-* But first, watch Harris’s hands-on video walkthrough embedded below for a detailed overview of all the new Screen Time features on iOS 12.
+* Tools from Apple make it easier to limit kids’ screen time on iPhone and iPad. Here’s a look at how you can use these features for added peace of mind.
+* But first, watch Harris’s hands-on video walkthrough embedded below for a detailed overview of all the new Screen Time features.
 * Subscribe to iDownloadBlog on YouTube
-* The new Screen Time tool is a big part of iOS 12. The feature allows you to keep track of the amount of time you spend on your devices each day. Perhaps more importantly, you can also use the digital wellness tool to establish rules for your children to follow too.
+* The Screen Time tool allows you to keep track of the amount of time you spend on your devices each day. Perhaps more importantly, you can also use the digital wellness tool to establish rules for your children to follow too.
 * To use Screen Time to track and manage your kids’ device usage, you must add them to your iCloud Family Sharing account. Once you do, you’ll see their names listed at the bottom of the main Screen Time page under the Family Usage section. Screen Time is located on the main Settings app screen.
 * 1) To get started, select your child from the list.
 * 2) On the next screen, tap Turn on Screen Time. Once you do, you’ll see a message that says:
@@ -32,8 +32,6 @@ title: How to limit kids' screen time on iPhone and iPad with iOS 12
 * 4) Click on the + or – next to the app to add and remove, respectively.
 * In the above example, the apps 1Blocker and Activity were added to Allowed Apps while FaceTime was deleted.
 * With Screen Time, Apple promises to send you daily and weekly reports showing your kids’ status. These reports show the total time spend in individual apps, usage across categories of apps, how many notifications are received, and how often iPhone or iPad are picked up. Screen Time also gives you access to your child’s Activity Report from their iOS devices using Family Sharing in iCloud.
-* We’ll have a better idea what these reports look like in a future iOS 12 betas. For now, we’re left with this screenshot from Apple:
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/06/ios12_screen-time_06042018.jpg)
-* To limit screen time for your kids on iOS devices, Apple has put together some great tools. The new Screen Time feature in iOS 12 shows great promise, and we can’t wait to see how it develops over time.
-* As a reminder, iOS 12 remains in beta. As such, the steps explained here may change before iOS 12 is released to the public. As changes are made, we’ll be updating this document. Apple should release iOS 12, macOS Mojave, tvOS 12, and watchOS 5 later this year.
+* To limit screen time for your kids on iOS devices, Apple has put together some great tools. The Screen Time feature shows great promise, and we can’t wait to see how it develops over time.
 

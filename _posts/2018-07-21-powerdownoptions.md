@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PowerdownOptions lets you respring from iOS' power down menu
+title: PowerdownOptions lets you respring from iOS power down menu
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/PowerdownOptions.jpg)
 * Quick access to a respring shortcut is beneficial for most jailbreakers, and there are several jailbreak tweaks to be found in Cydia’s plethora of repositories that can provide you with this kind of functionality.

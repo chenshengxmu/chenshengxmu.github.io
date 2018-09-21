@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Graviboard' updated with iOS 5 support
+title: Graviboard updated with iOS 5 support
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/Graviboard-Screenshot.jpg)
 * Graviboard is one of the most famous jailbreak tweaks of all time, so I was shocked that we had never covered it on video before.

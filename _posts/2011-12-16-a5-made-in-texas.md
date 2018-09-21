@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's A5 Processors Now Being Made in Texas
+title: Apples A5 Processors Now Being Made in Texas
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/iPhone-4S-Specs-A5-Dual-Core-e1317752345411.jpg)
 * Some interesting news today if you like chips (and who doesn’t?), especially those that go into the beating hearts of our iPads and iPhones. Samsung’s Texan facility has historically been the source of NAND flash memory, but according to a new report by Reuters, it is also now responsible for the A5 chip used by Apple.

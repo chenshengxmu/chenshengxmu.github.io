@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Morgan Stanley- the iPhone 5S will have a 'killer feature'
+title: Morgan Stanley- the iPhone 5S will have a killer feature
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iPhone-5-promo-video-back-black-camera-closeup-001.jpg)
 * Morgan Stanley’s resident Apple expert Katy Huberty appeared on CNBC’s Fast Money Halftime Report this morning, in a rare TV interview, to field questions on her firm’s current positive buy ratings for both HP and Apple.

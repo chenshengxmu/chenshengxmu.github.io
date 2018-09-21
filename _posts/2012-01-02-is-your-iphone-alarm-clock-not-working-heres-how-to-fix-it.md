@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is Your iPhone Alarm Clock Not Working? Here's How to Fix it!
+title: Is Your iPhone Alarm Clock Not Working? Heres How to Fix it!
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/alarm-clock.jpeg)
 * Each new year brings with it new hope, new resolutions, and if you’re one of the many that rely on their iPhone for their alarm clock, then it usually also brings with it a late start.

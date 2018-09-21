@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple looking to launch subscription TV service by year's end
+title: Apple looking to launch subscription TV service by years end
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/apple-tv-shows.jpg)
 * The New York Post is reporting today that Apple is pushing ahead with plans to launch its own subscription TV service. The publication claims that Apple is looking to roll out the service by Christmas this year, despite serious push-back from major content providers.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gruber- "something big is going on with Apple TV in Cupertino"
+title: Gruber- something big is going on with Apple TV in Cupertino
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/apple-tv.jpg)
 * Apple’s $99 set-top box is of limited use unless you of course jailbreak it. This might change soon, at least to a certain extent, a well-informed pundit has suggested. Apple last refreshed the little hockey puck in March of this year, with new features such as full HD (1080p) video support, a revamped interface and a tweaked A5 chip with…

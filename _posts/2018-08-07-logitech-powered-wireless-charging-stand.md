@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Logitech's new wireless charger lets you unlock with Face ID while your iPhone X is charging
+title: Logitechs new wireless charger lets you unlock with Face ID while your iPhone X is charging
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/powered-for-iphone-5.jpg)
 * We still don’t know when Apple’s multi-device AirPower wireless charging mat is coming, but if you need a Qi charger for your iPhone, Logitech just unveiled a new wireless charger for iPhone X, iPhone 8 and iPhone 8 Plus that lets you use your phone while it’s being charged.

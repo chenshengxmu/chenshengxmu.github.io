@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1080p videos actually don't use that much storage on Apple TV
+title: 1080p videos actually dont use that much storage on Apple TV
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/Apple-TV-3-1080p.jpg)
 * Yesterday, Apple announced its updated third-generation Apple TV, at a media event in California. The highlighted feature of the new Apple TV, along with its updated UI, is the ability to play 1080p videos. Netflix announced hours later that it will support 1080p streaming to Apple’s new device.

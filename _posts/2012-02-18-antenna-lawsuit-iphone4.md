@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple settles 'Antennagate' lawsuit- free iPhone bumper or $15 for iPhone 4 owners
+title: Apple settles Antennagate lawsuit- free iPhone bumper or $15 for iPhone 4 owners
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/iPhone-4-bumpers-730x480.jpg)
 * After the iPhone 4 was first launched, many users began to notice 3G reception issues when placing their palm over the antenna part of their iPhone 4. The issue was quickly dubbed the “antennagate” by bloggers.

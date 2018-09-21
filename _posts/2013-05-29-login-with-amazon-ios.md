@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Login with Amazon' launches on iOS and Android
+title: Login with Amazon launches on iOS and Android
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/Login-with-Amazon-teaser.png)
 * The online retail giant Amazon today launched a new sign-in service and an accompanying software development kit (SDK) for both Android and iOS app developers. The feature allows programmers to write apps letting folks login to apps, games, and web sites using their Amazon.com credentials. The Amazon sign-in taps the over 200 million active accounts hosted by “one of the most reputable companies in the United States,” as the promo clip puts it…

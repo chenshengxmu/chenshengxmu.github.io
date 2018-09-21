@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amazon's Audible launches Channels, $4.95 per month podcast subscription
+title: Amazons Audible launches Channels, $4.95 per month podcast subscription
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/07/Audible-Channels-teaser-001.png)
 * Who wants to pay for podcasts? Thought so… Well, Amazon thinks people will have no issues whatsoever paying for short-form audio shows so it’s introducing a new Channels thing through its Audible service, which hosts the largest selection of digital audiobooks on the web.

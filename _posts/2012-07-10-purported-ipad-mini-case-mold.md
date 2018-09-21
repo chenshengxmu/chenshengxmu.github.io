@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'iPad Mini' case mold appears with smaller dock connector
+title: iPad Mini case mold appears with smaller dock connector
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/ipad-mini-bottom-1.jpeg)
 * Hot on the heels of the iPhone 5 engineering samples we saw earlier today, comes new photos showing what is claimed to be a case mold for Apple’s rumored iPad Mini.

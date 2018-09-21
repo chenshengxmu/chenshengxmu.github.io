@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Keep track of what you want to watch, listen, and read with 'Done Not Done'
+title: Keep track of what you want to watch, listen, and read with Done Not Done
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/done-not-done.jpg)
 * Ever make a mental note to watch a movie, listen to an album, or read a book, and realize months later that you forgot what you wanted to do in the first place? This happens to the best of us, but it doesn’t have to.

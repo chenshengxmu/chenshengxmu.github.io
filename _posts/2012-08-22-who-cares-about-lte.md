@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Study shows nearly 50% of US consumers don't care about LTE
+title: Study shows nearly 50% of US consumers dont care about LTE
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/iPhone-4S-Verizon-LTE.jpg)
 * Even though we haven’t seen much evidence, the tech world seems pretty convinced that the new iPhone will be LTE-capable. After all, Apple’s latest tablet supports the 4G tech. And Android devices have for years.

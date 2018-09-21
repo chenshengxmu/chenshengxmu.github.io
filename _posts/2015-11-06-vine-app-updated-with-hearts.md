@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vine app updated with hearts and new 'Similar Vines' feature
+title: Vine app updated with hearts and new Similar Vines feature
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/11/vine-up.png)
 * Twitter on Friday pushed out an update for its popular video-sharing Vine app, bringing the iPhone client to version 4.3. The update is a minor one, as the release notes only mention a few changes, but there are two new features worth mentioning.

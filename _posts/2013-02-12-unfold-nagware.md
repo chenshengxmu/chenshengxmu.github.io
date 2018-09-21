@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Unfold To Unlock' tweak tracks usage, asks for donations every 500 unlocks
+title: Unfold To Unlock tweak tracks usage, asks for donations every 500 unlocks
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/unfold.jpg)
 * We’re not against developers making money from their tweaks, or pursuing alternative routes of funding, but having a piece of nag-ware on your phone without any option to disable it is a major annoyance.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung said to develop Galaxy Band wearable device, headed by Apple's former Siri engineer
+title: Samsung said to develop Galaxy Band wearable device, headed by Apples former Siri engineer
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/samsung-galaxy-gear.jpg)
 * The Galaxy Gear smarwatch may have failed to meet Samsung leadership’s expectations in terms of sales, with the reported less than million units shipped (not sold), but that doesn’t mean the South Korean conglomerate is giving up on its new wearable brand. Quite the contrary, a report alleges Samsung would soon expand the family by unveiling a new wearable device, tentatively-named Galaxy Band.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Geohot Raps About Sony's Lawsuit
+title: Geohot Raps About Sonys Lawsuit
 ---
 * If you didn’t know yet that Geohot was into hip hop, this one might come as a surprise to you. After being sued by Sony for jailbreaking the PlayStation 3, Geohot decided to respond via a rap video.
 * This is actually not bad at all. If the wonder kid doesn’t make a career out of his hacking skills, I’m sure he’ll still be able to make a living off his rapping capacities…

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple and Google are no longer America's hottest brands
+title: Apple and Google are no longer Americas hottest brands
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/Apple-Store-Fifth-Avenue-exterior-001.jpg)
 * Quick, name the two hottest brands in the United States. If you picked Apple and Google you’d be wrong.

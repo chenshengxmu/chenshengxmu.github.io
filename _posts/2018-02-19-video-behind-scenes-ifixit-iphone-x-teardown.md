@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video- behind the scenes of iFixit's iPhone X teardown
+title: Video- behind the scenes of iFixits iPhone X teardown
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/02/iFixit-002.jpg)
 * When a new iPhone launches, iFixit goes to work performing its ritual teardown dance so all of us can marvel at Apple’s latest technology and peek at it from the inside.

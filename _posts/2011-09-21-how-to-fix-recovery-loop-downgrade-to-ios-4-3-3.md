@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Fix the iPhone's Dreaded Recovery Loop and Downgrade Back to iOS 4.3.3
+title: How to Fix the iPhones Dreaded Recovery Loop and Downgrade Back to iOS 4.3.3
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/iPhone-Recover-Loop-Downgrade-4.3.3-copy.png)
 * If you’re the type of person who likes to sell your current iPhone and use the funds to upgrade to the latest and greatest iPhone, then you’ve been there before. Restoring your iPhone to stock, and cleaning it up, is essential if you want to ensure you get top dollar for your device.

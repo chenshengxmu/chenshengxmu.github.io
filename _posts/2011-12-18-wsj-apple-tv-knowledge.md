@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Wall Street Journal Reveals Details on Apple's Upcoming TV Set
+title: The Wall Street Journal Reveals Details on Apples Upcoming TV Set
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/itv1.jpg)
 * Rumors of a secret Apple TV set project have been really heating up over the past few months. Word on the street has been that the iPhone-makers are looking to jump into the TV-making business, and the company’s first entry could revolutionize the industry.

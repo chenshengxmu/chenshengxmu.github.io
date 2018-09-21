@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Snapchat's latest update introduces data-saving Travel mode, emoji improvements and more
+title: Snapchats latest update introduces data-saving Travel mode, emoji improvements and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/Snapchat-iPhone-6.jpg)
 * If you’re a Snapchat fan and a frequent traveller who doesn’t use the service abroad due to exorbitant international data roaming charges (or are simply on a budget plan), Snapchat has some good news for you.

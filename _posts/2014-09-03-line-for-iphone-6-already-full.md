@@ -1,6 +1,6 @@
 ---
 layout: post
-title: People begin lining up for the iPhone 6 ahead of next week's announcement
+title: People begin lining up for the iPhone 6 ahead of next weeks announcement
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/iphone-6-line-cnbc.jpg)
 * The iPhone 6, or whatever Apple is going to call it, has yet to be announced, but there are already people lining up for the device. CNBC notes that at least 5 customers have already set up camp outside of Apple’s flagship 5th Avenue Apple Store in New York City.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pinterest app updated with new 'Place Pins' for planning trips
+title: Pinterest app updated with new Place Pins for planning trips
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/pinterest-maps.png)
 * Pinterest announced last night that it’s moving into new territory: travel. The popular photo-sharing service announced Place Pins, a new feature that will allow its users to share photos of the amazing places they’re visiting.

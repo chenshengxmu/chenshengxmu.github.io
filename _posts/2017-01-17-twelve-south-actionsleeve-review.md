@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twelve South's ActionSleeve puts Apple Watch in a better spot for some sporting activities
+title: Twelve Souths ActionSleeve puts Apple Watch in a better spot for some sporting activities
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/01/Twelve-South-ActionSleeve.png)
 * Twelve South recently released their new Apple Watch-oriented armband called the ActionSleeve, which relocates the Apple Watch to the upper arm for certain activities, such as rigorous sports, where the wrist isn’t the ideal place to have it.

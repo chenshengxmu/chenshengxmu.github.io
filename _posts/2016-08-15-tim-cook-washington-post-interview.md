@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook just admitted that Apple's doing “a lot of things” on augmented reality
+title: Tim Cook just admitted that Apples doing “a lot of things” on augmented reality
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/Tim-Cook-One-More-Thing-001.jpg)
 * “I think augmented reality is extremely interesting and sort of a core technology,” Tim Cook told The Washington Post in an interview published Sunday. “So, yes, it’s something we’re doing a lot of things on behind that curtain we talked about.”

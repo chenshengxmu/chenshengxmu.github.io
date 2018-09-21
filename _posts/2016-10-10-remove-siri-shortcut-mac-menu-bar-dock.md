@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to remove the Siri icon shortcut from your Mac's Menu Bar & Dock
+title: How to remove the Siri icon shortcut from your Macs Menu Bar & Dock
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/macOS-Sierra-Siri-icon-full-size.jpg)
 * Starting with macOS Sierra, you can now access the Siri voice assistant right from your desktop without having to use one of your mobile Apple devices. But of course, by default, Apple clutters up both your Menu Bar and Dock with shortcuts for Siri.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple ties Samsung for the world's top smartphone maker crown
+title: Apple ties Samsung for the worlds top smartphone maker crown
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/iPhone-6-display-color.jpg)
 * Driven by phenomenal iPhone sales during the holiday quarter, Apple has now tied Samsung for the title of the world’s top smartphone maker. According to latest numbers from research firm Strategy Analytics relayed by Bloomberg, both companies sold about 74.5 million smartphones during the fourth quarter of last year.

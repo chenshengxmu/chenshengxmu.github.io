@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook on rumored iPhone X supply shortages- “We'll see what happens”
+title: Tim Cook on rumored iPhone X supply shortages- “Well see what happens”
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/Tim-Cook-iPhone-.jpg)
 * Apple CEO Tim Cook sat down for an interview with BuzzFeed News to talk a range of topics, among them the rumored iPhone X production bottlenecks and availability.

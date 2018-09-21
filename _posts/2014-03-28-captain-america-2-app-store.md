@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gameloft's 'Captain America- The Winter Soldier' now available in the App Store
+title: Gamelofts Captain America- The Winter Soldier now available in the App Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/cpt-1.png)
 * As promised last month, Gameloft has released its highly anticipated title ‘Captain America: The Winter Soldier’ for iOS. The game is a tie-in to the upcoming Marvel movie of the same name, and is now available for download on your iPhone or iPad.

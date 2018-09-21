@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung copies Apple's Passbook
+title: Samsung copies Apples Passbook
 ---
 * Samsung on Wednesday unveiled its own mobile payment solution called Samsung Wallet that looks quite a lot like Apple’s Passbook app which is part of iOS 6. Just like Apple’s Passbook, Samsung’s Wallet too lets you manage your coupons, boarding passes, various tickets and loyalty cards all in a single app and redeem these at a point of sale by showing the digital barcode to a clerk.
 * Again, just like Passbook, Samsung’s solution supports real-time notifications when, for example, event details change or your flight gets rescheduled. Even the Samsung app’s icon resembles the look and feel of the Passbook icon…

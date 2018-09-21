@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple readying new 'Ultimate' iPad with Retina display
+title: Apple readying new Ultimate iPad with Retina display
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/ipadskus2.png)
 * 9to5Mac’s Mark Gurman has received word from sources, which indicate Apple’s eventual release of a brand new SKU in the full-sized iPad lineup. The report aligns well with the 128GB iOS device finding that we posted in the early hours this morning.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More Details From Today's Apple Event- Steve Jobs, iOS, and MobileMe
+title: More Details From Todays Apple Event- Steve Jobs, iOS, and MobileMe
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/03/front-of-iPad-2-event.jpeg)
 * It’s been a busy day for Apple. The iPad 2 has been announced, and Apple is set to take the tablet market by storm again.

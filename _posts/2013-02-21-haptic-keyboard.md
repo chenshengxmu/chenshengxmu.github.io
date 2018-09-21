@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Haptic Keyboard' tries to make your typing experience more engaging
+title: Haptic Keyboard tries to make your typing experience more engaging
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/Haptic-feedback.png)
 * Haptic Keyboard is a new jailbreak tweak that institutes haptic feedback with each press of a key on the iPhone’s keyboard. Similar tweaks have appeared on Cydia in the past, but their compatibility has been spotty with recent iOS updates.

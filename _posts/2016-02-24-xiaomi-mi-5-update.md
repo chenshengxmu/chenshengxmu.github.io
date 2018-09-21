@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Xiaomi's new phone has beastly specs for half the price of iPhone 6s or Galaxy S7
+title: Xiaomis new phone has beastly specs for half the price of iPhone 6s or Galaxy S7
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/02/Xiaomi-Mi-5-image-002.jpg)
 * Chinese handset maker Xiaomi at the Mobile World Congress in Barcelona, Spain, today announced its latest Mi 5 smartphone, billed as a super flagship device due to some beastly specs.

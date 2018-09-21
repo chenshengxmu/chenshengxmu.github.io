@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 13 may let iPad run several windows in one app like the Mac's Tabs Everywhere feature
+title: iOS 13 may let iPad run several windows in one app like the Macs Tabs Everywhere feature
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/iOS-11-iPad-App-Switcher.jpg)
 * iOS 11 brought major productivity-focused improvements to iPads, like the Dock, drag and drop, enhanced multitasking, the Files app, a redesigned app switcher and much more.

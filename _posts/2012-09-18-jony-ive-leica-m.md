@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Ive commissioned to design limited-edition Leica M camera?
+title: Apples Ive commissioned to design limited-edition Leica M camera?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/Leica-M-Apple-logo.jpg)
 * A new report asserts that Apple’s SVP of Industrial Design Jonathan Ive will help design a one-of-a-kind Leica M camera for charity. The new Leicas were announced at the Photokina event in Germany yesterday. the Leica M model features a 24-megapixel CMOS sensor, Live View and 1080p HD video recording, a Gorilla Glass three-inch LCD screen with 920K pixels and more.

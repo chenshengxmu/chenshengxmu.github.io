@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple to artists- iTunes 11 'is about to be released within the next days'
+title: Apple to artists- iTunes 11 is about to be released within the next days
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/iTunes-11-Albums.jpg)
 * Last we heard, Apple delayed iTunes 11 until end of November because the team needs more time “to get it right”. With nine days until the deadline, Apple has now emailed record labels and artists, asking them to upload pictures and galleries of their artists to iTunes for use in the new Music Store layout that will debut with iTunes 11. The company specifically warned content owners that iTunes 11 “is about to be released within the next days”, indicating it’s about to hit the deadline…

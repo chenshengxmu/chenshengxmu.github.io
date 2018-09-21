@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Add a splash of color to your Status Bar's battery indicator with ColorMyBattery
+title: Add a splash of color to your Status Bars battery indicator with ColorMyBattery
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/03/ColorMyBattery.jpg)
 * The battery indicator is perhaps one of the most mattering icons in the Status Bar, so why not give it a fun and quirky splash of color? A new free jailbreak tweak called ColorMyBattery by iOS developer Kiran Patil lets you do just that.

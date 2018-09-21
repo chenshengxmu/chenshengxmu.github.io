@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CoolStar's Electra iOS 11.0-11.1.2 jailbreak tool gets significant improvements in beta 9
+title: CoolStars Electra iOS 11.0-11.1.2 jailbreak tool gets significant improvements in beta 9
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/Electra-by-CoolStar-Jailbreak.jpg)
 * Not even 24 hours after the release of Electra beta 8-2, CoolStar pushed beta 9 of the iOS 11.0-11.1.2 jailbreak tool on Saturday with a slew of additional bug fixes and performance improvements.

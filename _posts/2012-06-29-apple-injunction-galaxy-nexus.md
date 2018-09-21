@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple granted preliminary U.S. injunction on Samsung's Galaxy Nexus
+title: Apple granted preliminary U.S. injunction on Samsungs Galaxy Nexus
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/samsunggalaxynexus-slide.jpg)
 * Apple has just been granted a preliminary injunction on the sales of Samsung’s popular Galaxy Nexus handset here in the U.S., based on possible patent infringement. The ruling comes just a week after the company won a similar injunction against Samsung’s Galaxy Tab tablet…

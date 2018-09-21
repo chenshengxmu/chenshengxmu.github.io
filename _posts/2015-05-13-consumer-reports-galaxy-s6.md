@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Consumer Reports won't recommend Samsung Galaxy S6, paints it inferior to last-gen Galaxy S5
+title: Consumer Reports wont recommend Samsung Galaxy S6, paints it inferior to last-gen Galaxy S5
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/samsung-galaxy-s6.jpg)
 * Consumer Reports, an influential U.S. magazine that publishes trusted and mostly unbiased reviews and comparisons of consumer products, has recommended Apple’s iPhone in the past, but now they wouldn’t recommend Samsung’s latest Galaxy S6 flagship smartphone, which released a month ago, over the last-generation Galaxy S5.

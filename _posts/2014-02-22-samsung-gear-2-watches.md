@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung introduces new Tizen-based 'Gear 2' smartwatches
+title: Samsung introduces new Tizen-based Gear 2 smartwatches
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/gear-2.jpg)
 * As rumors regarding Apple’s iWatch project continue to bounce about the web, Samsung introduced its second generation smartwatch tonight. The announcement came at Mobile World Congress, in Barcelona, and actually includes two separate products: the Gear 2 and the Gear 2 Neo.

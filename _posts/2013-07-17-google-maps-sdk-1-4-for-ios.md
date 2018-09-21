@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's new Maps SDK brings Street View and Indoor Maps to iOS apps
+title: Googles new Maps SDK brings Street View and Indoor Maps to iOS apps
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/Google-Maps-SDK-1.4-for-iOS-iPhone-screenshot-001.png)
 * Google yesterday pushed a major 2.0 update to its native Maps iOS app.

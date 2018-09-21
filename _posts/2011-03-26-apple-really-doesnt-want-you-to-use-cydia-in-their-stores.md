@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Really Doesn't Want You to Use Cydia in Their Stores
+title: Apple Really Doesnt Want You to Use Cydia in Their Stores
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/03/Cydia-Apple-Store.jpeg)
 * If you connect to an Apple Store wifi network and try to go to Cydia, you’ll get a nice little surprise. Instead of loading Cydia as it is supposed to do, you will be redirected to Apple’s own website.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video- here's Asus's Animoji clone in action
+title: Video- heres Asuss Animoji clone in action
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/03/Asus-ZeniMoji.jpg)
 * Asus yesterday at the Mobile World Congress trade show in Barcelona, Spain unveiled its latest ZenPhone 5 smartphone that proudly boasts a notch and… an Animoji clone, dubbed ZeniMoji.

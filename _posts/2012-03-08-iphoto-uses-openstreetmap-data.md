@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenStreetMap admits it's behind iPhoto for iOS mapping service
+title: OpenStreetMap admits its behind iPhoto for iOS mapping service
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/openstreetmaps.jpg)
 * Yesterday we reported that Apple’s new iPhoto app for iOS is using the company’s own internal mapping solution instead of Google’s. This was a big deal because Apple has used Google Maps in nearly everything for the last 5 years.

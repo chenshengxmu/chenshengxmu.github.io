@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rumor- part suppliers preparing to ramp up production for 'iPad Minis'
+title: Rumor- part suppliers preparing to ramp up production for iPad Minis
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/mini-ipad.jpg)
 * This 7-inch iPad seems to be becoming more and more real by the week. Not only has the device been confirmed by industry insiders and other credible sources, but part suppliers are now receiving orders from Apple to build the thing.

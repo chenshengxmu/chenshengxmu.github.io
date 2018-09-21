@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Watch Apple's iBooks Textbooks Video
+title: Watch Apples iBooks Textbooks Video
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/iBooks-Study-Cards.jpg)
 * Apple has posted a promotional video for their recently launched iBooks Textbooks feature, and you can watch it right now.

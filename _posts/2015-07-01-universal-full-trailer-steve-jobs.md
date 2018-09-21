@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Universal releases full trailer for 'Steve Jobs' film
+title: Universal releases full trailer for Steve Jobs film
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/07/Steve-Jobs-movie-full-trailer-image-001.jpg)
 * Following a teaser trailer for the Steve Jobs movie we saw back in May, Universal on Wednesday released the full official trailer for the forthcoming flick.

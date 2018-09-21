@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New 'iOS in the Car' feature to work over WiFi via AirPlay
+title: New iOS in the Car feature to work over WiFi via AirPlay
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/iOS-7-Siri-Car-Integration.png)
 * Among the many new features Apple introduced in iOS 7 is an interesting one called ‘iOS in the Car.’ It enables you to mirror your iPhone on your in-car display, allowing you to access Maps, Messages and other apps without having to take your eyes off the wheel.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LSCameraExtender' adds mute functionality to your Lock Screen and more
+title: LSCameraExtender adds mute functionality to your Lock Screen and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/LSCameraExtender-Screenshot.jpg)
 * Is your iPhone envious of your iPad’s ability to turn its mute switch into a rotation lock, and vice versa?

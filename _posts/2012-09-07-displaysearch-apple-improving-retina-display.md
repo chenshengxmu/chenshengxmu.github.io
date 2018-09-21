@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DisplaySearch- Apple re-engineering the iPad's Retina Display around thinner IGZO tech
+title: DisplaySearch- Apple re-engineering the iPads Retina Display around thinner IGZO tech
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/iPad-3-Retina-Display-type-example.jpg)
 * Apple’s “resolutionary” iPad 3 brings with it the company’s best Retina Display yet, featuring an astounding resolution of 2,048-by-1,536 pixels. Because so many pixels are crammed up on the same 9.7-inch canvas, much stronger backlight is required in order to push the light through the pixels, taxing the battery and adding up to the device’s overall thickness.

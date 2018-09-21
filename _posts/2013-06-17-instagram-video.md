@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Facebook rumored to step on Vine's turf with Instagram Video
+title: Facebook rumored to step on Vines turf with Instagram Video
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/New-Facebook-Timeline-Instagram.jpg)
 * Facebook last week sent out invitations for its June 20 press event snail mail style, down to clean white envelopes. The graphics alludes the social networking giant has been working on “big ideas” and today TechCrunch chimes in to claim knowledge of the event’s agenda.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Phil Schiller calls out Samsung for benchmark 'shenanigans'
+title: Phil Schiller calls out Samsung for benchmark shenanigans
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/schiller.png)
 * Apple’s senior vice president of Worldwide Marketing Phil Schiller is at it again, stirring the pot via his Twitter again. Earlier this year he called out Android for its staggering malware problem, and today he put Samsung in his sights.

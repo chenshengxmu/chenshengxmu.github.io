@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple removes iCloud Keychain from iOS 7 GM, here's why
+title: Apple removes iCloud Keychain from iOS 7 GM, heres why
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/iCloud-Keychain-teaser-001.jpg)
 * Yesterday, Apple seeded its registered iOS developers with a so-called Gold Master version of iOS 7, which is essentially the same version owners of iPhone, iPod touch and iPad devices will be getting come September 18.

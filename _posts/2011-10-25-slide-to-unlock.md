@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Granted Patent for 'Slide to Unlock' Gesture
+title: Apple Granted Patent for Slide to Unlock Gesture
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/Photo-Oct-25-3-44-39-PM.jpg)
 * When Steve Jobs unveiled the iPhone back in 2007, he had a blast showing off the company’s first handset. One feature he particularly enjoyed demonstrating was the phone’s unlocking mechanism — the now famous Slide to Unlock component.

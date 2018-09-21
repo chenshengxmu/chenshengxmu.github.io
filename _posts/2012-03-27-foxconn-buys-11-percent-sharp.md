@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's favorite contract manufacturer Foxconnn secures 11% stake in Retina display maker Sharp
+title: Apples favorite contract manufacturer Foxconnn secures 11% stake in Retina display maker Sharp
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/foxconn.jpg)
 * Japanese electronics maker Sharp said today it will form a strategic global manufacturing partnership with Foxconn parent Hon Hai Precision Industry Co that will see the latter take eleven percent ownership in the former. In a nutshell, an assembly company has just purchased a stake in a manufacturer.

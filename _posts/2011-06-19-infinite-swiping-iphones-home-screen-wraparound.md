@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bring Infinite Swiping to Your iPhone's Home Screen with 'Wraparound'
+title: Bring Infinite Swiping to Your iPhones Home Screen with Wraparound
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/Wraparound-feature.png)
 * It’s time to add another entry to the, “why didn’t Apple think about that?” list.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung's Galaxy S3 'marginally higher' than Apple's iPhone 5 in ACSI customer satisfaction
+title: Samsungs Galaxy S3 marginally higher than Apples iPhone 5 in ACSI customer satisfaction
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/iPhone5_GS3.jpeg)
 * Imagine if you received a recommendation proclaiming you were marginally better than your competitors. Well, that’s the case with Samsung, which has two smartphones that scored “marginally higher” than the iPhone 4S and the iPhone 5 in a new customer sat survey, to use Tim Cook’s jargon talk.

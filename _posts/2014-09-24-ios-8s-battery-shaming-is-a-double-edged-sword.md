@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 8's battery shaming is a double-edged sword
+title: iOS 8s battery shaming is a double-edged sword
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/iPhone-5-battery-charging.png)
 * As is always the case every time a new iPhone is released, or a major iteration of its software pops up on Apple’s servers, the planet goes into meltdown about battery life. It’s almost as predictable as Apple’s iPhone release schedule, and it’s getting old.

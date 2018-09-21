@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple to Enter Nortel's Auction of Over 5000 Wireless Patents
+title: Apple to Enter Nortels Auction of Over 5000 Wireless Patents
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/s2Ns659j.jpg)
 * Over the last couple of years, Nortel has been selling off its wireless network business. Though most of their assets have gone to Sweden-based Ericsson, a treasure chest of the company’s wireless patents are slated to be auctioned off to the highest bidder in a few weeks.

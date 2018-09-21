@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using OS X Yosemite's revamped Spotlight Search
+title: Using OS X Yosemites revamped Spotlight Search
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/Spotlight-OS-X-Yosemite.png)
 * Spotlight has been improved through and through to be more useful in OS X Yosemite. It has adopted an Alfred-inspired interface that makes working with Spotlight easier and more powerful.

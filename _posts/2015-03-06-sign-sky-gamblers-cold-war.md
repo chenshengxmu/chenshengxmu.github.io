@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IGN names "Sky Gamblers- Cold War" its Free Game of the Month
+title: IGN names Sky Gamblers- Cold War its Free Game of the Month
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/sky-gamblers.jpeg)
 * Heads up gamers, IGN has just named “Sky Gamblers: Cold War” its Free Game of the Month for March. The title has an impressive rating of 4.5 out of 5 stars in the App Store, on thousands of reviews, and it typically retails for $4.99.

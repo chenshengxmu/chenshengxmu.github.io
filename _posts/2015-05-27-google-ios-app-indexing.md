@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You'll soon be able to open iOS app content straight from Google Search
+title: Youll soon be able to open iOS app content straight from Google Search
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/05/Gogole-Search-iOS-app-indexing-iPhone-screenshot-001.jpg)
 * Google will soon start indexing iOS apps, allowing you to open content in your favorite apps straight from Google Search, the company announced Wednesday.

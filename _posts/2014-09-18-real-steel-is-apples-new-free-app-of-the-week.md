@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Real Steel is Apple's new Free App of the Week
+title: Real Steel is Apples new Free App of the Week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/Real-Steel-1.20.3-for-iOS-iPhone-screenshot-001.jpeg)
 * It’s Thursday and Apple’s editors have slashed another app to zero bucks in the App Store’s weekly Free App of the Week promotion.

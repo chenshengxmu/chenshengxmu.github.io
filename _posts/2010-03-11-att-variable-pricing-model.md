@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T Confirms Move to A "Variable Pricing Model"
+title: AT&T Confirms Move to A Variable Pricing Model
 ---
 * A few months ago I wrote an article showing how AT&T was going to move to a pay-per-byte model on its 3G plans. Recently, AT&T CEO Randall L. Stephenson confirmed this move in an interview for the WSJ.
 * He said that AT&T is carrying half of the nation’s wireless data traffic. He said that carriers will eventually move to a “variable pricing model,” and that it was inevitable that heavy users should pay more than low users.

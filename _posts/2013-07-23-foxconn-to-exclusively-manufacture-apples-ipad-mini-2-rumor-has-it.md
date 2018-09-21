@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Foxconn to exclusively manufacture Apple's iPad mini 2, rumor has it
+title: Foxconn to exclusively manufacture Apples iPad mini 2, rumor has it
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/iPad-mini-Minimally-Minimal-002-white-desk-Magic-Mouse.jpg)
 * As we sift through Apple’s June quarter numbers and decipher vague hints suggesting a blockbuster Fall, rumors of a next-generation iPad mini continue to swirl. And where DigiTimes sees a Retina iPad mini in October, KGI’s Ming-Chi Kuo sees a launch in March or April of 2014 given the battery and performance challenges stemming from driving a much smaller, thinner and lighter Retina display.

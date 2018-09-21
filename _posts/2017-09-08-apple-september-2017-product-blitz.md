@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Everything we expect from Apple's September product blitz
+title: Everything we expect from Apples September product blitz
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/Tim-Cook-iPhone-.jpg)
 * With just a few days left until Apple’s big reveal on Tuesday, speculation as to what the company may or may not announce has pretty much approached fever pitch. Without further ado, this is what we expect at Apple’s landmark September 12 Steve Jobs Theater event.

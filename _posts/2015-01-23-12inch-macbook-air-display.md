@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Claimed photos of 12" MacBook Air display assembly surface
+title: Claimed photos of 12 MacBook Air display assembly surface
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/Twelve-inch-MacBook-Air-Display-leak-iFanr-002.jpg)
 * Chinese website iFanr on Friday posted a series of claimed photographs said to depict a display for Apple’s rumored MacBook Air redesign featuring a twelve-inch Retina screen display assembly with black glass cover and a polished Apple logo.

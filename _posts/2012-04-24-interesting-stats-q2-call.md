@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interesting stats from Apple's earnings call
+title: Interesting stats from Apples earnings call
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/money1.jpg)
 * We just finished listening to Apple’s quarterly earnings call for Q2 of this year, and we managed to pick up some interesting statistics.

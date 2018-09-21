@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Verizon's LTE network will soon cover 2/3 of US population
+title: Verizons LTE network will soon cover 2/3 of US population
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/Verizon-Network.jpg)
 * Verizon just announced that it’s going to flip the LTE switch on in 34 new markets tomorrow, and will also be expanding its 4G coverage in another 38.

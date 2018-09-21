@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A closer look at Activator's new Application Shortcuts feature
+title: A closer look at Activators new Application Shortcuts feature
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/10/Activator-3D-Touch-Shortcuts.jpg)
 * Earlier today, we reported that Ryan Petrich had updated his beta repo, and with it, the Activator beta for iOS 9. The update brought overall compatibility to iOS 9, but more interestingly, it brought about a new feature called Application Shortcuts.

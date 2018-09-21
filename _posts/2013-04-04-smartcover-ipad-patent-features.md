@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jony Ive envisions mail window, media controls and more for iPad's Smart Cover
+title: Jony Ive envisions mail window, media controls and more for iPads Smart Cover
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/Apple-seethrough-Smart-Cover-patent-drawing-002.jpg)
 * Who thought Apple’s Smart Cover, first designed to simply protect the iPad screen without adding too much bulk to the device’s form factor, would grow to become another platform for the firm’s design guru, Jony Ive? A new patent application which identifies Ive as one of the inventors suggests the Smart Cover could become a mini screen, displaying new email and controlling music playback, among other possibilities.

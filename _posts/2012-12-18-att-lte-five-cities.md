@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T's LTE launches in Green Bay, Springfield, Tucson, Melbourne and Oxford
+title: AT&Ts LTE launches in Green Bay, Springfield, Tucson, Melbourne and Oxford
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/ATT-Chicago-store-interior-001.jpg)
 * Another week, another expansion of AT&T’s fourth-generation Long-Term Evolution (LTE) network. Having rolled out LTE to customers in Wilkes-Barre, Pennsylvania, Nashua, New Hampshire and Grand Rapids last week, the Dallas, Texas-headquartered US wireless company Tuesday morning announced the addition of five new LTE markets.

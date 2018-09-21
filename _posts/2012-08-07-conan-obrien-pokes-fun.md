@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Conan O'Brien pokes fun at Apple-Samsung trial
+title: Conan OBrien pokes fun at Apple-Samsung trial
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/conan-skit-ss.png)
 * With billions of dollars hanging in the balance, and both companies’ reputations at stake, the Samsung-Apple trial is one of the most high-profile in history.

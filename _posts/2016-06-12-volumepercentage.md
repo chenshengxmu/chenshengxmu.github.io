@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VolumePercentage shows the numeric volume level in your iPhone's volume HUD
+title: VolumePercentage shows the numeric volume level in your iPhones volume HUD
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/VolumePercentage-volume-HUD-percent.jpg)
 * On any normal day, your iPhone or iPad’s volume HUD shows an icon in the middle, along with little rectangles at the bottom of the indicator that illustrate how high your volume level is.

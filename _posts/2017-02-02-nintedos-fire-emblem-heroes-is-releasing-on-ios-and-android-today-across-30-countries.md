@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nintedo's Fire Emblem Heroes is releasing on iOS and Android today across 30 countries
+title: Nintedos Fire Emblem Heroes is releasing on iOS and Android today across 30 countries
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/Fire-Emblem-Heroes-teaser.jpeg)
 * Nintendo is unleashing its new smartphone game upon App Store, Fire Emblem Heroes for iPhone. The free-to-download strategy role playing game comes with non-compulsory In-App Purchases as its main revenue model, allowing impatient players to buy Orbs for real cash rather than earn them through Story Maps.

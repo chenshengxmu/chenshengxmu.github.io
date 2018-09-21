@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Watch availability expands to UK's John Lewis and Currys department stores
+title: Apple Watch availability expands to UKs John Lewis and Currys department stores
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/watchOS-2-nightstand-mode.jpg)
 * The Apple Watch world tour continues unabated with confirmation that the wearable device is slated to go on sale this week at John Lewis, the department store in the United Kingdom, Wearable reports.

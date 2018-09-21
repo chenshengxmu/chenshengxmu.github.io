@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung to build world's biggest OLED display manufacturing plant
+title: Samsung to build worlds biggest OLED display manufacturing plant
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/04/iPhone-8-Full-Vision-Display-iFanr-mockup-003.jpg)
 * Samsung is planning to build the world’s biggest OLED display manufacturing plant that could kick off volume production in 2019, with a peak yield of between 180,000 and 270,000 OLED display panels per month, according to industry sources.

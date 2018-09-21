@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's free app of the week- Colossatron- Massive World Threat
+title: Apples free app of the week- Colossatron- Massive World Threat
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/colos.png)
 * Apple on Thursday updated its App of the Week promotion with the game Colossatron: Massive World Threat. For the next 7 days, you can pick up the destructive strategy game for free on both iPhone and iPad, a solid savings of $1.

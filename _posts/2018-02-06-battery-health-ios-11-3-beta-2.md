@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 11.3 beta 2 brings Apple's promised new Battery Health features
+title: iOS 11.3 beta 2 brings Apples promised new Battery Health features
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/02/battery-health-1.png)
 * Apple seeded iOS 11.3 beta 2 this morning, and the update brings about a new feature labeled Battery Health. As the name suggests, the feature is designed to provide iOS users with more information about their batteries.

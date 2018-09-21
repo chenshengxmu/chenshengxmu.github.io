@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Judge denies Samsung's request to lift Galaxy Nexus ban
+title: Judge denies Samsungs request to lift Galaxy Nexus ban
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/galaxy-nexus-ics_large_extra_large.jpeg)
 * Just 24 hours after denying Samsung’s motion to stay the Galaxy Tab injunction, Judge Lucy Koh has rejected the company’s request to lift the ban on the Galaxy Nexus.

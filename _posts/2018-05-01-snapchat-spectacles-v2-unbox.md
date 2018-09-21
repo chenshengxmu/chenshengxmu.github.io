@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video- unboxing Snapchat's new water-resistant Spectacles
+title: Video- unboxing Snapchats new water-resistant Spectacles
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/05/snap.png)
 * Snapchat (or Snap Inc., really) last week launched Spectacles V2, the second generation of its quirky sunglasses with a built-in camera. There’s a lot to like about the new model, including a slimmer frame and charging case, water-resistance, and the ability to take photos. Our resident video guru Harris recently snagged a pair and put together an unboxing video that offers a great overview of the product.

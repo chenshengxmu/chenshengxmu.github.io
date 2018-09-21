@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Facebook now has access to iOS 11's Screen Recording feature, currently inactive
+title: Facebook now has access to iOS 11s Screen Recording feature, currently inactive
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/FAcebook-iOS-11-screen-recording-integration.jpg)
 * The Facebook app now apparently integrates with iOS 11’s Screen Recording feature.

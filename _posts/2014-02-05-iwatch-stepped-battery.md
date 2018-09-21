@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iWatch to tap LG Chem's energy efficient stepped batteries, rumor has it
+title: iWatch to tap LG Chems energy efficient stepped batteries, rumor has it
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/iWAtch-C-blue-Apple-Store-Martin-Hajek-003.jpg)
 * As Apple continues to build up its team of world-class sleep researchers, medical device experts and biosensing ace engineers for the iWatch team, the rumor-mill is in full swing with related chatter originating from the company’s vast network of Taiwanese suppliers and contract manufacturers.

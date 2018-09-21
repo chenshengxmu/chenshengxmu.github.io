@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's automotive hires strongly indicate a car project rather than work on CarPlay
+title: Apples automotive hires strongly indicate a car project rather than work on CarPlay
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/apple-car-concept.jpg)
 * Talking to sources, 9to5Mac has put together a list of key experts Apple’s hired and assigned to its rumored car thing, code-named Project Titan. The project is led by product design Vice President and former Ford executive, Steve Zadesky.

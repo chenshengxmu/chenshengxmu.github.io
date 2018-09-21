@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook- today's launch of iOS 11 & ARKit is “a day to remember”
+title: Tim Cook- todays launch of iOS 11 & ARKit is “a day to remember”
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/Tim-Cook-Good-Morning-America-image-001.jpg)
 * Apple CEO Tim Cook sat down with Robin Roberts of ABC’s “Good Morning America” show earlier this morning to discuss a few topics of interests such as the launch of the major iOS 11 software update, Apple’s $999 price tag for the new iPhone X and more.

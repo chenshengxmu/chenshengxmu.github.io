@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unlocked iPhone 5 models won't be available at launch
+title: Unlocked iPhone 5 models wont be available at launch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iPhone-5-promo-video-back-black-camera-closeup-001.jpg)
 * We’re t-minus three hours and counting until the iPhone 5 pre-orders begin, and some new information regarding model availability and pricing has just come to light.

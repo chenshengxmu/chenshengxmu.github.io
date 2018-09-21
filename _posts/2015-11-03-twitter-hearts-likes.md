@@ -1,6 +1,6 @@
 ---
 layout: post
-title: For better or worse, Twitter's Stars and Favorites are now Hearts and Likes
+title: For better or worse, Twitters Stars and Favorites are now Hearts and Likes
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/11/Twitter-hearts.png)
 * So you’ve been starring and favoriting tweets for later use in your favorite Twitter client, just like many other die-hard Twitter fans do? Well, starting today all those Stars and Favorites shall be presented henceforth as Hearts and Likes, the micro-blogging startup unexpectedly announced today.

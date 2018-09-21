@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple could be prepping 21.5" iMac with 4K screen & touchpad-based remote with Siri support
+title: Apple could be prepping 21.5 iMac with 4K screen & touchpad-based remote with Siri support
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/iMac-21.5-and-27-inch-teaer-001.jpg)
 * In October 2014, Apple refreshed its flagship all-in-one (my dream desktop) with an insanely sharp 5K screen, among other hardware changes. The update left seasoned watchers wondering about the fate of its smaller 21.5-inch baseline sibling, which has remained stuck with a Full HD 1,920-by-1,080 screen.

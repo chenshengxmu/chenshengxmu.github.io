@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung Experience Shops coming to 1,400 Best Buy stores to fight Apple's retail lead
+title: Samsung Experience Shops coming to 1,400 Best Buy stores to fight Apples retail lead
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/Samsung-Experience-Shops-Best-Buy-001.jpg)
 * Responding to Apple’s retail lead, the South Korea based maker of Galaxy smartphones and tablets has made a major move in partnership with Best Buy, which also sells Apple products. Samsung is calling it the final component in a three-legged approach to competing with Apple in the United States. Beginning Monday, April 8, the South Korean smartphone maker will open hundreds of so-called Samsung Experience Shops in Best Buy stores across the country.

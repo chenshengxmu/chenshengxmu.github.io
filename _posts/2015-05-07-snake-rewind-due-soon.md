@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Remember Snake from Nokia phones? It's hitting iOS next Thursday as Snake Rewind!
+title: Remember Snake from Nokia phones? Its hitting iOS next Thursday as Snake Rewind!
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/05/Snake-Rewind-iPhone-screenshot-001.jpg)
 * Do you remember playing the old-school Snake from Nokia phones? First released in the late 1990s on the Nokia 6110, this innovative, all-consuming game with monochrome graphics and stupendously simple concept of not crashing the snake while trying to eat fruit is a testament of timeless design. Now Snake’s original creator Taneli Armanto has teamed up with Rumilus Design to bring back the joy of the classic game in a modern take on Snake.

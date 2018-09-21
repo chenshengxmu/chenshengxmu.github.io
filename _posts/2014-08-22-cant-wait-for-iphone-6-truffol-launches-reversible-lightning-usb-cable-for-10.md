@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Can't wait for iPhone 6? Truffol launches reversible Lightning USB cable for $10
+title: Cant wait for iPhone 6? Truffol launches reversible Lightning USB cable for $10
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/image1.jpg)
 * Online retailer Truffol has launched a reversible Lightning cable for models of the iPhone, iPad, and iPods that support the connection technology. This marks the first reversible Lightning cable, meaning there is no wrong way to plug it into the USB port on your charger or computer as there is on the official cable sold by Apple.

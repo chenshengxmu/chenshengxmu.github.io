@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ashton Kutcher's 'Jobs' biopic now available in iTunes
+title: Ashton Kutchers Jobs biopic now available in iTunes
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/jobs-in-itunes.png)
 * For those of you who were unable to see it in theaters, Ashton Kutcher’s much talked about ‘Jobs’ film is now available for purchase. You can either buy it or rent it in iTunes, and then of course it’s available in Blu-Ray and DVD as well.

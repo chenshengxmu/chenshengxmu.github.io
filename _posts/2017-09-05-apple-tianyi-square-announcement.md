@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Grand opening of Apple's new Tianyi Square store is happening this Saturday
+title: Grand opening of Apples new Tianyi Square store is happening this Saturday
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/China-Ningbo-Tianyi-Square.jpg)
 * Apple through a Tuesday morning refresh of its Retail website in China announced that the newest brick-and-mortar retail store, located within the Tianyi Square shopping district, will be opening doors for business this Saturday, September 16, at 10am local time.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Facebook to respond to Apple's AR efforts with untethered $200 Oculus VR headset in 2018
+title: Facebook to respond to Apples AR efforts with untethered $200 Oculus VR headset in 2018
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/oculus-facebook.jpg)
 * Apple’s new ARKit framework for building augmented reality experiences for compatible iPhone and iPad devices is off to a great start and already Facebook is taking notice, according to a new report Thursday from Bloomberg’s Mark Gurman.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Check out Bolt, Instagram's Snapchat competitor
+title: Check out Bolt, Instagrams Snapchat competitor
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/Instagram-Bolt-The-Verge-001.png)
 * In case you missed it last week, Facebook-owned Instagram is hatching out a new mobile app to take on the likes of Snapchat, Taptalk and a growing list of other ephemeral messaging apps out there.

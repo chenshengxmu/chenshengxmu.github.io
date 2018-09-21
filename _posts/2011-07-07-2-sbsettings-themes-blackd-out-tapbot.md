@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2 Awesome SBSettings Themes- Black'd Out and Tapbot
+title: 2 Awesome SBSettings Themes- Blackd Out and Tapbot
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/07/Blackd-Out-and-Tapbot-theme-e1310009628783.png)
 * We all love SBSettings on our jailbroken iDevices. The popular utility allows you to quickly access system toggles anywhere in iOS through an Activator action.

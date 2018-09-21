@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple announces 27" iMac with Retina 5K display available today for $2,499
+title: Apple announces 27 iMac with Retina 5K display available today for $2,499
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/iMac-Retina-5k-display.png)
 * Thirty years after the first Mac was unveiled, Apple has announced its highly anticipated 27″ iMac with Retina Display. The desktop’s display, which comes in at 5120×2880 native resolution, features a stunning 14.7 Million pixels, and is available starting today at $2,499.

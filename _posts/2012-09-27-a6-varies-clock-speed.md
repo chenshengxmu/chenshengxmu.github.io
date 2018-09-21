@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The iPhone 5's A6 processor can dynamically vary its clock speed for performance
+title: The iPhone 5s A6 processor can dynamically vary its clock speed for performance
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iPhone-5-keynote-A6-slide-002.jpg)
 * The A6 chip which debuted on the iPhone 5 earlier this month can do some pretty clever tricks, stemming from a heavily customized ARMv7 design. Benchmark data suggests that the A6 can dynamically overclock itself to up to 1.3GHz and downclock to just 500MHz, depending on workload.

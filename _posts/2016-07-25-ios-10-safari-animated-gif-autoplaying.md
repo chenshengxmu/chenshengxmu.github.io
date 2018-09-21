@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 10's Safari improves animated GIF experience, prevents spammy videos from autoplaying
+title: iOS 10s Safari improves animated GIF experience, prevents spammy videos from autoplaying
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/iOS-7-Safari-app-icon-large-e1442348114864.png)
 * Among other enhancements, Safari on iOS 10 boosts the animated GIF experience for iPhone, iPad and iPod touch users while preventing spammy autoplay videos from interrupting your browsing, according to the WebKit blog. On iOS 9, an animated GIF won’t start playing until it’s tapped.

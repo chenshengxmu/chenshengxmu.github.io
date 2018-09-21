@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KGI- Android makers are clamoring to copy iPhone X's Face ID & TrueDepth camera
+title: KGI- Android makers are clamoring to copy iPhone Xs Face ID & TrueDepth camera
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/Apple-Event-September-2017-Face-ID-008.jpg)
 * Android vendors are clamoring to copy Apple’s 3D facial recognition technology, dubbed Face ID, and the TrueDepth camera built into the upcoming iPhone X, says revered Apple analyst.

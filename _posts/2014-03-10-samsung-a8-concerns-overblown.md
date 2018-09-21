@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New report alleges Samsung will build iPhone 6's A8 processor after all
+title: New report alleges Samsung will build iPhone 6s A8 processor after all
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/Apple-A8-teaser-001.png)
 * Shortly after Taiwan’s Commercial Times ran a story about Taiwan Semiconductor Manufacturing Company (TSMC) seemingly having started production of an upcoming Apple-designed A8 chip on an exclusive basis (as Samsung reportedly dropped out of the race due to yield issues), an unnamed Samsung executive in a defensive PR move took to blogs to argue that the rumor is greatly exaggerated.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amazon updates Kindle for iOS with iPhone X and 10.5" iPad Pro support
+title: Amazon updates Kindle for iOS with iPhone X and 10.5 iPad Pro support
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/Amazon-Kindle-iPhone-X.jpg)
 * Amazon has finally updated its pretty great Kindle app for iPhone and iPad with support for the edge-to-edge OLED display panel powering your iPhone X’s Super Retina display.

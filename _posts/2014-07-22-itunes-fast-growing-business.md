@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iTunes software and services fastest growing part of Apple's business this year
+title: iTunes software and services fastest growing part of Apples business this year
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/itunes-121.png)
 * During Apple’s Q3 earnings call this afternoon, Tim Cook praised the success of its iTunes software and services arm. The CEO said the division was the fastest-growing of the company’s business in the first 9 months of its fiscal year 2014.

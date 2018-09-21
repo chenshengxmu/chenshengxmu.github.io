@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple launches 15" MacBook Pro with Force touch, refreshes 27-inch iMac while bringing down price
+title: Apple launches 15 MacBook Pro with Force touch, refreshes 27-inch iMac while bringing down price
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/iMac-Photos-app.png)
 * Apple on Tuesday launched a new 15-inch MacBook Pro model with Force Touch trackpad, Intel’s faster fourth-generation Haswell chip and other features

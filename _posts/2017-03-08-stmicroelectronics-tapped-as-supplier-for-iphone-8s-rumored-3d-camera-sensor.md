@@ -1,6 +1,6 @@
 ---
 layout: post
-title: STMicroelectronics tapped as supplier for iPhone 8's rumored 3D camera sensor
+title: STMicroelectronics tapped as supplier for iPhone 8s rumored 3D camera sensor
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/iPhone-7-plus-back-large-camera.jpg)
 * Franco-Italian company STMicroelectronics used to be the sole supplier of accelerometers, gyroscopes and motion sensors for iPhone, iPad and iPod touch devices before Apple started dual-sourcing these microscopic components from both STMicroelectronics and Bosch Sensortec.

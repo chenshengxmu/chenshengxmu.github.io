@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iFixit- 9.7-inch iPad Pro uses 'gobs of adhesive', making repair 'miserable'
+title: iFixit- 9.7-inch iPad Pro uses gobs of adhesive, making repair miserable
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/04/9.7-inch-iPad-Pro-iFixit-teardown-001.jpg)
 * Repair wizards over at iFixit have torn apart Apple’s new 9.7-inch iPad Pro (model A1673) only to discover that the device is extremely difficult to repair due to “gobs of adhesive” used to keep the components secured in place.

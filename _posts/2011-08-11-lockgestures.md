@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LockGestures' Adds Multitouch Gestures to Your Lockscreen
+title: LockGestures Adds Multitouch Gestures to Your Lockscreen
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/LockGestures.png)
 * “Soon we’ll need﻿ a lockscreen for our lockscreen,” states a comment on our YouTube video for LockGestures. Frankly, I couldn’t have said it better myself.

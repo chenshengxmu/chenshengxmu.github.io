@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 8 rumored to feature increased IP68 water resistance like Samsung's Galaxy S7
+title: iPhone 8 rumored to feature increased IP68 water resistance like Samsungs Galaxy S7
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/iPhone-7-water-resistant.jpg)
 * iPhone 7 files as Apple’s first smartphone with IP67-rated dust and water resistance, but the next iPhone should be even more water resistant.

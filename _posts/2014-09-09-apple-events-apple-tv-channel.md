@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Apple Events' channel now available on Apple TV
+title: Apple Events channel now available on Apple TV
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/apple-tv-menu.jpg)
 * Apple TV owners have probably noticed that the ‘Apple Events’ channel has returned to their main menu this morning. As with previous events, this channel will allow you to watch a live stream of today’s iPhone keynote—although clicking on it now just brings up a splash screen with the start time and other details.

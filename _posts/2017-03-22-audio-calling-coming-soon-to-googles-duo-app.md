@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Audio calling coming soon to Google's Duo app
+title: Audio calling coming soon to Googles Duo app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/08/Google-Duo-teaser-005.jpg)
 * At an event in São Paulo, Brazil today, Google announced that its one-on-one video calling app, Duo, will be soon gaining audio-only calling on iOS and Android. The feature is already available starting today to customers in Brazil and will be rolling out to users around the world in the coming days. With the update, Duo for iPhone now supports both video and audio calling and effectively becomes a viable alternative to Apple’s FaceTime.

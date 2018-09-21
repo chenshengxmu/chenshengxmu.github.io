@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Encrypted chat app 'Cryptocat' now available on iOS
+title: Encrypted chat app Cryptocat now available on iOS
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/cryptocat-1.png)
 * Popular encrypted chat app Cryptocat has launched this week for iOS. Originally available as a desktop app and a browser plugin, the app offers strong encryption and secrecy for text conversations, as well as protection from government intrusion thanks to its Swedish nuclear bunker headquarters.

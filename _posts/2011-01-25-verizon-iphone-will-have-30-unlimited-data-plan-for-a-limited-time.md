@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Verizon iPhone Will Have $30 Unlimited Data Plan for a "Limited Time"
+title: Verizon iPhone Will Have $30 Unlimited Data Plan for a Limited Time
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/01/Verizon-iPhone2.jpeg)
 * It’s official. The Verizon iPhone will be initially offered with a $30 unlimited data plan. Potential Verizon iPhone customers can celebrate that they will be getting the coveted unlimited data plan that AT&T stopped providing for the iPhone last June.

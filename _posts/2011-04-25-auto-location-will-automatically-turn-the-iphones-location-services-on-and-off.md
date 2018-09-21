@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Auto Location Will Automatically Turn the iPhone's Location Services On and Off
+title: Auto Location Will Automatically Turn the iPhones Location Services On and Off
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/Location-Services-e1303395466168.jpeg)
 * Are you still a little paranoid about the iPhone location-tracking file? Are you afraid that Apple or your carrier is tracking your every move?

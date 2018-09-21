@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Analyst says iOS 6 brings "notable upgrade" to native Camera and Photos apps
+title: Analyst says iOS 6 brings notable upgrade to native Camera and Photos apps
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/iPhone-4S-two-up-Photos-001.jpg)
 * Sterne Agee analyst Shaw Wu writes in today’s note to clients that Apple is working on a “notable upgrade” to its stock Camera and Photos apps which come included with the iOS mobile operating system powering iPhones, iPads and iPods.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Did Verizon's CTO just confirm LTE for the next iPhone?
+title: Did Verizons CTO just confirm LTE for the next iPhone?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/verizon-wireless.jpg)
 * The theory that Apple’s next handset is going to feature an LTE radio has been tossed about for several months now. In fact, a lot of folks expected the wireless technology to make its way into last year’s iPhone. But obviously that never materialized.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Funny or Die's iSteve trailer hits the web
+title: Funny or Dies iSteve trailer hits the web
 ---
 * Funny or Die production, the popular comedy web site founded by Will Ferrel’s production company, last month announced work on a full-length Steve Jobs movie dubbed iSteve and starring Justin Long as Apple’s late co-founder Steve Jobs. With the first official trailer having been posted to the Funny or Die web site, it looks as if this flick is actually a more serious depiction of Steve Jobs rather than a typical Funny or Die comedy production…
 * Kudos to the German web site Apfelpage.de for discovering the trailer.

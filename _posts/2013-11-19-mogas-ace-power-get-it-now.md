@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Moga's 'Ace Power' iOS 7 game controller now available
+title: Mogas Ace Power iOS 7 game controller now available
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/mogaacepower.jpg)
 * Moga announced this morning that its first (and subsequently the first to market) iOS 7-compatible game controller is now available for purchase. It’s called the ‘Ace Power’ and it works with the iPhone 5, 5c, 5s and the latest iPod touch.

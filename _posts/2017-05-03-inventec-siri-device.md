@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AirPods manufacturer Inventec reportedly lands orders for Apple's rumored Echo rival
+title: AirPods manufacturer Inventec reportedly lands orders for Apples rumored Echo rival
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/05/Apple-Siri-device-mockup-iFunnyVlogger.jpeg)
 * Following claims that Apple has finalized designs for its alleged standalone Siri/AirPlay device, Chinese-language Economic Daily News report Wednesday that AirPods manufacture Inventec has now landed orders for the device.

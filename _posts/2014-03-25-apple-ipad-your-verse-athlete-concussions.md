@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New 'Your Verse' feature- how iPad helps diagnose athletes' concussions
+title: New Your Verse feature- how iPad helps diagnose athletes concussions
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/Apple-Your-Verse-athlete-concussions-001.jpg)
 * After highlighting last month the many ways mountaineers use iPad for their extraordinary climbs, Apple last night refreshed its ‘Your Verse’ microsite with a new feature outlining how the popular post-PC device is being used to help diagnose athletes’ concussions.

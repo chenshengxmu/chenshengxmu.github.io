@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple to start offering 'Spoken Editions' of news articles via iTunes
+title: Apple to start offering Spoken Editions of news articles via iTunes
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/spoken.png)
 * You’ll soon be able to listen to news articles in iTunes, reports TechCrunch. The outlet says that in the near future, you’ll be able to browse through a new category of podcasts that will allow you to listen to news stories from your favorite publishers.

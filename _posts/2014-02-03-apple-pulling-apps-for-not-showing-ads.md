@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple now rejecting apps that use ad tracking but don't show any ads
+title: Apple now rejecting apps that use ad tracking but dont show any ads
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/iOS-7-teaser-iPhone-5s-ad-003.jpg)
 * An interesting finding by TechCrunch this morning that Apple has now started to reject apps which retrieve users’ Identifier for Advertisers (IDFA), but don’t show any ads. IDFA was introduced alongside iOS 6 two years ago to replace the universal device identifier (UDID) from prior iOS versions amid privacy concerns and new regulatory requirements. The company last March stopped accepting apps into the App Store that use the now defunct UDID…

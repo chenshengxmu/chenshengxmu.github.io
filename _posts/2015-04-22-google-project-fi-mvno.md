@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google unveils 'Project Fi,' an MVNO with plans starting at $20 per month
+title: Google unveils Project Fi, an MVNO with plans starting at $20 per month
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/04/google-fi.png)
 * After years of rumors and speculation, Google is officially getting into the wireless business. The tech giant on Wednesday announced “Project Fi,” an MVNO (mobile virtual network operator) set to shake up the wireless industry with plans starting at $20 per month.

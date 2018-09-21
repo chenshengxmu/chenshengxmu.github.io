@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pod2g says he's becoming increasingly confident in iOS 7 jailbreak
+title: Pod2g says hes becoming increasingly confident in iOS 7 jailbreak
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/ios-7-cydia.png)
 * Good news on the jailbreak front this evening, as pod2g has just tweeted out that he is becoming “more and more confident about an iOS 7 public jailbreak.” He’s careful to note, however, that this doesn’t mean one is coming soon.

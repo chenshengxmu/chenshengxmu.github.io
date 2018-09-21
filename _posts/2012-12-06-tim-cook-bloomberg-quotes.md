@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Best quotes from Tim Cook's Bloomberg interview
+title: Best quotes from Tim Cooks Bloomberg interview
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/Bloomberg-Tim-Cook-cover.jpg)
 * Today is all about Tim Cook. Apple’s chief executive first sat down with Bloomberg Businesweek to talk Apple, the recent management shakeup, his business philosophy and a number of other topics.

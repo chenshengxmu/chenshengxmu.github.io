@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Infinity Blade II named IGN's 'Free Game of the Month'
+title: Infinity Blade II named IGNs Free Game of the Month
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/infinity-blade-2-ss.jpg)
 * Good news gamers, IGN has named the popular Infinity Blade II title by Chair Entertainment its Free Game of the Month. This is one of the few times that the game, which normally retails for $6.99, has been made available at no cost.

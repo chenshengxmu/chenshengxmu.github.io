@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jobs' biographer says the CEO's disdain for Android was real
+title: Jobs biographer says the CEOs disdain for Android was real
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/Walter-Isaacson.jpg)
 * Yesterday, Google’s Larry Page sparked some controversy with some comments he made regarding Steve Jobs. In an interview with Businessweek, the CEO suggested that Jobs’ disdain for Android was more for show than anything else.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft's Surface Pro to land on February 9 with $899 price tag
+title: Microsofts Surface Pro to land on February 9 with $899 price tag
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/MS-surface-pro.jpg)
 * After a bit of a delay, Microsoft today announced launch details for its new Surface Pro tablet. The device will become available for purchase on February 9, and will run $899 for the entry-level 64GB model.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's mobile graphics provider Imagination is buying MIPS
+title: Apples mobile graphics provider Imagination is buying MIPS
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/Imagination-MIPS-logo.png)
 * Imagination Technologies, a British-based mobile graphics provider, will buy MIPS, a Sunnyvale, California-headquartered semiconductor design company. The transaction, apparently worth a cool $60 million in cash, is expected to close in the first quarter of 2013. It reportedly includes 82 patents related to the MIPS processor architecture.

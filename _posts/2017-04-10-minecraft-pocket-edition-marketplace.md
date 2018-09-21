@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Minecraft's upcoming update will let creators sell their skins, mini-games, textures & worlds
+title: Minecrafts upcoming update will let creators sell their skins, mini-games, textures & worlds
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/04/Minecraft-Pocket-Edition-Marketplace-teaser-001.jpg)
 * Minecraft developers announced on their blog today that a community Marketplace feature is coming soon to the mobile Minecraft: Pocket Edition game via an upcoming Discovery update. Marketplace will let Minecraft players and creators sell their custom skins, mini-games, textures, worlds and more.

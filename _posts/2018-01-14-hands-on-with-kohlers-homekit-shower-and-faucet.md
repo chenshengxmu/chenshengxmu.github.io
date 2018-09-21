@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hands-on with Kohler's HomeKit shower and faucet
+title: Hands-on with Kohlers HomeKit shower and faucet
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/Kohler-Konnect-DVT-Shower-HomeKit-CES-2018.jpg)
 * Kohler has launched their Konnect program that includes toilets, showers, sinks, faucets, mirrors, and more. We went hands on with their first two HomeKit-equipped products at CES 2018.

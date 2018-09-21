@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung takes on Apple's iPad Air 2 with ultra-slim Galaxy Tab S2
+title: Samsung takes on Apples iPad Air 2 with ultra-slim Galaxy Tab S2
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/07/Samsung-Galaxy-Tab-S2-image-001.jpg)
 * Samsung on Monday announced a next-generation Galaxy tablet to take on Apple’s iPad Air 2. The Galaxy Tab S2, driven by Android 5.0 Lollipop, is even thinner than Apple’s device: it measures an impressive 5.6mm thin and includes Samsung’s exceptionally bright and vivid Super AMOLED display in 7.9 and eight-inch flavors.

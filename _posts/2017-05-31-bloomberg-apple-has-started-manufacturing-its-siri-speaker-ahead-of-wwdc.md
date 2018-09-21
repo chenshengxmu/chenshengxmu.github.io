@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's begun manufacturing its Siri speaker ahead of WWDC
+title: Apples begun manufacturing its Siri speaker ahead of WWDC
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/05/Apple-Siri-device-mockup-iFunnyVlogger.jpeg)
 * Apple has started manufacturing its Siri speaker ahead of the WWDC keynote next week.

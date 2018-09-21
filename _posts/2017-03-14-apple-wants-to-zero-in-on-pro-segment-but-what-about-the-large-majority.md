@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple wants to zero in on 'Pro' segment, but what about the large majority?
+title: Apple wants to zero in on Pro segment, but what about the large majority?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/Tim-Cook-phoot-by-Joe-Pugliese.jpg)
 * In a statement warmly welcomed by us internet folk, Tim Cook recently proclaimed “you will see us do more in the pro area.” In our circles, this is unquestionably good news, as we all foster an insatiable appetite for new innovations, be that on a hardware or software level. More pro is great, however I invariably had to spare a thought for the average, not-so techy Apple customer.

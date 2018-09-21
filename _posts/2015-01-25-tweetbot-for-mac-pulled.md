@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tweetbot for Mac pulled from Mac App Store over running afoul of Twitter's token ceiling
+title: Tweetbot for Mac pulled from Mac App Store over running afoul of Twitters token ceiling
 ---
 * Bad news, Tweetbot fans. Developer Paul Haddad woke up this morning to the realization that his popular Twitter client for the Mac has been pulled from the Mac App Store.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/Tweetbot-1.5-for-Mac-Thumbnails.jpg)

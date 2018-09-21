@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Engineers poke holes in 'fake Apple projects' myth
+title: Engineers poke holes in fake Apple projects myth
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/iPhone-5-alternative-future-CiccareseDesign-001.jpg)
 * A lot of urban myths have popped up around how Apple goes about designing its products and protecting its famous paranoid secrecy. Through mindless repetition, these unconfirmed facts tend to become kinda public knowledge, some of them so compelling we cannot help but believe those overly romanticized Apple stories without questioning them or even consider asking the subject of whom the rumor is about.

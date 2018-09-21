@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's another unboxing of the new iPad
+title: Heres another unboxing of the new iPad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/iPad-3-retina.jpg)
 * The third-generation iPad, announced by Apple last week, is set to arrive at customer’s doors Friday and go on-sale in stores that morning at 8am. However, a few people in Hong Kong have gotten an early look at Apple’s new 10-inch creation and have unboxed the tablet for all of us to see. We also saw a few pictures taken with the camera earlier this morning.

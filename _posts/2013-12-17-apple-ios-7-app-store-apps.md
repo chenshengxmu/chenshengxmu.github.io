@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple- all new App Store submissions must be 'optimized for iOS 7' starting February 1
+title: Apple- all new App Store submissions must be optimized for iOS 7 starting February 1
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/iOS-7-teaser-iPhone-5s-ad-003.jpg)
 * Apple has published a new note on its developer portal this evening, announcing some upcoming changes to its App Store policy. Starting next year, all new App Store submissions must be built with the latest version of Xcode 5 and ‘optimized for iOS 7.’

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's App Store Hits 10 Billion Downloads
+title: Apples App Store Hits 10 Billion Downloads
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/01/10-Billion-Downloads-App-Store.png)
 * Well, it’s official. The Apple App Store has hit yet another milestone in record time, with over 10 billion downloads to its name. That’s truly an amazing feat for a merchandising method that didn’t exist just a few years ago.

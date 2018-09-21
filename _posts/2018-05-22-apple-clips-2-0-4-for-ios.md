@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Clips app gains soccer-themed graphics, poster & label
+title: Apples Clips app gains soccer-themed graphics, poster & label
 ---
 * The 21st FIFA World Cup is scheduled to take place in Russia from June 14 to July 15, 2018 so Apple’s conveniently updated its Clips video-editing software for iOS with related content.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/05/Apple-Clips-2018-FIFA-World-Cup-update.png)

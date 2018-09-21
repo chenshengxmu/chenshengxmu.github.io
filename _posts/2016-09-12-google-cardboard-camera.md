@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's new app lets you capture three-dimensional panoramas on your iPhone and iPad
+title: Googles new app lets you capture three-dimensional panoramas on your iPhone and iPad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/Cardboard-Camera-1.0-for-iOS-iPHone-screenshot-001.jpg)
 * Google today released a brand new camera application on the App Store, allowing iPhone, iPad and iPod touch users to take three-dimensional panoramas in 360-degree freedom. The interactive VR photography app is called Cardboard Camera and in addition to capturing 360-degree images, it also lets you share VR photos online and enjoy them in virtual reality with Google’s Cardboard and similar accessories along with VR photos taken by other people.

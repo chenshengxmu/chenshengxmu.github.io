@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ITC denies Apple's request for emergency import ban on 29 HTC devices
+title: ITC denies Apples request for emergency import ban on 29 HTC devices
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/htc-phones.jpg)
 * The U.S. International Trade Commission (ITC) denied Apple’s emergency request to temporary detain all shipments of 29 different HTC devices at the U.S. border, including the EVO 4G LTE and the flagship One X smartphone, Bloomberg reports. Apple last week demanded an emergency import ban of HTC phones, arguing the Taiwanese vendor lied to Customs in order to free up shipments…

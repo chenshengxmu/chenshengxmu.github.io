@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's arrogance blamed for low iPhone penetration in Russia
+title: Apples arrogance blamed for low iPhone penetration in Russia
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/MTC-iPhone-4S-16GB.jpg)
 * The iPhone is as popular in the nearly 150 million people market of the Russian Federation as it is elsewhere. However, unlike in the United States, Western Europe and in most other developed countries, Russian customers are expected to pay through their nose to get their hands on the sought-after device.

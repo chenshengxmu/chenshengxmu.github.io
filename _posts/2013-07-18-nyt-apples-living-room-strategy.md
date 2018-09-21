@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NYT spells out Apple's living room strategy
+title: NYT spells out Apples living room strategy
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/Apple-TV-Standing.jpg)
 * Apple’s plans for the living room have rested largely on the Apple TV the company’s leadership continues to call “a hobby project.” While there’s been talk that the tech giant could unveil its own television set, rumors of revamping the television experience have been greeted with industry concern and fruitless negotiations.

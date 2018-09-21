@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Trademarks the Phrase "There's an App For That"
+title: Apple Trademarks the Phrase Theres an App For That
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/10/TheresAnAppForThatHeader-e1286898804628.jpeg)
 * Apple’s trademark filing for their famous catchphrase, “There’s an App For That” has been approved by the United States Patent and Trademark Office. The patent is filed under the Advertising, Business and Retail Services, Computer and Software service and Scientific services categories.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Something even bigger" coming as Angry Birds Space clear 50M downloads
+title: Something even bigger coming as Angry Birds Space clear 50M downloads
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/angrybirdsspace.jpeg)
 * Angry Birds Space, the latest installment in the popular birds vs. pigs videogame series, has amassed more than 50 million downloads on all platforms in the 35 days since its March 22 launch, Rovio announced on Twitter this morning.

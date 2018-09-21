@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More details surface for Twitter's video feature- Shoot, edit, post videos from app
+title: More details surface for Twitters video feature- Shoot, edit, post videos from app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/twitter2.jpg)
 * Twitter plans to unveil its new video feature in the next few weeks, reports Recode, and apparently some of the past details shared were wrong. Instead of a 10 minute video limit for the Twitter Video service like previously believed, it will be closer to 20 seconds and actually have a lot of similarities to the six-second, Twitter-owned Vine.

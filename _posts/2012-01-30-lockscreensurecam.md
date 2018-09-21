@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LockscreenSureCam' Checks Before Launching the Camera App
+title: LockscreenSureCam Checks Before Launching the Camera App
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/LockscreenSureCam-Screenshot.jpg)
 * Do you have an ongoing issue with accidentally launching the Lock Screen camera in iOS 5? If so, then perhaps this is the jailbreak tweak for you.

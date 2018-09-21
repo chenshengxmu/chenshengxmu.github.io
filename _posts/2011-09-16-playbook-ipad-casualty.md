@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Analysts are Calling RIM's PlayBook Another iPad Casualty
+title: Analysts are Calling RIMs PlayBook Another iPad Casualty
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/Playbook-screen-e1316205024487.jpg)
 * Men lie, women lie, numbers don’t. Research in Motion once again reported dismal quarterly earnings yesterday that failed to meet Wall Street’s, and even the company’s own expectations.

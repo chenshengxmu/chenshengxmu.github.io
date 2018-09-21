@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You probably shouldn't update to watchOS 2 unless you're genuinely a developer
+title: You probably shouldnt update to watchOS 2 unless youre genuinely a developer
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/watchOS-2.png)
 * Every time a beta is released, we always provide tutorials for those of you who may be developers, but to be honest, we know that even some of you non-developers with paid access to developer accounts will upgrade to the betas as well. Of course, that’s your own decision.

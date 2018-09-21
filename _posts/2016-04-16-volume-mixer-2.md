@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Volume Mixer 2' lets you configure all volume settings in one interface
+title: Volume Mixer 2 lets you configure all volume settings in one interface
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/04/Volume-Mixer-2-Main-Image.png)
 * Your iOS device has multiple volume settings, and each one controls something different.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Matcha purchase believed to be over its content recommendation algorithms
+title: Apples Matcha purchase believed to be over its content recommendation algorithms
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/matcha-logo.png)
 * Earlier this week, news broke that Apple had purchased a small video discovery startup called Matcha. At one time, the service helped users find interesting TV shows and Movies based on their preferences, but it mysteriously went offline back in May.

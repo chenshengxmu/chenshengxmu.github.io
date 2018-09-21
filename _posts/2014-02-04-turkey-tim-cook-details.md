@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Unique' Istanbul Apple Store opening in April, Siri, R&D and more from Cook's Turkey tour
+title: Unique Istanbul Apple Store opening in April, Siri, R&D and more from Cooks Turkey tour
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/Tim-Cook-and-Abdullah-Gul.jpg)
 * Yesterday, Turkish government officially confirmed that Apple CEO Tim Cook was meeting President Abdullah Gül at the Çankaya Presidential Compound in Ankara to discuss a potential $4.5 billion iPad deal and other major initiatives and incentives in the 74 million people country.

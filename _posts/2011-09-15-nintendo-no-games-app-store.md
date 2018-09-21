@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nintendo- We're Not Making Games for the App Store
+title: Nintendo- Were Not Making Games for the App Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/iPhone-Nintendo.jpeg)
 * No Mario for you! That’s what Nintendo president Satoru Iwata is saying to iPhone, iPad and iPod touch users. Why? Because Nintendo refuses to make games for anything other than its own hardware. How lame.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kevin Rose- iOS 7 is 'very different' and 'a big change'
+title: Kevin Rose- iOS 7 is very different and a big change
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/iOS-7-teaser.jpg)
 * If you ask Digg co-founder and Google Ventures partner Kevin Rose, changes in iOS 7 are more than skin deep. Additionally, Rose in the latest episode of The Random Show makes claims – without divulging his sources – that WWDC will bring us updated MacBook Airs.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's SVP of Hardware Bob Mansfield is retiring
+title: Apples SVP of Hardware Bob Mansfield is retiring
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/bob-mansfield.png)
 * We don’t typically cover employee departures at Apple, but in this case, we figured it was definitely worth mentioning. Apple has announced this afternoon that its vice president of Mac and iOS hardware, Bob Mansfield, is retiring…

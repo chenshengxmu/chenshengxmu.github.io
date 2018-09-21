@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's What a 64GB iPhone 4 Looks Like on Video
+title: Heres What a 64GB iPhone 4 Looks Like on Video
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/03/64-GB-iPhone-4-01-e1299678880252.jpeg)
 * A couple of days ago we reported on a story revolving around a mysterious 64GB iPhone 4 that seemed to have sprung out of nowhere.

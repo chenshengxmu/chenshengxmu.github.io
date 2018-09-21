@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ashton Kutcher's 'Jobs' biopic opens to mixed reviews
+title: Ashton Kutchers Jobs biopic opens to mixed reviews
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/Ashton-Kutcher-and-Josh-Gad-USA-Today-001-e1376599170363.jpg)
 * After months of speculation, interviews, and movie clips, the highly anticipated ‘Jobs’ biopic starring Ashton Kutcher finally hit theaters today. And despite Open Road Film’s best marketing efforts, initial reviews are a mixed bag.

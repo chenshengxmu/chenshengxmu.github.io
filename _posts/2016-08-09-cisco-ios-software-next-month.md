@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cisco's software that optimizes iOS devices and apps for enterprise due next month
+title: Ciscos software that optimizes iOS devices and apps for enterprise due next month
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/08/Apple-Cisco-partnership-image-001.jpg)
 * The New York Times article headlined “Once Taunted by Steve Jobs, Companies Are Now Big Customers of Apple” contains an interesting side-note which claims that network giant Cisco is currently testing an upcoming software “that gives priority to mobile devices or apps” ahead of its unveiling next month.

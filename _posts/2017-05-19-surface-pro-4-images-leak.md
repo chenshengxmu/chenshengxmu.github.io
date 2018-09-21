@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Surface Pro 5 images leak ahead of Microsoft's May 23 event in Shanghai
+title: Surface Pro 5 images leak ahead of Microsofts May 23 event in Shanghai
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/05/Surface-Pro-5-side-image-001.jpg)
 * Yesterday, prolific leakster Evan Blass posted a bunch of purported press shots of Microsoft’s unreleased Surface Pro 5 tablet/notebook hybrid. The company’s upcoming Windows 10 device should be re-christened as “Surface Pro”.

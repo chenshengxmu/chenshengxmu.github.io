@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook says Apple's working on new products that "will blow our minds"
+title: Tim Cook says Apples working on new products that will blow our minds
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/tim-cook-presenting.jpg)
 * Apple hosted its annual shareholder’s meeting yesterday in Cupertino, California. This marked the first time that Tim Cook addressed the company’s board and its investors as Apple’s CEO.

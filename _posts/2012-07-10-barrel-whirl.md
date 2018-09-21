@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Popular 'Barrel' tweak updated with new mode
+title: Popular Barrel tweak updated with new mode
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/Barrel-Whirl-Screenshot-e1341869787415.png)
 * All you have to do is just say the word Barrel, and people take note. Yes, Barrel, the staple jailbreak tweak, and arguably one of the most compelling reasons for jailbreaking your iDevice when it comes to visual modifications, has been updated.

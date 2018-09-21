@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's mobile app gains keyboard shortcuts, busiest hours in search results & more
+title: Googles mobile app gains keyboard shortcuts, busiest hours in search results & more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/Google-15.0-for-iOS-busiest-hours-in-search-results-iPhone-screenshot-001.png)
 * Google’s native search app for iPhone, iPod touch and iPad today received a pretty significant update on the App Store, bringing the app to version 15.0.

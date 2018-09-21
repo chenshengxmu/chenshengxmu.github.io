@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Claimed unlocked iPhone 5 prices show up on Apple's website
+title: Claimed unlocked iPhone 5 prices show up on Apples website
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/unlocked-iphone-5.png)
 * While Apple offers unlocked iPhone 5s in Canada and other countries, it has yet to give buyers inside the US that option. So unless you go through a third party vendor, you can’t get an unlocked iPhone 5 here in the States.

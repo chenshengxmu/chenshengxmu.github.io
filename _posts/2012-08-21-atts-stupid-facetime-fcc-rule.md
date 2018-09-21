@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T's FaceTime limits could violate FCC rules
+title: AT&Ts FaceTime limits could violate FCC rules
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/ATT-FaceTime-Cellular-e1345540610382.jpg)
 * AT&T sent shockwaves through the tech community last week when it announced its future plans for iOS 6’s new FaceTime over Cellular feature. The good news is that it won’t be charging separately for the service, but the bad news is only customers on its new Mobile Share data plans will be able to use it.

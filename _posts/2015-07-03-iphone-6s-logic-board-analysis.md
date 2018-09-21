@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Analysis of 'iPhone 6s’ logic board suggests improved NFC, 16GB base model and more
+title: Analysis of iPhone 6s’ logic board suggests improved NFC, 16GB base model and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/07/iPhone-6s-Qualcomm-MDM9625M-leak-002.jpg)
 * A leaked logic board has already offered a valuable insight into some of the many hardware enhancements in Apple’s upcoming ‘iPhone 6s’ and ‘iPhone 6s Plus’ refreshes. Thus far, we have learned about Qualcomm’s new baseband modem which doubles LTE download speeds, a slightly thicker enclosure to accommodate Force Touch sensors and possibly a higher-resolution Retina screen.

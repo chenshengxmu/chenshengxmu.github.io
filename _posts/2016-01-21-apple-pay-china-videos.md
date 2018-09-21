@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Pay's China launch could be imminent
+title: Apple Pays China launch could be imminent
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/12/apple-pay-header.png)
 * In December 2015, Apple officially confirmed plans to roll out its mobile payment service in China in co-operation with UnionPay, as soon as early-2016. Well, here we are in 2016 and a pair of videos discovered by MacRumors gives us a good indication that Apple Pay might be on the verge of launching in the 1.33 billion people market.

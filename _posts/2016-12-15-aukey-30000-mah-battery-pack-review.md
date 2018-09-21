@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aukey's 30,000 mAh battery pack stores lots of power and charges with Lightning
+title: Aukeys 30,000 mAh battery pack stores lots of power and charges with Lightning
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/12/Aukey-30000-mah-battery-pack-with-iPhone.png)
 * There are a ton of battery packs out there, and we just showed you a couple of very stout options from Anker last month, but for those who need even more juice, Aukey has a versatile 30,000 mAh battery pack with handy unique features.

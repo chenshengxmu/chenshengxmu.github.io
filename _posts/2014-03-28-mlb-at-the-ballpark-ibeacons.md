@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'At the Ballpark' app updated with new iOS 7 design and iBeacon support
+title: At the Ballpark app updated with new iOS 7 design and iBeacon support
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/mlb-2.png)
 * Baseball fans will be happy to hear that MLB.com has updated its At the Ballpark iOS app this morning. The update brings the client to version 3.o, and features an all-new design for iOS 7 and support for Apple’s new ‘iBeacon’ tech that will be available in select ballparks this year.

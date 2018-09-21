@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple is opening a development office in India's Hyderabad to support Maps development
+title: Apple is opening a development office in Indias Hyderabad to support Maps development
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/iOS-9-Apple-Maps-Nearby-teaser-001.jpg)
 * The 1.25 billion people market of India is estimated to soon become the world’s top smartphone market and is already one of Apple’s most important markets despite the fact that the Cupertino firm is yet to open its first branded store in the country.

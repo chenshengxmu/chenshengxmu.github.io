@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The verdict is in- Samsung guilty of infringing on Apple's patents
+title: The verdict is in- Samsung guilty of infringing on Apples patents
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/courtroom-gavel.jpg)
 * The ongoing legal battle between the world’s two largest phone manufacturers isn’t anything new. For over a year now, both companies have been fighting on the marketplace, but also in the courtroom.

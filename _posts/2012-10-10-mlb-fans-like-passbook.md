@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MLB says it's seen impressive Passbook adoption thus far
+title: MLB says its seen impressive Passbook adoption thus far
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/20120919-192752-600x450.jpg)
 * When Apple unveiled its new Passbook app this summer, the tech world, for the most part, wasn’t sure what to make of it. It seemed like a good idea on paper, but would companies, and more importantly users, take advantage of it?

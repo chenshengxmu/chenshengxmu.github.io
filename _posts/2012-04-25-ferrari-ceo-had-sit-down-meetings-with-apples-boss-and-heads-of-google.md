@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ferrari CEO had sit-down meetings with Apple's boss and heads of Google
+title: Ferrari CEO had sit-down meetings with Apples boss and heads of Google
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/Ferrari-logo.jpg)
 * Don’t hit the comments yet, this is nothing like the false Valve rumor. A surprising report straight from Ferrari’s website has it that Apple CEO Tim Cook along with heads of Google sat down for a two-hour chat with Ferrari CEO Luca di Montezemolo.

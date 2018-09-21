@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple updates 12" MacBook with faster CPU/GPU, Rose Gold model, longer battery life & more
+title: Apple updates 12 MacBook with faster CPU/GPU, Rose Gold model, longer battery life & more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/04/MacBook-twelve-inch-early-2016-family-image-002.jpg)
 * Apple on Tuesday via a press release and a website update announced a second-generation twelve-inch MacBook with Intel’s latest Skylake chips with faster graphics, a longer battery life, faster flash storage, a brand new Rose Gold color option and more.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's Chrome iOS browser gains Passbook support, better PDF handling
+title: Googles Chrome iOS browser gains Passbook support, better PDF handling
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/Chrome-for-iOS-iPhone-screenshot-0091.jpg)
 * Hot on the heels of rolling out the improved Drive app with spreadsheet editing capabilities, Google today also refreshed its excellent Chrome browser for the iPhone and iPad. Google Chrome version 23.0.1271.91 (seriously? what’s up with the versioning scheme?) is now available for download, bringing with it support for Apple’s Passbook app on iOS 6 devices, better handling of PDF documents in external applications, new text encoding setting and more. Jump past the fold for your changelog and more tidbits…

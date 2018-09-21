@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TSMC to build Apple's in-house designed AMOLED driver chips for 10th Anniversary iPhone
+title: TSMC to build Apples in-house designed AMOLED driver chips for 10th Anniversary iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/TSMC-Taiwan-facility-001.jpg)
 * TSMC is believed to have secured orders for an Apple-designed ‘A11’ system-on-a-chip expected to power so-called Tenth Anniversary iPhone and new iPads in 2017, trade publication DigiTimes reports. The chip should be fabricated on TSMC’s ten-nanometer process technology and use its backend integrated fan-out (InFO) wafer-level packaging technology. Additionally, TSMC should build Apple-designed circuitry to drive 2017 iPhone’s AMOLED panel.

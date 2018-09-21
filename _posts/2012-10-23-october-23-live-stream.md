@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple will also live stream today's iPad mini event via its home page
+title: Apple will also live stream todays iPad mini event via its home page
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/iPad-mini-event-teaser.jpg)
 * Apple earlier today updated the Apple TV interface with a new Apple Events section which contains a link to a live stream of today’s iPad mini press conference. The move prompting somewhat unusual speculation that the company will only provide a live stream as a courtesy to Apple TV owners. We provided some workaround solution at the bottom of this post and now Apple has made it official: you will be able to enjoy the live stream on either your Apple TV or by opening a page on Apple’s web site using the Safari browser on your iPhone, iPod touch, iPad, Mac or Windows PC…

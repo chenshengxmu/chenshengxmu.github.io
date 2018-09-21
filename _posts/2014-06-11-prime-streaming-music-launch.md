@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amazon said to be launching 'Prime' streaming music service this week
+title: Amazon said to be launching Prime streaming music service this week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/amazon-header.jpg)
 * The New York Post is reporting today that Amazon is ready to launch its new streaming music service this week. The outlet says the e-commerce giant has 2 of 3 major record labels on board, and we could see the service as early as tomorrow.

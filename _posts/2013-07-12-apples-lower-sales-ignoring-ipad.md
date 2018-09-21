@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's lower Mac sales created by ignoring iPad demand
+title: Apples lower Mac sales created by ignoring iPad demand
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/MacBook-Air-teaser-001.png)
 * When is a tablet a PC? When it’s running Windows 8. Conversely, when is a tablet not a PC? When it bears the Apple logo. In a second quarter littered with negative sales figures, it took some fancy footwork to lump Apple Mac shipments in with an industry decline that’s lasted five quarters.

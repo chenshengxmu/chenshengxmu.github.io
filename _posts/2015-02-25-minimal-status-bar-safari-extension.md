@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to make Safari for Mac's status bar more minimal and useful
+title: How to make Safari for Macs status bar more minimal and useful
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/Safari-for-Mac-extension-Minimal-Status-Bar-screenshot-003.png)
 * I like my browsers minimal. Safari for Mac admittedly boasts an aesthetically pleasing, clutter-free interface. But if there’s one thing I’ve always hated about Apple’s browsers, it’s that status bar at the bottom of the Safari window.

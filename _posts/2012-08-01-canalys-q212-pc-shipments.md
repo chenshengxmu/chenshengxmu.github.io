@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPad's popularity pushes Apple to 19 percent share of global PC shipments
+title: iPads popularity pushes Apple to 19 percent share of global PC shipments
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/03/Apple-Store-Line-iPad.jpg)
 * If you count iPads as PCs, as research firm Canalys does, Apple had the biggest single impact on growth rates in worldwide PC shipments during the second quarter of this year, surging to a cool 19 percent global market share. In fact, if it weren’t for Apple’s tablet, shipments of desktops, netbooks, notebooks and tablets would have probably experienced a decline rather than a solid twelve percent year-on-year growth.

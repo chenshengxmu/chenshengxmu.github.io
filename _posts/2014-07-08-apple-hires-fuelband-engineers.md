@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple picks up two engineers from Nike's FuelBand team
+title: Apple picks up two engineers from Nikes FuelBand team
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/ryan-bailey-.png)
 * A few months ago, word got out that Nike was significantly downsizing its FuelBand team. The company’s CEO later confirmed the move, saying that it would be transitioning the focus of its FuelBand project from hardware to software.

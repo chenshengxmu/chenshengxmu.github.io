@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sketchy photos claim to show budget 'iPhone 5C' packaging
+title: Sketchy photos claim to show budget iPhone 5C packaging
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/iPhone5C.jpg)
 * A new set of photos hit the web this morning, showing a number of boxes with the label ‘iPhone 5C’ on the side. Our first instinct is, of course, that these boxes belong to one of the many iPhone clones circulating about Asia. But on the off chance that there’s more to it than that, we’ve posted them.

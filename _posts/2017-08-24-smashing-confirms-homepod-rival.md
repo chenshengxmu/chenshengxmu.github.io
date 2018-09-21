@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung confirms working on HomePod rival that'll “provide a fruitful user experience”
+title: Samsung confirms working on HomePod rival thatll “provide a fruitful user experience”
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/homepod-pricing.jpg)
 * Samsung yesterday publicly corroborated rumors that it has been working on an unnamed HomePod competitor that will likely use the company’s Bixby personal assistant and provide “a fruitful user experience” at home with Samsung devices.

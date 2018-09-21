@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Eddy Cue- today's TV experience sucks
+title: Eddy Cue- todays TV experience sucks
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/code-20140528-204045-9227.jpg)
 * Last night, Apple’s Eddy Cue (and Jimmy Iovine) joined Recode’s Walt Mossberg and Kara Swisher on stage at the Code Conference to discuss a wide range of topics. The focus was obviously on the recently announced Beats acquisition, but as you can imagine, other interesting stuff came up as well.

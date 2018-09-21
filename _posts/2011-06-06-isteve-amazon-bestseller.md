@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Steve Jobs Biography 'iSteve' Tops Best Seller Charts And It's Only A Pre-Order!
+title: Steve Jobs Biography iSteve Tops Best Seller Charts And Its Only A Pre-Order!
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/iSteve-Front-Cover.png)
 * If there’s one thing us geeks like more than a celebrity CEO, it’s a book about one. With that in mind it’s perhaps not a great surprise that the biography of Steve Jobs is already a Bestseller across multiple categories for Amazon – and it’s not even out yet.

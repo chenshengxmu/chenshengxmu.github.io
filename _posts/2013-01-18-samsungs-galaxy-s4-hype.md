@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung's Galaxy S IV seen building iPhone-like hype
+title: Samsungs Galaxy S IV seen building iPhone-like hype
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/samsung-galaxy-s4-concept.jpg)
 * The Wall Street Journal published an interesting article today by Evan Ramstad entitled “Hype Builds for Smartphone, but It Isn’t an Apple Device.” Essentially, the whole piece is about how the commotion surrounding Samsung’s upcoming Galaxy S IV handset is reaching iPhone-like proportions.

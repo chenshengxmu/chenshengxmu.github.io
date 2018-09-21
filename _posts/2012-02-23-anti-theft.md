@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Anti-Theft' sounds an alarm when your iPhone is stolen
+title: Anti-Theft sounds an alarm when your iPhone is stolen
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/Anti-Theft-Screenshot.jpg)
 * Afraid a thief might try to snag your iPhone while out an about? Well, don’t look for Anti-Theft to help you. By the time you hear the alarm sounded by this jailbreak tweak, any such thief will be long gone.

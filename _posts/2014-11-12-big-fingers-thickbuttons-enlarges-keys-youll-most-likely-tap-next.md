@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Big fingers? ThickButtons enlarges keys you'll most likely tap next
+title: Big fingers? ThickButtons enlarges keys youll most likely tap next
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/11/ThickButtons-1.0-for-iOS-teaser-002.png)
 * Lviv, Ukraine based custom software development company N-iX, founded by Andrew Pavliv, has created a nice keyboard for iPhones, iPads and iPods running iOS 8 through its spin-off firm.

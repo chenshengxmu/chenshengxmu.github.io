@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It's Official- the iPad is the Best Selling Gadget Ever
+title: Its Official- the iPad is the Best Selling Gadget Ever
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/10/iPad-is-King.jpg)
 * Yes folks, this is official… With over 8.5 million units sold in less than 6 months, the iPad os the best selling gadget ever made, at least according to Bernstein Research. a financial firm that tracks iPad sales.

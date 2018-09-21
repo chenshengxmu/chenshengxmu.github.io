@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We're Giving Away 5 Copies of Springtomize 2
+title: Were Giving Away 5 Copies of Springtomize 2
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/Springtomize-2-Giveaway.jpg)
 * Yesterday the highly anticipated Springtomize 2 was officially released. To celebrate, we’ve partnered with developer Filippo Bigarella to give back to the jailbreak community.

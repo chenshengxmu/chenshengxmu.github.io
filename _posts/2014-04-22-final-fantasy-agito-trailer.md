@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Square Enix posts new trailer for upcoming 'Final Fantasy Agito' game
+title: Square Enix posts new trailer for upcoming Final Fantasy Agito game
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/final-fantasy-agito.png)
 * Great news this morning for all of you Final Fantasy fans. Following the release of Hitman Go last week, Square Enix has posted a new trailer for its upcoming free-to-play game: ‘Final Fantasy Agito.’ It’s going to be an RPG title, made specifically for smartphones and tablets.

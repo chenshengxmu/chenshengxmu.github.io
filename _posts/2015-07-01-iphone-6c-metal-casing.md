@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Analyst- 'iPhone 6c' to replace polycarbonate shell with metal casing based on iPhone 6 style
+title: Analyst- iPhone 6c to replace polycarbonate shell with metal casing based on iPhone 6 style
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/iPhone-5c-Blue-summer-wall-splash.png)
 * According to Jefferies analyst Ange Wu, Apple’s next iteration of the the “unapologetically plastic” iPhone 5c will do away with its polycarbonate shell in favor of a more robust metal casing based on iPhone 6 style.

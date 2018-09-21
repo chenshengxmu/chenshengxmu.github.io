@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Siri Isn't as Awesome For Users Outside of the US
+title: Siri Isnt as Awesome For Users Outside of the US
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/siri-worldwide.jpeg)
 * The stand-out iPhone 4S feature has to be Siri, Apple’s take on the virtual assistant. There’s something to be said for asking your iPhone questions or issuing commands, and having it go off and do the work.

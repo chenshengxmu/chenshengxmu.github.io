@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This tweak lets you use 3D Touch to measure an object's weight
+title: This tweak lets you use 3D Touch to measure an objects weight
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/grams-measuring-weight-with-3d-touch.jpg)
 * 3D Touch gives iPhone 6s users tons of new features throughout the iOS operating system out of the box, but that’s not keeping the jailbreak community from coming up with incredible new uses for it.

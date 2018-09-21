@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What to do if your iPhone sound isn't working or sounds muffled
+title: What to do if your iPhone sound isnt working or sounds muffled
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/FullSizeRender.jpg)
 * Your iPhone, iPad, or iPod touch all have a built-in speaker system that allows you to hear sounds when you play videos, music, or take phone calls. Although some devices have more speakers than others, that’s not to say that you will never have a problem with any of them.

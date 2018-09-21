@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Watch reportedly has 'power reserve' mode, displaying only time
+title: Apple Watch reportedly has power reserve mode, displaying only time
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/Apple-Watch-Cult-of-Mac-001.jpg)
 * The New York Times reports the Apple Watch will feature “Power Reserve” functionality, in order to stretch the wearable’s battery longer and make for less frequent charging.

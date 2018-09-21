@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Journalist tours Foxconn's Shenzhen campus
+title: Journalist tours Foxconns Shenzhen campus
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/Foxconn4-thumb-620x401-102212-e1375086956678.png)
 * If you were to ask someone what they thought of Foxconn today, chances are their response would be negative. And for good reason. Over the past few years, we’ve heard horror stories about the manufacturing giant regarding terrible working conditions and child labor, and we’ve seen the pictures of the windows with prison bars and the suicide nets.

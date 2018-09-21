@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cydia's ModMyi and ZodTTD/MacCiti repositories become permanently archived
+title: Cydias ModMyi and ZodTTD/MacCiti repositories become permanently archived
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/07/Delete-Cydia.png)
 * In a tear-jerking turn of events for the jailbreak community, both the ModMyi and ZodTTD/MacCiti repositories have formally announced that they’ve closed their doors to new package submissions.

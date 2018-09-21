@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Despite Android's gains, iPhone and iPad still account for 59% of mobile web usage
+title: Despite Androids gains, iPhone and iPad still account for 59% of mobile web usage
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/NetApplications-mobile-web-share-Q120130.png)
 * Despite Apple’s iPad growing 65.3 percent year over year, the company’s share of the total tablet market dropped from the 58.1 percent a year ago to an IDC-estimated 39.6 percent during the first quarter of this year, largely thanks to Apple not participating in the sub-$300 segment.

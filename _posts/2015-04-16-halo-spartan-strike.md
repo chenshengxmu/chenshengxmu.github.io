@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft's Halo- Spartan Strike and Halo- Spartan Assault hit iOS
+title: Microsofts Halo- Spartan Strike and Halo- Spartan Assault hit iOS
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/04/Halo-Spartan-Strike-1.0-for-iOS-iPhone-screenshot-002.jpeg)
 * Thursday, Microsoft Studios unleashed a pair of new triple-A games for the iPhone and iPad unto the App Store. Both Halo: Spartan Strike and Halo: Spartan Assault pit you against an insurmountable Covenant force and are now available at $5.99 each.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple TV's Siri can now tune you in to live broadcasts in supported apps
+title: Apple TVs Siri can now tune you in to live broadcasts in supported apps
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/04/tvOS-9.2-Live-Tune-In-splash-screen-Apple-TV-screenshot-001.jpg)
 * Apple has enhanced the tvOS operating system via a silent backend update that now permits users to ask Siri to tune in to live broadcasts in supported apps such as Disney XD, ESPN and CBS, the latter having gained integration with the Apple TV’s universal search feature yesterday.

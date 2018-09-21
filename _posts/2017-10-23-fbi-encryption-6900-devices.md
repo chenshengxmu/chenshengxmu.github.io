@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FBI couldn't retrieve data from more than half of the mobile devices it attempted to break into
+title: FBI couldnt retrieve data from more than half of the mobile devices it attempted to break into
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/02/apple_vs_fbi.jpg)
 * The United States Federal Bureau of Investigation (FBI) has failed to extract any data or personal information from nearly 7,000 devices because of strong encryption.

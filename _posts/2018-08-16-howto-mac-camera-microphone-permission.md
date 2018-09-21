@@ -1,6 +1,6 @@
 ---
 layout: post
-title: macOS Mojave- stopping apps from accessing your Mac's mic & camera
+title: macOS Mojave- stopping apps from accessing your Macs mic & camera
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/macOS-Mojave-QuickTime-Player-no-camera-permission.jpg)
 * macOS Mojave strengthens user security and privacy by barring apps from using the built-in FaceTime camera or microphone without your explicit consent. Here’s how to review and manage which Mac apps are permitted to access your computer’s camera or microphone.

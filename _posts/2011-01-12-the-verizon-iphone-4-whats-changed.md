@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Verizon iPhone 4, What's Changed?
+title: The Verizon iPhone 4, Whats Changed?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/01/Verizon-iPhone-4-hands-on-side-by-side-top-1-slashgear1-580x266.jpg)
 * Wondering what the differences between the Verizon iPhone 4 and the AT&T version are? Well maybe we can clarify a few things for you. For starters, let’s talk appearance. The volume and ringer mute buttons have been moved, to accommodate the new antenna design (see extra notch above mute button). Current bumpers and cases with just a hole for the side controls will not fit the Verizon iPhone 4 model.

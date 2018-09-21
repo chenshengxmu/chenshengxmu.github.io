@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's patent pact with HTC auto-terminates if either party is bought
+title: Apples patent pact with HTC auto-terminates if either party is bought
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/htc_apple.jpeg)
 * Apple’s worldwide patent settlement with HTC is set to automatically expire should either firm get acquired by a third-party, patent blogger Florian Müeller discovered combing through court documents. Even more so, a so-called “change of control” clause is mostly beneficial to Apple given its $110+ billion cash pile making Silicon Valley’s most powerful company literally unlikely to be snapped up any time soon.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple to release iOS 7.1 'any day now' with support for SXSW iTunes Festival app
+title: Apple to release iOS 7.1 any day now with support for SXSW iTunes Festival app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/iOS-7-icon-large.png)
 * The highly-anticipated iOS 7.1 update could be landing any day now, according to a new report by Daring Fireball’s John Gruber. The long-time Apple speculator and dot-connector has in the past proven to have knowledgeable sources that work inside the company.

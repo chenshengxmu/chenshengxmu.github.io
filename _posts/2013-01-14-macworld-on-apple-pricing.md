@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Macworld takes a look at Apple's pricing strategy
+title: Macworld takes a look at Apples pricing strategy
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/iPhone-5-in-Apple-Store.jpg)
 * Marco Tabini of Macworld takes an interesting look today at how Apple manages to keep the prices on its products, and subsequently its profits, so much higher than other manufacturers. It turns out, the company uses a unique, two-pronged pricing strategy.

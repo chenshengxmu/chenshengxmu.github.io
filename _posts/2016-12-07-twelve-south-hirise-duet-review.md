@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twelve South's HiRise Duet keeps your iPhone and Apple Watch charged simultaneously
+title: Twelve Souths HiRise Duet keeps your iPhone and Apple Watch charged simultaneously
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/11/Twelve-South-HiRise-Duet-Full.png)
 * When you’re a proud owner of both an iPhone and an Apple Watch, you might feel reluctant to have two separate charging docks, each with their own separate wires running across your desk to keep them charged.

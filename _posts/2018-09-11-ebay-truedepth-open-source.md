@@ -1,6 +1,6 @@
 ---
 layout: post
-title: eBay's HeadGaze technology responds to head motion using Apple's TrueDepth camera
+title: eBays HeadGaze technology responds to head motion using Apples TrueDepth camera
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-10-at-10.30.15-AM.png)
 * eBay has announced a new open source technology that could make it easier for people with motor impairments to shop or move around apps. HeadGaze uses Apple’s TrueDepth camera alongside Apple ARKit to allow you to navigate an app using your head motion. 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NYT backs iPad mini, says Apple's first tablet prototype was a seven incher
+title: NYT backs iPad mini, says Apples first tablet prototype was a seven incher
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/iPad-Mini-comparison-t.jpg)
 * The Wall Street Journal was the first of big media outlets to report back in April that a new iPad model with a smaller eight-inch display was in the works.

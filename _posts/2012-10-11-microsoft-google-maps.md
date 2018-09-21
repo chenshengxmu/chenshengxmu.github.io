@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft targets Android's Google Maps app in German patent lawsuit
+title: Microsoft targets Androids Google Maps app in German patent lawsuit
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/Google-Microsoft-fight-001.jpg)
 * Google’s pricey $12.5 acquisition of handset maker Motorola Mobility didn’t change the dynamics of patent wars as Google hoped it would. Recently, Microsoft and Apple scored a major win in a patent dispute in Germany, forcing Google’s Motorola subsidiary to pull all of its Android-based smartphones and tablets from store shelves in the country.

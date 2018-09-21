@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is Your iPhone Alarm Still Not Working? You're Not Alone. Here's how to fix it.
+title: Is Your iPhone Alarm Still Not Working? Youre Not Alone. Heres how to fix it.
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/01/iPhone-Alarm-Bug.png)
 * ﻿On January 1st, we warned you that you should probably set a second alarm for the next morning. A new iPhone clock bug was turning off non-reoccurring alarms in the built-in clock app. This was affecting those who use their iPhone’s alarm functionality for important things, like waking up in the morning. People were missing work and other important appointments.

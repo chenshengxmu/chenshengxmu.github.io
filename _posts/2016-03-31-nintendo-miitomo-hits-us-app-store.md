@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mittomo, Nintendo's first app designed for iOS devices, hits US App Store
+title: Mittomo, Nintendos first app designed for iOS devices, hits US App Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/Nintendo-Miitomo-for-iOS-iPhone-screenshot.jpg)
 * As promised, Japanese gaming giant Nintendo today released its first app designed for iOS devices, Miitomo, in the App Store in the United States and elsewhere following a recent soft-launch in the Japanese App Store.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple clarifies why iOS 11 Control Center toggles don't fully disable Bluetooth and Wi-Fi
+title: Apple clarifies why iOS 11 Control Center toggles dont fully disable Bluetooth and Wi-Fi
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/WWDC-2017-redesigned-control-center.jpg)
 * According to Apple itself, using iOS 11’s much improved Control Center to toggle off Wi-Fi and Bluetooth does not fully disable them.

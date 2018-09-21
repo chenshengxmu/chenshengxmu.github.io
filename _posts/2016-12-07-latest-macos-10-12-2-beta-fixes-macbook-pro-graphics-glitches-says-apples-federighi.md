@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Latest macOS 10.12.2 beta fixes MacBook Pro graphics glitches, says Apple's Federighi
+title: Latest macOS 10.12.2 beta fixes MacBook Pro graphics glitches, says Apples Federighi
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/MacBook-Pro-Touch-Bar-emoji-003.jpg)
 * An annoying graphics glitching issue that some owners of the new MacBook Pro are seeing should become a thing of the past when macOS 10.12.2 Sierra software update releases for public consumption, according to a purported email message from Apple’s software boss Craig Federighi.

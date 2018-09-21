@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Another Microsoft ad disses iPad's specs, multitasking, AirPrint and more
+title: Another Microsoft ad disses iPads specs, multitasking, AirPrint and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/Microsoft-iPad-ad-teaser-001.jpg)
 * Wow, that was quick. Following on yesterday’s Windows 8 commercial which uses Apple’s Siri to highlight the iPad’s perceived flaws – such as its $499 price point versus an Asus VivoTab Smart and lack of Office (go figure), the Redmond-based software giant today release another ad along the same lines.

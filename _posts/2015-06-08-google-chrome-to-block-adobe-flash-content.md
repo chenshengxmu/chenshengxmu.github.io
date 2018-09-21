@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to enable Google Chrome's new MacBook battery-saving feature
+title: How to enable Google Chromes new MacBook battery-saving feature
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Google-Chrome-logo-medium.png)
 * There’s no denying Google Chrome is brutal on notebook battery life. Don’t get me wrong, Chrome is a great browser and used to be my daily driver.

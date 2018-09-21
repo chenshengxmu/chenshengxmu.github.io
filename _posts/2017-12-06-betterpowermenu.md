@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BetterPowerMenu gives your iPhone's power down menu a new look and feel
+title: BetterPowerMenu gives your iPhones power down menu a new look and feel
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/BetterPowerMenu-Before-and-After.jpg)
 * Anyone with a jailbroken iOS 10 device presumably avoids the power down menu because of their semi-untethered jailbreak. On the other hand, a new free jailbreak tweak called BetterPowerMenu iOS developer Huub Lubbers can change that.

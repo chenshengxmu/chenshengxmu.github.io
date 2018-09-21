@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 6 can pull someone's full name and Facebook photo based on a phone number alone
+title: iOS 6 can pull someones full name and Facebook photo based on a phone number alone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/iOS-6-Facebook-integration-Contacts.jpg)
 * I’m risking of stating the obvious with this one, but I’d bet my shirt many of your were unaware of this little trick. As you know, Facebook integration in iOS 6 and OS X Mountain Lion can automagically update photos and user names for all matching contacts. What you may not have known is that Apple only needs a person’s phone number to pull this data.

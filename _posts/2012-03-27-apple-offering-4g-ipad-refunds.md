@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple now offering refunds in Australia to "misled" 4G iPad buyers
+title: Apple now offering refunds in Australia to misled 4G iPad buyers
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/LTE-iPad-3-.png)
 * Well that didn’t take long. It was just this morning that we reported that the ACCC (Australian Competition and Consumer Commission) was taking legal action against Apple for “misleading” Australian customers with its 4G iPad advertising.

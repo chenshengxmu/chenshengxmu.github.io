@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Speck's Presidio cases offer scratch and drop protection for your new MacBook Pro
+title: Specks Presidio cases offer scratch and drop protection for your new MacBook Pro
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/01/Presidio-Clear-MacBook-Pro.jpg)
 * Apart from the colorful array of iPhone case offerings Speck is known for, they’re also fabled for their popular transparent MacBook Pro cases, which are built to prevent scuffing across your computer’s metallic surface while you travel with it.

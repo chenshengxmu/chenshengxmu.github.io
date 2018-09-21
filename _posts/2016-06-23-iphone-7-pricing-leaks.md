@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Purported iPhone 7 pricing leaks- 256GB version across all models, 'iPhone 7 Pro' mentioned
+title: Purported iPhone 7 pricing leaks- 256GB version across all models, iPhone 7 Pro mentioned
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/iPhone-7-price-list-China.png)
 * Citing a post on Chinese social network Weibo, PocketNow reported this morning that the flagship 256-gigabyte version of the iPhone 7 Plus could price-match the top-of-the-line 128-gigabyte iPhone 6s Plus model. According to the leaked pricing, the next iPhone lineup would include 32/64/256GB models for the 4.7-inch iPhone 7.

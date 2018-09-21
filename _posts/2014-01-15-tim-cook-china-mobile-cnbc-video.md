@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook goes on television to hype 'watershed' iPhone deal with China Mobile
+title: Tim Cook goes on television to hype watershed iPhone deal with China Mobile
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/101336841-cook_china_mobile.530x298.jpeg)
 * Adamant to tell the world about his company’s landmark iPhone deal with the world’s top carrier, China Mobile, Apple CEO Tim Cook did a rare move Wednesday by sitting down with CNBC to talk the specifics of the agreement in a high-profile television appearance.

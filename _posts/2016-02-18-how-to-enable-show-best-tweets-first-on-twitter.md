@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to enable 'Show me the best tweets first' on Twitter
+title: How to enable Show me the best tweets first on Twitter
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/11/Twitter-bird-logo-medium.png)
 * Twitter recently unveiled a new feature that lets you elect to have the service surface new and interesting content at the top of your timeline since your last visit.

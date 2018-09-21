@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Taylor Swift's blockbuster album '1989' will stream on Apple Music
+title: Taylor Swifts blockbuster album 1989 will stream on Apple Music
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/Taylor-Swift-1989-album-cover-full-size.jpg)
 * Well, good PR doesn’t get any better than this. Following a week of back and forth between Apple and Taylor Swift over royalty payments during Apple Music’s free trial, the popular pop musician and actress said her top-selling album “1989” will stream on Apple’s service, which launches next Tuesday.

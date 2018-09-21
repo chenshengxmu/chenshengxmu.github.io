@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple buys hit TV segment 'Carpool Karaoke' for Apple Music
+title: Apple buys hit TV segment Carpool Karaoke for Apple Music
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/07/carpool.jpg)
 * Apple has purchased the rights to turn Carpool Karaoke—the viral segment that broke out on the Late Late Show With James Corden—into its own series, reports The Hollywood Reporter. It plans to develop 16 episodes, that will stream weekly on Apple Music.

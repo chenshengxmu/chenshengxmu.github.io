@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bing's iOS apps get a facelift, translate extension now available on iPad
+title: Bings iOS apps get a facelift, translate extension now available on iPad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/Bing-5.1-for-iOS-iPhone-screenshot.png)
 * Microsoft’s mobile Bing apps for the iPhone and iPad are getting a major makeover today, with the translate extension that debuted in the iPhone app two months ago at last available on iPads.

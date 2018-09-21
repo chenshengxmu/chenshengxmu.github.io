@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft's new Mac to Surface Assistant does exactly what the name says
+title: Microsofts new Mac to Surface Assistant does exactly what the name says
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/03/Microsoft-Mac-to-Surface-assistant-screenshot-005.png)
 * Microsoft is simplifying the process of moving your Mac stuff over to the Surface laptop/tablet hybrid devices. As noted on Twitter three days ago, the Windows maker recently released a brand new app, Mac to Surface Assistant, provided as a free download from the Microsoft website. The migration tool requires an external USB drive and lets Apple users move all their photos, videos, music, mails, contacts, calendars and other files from a Mac to a Surface with a few clicks.

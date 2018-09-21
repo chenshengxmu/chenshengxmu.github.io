@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile's new 4G LTE CellSpot launches Wednesday, free for Simple Choice customers
+title: T-Mobiles new 4G LTE CellSpot launches Wednesday, free for Simple Choice customers
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/11/T-Mobile-CellSpot-image-001.jpg)
 * Wireless carrier T-Mobile today introduced a new home device designed to provide a strong, reliable wireless 4G LTE signal for customers with or without an indoor cellular signal.

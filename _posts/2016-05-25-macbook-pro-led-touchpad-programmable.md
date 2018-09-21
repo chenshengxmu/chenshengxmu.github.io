@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's why an OLED touch bar would make a stellar addition to the MacBook Pro
+title: Heres why an OLED touch bar would make a stellar addition to the MacBook Pro
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/MacBook-Pro-keyboard-backlit-001.jpg)
 * KGI Securities analyst Ming-Chi Kuo has caused quite a stir among the faithful with yesterday’s research note in which he predicted a major redesign for the MacBook Pro. He claims the refresh includes, among other features, an OLED display touch bar replacing the physical function keys, which are located above the keyboard on current machines.

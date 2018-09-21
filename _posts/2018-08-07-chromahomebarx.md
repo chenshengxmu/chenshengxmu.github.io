@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ChromaHomeBarX brings Razer Chroma-inspired color effects to the iPhone X's Home Bar
+title: ChromaHomeBarX brings Razer Chroma-inspired color effects to the iPhone Xs Home Bar
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/ChromaHomeBarX.jpg)
 * Being that I’m a huge fan of PC gaming, a particular new jailbreak tweak dubbed ChromaHomeBarX by iOS developer Afnan Ahmad grabbed my attention while I was perusing the recent releases in Cydia this week.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple seeks to trademark 'startup' globally for computer retail service
+title: Apple seeks to trademark startup globally for computer retail service
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/uspto-patent-trademark-office-logo.jpg)
 * Apple is seeking to trademark the term ‘startup’ as it relates to computer retailing, support and education. Although filed in Australia, the application reportedly could have global impact. The move comes as Apple preps its September launch of a new iPhone 5S and 5C, accompanied by the addition of a new iPhone trade-in program at its retail locations. But is there any concern that Apple’s application is too broad?

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sam's Club Offering iPhone 4 Upgrades for Only $147 Through Christmas Day
+title: Sams Club Offering iPhone 4 Upgrades for Only $147 Through Christmas Day
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/12/Sams-Club-logo-e1293033065906.jpeg)
 * Sam’s Club is selling AT&T-locked iPhone 4’s for $147 with a two-year contract. This offer runs through Christmas day, and is the cheapest retail sale of an iPhone 4 that you will find this holiday season.

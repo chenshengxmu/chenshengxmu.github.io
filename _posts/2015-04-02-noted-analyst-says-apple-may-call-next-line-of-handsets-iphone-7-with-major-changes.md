@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Noted analyst says Apple may call next line of handsets 'iPhone 7', with major changes
+title: Noted analyst says Apple may call next line of handsets iPhone 7, with major changes
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/iphone6.jpg)
 * Noted Apple analyst Ming-Chi Kuo of KGI Securities claims Apple may call the next line of its iPhone the “iPhone 7”, instead of the “iPhone 6s” like previously thought. The name change will be because of significant changes to the iOS user interface, including Force Touch technology for better interaction, the analyst says.

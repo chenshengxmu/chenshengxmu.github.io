@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple assembling in-house speech synthesis team to supplant Siri's Nuance with better tech
+title: Apple assembling in-house speech synthesis team to supplant Siris Nuance with better tech
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/iPhone-4S-advert-Siri-001.jpg)
 * As we’ve written before, Apple has created Siri in a modular manner, so that it could easily replace her Nuance-powered speech recognition engine with a similar piece of software. Siri since its inception has been reliant on Nuance technology, but things look to be changing sooner than later.

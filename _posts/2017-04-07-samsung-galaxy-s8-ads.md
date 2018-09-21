@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Watch latest Samsung ads emphasizing Galaxy S8's bezel-less Infinity Display and design
+title: Watch latest Samsung ads emphasizing Galaxy S8s bezel-less Infinity Display and design
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/03/Samsung-Galaxy-S8-multi-window.jpg)
 * Ahead of the upcoming April 21 Galaxy S8 launch in the United States, Canada and Europe, Samsung has already covered Times Square with advertising for its new flagship phones. Today, the South Korean conglomerate published a pair of official Galaxy S8 television commercials on its YouTube channel.

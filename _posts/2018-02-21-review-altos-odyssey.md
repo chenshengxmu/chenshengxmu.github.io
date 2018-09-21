@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review- Alto's Odyssey—a worthy follow up to a classic?
+title: Review- Altos Odyssey—a worthy follow up to a classic?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/02/Altos-Odyssey-Home-Screen.jpg)
 * Today, the endless sandboarding journey from Alto’s Adventure creators launched for iPhone, iPad and Apple TV a day early. We’ve had the last few weeks to test it out and while a lot of the mechanics the same, we found it a thoroughly satisfying follow-up to a classic.

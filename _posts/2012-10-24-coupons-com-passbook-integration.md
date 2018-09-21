@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coupons.com integrates 20 big-box retailers with Apple's Passbook
+title: Coupons.com integrates 20 big-box retailers with Apples Passbook
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/Coupons.com-Passbook-image-001.jpg)
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/Coupons.com-Passbook-image-002.jpg)

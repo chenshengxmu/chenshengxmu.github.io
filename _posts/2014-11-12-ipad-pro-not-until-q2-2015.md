@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Manufacturing issues may push 'iPad Pro' back to Q2 2015
+title: Manufacturing issues may push iPad Pro back to Q2 2015
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/iPad-Pro-mockup-Martin-Hajek-006.jpg)
 * KGI Securities’ Ming-Chi Kuo believes Apple’s rumored 12.9-inch tablet may get pushed back again. In a new note to investors tonight, the oft-accurate analyst said manufacturing issues may delay the so-called ‘iPad Pro,’ which was originally expected to debut this fall, until spring next year.

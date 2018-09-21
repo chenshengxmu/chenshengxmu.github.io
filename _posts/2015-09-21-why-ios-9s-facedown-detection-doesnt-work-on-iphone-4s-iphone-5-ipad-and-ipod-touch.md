@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why iOS 9's Facedown detection doesn’t work on iPhone 4s, iPhone 5, iPad and iPod touch
+title: Why iOS 9s Facedown detection doesn’t work on iPhone 4s, iPhone 5, iPad and iPod touch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/iPhone-6s.png)
 * Facedown detection stands as one of the underrated features in iOS 9’s rich arsenal of power-saving tactics designed to help extend your run time by up to an additional hour.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Woman sues Apple after walking into one of its retail store's glass doors
+title: Woman sues Apple after walking into one of its retail stores glass doors
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/man-apple-store.jpg)
 * Just when we thought we had heard it all, this story surfaced. CBS New York is reporting that an 83-year old woman has filed a lawsuit against Apple after she sustained injuries walking into a glass door at its Manhassett Store in Long Island, NY.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LowPowerBanner' removes obtrusive low battery alerts in favor of banner notifications
+title: LowPowerBanner removes obtrusive low battery alerts in favor of banner notifications
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/LowPowerBanner-Screenshot.jpg)
 * I can’t be the only one that thinks it’s weird that Apple’s still using those focus stealing low battery alerts, can I? I mean, doesn’t it seem like Apple would have preferred to use iOS 5’s new banner notifications instead?

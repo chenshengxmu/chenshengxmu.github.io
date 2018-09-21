@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Steve Jobs biographer- Apple's supposed Beats buy about video, not headphones and music
+title: Steve Jobs biographer- Apples supposed Beats buy about video, not headphones and music
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/Steve-Jobs-and-Jimmy-Iovine-Getty-Images-001.jpg)
 * By now, everyone has already chimed in with their two cents on what Apple’s rumored Beats buy might mean for Apple’s reputation in music – even our own Cody Lee has summarized the more popular theories floating around out there.

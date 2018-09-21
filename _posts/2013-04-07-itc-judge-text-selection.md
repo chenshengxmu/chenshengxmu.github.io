@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ITC judge finds Samsung guilty of infringing on Apple's text selection patent
+title: ITC judge finds Samsung guilty of infringing on Apples text selection patent
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/courtroom-gavel.jpg)
 * In a decision issued on March 26, but kept classified until earlier this week, an International Trade Commission judge found Samsung to be infringing on Apple’s US RE41,922 patent that covers things like text selection and translucent buttons.

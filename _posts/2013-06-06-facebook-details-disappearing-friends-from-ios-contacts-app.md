@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Facebook friends disappearing from iOS Contacts? It's a new feature!
+title: Facebook friends disappearing from iOS Contacts? Its a new feature!
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/iOS-6-Facebook-Contacts-sync-001.png)
 * If you’ve ever used Facebook integration in iOS 6, you may have noticed iOS lets you grant the Contact app access your Facebook account in Settings > Facebook. Enabling this feature creates a new ‘Facebook’ group in Contacts which contains entries for all of the people you’re friends with on Facebook. According to a thread over at Apple’s support forums, a number of people are experiencing an issue where some of the entries are dissapearing from the Facebook group in iOS Contacts.

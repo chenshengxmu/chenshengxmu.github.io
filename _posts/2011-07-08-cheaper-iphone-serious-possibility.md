@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone Nano- Why it's Becoming a Serious Possiblity
+title: iPhone Nano- Why its Becoming a Serious Possiblity
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/07/Screen-shot-2011-07-08-at-5.52.47-AM.png)
 * Judging by the latest round of iDevice rumors, Apple could really be looking to shake things up this Fall. Instead of their typical refresh of the stand-alone iPhone model, many folks are expecting the Cupertino company to unveil two new smartphone devices.

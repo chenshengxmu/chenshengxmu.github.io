@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Steve Jobs didn't really like the Siri name. What about you?
+title: Steve Jobs didnt really like the Siri name. What about you?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/iPhone-4S-advert-Siri-001.jpg)
 * Siri, a digital assistant exclusive to the iPhone 4S, is heavily featured in Apple’s advertising as it’s the handset’s key differentiator in the eye of public. For all the rage surrounding Siri, Apple’s late co-founder Steve Jobs didn’t really like her name to begin with. This comes from the mouth of Dag Kittlaus, the guy who made Siri and became a millionaire following a personal phone call from Steve Jobs.

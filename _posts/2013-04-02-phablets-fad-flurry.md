@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flurry finds phablets are 'insignificant' and a 'fad'
+title: Flurry finds phablets are insignificant and a fad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/Making-phone-call-on-Samsung-Galaxy-Note-8.jpg)
 * There has been debate whether Apple should offer an iPhone with a larger screen, competing with Android selling what some have dubbed ‘phablets’ for spanning both phones and tablets. Now comes a well-known mobile research firm calling phablets just ‘a fad.’

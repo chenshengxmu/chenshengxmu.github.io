@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPod nano/shuffle won't store your offline Apple Music collections due to piracy concerns
+title: iPod nano/shuffle wont store your offline Apple Music collections due to piracy concerns
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/07/iPod-nano-mid-2015-image-001.jpg)
 * There will be no transferring your offline Apple Music collections onto the new iPod nano or iPod shuffle because Apple is overly concerned about piracy, as it should be, and so the company’s decided to play it safe instead.

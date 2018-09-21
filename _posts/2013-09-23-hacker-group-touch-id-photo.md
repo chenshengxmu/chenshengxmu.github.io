@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hacker group bypasses Apple's Touch ID with 'fake finger' technique
+title: Hacker group bypasses Apples Touch ID with fake finger technique
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/Touch-ID-success.png)
 * A group of German hackers called the Chaos Computer Club has reportedly figured out a way to bypass Apple’s new Touch ID fingerprint sensor using a variation of the long-running ‘fake finger’ technique.

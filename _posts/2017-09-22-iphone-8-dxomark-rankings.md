@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's new iPhone 8 models achieve top DxOMark smartphone camera rankings
+title: Apples new iPhone 8 models achieve top DxOMark smartphone camera rankings
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/iPhone-8-DxOMark-scores.png)
 * The new iPhone 8 and iPhone 8 Plus feature the best cameras DxO Labs have tested so far, achieving top DxOMark smartphone camera rankings in their in-depth review.

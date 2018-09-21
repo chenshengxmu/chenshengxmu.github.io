@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is this Samsung's new smartwatch?
+title: Is this Samsungs new smartwatch?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/samsung-smartwatch.jpg)
 * It appears that Samsung is going to beat Apple to the wearable tech space this week. The company has an ‘Unpacked’ media event scheduled for Wednesday, September 4, where it’s widely presumed to unveil a new smartwatch.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DOJ and SEC launch an investigation into Apple's controversial iPhone CPU throttling
+title: DOJ and SEC launch an investigation into Apples controversial iPhone CPU throttling
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/iPhone-7-iPhone-7-Plus-Battery-Graphic.jpg)
 * Apple’s controversial practice of slowing down iPhones with worn-out batteries to prevent unexpected shutdowns apparently didn’t sit well with the United States Department of Justice (DOJ) and the Securities and Exchange Commission (SEC).

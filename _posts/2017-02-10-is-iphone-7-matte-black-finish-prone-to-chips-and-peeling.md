@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is iPhone 7's matte black finish susceptible to chips and peeling?
+title: Is iPhone 7s matte black finish susceptible to chips and peeling?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/iPhone-7-matte-black-scuffgate.png)
 * Has the anodized finish on your matte black iPhone 7 or iPhone 7 Plus started to chip or peel off? You’re probably not alone. As evidenced by user posts in a multi-page thread on Apple’s support forum, a growing number of people are complaining that their matte black Apple smartphone is showing paint chips around its edges, even with the use of a case.

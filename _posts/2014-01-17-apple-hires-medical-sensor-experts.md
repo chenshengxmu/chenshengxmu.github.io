@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's focus on wearables apparently includes medical biosensing and iris scanning
+title: Apples focus on wearables apparently includes medical biosensing and iris scanning
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/Sensor-Tatoo-image-001.jpg)
 * If a new report by a very reliable blogger is anything to go by, Apple’s rumored wearable project is seeking to mainstream medical sensor technology and health biosensing via monitoring your blood chemistry. Evidence proves that earlier this year the company poached two high-profile biosensor experts from medical devices firms.

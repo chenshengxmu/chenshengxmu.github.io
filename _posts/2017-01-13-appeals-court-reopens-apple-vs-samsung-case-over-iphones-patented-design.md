@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Appeals court reopens Apple vs. Samsung case over iPhone's patented design
+title: Appeals court reopens Apple vs. Samsung case over iPhones patented design
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/Apple-vs-Samsung-Apple-before-and-after-iPhone.jpg)
 * Believe it or not, the longstanding Apple vs. Samsung patent spat over iPhone’s iconic design is now in its sixth year. During that time, Samsung was found guilty of infringing upon Apple’s patented smartphone design, including iPhone’s rectangular front face with rounded metal edges and a grid of colorful icons on a black screen.

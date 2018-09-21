@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pig Dipper' update adds 30 new aquatic levels to Angry Birds Space
+title: Pig Dipper update adds 30 new aquatic levels to Angry Birds Space
 ---
 * Rejoice, Angry Birds fans. Just like clockwork, Rovio has updated its Angry Birds Space game with an ambiguously titled Pig Dipper episode bringing thirty new galactic-aquatic levels to your iPhone, iPad, iPod touch and Android devices. This episode introduces a new planet called Splash that features pigs in boats – how bizarre is that?.
 * Also look for strange aquatic extraterrestrial life and water-based physics allowing for some nice trick shots. The game adds power-up specific leaderboards and amuses with the stuff like inflating the pigs with Pig Puffer and creating black holes with Space Egg, to name a few. I wonder if the giant fish is the boss…

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple could make major upfront investment into LG's OLED production lines
+title: Apple could make major upfront investment into LGs OLED production lines
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/04/iPhone-8-concepot-Benjamin-Geskin-for-iDropNews.jpeg)
 * Apple is reportedly in talks with LG Display about investing anywhere between $1.75 billion and $2.62 billion into the South Korean firm’s new “E6” plant with a target monthly capacity of about 30,000 units of sixth-generation OLED panels.

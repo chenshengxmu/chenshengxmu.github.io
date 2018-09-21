@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 5.1 brings back the "Enable 3G" switch for some
+title: iOS 5.1 brings back the Enable 3G switch for some
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/disable-3g-option.jpg)
 * When Apple removed the “Enable 3G” switch in iOS 5, the decision was universally met with confusion, even anger by those of us that used it to save battery life in areas where 3G was flaky. By removing the option to disable it, Apple caused us all a headache we could do without.

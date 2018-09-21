@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aaron Sorkin finished with screenplay for Sony's Steve Jobs biopic
+title: Aaron Sorkin finished with screenplay for Sonys Steve Jobs biopic
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Aaron-Sorkin-at-D10-image-001.jpg)
 * Aaron Sorkin has reportedly completed his screenplay for the highly-anticipated Steve Jobs biopic and submitted it to Sony. It was first announced that Sorkin would be working on the project back in the spring of 2012, but we’ve heard little of his progress since then.

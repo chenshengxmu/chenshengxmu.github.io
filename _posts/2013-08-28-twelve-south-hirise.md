@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HiRise- iPhone's new throne pedestal by Twelve South
+title: HiRise- iPhones new throne pedestal by Twelve South
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/HiRise-by-TwelveSouth.png)
 * A couple weeks ago, we highlighted the launch of Twelve South’s newest accessory, the HiRise for iPhone 5 and iPad mini. I was able to finally get my hands on one and can report the excitement is worth the hype. For those new to the Twelve South scene, the company is a premium and Apple exclusive accessory maker, made famous for simple and elegant products like the iPhone SurfacePad, BookBook case, and BookArc.

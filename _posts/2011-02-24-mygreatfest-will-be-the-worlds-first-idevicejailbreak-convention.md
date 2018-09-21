@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MyGreatFest Will Be The World's First iDevice/Jailbreak Convention
+title: MyGreatFest Will Be The Worlds First iDevice/Jailbreak Convention
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/02/MGF-Banner-Large.jpg)
 * MyGreatFest is going to be the world’s first jailbreak and iCommunity convention. The event will take place on September 17, 2011 in London, UK.

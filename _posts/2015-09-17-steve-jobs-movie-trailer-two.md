@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Check out all-new trailer for Universal's upcoming 'Steve Jobs' biopic
+title: Check out all-new trailer for Universals upcoming Steve Jobs biopic
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/07/Steve-Jobs-movie-full-trailer-image-001.jpg)
 * Following the inaugural ‘Steve Jobs’ trailer published this summer and a follow-up video released in August, Universal is now drumming up publicity ahead of the film’s theatrical release next month with yet another official trailer.

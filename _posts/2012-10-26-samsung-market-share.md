@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung's smartphone market twice that of Apple
+title: Samsungs smartphone market twice that of Apple
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/Galaxy-devices-in-wooden-hands.jpg)
 * Samsung has become Apple’s chief nemesis in court and on retail shelves. The South Korean smartphone maker now has twice the market share as the Cupertino, California-based iPhone maker, new research finds. According to IDC, Samsung controlled 31.3 percent of the smartphone market during the third quarter, handily beating Apple’s 15 percent share.

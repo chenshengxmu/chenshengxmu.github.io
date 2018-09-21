@@ -1,6 +1,6 @@
 ---
 layout: post
-title: YouTube Removes Video of Saurik's Interview on Jailbreaking
+title: YouTube Removes Video of Sauriks Interview on Jailbreaking
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/05/why-jailbreak-video-down-e1304285310584.png)
 * Last week, we posted a video of an interview with Cydia’s creator, Jay Freeman (saurik). The clip was about 6 minutes long, and consisted of saurik showing off many of his favorite tweaks and iOS extensions in response to the question, “Why should you jailbreak your iPhone?”

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is Xiaomi's first-ever Windows PC notebook a shameless MacBook Air ripoff?
+title: Is Xiaomis first-ever Windows PC notebook a shameless MacBook Air ripoff?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/07/Xiaomi-Mi-Notebook-Air-teaser-001.jpg)
 * Xiaomi (pronounced “sh-YEOW-mee”), a booming Chinese smartphone and consumer electronics maker, today took the wraps off its first-ever Windows PC notebook and it looks awfully familiar to the MacBook Air. The familiarity starts with the device’s silly ‘Mi Notebook Air’ moniker and extends to its unibody industrial design that’s thinner and lighter than Apple’s notebook.

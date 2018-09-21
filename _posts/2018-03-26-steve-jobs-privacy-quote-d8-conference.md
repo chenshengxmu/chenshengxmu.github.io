@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What privacy entails, in Steve's own words
+title: What privacy entails, in Steves own words
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/03/Steve-Jobs-D8-conference.jpg)
 * Steve Jobs was a man of many great quotes, and all of them good.

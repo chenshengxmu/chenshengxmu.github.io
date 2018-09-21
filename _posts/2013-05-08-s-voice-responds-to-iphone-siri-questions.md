@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Samsung's S Voice responds to questions about iPhone, Siri and Apple
+title: How Samsungs S Voice responds to questions about iPhone, Siri and Apple
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/Samsung-S-Voice-image-001.jpg)
 * Apple’s Siri isn’t just known for her witty responses, but also for a few Easter eggs Apple intentionally included in the app. One of the more famous is Siri’s response to the marriage question. When asked “will you marry me?”, Siri responds that “my End User License Agreement does not cover marriage.”

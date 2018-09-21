@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About OS X System Integrity Protection aka 'Rootless' and how to disable it
+title: About OS X System Integrity Protection aka Rootless and how to disable it
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/ComputerSecurity_m_0907.jpg)
 * All Macs with OS X El Capitan installed on them have a new layer of security known as System Integrity Protection, which has been given the nickname ‘Rootless’ because it closes off a lot of system files to user access to prevent malicious programs and code from causing harmful changes to the core of OS X.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's most underrated WWDC announcement
+title: Apples most underrated WWDC announcement
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/6.jpeg)
 * Looking back at it, there was no shortage of announcements during Apple’s WWDC keynote on Monday. An all-new MacBook model, major updates to its desktop and mobile operating systems, and a new Maps app — not bad for an afternoon.

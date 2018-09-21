@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Angry Birds Seasons' goes free as Apple's App of the Week
+title: Angry Birds Seasons goes free as Apples App of the Week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/angry-birds-1.jpeg)
 * Apple has just named “Angry Birds Seasons” its App of the Week for this week. This means that from now through next Thursday, you’ll be able to download the popular game, which normally retails for $0.99, for free.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Leaked manual details Sony's upcoming iPhone lens accessories
+title: Leaked manual details Sonys upcoming iPhone lens accessories
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/Sony-Lens-Cameras-image-002.jpg)
 * A Sony-focused blog called SonyAlphaRumors on Monday published a few interesting tidbits regarding upcoming Camera Live lens attachments for smartphones that incorporate a standalone sensor with Carl Zeiss optics and built-in processing chips, normally seen on $500 point-and-shoot cameras. Details were scarce initially, but now we’re offered additional glimpses into the the entry-level DSC-QX10 and the high-end DSC-QX100.

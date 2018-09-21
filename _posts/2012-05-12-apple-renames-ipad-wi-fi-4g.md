@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple renames 'iPad Wi-Fi + 4G' to 'iPad Wi-Fi + Cellular' in several countries
+title: Apple renames iPad Wi-Fi + 4G to iPad Wi-Fi + Cellular in several countries
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/ipad-wifi-plus-cellular.jpg)
 * Well it looks like after months of fighting with the Australian government, and several other organizations, Apple has finally broken down and removed the ‘4G’ branding from its tablet.

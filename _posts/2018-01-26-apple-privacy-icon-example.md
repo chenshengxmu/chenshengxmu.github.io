@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's Apple's new privacy feature in action
+title: Heres Apples new privacy feature in action
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/iOS-11.3-new-Privacy-icon-002.jpeg)
 * We reported yesterday that Apple is introducing a new privacy feature.

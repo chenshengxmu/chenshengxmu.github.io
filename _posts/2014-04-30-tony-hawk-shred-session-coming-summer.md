@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tony Hawk's Shred Session hitting iOS this summer, here's hands-on video
+title: Tony Hawks Shred Session hitting iOS this summer, heres hands-on video
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/Tony-Hawk-Shred-Session-iPhone-screenshot-005.jpg)
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/Tony-Hawk-Shred-Session-iPhone-screenshot-006.jpg)

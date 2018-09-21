@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't expect to see iWatch or 5.5" iPhone 6 before December, new rumor cautions
+title: Dont expect to see iWatch or 5.5 iPhone 6 before December, new rumor cautions
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/iwatch-rolex-2.jpg)
 * I don’t think anyone in their right mind would seriously question Apple’s motivation to reportedly market and sell bigger iPhones this year.

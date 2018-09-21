@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's 1Password for Apple Watch
+title: Heres 1Password for Apple Watch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/04/1Password-for-Apple-Watch-teaser-001.png)
 * Developer AgileBits on Tuesday announced an update to its freemium password-management app for the iPhone and iPad, 1Password, which now includes Apple Watch compatibility.

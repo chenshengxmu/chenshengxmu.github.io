@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unlock your iPhone's picture-taking potential with 3RDi
+title: Unlock your iPhones picture-taking potential with 3RDi
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/3rdi-e1342139236217.jpeg)
 * Between its 8MP sensor and internet connectivity, the iPhone 4S is one of the best point-and-shoot cameras around. It can download thousands of photo-editing apps and upload images to a number of services.

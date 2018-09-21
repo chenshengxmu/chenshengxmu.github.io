@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft's Nokia Lumia 630 ad shows how to do a smartphone switch with a football
+title: Microsofts Nokia Lumia 630 ad shows how to do a smartphone switch with a football
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/Nokia-Lumia-630-ad-football-tricks-001.jpg)
 * Microsoft-owned Nokia earlier this week announced its first Windows Phone 8.1 handset, the Lumia 630, with sales starting in Asia this week, followed by Europe and the United States.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple fined $2.29 million over "4G" iPad claim
+title: Apple fined $2.29 million over 4G iPad claim
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/iPad-3-promo-video-wireless-and-cellular-networking.jpg)
 * Apple has bent the truth by advertising its iPad in Australia as having “4G” capability, thus misleading would-be buyers. For that, Cupertino has now been fined a whopping $2.29 million, Associated Press reports.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Foxconn rethinking its Sharp investment amid the sunset of Japan's TV biz
+title: Foxconn rethinking its Sharp investment amid the sunset of Japans TV biz
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/Sharp-Smart-TV.jpg)
 * Japanese giants once used to rule the consumer electronics landscape but no more. Even the TV set making biz, once the pinnacle of the “made in Japan” industry, has been declining rapidly due to strong competitive pressure from South Korea, the home to Samsung, the world’s largest TV maker.

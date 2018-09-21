@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BMW adopts Apple's Genius model to educate car buyers
+title: BMW adopts Apples Genius model to educate car buyers
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/Apple-Mac-Genius-TV-Ad.png)
 * If there is one consumer experience needing updating, it is that trip to an auto sales floor. Too often, the salesperson can only provide potential buyers with the most basic information. Luxury automaker BMW hopes to change all that, using Apple’s Genius model to answer consumer queries.

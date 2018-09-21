@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple appears to have trademarked 'tvOS,' the next Apple TV's likely software platform name
+title: Apple appears to have trademarked tvOS, the next Apple TVs likely software platform name
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/Apple-TV-fourth-generation-concept-Andrew-Ambrosino-001.png)
 * With just a few hours until Apple’s keynote, a series of trademark filings for the name ‘tvOS’ have been discovered by MacRumors, indicating that the Apple TV’s new operating system will indeed be referred to as ‘tvOS’, which would be in line with the naming convention for iOS and watchOS platforms.

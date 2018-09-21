@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to enable Apple's hidden one-handed keyboard [Jailbreak]
+title: How to enable Apples hidden one-handed keyboard [Jailbreak]
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/One-handed-keyboard.jpg)
 * OneHanded is a new free jailbreak tweak that enables the recently dicovered one-handed keyboard, which includes the extra text editing buttons in the keyboard itself.

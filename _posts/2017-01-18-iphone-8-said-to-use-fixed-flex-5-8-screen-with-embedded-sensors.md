@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 8 said to use fixed flex 5.8" screen with embedded sensors
+title: iPhone 8 said to use fixed flex 5.8 screen with embedded sensors
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/iPhone-edge-to-edge-ConceptsiPhone-001.jpg)
 * Apple’s next iPhone is expected to adopt a 5.8-inch wraparound AMOLED display that utilizes a fixed flex screen like Samsung’s ill-fated Galaxy Note 7.

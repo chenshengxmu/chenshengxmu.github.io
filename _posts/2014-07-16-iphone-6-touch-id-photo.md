@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Could this be iPhone 6's improved, more durable Touch ID sensor?
+title: Could this be iPhone 6s improved, more durable Touch ID sensor?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/iPhone-6-Touch-ID-NowhereElse-001.jpg)
 * Purported iPhone 6 parts continue leaking out ahead of the handset’s assumed September unveiling. We were recently treated to a stress, bending and scratch test videos of a piece of a purported sapphire-coated iPhone 6 cover glass.

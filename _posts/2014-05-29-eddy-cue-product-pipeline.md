@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Eddy Cue- Apple's best product pipeline in 25 years coming later this year
+title: Eddy Cue- Apples best product pipeline in 25 years coming later this year
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/cue_iovine_codecon.jpg)
 * ‘Has Apple lost its ability to innovate?’ has become a common theme among critics in recent years, who note that the company hasn’t released a groundbreaking new product since the iPad in 2010. And going halfway through 2014 without mention of a new gadget hasn’t helped its cause.

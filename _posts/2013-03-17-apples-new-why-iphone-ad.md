@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple launches new 'Why iPhone' web campaign
+title: Apple launches new Why iPhone web campaign
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/why-iphone-ad-2.png)
 * Apple this weekend launched a new advertising campaign for the iPhone showcasing some of the many reasons why the handset is so popular. It’s added a new ‘Why iPhone’ page to its website, and has begun sending out promotional emails.

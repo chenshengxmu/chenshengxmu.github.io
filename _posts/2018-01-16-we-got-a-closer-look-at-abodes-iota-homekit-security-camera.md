@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We got a closer look at Abode's Iota HomeKit security camera
+title: We got a closer look at Abodes Iota HomeKit security camera
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/Abode-iota-homekit-camera.jpg)
 * The updated version of Abode’s Iota is baking in lots of smarts. We went hands-on with the smart camera that includes support for HomeKit, Z-Wave, Zigbee, and Abode RF.

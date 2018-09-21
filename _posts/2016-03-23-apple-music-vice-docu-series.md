@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Music and Vice release new 'The Score' docu-series about local music scenes
+title: Apple Music and Vice release new The Score docu-series about local music scenes
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/Apple-Music-Vice-The-Score-teaser-003.jpg)
 * Apple has extended its partnership with cultural news network Vice to release a new docu-series on local music scenes around the world, TechCrunch reported Wednesday. The six-episode series will be called “The Score,” with the first episode taking a look at a techno scene in South Africa and hip hop coming straight out of Minnesota’s Native American nations.

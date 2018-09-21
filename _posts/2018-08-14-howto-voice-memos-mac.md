@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to use Apple's Voice Memos app on Mac
+title: How to use Apples Voice Memos app on Mac
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/macOS-Mojave-Voice-Memos-teaser-000.jpg)
 * Voice Memos has existed on iPhone since the 2009 iPhone OS 3 software nine years ago. At its annual developer conference in June 2018, Apple announced it would make Voice Memos available for iPad and bring the app to macOS alongside a few other native iOS apps, like Stocks, Home and News.

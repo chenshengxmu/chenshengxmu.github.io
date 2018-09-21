@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ReSound LiNX launches as first 'Made for iPhone' hearing aid
+title: ReSound LiNX launches as first Made for iPhone hearing aid
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/ReSound-LiNX-image-002.jpg)
 * GN ReSound, a company that’s been working with Apple to take the stigma out of wearing an aid, today formally launched the world’s first ‘Made for iPhone’ hearing aid, the LiNX. The accessory is designed for the hearing impaired users and offers direct streaming of sound from the iPhone, iPad and iPod touch, without the need for an additional remote control, accessory or pendant.

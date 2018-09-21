@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 8's 3D facial scanner might be used to authenticate Apple Pay transactions
+title: iPhone 8s 3D facial scanner might be used to authenticate Apple Pay transactions
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/Pearl-ID-Apple-PAy-reference-HomePod-firmware.jpeg)
 * Earlier this week, iOS developer @r_idn uncovered evidence from the accidentally released HomePod firmware that Apple’s iPhone 8 may permit users to authenticate Apple Pay transactions with a face scan instead of through a fingerprint.

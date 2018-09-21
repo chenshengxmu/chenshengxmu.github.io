@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "An Internal Error Occured" When Updating to iOS 5
+title: An Internal Error Occured When Updating to iOS 5
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/Screen-Shot-2011-10-12-at-4.59.04-PM-e1318453259302.png)
 * If you’ve been trying to update your iPhone, iPad, or iPod touch to the newly released iOS 5, you might have encountered the error message saying that you’re device could not be restored because an “internal error occurred.” In most cases, you’ll get the “3004” error message, too.

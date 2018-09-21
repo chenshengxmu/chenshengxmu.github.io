@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple seeds iOS 9 beta 4 to developers, here's what's new
+title: Apple seeds iOS 9 beta 4 to developers, heres whats new
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/07/iOS-9-beta-4-update-prompt-002.png)
 * Following the release of iOS 9 beta 3 for the iPhone, iPod touch and iPad two weeks ago which gave developers access to Apple Music on their development devices while bringing out the News app and a host of refinements, Apple today released iOS 9 beta 4 (build 13A4305g) to registered members of the Apple Developer Program.

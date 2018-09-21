@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Real Racing 3 'Speedrush TV' update now available
+title: Real Racing 3 Speedrush TV update now available
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/Real-Racing-3-2.5-for-iOS-iPhone-screenshot-001.jpeg)
 * After adding Le Mans prototype and ‘open wheel’ vehicles, in addition to such perks as iOS 7 controller support, car customization, the Aston Martin lineup and more, Australian developer FireMonkeys and super publisher Electronic Arts today issued another update to their free-to-play Real Racing 3 racer for iOS.

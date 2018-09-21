@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No, lawyers didn't design Galaxy S III, Samsung design boss says
+title: No, lawyers didnt design Galaxy S III, Samsung design boss says
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Samsung-Galaxy-S-III-teaser-inspired-by-nature-designed-by-humans.jpg)
 * When Samsung introduced its third-generation Galaxy S smartphone earlier this month, folks immediately took to Twitter, opining how the handset was “designed by lawyers” in a nod at Samsung’s ongoing legal feud with Apple over alleged copying of the iPhone’s hardware design and software features.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's design guru Jony Ive says best is yet to come
+title: Apples design guru Jony Ive says best is yet to come
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/jony-ive.jpg)
 * TheNextWeb points to a new piece in The Telegraph this morning, which features a lengthy interview with Jony Ive. The publication caught up with Apple’s design guru during his recent trip to the UK to receive an honorary knighthood.

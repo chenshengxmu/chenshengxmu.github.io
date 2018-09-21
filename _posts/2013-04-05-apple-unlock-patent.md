@@ -1,6 +1,6 @@
 ---
 layout: post
-title: German court invalidates Apple's slide-to-unlock patent, but it's not big deal
+title: German court invalidates Apples slide-to-unlock patent, but its not big deal
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/Slide-to-Unlock-doormat.jpeg)
 * A German court ruled invalid Apple’s patent for a sliding touchscreen unlocking image, marking another win for allies of Google’s Android mobile operating. In its ruling in favor of the Google-owned Motorola, the country’s Federal Patent Court slammed the iPhone maker’s slide-to-unlock patent as devoid of “technological innovation.” Still, a long-running patent dispute which began in 2011 may still live on as Apple’s legal team prepares for a round of appeals, according to Friday reports…

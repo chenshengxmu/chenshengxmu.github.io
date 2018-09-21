@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple TV review- it's all about the potential
+title: Apple TV review- its all about the potential
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/11/Apple-TV-App-Switcher.jpg)
 * Potential. That’s a word that you’re going to hear tossed around a lot when it comes to the newly released Apple TV. It has the potential to be a great streaming device. It has the potential to be a wonderful music playing machine. It has the potential to be an awesome gaming console. It has the potential to really become your living room’s nucleus for entertainment.

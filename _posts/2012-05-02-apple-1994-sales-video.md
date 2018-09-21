@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Steve Jobs channels Franklin Delano Roosevelt in '1994' sales video
+title: Steve Jobs channels Franklin Delano Roosevelt in 1994 sales video
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Steve-Jobs-channels-FDR-in-pre-1984-sales-video.jpg)
 * From the depths of the Interwebs comes this little gem with young Steve Jobs playing Franklin Delano Roosevelt. The amusing and charming scene is actually part of a never-before-seen morale-boosting internal film entitled ‘1994’, in a nod at the iconic television commercial that launched the Macintosh craze 28 years ago.

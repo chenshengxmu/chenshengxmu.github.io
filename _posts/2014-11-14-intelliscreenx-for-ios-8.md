@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IntelliScreenX for iOS 8 is live now, here's our full video walkthrough
+title: IntelliScreenX for iOS 8 is live now, heres our full video walkthrough
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/11/IntelliscreenX-iOS-8.jpg)
 * Get ready for IntelliScreenX for iOS 8 to touch down any minute now! The update, which is being released as an open beta, is scheduled to appear on Cydia’s ModMyi repo sometime tonight. If you’re somehow unfamiliar with IntelliScreenX, it’s a tweak that allows you to supercharge your Notification Center. It brings the ability to add Twitter, RSS, Mail, Facebook, and more to the Notification Center, and features Lock screen access as well.

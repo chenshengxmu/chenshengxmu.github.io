@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 4S Magically Appears in Apple's Database
+title: iPhone 4S Magically Appears in Apples Database
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/05/iphone4s.png)
 * It looks like the next iPhone could very well be called the iPhone 4S, according to a finding in Apple’s internal inventory database. 9to5Mac reports that a 8GB iPhone 4 and the infamous ‘N94’ iPhone 4S have both been added to Apple’s inventory system.

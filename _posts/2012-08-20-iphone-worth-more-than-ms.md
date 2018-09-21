@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's iPhone business is worth more than all of Microsoft
+title: Apples iPhone business is worth more than all of Microsoft
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/iphone-user.jpg)
 * In line with today’s news that Apple has surpassed Microsoft’s record for largest market cap, we’ve found another interesting stat involving the two companies that you might find interesting.

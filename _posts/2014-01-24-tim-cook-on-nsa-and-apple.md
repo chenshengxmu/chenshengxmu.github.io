@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook says NSA would have to "cart us out in a box" for server access
+title: Tim Cook says NSA would have to cart us out in a box for server access
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/Tim-Cook-ABC-intervew-teaser-001.png)
 * We’re still a few hours away from ABC airing David Muir’s interview with Tim Cook, but the network has been leaking tidbits of the discussion all day. Earlier we saw a clip of Cook talking about Apple’s new sapphire plant in Arizona, and now this.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's $35 per month YouTube TV service launches in five US cities
+title: Googles $35 per month YouTube TV service launches in five US cities
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/04/YouTube-TV-teaser-001.jpg)
 * Announced a month ago, Google’s live TV streaming bundle launched today in five U.S. markets. Named YouTube TV, it’s available in the San Francisco Bay Area, Los Angeles, New York City, Philadelphia and Chicago.

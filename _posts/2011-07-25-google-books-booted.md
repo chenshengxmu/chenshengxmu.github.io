@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Books is Booted From the App Store, Amazon Updates Kindle to Comply With Apple's Terms [Updated]
+title: Google Books is Booted From the App Store, Amazon Updates Kindle to Comply With Apples Terms [Updated]
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/07/Google-Books.png)
 * Google Books is the first major app to be booted from the App Store for not complying with Apple’s latest in-app purchases policy. Apple’s new rules, which went into affect on June 30, state that no app can provide a link to purchasing additional content outside of Apple’s ecosystem.

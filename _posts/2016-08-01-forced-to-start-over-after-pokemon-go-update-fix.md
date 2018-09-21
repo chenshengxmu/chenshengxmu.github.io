@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Were you "forced" to start over after this weekend's Pokémon GO update? Here's the fix
+title: Were you forced to start over after this weekends Pokémon GO update? Heres the fix
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/07/Pokemon-Go-teaser-005.jpg)
 * Following this weekend’s Pokémon GO game update from Niantic, many players who used their Google accounts to play have claimed that the update deleted their account data and forced them to start over by making a new account to play with.

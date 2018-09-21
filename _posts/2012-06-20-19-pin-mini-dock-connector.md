@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TechCrunch- new iPhone confirmed to have 19-pin "mini" dock connector
+title: TechCrunch- new iPhone confirmed to have 19-pin mini dock connector
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/iphone-5-mini-charging-port.png)
 * Earlier this year, we passed along a report claiming that Apple was looking to ditch the 30 pin dock connector in favor of something smaller. It was said that we could see this new port as early as this year.

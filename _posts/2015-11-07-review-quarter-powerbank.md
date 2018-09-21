@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review- 'Quarter' portable battery has MagSafe port
+title: Review- Quarter portable battery has MagSafe port
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/11/Quarter-Powerbank-image-001.jpg)
 * China-based Beaver Electronics Co. recently unveiled a reasonably priced portable juice pack with buttonless design that after 15 minute of fast-charging holds enough juice to fully recharge an iPhone 5s. In fact, the Quarter recharges any mobile device via USB.

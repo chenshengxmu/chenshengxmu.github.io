@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Beats-based music streaming service reportedly delayed until WWDC
+title: Apples Beats-based music streaming service reportedly delayed until WWDC
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/Beats-Music-Windows-Phone-Android-iOS-001.png)
 * Apple’s rumored subscription music service based on Beats Music and with stock iOS Music app integration will be formally announced at this year’s summer developers conference rather than in March, as previously reported.

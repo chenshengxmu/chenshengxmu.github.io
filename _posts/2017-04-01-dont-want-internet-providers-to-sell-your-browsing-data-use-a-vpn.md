@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't want internet providers to sell your browsing data? Use a VPN
+title: Dont want internet providers to sell your browsing data? Use a VPN
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/03/computer-data-security.jpg)
 * While the FCC fought hard to keep your internet browsing data safe from third parties, it appears the United States government has other interests in mind. That said, your internet service provider (ISP) may soon begin selling your personal internet browsing data to third parties, putting your privacy at risk of exploitation.

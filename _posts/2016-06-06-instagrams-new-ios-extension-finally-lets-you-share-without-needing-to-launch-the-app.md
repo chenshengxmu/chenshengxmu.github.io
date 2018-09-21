@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Instagram's new iOS extension finally lets you share without needing to launch the app
+title: Instagrams new iOS extension finally lets you share without needing to launch the app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/Instagram-8.2-for-iOS-iPhone-screenshot-001.jpg)
 * It’s hard to tell from release notes alone, which only mention bug fixes and performance improvements, but Instagram’s version 8.2 update that went live this morning on the App Store packs in a much improved Share sheet extension.

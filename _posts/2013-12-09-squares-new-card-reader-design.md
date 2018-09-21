@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Square introduces new card reader developed by Apple's Lightning plug designer
+title: Square introduces new card reader developed by Apples Lightning plug designer
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/square.jpg)
 * Square unveiled a new version of its Square Reader accessory today, which is used to input credit and debit cards into the Square app. It says the new Reader is roughly 45% thinner than its predecessor, and is more accurate at reading cards thanks to its new design.

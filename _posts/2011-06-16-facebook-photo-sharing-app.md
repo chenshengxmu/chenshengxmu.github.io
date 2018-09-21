@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Leaked Screenshots of Facebook's New Photo-Sharing App Surface
+title: Leaked Screenshots of Facebooks New Photo-Sharing App Surface
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/Screen-shot-2011-06-15-at-4.38.40-PM.png)
 * It appears that the tech world hasn’t seen the last of major iOS software announcements this month. The folks over at TechCrunch have gotten their hands on some pretty interesting information regarding a certain social networking company and a new photo sharing app.

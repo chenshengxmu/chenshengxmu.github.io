@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Photo comparisons show how the iPhone's camera has evolved over the years
+title: Photo comparisons show how the iPhones camera has evolved over the years
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/compare-1.png)
 * The folks over at Taptaptap, the creators of Camera+, have posted an interesting set of photo comparisons, showing how the iPhone’s camera has evolved over the years. Included in the set are photos taken using Camera+ on the original iPhone, iPhone 3G, 3GS, 4, 4S, 5, 5s and the new iPhone 6, in various situations.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ming-Chi Kuo predicts that 2018 iPhones won't have TrueDepth camera on the backside
+title: Ming-Chi Kuo predicts that 2018 iPhones wont have TrueDepth camera on the backside
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/iphone-x-truedepth-back-camera.jpg)
 * No iPhones introduced in 2018 will be outfitted with a rear-mounted TrueDepth camera system because Apple and its suppliers are expected to focus on reducing costs and selling prices while implementing other spec upgrades to attract consumers, as per analyst Ming-Chi Kuo.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It's not just iPhone 5S- budget iPhone also could come in colors
+title: Its not just iPhone 5S- budget iPhone also could come in colors
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/iPhone6-004.jpg)
 * If the latest chatter coming out of Apple’s Asian supply chain is to be trusted, Taiwanese contract electronics manufacturer Pegatron – which produces some Apple products alongside primary gadget builder Foxconn – has been commissioned to build a rumored less-pricey iPhone that the Wall Street Journal, Bloomberg, Reuters and other high-profile publications previously reported on as a done deal.

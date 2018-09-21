@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple trims Android's U.S. smartphone lead as Verizon sells most iPhones
+title: Apple trims Androids U.S. smartphone lead as Verizon sells most iPhones
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/apple-kantar-smartphones-us.png)
 * Apple is making a slight dent in Android’s lead among U.S. smartphone owners, picking up more than three percentage points of market share at the end of the June 2013 quarter. By comparison, Google’s mobile software slipped a bit, giving up almost one percent, according to new research.

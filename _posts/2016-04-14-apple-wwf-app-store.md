@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Apps for Earth' App Store promo sends 100% of proceeds from select App Store purchases to WWF
+title: Apps for Earth App Store promo sends 100% of proceeds from select App Store purchases to WWF
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/04/App-Store-Apps-for-Earth-image-001.png)
 * Apple has partnered with the World Wildlife Fund (WWF) on a brand new App Store initiative that will have the world’s leading organization in wildlife conservation and endangered species receive 100 percent of the proceeds from select App Store purchases until April 24, just in time for Earth Day.

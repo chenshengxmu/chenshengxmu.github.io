@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ahead of tomorrow's launch, some global carriers stop taking iPhone 5 pre-orders
+title: Ahead of tomorrows launch, some global carriers stop taking iPhone 5 pre-orders
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iPhone-5-black-front-landscape-left-tilted-001.jpg)
 * With less than 24 hours until the second phase of global iPhone roll-out, some carriers have stopped taking pre-orders for the device due to low supply. Over in Slovakia, carriers Slovak Telekom and Orange Slovakia stopped taking pre-orders amid widespread supply constraints, reports The Wall Street Journal.

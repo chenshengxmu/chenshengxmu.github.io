@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple buys 18 'axis-based user interface' patents from Maya-Systems
+title: Apple buys 18 axis-based user interface patents from Maya-Systems
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/maya-systems-logo.png)
 * This is kind of interesting. Maya-Systems, which describes itself as a knowledge management technology provider, announced today that a transaction took place between it and Apple in the third quarter of last year. It seems the Cupertino company acquired 18 patents from them “relating to innovative axis-based user interface technology.”

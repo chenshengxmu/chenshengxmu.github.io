@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T's LTE expands to seven new markets
+title: AT&Ts LTE expands to seven new markets
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/ATT-Chicago-store-interior-001.jpg)
 * The nation’s second-largest carrier continues expanding its fourth-generation Long-Term Evolution (LTE) wireless technology coverage. On Wednesday, the carrier announced it has deployed LTE across seven new markets, including California’s Merced and Velleyo regions, alongside additional LTE pockets in Missouri, Delaware, Alabama and  Connecticut. The development follows AT&T’s major LTE expansion in nearly three dozen new markets last month…

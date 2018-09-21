@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Up next for Rovio- Casey's Contraptions
+title: Up next for Rovio- Caseys Contraptions
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Rovio-one-billionth-Angry-Birds-download-video-Caseys-Contraptions-hint.jpg)
 * Eagle-eyed readers spotted something interesting at the end of yesterday’s clip accompanying the one billionth Angry Birds download milestone: a character that looks a lot like that in Casey’s Contraptions, a charming and addictive puzzle game by Snappy Touch and Mystery Coconut.

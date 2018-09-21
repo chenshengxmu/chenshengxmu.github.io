@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here are apps from Apple's 'Strength' iPhone 5s ad
+title: Here are apps from Apples Strength iPhone 5s ad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/Apple-iPhone-5s-ad-Strenth-image-0021.jpg)
 * Yesterday evening, Apple began airing a new iPhone 5s television commercial under the now familiar ‘You’re More Powerful Than You Think’ tagline. The nicely done upbeat commercial focuses on seven popular fitness apps and accessories to suggest that “hey, we’ve already got wearables!”

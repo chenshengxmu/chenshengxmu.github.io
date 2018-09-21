@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WhatsApp is testing advanced spam detection system that'll notify you of hoax messages
+title: WhatsApp is testing advanced spam detection system thatll notify you of hoax messages
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/WhatsApp.jpg)
 * In addition to testing the ability to cross-post your Instagram Stories to WhatsApp, the WhatsApp team is working on other potential enhancements such as a new spam-detection system designed to help warn users about suspected hoax messages.

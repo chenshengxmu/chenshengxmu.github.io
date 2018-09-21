@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Examining iPhone 6s's 3D Touch panel in detail
+title: Examining iPhone 6ss 3D Touch panel in detail
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/10/iPhone-6s-Display-iFixit-teardown-image-002.jpg)
 * The new iPhones have a pressure-sensitive screen that provides quick access to app-specific shortcuts from the Home screen while enabling a pair of new gestures within apps: Peek and Pop.

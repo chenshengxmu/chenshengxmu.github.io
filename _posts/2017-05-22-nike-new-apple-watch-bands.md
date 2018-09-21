@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Check out Nike's four new Sports bands for Apple Watch
+title: Check out Nikes four new Sports bands for Apple Watch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/05/Apple-Watch-bands-Nike-Air-VaporMax-Flyknit-image-001.jpg)
 * Footwear, apparel and sports accessories giant Nike on Monday announced four new bands for Apple Watch, designed to color-match the company’s new Air VaporMax Flyknit “Day to Night” running shoe collection. The new bands work with any Apple Watch model, not just with the special-edition Apple Watch Nike+ collection, and are made from a flexible fluoroelastomer material that’s lightweight and perforated for ventilation and sweat management, like other Sports bands.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beats Music coming January 21, here's nitty-gritty on their 'trusted curator' concept
+title: Beats Music coming January 21, heres nitty-gritty on their trusted curator concept
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/Beats-Music-teaser-003.jpg)
 * Beats Music CEO Luke Wood told us last October to soon expect a brand new subscription music service, one not only making a difference to how we consume songs but also changing our perception of what streaming music services should be all about. Yesterday, Beats Music announced it will be definitely opening for business on January 21.

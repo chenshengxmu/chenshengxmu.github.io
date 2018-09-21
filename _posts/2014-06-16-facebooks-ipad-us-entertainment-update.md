@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Facebook's iPad app gains new sidebar solely dedicated to entertainment and games
+title: Facebooks iPad app gains new sidebar solely dedicated to entertainment and games
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/Facebook-for-iPad-Entertainment-bar-001.png)
 * Facebook on Monday pushed an update to its iPad client to put more entertainment (and ads) into your hands.

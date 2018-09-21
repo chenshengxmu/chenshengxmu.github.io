@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's how to install the Apple Watch UI concept on your iPhone
+title: Heres how to install the Apple Watch UI concept on your iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/Apple-Watch-UI-Concept-Featured.jpg)
 * Yesterday, we posted an article showcasing a developer’s concept of the Apple Watch UI running on the iPhone. The response was mixed, but it leaned more towards the positive end of the spectrum than I anticipated.

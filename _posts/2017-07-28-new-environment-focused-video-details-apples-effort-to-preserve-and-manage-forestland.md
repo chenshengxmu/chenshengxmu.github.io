@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New video details Apple's effort to preserve and manage forestland
+title: New video details Apples effort to preserve and manage forestland
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/07/Apple-Earth-Day-video-protecting-forestry.png)
 * We’re more than three months past Earth Day but that didn’t stop Apple from posting a brand new, whimsically animated Earth Day video to its YouTube channel yesterday.

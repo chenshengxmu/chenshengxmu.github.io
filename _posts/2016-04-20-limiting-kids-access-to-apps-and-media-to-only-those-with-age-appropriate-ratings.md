@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to limit kids' access to apps and media to only those with age-appropriate ratings
+title: How to limit kids access to apps and media to only those with age-appropriate ratings
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/04/iOS-9-Restrictions-media-iPhone-teaser-001.jpg)
 * With the handy Restrictions feature on the iPhone, iPod touch, iPad and Apple TV (and let’s not forget about Parental Controls on the Mac!), blocking or limiting certain capabilities and services on your Apple devices becomes a simple task.

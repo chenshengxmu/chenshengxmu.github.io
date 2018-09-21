@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DisplayMate- 9.7" iPad Pro has a 'truly impressive' display, much better than iPad Air 2's
+title: DisplayMate- 9.7 iPad Pro has a truly impressive display, much better than iPad Air 2s
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/9.7-ipad-pro-gaming.jpg)
 * An in-depth analysis of Apple’s latest display technology conducted by DisplayMate has shown that the new 9.7-inch iPad Pro is outfitted with “a truly impressive” Retina display, which DisplayMate described as a “major upgrade” over that used in the iPad Air 2.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here comes Apple's 2016 Holiday Gift Guide
+title: Here comes Apples 2016 Holiday Gift Guide
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/11/Apple-2016-holiday-gift-guide.png)
 * Yup, it’s that time of year again—with the holiday shopping season just around the corner, Apple’s 2016 Holiday Gift Guide recommends various gift ideas ranging from the iPhone 7, iPad Pro, Apple Pencil and Apple Watch to the fourth-generation Apple TV, 12-inch MacBook and gift cards.

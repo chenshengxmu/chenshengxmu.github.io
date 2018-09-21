@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You'll finally be able to control your AM/FM radio through CarPlay thanks to Gracenote
+title: Youll finally be able to control your AM/FM radio through CarPlay thanks to Gracenote
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/Gracenote-CarPlay-Radio.jpg)
 * Finally AM/FM radio will be controllable through CarPlay’s native interface thanks to a new app from music-tagging database Gracenote.

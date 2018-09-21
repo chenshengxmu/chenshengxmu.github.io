@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Verizon's LTE Requirement Still a Ways Off
+title: Verizons LTE Requirement Still a Ways Off
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/verizon-wireless.jpg)
 * Yesterday, we passed on a report from CNET that claimed that Verizon would soon be enforcing a “hard requirement” that all future smartphones be LTE-compatible. The news made some sense considering the carrier has been leading the LTE movement.

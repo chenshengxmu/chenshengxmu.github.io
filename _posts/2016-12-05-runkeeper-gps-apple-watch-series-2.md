@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Map your runs accurately without iPhone in Runkeeper's latest Apple Watch update
+title: Map your runs accurately without iPhone in Runkeepers latest Apple Watch update
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/12/RunKeeper-GPS-update-Apple-Watch-screenshot-001.png)
 * If you own an Apple Watch Series 2, you can leave your iPhone at home the next time you go on a run with Runkeeper as the app’s just been updated with full support for the built-in GPS on the Apple Watch Series 2. Runkeeper’s refreshed experience also includes new active metrics with charts for target pace and heart rate.

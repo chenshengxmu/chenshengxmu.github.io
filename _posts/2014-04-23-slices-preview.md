@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Upcoming 'Slices' jailbreak tweak allows you to create multiple user profiles for apps
+title: Upcoming Slices jailbreak tweak allows you to create multiple user profiles for apps
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/Slices-02.png)
 * An exciting new jailbreak tweak is on the horizon, and it looks extremely promising for those of you who have multiple accounts for service based apps like Instagram. Slices is an upcoming tweak that will allows you to create multiple settings and user bundles for applications, effectively allowing you to have multiple user profiles for any app on a single device.

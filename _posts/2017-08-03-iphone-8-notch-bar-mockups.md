@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Apple could embrace iPhone 8's rumored notch in the status bar
+title: How Apple could embrace iPhone 8s rumored notch in the status bar
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/iPhpne-8-notch-concept-002.jpg)
 * With Apple’s high-end iPhone 8 rumored to feature a notch in the middle of the iOS status bar at the top of its seamless screen, Max Rudberg has come up with some thought-provoking mockups that highlight how the Cupertino firm could own that pesky break in the OLED display.

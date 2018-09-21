@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review- Asus ZenFone 2 from an iPhone user's perspective
+title: Review- Asus ZenFone 2 from an iPhone users perspective
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/05/ZenFone-2-Review-intel-atom.jpg)
 * Today, I picked up the ZenFone 2 from Asus. It’s a mid-tier Android phone with flagship specifications.

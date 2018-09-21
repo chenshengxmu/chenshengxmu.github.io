@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Check out the architectural model of Apple's newly-opened Piazza Liberty store in Milan
+title: Check out the architectural model of Apples newly-opened Piazza Liberty store in Milan
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/Apple-piazza-liberty-store-milan-italy-012.jpg)
 * Thursday, Apple welcomed the general public and members of the press to the scheduled grand opening of its breathtaking new flagship retail store and amphitheater at Milan’s Piazza del Liberty square. Italy’s seventeenth Apple retail location and its first based on next-generation Apple retail design comes with a dramatic glass fountain on the outside.

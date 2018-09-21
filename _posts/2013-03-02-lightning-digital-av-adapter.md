@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Teardown reveals Apple's Lightning Digital AV Adapter contains tiny computer
+title: Teardown reveals Apples Lightning Digital AV Adapter contains tiny computer
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/digital-av-adapter-1.jpg)
 * This is kind of interesting. The folks over at Panic, the Oregon-based software company behind Mac apps like Coda and Transmit, were doing some digging around in Apple’s Lightning Digital AV Adapter, and discovered it contains a tiny computer.

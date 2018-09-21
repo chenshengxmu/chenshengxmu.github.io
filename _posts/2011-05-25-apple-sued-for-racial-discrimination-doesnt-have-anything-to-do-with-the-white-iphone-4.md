@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Sued for Racial Discrimination, Doesn't Have Anything to Do with the White iPhone 4
+title: Apple Sued for Racial Discrimination, Doesnt Have Anything to Do with the White iPhone 4
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/06/iPhone-4-Black-White1.jpg)
 * As a French citizen living in the US, I am amazed by the amount of lawsuits filed by Americans on a constant basis. There always seems to be a good reason to sue someone, even if it sounds frivolous.

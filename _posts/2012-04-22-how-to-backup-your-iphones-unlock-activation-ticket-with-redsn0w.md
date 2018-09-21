@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to backup your iPhone's unlock activation ticket with RedSn0w
+title: How to backup your iPhones unlock activation ticket with RedSn0w
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/Sam-Unlock-Backup-RedSn0w.jpg)
 * Backing up your iPhone’s activation ticket was a step suggested by iPhone Dev Team member MuscleNerd. Fortunately for us, his team has made it even easier to perform such a backup using the latest version of RedSn0w.

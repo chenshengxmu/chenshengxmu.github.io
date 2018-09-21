@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AnalogStatus puts an analog clock on your iPhone's status bar
+title: AnalogStatus puts an analog clock on your iPhones status bar
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/07/AnalogStatus-Analog-Clock-in-iOS-Status-Bar.png)
 * Looking for a fancier way to view the time on your jailbroken iOS 9 iPhone or iPad?

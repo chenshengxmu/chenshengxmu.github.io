@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beats 1, Apple's 24/7 Internet radio, makes an appearance in iOS betas ahead of June 30 rollout
+title: Beats 1, Apples 24/7 Internet radio, makes an appearance in iOS betas ahead of June 30 rollout
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/iOS-8.4-beta-Beats-1-iPad-screenshot-005.png)
 * Beats 1, Apple’s non-stop Internet radio station hosted by celebrity DJs, has made its first appearance in latest betas of iOS 8.4 and iOS 9 which are available to developers.

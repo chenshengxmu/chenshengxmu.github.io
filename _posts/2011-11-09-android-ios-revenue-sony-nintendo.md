@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Android and iOS Gaming Now Worth More Than Sony and Nintendo's Portable Divisions Combined
+title: Android and iOS Gaming Now Worth More Than Sony and Nintendos Portable Divisions Combined
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/005733-RR2HD_screen_01_500.jpg)
 * Just read that title again. Perhaps a third time. Ready? Let us continue.

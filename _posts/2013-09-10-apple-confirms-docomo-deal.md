@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple announces new iPhone partnership with Japan's DoCoMo
+title: Apple announces new iPhone partnership with Japans DoCoMo
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/docomo-e1378407444615.jpg)
 * Although it wasn’t mentioned at the iPhone event, Apple announced today that it has partnered up with Japan’s NTT DoCoMo to offer the iPhone this fall. The company just issued a press release confirming the deal with the carrier.

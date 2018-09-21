@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile sends out invites for September 10th 'Uncarrier 7.0' event
+title: T-Mobile sends out invites for September 10th Uncarrier 7.0 event
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/uncarrier7feat.jpg)
 * T-Mobile today sent out invitations to a media event scheduled for September 10th—notably the day after Apple’s iPhone keynote. As you can see in the image above provided by TmoNews, the invite reads “This time it’s personal,” with “7.0” printed largely in the background.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pull To Sync for Reeder' Adds Twitter Like Refreshing to Your iPhone's Reeder App
+title: Pull To Sync for Reeder Adds Twitter Like Refreshing to Your iPhones Reeder App
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/Pull-To-Sync-for-Reeder-05.png)
 * Tired of tapping that dreaded refresh button whenever you want an update to the latest happenings in your Reeder app?

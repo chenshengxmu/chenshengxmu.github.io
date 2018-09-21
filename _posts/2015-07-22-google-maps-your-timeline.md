@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Maps gaining a cool new feature to revisit all the places you've explored
+title: Google Maps gaining a cool new feature to revisit all the places youve explored
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/07/Google-Maps-Your-Timeline-Mac-screenshot-001.png)
 * Google yesterday announced a new feature for users of its mapping service which makes it easy and fun to reminisce about the places you’ve explored with Google Maps.

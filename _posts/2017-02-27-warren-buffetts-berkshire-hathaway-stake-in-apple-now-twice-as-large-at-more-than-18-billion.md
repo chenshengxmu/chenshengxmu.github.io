@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Warren Buffett's stake in Apple now twice as large, reaches more than $18 billion
+title: Warren Buffetts stake in Apple now twice as large, reaches more than $18 billion
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/Apple-Store-Union-Square-image-004.jpg)
 * Berkshire Hathaway’s position in Apple is now more than twice as large as previously disclosed at $18.2 billion, investment tycoon Warren Buffett told CNBC in an interview on Monday. At the end of last year, Berkshire Hathaway owned 61 million Apple shares, worth $7 billion at the time.

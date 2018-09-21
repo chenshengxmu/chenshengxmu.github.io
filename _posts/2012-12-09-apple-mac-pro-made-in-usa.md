@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's 'Made in USA' Mac could be the next-gen Mac Pro
+title: Apples Made in USA Mac could be the next-gen Mac Pro
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/Mac-Pro-front-left-angled-001.jpg)
 * The industry was taken aback a little when Tim Cook on Friday told NBC’s Brian Williams in his first TV interview since becoming the CEO that Apple plans to bring some of the manufacturing jobs back home from China. He even went on to confirm that the company pledged to spend a hundred million bucks to make it happen, but stopped short of specifying which Macs would be assembled in the United States.

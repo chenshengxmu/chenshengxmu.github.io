@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung introduces 'Sami,' an open health-tracking platform
+title: Samsung introduces Sami, an open health-tracking platform
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/samsung-health-sami.jpg)
 * In less than a week, Apple will be taking the stage at its WWDC keynote event to talk about OS X, iOS 8 and its new health-tracking ‘Healthbook’ app. Unsurprisingly, Samsung tried to beat them to the punch today by announcing its own healthcare initiative.

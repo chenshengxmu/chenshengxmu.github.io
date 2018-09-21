@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Case-makers starting to buy into recent iPhone "leaks"
+title: Case-makers starting to buy into recent iPhone leaks
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/iphone-5-case-rendering-e1340127453605.jpg)
 * Despite Tim Cook’s vow to “double down on secrecy,” we’ve seen a surprising amount of information regarding the next-generation iPhone in the past few weeks. We know its screen size, resolution, and even have a good idea of what it looks like.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Relax with Alto’s Adventure's new Zen Mode
+title: Relax with Alto’s Adventures new Zen Mode
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/Altos-Adventure-Zen-mode-teaser-001.jpeg)
 * Alto’s Adventure from developer Snowman, the popular endless snowboarding odyssey set in the tranquil wilderness, was updated this morning on the App Store with all-new Zen and Photo modes and other perks.

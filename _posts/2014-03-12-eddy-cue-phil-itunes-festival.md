@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Eddy Cue and Phil Schiller on hand for Apple's SXSW iTunes Festival
+title: Eddy Cue and Phil Schiller on hand for Apples SXSW iTunes Festival
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/iTunes-Festival-teaser-002.png)
 * Apple’s SXSW iTunes Festival kicked off last night at the Moody Theater in Austin, Texas. The 5-day concert is the first that the company has hosted in the United States, and will feature performances by a number of high-profile musicians.

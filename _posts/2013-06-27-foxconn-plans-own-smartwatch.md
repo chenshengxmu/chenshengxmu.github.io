@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Foxconn showcases its own smartwatch ahead of Apple's iWatch
+title: Foxconn showcases its own smartwatch ahead of Apples iWatch
 ---
 * Could Apple’s largest contract manufacturer also become a competitor? Foxconn’s parent company, Hon Hai, unveiled a smartwatch that connects to your iPhone, displaying phone calls and Facebook messages. The news comes as the Taiwan-based assembler of iPhones seeks ways to diversify income as the  industry undergoes some uncertain times.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/apple-foxconn-watch.jpg)

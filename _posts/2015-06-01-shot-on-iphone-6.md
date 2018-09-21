@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple showcases seven new "Shot on iPhone 6" videos
+title: Apple showcases seven new Shot on iPhone 6 videos
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/Shot-on-iPhone-61.png)
 * As it turns out, the iPhone is pretty good at shooting video, too. To further prove its point, Apple has expanded its “Shot on iPhone 6” campaign, which it kicked off back in March.

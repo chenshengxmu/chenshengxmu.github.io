@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Seagate's Backup Plus line offers various storage options in small package
+title: Seagates Backup Plus line offers various storage options in small package
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/Seagate-Backup-Plus-Slim-2TB.png)
 * Seagate is the world’s largest provider of external hard drives by volume. Personally, I have around five or more scattered around my home, office and desk–too many to attempt to round up for an accurate count. They make great LAN, portable, wireless, and desktop class storage. Of course Seagate makes internal drives as well, but my experience with them is less versed. As I have witnessed, assumedly along with others familiar with the product line, Seagate is now producing a more creative approach to an otherwise simple storage device.

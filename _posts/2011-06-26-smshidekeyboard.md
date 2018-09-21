@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SMSHideKeyboard' Gives You More Room to View Your SMS History
+title: SMSHideKeyboard Gives You More Room to View Your SMS History
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/SMSHideKeyboard-Top.png)
 * One of the new features in iOS 5 is the ability to hide your keyboard when viewing your SMS history in the iMessage app.

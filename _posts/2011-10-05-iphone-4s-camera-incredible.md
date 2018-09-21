@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The iPhone 4S Camera is Incredible, Here's the Evidence
+title: The iPhone 4S Camera is Incredible, Heres the Evidence
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/features_camera_recognition-e1317828914659.jpeg)
 * Apple announced a 8 megapixel camera for the iPhone 4S yesterday, and full-res photos taken on the 4S have been provided on Apple’s website for comparison.

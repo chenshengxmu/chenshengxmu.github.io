@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nomad's mini universal cable is my go-to travel accessory
+title: Nomads mini universal cable is my go-to travel accessory
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/Nomad-Mini-Universal-Lightning-Cable-Tips.jpg)
 * I tend to be moving around quite a bit. Traveling for work, visiting family, or just exploring. This means I inevitably have a whole host of gear that constantly needs power. We’ve covered our fair share of cables, and batteries.

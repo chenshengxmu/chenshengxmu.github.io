@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is Google Now draining your iPhone's battery?
+title: Is Google Now draining your iPhones battery?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/Google-Now-iOS-teaser-001.jpg)
 * Google’s take on search AI dubbed Google Now went live Monday via an update to the Internet giant’s native iOS Search app.

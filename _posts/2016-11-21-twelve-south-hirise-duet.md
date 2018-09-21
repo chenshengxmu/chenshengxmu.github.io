@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twelve South's new HiRise Duet simultaneously charges iPhone/iPad and Apple Watch
+title: Twelve Souths new HiRise Duet simultaneously charges iPhone/iPad and Apple Watch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/11/HiRise-Duet-image-010.jpg)
 * Twelve South’s versatile HiRise accessory is among the best stands I’ve used for charging my iPhone, iPad and iPod touch devices. Recently, it’s gotten even better with an overhauled version sporting refined looks, reduced footprint and increased stability with larger iOS devices.

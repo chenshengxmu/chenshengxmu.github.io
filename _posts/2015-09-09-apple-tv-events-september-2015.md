@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple TV's Events channel updated in time for today's event
+title: Apple TVs Events channel updated in time for todays event
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/Apple-TV-September-2015-event-channel.jpg)
 * The Apple Events channel on your Apple TV box has been refreshed with matching teaser graphics and description ahead of today’s ‘Hey Siri’ media event. “Tune in at 7:00 PM (Local Time) on September 9 to watch this event live,” reads the description on the screen. The splash page displays personalized livestream times depending on your whereabouts.

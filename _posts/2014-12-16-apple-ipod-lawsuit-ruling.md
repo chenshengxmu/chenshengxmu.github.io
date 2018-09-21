@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple did not harm consumers with iTunes' FairPlay digital rights management, ruling finds
+title: Apple did not harm consumers with iTunes FairPlay digital rights management, ruling finds
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/Steve-Jobs-video-deposition-iPod-trial-drawing-001.png)
 * Apple’s proprietary digital rights management software, FairPlay, that prevented users from loading songs from rival music stores on early iPods, did not harm consumers nor did it violate the United States antitrust laws, an eight-person jury has determined.

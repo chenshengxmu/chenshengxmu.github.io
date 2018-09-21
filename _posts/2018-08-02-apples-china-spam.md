@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's working with China to find ways to cut down on iMessage spam
+title: Apples working with China to find ways to cut down on iMessage spam
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/06/tim-cook-china-1.jpg)
 * Apple has been talking with telecom companies in China to find ways to reduce spam received through its iMessage service. This news comes just days after China began criticizing the iPhone maker for allegedly allowing illegal content on its platform.

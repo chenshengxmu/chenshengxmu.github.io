@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung's Anti-Apple TV Ads Continue by Taking Cheap Shots at iCloud
+title: Samsungs Anti-Apple TV Ads Continue by Taking Cheap Shots at iCloud
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/new-samsung-tv-ad.jpg)
 * Samsung has been on a warpath with its advertising team over the past few weeks. We’ve seen them air multiple commercials that blatantly take shots at iPhone users, and a full-blown Facebook anti-Apple campaign.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple working on new 'Are You Sleeping' TV show starring Octavia Spencer
+title: Apple working on new Are You Sleeping TV show starring Octavia Spencer
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/oct.jpg)
 * Apple has yet another new series in the works, this time an original drama called “Are You Sleeping” based on Kathleen Barber’s novel.

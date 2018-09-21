@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's Search for iOS app gains Google Now traffic info and TV recommendations, more
+title: Googles Search for iOS app gains Google Now traffic info and TV recommendations, more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/google-search-4.png)
 * The Internet giant Google on Friday refreshed its native Google Search application for the iPhone and iPad with enhancements to the built-in Google Now feature in the form of new cards for personalized TV recommendations and traffic information.

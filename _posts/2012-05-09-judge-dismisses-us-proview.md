@@ -1,6 +1,6 @@
 ---
 layout: post
-title: U.S. version of Proview's iPad lawsuit dismissed by California judge
+title: U.S. version of Proviews iPad lawsuit dismissed by California judge
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/courtroom-gavel.jpg)
 * By now, most of you are likely familiar with the ongoing legal battle between Apple and Proview over the iPad trademark. Much of the dispute has unfolded in or around China, but in February the monitor-maker brought its fight Stateside.

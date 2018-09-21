@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple could bring iPhone's Home app to the Mac via macOS 10.14 code-named “Liberty”
+title: Apple could bring iPhones Home app to the Mac via macOS 10.14 code-named “Liberty”
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/02/Apple-Home-App-for-HomeKit-Buttons.jpg)
 * Apple’s Home app, which allows iPhone and iPad users to control smart appliances that are compatible with its HomeKit framework for the smart home, could be coming to the Mac platform via the next major release of the macOS operating system due this fall.

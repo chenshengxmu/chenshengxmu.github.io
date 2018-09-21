@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's new celebrity iPhone 4S ads are testing well with viewers
+title: Apples new celebrity iPhone 4S ads are testing well with viewers
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/sam-l-jack-iphone.jpg)
 * Last week, two new iPhone 4S commercials surfaced starring Samuel L. Jackson and Zooey Deschanel. And given the fact that Apple hasn’t used celebrities in its TV spots in quite some time, there was some questions on who was behind the ads.

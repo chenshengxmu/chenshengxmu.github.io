@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Watch Apple's new “Selfies on iPhone X” ads celebrating the annual Carnival of Brazil
+title: Watch Apples new “Selfies on iPhone X” ads celebrating the annual Carnival of Brazil
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/Brazilian-Carnival-Apple-homepage.jpg)
 * This past weekend, a trio of nicely done new videos appeared on Apple’s Brazilian YouTube channel, titled “Selfies on iPhone X” and similar to its larger “Shot on iPhone” series” campaign.

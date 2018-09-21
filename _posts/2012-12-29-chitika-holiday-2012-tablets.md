@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chitika- iPad rules 'biggest ever' holiday
+title: Chitika- iPad rules biggest ever holiday
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/chitika_tablet_chart.png)
 * How did holiday sales of tablets shake out? Although sales numbers aren’t yet available, we can get some idea of which devices were in most demand. For instance, Amazon’s Kindle Fire, followed by Samsung’s Galaxy tablets and Google Nexus devices were the top three non-iPad products serving ad impressions in December, according to an ad firm.

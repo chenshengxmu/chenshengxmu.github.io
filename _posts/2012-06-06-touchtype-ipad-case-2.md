@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spending time with Kickstarter's Touchtype iPad & keyboard case
+title: Spending time with Kickstarters Touchtype iPad & keyboard case
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/touchtype.jpg)
 * Not too long ago we told you about a new Kickstarter project that caught our eye. Called the Touchtype, the project offered up a new type of iPad case that really piqued our interest.

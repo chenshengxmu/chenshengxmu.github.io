@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple- DOJ's revised e-book remedies a 'broadside' favoring Amazon
+title: Apple- DOJs revised e-book remedies a broadside favoring Amazon
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/iBooks-three-up-MacBook-iPad-iPhone-e1374839022648.jpg)
 * Even after the end of a formal antitrust trial, both sides in ebook pricing case continue to argue. Apple said the Department of Justice’s latest version of proposed penalties are a “broadside” favoring rival Amazon. The comments by Apple’s legal team came as the government and the iBooks company hammer out details largely in public.

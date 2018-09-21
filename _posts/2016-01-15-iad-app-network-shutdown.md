@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple announces it's shutting down its iAd app network
+title: Apple announces its shutting down its iAd app network
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/iad.png)
 * Apple on Friday announced that it plans to shutdown its iAd app network in June. The company made the statement on its developer web portal, telling app-makers that it is no longer accepting applications for the network.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OWC launches Thunderblade V4, the world's fastest external drive
+title: OWC launches Thunderblade V4, the worlds fastest external drive
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/OWC-Thunderblade-V4-Front.jpg)
 * Every once in a while you stumble onto a piece of gear that is so crazy powerful you just lust after it, even if its capabilities far exceeds your needs. I myself do it often with cameras, TVs, and cars. However, this time it was a hard drive that caught my eye.

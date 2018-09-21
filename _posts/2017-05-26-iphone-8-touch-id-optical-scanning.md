@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 8's Touch ID said to use on-screen optical fingerprint scanning
+title: iPhone 8s Touch ID said to use on-screen optical fingerprint scanning
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/Fingerprint-001.jpg)
 * Apple is said to have developed a next-generation Touch ID sensor where an OLED display of the device doubles as a fingerprint sensor. This should enable users to rest their finger on the display to authenticate themselves.

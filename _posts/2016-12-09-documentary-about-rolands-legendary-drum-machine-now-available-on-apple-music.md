@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Documentary about Roland's legendary drum machine now available on Apple Music
+title: Documentary about Rolands legendary drum machine now available on Apple Music
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/11/Roland_TR-808-image-001.jpg)
 * Are you an Apple Music subscriber? If not, you’re missing out on some cool documentaries about music produced exclusively for Apple Music fans. As promised, Apple Music subscribers can now watch DJ Zane Lowe-narrated “808: The Movie”, marking the Cupertino company’s first original documentary.

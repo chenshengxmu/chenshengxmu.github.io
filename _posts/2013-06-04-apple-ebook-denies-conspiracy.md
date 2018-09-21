@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple- no conspiracy in e-book case, DoJ unfairly twisted Steve's words
+title: Apple- no conspiracy in e-book case, DoJ unfairly twisted Steves words
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/iBooks-Textbooks-iPad.jpg)
 * Yesterday, the Department of Justice (DoJ) publicized its antitrust case against Apple in the form of an 81-page slide deck to prove that the iPhone maker has teamed up with five major U.S. publishers to form a cartel in order to raise prices of digital books. But as Tim Cook said at the D11 conference, Apple is going to fight the “bizarre” case and has no intention to “sign something that says we did something that we didn’t do”.

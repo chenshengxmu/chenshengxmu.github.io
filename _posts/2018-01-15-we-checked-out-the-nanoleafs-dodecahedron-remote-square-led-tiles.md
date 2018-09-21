@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We checked out the Nanoleaf's dodecahedron Remote & square LED tiles
+title: We checked out the Nanoleafs dodecahedron Remote & square LED tiles
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/Nanoleaf-HomeKit-Remote-CES-2018.jpg)
 * The Nanoleaf Aurora is one of my favorite HomeKit accessories. At CES 2018, they’ve announced a pair of new products, that are both seriously cool. The 12-sided HomeKit remote, as well as the touch-sensitive square LED tiles.

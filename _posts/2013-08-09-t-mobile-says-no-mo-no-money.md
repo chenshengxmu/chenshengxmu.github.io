@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile ending 'no money down' promotion for iPhone 4S,5
+title: T-Mobile ending no money down promotion for iPhone 4S,5
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/iPhone-5-now-on-T-Mobile-e1376006188544.png)
 * If you were planning to pickup an iPhone 4S or 5 on T-Mobile anytime soon, you better act fast. According to a new report, the carrier is ending its popular ‘$0 down’ promotion on the two handsets that it just started in late July.

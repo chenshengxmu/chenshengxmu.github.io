@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Report- TSMC has a "good chance" of winning Apple's chip biz in 2014
+title: Report- TSMC has a good chance of winning Apples chip biz in 2014
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/A6-Chip.jpg)
 * Taiwan Semiconductor Manufacturing Company (TSMC) has long been rumored to become an alternative supplier for Apple-designed processors powering iOS devices. However, yield issues and manufacturing difficulties with the foundry’s 20-nanometer process pushed back those plans.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MacBook Pro didn't double the RAM because 32GB RAM would decrease battery life
+title: MacBook Pro didnt double the RAM because 32GB RAM would decrease battery life
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/hello-again-event-various-macbook-pro.jpg)
 * I’ve had a blast configuring the new MacBook Pro in Apple’s online store and a lack of 32GB RAM upgrade option immediately jumped out at me. Thirteen-inch Pros include 8GB RAM while the faster and pricier fifteen-inch machines double that to to sixteen gigabytes.

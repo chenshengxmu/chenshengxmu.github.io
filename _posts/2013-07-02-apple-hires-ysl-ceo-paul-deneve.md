@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple hires former fashion label CEO Paul Deneve for 'special projects'
+title: Apple hires former fashion label CEO Paul Deneve for special projects
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/Paul-Deneve-image-001.jpg)
 * If you thought Apple’s done hiring, think again. Just as we’ve digested news that the California firm hired Hulu executive Pete Distad to help its executives negotiate content deals with media and cable companies like Time Warner Cable, earlier today AppleInsider claimed the company hired Paul Deneve, a former CEO of the luxury French fashion label Yves Saint Laurent, to work on special projects as a Vice President reporting directly to Apple’s boss Tim Cook…

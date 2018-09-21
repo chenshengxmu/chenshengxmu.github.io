@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft targets Apple's MacBook Air with new laptop/tablet hybrid- $1,499 Surface Book
+title: Microsoft targets Apples MacBook Air with new laptop/tablet hybrid- $1,499 Surface Book
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/10/Microsoft-Surface-Book-image-008.jpg)
 * In addition to launching the new $899 Surface Pro 4 with the Surface Pen stylus, Windows giant Microsoft has another highly-popular Apple product in its crosshair: the MacBook Air.

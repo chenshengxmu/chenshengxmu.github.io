@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Greenpeace activists protest outside Apple's Irish HQ, winning employees' support
+title: Greenpeace activists protest outside Apples Irish HQ, winning employees support
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/Greenpeace-activists-at-Apple-Ireland-headquarters-with-Clean-Our-Cloud-banner.jpeg)
 * Just a day following an unpleasant report from Greenpeace, activists with the non-governmental environmental organization gathered outside Apple’s Irish headquarters to distribute leaflets and place banners urging the company to “clean our cloud”.

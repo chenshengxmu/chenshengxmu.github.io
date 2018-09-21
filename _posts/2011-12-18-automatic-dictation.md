@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Automatic Dictation' Brings a Siri-Like Experience to Your iPhone
+title: Automatic Dictation Brings a Siri-Like Experience to Your iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/Automatic-Dictation.jpg)
 * It’s not Siri. In fact, it’s not even close. Yet, you still may find it interesting enough to give it a shot, especially if you’re already a user of Voice Activator.

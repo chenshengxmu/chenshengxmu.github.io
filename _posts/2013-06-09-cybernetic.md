@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cybernetic' brings new options to banner notifications
+title: Cybernetic brings new options to banner notifications
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/Cybernetic-featured.jpg)
 * Cybernetic is a recently released jailbreak tweak that allows you to alter the way banner notifications work. For instance, if you tap on a banner, you can make the banner dismiss instead of opening the app associated with the notification.

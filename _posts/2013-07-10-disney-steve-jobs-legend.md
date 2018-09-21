@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Disney to honor Steve Jobs with prestigious 'Legends' award
+title: Disney to honor Steve Jobs with prestigious Legends award
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/disney-award.png)
 * Disney announced its 2013 Disney Legends Award honorees today. The awards will be presented next month at Disney’s D23 expo, a 3-day event held for fans, giving them a rare opportunity to be a part of the always touching and memorable presentation.

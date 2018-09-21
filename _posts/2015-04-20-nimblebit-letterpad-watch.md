@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NimbleBit releases new word game 'Letterpad' with Apple Watch support
+title: NimbleBit releases new word game Letterpad with Apple Watch support
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/04/letterpad-2.png)
 * Long-time developer NimbleBit, responsible for several hit titles such as Tiny Tower and Pocket Planes, released a new game on Monday called ‘Letterpad.’ It’s a word puzzler, and it’s available for free for both the iPhone and iPad, as well as the Apple Watch.

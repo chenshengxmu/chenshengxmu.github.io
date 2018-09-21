@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple said to be "aggressively" recruiting ex-Google Maps staff
+title: Apple said to be aggressively recruiting ex-Google Maps staff
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/iOS-6-Maps-local-search-e1348487616747.jpg)
 * Apple publicly commented on the ongoing criticism of its new Maps application last week, essentially asking users to be patient, as the service would get better over time.

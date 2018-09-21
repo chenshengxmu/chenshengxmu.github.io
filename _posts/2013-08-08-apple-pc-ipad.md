@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's PC share drops as iPads cannibalize Macs
+title: Apples PC share drops as iPads cannibalize Macs
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/Apple-devices-001-iPad-iPhone-5-MacBook-Air1.jpg)
 * The PC market – once comprised of hulking desktop machines and slim laptops – increasingly relies on tablets for a fresh infusion of sales. The latest instance of this new world order comes from market researcher Canalys, out with its PC forecast which includes tablet shipments.

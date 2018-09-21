@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reuters clarifies budget iPhone story- Apple won't blindly pursue marketshare
+title: Reuters clarifies budget iPhone story- Apple wont blindly pursue marketshare
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/iphone-user.jpg)
 * And the plot continues to thicken. After two major news outlets ran stories earlier this week claiming that Apple was working on a less-expensive iPhone, Reuters reported that the company had no such plans, citing comments made to a Chinese newspaper by Apple’s marketing chief Phil Schiller.

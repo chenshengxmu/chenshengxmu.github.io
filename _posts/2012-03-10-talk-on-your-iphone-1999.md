@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Talk on your iPhone like it's 1999 with the 90's Phone Case
+title: Talk on your iPhone like its 1999 with the 90s Phone Case
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/90s-phone-case.jpg)
 * The styling of the iPhone 4, and now the iPhone 4S, has received a lot of praise over the past two years. It’s been described as “classic” and “retro.” In fact, Steve Jobs himself likened the handset’s design to that of a “beautiful, old Leica camera.”

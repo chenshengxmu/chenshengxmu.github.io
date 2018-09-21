@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Another "Spy Photo" of the iPhone 5
+title: Another Spy Photo of the iPhone 5
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/iphone-5-spy-e1312478615590.jpg)
 * You know Apple is about to launch a new product when spy photos of the device start surfacing in bunches. Last week 9to5Mac posted a blurry snapshot of a purposed iPhone 5 in the wild, but most folks wrote it off as a 3GS.

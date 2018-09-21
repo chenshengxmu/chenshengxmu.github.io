@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apps stuck on "Installing..." on your Home screen? Try this
+title: Apps stuck on Installing... on your Home screen? Try this
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/App-Stuck-Installing-iOS-2.png)
 * It seems like at the worst times, iOS apps can sometimes glitch out in the middle of installation. When this happens, you might see the “Installing…” indicator on the app icon on your Home screen for ages, when the app’s installation should have already been completed.

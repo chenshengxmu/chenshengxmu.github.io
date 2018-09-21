@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Purported photos of Apple's smaller dock connector [updated]
+title: Purported photos of Apples smaller dock connector [updated]
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/nowhereelse_mini_dock_connector_1.jpg)
 * With Apple’s all-but-confirmed iPhone event just a few weeks away, purported part leaks are starting to ramp up. Last night, we saw pictures of the handset’s alleged battery, and this morning another component has surfaced.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Department of Justice approves Apple's acquisition of Nortel patents
+title: Department of Justice approves Apples acquisition of Nortel patents
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/Apple_logo_-_iPhone_event.jpeg)
 * The US Department of Justice has just approved the sale of Nortel patents to the group Rockstar Consortium, which is an alliance made up of Apple, Microsoft, Research In Motion, Ericsson and Sony. The acquisition is priced at roughly $4.5 billion and will give the group 4,000 patents, reports The Next Web.

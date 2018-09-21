@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple to livestream California's iPhone event in Tokyo, Berlin and Beijing
+title: Apple to livestream Californias iPhone event in Tokyo, Berlin and Beijing
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/Bas-van-der-Ploeg-splash-image.png)
 * In addition to the upcoming iPhone keynote next Tuesday, Apple in a surprise announcement confirmed it will be holding a standalone press conference the following day, September 11, in Beijing, China. The development prompted speculation that the Beijing event could serve as a launchpad for a landmark deal with China Mobile.

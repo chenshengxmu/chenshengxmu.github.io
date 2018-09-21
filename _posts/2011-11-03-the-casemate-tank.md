@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Case-Mate's Tank is the Toughest iPhone Case You've Ever Seen
+title: Case-Mates Tank is the Toughest iPhone Case Youve Ever Seen
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/casemate-tank-e1320357823411.jpg)
 * Apple has been highly criticized for the glass panels it uses on the front and back of its smartphone. The design was introduced in 2010 with the iPhone 4, and has obviously stuck around with the unchanged iPhone 4S.

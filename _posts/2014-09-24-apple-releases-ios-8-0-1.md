@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't update to iOS 8.0.1
+title: Dont update to iOS 8.0.1
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/iOS-8.0.1-Update-e1411577877891.png)
 * Warning: we are noticing that after installing iOS 8.0.1, our iPhones are showing ‘no service’ and Touch ID no longer works. We’ve confirmed this with several readers as well, so until we know more, we recommend holding off on the update. Video below.

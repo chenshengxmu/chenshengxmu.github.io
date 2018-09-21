@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Popular puzzle game Har•mo•ny 3 is Apple's new Free App of the Week
+title: Popular puzzle game Har•mo•ny 3 is Apples new Free App of the Week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/12/Harmony-3-for-iOS-Free-App-of-the-Week-teaser-001.png)
 * Apple has named the puzzle game Har•mo•ny 3 from BorderLeap its new Free App of the Week in the App Store, meaning you can download the $1.99 iPhone, iPod touch and iPad game at no charge until this coming Thursday.

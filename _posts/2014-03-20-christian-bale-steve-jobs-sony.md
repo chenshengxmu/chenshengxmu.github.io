@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Christian Bale reportedly front-runner for Steve Jobs role in Sony's biopic
+title: Christian Bale reportedly front-runner for Steve Jobs role in Sonys biopic
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/bale-as-jobs.jpg)
 * Academy Award-winner Christian Bale is said to be the front-runner for the Steve Jobs role in Sony’s upcoming biopic about the Apple founder. And if you’re a fan of the Cupertino company, or just a fan of good movies in general, this is exciting news.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jony Ive speaks on MacBook Pro's Touch Bar, touchscreen Macs & more
+title: Jony Ive speaks on MacBook Pros Touch Bar, touchscreen Macs & more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/Charlie-Rose-Jony-Ive-interview-image-002.jpg)
 * Jony Ive, Apple’s Chief Design Officer, sat for a Q&A with CNET’s News Editor in Chief Connie Guglielmo following last week’s “Hello again” Mac event. Ive talked about various topics, including design considerations behind the creation of the Touch Bar, a marquee new feature of the new notebook, saying it’s “just the beginning of a very interesting direction”. He explained why Apple’d rejected a touchscreen iMac “many, many years ago” and more.

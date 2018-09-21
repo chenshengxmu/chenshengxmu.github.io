@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook ‘deeply offended’ by BBC's allegations of factory worker mistreatment
+title: Tim Cook ‘deeply offended’ by BBCs allegations of factory worker mistreatment
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/Tim-Cook-One-More-Thing-001.jpg)
 * An undercover documentary released yesterday by the BBC about working conditions in Pegatron’s iPhone factories has reportedly sent CEO Tim Cook and the rest of Apple’s executive team through the roof, The Telegraph reported Friday.

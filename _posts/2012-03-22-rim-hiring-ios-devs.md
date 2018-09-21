@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RIM looking to write "exciting" enterprise apps for iOS devices, recruitment ad suggests [updated]
+title: RIM looking to write exciting enterprise apps for iOS devices, recruitment ad suggests [updated]
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/RIM-headquarters-exterior-001.jpg)
 * If you’re a veteran iOS developer capable of “architecting, designing, developing and testing complex applications for iPhone and iPad”, you could be a fit for Research In Motion. The BlackBerry maker has been advertising an interesting job vacancy on LinkedIn since two days ago.

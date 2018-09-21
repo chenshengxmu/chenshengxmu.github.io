@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rumor- iPhone 5S's A7 chip is 31% faster, has separate motion tracking core
+title: Rumor- iPhone 5Ss A7 chip is 31% faster, has separate motion tracking core
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/Apple-A7-bite-me-Samsung-e1365604574460.jpg)
 * According to sources who spoke with an anchor for Fox News Channel, the A7 chip expected to power Apple’s iPhone 5S is “very fast,” nearly a third faster than the A6 silicon ticking inside the current-generation iPhone 5. That’s only half the story as the reporter has also heard there’s a separate chip inside the device devoted to motion tracking.

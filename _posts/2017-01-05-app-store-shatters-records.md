@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple- App Store shattered records on New Year's Day
+title: Apple- App Store shattered records on New Years Day
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/tvOS-10-App-Store-Apple-TV-Siri-Remote-teaser-002.jpg)
 * Apple on Thursday announced that the App Store broke records on the first of January. The company says New Year’s Day was the Store’s single busiest day ever with nearly $240 million in revenue.

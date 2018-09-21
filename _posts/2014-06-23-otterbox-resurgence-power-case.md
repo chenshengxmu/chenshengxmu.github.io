@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OtterBox launches Resurgence Power Case doubling your iPhone's battery usage
+title: OtterBox launches Resurgence Power Case doubling your iPhones battery usage
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/Otterbox-Resurgence-Power-Case-image-004.jpg)
 * As you know, OtterBox makes a myriad of smartphone cases for a living. The Fort Collins, Colorado based firm is perhaps best known for using military-grade rugged technology that offers exceptional protection for your devices in the harshest of environments.

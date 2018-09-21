@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Report- iPad mini is WiFi-only, Apple to update iPad 3 with UK's 4G LTE and Lightning
+title: Report- iPad mini is WiFi-only, Apple to update iPad 3 with UKs 4G LTE and Lightning
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/iPad-mini-Sonny-Dickson-001.jpg)
 * We may have been exposed to a surprising amount of leaks pertaining to the looks and hardware features of a smaller iPad Apple is thought to be introducing later this month. One important feature has remained a mystery thus far: the device’s price point.

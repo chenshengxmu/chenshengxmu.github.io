@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Infernal Innovations' car mount magnetically suspends your phone
+title: Infernal Innovations car mount magnetically suspends your phone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/Infernal-Innovations-magnetic-phone-mount-iphone.jpg)
 * One of the many first-world problems people face everyday is having a convenient place to stow their smartphone whilst driving. Leaving it in one’s pocket seems to be the default move, but if talking while driving is legal in your area, pulling a phone from your pocket is arguably more dangerous than the phone call itself. Even for simple tasks like skipping a song, or following driving directions, there has to be a better solution.

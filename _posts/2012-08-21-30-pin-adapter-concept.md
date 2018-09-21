@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Concept shows what Apple's 30-pin adapter could look like
+title: Concept shows what Apples 30-pin adapter could look like
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/iPhone_5_micro_usb_adapter1.png)
 * Of all the things we think we know about Apple’s next smartphone, a smaller dock connector seems to be one of the most certain. After several years, it appears Apple is finally prepared to ditch its trusty 30-pin design in favor of a smaller solution.

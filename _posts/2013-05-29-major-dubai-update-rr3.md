@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Major 'Dubai' update released for Real Racing 3
+title: Major Dubai update released for Real Racing 3
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/Real-Racing-3-teaser-003.jpg)
 * Good news this afternoon for Real Racing fans. Electronic Arts has released the massive ‘Dubai’ update we told you about earlier this week, and it is now available in the App Store. The update features everything you’d expect from a franchise racer, including new car-makers, new car models, and new tracks…

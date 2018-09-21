@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's new YouTube Gaming app is now available in the App Store
+title: Googles new YouTube Gaming app is now available in the App Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/08/YouTube-Gaming-logo-medium.png)
 * As expected, Google’s YouTube Gaming app has begun rolling out in the App Store. Earlier this morning, Google launched a new website which sits at gaming.youtube.com, dedicated to watching and live-streaming gameplay videos.

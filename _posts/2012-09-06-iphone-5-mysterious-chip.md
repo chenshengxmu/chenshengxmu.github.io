@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Poll- what's this square thing inside the iPhone 5 for?
+title: Poll- whats this square thing inside the iPhone 5 for?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iPhone-5-mysterious-chip-002-lowres.jpg)
 * A set of four new high-quality photographs have emerged, seemingly depicting the complete front assembly of Apple’s next iPhone, due for unveiling at a San Francisco media event next Wednesday. These new images provide a detailed look at a square chip which leaked earlier and prompted pundits to speculate that it houses a Near-Field Communications (NFC) sensor, later debunked by the eagle-eyed experts over at AnandTech.

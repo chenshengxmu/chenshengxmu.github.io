@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is 'Do Not Disturb While Driving' and how to enable it
+title: What is Do Not Disturb While Driving and how to enable it
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/07/iOS-11-DND-While-Driving-web-screenshot-001-e1506159475149.png)
 * The leading cause of automobile accidents in the United States is distracted driving, and with the worldwide release of iOS 11, Apple is attempting to make the roads a safer place by helping to eliminate one of the most significant causes of distracted driving: cell phone usage.

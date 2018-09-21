@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple says it's aware of iMessage issue and is working on a fix
+title: Apple says its aware of iMessage issue and is working on a fix
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/iOS-7-Messages-005.jpg)
 * Since the release of iOS 7 last month, users have been complaining of issues activating iMessage. What’s more, out of those who have been able to activate the service, some have been experiencing problems sending and receiving messages.

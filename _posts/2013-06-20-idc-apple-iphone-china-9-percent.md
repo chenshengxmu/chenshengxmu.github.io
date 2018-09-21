@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IDC- iPhone 4's triple-digit growth boosts Apple's China share to 9%
+title: IDC- iPhone 4s triple-digit growth boosts Apples China share to 9%
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iPhone-5-two-up-front-back-flat.jpg)
 * More indications Apple’s efforts offering flexible pricing are paying off. Sales of the iPhone 4 in China grew at a faster pace than the overall market during the first quarter, research firm IDC announced Thursday. Per data, the iPhone has a cool nine percent of the Chinese smartphone market, putting Apple in fifth place.

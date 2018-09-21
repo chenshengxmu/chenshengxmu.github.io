@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You'll be able to try on Apple Watch in Apple Stores without appointment
+title: Youll be able to try on Apple Watch in Apple Stores without appointment
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/apple-watch1.png)
 * You’ll be able to spend hands-on time with an Apple Watch at Apple’s retail stores without making a purchase. Although some sources previously mentioned trying on Watches by appointment, 9to5Mac has learned that try on appointments won’t be necessary after all.

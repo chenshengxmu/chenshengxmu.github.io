@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Judge tosses 'Error 53' lawsuit against Apple out of the window
+title: Judge tosses Error 53 lawsuit against Apple out of the window
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/iPhone-5s-Home-Button-Touch-ID.jpg)
 * A United States district court judge has tossed so-called ‘Error 53’ lawsuit against Apple out of the window on grounds that the plaintiffs “lack standing to pursue injunctive relief”. The plaintiffs argued that the iOS 9 software update causing certain devices with a faulty Touch ID or Home button, like the iPhone 6, to be bricked has resulted in permanent data loss.

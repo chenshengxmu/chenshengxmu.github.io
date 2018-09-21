@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Susan Wagner joins Apple's board of directors as Bill Campbell retires
+title: Susan Wagner joins Apples board of directors as Bill Campbell retires
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/wagners.jpg)
 * Apple announced this afternoon that Susan Wagner, a founding parter of asset-managment firm BlackRock, has been elected to its board of directors. She is considered a pioneer in the financial industry, and has been named one of Fortune Magazine’s 50 Most Powerful Women in Business.

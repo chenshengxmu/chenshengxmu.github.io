@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WWDC launch of Apple's rumored 13" MacBook unlikely amid production delay rumors
+title: WWDC launch of Apples rumored 13 MacBook unlikely amid production delay rumors
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/04/Twelve-inch-MacBook-Early-2016-family-001.jpg)
 * Mass production of Apple’s rumored 13-inch MacBook has been reportedly delayed to the second half of this year, supply chain sources told Taiwanese trade publication DigiTimes.

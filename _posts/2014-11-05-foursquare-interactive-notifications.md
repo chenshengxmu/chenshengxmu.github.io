@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Foursquare now lets you save, like and follow from iOS 8's Interactive Notifications
+title: Foursquare now lets you save, like and follow from iOS 8s Interactive Notifications
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/11/Foursquare-8.2-for-iOS-iPhone-screenshot-001.jpg)
 * Taking advantage of iOS 8’s new Interactive Notifications, Foursquare, the popular local search and discovery service, on Wednesday refreshed its main iPhone client with the ability to ‘save,’ ‘like,’ and ‘follow’ from the notifications you get from the service.

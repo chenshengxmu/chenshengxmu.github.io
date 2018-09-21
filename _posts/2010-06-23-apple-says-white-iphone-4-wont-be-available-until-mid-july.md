@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Says White iPhone 4 Won't Be Available Until Mid July
+title: Apple Says White iPhone 4 Wont Be Available Until Mid July
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/06/White-iPhone-4.jpg)
 * Those of you who are waiting for the White iPhone 4 shouldn’t hold their breath. Apple just released a short statement in which it says the White iPhone won’t be available until mid July.

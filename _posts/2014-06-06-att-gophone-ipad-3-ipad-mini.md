@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T's prepaid GoPhone service expands to tablets, including iPad 3 and iPad mini
+title: AT&Ts prepaid GoPhone service expands to tablets, including iPad 3 and iPad mini
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/ATT-GoPhone-for-tablets-teaser-001.png)
 * AT&T’s prepaid wireless service for smartphones, marketed under the GoPhone moniker, now works with cellular-capable first-generation iPad mini and third-generation iPad with Retina display (also known as iPad 3).

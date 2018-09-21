@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hit game 'A Dark Room' goes free for a limited time
+title: Hit game A Dark Room goes free for a limited time
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/dark-room.jpeg)
 * This is a heads up for all of you gamers looking to try out something new this weekend. Developer Amirali Rajan has discounted his chart-topping RPG title ‘A Dark Room‘ down to $0 for a limited time, as he prepares to launch its upcoming prequel.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Multitasking Concept for the iPad Shows that iOS Still Doesn't Have it Right
+title: Multitasking Concept for the iPad Shows that iOS Still Doesnt Have it Right
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/Screen-Shot-2011-09-14-at-23.49.59.png)
 * After we spent years begging Apple to finally add multitasking to iOS, the boffins in Cupertino relented, bringing the joys of multiple running apps to our iPhones and iPads. Well, sort of.

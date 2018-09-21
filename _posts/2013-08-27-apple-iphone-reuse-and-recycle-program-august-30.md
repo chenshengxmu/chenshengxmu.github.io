@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's iPhone Reuse and Recycle Program launches August 30, details here
+title: Apples iPhone Reuse and Recycle Program launches August 30, details here
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/iPhone-5-Apple-Store-window-UTC-la-jolla.jpg)
 * Yesterday, a flurry of details was released regarding Apple’s upcoming iPhone trade-in program, a sales initiative in partnership with the recycling firm BrightStar aimed at boosting iPhone sales and upgrades at company-run retail outlets across the United States. Sources stepped forward today, offering new details concerning the official name, availability, launch date and terms and conditions.

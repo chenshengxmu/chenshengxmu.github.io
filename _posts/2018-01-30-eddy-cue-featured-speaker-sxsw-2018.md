@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Eddy Cue and Sarah Herrlinger to talk tech & media at SXSW 2018
+title: Apples Eddy Cue and Sarah Herrlinger to talk tech & media at SXSW 2018
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/07/Eddy-Cue-Hollywood-Reporter-001.jpg)
 * Eddy Cue, Apple’s Senior Vice President in charge of Internet software and services, has been confirmed as a featured keynote speaker at the South By Southwest (SXSW) conference event that takes place from March 9-18 in Austin, Texas.

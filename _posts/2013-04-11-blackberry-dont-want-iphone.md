@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BlackBerry tops 'don't want' poll ahead of iPhone and Android
+title: BlackBerry tops dont want poll ahead of iPhone and Android
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/hate_blackberry_poll.jpg)
 * Finally, a survey appears where BlackBerry is leading the big guys. On a twist of the usual polling of which device consumers want to buy, one research firm asked what smartphone would you not be caught dead using. The BlackBerry “crushed” the competition in the ‘don’t want’ department. In fact, 71.4 percent of consumers polled by Raymond James said no feature would get them to use a BlackBerry.

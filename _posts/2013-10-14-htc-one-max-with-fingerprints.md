@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HTC's new 'One max' with fingerprint sensor launches to poor reviews
+title: HTCs new One max with fingerprint sensor launches to poor reviews
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/htc-one-max.jpg)
 * It was bound to happen. You knew that once the iPhone 5s debuted with a fingerprint sensor, other manufacturers would follow suit. No, Apple wasn’t the first to implement such a feature, but it has a way of mainstreaming stuff like this.

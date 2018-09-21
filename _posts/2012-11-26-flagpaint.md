@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FlagPaint' changes banner notification colors on a per app basis
+title: FlagPaint changes banner notification colors on a per app basis
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/FlagPaint-Featured.jpg)
 * Cydia tends to go through phases as far as innovative jailbreak tweaks go. Sometimes there seems to be an abundance of new tweaks gracing the store every day, and other times it seems like the dry spells never end.

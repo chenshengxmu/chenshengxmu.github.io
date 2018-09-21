@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Predictions For Tomorrow's Apple Event
+title: Predictions For Tomorrows Apple Event
 ---
 * I’m glad Apple will finally unveil its new iSlate, iTab, iPad, or whatever it will be called tomorrow because I cannot stand all these “rumors” and “leaks” anymore.
 * Within the last few weeks every Apple-related blog has been leaking some rumors that are mostly unfounded and that only serve one goal: generating traffic to their sites. I don’t know if you noticed, but I didn’t post such article once because I don’t want to drag my lovely readers (that’s you) into these pointless conversations.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile to 'upgrade upgrades' with new Jump unlimited upgrade plan
+title: T-Mobile to upgrade upgrades with new Jump unlimited upgrade plan
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/T-Mobile-Jump-plan-The-Verge-001.jpg)
 * T-Mobile is holding a media event later today at 2:30PM Eastern / 11:30AM Pacific to announce “our boldest moves yet.” A leaked memo suggests the Deutsche Telekom-owned telco is readying a new unlimited upgrade plan for smartphones. “We’ve upgraded upgrades,” the memo reads. Called Jump, the idea is to allow customers to upgrade when they actually want to instead of waiting the usual two-years until their contract expires. I’ve included more tidbits after the break…

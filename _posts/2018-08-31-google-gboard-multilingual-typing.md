@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's iPhone keyboard introduces multilingual typing
+title: Googles iPhone keyboard introduces multilingual typing
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/Gboard-App-STore-screenshot.png)
 * Gboard, Google’s software keyboard for iPhone and iPad with gesture-based typing, search, GIFs, emoji and more, was updated Friday on App Store with a new multilingual typing feature.

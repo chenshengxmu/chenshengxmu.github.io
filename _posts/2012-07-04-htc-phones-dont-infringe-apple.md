@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UK Judge rules HTC phones don't infringe Apple patents, including slide-to-unlock
+title: UK Judge rules HTC phones dont infringe Apple patents, including slide-to-unlock
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/htc_apple.jpeg)
 * A judge in London has ruled that HTC phones don’t infringe upon Apple’s prized smartphone patents, Bloomberg reported this morning. The ruling includes Apple’s patented slide-to-unlock feature which famously drew the most ‘oohs’ and ‘ahs’ at the original iPhone introduction five years ago, but also other features such as flipping through a bunch of photos…

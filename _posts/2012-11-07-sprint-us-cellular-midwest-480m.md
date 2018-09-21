@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sprint wants to buy U.S. Cellular's spectrum and users for $480 million
+title: Sprint wants to buy U.S. Cellulars spectrum and users for $480 million
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/Sprint-logo-medium.jpg)
 * Carrier Sprint today announced that it has entered into a definitive agreement with U.S. Cellular about purchasing its PCS spectrum and customers in Midwest U.S. for $480 million in cash. This effort to boost network capacity is subject to regulatory approvals and is expected to close in mid-2013. Sprint will use the additional spectrum to broaden its own coverage in these areas…

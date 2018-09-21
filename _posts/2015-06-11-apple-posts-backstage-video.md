@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple posts 'Backstage' video shown during WWDC keynote
+title: Apple posts Backstage video shown during WWDC keynote
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/backstage.png)
 * Apple posted a new video to its YouTube channel Thursday night called “Backstage.” Those who watched Monday’s WWDC keynote will recognize the comedy sketch, which aired at the beginning of the live stream before Tim Cook took the stage.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Customize your iPhone's notification badges with BetterBadges
+title: Customize your iPhones notification badges with BetterBadges
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/BetterBadges.jpg)
 * If you’re a particularly popular person, then you might be used to having a slew of red notification badges staring back at you from your Home Screen. But with a new free jailbreak tweak called BetterBadges by iOS developer Orangebananaspy, you can customize the look and feel of your notification badges in exciting new ways.

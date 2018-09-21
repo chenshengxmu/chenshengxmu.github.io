@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple ordered to pay Samsung's legal fees in failed UK patent suit
+title: Apple ordered to pay Samsungs legal fees in failed UK patent suit
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/courtroom-gavel.jpg)
 * Apple’s legal team has had a rough go of it in the UK over the past few weeks. After losing a patent suit against Samsung, and then the ensuing appeal, the company was forced to write a public apology on its UK website.

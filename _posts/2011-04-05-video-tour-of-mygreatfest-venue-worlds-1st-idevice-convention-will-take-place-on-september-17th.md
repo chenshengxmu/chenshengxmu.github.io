@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tour of MyGreatFest Venue, World's 1st iDevice Convention Will Take Place on September 17th
+title: Tour of MyGreatFest Venue, Worlds 1st iDevice Convention Will Take Place on September 17th
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/03/MGF-logo-e1298990842591.jpg)
 * The folks at MyGreatFest will be holding the world’s first iDevice/jailbreak convention later this year in London, UK. Craig and the rest of the planning team have been working extremely hard over the past months to create the ultimate convention experience for jailbreak and iDevice enthusiasts.

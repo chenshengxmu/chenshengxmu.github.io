@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The 2016 13" MacBook Pro Giveaway- enter now to win!
+title: The 2016 13 MacBook Pro Giveaway- enter now to win!
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/12/The-2016-1322-MacBook-Pro-Giveaway-.jpg)
 * Just about everyone in the tech world is clamoring about the 2016 13″ MacBook Pro, Apple’s first major MacBook Pro redesign since its first introduction in 2012. With a substantial upgrade in hardware and performance, a new era is dawning in the evolution of the MacBook Pro – and you can win one of your own, absolutely free!

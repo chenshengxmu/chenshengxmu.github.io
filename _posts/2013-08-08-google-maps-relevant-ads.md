@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google starts injecting 'relevant ads' in Google Maps app search results
+title: Google starts injecting relevant ads in Google Maps app search results
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/Google-Maps-1.1-for-iOS-teaser-001.jpg)
 * In another showing of the key differences between Google and Apple, the Internet giant on Thursday announced that relevant advertising will now start appearing in the native Google Maps app for iOS and Android devices.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple launches new 'iBooks StoryTime' app on tvOS
+title: Apple launches new iBooks StoryTime app on tvOS
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/11/story-1.jpg)
 * Apple on Thursday quietly launched a new app for tvOS called “iBooks StoryTime.” It’s a children’s app that allows them to read along with their favorite [compatible] books using special features built for television.

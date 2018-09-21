@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ITC- no, the iPhone didn’t violate Google's patents
+title: ITC- no, the iPhone didn’t violate Googles patents
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iPhone-5-in-hand-right-angled.jpg)
 * A United States International Trade Commission (ITC) judge ruled Tuesday that Apple’s iconic iPhone did not infringe upon any of the patents owned by Google’s subsidiary Motorola Mobility.

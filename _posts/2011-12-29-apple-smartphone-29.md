@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 4S Pushes Apple's US Smartphone Marketshare to 29%
+title: iPhone 4S Pushes Apples US Smartphone Marketshare to 29%
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/iphone-4s-user.jpg)
 * The iPhone 4S was met with much criticism when Apple debuted the handset back in October. Some publications have even listed the device as one of 2011’s biggest flops, but sales have suggested otherwise.

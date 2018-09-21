@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Infinity Blade III goes free as Apple's App of the Week
+title: Infinity Blade III goes free as Apples App of the Week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/infinity-blade-3.jpg)
 * Heads up gamers, Apple has just named “Infinity Blade III” its App of the Week for this week. This means that from now through next Thursday, you’ll be able to download Chair’s epic blockbuster slasher for free on both iPhone and iPad—saving you $6.99.

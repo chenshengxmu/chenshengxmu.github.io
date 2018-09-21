@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Q2 2017- 50.8M iPhones, 8.9M iPads, $52.9B revenue
+title: Apples Q2 2017- 50.8M iPhones, 8.9M iPads, $52.9B revenue
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/apple-hq-headquarters.jpg)
 * Apple on Tuesday reported its [fiscal] Q2 2017 earnings, offering a look at its performance over the last 3 months. During the period, the company sold 50.8 million iPhones, down slightly from the year-ago quarter, and made $52.9 billion, up 5% from last year. Here’s a full breakdown of the numbers.

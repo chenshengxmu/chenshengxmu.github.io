@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple files for patent on advanced 'Active Stylus' for iOS devices
+title: Apple files for patent on advanced Active Stylus for iOS devices
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/steve-jobs-who-wants-a-stylus.jpg)
 * Apple has always strongly opposed the stylus, even though other manufacturers have continued to push for them. Steve Jobs had a number of quotes on the matter, famously saying things like “nobody wants a stylus” and “if you see a stylus, they blew it.”

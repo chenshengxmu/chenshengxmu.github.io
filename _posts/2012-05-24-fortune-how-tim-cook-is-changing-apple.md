@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Tim Cook is turning Apple into "a more normal company"
+title: How Tim Cook is turning Apple into a more normal company
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/tim-cook-happy.jpg)
 * Fortune Magazine has Tim Cook on the cover of the June 11 issue with Editor-at-large Adam Lashinsky’s feature under the headline How Tim Cook is Changing Apple.

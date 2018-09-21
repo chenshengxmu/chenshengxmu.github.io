@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's iOS keyboard gains 3D Touch trackpad, new themes, iOS 10 emojis & more
+title: Googles iOS keyboard gains 3D Touch trackpad, new themes, iOS 10 emojis & more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/Gboard-1.2-for-iOS-3D-Touch-trackpad-iPHone-screenshot-001.jpg)
 * Google’s Gboard keyboard for the iPhone, iPad and iPod touch was bumped to version 1.2 on the App Store this morning, gaining a few new features such as more than a dozen new themes, support for trackpad-like functionality on 3D Touch devices akin to the stock QuickType keyboard, the ability to search and share your contacts without leaving the conversation and support for the new iOS 10 emojis.

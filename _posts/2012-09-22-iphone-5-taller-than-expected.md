@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 5 parody clip- "a taller change than expected"
+title: iPhone 5 parody clip- a taller change than expected
 ---
 *  
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iphone-5-parody.png)

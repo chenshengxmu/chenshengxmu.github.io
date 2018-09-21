@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creating an iPhone backup in iTunes or iCloud, and why it's important
+title: Creating an iPhone backup in iTunes or iCloud, and why its important
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/04/Creating-a-backup-of-your-iPhone-iPod-touch-or-iPad.png)
 * Every time you set up a new iOS device, you should create a backup of it so that when things go wrong, you can easily restore your device’s settings and contents to a point in time when everything worked right.

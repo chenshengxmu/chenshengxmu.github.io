@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Runkeeper's latest update lets you record your runs directly on Apple Watch
+title: Runkeepers latest update lets you record your runs directly on Apple Watch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/10/RunKeeper-teaser-001.jpg)
 * Runkeeper has refreshed its iPhone application with a fully native watchOS 2 app so you can record your runs and heart rates directly on your Apple Watch, without needing to bring your iPhone with you. If you typically go running with an iPhone strapped to your arm, you’ll appreciate phone-free jogging with the new Runkeeper.

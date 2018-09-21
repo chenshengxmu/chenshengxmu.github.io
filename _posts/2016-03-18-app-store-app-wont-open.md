@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What to do if an App Store app you downloaded isn't working or won't open
+title: What to do if an App Store app you downloaded isnt working or wont open
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/app-store-rage-face-troubleshooting.jpg)
 * Have you ever downloaded an app from the App Store only to find that it wouldn’t launch, crashed, or didn’t work every time you opened it?

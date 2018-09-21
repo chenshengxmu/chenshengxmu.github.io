@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creative video app CHOMP goes free as Apple's App of the Week
+title: Creative video app CHOMP goes free as Apples App of the Week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/chomp.png)
 * Apple on Thursday updated its App of the Week promotion with CHOMP, by Christoph Niemann. This means that from now through next Thursday, you can pick up the popular interactive storybook app for free for both iPhone and iPad—a solid $3 savings.

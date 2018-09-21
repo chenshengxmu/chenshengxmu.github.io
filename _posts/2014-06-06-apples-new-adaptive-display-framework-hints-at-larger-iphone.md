@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's new Adaptive Display framework hints at larger iPhone
+title: Apples new Adaptive Display framework hints at larger iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/iPhone-6-Martin-Hajek-010.png)
 * Just in case there weren’t already enough signs pointing towards the launch of a larger iPhone or two later this year, a new Adaptive Display framework in iOS 8 is a telltale clue that wider and taller screens could be on the horizon. As reported by The Guardian, the developer protocol is called UIAdaptivePresentationControllerDelegate, and works with a presentation controller to determine how to respond to size changes in apps.

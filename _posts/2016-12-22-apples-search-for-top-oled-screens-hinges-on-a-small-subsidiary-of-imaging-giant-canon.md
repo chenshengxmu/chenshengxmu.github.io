@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's search for top OLED screens hinges on a small subsidiary of imaging giant Canon
+title: Apples search for top OLED screens hinges on a small subsidiary of imaging giant Canon
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/12/Tokki-ELVESS-OLED-mass-production-system.jpg)
 * Yesterday’s report on Bloomberg detailed Apple’s search for the best organic light-emitting diodes (OLED) panels on the market. The company’s quest to deploy advanced OLED screens on iPhone 8 reportedly hinges on a single supplier in the Japanese countryside, called Canon Tokki, which has been making OLED machines since 1993.

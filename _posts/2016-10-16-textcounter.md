@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TextCounter displays how many texts you've sent and received in the Messages app
+title: TextCounter displays how many texts youve sent and received in the Messages app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/iOS-Messages-App-Icon.png)
 * TextCounter is a new jailbreak tweak that can help put into perspective just how much you’re texting people.

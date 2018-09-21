@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CES Scavenger Hunt to utilize Apple's new iBeacon tech
+title: CES Scavenger Hunt to utilize Apples new iBeacon tech
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/ces-2.png)
 * The Consumer Electronics Association has announced that next week’s CES will feature a promotional scavenger hunt featuring Apple’s new iBeacon technology. The group issued a press release last night explaining how it’s utilizing the tech.

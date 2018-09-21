@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's profit eclipses Samsung, Motorola, Nokia and LG combined
+title: Apples profit eclipses Samsung, Motorola, Nokia and LG combined
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/apple-profits.png)
 * What’s more important, smartphones shipped or smartphone profits? That question is at the heart of a debate over competing figures used to bolster Samsung or Apple. A day after a Samsung-friendly market research firm claimed the South Korean firm shipped three times as many phones, new figures show Apple profit higher than most of its rivals combined.

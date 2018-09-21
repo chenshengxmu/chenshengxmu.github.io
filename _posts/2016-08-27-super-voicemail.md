@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Super VoiceMail- A slick new way to handle your iPhone's voicemail
+title: Super VoiceMail- A slick new way to handle your iPhones voicemail
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/08/Super-Voicemail-Jailbreak-Tweak-2.jpg)
 * Just last week, we showed you a jailbreak tweak called AnsweringMachine that took the jailbreak community by surprise and showed us that the iPhone’s voicemail system has a lot to be desired. On the other hand, another new release called Super VoiceMail also looks very promising.

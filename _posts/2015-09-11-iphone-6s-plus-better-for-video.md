@@ -1,6 +1,6 @@
 ---
 layout: post
-title: If you're serious about video, the iPhone 6s Plus is the iPhone for you
+title: If youre serious about video, the iPhone 6s Plus is the iPhone for you
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/iPhone-6s-Plus-video.jpg)
 * You have a big decision to make. That’s because iPhone pre-orders open up at 12:01 AM PDT. While things like color and storage size certainly matter, choosing the type of iPhone is an even bigger decision.

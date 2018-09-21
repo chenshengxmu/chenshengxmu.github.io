@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Suppliers gearing up for production of iPhone 8's curved-glass chassis
+title: Suppliers gearing up for production of iPhone 8s curved-glass chassis
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/iFixit-iPhone-6s-teardown-image-004-Battery.jpg)
 * In 2017, the iPhone should undergo a top-to-bottom industrial design overhaul with a number of hardware improvements planned for the handset, such as a wraparound AMOLED display curved at both sides like that on Samsung’s Note 7 and the Galaxy S6/S7 range, as well as an all-new glass enclosure.

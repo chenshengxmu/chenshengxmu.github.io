@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Swatch says it doesn't need Apple, will launch its smart watch next year
+title: Swatch says it doesnt need Apple, will launch its smart watch next year
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/Swatch-Touch.png)
 * Some silly rumor made the rounds last week claiming Swatch was in talk with Apple to produce a line of iWatch devices. This was quickly denied by Swatch, who’s now saying it will bring its own smart watch/fitness tracker to market by next year.

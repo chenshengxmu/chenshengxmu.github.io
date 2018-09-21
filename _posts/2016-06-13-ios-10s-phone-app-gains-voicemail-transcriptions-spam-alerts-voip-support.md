@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 10's Phone app gains Voicemail Transcriptions, Spam Alerts, VoIP support
+title: iOS 10s Phone app gains Voicemail Transcriptions, Spam Alerts, VoIP support
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/Phone-App-Icon.png)
 * iOS 10 was shown off at WWDC 2016 on Monday, and with all of the new features Apple brought to the table, the Phone app is certainly one of the spotlights that deserves attention.

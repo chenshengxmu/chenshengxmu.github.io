@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's how your favorite apps might embrace iPhone 8's notch
+title: Heres how your favorite apps might embrace iPhone 8s notch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/iPhone-8-apps-concept-Maksim-Petriv-001.jpeg)
 * Taking Steven Troughton-Smith’s findings regarding iPhone 8’s resizable, auto-hideable virtual Home button and a split status bar on either side of a notch at the top of an OLED display, user interface designer Maksim Petriv took it upon himself to imagine how popular apps like Apple’s Music, Instagram and Twitter might embrace the notch and look like running on iPhone 8.

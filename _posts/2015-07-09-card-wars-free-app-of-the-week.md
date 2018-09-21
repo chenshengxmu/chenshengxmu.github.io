@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Card Wars - Adventure Time Card Game' goes free as Apple’s App of the Week
+title: Card Wars - Adventure Time Card Game goes free as Apple’s App of the Week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/07/card-wars-2.jpeg)
 * Apple has just named Cartoon Network’s “Card Wars – Adventure Time Card Game” its App of the Week for this week. This means that from now through next Thursday, you’ll be able to download the card combat game for free—a solid savings of $4.

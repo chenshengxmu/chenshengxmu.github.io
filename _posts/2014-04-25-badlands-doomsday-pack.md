@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Badland updated with new 'Doomsday' level pack offered on try-before-buy basis
+title: Badland updated with new Doomsday level pack offered on try-before-buy basis
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/Badland-2.0-for-iOS-iPhone-screenshot-001.jpeg)
 * Badland, one of the best mobile games out there, has been updated today with a set of thirty brand new ‘Doomsday’ levels, but with a twist. Breaking away from the common practice of updating Badland with new content offered free of charge to those who’ve previously purchased the game, its two-person development team has decided to provide the new levels on a paid basis as it explores fair new monetization models.

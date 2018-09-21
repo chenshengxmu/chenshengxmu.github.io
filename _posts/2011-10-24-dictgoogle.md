@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DictGoogle- Perform Google Searches Directly From iOS 5's Built in Dictionary
+title: DictGoogle- Perform Google Searches Directly From iOS 5s Built in Dictionary
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/DictGoogle.png)
 * The built in dictionary is probably one of my favorite new features in iOS 5. It’s so incredibly handy, and it can be used across any app at any time.

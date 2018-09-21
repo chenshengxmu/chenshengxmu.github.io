@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook issues email to troops commenting on Apple's new SVP of Retail
+title: Tim Cook issues email to troops commenting on Apples new SVP of Retail
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/Angela-Ahrendts-image-001.jpg)
 * In a surprising late-night press release, Apple said it’s finally found its new retail chief. In case you missed it, soon-to-be-former CEO of clothing retailer Burberry will be joining the iPhone maker as its new SVP of Retail, responsible for both Apple’s online and offline stores and retail operations across the world.

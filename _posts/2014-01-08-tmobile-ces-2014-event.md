@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile drops another bombshell- we'll pay your ETFs to switch
+title: T-Mobile drops another bombshell- well pay your ETFs to switch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/t-mobile-ad.jpg)
 * Last month, T-Mobile’s John Legere hinted that his company was planning another ‘uncarrier’ event. The outspoken CEO sent out a tweet saying something like “time to eliminate another customer pain point? Time for Uncarrier 4?”

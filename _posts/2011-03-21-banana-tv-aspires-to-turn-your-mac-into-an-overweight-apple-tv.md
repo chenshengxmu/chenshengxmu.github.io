@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Banana TV' Aspires to Turn Your Mac Into an Overweight Apple TV
+title: Banana TV Aspires to Turn Your Mac Into an Overweight Apple TV
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/03/Banana-TV-e1300712213322.jpg)
 * As you may have figured out from its play on words, Banana TV is an app for the Mac that mimics some of Apple’s $99 Apple TV functionality.

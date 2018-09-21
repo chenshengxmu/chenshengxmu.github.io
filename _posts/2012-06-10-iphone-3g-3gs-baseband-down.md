@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MuscleNerd says "all pieces are there" for 06.15 baseband downgrade
+title: MuscleNerd says all pieces are there for 06.15 baseband downgrade
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/unlocked-3g.png)
 * Last year, the Dev Team announced that iPhone 3G/3GS owners unlocked on baseband 06.15.00 would likely be stuck there forever, leaving them to deal with GPS bugs and other issues.

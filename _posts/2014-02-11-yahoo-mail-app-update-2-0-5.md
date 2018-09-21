@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yahoo Mail app updated with better support for Apple's VoiceOver feature
+title: Yahoo Mail app updated with better support for Apples VoiceOver feature
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/yahoo-mail.png)
 * Yahoo has posted a small but significant update for its iOS Mail client this afternoon, bringing the app to version 2.0.5. Aside from the usual bug fixes and performance improvements, the update brings about deeper VoiceOver support.

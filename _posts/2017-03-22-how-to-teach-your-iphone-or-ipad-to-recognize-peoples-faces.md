@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to teach your iPhone or iPad to recognize people's faces in the Photos app
+title: How to teach your iPhone or iPad to recognize peoples faces in the Photos app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/03/recognize-people-faces-in-photos.png)
 * Organizing one’s photos by date or occasion is by far the most common methodology in photography, and of course why wouldn’t it be? The simple fact of the matter is that a chronological structure of photos satisfies most search requests because you pretty much know immediately where to look for a certain snapshot. With that said, more unconventional efforts such as accumulating every single photo taken by the beach or all shots of your family ever snapped, quickly render the chronologic album structure rigid and dated.

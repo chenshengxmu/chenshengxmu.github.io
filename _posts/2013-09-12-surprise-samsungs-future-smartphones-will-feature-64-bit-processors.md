@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Surprise! Samsung's future smartphones will feature 64-bit processors
+title: Surprise! Samsungs future smartphones will feature 64-bit processors
 ---
 * Kim Yoo-chul reporting for the Korea Times:
 * The co-CEO implied that upcoming Samsung Galaxy-branded smartphones will be more powerful and faster by confirming that they would have 64-bit processing capability. […]

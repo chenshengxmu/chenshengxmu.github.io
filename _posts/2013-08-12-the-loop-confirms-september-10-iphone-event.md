@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jim Dalrymple confirms Apple's September 10 iPhone event
+title: Jim Dalrymple confirms Apples September 10 iPhone event
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/Jim-Dalrymple-and-Slash.png)
 * Boom, just like that an independent and unambiguous confirmation of Apple’s rumored iPhone-focused media event, apparently due in less than a month, has now arrived.

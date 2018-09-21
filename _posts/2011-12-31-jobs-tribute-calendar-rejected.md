@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Steve Jobs Tribute Calendar Rejected by Apple's App Store Police
+title: Steve Jobs Tribute Calendar Rejected by Apples App Store Police
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/NushkaLabs-SJtribute-inline1.jpeg)
 * When Apple co-founder and former CEO Steve Jobs passed away in October, people around the world felt like they had lost someone they knew, if only through the devices they own that bear the Apple brand. Many took to Apple Stores as a way of paying their respects, leaving messages and Apple products when they left.

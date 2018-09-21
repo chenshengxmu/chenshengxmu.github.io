@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Best Buy price-matches Target's $199 iPad mini deal
+title: Best Buy price-matches Targets $199 iPad mini deal
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/Best-Buy-iPad-mini-199USD-web-screenshot-001.png)
 * Right as the United States retailing giant Target announced a significant sale by taking a cool $100 off of the original iPad mini’s $299 price tag, rival Best Buy is mirroring the deal now in the run-up to Father’s Day.

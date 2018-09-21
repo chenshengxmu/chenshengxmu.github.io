@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to bypass iPad jailbreak detection on Amazon's new video streaming app
+title: How to bypass iPad jailbreak detection on Amazons new video streaming app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/xCon.png)
 * Yesterday Amazon launched Amazon Instant Video, its new video streaming app for the iPad. The app lets you either stream or mark for download and later offline viewing any previously purchased video from Amazon. It also allows Amazon Prime users to stream over 120,000 videos for free.

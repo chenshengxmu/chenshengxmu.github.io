@@ -1,6 +1,6 @@
 ---
 layout: post
-title: macOS Sierra beta 2 released to Apple's registered developers
+title: macOS Sierra beta 2 released to Apples registered developers
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/macOS-Sierra-desktop-Siri-image-001.jpg)
 * Apple today pushed a second beta of macOS Sierra following the original developer-only preview of the desktop operating system that was made available following the June 13 WWDC keynote. Members of the Apple Developer Program can install macOS Sierra beta 2 (build number “16A239j”) on their computers running a prior beta through the Software Update mechanism.

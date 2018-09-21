@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple showcases 'shot on iPhone 6' images on its homepage
+title: Apple showcases shot on iPhone 6 images on its homepage
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/Screen-Shot-2015-03-01-at-2.44.40-PM.png)
 * Apple has launched a new spot on its homepage to show images shot on the iPhone 6, interestingly following the announcement of the Galaxy S6 and HTC One M9 on Sunday.

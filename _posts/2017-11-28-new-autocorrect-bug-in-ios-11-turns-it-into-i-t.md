@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New autocorrect bug in iOS 11 turns "it" into "I.T."
+title: New autocorrect bug in iOS 11 turns it into I.T.
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/iOS-11-IT-autocorrect-bug.jpeg)
 * Just as soon as Apple corrects the bug that caused “i” to autocorrect to “A[?]”, there appears to be yet another one popping up. Several users are reporting that “it” is sometimes being auto-corrected to “I.T.” in iOS 11.

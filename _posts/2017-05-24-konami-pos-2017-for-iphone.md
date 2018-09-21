@@ -1,6 +1,6 @@
 ---
 layout: post
-title: At long last, Konami's Pro Evolution Soccer 2017 hits App Store
+title: At long last, Konamis Pro Evolution Soccer 2017 hits App Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/05/PES-2017-teaser-001.jpg)
 * Konami on Wednesday announced that its official Pro Evolution Soccer 2017 mobile game for iPhone, iPad and iPod touch has made its global debut across 150 countries. The game is available free of charge with non-compulsory In-App Purchases.

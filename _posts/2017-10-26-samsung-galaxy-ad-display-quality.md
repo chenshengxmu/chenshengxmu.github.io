@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Galaxy ad is all about Samsung's display prowess
+title: New Galaxy ad is all about Samsungs display prowess
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/05/Samsung-Galaxy-S8-Unbox-your-phone-teaser-000.jpg)
 * Samsung Mobile on Thursday released a nicely done commercial via its official YouTube channel, with the 30-second video touting its prowess as the creator and manufacturer of the best smartphone display technology. Good timing, by the way.

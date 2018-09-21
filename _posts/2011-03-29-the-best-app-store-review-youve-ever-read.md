@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Best App Store Review You've Ever Read
+title: The Best App Store Review Youve Ever Read
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/03/Available-on-the-App-Store-e1299031886334.png)
 * There are plenty of reasons for develepors to hate the iTunes review system. The problem mainly lies in the way that uninformed or biased reviews can negatively affect the success of a good app.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple celebrates Bastille Day with 'Shot on iPhone' photos in national flag colors
+title: Apple celebrates Bastille Day with Shot on iPhone photos in national flag colors
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/07/Apple-France-website-Bastille-Day-web-screenshot-001.jpg)
 * France is celebrating Bastille Day today and Apple has joined the festivities with a clever use of imagery from its award-winning ‘Shot on iPhone’ ad campaign on the Apple France homepage. The company carefully selected a batch of images from the campaign with predominant blue, white and red tones, and used them smartly on its website to form a basis for the French national flag colors.

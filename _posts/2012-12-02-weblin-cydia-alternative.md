@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Weblin — yet another "Cydia alternative"
+title: Weblin — yet another Cydia alternative
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/Weblin-01.jpg)
 * First, let me just say that this rant isn’t strictly about Weblin. It’s about any such service — past or future. Please read this before trying to create the next Cydia alternative.

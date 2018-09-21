@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KGI- Apple's nixed plans to put in-screen Touch ID in iPhone 8
+title: KGI- Apples nixed plans to put in-screen Touch ID in iPhone 8
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/05/iPhone-8-clone-rear-Touch-ID-001.jpeg)
 * Apple has “cancelled” plans to embed a Touch ID fingerprint sensor under the cover glass of iPhone 8, revered Apple analyst Ming-Chi Kuo wrote in a note issued to clients last weekend, a copy of which was obtained by AppleInsider.

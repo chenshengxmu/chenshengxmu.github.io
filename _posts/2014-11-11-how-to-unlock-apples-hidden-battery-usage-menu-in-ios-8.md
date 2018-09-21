@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to unlock Apple's hidden battery usage menu in iOS 8
+title: How to unlock Apples hidden battery usage menu in iOS 8
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/11/DetailedBattery-Usage.jpg)
 * Developer Hamza Sood, well-known for his innate ability to uncover hidden items in iOS, has discovered another hidden feature, and created a tweak out of it. Dubbed DetailedBatteryUsage, this new tweak allows you to unlock the hidden battery usage menu that Apple uses internally during development.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Adobe Flash Flood Headed Apple's Way?
+title: An Adobe Flash Flood Headed Apples Way?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/01/flash-iphone.jpg)
 * Here we go again. The ongoing feud between Apple and Adobe just will not go away. Especially if Adobe has anything to say about it. The Federal Trade Commission’s office denied a request from Adobe, which was to see a near 200 pages of information relating to the lawsuit the company has against Apple. The request was made under the Freedom of Information Act, or FOIA.

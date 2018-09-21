@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Protect your iPhone 6 the ultrathin way with Caudabe's Veil
+title: Protect your iPhone 6 the ultrathin way with Caudabes Veil
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/07/The-Veil.jpg)
 * Some people take such good care of their mobile devices that, for the most part, they don’t really need any protection. Those people tend to prefer their iPhone 6 to be completely uncovered to show off Apple’s beautiful design.

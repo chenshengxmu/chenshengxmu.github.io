@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple exploring 'super-resolution' iPhone imaging
+title: Apple exploring super-resolution iPhone imaging
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/Apple-patent-Super-resolution-imaging.png)
 * If Apple’s patent filing with the United States Patent & Trademark Office (USPTO) is anything to go by, future iOS devices could appeal further to iPhoneography fans by allowing them to take very detailed snaps using a fancily named ‘super-resolution’ imaging.

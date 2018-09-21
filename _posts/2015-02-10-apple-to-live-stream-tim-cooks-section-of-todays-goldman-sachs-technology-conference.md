@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple to live-stream Tim Cook's section of today's Goldman Sachs Technology Conference
+title: Apple to live-stream Tim Cooks section of todays Goldman Sachs Technology Conference
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/Tim-Cook-Goldman-Sachs-Technology-Conference-2015.jpg)
 * Apple announced this morning it’ll be providing a live-stream audio of CEO Tim Cook’s segment at Goldman Sachs Technology Conference.

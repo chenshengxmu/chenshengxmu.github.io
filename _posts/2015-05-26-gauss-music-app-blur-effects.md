@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gauss' spices up the Music app with impressive blur effects
+title: Gauss spices up the Music app with impressive blur effects
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/05/IMG_0119.png)
 * Gauss—which is named after German mathematician Karl Gauss, from which the Gaussian Blur derives its name—is a jailbreak tweak that adds blur, tint color, and text color effects to the stock Music app. Gauss lets you change up the blur radius, saturation, and more. You can even preview the look of the changes via the tweak’s preferences.

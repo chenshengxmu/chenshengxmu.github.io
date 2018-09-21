@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Double mockup- 12.9" iPad Pro + next-gen Apple TV with iPod touch style remote
+title: Double mockup- 12.9 iPad Pro + next-gen Apple TV with iPod touch style remote
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/Apple-TV-+-iPad-Pro-mockup-Curved.de-teaser-001.jpg)
 * Apple may not be interested in making a full-on television set after all, if Yukari Iwatani Kane’s scathing book, titled Haunted Empire: Apple After Steve Jobs (available on the iBooks Store), is anything to go by. Needlees to say, that’s not stopping those mockups from coming.

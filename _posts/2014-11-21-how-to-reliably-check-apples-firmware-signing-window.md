@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to reliably check Apple's firmware signing window
+title: How to reliably check Apples firmware signing window
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/11/IPSW.me_.png)
 * If you accidentally upgrade to iOS 8.1.1 or any other non-jailbreakable firmware in the future, it’s always a good idea to go out and check Apple’s signing window to see if you can downgrade your device to a previous firmware. For example, if I upgrade my device to iOS 8.1.1 today, or if I want to check out Apple’s iOS 8.2 beta, I know that I can do so and downgrade back to iOS 8.1 with no issue.

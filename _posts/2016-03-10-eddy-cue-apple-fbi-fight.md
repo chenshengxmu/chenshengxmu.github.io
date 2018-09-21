@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Eddy Cue- what if FBI forces Apple to spy on users via iPhone's camera or microphone?
+title: Eddy Cue- what if FBI forces Apple to spy on users via iPhones camera or microphone?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/02/apple_vs_fbi.jpg)
 * Not a day goes by without one of Apple’s executives reaffirming the company’s position on encryption. In a new Spanish-language interview with Univision, Eddy Cue, Apple’s Senior Vice President of Internet Software and Services, made the case against the United States Federal Bureau of Investigation (FBI) gaining additional surveillance powers.

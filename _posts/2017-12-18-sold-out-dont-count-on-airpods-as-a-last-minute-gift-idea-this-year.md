@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sold out! Don't count on AirPods as a last minute gift this year
+title: Sold out! Dont count on AirPods as a last minute gift this year
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/Sold-Out-AirPods.jpg)
 * We hope you didn’t count on buying a pair of AirPods to a loved one at the last minute this holiday season, because they are sold out at most retail locations, including of course Apple’s, which lists them on its website as available starting January 5th, at the earliest.

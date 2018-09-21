@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How's your battery life after updating your iPhone to iOS 10.1.1?
+title: Hows your battery life after updating your iPhone to iOS 10.1.1?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/iPhone-6s-promotional-videoi-battery-001.jpg)
 * Many people are complaining about poor battery life after deploying the latest iOS 10.1.1 software update on their iPhone, which released for public consumption on October 31 and squashed bugs where Health data couldn’t be viewed for some users.

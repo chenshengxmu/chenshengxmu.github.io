@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's free app of the week- Musemage
+title: Apples free app of the week- Musemage
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/03/muse-1.png)
 * Apple on Thursday updated its App of the Week promotion with the app Musemage. For the next 7 days, you’ll be able to grab the photo and video editor for free on both iPhone and iPad—a savings of $4.

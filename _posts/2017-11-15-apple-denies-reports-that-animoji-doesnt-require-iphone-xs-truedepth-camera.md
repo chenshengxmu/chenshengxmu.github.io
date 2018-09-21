@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple denies reports that Animoji doesn't require iPhone X's TrueDepth camera
+title: Apple denies reports that Animoji doesnt require iPhone Xs TrueDepth camera
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/iPhone-X-promotional-video-Animoji-Jony-Ive-001.png)
 * Reports have cropped up online claiming that one of the marquee iPhone X features, called Animoji, doesn’t require depth sensors built into the new TrueDepth camera system.

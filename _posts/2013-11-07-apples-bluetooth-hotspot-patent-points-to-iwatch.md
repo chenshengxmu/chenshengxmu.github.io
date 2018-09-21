@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Bluetooth hotspot patent points to iWatch
+title: Apples Bluetooth hotspot patent points to iWatch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/iWatch-cocept-Martin-Hajek-MacUser-April-2013-issue-008.jpg)
 * The United States Patent & Trademark Office (USPTO) on Thursday published an interesting Apple patent that has iWatch written all over it. The filing titled ‘Network access using short-range connectability’ describes a low-power wireless hotspot functionality via Bluetooth 4.0 that basically provides network connectivity akin to the iOS Wi-Fi hotspot feature, but without draining the battery as much.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to find your Mac's Bluetooth version
+title: How to find your Macs Bluetooth version
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/Bluetooth-logo-large.png)
 * With the recent release of Apple’s new “Magic” devices—the Magic Trackpad 2, Magic Mouse 2, and the Magic Keyboard—some of you may be wondering if your Mac can support these new peripherals. Since all of the new Magic devices are wireless and work with the latest Bluetooth versions, it’s important to know if your Mac will support them before making a purchase.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Claimed 5.5" iPhone 6 rear shell caught on video
+title: Claimed 5.5 iPhone 6 rear shell caught on video
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/iPhone-6-rear-shell-5.5-inch-NowhereElse-001.jpg)
 * French publication NowhereElse.fr today published a purported video which seemingly shows off an alleged rear shell thought to be for the bigger iPhone 6 model, giving fans a good look at how the rumored 5.5-inch handset might feel in one’s hand.

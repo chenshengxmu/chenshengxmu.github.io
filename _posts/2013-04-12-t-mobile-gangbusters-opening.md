@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile reports 'gangbusters' iPhone opening
+title: T-Mobile reports gangbusters iPhone opening
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/iPhone-5-now-on-T-Mobile.png)
 * T-Mobile kicked off sales of Apple’s popular smartphone by airing its first iPhone ad yesterday evening. The ice-breaker commercial is part of the reportedly massive nationwide campaign, with print and digital ads to follow soon after. While the carrier did not release the official first-dale sales data at press time – and probably won’t until its next earnings report – its marketing honcho did bother taking to blogs to say T-Mobile saw “gangbusters” opening, whatever that means in terms of hard data.

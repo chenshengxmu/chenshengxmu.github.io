@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Strong demand for Apple products boosts Foxconn and Pegatron's earnings
+title: Strong demand for Apple products boosts Foxconn and Pegatrons earnings
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/iPhone-4-promo-vide-manufacturing-process-001.jpeg)
 * Demand for Apple’s latest products is as strong as ever, it would seem. After reporting sales of 51 million iPhones and 26 million iPads during the lucrative holiday quarter, as a result Apple’s key contract manufacturers – Foxconn and Pegatron – are seeing a nice rise in their earnings, too.

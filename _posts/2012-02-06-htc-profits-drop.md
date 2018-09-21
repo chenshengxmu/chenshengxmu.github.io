@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HTC Profits Drop 26%, Cites Apple's Heavy Competition
+title: HTC Profits Drop 26%, Cites Apples Heavy Competition
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/Apple-Sign-Shade.jpg)
 * Today HTC has reported a 26% drop in its fourth quarter profits. They went onto express the fear of that number growing to 36% by the end of 2012’s first quarter.

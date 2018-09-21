@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's Talk iOS 088- You can buy cool
+title: Lets Talk iOS 088- You can buy cool
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/Lets-Talk-iOS-banner.png)
 * Episode 88: Last minute thoughts on iOS 8.4, Apple Music, and Beats 1. Force Touch on iPhone. watchOS 2 beta, and Jeff goes back to his iPhone 5s.

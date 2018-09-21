@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's devised novel self-driving tech for detecting small obstacles using LiDAR
+title: Apples devised novel self-driving tech for detecting small obstacles using LiDAR
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/Apple-autonomous-driving-obstacle-detection-research-paper-001.png)
 * Apple’s kept its self-driving research secret for years, but now the company has publicized some of its autonomous driving software techniques that improve obstacle detection.

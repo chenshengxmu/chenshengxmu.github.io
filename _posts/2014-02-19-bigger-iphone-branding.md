@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sketchy rumor claims iPhablet won't use iPhone branding
+title: Sketchy rumor claims iPhablet wont use iPhone branding
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/iphone-6-proto-3.jpg)
 * A new report out of Taiwan reiterates that Apple is working on two new iPhone models, one with a display measuring 4.7 inches diagonally and the other sporting a 5.6-inch screen. However, the story surprisingly claims Apple won’t use iPhone branding for the 5.6-inch model because this “non-iPhone” is apparently an “experimental” device.

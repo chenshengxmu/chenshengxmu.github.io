@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's tightly-knit industrial design group loses another longtime member
+title: Apples tightly-knit industrial design group loses another longtime member
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/11/Apple-Industrial-Design-Studio-image-006.jpg)
 * In what could be described as a shakeup to Apple’s vaunted design team, its longtime industrial designer Christopher Stringer has left the company.

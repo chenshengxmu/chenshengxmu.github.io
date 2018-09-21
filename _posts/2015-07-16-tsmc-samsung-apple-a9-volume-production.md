@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Volume production of Apple's next-generation ‘A9’ processor for new iPhones has kicked off
+title: Volume production of Apples next-generation ‘A9’ processor for new iPhones has kicked off
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/Apple-A9-mockup-002.jpg)
 * Volume production of an Apple-designed next-generation “A9” chip, the engine that will power the next iPhone and iPad, has begun at facilities operated by Samsung and Taiwan Semiconductor Manufacturing Company (TSMC), the world’s largest independent semiconductor foundry.

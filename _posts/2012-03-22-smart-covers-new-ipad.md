@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some Smart Covers aren't fully compatible with new iPad
+title: Some Smart Covers arent fully compatible with new iPad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/ipad-smart-cover.jpg)
 * When Apple unveiled its new tablet earlier this month, the consensus seemed to be that it would continue to work with all iPad 2 Smart Covers. After all, the new iPad’s frontside dimensions are identical to its predecessors.

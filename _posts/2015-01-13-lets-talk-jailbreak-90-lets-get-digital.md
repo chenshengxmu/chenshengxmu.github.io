@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let’s Talk Jailbreak 90- Let's get digital
+title: Let’s Talk Jailbreak 90- Lets get digital
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/Lets-Talk-Jailbreak-banner.png)
 * Episode 90: New multitasking jailbreak tweaks, how to troubleshoot jailbreak tweak crashing, and a whole bunch of jailbreak tweaks like KeyCommands, CacheClearer, AlternateControls, Photo Organizer 8, and many more.

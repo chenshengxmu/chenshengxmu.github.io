@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's free app of the week- Cut the Rope- Magic
+title: Apples free app of the week- Cut the Rope- Magic
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/04/cut.png)
 * Apple on Thursday updated its App of the Week promotion with the game Cut the Rope: Magic. For the next 7 days, you can download the popular title for free on both iPhone and iPad—saving you a buck.

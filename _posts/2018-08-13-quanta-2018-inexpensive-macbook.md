@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quanta expected to fill Apple's 'inexpensive notebook' orders this fall
+title: Quanta expected to fill Apples inexpensive notebook orders this fall
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/iCloud-Photo-Library-iPhone-iPad-MacBook-Air-teaser-001.jpg)
 * Taiwanese manufacturer Quanta has been tasked with filling orders for Apple’s new “inexpensive notebooks,” according to DigiTimes. Previous reports have said one or more of these models could arrive this fall.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Binary Clock replaces your iPhone's stock Lock screen clock
+title: Binary Clock replaces your iPhones stock Lock screen clock
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/Binary-Clock-Screenshot.jpg)
 * Binary Clock is a new jailbreak tweak that outright replaces the stock Lock screen clock on an iOS device. The tweak features over a dozen different themes of various colors or shapes, along with the ability to hide or show the Lock screen date string.

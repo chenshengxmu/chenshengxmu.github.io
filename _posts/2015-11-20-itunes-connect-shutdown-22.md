@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Holiday shutdown- don't expect new apps or updates between December 22-29
+title: Holiday shutdown- dont expect new apps or updates between December 22-29
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/iOS-7-App-Store-teaser-002.jpg)
 * Apple on Friday announced to developers that it will be performing its annual iTunes Connect shutdown for the holidays next month. The company posted the bulletin on its developer portal this afternoon, saying that it will not be accepting new app or update submissions beginning on December 22 through the 29th.

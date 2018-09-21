@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sync and control your devices with Imazing's iOS friendly features
+title: Sync and control your devices with Imazings iOS friendly features
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/sale_10477_primary_image_wide.jpg)
 * Technology can be both a blessing and a curse, and trying to manage and sync all of your files and data between several devices is an endless hassle. iMazing 2 puts an end to the syncing headaches by letting you quickly and easily manage all of your iOS data between multiple devices, and it’s on sale for just $24.99.

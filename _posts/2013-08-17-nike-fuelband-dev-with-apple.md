@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Key Nike FuelBand developer believed to be working on Apple's iWatch
+title: Key Nike FuelBand developer believed to be working on Apples iWatch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/nike-blahnik.jpg)
 * Jay Blahnik, a widely recognized fitness expert and key developer of the Nike FuelBand has taken a new job at Apple, according to a new report. He’s believed to be working on the company’s long-rumored iWatch project.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Auxo Glasklart' is one of the first Auxo themes available on Cydia
+title: Auxo Glasklart is one of the first Auxo themes available on Cydia
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/Auxo-Glasklart.png)
 * Remember Auxo, the jailbreak tweak that reinvigorates iOS’ app switcher? You’re probably thinking to yourself, ‘Jeff, how can I forget?’ Well, the team behind Auxo promised that their tweak would be themeable, and while we didn’t see any themes to coincide with its release, theme designers are begining to publish their work to Cydia.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3DBoard, an Awesome 3D Home Screen For the iPhone That Doesn't Require Glasses?
+title: 3DBoard, an Awesome 3D Home Screen For the iPhone That Doesnt Require Glasses?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/01/3DBoard-iPhone-e1296086896990.png)
 * Woah, woah, woah. Wait a minute, that’s just not possible. Or is it? That’s what I thought when I first saw this video of 3DBoard in motion.

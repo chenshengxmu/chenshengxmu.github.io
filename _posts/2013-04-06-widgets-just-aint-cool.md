@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple was right, widgets just ain't cool
+title: Apple was right, widgets just aint cool
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/Dashboard-X-2.0-Screenshot.jpg)
 * Without a doubt, one of the biggest differences between iOS and Android is its fundamental handling of information. Google decided to allow widgets onto a phone’s Home screen so that, theoretically, users would have the information they need right at their fingertips. Apple, on the other hand, has doggedly stuck to its guns over the years, with iOS remaining a collection of app icons rather than live widgets.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Russia’s #3 carrier Beeline drops iPhone over 'harsh conditions'
+title: Russia’s #3 carrier Beeline drops iPhone over harsh conditions
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/iPhone-5-Beeline-001.png)
 * Looks like Apple’s just been dealt a major blow over in Russia as another carrier reportedly quit selling iPhones. Vimplecom-owned Beeline, the nation’s third-largest wireless carrier, has allegedly cut its ties with Apple. The firm will not renew its iPhone distribution agreement over too “harsh conditions”, the story goes.

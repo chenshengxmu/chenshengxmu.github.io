@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple explains why it's entitled to additional damages in Samsung case
+title: Apple explains why its entitled to additional damages in Samsung case
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/Apple-vs-Samsung-Apple-before-and-after-iPhone.jpg)
 * As you know, Judge Lucy Koh shaved more than $400 million off the $1.05 billion verdict in the much-publicized Apple vs. Samsung case that took place in August 2013 over patented iPhone technology. The South Korean chaebol admitted to lifting Apple’s inventions, but the jury improperly calculated damages on certain Samsung products, prompting Koh to order a partial retrial in order to re-calculate the remaining damages.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone Xs Max could be the name for Apple's new 6.5-inch OLED handset
+title: iPhone Xs Max could be the name for Apples new 6.5-inch OLED handset
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/IPHONE-XS.jpg)
 * Last week, 9to5Mac published what it claimed was the first official image of this year’s two upcoming OLED iPhones. At the time, the site said the long-rumored 5.8-inch and 6.5-inch models would be called iPhone Xs. Today, Sept. 5, 9to5Mac says the larger of these two models will likely be named the iPhone Xs Max. 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's iPad, iPhone an Advertising Force in Europe
+title: Apples iPad, iPhone an Advertising Force in Europe
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/07/inmobi.png)
 * A curious glance around any train station, bus stop, or airport will show you just how popular Apple’s iPad and iPhone mobile devices are, and the sales figures back up the assumption that Apple just can’t make enough of its magical devices.

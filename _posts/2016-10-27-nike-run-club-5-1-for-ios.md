@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nike+ Run Club gains new features ahead of tomorrow's launch of Apple Watch Nike+
+title: Nike+ Run Club gains new features ahead of tomorrows launch of Apple Watch Nike+
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/Apple-Watch-Nike-Plus-teaser.jpeg)
 * The Apple Watch Nike+ is arriving tomorrow in the United States, the United Kingdom, Germany, France, Italy and a number of other countries. The Series 2 comes with exclusive Nike-branded bands, watch faces and complications, plus the Nike+ Run Club app is built-in. Ahead of tomorrow’s launch, Nike+ Run Club for iOS was refreshed this morning with new features on the Apple Watch Series 2.

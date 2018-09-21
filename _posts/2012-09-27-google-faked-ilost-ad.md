@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's iLost ad uses a phony street address to exaggerate Apple Maps flaws
+title: Googles iLost ad uses a phony street address to exaggerate Apple Maps flaws
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iOS-6-Maps-two-up-iPhone-iPad-local-search.jpg)
 * Remember an ad Google’s subsidiary Motorola recently published to highlight Apple Maps flaws? “Looking for 315 E 15th in Manhattan?”, Google’s advertisement read. “Google Maps on Droid Razr M will get you there & not #iLost in Brooklyn”, it went on to suggest that iOS 6 Maps will direct users to a wrong road name in the wrong city. Well, guess what? That address doesn’t even exist!

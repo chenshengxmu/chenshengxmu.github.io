@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 9's trackpad mode comes back to the iPhone courtesy of 3D Touch
+title: iOS 9s trackpad mode comes back to the iPhone courtesy of 3D Touch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/3D-Touch.jpg)
 * iOS 9 contains a new QuickType feature that lets you slide two fingers on the iPad’s screen to activate a trackpad-esque mode. Called “easy text selection”, this feature lets iPad users control the cursor by sliding two fingers anywhere on the screen, including over the keyboard, to select, edit, and move text.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WikiLeaks details CIA's infestation software targeting iMac and MacBook computers
+title: WikiLeaks details CIAs infestation software targeting iMac and MacBook computers
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/03/CIA-seal-medium.jpg)
 * Following the initial release of documents, dubbed “Year Zero,” which detailed tactics the CIA leverages to breach iPhones, iPads, Windows, smart TVs and other devices, WikiLeaks today published additional “Vault 7”-series materials. Code-named “Dark Matter,” the latest batch of secret files provides an insight into other CIA hacks and programs that have been internally developed and maintained for years with the goal of infesting Apple’s all-in-one iMac desktop and MacBook notebooks.

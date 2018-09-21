@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Consumer Reports- new iPhones 'not as bendy as believed'
+title: Consumer Reports- new iPhones not as bendy as believed
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/bent-smartphones.png)
 * Consumer Reports says the new iPhones “aren’t as bendy as believed,” after testing both handsets, alongside other top smartphones. Using a three-point flexural test, the outlet found that the iPhone 6 can withstand 70 pounds of pressure before deforming, and the 6 Plus can take up to 90.

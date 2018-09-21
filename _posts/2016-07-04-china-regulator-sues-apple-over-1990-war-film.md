@@ -1,6 +1,6 @@
 ---
 layout: post
-title: China's media administrative wing sues Apple over 1990s war film
+title: Chinas media administrative wing sues Apple over 1990s war film
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/Apple-Store-West-Lake-China-exterior-001.jpg)
 * A subsidiary of China’s broadcasting regulator is taking Apple to court over showing a propaganda film which was released back in the 1990s, reports The Associated Press. The plaintiff—Movie Satellite Channel Program Production Center, which comes under the State Administration of Press, Publication, Radio, Film and Television—alleges that the iPhone maker has infringed its exclusive online rights to broadcast its movie which depicts Chinese fighting against Japanese soldiers in northern China in the early 1930s.

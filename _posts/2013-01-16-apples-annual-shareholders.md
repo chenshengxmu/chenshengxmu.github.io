@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's annual shareholders meeting to take place on February 27
+title: Apples annual shareholders meeting to take place on February 27
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/apple-store-logo-shadow-man.jpg)
 * Apple notified the U.S. Securities and Exchange Commission yesterday that it will be holding its annual shareholder meeting on February 27, and boy do they have a lot talk about.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New in Google app- 3D Touch for 'I’m Feeling Curious'
+title: New in Google app- 3D Touch for I’m Feeling Curious
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/02/Google-Search-12.0-for-iOS-3D-Touch-shortcut-iPhone-6s-screenshot.png)
 * Google today issued a nice little update to its mobile search application for the iPhone, iPod touch and iPad. In addition to the usual assortment of bug fixes and stability improvements, version 12.0 delivers a novel use case for the 3D Touch feature on the iPhone 6s and iPhone 6s Plus: if you press the Google app icon on your Home screen, you’ll get a shortcuts menu with a new “I’m Feeling Lucky” option.

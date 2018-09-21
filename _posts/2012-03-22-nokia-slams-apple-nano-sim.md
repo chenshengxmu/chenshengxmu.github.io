@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nokia says Apple's Nano SIM card proposal is no good
+title: Nokia says Apples Nano SIM card proposal is no good
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/SIM-card-sizes.jpg)
 * Espoo, Finland-headquartered Nokia is officially opposing Apple’s requirement for an emerging mobile industry standard basically calling for a miniaturized SIM module roughly a third smaller than the Micro SIM used with the iPhone 4/4S. A proposal put forth by Motorola, RIM and Nokia has some technical advantages over the Apple-backed nano SIM that requires a “drawer” to protect it.

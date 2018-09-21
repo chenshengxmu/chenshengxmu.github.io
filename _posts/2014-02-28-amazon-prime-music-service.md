@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amazon said to be working on 'Prime' music streaming service
+title: Amazon said to be working on Prime music streaming service
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/amazon_cloud_player_mac.jpg)
 * According to Recode, Amazon is in talks with record labels regarding a potential music streaming service. The site says the company plans to bundle the service with its Prime delivery option, where it already offers free movies and TV shows.

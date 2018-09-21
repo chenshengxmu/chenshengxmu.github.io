@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Production machinery orders spiking ahead of iPhone's switch to OLED screens
+title: Production machinery orders spiking ahead of iPhones switch to OLED screens
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/iPhone-7-Plus-mockup-Jermaine-Smit-001.jpg)
 * Many in the rumor-mill agree that Apple is planning to build an iPhone around the brighter, more power efficient AMOLED screen tech. New clues of 2017 bringing a major change to the iPhone’s display technology appeared with news this morning that the world’s top maker of display-making equipment, Applied Materials, reported an almost fourfold leap in orders for OLED production machinery.

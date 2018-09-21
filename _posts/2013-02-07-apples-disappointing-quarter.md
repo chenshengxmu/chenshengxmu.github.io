@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's 'disappointing' holiday quarter compared to other companies
+title: Apples disappointing holiday quarter compared to other companies
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Apple-headquarters-Cupertino-Clifornia-exterior-001.jpg)
 * When Apple announced the results for its 2012 holiday quarter, the reaction from Wall Street was extremely negative. Despite selling a record 48 million iPhones, and recording a record $54.5 billion in revenue, the company’s stock dropped more than 10% following the news.

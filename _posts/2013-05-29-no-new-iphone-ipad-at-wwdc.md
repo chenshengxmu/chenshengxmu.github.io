@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't expect new iPhones or iPads at WWDC
+title: Dont expect new iPhones or iPads at WWDC
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/iOS-7-WWDC-2013-logo-mockup-e1368048909125.png)
 * There has been some commotion in the past 24 hours concerning a comment Tim Cook made during his D:11 talk last evening. Specifically, when asked to talk about Apple’s next big thing, tight-lipped Cook wouldn’t budge and instead reminded the audience that Apple’s June 10 keynote at the upcoming WWDC 2013 will be a launchpad for the next versions of iOS and OS X operating systems

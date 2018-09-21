@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This tweak makes the App Switcher's Home screen card more consistent
+title: This tweak makes the App Switchers Home screen card more consistent
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/HomeCardIconLabel-Before-and-After.jpg)
 * The App Switcher has a Home screen card in addition to those for each of your recently used apps. While each app has its own header with an icon and label above it, the Home screen card unfortunately does not.

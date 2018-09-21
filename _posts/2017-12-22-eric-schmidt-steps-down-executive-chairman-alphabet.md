@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Eric Schmidt is stepping down as Alphabet's executive chairman
+title: Eric Schmidt is stepping down as Alphabets executive chairman
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/Eric-Schmidt-holding-iPhne-6s-Galaxy-S7-image-001.jpg)
 * Eric Schmidt announced yesterday that he would be stepping down as the Executive Chairman of Alphabet’s Board of Directors at the next regular board meeting in January 2018.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reuters- Apple's Project Titan involves a self-driving electric car
+title: Reuters- Apples Project Titan involves a self-driving electric car
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/apple-car-concept.jpg)
 * A rumor involving an Apple-branded electric vehicle that The Financial Times and The Wall Street Journal threw their weight behind just took an interesting turn with a Reuters report Saturday offering additional tidbits.

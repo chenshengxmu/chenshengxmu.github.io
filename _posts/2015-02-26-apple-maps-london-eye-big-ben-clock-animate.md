@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Maps now animates London Eye and Big Ben's clock tower
+title: Apple Maps now animates London Eye and Big Bens clock tower
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/Apple-Maps-Big-Ben.jpg)
 * Apple has started to animate certain landmarks in a three-dimensional Flyover view in Apple Maps, The Daily Mail reported Thursday. Specifically, London’s Big Ben clock and the popular London Eye now feature animated segments in Flyover.

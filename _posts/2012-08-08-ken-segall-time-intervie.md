@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Steve Jobs's marketing whiz on what makes Apple tick
+title: Steve Jobss marketing whiz on what makes Apple tick
 ---
 * Ken Segall is the guy who dreamed up the iMac name and one of Steve Jobs’s most-trusted ad men who advised Apple’s late mercurial CEO on advertising concepts since the NeXT days, which includes work on the famous Think Different campaign. Segall is also the author of Insanely Simple: The Obsession That Drives Apple’s Success, a book on Apple that focuses on the company’s Simplicity mantra.
 * Segall sat with TIME’s Editor-at-large Harry McCracken to talk for more than an hour about the ingredients that made Apple such a success, the company’s DNA, leadership tips, marketing, advertising and much more…

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amazon offering Logitech's PowerShell iOS 7 controller for $50 with free shipping
+title: Amazon offering Logitechs PowerShell iOS 7 controller for $50 with free shipping
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/Logitech-PowerShell-on-Amazon-listing-001.png)
 * Logitech’s PowerShell iOS 7 controller has been heavily criticized for its high launch price ($99) and there have been some complaints about build quality and features. But if you’re serious about iOS gaming, you should consider this accessory as a worthy first entrant into the iOS 7 controller market.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's SIM connector patent explained and why it matters for Nano SIM
+title: Apples SIM connector patent explained and why it matters for Nano SIM
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/iPhone-4-Sim-tray-half-closed.jpg)
 * As Apple fights rivals Nokia, Motorola and Research In Motion for the upcoming Nano SIM card standard, a new patent filing indicates the company is thinking beyond smartphones. The iPhone maker already holds an important Nano SIM patent and now we’ve learned they’re researching a universal SIM card connector solution.

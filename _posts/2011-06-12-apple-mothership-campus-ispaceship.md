@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Mothership Campus in Cupertino Will Be an iSpaceship
+title: Apples Mothership Campus in Cupertino Will Be an iSpaceship
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/iSpaceship.png)
 * In case you haven’t heard, Apple is planning on building a new headquarters in Cupertino. The project has been proposed by Steve Jobs himself to the Cupertino City Council, and the Mayor of Cupertino has confirmed that the city plans on supporting Apple in its move to a larger and more exterrestrial building.

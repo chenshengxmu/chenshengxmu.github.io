@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sprint's 4G LTE will be slower than AT&T's or Verizon's
+title: Sprints 4G LTE will be slower than AT&Ts or Verizons
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/Cell-tower-Flickr-user-forklift.jpeg)
 * As Sprint, the nation’s third-largest carrier, begins its long-overdue nationwide 4G LTE rollout, those keeping their fingers crossed for some crazy fast download speeds on a next-generation 4G LTE iPhone will be in for an unpleasant surprise.

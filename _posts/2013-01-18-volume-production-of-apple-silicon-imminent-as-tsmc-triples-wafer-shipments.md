@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Volume production of Apple silicon looms as TSMC's 2013 wafer shipments triple
+title: Volume production of Apple silicon looms as TSMCs 2013 wafer shipments triple
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/Apple_A6X_chip.jpeg)
 * Following up on talk that Taiwan Semiconductor Manufacturing Company (TSMC) is prepping to manufacture Apple’s A6X processor and whispers of Tim Cook & Co. negotiating a deal with the foundry to make mobile chips for iOS devices on its 20 nanometer process technology, China Times now quotes Chairman and CEO Morris Chang’s words that TSMC is close to achieving a hundred percent market share on its 28nm process technology.

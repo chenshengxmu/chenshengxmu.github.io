@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple overhauls dated app previews on the web with iOS 11's new App Store styling
+title: Apple overhauls dated app previews on the web with iOS 11s new App Store styling
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/iDB-app-web-preview-001.png)
 * Apple has refreshed web previews of iOS, watchOS, tvOS and macOS apps, changing the dated design of its App Store and Mac App Store web interfaces to match iOS 11’s new App Store styling with larger images, bolder headings, a strong focus on reviews and other perks.

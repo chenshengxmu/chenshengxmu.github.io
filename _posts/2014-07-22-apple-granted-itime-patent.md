@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple granted 'iTime' patent for smart wristband
+title: Apple granted iTime patent for smart wristband
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/itime-patent-3.png)
 * With no physical evidence supporting the ongoing ‘iWatch‘ rumors, we continue to search for other forms of proof that Apple is indeed working on a smartwatch. And today, we are adding a new piece to the puzzle with the ‘iTime’ patent.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's free app of the week- Little Kitten
+title: Apples free app of the week- Little Kitten
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/05/kitten.png)
 * Apple on Thursday updated its App of the Week promotion with Little Kitten. For the next 7 days, you’ll be able to pick up the app for free on both iPhone and iPad—a solid savings of $2.

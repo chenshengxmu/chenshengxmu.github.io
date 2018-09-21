@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Busted" iOS battery algorithm behind shorter iPad run time affects all iOS devices?
+title: Busted iOS battery algorithm behind shorter iPad run time affects all iOS devices?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/iOS-5-battery-icon-full.jpg)
 * As we told you last week, unplugging your brand spanking new iPad as soon as the battery gauge hits the 100 percent mark entails missing out as much as ten percent of additional run time, or about 1.2 hours. This has been attributed to the iOS battery algorithm, which kinda brings back old memories of a bug in reporting cellular signal levels on the iPhone 4, later fixed with a software update.

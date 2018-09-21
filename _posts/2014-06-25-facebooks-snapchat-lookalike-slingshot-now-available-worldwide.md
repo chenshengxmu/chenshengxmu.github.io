@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Facebook's Snapchat lookalike Slingshot now available worldwide
+title: Facebooks Snapchat lookalike Slingshot now available worldwide
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/facebook-slingshot.png)
 * After launching in the United States last week, Facebook’s new Snapchat competitor Slingshot is now available for international users. I can confirm that the app is available in the Canadian version of the App Store, and it appears to be available in most other countries as well. If you haven’t downloaded Slingshot yet, the app is free on the App Store for iPhone… 

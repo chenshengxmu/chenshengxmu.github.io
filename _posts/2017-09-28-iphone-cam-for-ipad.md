@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This tweak brings the iPhone's Camera app user interface to the iPad
+title: This tweak brings the iPhones Camera app user interface to the iPad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/iPhone-Cam-for-iPad-Before-and-After.jpg)
 * If you have both an iPhone and an iPad, then you should already know that each device’s Camera app has a different look and feel to it.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to use the iPhone's proximity sensor as an Activator gesture
+title: How to use the iPhones proximity sensor as an Activator gesture
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/07/ProximityActivator.png)
 * ProximityActivator is a recently released tweak that adds a new proximity sensor gesture to your list of Activator gestures. This makes it possible to perform certain actions simply by waving your hand in front of your iPhone.

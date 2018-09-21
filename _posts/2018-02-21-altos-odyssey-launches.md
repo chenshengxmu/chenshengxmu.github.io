@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Alto's Odyssey hits App Store a day early, get downloading
+title: Altos Odyssey hits App Store a day early, get downloading
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/Altos-Odyssey-menu-001.jpg)
 * The endless snowboarding game Alto’s Odyssey was supposed to hit iPhone, iPad and Apple TV on Thursday, February 22, but Canadian developer Snowman has decided to release this highly anticipated sequel to Alto’s Adventure a day early.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review- WTHR, a dazzling weather app built on Dieter Rams' 10 principles of design
+title: Review- WTHR, a dazzling weather app built on Dieter Rams 10 principles of design
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/WTHR-for-iOS-teaser.jpg)
 * Sick and tired of glorified weather apps that overload you with a bunch of stats or distract with broadcast-quality animations costing hundreds of megabytes of storage space, developer David Elgena set out to create the simplest weather app you could think of. With one twist…

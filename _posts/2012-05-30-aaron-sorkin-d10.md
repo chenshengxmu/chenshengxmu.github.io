@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sorkin at D10- "Jobs is an extremely complicated guy"
+title: Sorkin at D10- Jobs is an extremely complicated guy
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Aaron-Sorkin-at-D10-image-001.jpg)
 * Aaron Sorkin just got interviewed by Walt Mossberg and Kara Swisher at the D10: All Things Digital conference. He responded to a bunch of questions concerning his thought process, including ongoing work on his adaption of Walter Isaacson’s authorized bio book for the silver screen, likening the job to “writing about The Beatles”…

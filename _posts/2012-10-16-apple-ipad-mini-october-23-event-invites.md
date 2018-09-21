@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple confirms October 23 iPad mini event- "We've got a little more to show you"
+title: Apple confirms October 23 iPad mini event- Weve got a little more to show you
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/iPad-mini-Martin-Hajek-013.jpg)
 * Forbes called for an October 10 iPad mini media event and missed, forcing author Philip Elmer-DeWitt to apologize, writing “I don’t know what I was doing in the rumor business in the first place”. Then, John Paczkowski of the Wall Street Journal-owned AllThingsD blog set another date for the elusive iPad mini announcement.

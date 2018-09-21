@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'WeeRoll' will add over a dozen animations to Notification Center
+title: WeeRoll will add over a dozen animations to Notification Center
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/WeeRoll-Screenshot.jpg)
 * WeeRoll is an unreleased jailbreak tweak that lends the ability to add over a dozen animations to iOS 5’s Notification Center.

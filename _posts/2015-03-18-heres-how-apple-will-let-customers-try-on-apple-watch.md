@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's how Apple will let customers try on Apple Watch
+title: Heres how Apple will let customers try on Apple Watch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/apple-watch1.jpg)
 * 9to5mac is out with a report detailing how Apple plans to allow customers to try on the Apple Watch in its retail stores around the globe, when the wearable will be put out on tables starting April 10.

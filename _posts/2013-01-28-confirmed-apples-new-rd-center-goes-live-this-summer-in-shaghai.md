@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Confirmed- Apple's new R&D center going live this summer in Shanghai
+title: Confirmed- Apples new R&D center going live this summer in Shanghai
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/Apple-HR-recruiter-video-iPad-001.jpg)
 * Earlier in the month, the major Chinese web portal Tencent claimed Apple was looking to establish a research and development center in Beijing and last week Cnet China corroborated the story, but noted that the rumored six-story facility with over 100,000 square feet of space is actually going up in Shanghai. Today, a new report from another Chinese news site give us more in way of details…

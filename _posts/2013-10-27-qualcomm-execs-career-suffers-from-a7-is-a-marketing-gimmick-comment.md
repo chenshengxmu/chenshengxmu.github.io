@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Qualcomm exec's career suffers from 'A7 is a marketing gimmick' comment
+title: Qualcomm execs career suffers from A7 is a marketing gimmick comment
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/Qualcomm-headquarters-001.jpg)
 * Qualcomm’s marketing chief has been reassigned after dismissing Apple’s new 64-bit A7 processor as a ‘marketing gimmick.’ The chipmaker’s former Chief Marketing Officer has also been removed from Qualcomm’s leadership page. Instead, Anand Chandrasekher was put in charge of a broadly-worded “exploration of certain enterprise related initiatives.”

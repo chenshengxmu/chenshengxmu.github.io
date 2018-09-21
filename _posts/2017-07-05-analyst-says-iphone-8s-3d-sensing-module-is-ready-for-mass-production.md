@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Analyst says iPhone 8's 3D sensing module is ready for mass production
+title: Analyst says iPhone 8s 3D sensing module is ready for mass production
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/07/iPhone-8-mockup-iDropNews-001.jpg)
 * iPhone 8 is expected to use a laser transmitter and receiver for advanced facial recognition, 3D mapping, augmented reality and other features. A Barrons report, citing analyst Jun Zhang with Rosenblatt Securities, suggests iPhone 8’s 3D sensing module is ready for mass production.

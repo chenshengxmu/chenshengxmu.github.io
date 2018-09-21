@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's official promotional poster for Ashton Kutcher's Jobs movie
+title: Heres official promotional poster for Ashton Kutchers Jobs movie
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/Ashton-Kutcher-Jobs-movie-poster-teaser.jpg)
 * With a little over a month until Ashton Kutcher’s movie based on Steve Jobs’s life, Open Road Films has released a promotional poster for the upcoming flick. The official tagline: “Some see what’s possible, others change what’s possible”.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some users are having issues with Apple's iCloud Backup service
+title: Some users are having issues with Apples iCloud Backup service
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/iCloud-Backup-down.png)
 * Apple today acknowledged ongoing issues with iCloud backups, noting on its System Status webpage that a small percentage of customers have been unable to create new iOS device backups in iCloud or restore from previous saves since Tuesday morning.

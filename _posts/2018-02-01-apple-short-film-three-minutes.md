@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Watch Apple's shot on iPhone X “Three Minutes” film celebrating Chinese New Year
+title: Watch Apples shot on iPhone X “Three Minutes” film celebrating Chinese New Year
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/02/Apple-short-film-Three-Minutes.jpg)
 * Apple today released a short film, shot entirely on iPhone X, to celebrate Chinese New Year.

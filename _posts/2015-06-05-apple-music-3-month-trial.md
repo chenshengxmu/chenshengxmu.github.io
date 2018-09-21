@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New 'Apple Music' streaming service to feature three-month free trial
+title: New Apple Music streaming service to feature three-month free trial
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/Beats-Music-teaser-003.jpg)
 * Apple’s upcoming streaming music service will offer a lengthy free trial period to new users, according to the Financial Times. Citing sources familiar with the company’s plans, the outlet says that ‘Apple Music’ will be free for the first 3 months.

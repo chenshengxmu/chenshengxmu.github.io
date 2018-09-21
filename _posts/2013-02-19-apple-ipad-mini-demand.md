@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPad mini now showing 'in stock' online in several countries
+title: iPad mini now showing in stock online in several countries
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/ipad-mini-in-stock.png)
 * Apple has had a hard time catching up with consumer demand for its iPad mini. Since the tablet debuted four months ago, supply has been extremely constrained, with shipping times only recently dropping below a week.

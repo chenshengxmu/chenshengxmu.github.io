@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Lightning authentication already cracked?
+title: Apples Lightning authentication already cracked?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/lightning-chip.jpg)
 * Apple’s new Lightning connector, currently utilized on the iPhone 5 and the new iPod touch and iPod nano, features an authentication chip, also found inside the Lightning cable. The chip, along with tightened ‘MFi’ terms, exists to ensure that only Apple-authorized Lightning accessories (like the Lightning to 30-pin adapter) function with Lightning-equipped iOS devices.

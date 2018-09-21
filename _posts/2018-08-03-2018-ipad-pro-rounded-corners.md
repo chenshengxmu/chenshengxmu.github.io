@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The display on 2018's iPad Pro will have rounded corners, code leaks suggest
+title: The display on 2018s iPad Pro will have rounded corners, code leaks suggest
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/iPad-Rounded-Corners-leak.jpg)
 * A tiny icon previously discovered in iOS 12 beta 5 has corroborated rumors that have been calling for a nearly bezel-free iPad with no Home button, and now a new discovery suggests this year’s iPad Pro will almost certainly sport the same rounded corners as iPhone X.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Australian watchdog fines Apple $9 million for misleading customers about 'Error 53'
+title: Australian watchdog fines Apple $9 million for misleading customers about Error 53
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/Touch-ID-technology-iPhone-6-e1455542581174.png)
 * After receiving complaints about the “Error 53” issue which bricked some iPhones and iPads repaired by a third-party, the Australian Competition and Consumer Commission (ACCC) has fined Apple $9 million for misleading Aussie customers about the issue.

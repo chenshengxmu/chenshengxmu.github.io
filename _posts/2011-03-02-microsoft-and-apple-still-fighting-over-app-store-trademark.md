@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft and Apple Still Fighting Over 'App Store' Trademark
+title: Microsoft and Apple Still Fighting Over App Store Trademark
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/03/Available-on-the-App-Store-e1299031886334.png)
 * Microsoft has pointed the finger and claimed that it’s unfair for Apple to trademark the phrase “App Store.” Microsoft claims that the term is too generic, and that other companies should be able to use the phrase for their own mobile marketplaces.

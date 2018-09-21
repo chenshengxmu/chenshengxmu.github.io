@@ -1,6 +1,6 @@
 ---
 layout: post
-title: High performance CPU cores in iPhone X's A11 chip are code-named “Mistral”
+title: High performance CPU cores in iPhone Xs A11 chip are code-named “Mistral”
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/Apple-A11-chip-SlashLeaks-001.jpg)
 * Developer Steven Troughton-Smith has discovered a possible code-name for a set of high-performance CPU cores to be found inside Apple’s in-house designed “A11” system-on-a-chip that will power iPhone X and iPhone 8/Plus: “Mistral”.

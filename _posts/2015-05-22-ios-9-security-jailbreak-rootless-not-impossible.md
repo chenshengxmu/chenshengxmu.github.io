@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 9 security & jailbreaking- there's no such thing as impossible
+title: iOS 9 security & jailbreaking- theres no such thing as impossible
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/05/iOS-9-Jailbreak-Cydia.jpg)
 * Recent reports are claiming that Apple’s upcoming iOS update—iOS 9—will make it more difficult to jailbreak iPhones and iPads going forward. Some are even stating that it will be nearly impossible to jailbreak an iPhone running iOS 9.

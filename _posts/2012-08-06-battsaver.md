@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Increase iPhone battery life with 'BattSaver'
+title: Increase iPhone battery life with BattSaver
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/BattSaver-Home-Screen.png)
 * BattSaver is a new jailbreak app from Xvolks — probably best known from his work on the Absinthe jailbreak tool.

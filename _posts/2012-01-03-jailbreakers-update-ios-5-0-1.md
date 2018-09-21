@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Potential Jailbreakers Should Update to iOS 5.0.1 Before It's Too Late!
+title: Potential Jailbreakers Should Update to iOS 5.0.1 Before Its Too Late!
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/iOS-5.0.1-Beta-2-Jailbreak.png)
 * It’s a busy and exciting time for the jailbreak community. In the last couple of weeks we’ve seen the iOS 5.0.1 untethered jailbreak for A4-based devices go live in the form of RedSn0w, PwnageTool, and The Chronic Dev Team’s Corona tool. Moments ago we announced that the security expert known as pod2g expects to drop the untethered jailbreak for iPhone 4S and iPad 2 users next week.

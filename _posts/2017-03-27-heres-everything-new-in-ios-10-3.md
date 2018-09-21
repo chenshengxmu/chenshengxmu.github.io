@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's everything new in iOS 10.3
+title: Heres everything new in iOS 10.3
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/03/iOS-10.3-hands-on-video-teaser-001.jpg)
 * Following weeks of extensive testing, Apple today released iOS 10.3 for iPhone, iPad and iPod touch with Find My AirPods and other new features. iOS 10.3 is available as a free over-the-air update for all iOS 10 users, and can be downloaded via iTunes, too.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CES 2013- a 'smart' fork arrives, but will it help you eat less?
+title: CES 2013- a smart fork arrives, but will it help you eat less?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/Hapilabs-Haifork-image-001.jpg)
 * We already have smart TVs (Samsung leads the charge), as well as smart ovens, smart laundry and smart vacuum (all coming from LG in 2013). Heck, we’re increasingly wearing app-enabled smart watches around our wrist (we’re looking at you, Apple). It really is no surprise then that gadget makers now expect we’ll monitor our eating habits using a ‘smart’ fork?

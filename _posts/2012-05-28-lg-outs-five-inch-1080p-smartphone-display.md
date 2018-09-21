@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Did LG Display just out full HD 440ppi screen for Apple's rumored Galaxy Note-killer?
+title: Did LG Display just out full HD 440ppi screen for Apples rumored Galaxy Note-killer?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/lG-Display-1080p-five-inch-panel-press-shot-001.jpg)
 * Apple debuted the Retina display in June 2010 on the iPhone 4. Fast-forward to today and it remains the gold standard for smartphones in terms of crispness and pixel density. Yes, most high-end Android handsets now top the iPhone’s 960-by-480 pixel resolution by way of using bigger panels that however don’t always introduce denser pixel.

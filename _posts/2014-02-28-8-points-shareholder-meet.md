@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple- 'several billion' iMessages sent daily, Apple TV raked in $1 billion last year
+title: Apple- several billion iMessages sent daily, Apple TV raked in $1 billion last year
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Apple-headquarters-Cupertino-Clifornia-exterior-001.jpg)
 * As expected, Apple held its 2014 shareholders meeting on its Cupertino campus this afternoon. Apple executives were on hand, as were the company’s board of directors, to reassure investors that things are on track for another successful year, and to field shareholder questions.

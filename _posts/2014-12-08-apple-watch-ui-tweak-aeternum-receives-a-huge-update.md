@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Watch UI tweak 'Aeternum' receives a huge update
+title: Apple Watch UI tweak Aeternum receives a huge update
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/Aeternum-Featured.png)
 * Aeternum, arguably the best Apple Watch UI jailbreak tweak available on Cydia, received a massive update today. The update brings lots of fixes and several notable new features to the table. If you purchased Aeternum the past, but felt it wasn’t ready for prime time, you may want to check it out again now that it’s received its notable 1.0.2.3 update.

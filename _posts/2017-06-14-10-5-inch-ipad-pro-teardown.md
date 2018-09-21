@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 10.5" iPad Pro teardown finds 4GB of RAM, Toshiba flash storage & more
+title: 10.5 iPad Pro teardown finds 4GB of RAM, Toshiba flash storage & more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/10.5-inch-iPad-Pro-iFixit-teardown-004.jpg)
 * A teardown analysis of Apple’s new 10.5-inch iPad Pro was shared earlier today by repair experts at iFixit. According to the analysis, the new iPad Pro is essentially a scaled-down, streamlined version of its 12.9-inch predecessor when it comes to the internal layout.

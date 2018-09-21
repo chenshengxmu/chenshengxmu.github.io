@@ -1,6 +1,6 @@
 ---
 layout: post
-title: With new 12" MacBooks in the mix, Apple discounts refurbished models
+title: With new 12 MacBooks in the mix, Apple discounts refurbished models
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/04/Apple-twelve-inch-MacBook-refurbished-discounts.png)
 * With this morning’s refresh of the twelve-inch MacBook lineup around Intel’s latest processors, Apple’s now discounted refurbished twelve-inch MacBooks, bringing their already reduced price down by up to an additional fifteen percent for most models.

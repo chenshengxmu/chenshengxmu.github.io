@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video- limited bending stress test of iPhone 6's claimed sapphire cover
+title: Video- limited bending stress test of iPhone 6s claimed sapphire cover
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/iPhone-6-sapphire-cover-Sonny-Dickson-001.jpg)
 * Our favorite parts leaker, Australia-born Sonny Dickson, is back at it again with a new video that seems to offer a look at an alleged sapphire-strengthened cover glass, presumably for Apple’s next iPhone.

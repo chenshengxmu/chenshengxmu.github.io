@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Create a shortcut for any app on your iPad's Lock screen with Zeus
+title: Create a shortcut for any app on your iPads Lock screen with Zeus
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/zeus-ss.jpg)
 * Unless you happen to use the Slideshow feature on your iPad on a regular basis, there’s a good chance that you don’t need that shortcut on your Lock screen. So what do you do with it?

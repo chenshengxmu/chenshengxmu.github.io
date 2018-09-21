@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New purported details about next iPhone and iPad's 'A9’ chip emerge
+title: New purported details about next iPhone and iPads A9’ chip emerge
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/Apple-A9-mockup-002.jpg)
 * Interesting tidbits regarding Apple-designed ‘A9’ chip said to power the upcoming ‘iPhone 6s’ and ‘iPhone 6s Plus’ handsets surfaced Monday, offering some previously unknown details regarding its performance and design.

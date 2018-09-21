@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Qualcomm's new wireless chip makes a truly global iPhone possible
+title: Qualcomms new wireless chip makes a truly global iPhone possible
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/Qualcomm-chipshot-001.jpg)
 * Doesn’t it bother you that Apple sells its LTE devices like the iPhone 5 and latest iPads in a bunch of variants, depending on your carrier and geographical location? For example, the iPhone comes in two GSM models and one CDMA version. Blame it on the limitations with existing wireless chipsets, not Apple. Long-Term Evolution (LTE) is a fantastic technology, but it’s also highly fragmented.

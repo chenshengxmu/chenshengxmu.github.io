@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's mobile payment service may launch this fall
+title: Apples mobile payment service may launch this fall
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/passbook-ios-8.png)
 * Apple’s long-rumored mobile payment service may be ready in time for iPhone 6, according to a new report from The Information. Talks between the iPad maker and payments companies are said to be heating up, and the service is nearing completion.

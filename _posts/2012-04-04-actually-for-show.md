@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google CEO says Steve Jobs' hatred for Android was "actually for show"
+title: Google CEO says Steve Jobs hatred for Android was actually for show
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/larry-page.jpg)
 * Steve Jobs’ distain for Google’s mobile OS was well documented. There’s a famous quote from the late CEO’s biography that goes something like, “I’m going to destroy Android, because it’s a stolen product. I’m willing to go thermonuclear war on this.”

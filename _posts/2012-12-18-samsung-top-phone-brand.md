@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung passes Nokia as the world's top phone brand in 2012
+title: Samsung passes Nokia as the worlds top phone brand in 2012
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/Nokia-Lumia-920-image-001.jpg)
 * The cellphone industry has a new king. South Korea’s Samsung is #1 in the market, unseating the Finnish-based Nokia after fourteen years. As 2012 wraps up, Samsung is responsible for 29 percent of all cell phone shipments, up from last year’s 24 percent.

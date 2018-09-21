@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KGI- Apple's wireless AirPods will be high-end, use a bespoke low-power Bluetooth chip
+title: KGI- Apples wireless AirPods will be high-end, use a bespoke low-power Bluetooth chip
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/Apple-EarPods-promo-video-3D-ear-scan.jpg)
 * Apple’s wireless headphones, likely to be called “AirPods”, will take advantage of an in-house designed Bluetooth chip and be marketed as a high-end alternative to the Beats brand, which itself will be positioned in the mid-range market, according to a note by KGI Securities analyst Ming-Chi Kuo.

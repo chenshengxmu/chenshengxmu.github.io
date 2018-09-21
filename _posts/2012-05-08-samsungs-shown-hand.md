@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung's hand shown, will Apple come through with the next iPhone?
+title: Samsungs hand shown, will Apple come through with the next iPhone?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/galaxy-s3.jpeg)
 * We may still be a good five months away from Apple’s expected iPhone 5/Next iPhone announcement, but Samsung has already shown its hand with the Galaxy S III.

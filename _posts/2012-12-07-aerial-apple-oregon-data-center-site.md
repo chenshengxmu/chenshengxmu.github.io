@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bird's-eye view of Oregon's upcoming iCloud
+title: Birds-eye view of Oregons upcoming iCloud
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/Apple-data-center-Prineville-Oregon-Wired-aerial-001.jpg)
 * After taking up to the skies early-August to grab high-quality aerial photos of Apple’s 100-acre solar farm and a mysterious tactical data center – both located in Maiden, North Carolina – Wired now has dispatched its “iSpy Plane” in order to take a closer look at Apple’s enormous data center site in the middle of Oregonian high desert. The facility is located right in the neighborhood of another insanely massive data center run by the social networking giant Facebook.

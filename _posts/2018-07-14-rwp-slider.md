@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RWP Slider lets you tweak iOS' Reduce White Point feature on the fly
+title: RWP Slider lets you tweak iOS Reduce White Point feature on the fly
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/RWP-Slider.jpg)
 * It’s only natural to fancy a lower display brightness when you’re in a dark environment, such as your bedroom during the night. Doing so makes viewing your display more comfortable by reducing the strain on your eyes.

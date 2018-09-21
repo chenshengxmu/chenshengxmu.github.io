@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Customize your iDevice's Slide to Unlock bar with SlideToMod
+title: Customize your iDevices Slide to Unlock bar with SlideToMod
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/slidetomod.jpg)
 * There’s certainly no shortage of jailbreak tweaks that allow you to customize your device’s slide to unlock bar. There’s Springtomize 2 and SliderEnhancer to name a few.

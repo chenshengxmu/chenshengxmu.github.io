@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VolumeColor- change the color of the iPhone's volume HUD
+title: VolumeColor- change the color of the iPhones volume HUD
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/VolumeColor.jpg)
 * You can safely file this one under the “not necessarily useful, but nonetheless interesting” tweak of the day. VolumeColor is a recent Cydia release that allows you to alter the color of your volume HUD.

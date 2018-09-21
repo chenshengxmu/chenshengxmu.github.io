@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple launches iOS 12 beta 3- see what's new
+title: Apple launches iOS 12 beta 3- see whats new
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/ios-12-beta-3.jpg)
 * Apple has released iOS 12 beta 3 for developers. The software update arrives two weeks after the second beta was released. Developers can get the update from Apple’s site or over-the-air (OTA).

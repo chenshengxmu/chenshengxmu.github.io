@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'StatusHUD' creatively merges the status bar and Volume HUD
+title: StatusHUD creatively merges the status bar and Volume HUD
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/StatusHUD-Featured.png)
 * StatusHUD is a new jailbreak tweak that we previewed a few days ago, and it lends the ability to view the volume indicator in the status bar when adjusting your device’s volume. The tweak, which eschews the stock volume HUD completely in favor of the status bar variety, comes with the ability to change the volume indicator style, along with a method for displaying the volume indicators while within a full screen app. Take a look at our full video walkthrough inside for all of the details.

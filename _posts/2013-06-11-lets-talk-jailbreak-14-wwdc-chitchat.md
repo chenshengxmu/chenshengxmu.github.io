@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's Talk Jailbreak 14- WWDC chitchat
+title: Lets Talk Jailbreak 14- WWDC chitchat
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/Lets_Talk_Jailbreak_Podcast_Cover.jpg)
 * It’s WWDC week, and that can only mean one thing: iOS 7! Hence, today is a special episode, as we focus on the new features announced for iOS 7 via Apple’s WWDC keynote. In addition, we discuss the various apps and tweak ideas that Apple borrowed from the jailbreak community. We also talk OS X Mavericks, and Sebastien gives Jeff a timely lesson in surfing.

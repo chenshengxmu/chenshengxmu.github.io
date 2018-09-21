@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple opposes iPhone tracking class-action bid as 'desperate'
+title: Apple opposes iPhone tracking class-action bid as desperate
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/iPhone-Location-Tracking.jpg)
 * Apple is once again in U.S. District Court, attempting to derail a lawsuit claiming apps for the iPhone and iPad collected location data and other personal information without explicit permission from users. Responding Thursday to an effort by plaintiffs’ attorneys to classify the lawsuit a class action, Apple’s legal team argued no harm was suffered and suggested the call for class action status is a “desperate attempt” to collect legal fees…

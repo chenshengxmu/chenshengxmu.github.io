@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone Nano Concept - "Squeeze" to Close Apps
+title: iPhone Nano Concept - Squeeze to Close Apps
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/02/iPhone-Nano-Squeeze-e1297906416973.png)
 * There have been multiple rumors surfacing lately that Apple is working on a smaller iPhone “Nano.” The device is rumored to have a smaller form factor and use cloud-based storage (possibly in accordance with a revamp of MobileMe).

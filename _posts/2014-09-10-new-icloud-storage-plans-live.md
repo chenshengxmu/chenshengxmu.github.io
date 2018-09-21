@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's new iCloud storage plans now live, up to 1TB for $20 per month
+title: Apples new iCloud storage plans now live, up to 1TB for $20 per month
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/icloud-drive-price.png)
 * Apple updated its iCloud website yesterday with additional information on its new iCloud storage plans. As of today, those storage plans are now live, allowing users to purchase additional iCloud storage of up to 1TB using the new pricing.

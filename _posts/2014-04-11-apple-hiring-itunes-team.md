@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple looking to beef up its iTunes team amid 'overhaul' rumors
+title: Apple looking to beef up its iTunes team amid overhaul rumors
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/itunes_11_store.jpg)
 * According to recent reports, Apple is looking at various ways to remedy declining music sales, and better combat the competition. Billboard says the company is considering everything from launching an on-demand streaming music service, to giving its iTunes Store a dramatic overhaul.

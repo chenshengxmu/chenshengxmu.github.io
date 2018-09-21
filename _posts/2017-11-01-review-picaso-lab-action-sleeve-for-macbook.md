@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review- Picaso Lab's MacBook sleeve—versatile protection in gorgeous handcrafted leather
+title: Review- Picaso Labs MacBook sleeve—versatile protection in gorgeous handcrafted leather
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/Picaso-Lab-Action-Sleeve.jpg)
 * When it comes to protective sleeves for your MacBook, they are generally very similar: some outer material, a soft inner material and your Mac slides in and out.

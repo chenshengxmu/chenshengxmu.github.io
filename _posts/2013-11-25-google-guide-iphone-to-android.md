@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's Eric Schmidt posts guide on how to convert from iPhone to Android
+title: Googles Eric Schmidt posts guide on how to convert from iPhone to Android
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/eric-schmidt-moto-x-640x426.jpg)
 * In an odd move, Google Chairman Eric Schmidt posted a step-by-step guide on his Google+ page yesterday, detailing how he recommends users go about switching from iPhone to Android. The guide is both lengthy and detailed.

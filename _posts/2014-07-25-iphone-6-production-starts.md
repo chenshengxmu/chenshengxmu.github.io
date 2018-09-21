@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chinese sources- mass production of 4.7" iPhone 6 begins, 5.5" and new iPads start in September
+title: Chinese sources- mass production of 4.7 iPhone 6 begins, 5.5 and new iPads start in September
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iPhone-5-manufacturing-process-008.jpg)
 * As the purported parts and cases thought to belong to the iPhone 6 continue leaking out, Apple is now said to have started mass production of a 4.7-inch handset variant. As for a bigger 5.5-inch version, the handset is understood to enter production in September, alongside upcoming new iPads.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It's official- Samsung to unveil Note 9 on August 9
+title: Its official- Samsung to unveil Note 9 on August 9
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/06/Samsung-Unpacked-2018-invite-002.jpeg)
 * Samsung earlier in the week sent out press invites for its upcoming annual Unpacked press event that is scheduled to take place on Thursday, August 9, at 11am ET.

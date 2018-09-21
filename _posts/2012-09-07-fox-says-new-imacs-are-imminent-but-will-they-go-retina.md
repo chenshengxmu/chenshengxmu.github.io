@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fox says new iMacs are "imminent", but will they go Retina?
+title: Fox says new iMacs are imminent, but will they go Retina?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iMac-three-up-perspective.jpg)
 * The iMac, Apple’s ultimate all-in-one desktop, could be refreshed alongside the next iPhone five days from today, or perhaps in October alongside a rumored smaller iPad or maybe even later – but quite possibly by Christmas the latest.

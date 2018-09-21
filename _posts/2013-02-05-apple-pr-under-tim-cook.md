@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WSJ- competition forcing Apple's PR to work 'a little harder to get its message out'
+title: WSJ- competition forcing Apples PR to work a little harder to get its message out
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/Tim-Cook-holds-iPad-with-Katie-Cotton-Jacqui-Cheng.jpg)
 * There used to be a long-standing joke about Apple’s public relations department that it was the least demanding job in Silicon Valley. It was almost as if Apple’s PR bunnies were only required not to return calls from journalists and disregard email inquiries from various media outlets. Couple this inaccessibility and Apple’s penchant for dreaming up shiny gadgets people lust after with the infamous culture of secrecy and you have a winning formula for a kind of coverage other companies would die for.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung's Efforts to Block the iPhone 4S in Italy Go Unrewarded
+title: Samsungs Efforts to Block the iPhone 4S in Italy Go Unrewarded
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/iphone-4s-user.jpg)
 * The back-and-fourth legal battle between Apple and Samsung continues today as the two companies have been handed down another decision from a presiding judge.

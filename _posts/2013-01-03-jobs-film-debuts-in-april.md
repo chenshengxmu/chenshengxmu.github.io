@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ashton Kutcher's 'jOBS' will hit theaters in April
+title: Ashton Kutchers jOBS will hit theaters in April
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/kutcher-steve-jobs-wow.png)
 * Great news movie buffs, it’s just been officially announced that the jOBS film starring Ashton Kutcher will hit theaters in a few months. The movie, which has garnered a lot of attention from the media, takes a biographical look at Steve Jobs’ life.

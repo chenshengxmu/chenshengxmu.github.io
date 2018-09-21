@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pop-ups in Safari on your Mac? Here's what to do
+title: Pop-ups in Safari on your Mac? Heres what to do
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/Safari-random-popup-window.png)
 * I hate pop-ups, and chances are, you probably do too. They’re not only a nuisance, but most of the time they’re also designed to get in your way to purposely try and scam you and get you to click on malicious material.

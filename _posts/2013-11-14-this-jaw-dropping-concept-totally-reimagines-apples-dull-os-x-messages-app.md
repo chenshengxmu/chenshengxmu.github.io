@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This jaw-dropping concept totally reimagines Apple's dull OS X Messages app
+title: This jaw-dropping concept totally reimagines Apples dull OS X Messages app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/Messages-Mac-concept-Denis-Pakhaliuk-002.png)
 * The iDB team very much depends on Apple’s Messages app as our day-to-day communications tool to keep everyone on the same page. Disregarding for a moment the ongoing iMessage reliability issues, the Messages app that comes bundled with OS X feels terribly outdated both design and feature-wise, even in Mavericks.

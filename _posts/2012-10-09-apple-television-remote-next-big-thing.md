@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's next big thing is an intelligent remote? I should have been an analyst.
+title: Apples next big thing is an intelligent remote? I should have been an analyst.
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/10/TouchPad-Remote-e1287369832423.png)
 * With the successful iPhone 5 launch now behind us and the rumored iPad mini introduction allegedly upon us later this month, the rumor-mill is no doubt busy thinking about Apple’s next big thing. The mythical Apple television set instantly springs to mind, dubbed by the media as the iTV. Not so fast. According to one analyst, an intelligent remote rather than a standalone HD TV set is up next for the Cupertino, California designer of shiny gadgets…

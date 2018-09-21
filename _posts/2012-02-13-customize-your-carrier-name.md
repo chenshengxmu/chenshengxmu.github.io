@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to customize your iPhone's carrier name
+title: How to customize your iPhones carrier name
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/Customize-Carrier-Emoji.jpg)
 * Customizing your carrier name is nothing new, but did you know there are tons of ways to go about doing so?

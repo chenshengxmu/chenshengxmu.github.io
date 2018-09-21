@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let’s Talk iOS 257- Unpacking Apple's September event
+title: Let’s Talk iOS 257- Unpacking Apples September event
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/02/Lets-Talk-iOS-podcast-on-iPhone-X.jpg)
 * After announcing the winner of last week’s draft, Cody and Sebastien unpack Apple’s big September event, with discussions about Apple Watch Series 4, iPhone Xs, iPhone Xs Max, iPhone Xr, and all the things we didn’t get.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Top 3D Touch shortcuts in Apple's Podcasts app
+title: Top 3D Touch shortcuts in Apples Podcasts app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/04/iOS-9-Podcasts-3D-Touch-teaser-001.jpg)
 * Podcasts, previously an optional download from the App Store and now a stock application in iOS 9, may not be the most elegant software to enjoy your favorite podcasts, such as iDownloadBlog’s Let’s Talk iOS series.

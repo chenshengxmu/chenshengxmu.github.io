@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's Talk Jailbreak 139- iOS 9.2 jailbreak rumors
+title: Lets Talk Jailbreak 139- iOS 9.2 jailbreak rumors
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/Lets-Talk-Jailbreak-banner.png)
 * Episode 139: Talk about the rumored upcoming iOS 9 jailbreak from TaiG, Surenix teases a new version of Auki, Springtomize 3 is updated, Seng comes out of beta, Ryan Petrich pushes a new version of Activator, GeoHot makes a big splash, and lots of new jailbreak tweaks are discussed.

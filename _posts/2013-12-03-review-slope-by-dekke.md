@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Slope review- magical tablet stand for Apple's magical iPad
+title: Slope review- magical tablet stand for Apples magical iPad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/The-Slope-photo-016.jpg)
 * Following a round of a successful Kickstarter campaign I wrote about a year ago, the wonderful Slope iPad stand finally went on sale in early-November. Without sounding melodramatic, this is hands down one of the very finest tablet stands I have ever seen or tried.

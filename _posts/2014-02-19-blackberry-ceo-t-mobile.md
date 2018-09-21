@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BlackBerry CEO 'outraged' over T-Mobile's iPhone offer
+title: BlackBerry CEO outraged over T-Mobiles iPhone offer
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/tmobile-iphone.jpg)
 * It looks like T-Mobile’s targeted iPhone offer didn’t just upset BlackBerry fans. The Canadian handset-maker’s CEO John Chen says that he and his team are also outraged, especially since their long-time business partner didn’t contact them beforehand.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We're giving away 10 copies of iTypeWriter
+title: Were giving away 10 copies of iTypeWriter
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/iTypeWriter-e1343071694609.jpg)
 * Earlier this week, we reviewed iTypeWriter, a new jailbreak tweak that adds classic typewriter elements to your iPhone. This includes sound effects and haptic feedback, both of which occur as you type.

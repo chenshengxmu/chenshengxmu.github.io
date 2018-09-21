@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MusicMod- a new tweak that lets you modify the look of iOS 8.4's Music app
+title: MusicMod- a new tweak that lets you modify the look of iOS 8.4s Music app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/07/Apple-Music-Custom-Tabs-MusicMod.png)
 * Love Apple Music, but not exactly loving the layout of the Music app in iOS 8.4? Then try Music Mod, a new jailbreak tweak that lets you modify many Music app settings.

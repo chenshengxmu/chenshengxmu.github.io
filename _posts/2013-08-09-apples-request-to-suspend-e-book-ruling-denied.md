@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's request to suspend e-book ruling denied
+title: Apples request to suspend e-book ruling denied
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/courtroom-660x439.jpg)
 * Today’s a big day for Apple as the company faces some major legal showdowns. First, the United States International Trade Commission handed down its final ruling on the long-running complaint against Samsung, ordering an import ban on infringing Samsung smartphones and tablets, which will take effect at the end of the 60-day Presidential review period.

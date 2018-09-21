@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sprint to start offering annual upgrades with 'iPhone for Life' plans
+title: Sprint to start offering annual upgrades with iPhone for Life plans
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/sprint-store.jpg)
 * Sprint will soon start offering a 12-month lease option through its iPhone for Life program, the carrier said in a press release on Friday. The new option will allow qualified customers to get a new iPhone every year, without having to make a significant lump sum payment.

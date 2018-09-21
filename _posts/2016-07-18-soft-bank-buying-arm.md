@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Japan's SoftBank is buying iPhone CPU supplier ARM for a reported $32 billion
+title: Japans SoftBank is buying iPhone CPU supplier ARM for a reported $32 billion
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/Apple-A9-mockup-002.jpg)
 * Japan’s carrier SoftBank has announced it will be purchasing British fabless semiconductor maker ARM Holdings plc for a reported $32 billion, which is around a 43 percent premium on its closing market value of $22.25 billion on Friday. ARM confirmed the deal (PDF download) on Monday.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Geohot Flees the Country in the Heat of Sony's Lawsuit [Update- No, He Didn't Flee]
+title: Geohot Flees the Country in the Heat of Sonys Lawsuit [Update- No, He Didnt Flee]
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/02/geohot-what-e1298635760206.jpeg)
 * I know this is not directly related to anything iPhone but I thought the news was important enough to report here on iDB. According to The Escapist, Geohot fled the country and is currently in South America.

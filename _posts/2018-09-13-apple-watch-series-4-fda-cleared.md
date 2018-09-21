@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Watch Series 4's electrocardiogram sensor has the FDA'S clearance, not approval
+title: Apple Watch Series 4s electrocardiogram sensor has the FDAS clearance, not approval
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/09/apple-watch-series4_ecg-heartrate_09122018.jpg)
 * Perhaps the most important new feature on the Apple Watch Series 4 is the introduction of an electrocardiogram sensor that will allow the device to monitor your heart to identify potential problems. When the wearable device was announced, Apple said it was granted a “de novo classification by the FDA.” This isn’t an approval, however, which we will explain here. 

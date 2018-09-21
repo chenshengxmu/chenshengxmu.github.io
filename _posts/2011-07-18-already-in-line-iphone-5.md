@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First! Someone's Already in Line for the iPhone 5 [Updated]
+title: First! Someones Already in Line for the iPhone 5 [Updated]
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/07/Screen-shot-2011-07-18-at-12.31.05-PM-e1311010387200.png)
 * Don’t get me wrong, I’m looking forward to the next iPhone as much as the next guy. But this might be a little extreme. The UK’s Metro Online is reporting that somebody is already in line for the iPhone 5.

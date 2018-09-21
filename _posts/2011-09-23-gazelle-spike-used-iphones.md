@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Popular Trade-In Service Gazelle Sees "Unprecedented" Spike in Used iPhone Sales
+title: Popular Trade-In Service Gazelle Sees Unprecedented Spike in Used iPhone Sales
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/iPhone-4-on-table1-e1316788519726.jpeg)
 * Apple is expected to hold its iPhone announcement in the next two weeks, and popular online trade-in service Gazelle has seen a huge boost in people trying to sell their used iPhones in exchange for cash.

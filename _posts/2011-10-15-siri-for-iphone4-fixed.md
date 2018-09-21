@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Siri's Port to the iPhone 4 Improved
+title: Siris Port to the iPhone 4 Improved
 ---
 * Yesterday, Siri was successfully ported to the iPhone 4 and shown on video. Today, the same person who made that video has uploaded another one, which shows more improvement.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/SiriiPhone4.jpg)

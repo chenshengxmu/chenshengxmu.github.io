@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This tweak lets you spoof your Status Bar's carrier and signal information
+title: This tweak lets you spoof your Status Bars carrier and signal information
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/Signal-Tweak.jpg)
 * When I first started jailbreaking many years ago, it seemed like tweaks for modifying the carrier details in the Status Bar were a hot commodity. Given just how much times have changed, you really don’t see tweaks like the classics anymore.

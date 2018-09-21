@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sony buys a controlling stake in EMI, now the world's top music publisher
+title: Sony buys a controlling stake in EMI, now the worlds top music publisher
 ---
 * Sony is buying a controlling stake in EMI Music Publishing as part of the company’s plan to increase its revenue from streaming media services like Apple Music.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/05/Sony-buying-EMI.jpeg)

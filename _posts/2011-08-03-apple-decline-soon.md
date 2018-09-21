@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EA's Founder Sees Apple's Reign Coming to an End Soon
+title: EAs Founder Sees Apples Reign Coming to an End Soon
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/12/worried.jpeg)
 * Apple is on an unbelievable run right now. It seems like the company has been on a hot streak ever since they unveiled the original iPod back in 2001. This can’t possibly last forever, can it? What is it they say, all good things must come to an end?

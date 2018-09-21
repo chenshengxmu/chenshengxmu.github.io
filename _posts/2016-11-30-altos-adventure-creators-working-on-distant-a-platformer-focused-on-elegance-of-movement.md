@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Alto's Adventure creators working on Distant, a platformer focused on “elegance of movement”
+title: Altos Adventure creators working on Distant, a platformer focused on “elegance of movement”
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/11/Distant-logo.png)
 * Snowman, the team that brought you the award-winning endless snowboard odyssey Alto’s Adventure, is hard at work on a major new title, Distant. It’s a brand new project that Snowman is co-developing in partnership with a talented Australian studio called Slingshot & Satchel.

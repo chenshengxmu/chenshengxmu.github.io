@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Guess What's Available for Order Today? (Hint- It Rhymes With Horizon MyPhone)
+title: Guess Whats Available for Order Today? (Hint- It Rhymes With Horizon MyPhone)
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/02/Verizon-iPhone-Buy-Now-e1297262845364.png)
 * Up until now, those wishing to hop on Big Red’s iPhone 4 train had to be existing customers. Back on February 3rd, those customers were able pre-order during an event that supposedly resulted in record sales figures.

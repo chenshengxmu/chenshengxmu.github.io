@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple to accelerate Safari's JavaScript engine
+title: Apple to accelerate Safaris JavaScript engine
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/13.10.21-Mavericks_Push.jpg)
 * Nitro, WebKit’s JavaScript interpreter used in Apple’s Safari, is about to get a lot speedier as Apple is seemingly looking to close a speed gap between its browser and both Google Chrome’s V8 and Mozilla Firefox’s SpiderMonkey engines.

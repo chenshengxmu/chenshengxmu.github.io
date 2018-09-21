@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Watch Apple's iPad Air promo video now
+title: Watch Apples iPad Air promo video now
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/2013-iPad-Air-Retina-perspective.jpg)
 * Apple’s event has wrapped up. As the media continues to chew on on the announcements, Apple’s already refreshed its homepage with gorgeous graphics, new product information and promotional videos. These feel-good clips featuring Apple execs like design guru Jony Ive also pop up on Apple’s YouTube channel, though usually a few days following the event.

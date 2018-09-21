@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile launches unlimited "4G" data plan
+title: T-Mobile launches unlimited 4G data plan
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/T-Mobile-Unlimited-4G-data-teaser.jpg)
 * T-Mobile USA, the nation’s fourth-largest wireless company and the sole major U.S. carrier without the iPhone, today announced new unlimited “4G” data plan, as promised last month. The new plan will set you back $20 a month if you’re on T-Mobile’s Value plan or $30 a month for those on the Classic voice and text plan.

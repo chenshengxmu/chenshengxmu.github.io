@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Big changes are coming to the world's first Apple retail store
+title: Big changes are coming to the worlds first Apple retail store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/tysons-corners-apple.jpg)
 * The first Apple retail store opened in 2001 at the Tysons Corner Center shopping mall in McLean, Virginia. Now, 17 years later, that store is getting an update that may close the store for a while, according to planning documents first discovered by MacRumors. 

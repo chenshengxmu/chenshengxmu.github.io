@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Poll- should Apple hit the panic button because of Microsoft's Surface?
+title: Poll- should Apple hit the panic button because of Microsofts Surface?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/iPad-3-white-flat-finger-on-Safari.jpg)
 * The mobile landscape on Monday became a tad more interesting place with the announcement that Microsoft was going to enter the race with its own tablet product marketed under the Surface moniker.

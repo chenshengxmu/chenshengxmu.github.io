@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PrivateSMS' Hides Your SMS Messages From Prying Eyes
+title: PrivateSMS Hides Your SMS Messages From Prying Eyes
 ---
 * PrivateSMS is a new TweakWeek jailbreak tweak for the iPhone that sets out to hide your personal SMS messages from view.
 * The only issue is that if the person who’s trying to read your SMS messages really wants to read them, it’s not too hard to figure out how to do so.

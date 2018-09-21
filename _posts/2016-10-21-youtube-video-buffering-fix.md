@@ -1,6 +1,6 @@
 ---
 layout: post
-title: YouTube videos keep buffering? Here's the fix
+title: YouTube videos keep buffering? Heres the fix
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/youtube.jpg)
 * I’m a big time YouTube user, and even though I have zippy fiber optic internet, it seems like there are still times when YouTube videos get stuck buffering instead of playing when I want to enjoy HD video streaming.

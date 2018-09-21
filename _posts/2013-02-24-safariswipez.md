@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SafariSwipez' brings swipe-to-close gestures to Safari tabs
+title: SafariSwipez brings swipe-to-close gestures to Safari tabs
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/SafariSwipez.jpg)
 * Gestures are all the rage these days, just look at popular tweaks like Auxo and Zephyr for the proof. What about adding swipe gestures to the tabs in the stock Safari browser? Wouldn’t that be a welcomed addition? After trying out SafariSwipez, I can indeed say that it is.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Who Will Provide the iPhone 5's Camera Upgrade?
+title: Who Will Provide the iPhone 5s Camera Upgrade?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/02/iPhone-Camera.jpg)
 * The iPhone 4 is no slouch when it comes to taking decent point and shoot snapshots, and 720p video, but it definitely falls behind dedicated point and shoots.

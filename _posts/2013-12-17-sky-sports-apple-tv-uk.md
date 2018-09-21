@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sky Sports channel with daily passes now available to UK's Apple TV owners
+title: Sky Sports channel with daily passes now available to UKs Apple TV owners
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/Sky-Sports-UK-on-Apple-TV.jpg)
 * If you live in the United Kingdom and own Apple’s $99 Apple TV, turn on your media-streaming box and look for a newly-added content source, the Sky Sports channel from Now TV. There’s a total of six different Sky Sports channels to choose from, including F1 racing, Barclays Premier League football matches, cricket and more.

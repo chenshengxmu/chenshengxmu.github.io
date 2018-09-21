@@ -1,6 +1,6 @@
 ---
 layout: post
-title: One Man's Trash - Why No Cydia Tweak is Completely Worthless
+title: One Mans Trash - Why No Cydia Tweak is Completely Worthless
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/07/onemanstrash.png)
 * Sound off the alarm. It looks as if a few folks have gotten spoiled. Either that, or they’re beginning to take for granted the benefits that jailbreaking brings to the table; namely, the ability to tweak our iPhone’s in any matter that we please.

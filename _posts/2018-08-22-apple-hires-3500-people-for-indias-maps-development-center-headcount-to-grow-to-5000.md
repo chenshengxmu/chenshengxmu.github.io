@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple hires 3,500 people for India's Maps development center, headcount to grow to 5,000
+title: Apple hires 3,500 people for Indias Maps development center, headcount to grow to 5,000
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/WaveRock-facilities-Hyderabad-India-Tishman-Speyer-001.jpg)
 * Apple has hired 3,500 people for their centre focused on Maps development in Hyderabad.

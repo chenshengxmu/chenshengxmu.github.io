@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MacPhone and more early Apple designs detailed in new book, 'Design Forward'
+title: MacPhone and more early Apple designs detailed in new book, Design Forward
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/Early-Apple-designs-image-001.jpg)
 * The Apple v. Samsung trial in August was a real treasure trove of information that gave us a peek behind the curtain and into Apple’s design process. But what about some of Apple’s early product designs that never came to fruition? Industrial designer Hartmut Esslinger and his upcoming new book titled ‘Design Forward’ offers an interesting glimpse into Apple products that never were.

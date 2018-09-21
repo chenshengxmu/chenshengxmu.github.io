@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 13's iPad features- tabs in apps, same app Split View, Apple Pencil enhancements & more
+title: iOS 13s iPad features- tabs in apps, same app Split View, Apple Pencil enhancements & more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/iOS-11-iPad-App-Switcher.jpg)
 * 2019’s iOS 13 update will bring a handful of productivity-boosting, iPad-only features such as an updated Files app, unspecified enhancements for Apple Pencil and other perks.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What you need to know about the AceDeceiver trojan that's affecting some iOS devices
+title: What you need to know about the AceDeceiver trojan thats affecting some iOS devices
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/AceDeceiver-1-1.png)
 * Stock, non-jailbroken iOS devices appear to be vulnerable to a new security threat; a trojan known as AceDeceiver, which can be installed on an iOS device without the user’s knowledge and without the help of an enterprise certificate. Once installed, it will spread malware and unwanted software to the user’s device.

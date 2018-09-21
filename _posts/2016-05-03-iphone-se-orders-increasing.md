@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone SE is more popular than Apple anticipated so it's boosting production
+title: iPhone SE is more popular than Apple anticipated so its boosting production
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/iPhone-SE-Price.jpg)
 * Due to stronger-than-expected sales of the four-inch iPhone SE, Apple has boosted production of the handset in the second quarter of this year, Taiwanese trade publication DigiTimes reported Tuesday.

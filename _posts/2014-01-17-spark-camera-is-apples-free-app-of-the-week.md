@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spark Camera is Apple's Free App Of The Week
+title: Spark Camera is Apples Free App Of The Week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/Spark-Camera-3.jpg)
 * Today is Friday and you know what that means, no? That’s right, every Friday a new app goes free in the App Store in Apple’s ongoing Free App of the Week promo.

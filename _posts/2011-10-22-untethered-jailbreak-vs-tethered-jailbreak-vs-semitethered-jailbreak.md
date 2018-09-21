@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Untethered Jailbreak vs. Tethered Jailbreak vs. SemiTethered Jailbreak — What's the Difference?
+title: Untethered Jailbreak vs. Tethered Jailbreak vs. SemiTethered Jailbreak — Whats the Difference?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/tethered-vs-untethered-vs-semitethered.png)
 * The age old questions remain: What’s an untethered jailbreak? Why is a tethered jailbreak undesirable?

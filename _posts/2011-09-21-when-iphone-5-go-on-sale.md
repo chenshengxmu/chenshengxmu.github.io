@@ -1,6 +1,6 @@
 ---
 layout: post
-title: When Will the iPhone 5 Go On Sale? Here's What We Know
+title: When Will the iPhone 5 Go On Sale? Heres What We Know
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/iphone5_concept5-e1309378231534.jpg)
 * This morning, AllThingsD’s John Paczkowski reported that Apple was set to unveil the iPhone 5 on October 4th. Paczkowski has a long history of breaking Apple news. Some even believe that Apple feeds him breaking stories from time to time. I guess my point here is that we can trust the guy.

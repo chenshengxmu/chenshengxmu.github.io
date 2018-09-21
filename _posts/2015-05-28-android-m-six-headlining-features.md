@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Android M- Six headlining features from Google's upcoming mobile OS update
+title: Android M- Six headlining features from Googles upcoming mobile OS update
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/05/Android-M.png)
 * Google’s annual I/O conference is currently going on in San Francisco, and as expected, Android M, its latest update to Android, was officially unveiled. Although lots of new features will be packed in with Android M, six of those features were brought to the forefront during the beginning of the I/O keynote.

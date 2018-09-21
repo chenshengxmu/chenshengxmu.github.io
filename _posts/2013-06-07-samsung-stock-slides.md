@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung's Galaxy S4 dead in the water
+title: Samsungs Galaxy S4 dead in the water
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/Samsung-Galaxy-S4-four-up-red-blue.jpg)
 * Following clickbait dead-in-the-water headlines which spelled doom for Apple on overzealous analysts projecting overly optimistic iPhone sales, it’s now Samsung’s turn to feel Wall Street’s wrath. So, is Samsung’s smartphone business running out of steam?

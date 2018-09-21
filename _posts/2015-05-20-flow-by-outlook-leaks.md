@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flow by Outlook, Microsoft's hybrid IM/email iPhone app, inadvertently leaked
+title: Flow by Outlook, Microsofts hybrid IM/email iPhone app, inadvertently leaked
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/05/Flow-by-Outlook-leak-001.jpg)
 * Microsoft has inadvertently leaked an upcoming hybrid email and messaging app via a download webpage marked “Microsoft Confidential”, ZDNet reported Wednesday.

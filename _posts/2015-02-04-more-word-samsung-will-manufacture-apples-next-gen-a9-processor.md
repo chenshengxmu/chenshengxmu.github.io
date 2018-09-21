@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More word Samsung will manufacture Apple's next-gen A9 processor
+title: More word Samsung will manufacture Apples next-gen A9 processor
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/iphone6-inline.jpg)
 * Apple is moving away from TSMC and back to Samsung to manufacture the chip that is the power house behind the iPhone, reports Recode.

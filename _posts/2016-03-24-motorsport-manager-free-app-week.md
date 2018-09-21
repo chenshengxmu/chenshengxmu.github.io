@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Motorsport Manager is Apple's new Free App of the Week
+title: Motorsport Manager is Apples new Free App of the Week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/Motorsport-Manager-1.0-for-iOS-iPhone-screenshot-001.png)
 * Right on cue, the App Store was refreshed this morning with new apps and games, revealing Apple’s new Free App of the Week: Motorsport Manager. Created by Christian West and originally released in August 2014, Motorsport Manager makes an immediately striking impression.

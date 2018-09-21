@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple to launch yearly 'Back to School' promo tomorrow
+title: Apple to launch yearly Back to School promo tomorrow
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/07/ipad-classroom-e1312055976233.jpg)
 * MacRumors is reporting that Apple is set to launch its annual ‘Back to School’ promotion in the US and several other countries beginning tomorrow—Tuesday, July 1st. The company runs the promo at various times in different regions, depending on their respective educational calendars.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MyWi "OnDemand" Brings Intelligent Hotspot Functionality to the iPhone
+title: MyWi OnDemand Brings Intelligent Hotspot Functionality to the iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/02/MyWi-On-Demand.png)
 * MyWi is an incredibly popular Cydia app that allows jailbreakers to have a heavily customizable mobile hotspot with their iPhone’s 3G connection. We here at iDB love MyWi, and it’s definitely been a staple of what the jailbreak scene has to offer for quite some time.

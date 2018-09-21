@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's Talk Jailbreak 165- I’ve got your back
+title: Lets Talk Jailbreak 165- I’ve got your back
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/05/lets-talk-jailbreak-teaser.png)
 * It was a good month for 32-bit devices, and things seem to look up for newer devices. Does that mean we could see a jailbreak soon? Listen to find out about the latest jailbreak developments as well as new jailbreak tweaks.

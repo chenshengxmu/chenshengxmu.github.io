@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Infinity Blade 2 Starting to Hit the App Store, Here's What People Are Saying
+title: Infinity Blade 2 Starting to Hit the App Store, Heres What People Are Saying
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/infinity-blade-21.jpg)
 * Infinity Blade was one of the first real games to hit iOS. Yes, Angry Birds and Flight Control had come before, but those type of games could never be called an epic adventure full of swords and things to swing said swords at.

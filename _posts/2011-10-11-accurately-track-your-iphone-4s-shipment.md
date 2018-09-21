@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Accurately Track Your iPhone 4S When Apple's Order Page Says "Preparing for Shipment"
+title: How to Accurately Track Your iPhone 4S When Apples Order Page Says Preparing for Shipment
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/UPS-e1318358185108.jpg)
 * Needless to say, the last few days have been both frustrating and exciting. Exciting because I was among the first to order my iPhone 4S on Friday morning; frustrating because Apple’s order status page still reads “Preparing for Shipment”.

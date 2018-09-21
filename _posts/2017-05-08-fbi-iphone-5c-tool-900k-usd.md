@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FBI paid $900,000 for the tool to break into San Bernardino shooter's iPhone 5c
+title: FBI paid $900,000 for the tool to break into San Bernardino shooters iPhone 5c
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/02/apple_vs_fbi.jpg)
 * Just how much did the tool to break into the San Bernardino gunman’s locked iPhone 5c cost US taxpayers? According to senator Dianne Feinstein, the Federal Bureau of Investigation coughed up a cool $900,000 to purchase the tool from a third-party.

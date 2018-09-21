@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Apple-Samsung mega-trial kicks off today, here's what the jury will see
+title: The Apple-Samsung mega-trial kicks off today, heres what the jury will see
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/galaxy-tab-10-1-vs-ipad-2-2-e1313507692994.jpeg)
 * A high-stake technology trial involving Apple and Samsung is set to kick off today in a U.S. District court in San Jose, northern California over design and patent infringement claims involving Samsung’s Galaxy lineup of smartphones and tablets and Apple’s iPhone and iPad.

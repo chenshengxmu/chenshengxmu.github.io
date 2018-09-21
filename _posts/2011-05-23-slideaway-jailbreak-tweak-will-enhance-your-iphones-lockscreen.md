@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SlideAway Jailbreak Tweak Will Enhance Your iPhone's Lockscreen
+title: SlideAway Jailbreak Tweak Will Enhance Your iPhones Lockscreen
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/05/SlideAway-e1306179390631.png)
 * The lockscreen has always been an interesting area of the iPhone’s interface for jailbreak devs to experiment with. You’ve got LockInfo, AndroidLock, awesome themed lockscreens, and weirder experiments like RecognizeMe that are all available in Cydia.

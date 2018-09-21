@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Geohot joins elite team of hackers for Google's Project Zero
+title: Geohot joins elite team of hackers for Googles Project Zero
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/hotz-ap-660x396.jpg)
 * Since wunderkind George Hotz, better known as Geohot, first made a name for himself by hacking the iPhone at age 17, he’s bounced around to several projects. He hacked the PlayStation, did some work for Facebook, and more recently popped up in Android land.

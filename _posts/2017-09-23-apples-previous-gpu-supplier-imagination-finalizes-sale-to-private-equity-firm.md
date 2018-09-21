@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's previous GPU supplier Imagination finalizes sale to private equity firm
+title: Apples previous GPU supplier Imagination finalizes sale to private equity firm
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/iPhone-X-iPhone-8-GPU.jpg)
 * When Apple informed GPU component supplier Imagination Technology back in April that they would no longer be requiring their services, their shares dropped by nearly 50% by the following day. It has been a bit of a bitter separation, with Imagination saying that Apple would be unable to create their own GPU without violating their patents.

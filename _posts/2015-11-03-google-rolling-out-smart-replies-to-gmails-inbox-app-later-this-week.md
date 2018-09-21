@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google rolling out Smart Replies to Gmail's Inbox app later this week
+title: Google rolling out Smart Replies to Gmails Inbox app later this week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/Google-Inbox-1.0-for-iOS-iPhone-screenshot-001.png)
 * The Gmail team’s Inbox mobile email client, which was born out of Google’s 2012 acquisition of the popular iPhone email app Sparrow, is about to get a whole lot smarter with a new feature called Smart Reply, the company announced on the Gmail blog Tuesday.

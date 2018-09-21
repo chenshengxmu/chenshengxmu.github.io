@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple seeds iOS 8 beta 5 to developers- here is what's new
+title: Apple seeds iOS 8 beta 5 to developers- here is whats new
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/iOS-8-beta-5.png)
 * Coming two weeks after the last iOS beta, which contained several visual tweaks and changes to Settings.app, Apple has released iOS 8 beta 5 build 12A4345d to developers. Besides the usual mix of bug fixes and improvements, there are likely to be multiple UI tweaks and other noticeable changes. Apple has more details in beta 5’s release notes.

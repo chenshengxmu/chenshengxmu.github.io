@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hands-on video shows iPhone 8's supposed industry-highest screen to body ratio
+title: Hands-on video shows iPhone 8s supposed industry-highest screen to body ratio
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/07/iPhone-8-CNC-model-unbox-Therapy-002.jpg)
 * YouTuber Unbox Therapy got his hands on the most comprehensive CNC-machined iPhone casing “I’ve ever seen”, offering a look at the handset’s screen to body ratio and other features.

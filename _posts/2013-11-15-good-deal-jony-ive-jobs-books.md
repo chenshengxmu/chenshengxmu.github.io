@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Good deal- 55% off Jony Ive bio and Inside Steve's Brain book combo
+title: Good deal- 55% off Jony Ive bio and Inside Steves Brain book combo
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/apple-books.jpg)
 * It’s been a big week for Apple-related book releases, with two major titles hitting the shelves: Dogfight: How Apple And Google Went To War And Started a Revolution and Jony Ive: The Genius Behind Apple’s Greatest Products.

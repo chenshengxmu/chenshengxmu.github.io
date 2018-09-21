@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Logitech announces three new 'Logi BLOK' protective cases for iPads
+title: Logitech announces three new Logi BLOK protective cases for iPads
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/07/Logitech-BLOK-cases-for-iPad.jpg)
 * Accessory maker Logitech on Wednesday introduced the world to its all-new family of protective case, shell and keyboard cases for Apple’s iPad. Called Logi BLOK, the latest accessories offer protection from drops up to six feet high and onto surfaces as hard as concrete. The lineup is comprised of the Logi BLOK Protective Shell, the Logi BLOK Protective Case and the Logi BLOK Protective Keyboard Case.

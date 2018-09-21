@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mophie introduces new 'Space Pack' iPhone case with built-in battery and storage
+title: Mophie introduces new Space Pack iPhone case with built-in battery and storage
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/space-pack.jpg)
 * Mophie added a new edition to its family of popular Juice Pack iPhone cases today. It’s called the Space Pack, and just like Mophie’s other cases, it features a built-in battery that can essentially double your iPhone’s battery life.

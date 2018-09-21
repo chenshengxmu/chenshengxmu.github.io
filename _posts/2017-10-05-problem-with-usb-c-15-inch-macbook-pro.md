@@ -1,6 +1,6 @@
 ---
 layout: post
-title: USB Type-C is great, but the standard isn't perfect yet
+title: USB Type-C is great, but the standard isnt perfect yet
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/USB-C-Photos.jpg)
 * USB Type-C is a forward-thinking I/O standard that aims to bundle both ease of use and versatility in one universal package. Not only is it becoming popular in the mobile device market, but it’s also finding its way to the game console and portable notebook markets among others.

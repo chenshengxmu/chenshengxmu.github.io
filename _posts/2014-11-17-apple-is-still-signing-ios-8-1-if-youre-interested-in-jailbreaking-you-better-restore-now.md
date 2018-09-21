@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple is still signing iOS 8.1, if you're interested in jailbreaking, you better restore now
+title: Apple is still signing iOS 8.1, if youre interested in jailbreaking, you better restore now
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/11/iOS-8.1-Restore-Bonjour.jpg)
 * Apple just released iOS 8.1.1, which kills the Pangu jailbreak. The good news is that it is (as of the writing of this post) still signing iOS 8.1. This means that you can still install iOS 8.1 and jailbreak for the time being.

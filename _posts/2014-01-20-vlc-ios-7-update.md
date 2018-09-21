@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VLC's iOS 7 makeover- now with Google Drive integration, Dropbox streaming and more
+title: VLCs iOS 7 makeover- now with Google Drive integration, Dropbox streaming and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/VLC-for-iOS-2.2-iPhone-screenshot-001.png)
 * The popular cross-platform desktop media player, VLC by VideoLan, has finally received its iOS 7 makeover in Monday’s version 2.2 update. Launching later today in the App Store, VLC for iOS 2.2 includes a number of new features and refinements, and a long list of bug fixes.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nokia Executive Thinks Apple's Focus on Apps in iOS is "Outdated"
+title: Nokia Executive Thinks Apples Focus on Apps in iOS is Outdated
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/nokia-windows-phons.jpg)
 * Nokia is in an interesting position right now. Just a few short years ago they found themselves as nearly untouchable at the top of the wireless industry. But the Finnish company has struggled to keep up with new competition from Apple and Android handset-makers.

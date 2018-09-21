@@ -1,6 +1,6 @@
 ---
 layout: post
-title: French government takes issue with Apple's AppGratis removal
+title: French government takes issue with Apples AppGratis removal
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/AppGratis-teaser1.jpg)
 * The AppGratis app curation software is no longer available on the App Store but the controversy is far from being over. After AppGratis CEO Simon Dawalt lambasted Apple on a company blog for kicking his app out of the App Store, a move he called “an absolutely crazy situation to deal with,” a French minister today slagged the iPhone maker over the ouster. Fleur Pellerin, France’s junior minister for digital economy, publicly described Apple’s decision to pull AppGratis as “extremely brutal and unilateral.”

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Update Hider for iOS 5' Silences Annoying App Store Updates
+title: Update Hider for iOS 5 Silences Annoying App Store Updates
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/Update-Hider-e1326983549577.jpg)
 * In general, App Store updates are a good thing; it shows that the developers are continuing to support their apps, squashing bugs, etc.

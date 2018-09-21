@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's new Japanese ad shows off FeliCa support on iPhone 7
+title: Apples new Japanese ad shows off FeliCa support on iPhone 7
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/12/Apple-Japan-ad-iPhone-7-Plus-Race.jpg)
 * Apple today published a new commercial on its Japanese YouTube channel, titled ”Race”.

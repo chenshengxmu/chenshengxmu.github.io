@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nomad's PowerPack is a rugged battery pack that you can track with Tile
+title: Nomads PowerPack is a rugged battery pack that you can track with Tile
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/Nomad-PowerPack-Charging.png)
 * Battery packs are a hot commodity these days because it seems like our mobile devices never want to last as long as we’d like them to. They bring us out of the dark ages, where we used to have to sit by a power outlet and wait for our handsets to charge, and are advantageous because they allow you to charge on the go, no matter how far away from civilization you might be.

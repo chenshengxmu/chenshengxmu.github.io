@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I'm sorry Mr. Jackson, but I like this Siri advertisement better
+title: Im sorry Mr. Jackson, but I like this Siri advertisement better
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/Zooey.jpg)
 * With all due respect for Samuel L. Jackson, I think we can agree that this latest commercial is a tad easier on the eyes.

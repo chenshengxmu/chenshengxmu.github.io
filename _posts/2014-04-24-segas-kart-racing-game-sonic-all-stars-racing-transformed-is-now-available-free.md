@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sega's kart-racing game, Sonic & All-Stars Racing Transformed, is now available free
+title: Segas kart-racing game, Sonic & All-Stars Racing Transformed, is now available free
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/Sega-Sonic-and-All-Stars-Racing-Transformed-iPhone-screenshot-003.jpeg)
 * Released in January 2014, Sega’s Sonic & All-Stars Racing Transformed has delighted fans of Mario Kart-style racers with a World Tour mode designed specifically for mobile and its awesome multiplayer implementation supporting up to four players simultaneously, both locally and online.

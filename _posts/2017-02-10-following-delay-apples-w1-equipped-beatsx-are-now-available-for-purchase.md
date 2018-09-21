@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Following delay, Apple's W1-equipped BeatsX are now available for purchase
+title: Following delay, Apples W1-equipped BeatsX are now available for purchase
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/BeatsX-image-004.png)
 * Following an extended delay, Apple’s BeatsX earphones are now available for purchase from Apple.com, Apple’s retail stores and other retailers. The $150 earphones file as Apple’s most affordable audio product powered by the in-house designed W1 wireless chip, also found in the $160 AirPods, $200 PowerBeats3 and $300 Beats Solo3 headphones. The W1 chip enables seamless iCloud pairing with Apple devices and reliable wireless audio connection. BeatsX also work on non-Apple hardware as standard Bluetooth headsets.

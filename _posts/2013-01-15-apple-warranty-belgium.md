@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's warranty practices in Europe draw ire of a Belgian watchdog
+title: Apples warranty practices in Europe draw ire of a Belgian watchdog
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/applecare.jpg)
 * Apple’s warranty adventure in the European Union is far from being over. After the company failed to properly communicate to its Italian consumers that they were entitled to a EU-wide two-year warranty (first warranty year provided by the manufacturer and the second by the seller), for which it was fined $264,000 last month and $1.2 million in March, now Apple has gotten itself into trouble with a Belgian consumer watchdog, Test-Aankoop/Test-Achats…

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 11.3's App Store brings back version number and size information for updates
+title: iOS 11.3s App Store brings back version number and size information for updates
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/app-store-redesign-on-iPhone-ios-11.jpg)
 * Aside from a few major iPhone and iPad enhancements that are in tow for iOS 11.3, like battery health and power management which were previewed recently ahead of release this Spring, the software update brings back version number and size for app updates.

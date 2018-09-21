@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Walmart's Black Friday sale- $100 gift card with iPad mini purchase, $75 with iPhone
+title: Walmarts Black Friday sale- $100 gift card with iPad mini purchase, $75 with iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/walmart-1.png)
 * And they’re off! With Black Friday now just a few weeks away, retailers have begun teasing their after-Thanksgiving-day sales in hopes of convincing hordes of customers to visit their stores on the busiest shopping weekend of the year.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stanford makes 'Developing iOS 8 Apps with Swift' course available on iTunes U
+title: Stanford makes Developing iOS 8 Apps with Swift course available on iTunes U
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/swift.png)
 * Stanford has made its ‘Developing iOS 8 Apps with Swift’ course available on iTunes U on Monday, helping beginners gain an understanding of Apple’s new programming language.

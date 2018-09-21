@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to backup your unlocked iPhone's activation ticket
+title: How to backup your unlocked iPhones activation ticket
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/SAM-Unlock-Backup.jpg)
 * Earlier this morning iPhone Dev Team member MuscleNerd recommended that all who unlock their iPhone using the SAM method backup their activation ticket for future use.

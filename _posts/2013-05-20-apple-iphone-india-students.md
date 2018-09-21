@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple offers iPhone discount to India's students
+title: Apple offers iPhone discount to Indias students
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/iPhone-5-three-up-profile-front-back-black-and-white.jpg)
 * In yet another attempt to capture the nascent smartphone market in India, Apple is now promoting discounts for students. Students can receive $144 on an iPhone when they trade in their old smartphones. Apple and Samsung have engaged in a marketing struggle, both rolling out installment plans to encourage Indian buyers of rival smartphones.

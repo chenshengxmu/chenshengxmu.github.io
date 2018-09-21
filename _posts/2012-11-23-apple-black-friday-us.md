@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Black Friday sale now live in the US
+title: Apples Black Friday sale now live in the US
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/us-black-friday-sale.png)
 * Ok folks, Apple’s Black Friday sale has now officially begun here in the US. After being down for several hours, the company’s Stateside online store has returned with discounts on several popular products.

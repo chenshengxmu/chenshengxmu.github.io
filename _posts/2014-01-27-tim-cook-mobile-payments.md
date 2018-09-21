@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook- mobile payments 'one of the thoughts behind Touch ID'
+title: Tim Cook- mobile payments one of the thoughts behind Touch ID
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/Touch-ID-success.png)
 * Apple just finished up its quarterly earnings call a few hours ago where it offered up sales numbers for the holiday quarter, forecasts for next quarter, and everything in between. Tim Cook even fielded some questions from overly-eager analysts.

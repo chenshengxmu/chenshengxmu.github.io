@@ -1,6 +1,6 @@
 ---
 layout: post
-title: August was a bad month for Apple's mobile web usage share
+title: August was a bad month for Apples mobile web usage share
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/apple-netapp-webshare.png)
 * New data from web analytics firm NetApplicatons shows a significant decline in Apple’s share of the mobile web, with iOS devices falling to 54.9 percent in August, a 16.7 percent drop from the 65.9 percent reported during the same month in 2012. While still less than a third of the web usage, Android experienced an increase, rising eleven percent to 28.1 percent from 21 percent in 2012…

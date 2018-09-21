@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook calls into CNBC's 'Mad Money', talks ResearchKit, Apple Pay and more
+title: Tim Cook calls into CNBCs Mad Money, talks ResearchKit, Apple Pay and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/mad-money.png)
 * It seemed like just another episode of Mad Money, CNBC’s polarizing financial TV show, until host Jim Cramer took a call from “Tim in California.” As you’ve probably guessed by now, it was Apple CEO Tim Cook on the line, prompting cheers from a surprised studio.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Text-based adventure Lifeline is Apple's new Free App of the Week
+title: Text-based adventure Lifeline is Apples new Free App of the Week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/05/Lifeline-...-1.png)
 * Lifeline, the first in a series of groundbreaking text adventures from developer 3 Minute Games, is as of today listed as Apple’s new free app of the week in the App Store. The 99-cent game is available at no charge to everyone until next Thursday.

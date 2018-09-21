@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile ad disses the iPhone 4S on AT&T's network
+title: T-Mobile ad disses the iPhone 4S on AT&Ts network
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/T-Mobile-Ducatti-iPhone-ad-captions.jpeg)
 * As T-Mobile USA is getting ready to roll out an iPhone-compatible HSPA+ 19000 MHz network later this year (they already host more than a million iPhones on their network), the long overdue iPhone-friendly network expansion isn’t stopping them to take potshots at Apple’s smartphone and rival AT&T.

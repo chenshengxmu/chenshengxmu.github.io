@@ -1,6 +1,6 @@
 ---
 layout: post
-title: US Cellular Says That iPhone Isn't "Cutting Edge" Enough For Its Network
+title: US Cellular Says That iPhone Isnt Cutting Edge Enough For Its Network
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/us-cellular.jpg)
 * Wireless carriers will typically do anything and everything to become an iPhone partner. But there have been some operators that have turned down the opportunity to carry the handset, such as US Cellular.

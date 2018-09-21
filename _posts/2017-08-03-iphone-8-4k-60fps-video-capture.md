@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 8's front and rear cameras may bring silky smooth 4K video capture at 60FPS
+title: iPhone 8s front and rear cameras may bring silky smooth 4K video capture at 60FPS
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/iPhone-8-4k-video-capture-60fps-homepod-firmware.jpg)
 * iPhone 8 may become the first smartphone to provide its owners with the ability to capture video in 4K resolution at a silky smooth sixty frames per second via both front and rear cameras, as per code strings uncovered from the HomePod firmware by Brazilian outlet iHelp.

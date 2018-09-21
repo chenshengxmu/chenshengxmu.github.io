@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Apple's Efforts to Improve Supply Chain Conditions
+title: On Apples Efforts to Improve Supply Chain Conditions
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/foxconn.jpg)
 * The New York Times published an extensive 7-page report last night detailing Apple’s failure to effectively pursue safer working conditions in its overseas manufacturing plants.

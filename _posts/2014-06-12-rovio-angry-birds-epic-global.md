@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rovio's new 'Angry Birds Epic' game launches worldwide
+title: Rovios new Angry Birds Epic game launches worldwide
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/angry-birds-epic-2.jpeg)
 * In February, Rovio teased a new game for its Angry Birds franchise called Angry Birds Epic. A month later it soft-launched the title in a handful countries, and players quickly discovered that this isn’t your typical bird-slinger.

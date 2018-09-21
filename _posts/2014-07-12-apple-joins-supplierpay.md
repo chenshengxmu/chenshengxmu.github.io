@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple joins 'SupplierPay' initiative to speed up payments to small businesses
+title: Apple joins SupplierPay initiative to speed up payments to small businesses
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/tim-cook-foxconn.jpg)
 * Apple has joined Coca-Cola, IBM and other major companies as an early adopter in the new White House ‘SupplierPay’ program. The initiative is aimed at accelerating payments from these larger firms to smaller businesses in their supply chain.

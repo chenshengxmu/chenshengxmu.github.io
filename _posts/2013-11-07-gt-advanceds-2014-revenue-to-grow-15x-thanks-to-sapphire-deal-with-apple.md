@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GT Advanced's 2014 revenue to grow 15x thanks to sapphire deal with Apple
+title: GT Advanceds 2014 revenue to grow 15x thanks to sapphire deal with Apple
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/GT-Advanced-boule-Pocketnow-001.jpg.jpg)
 * As officially confirmed earlier this week, Apple has teamed up with smartphone cover glass maker GT Advanced in a $578 million multi-year deal which gives the iPhone maker steady supply of sapphire glass, a crystalline form of aluminum oxide hailed for its unmatched scratch resistance and hardness second only to diamond.

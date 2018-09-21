@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung's Q1 profits drop 39%, but company sees redemption in Galaxy S6 line
+title: Samsungs Q1 profits drop 39%, but company sees redemption in Galaxy S6 line
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/04/Samsung-sign.jpg)
 * Samsung reported its financial results for Q1 yesterday, and the numbers aren’t great. The company reported net profits of 4.63 trillion won (about $4.35 billion), representing a 39% drop from the year ago quarter.

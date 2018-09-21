@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unlocking a cell phone in the US to become "illegal" this weekend
+title: Unlocking a cell phone in the US to become illegal this weekend
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/Lock.png)
 * If you’re interested in taking matters into your own hands when it comes to unlocking you iPhone, then you may want to act fast, or else potentially be at risk of being labeled a law breaker. According to a report by Tech News Daily: On Saturday, January 26th, a DMCA exemption expires that made unlocking a phone on your own terms fully legal.

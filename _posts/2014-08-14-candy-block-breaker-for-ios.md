@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gameloft's Candy Block Breaker hits iOS
+title: Gamelofts Candy Block Breaker hits iOS
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/Candy-Block-Breaker-1.0-for-iOS-iPhone-screenshot-001.jpeg)
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/Candy-Block-Breaker-1.0-for-iOS-iPhone-screenshot-002.jpeg)

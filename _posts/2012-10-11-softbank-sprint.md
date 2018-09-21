@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Japan's Softbank wants to buy Sprint
+title: Japans Softbank wants to buy Sprint
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/Softbank-logo-full-size.jpg)
 * This just in. According to a new report out this morning, Softbank, Japan’s third-largest wireless operator, is in talks to buy a controlling stake in Overland, Kansas-based Sprint, the nation’s third-largest carrier. The transaction is said to be worth an estimated 1.5 trillion yen, or $19 billion, and would file as the largest purchase of a foreign company by a Japanese firm.

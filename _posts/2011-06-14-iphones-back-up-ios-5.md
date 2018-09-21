@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 50% of iPhones Don't Currently Get Backed Up - iOS 5 to the Rescue
+title: 50% of iPhones Dont Currently Get Backed Up - iOS 5 to the Rescue
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/iOS-5-Backup.png)
 * Sometimes it’s easy to forget that we in the geek world aren’t like normal people. We spend our lives connected, and backing up our data is just one of those things we do as a matter of course. Until iOS 5 arrives in the coming months, the only way to back up an iOS iDevice is to plug it into iTunes and let it sync. But does anyone actually do it?

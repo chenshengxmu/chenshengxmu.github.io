@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung- Apple "definitely using" our chips, "no plans" to cut production
+title: Samsung- Apple definitely using our chips, no plans to cut production
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/apple-a5.jpg)
 * Samsung has allegedly launched its latest 20-nanometer mobile memory chips ahead of schedule, acting on market concerns that a rumored Apple-Elpida partnership could hurt their business. New 4Gb mobile DRAMs are currently shipping to customers, the global conglomerate said, confirming it’s been supplying memory chips for Apple’s iPhone, iPod touch and iPad.

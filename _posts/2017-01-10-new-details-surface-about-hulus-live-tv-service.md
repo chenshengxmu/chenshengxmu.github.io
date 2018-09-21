@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New details surface about Hulu's live TV service
+title: New details surface about Hulus live TV service
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/01/Hulu-live-TV-service-Apple-TV-Screenshot-002.jpg)
 * In a new report Tuesday, Mashable’s Pete Pachal took a closer look at the early build of an upcoming live TV service from Hulu. Having seen Hulu’s new iPhone, iPad and full-screen TV apps, Pachal shared his thoughts on the service. Hulu CEO said last week that the new service would be priced at under $40 per month.

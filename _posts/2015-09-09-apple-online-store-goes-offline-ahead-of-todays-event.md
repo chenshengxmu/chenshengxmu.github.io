@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Online Store goes offline ahead of today's iPhone 6s, iPad Pro and Apple TV 4 event
+title: Apple Online Store goes offline ahead of todays iPhone 6s, iPad Pro and Apple TV 4 event
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/Screen-Shot-2015-09-09-at-13.26.47.png)
 * If you’re thinking about buying some gadgets in the Apple Online Store, you will have to wait until Apple’s ‘Hey Siri’ media event has wrapped up as the company’s webstore has just gone offline ahead of the press conference, which kicks off in San Francisco at 10am Pacific.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twelve South's new ActionSleeve for Apple Watch is designed for the active lifestyle
+title: Twelve Souths new ActionSleeve for Apple Watch is designed for the active lifestyle
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/01/Twelve-South-ActionSleeve-Black-42mm.jpg)
 * Twelve South has removed the veil from the all-new ActionSleeve accessory for Apple Watch, which is an armband accessory tailored specifically for the active lifestyle. It’s made to work with all sizes of arms and works with both the 38mm and 42mm variants of the smart watch.

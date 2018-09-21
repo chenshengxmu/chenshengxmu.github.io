@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Siri Patent Hints at More to Come from Apple's Digital Assistant
+title: Siri Patent Hints at More to Come from Apples Digital Assistant
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/siri-patent.jpeg)
 * If you’ve been reading the various editorials that we have been publishing of late then you’ll probably already know that not all of us here at iDB are big fans of Siri. While some see it as a real paradigm shift, others think it has fallen short of its potential.

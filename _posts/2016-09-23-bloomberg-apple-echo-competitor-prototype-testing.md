@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bloomberg- Apple's Echo-like Siri appliance is now in prototype testing
+title: Bloomberg- Apples Echo-like Siri appliance is now in prototype testing
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/08/Amazon-Echo.jpg)
 * Apple’s rumored Amazon Echo-like Siri hardware has exited the company’s research and development lab and is now in prototype testing, Bloomberg reported Friday. The project started more than two years ago, but Apple is now “pressing ahead” with the development of its unnamed Siri-driven smart home appliance after Amazon’s Echo proved a surprise hit, even to Apple engineers working on the project.

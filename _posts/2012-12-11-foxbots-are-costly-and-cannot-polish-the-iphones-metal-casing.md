@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Foxbots are way too costly and cannot polish the iPhone's metal casing
+title: Foxbots are way too costly and cannot polish the iPhones metal casing
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/Foxconn-robot.jpg)
 * Back in August of last year, Foxconn, Apple’s and the world’s largest product assembler, said it intended to replace an unspecified amount of its assembly line workers with one million robots over the next three years. Chinese-language web site TechWeb followed up last month with a claim that at least 10,000 Foxbots had arrived at an unspecified Foxconn plant.

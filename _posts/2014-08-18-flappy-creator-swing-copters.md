@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flappy Bird developer teases upcoming game 'Swing Copters'
+title: Flappy Bird developer teases upcoming game Swing Copters
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/swing1-620x310.jpeg)
 * Dong Nguyen, creator of the smash hit mobile game Flappy Bird, is back with a new title, set to be released later this week called Swing Copters. As you can see, the game features similar graphics to FB, and from what we hear, it has similar gameplay.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Activator' gains custom events triggered by email, invoke shutter actions, and more
+title: Activator gains custom events triggered by email, invoke shutter actions, and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/Activator-1.7.5-beta-8-featured.jpg)
 * After a marvelous update that brought us flick icons gestures, Ryan Petrich is still at it. This time, we’re all the way to Activator 1.7.5 beta 8. The last couple of Activator beta releases have added a few new handy features to the fold, and I’d like to take the time to tell you about them.

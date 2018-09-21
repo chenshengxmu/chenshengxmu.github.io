@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple confirms iPhone UI creator's departure, shoots down ill-founded power struggle claim
+title: Apple confirms iPhone UI creators departure, shoots down ill-founded power struggle claim
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Jonathan-Ive-being-kinghted.jpg)
 * Yesterday, blogger Mark Gurman reported that Apple’s Vice President of Human Interface, Greg Christie, will be leaving the company. Christie’s name is on a hundred Apple patents, among them the famous slide-to-unlock invention asserted in its second California patent trial against Samsung.

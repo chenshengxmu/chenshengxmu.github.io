@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Haunted Empire,' a scathing book on post-Jobs Apple by former WSJ editor, coming March 18
+title: Haunted Empire, a scathing book on post-Jobs Apple by former WSJ editor, coming March 18
 ---
 * Reporter Yukari Iwatani Kane had enjoyed unparalleled access to Apple in her five-year tenure at The Wall Street Journal, during which time she published numerous scoops like the 2009 story about Steve Jobs’s secret liver transplant.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/Haunted-Empire-book-cover-001.jpg)

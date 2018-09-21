@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AdaptiveColorPower makes the charge screen indicator match your iPhone's wallpaper
+title: AdaptiveColorPower makes the charge screen indicator match your iPhones wallpaper
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/AdaptiveColorPower-Before-and-After.jpg)
 * AdaptiveColorPower is a new jailbreak tweak that utilizes the dominant color of your Lock screen’s wallpaper to tint the full-screen charging indicator you see whenever you plug your iPhone into a power source.

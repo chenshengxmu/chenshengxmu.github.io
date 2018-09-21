@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Galaxy Gear' trademark filing reveals Samsung's iWatch
+title: Galaxy Gear trademark filing reveals Samsungs iWatch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/Samsung-Galaxy-Gear-trademark-filing.jpg)
 * We know from before that Samsung has been looking to beat Tim Cook & Co. to market by releasing its own smarwatch ahead of Apple’s rumored iWatch device. And as Apple continues to apply for numerous iWatch trademark filings around the world, there has been little solid evidence in the form of patent or trademark filings to indicate the Galaxy maker’s seriousness about wearables.

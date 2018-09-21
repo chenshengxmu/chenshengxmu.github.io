@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AAPL rebounds from the 'insanely insane' sell-off
+title: AAPL rebounds from the insanely insane sell-off
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/AAPL-20121120.jpg)
 * After seeing a quarter of its market cap wiped off as shares hit a half-year low, Apple has finally rebounded as investors return to senses with a big rally on Monday. The unexpected sell-off has been “insanely insane”, according to Topeka’s Brian White. AAPL hit $565.35 a share in after-hours trading.

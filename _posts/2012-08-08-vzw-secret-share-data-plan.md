@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Verizon's secret 20GB shared data plan
+title: Verizons secret 20GB shared data plan
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/verizon-wireless.jpg)
 * For the two largest wireless carriers in the US, unlimited plans are out. Verizon introduced its new shared data plans back in June of this year, and AT&T has quickly followed suit.

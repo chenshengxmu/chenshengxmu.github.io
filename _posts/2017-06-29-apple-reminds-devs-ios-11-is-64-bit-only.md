@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple (again) reminds developers that iOS 11 won't run 32-bit apps
+title: Apple (again) reminds developers that iOS 11 wont run 32-bit apps
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/app-store-redesign-on-iPhone-ios-11.jpg)
 * Following the iOS 11 public beta release, Apple has reminded developers that iOS 11 will be 64-bit only. The notice posted yesterday on Apple’s Dev Center cautions that all 32-bit apps previously installed on users’ devices will not launch after they upgrade to iOS 11.

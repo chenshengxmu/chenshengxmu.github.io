@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Upcoming New York Event to Focus on Education and Textbooks
+title: Apples Upcoming New York Event to Focus on Education and Textbooks
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/ipad_ibooks_bookshelf1-e1325614255840.jpg)
 * Following yesterday’s report that Apple is planning a relatively low-key media event in New York this month, more sources have weighed in on what the company has planned for its upcoming announcement.

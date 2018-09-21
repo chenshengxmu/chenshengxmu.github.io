@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Watch Apple's iPhone 7 ad highlighting dual cameras, water resistance & more
+title: Watch Apples iPhone 7 ad highlighting dual cameras, water resistance & more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/Apple-iPhone-7-dark-ad-image-001.jpg)
 * Apple ahead of the iPhone 7’s arrival on Friday began airing a new commercial which highlights various signature features of the device, such as water resistance, dual cameras, stereo sound and more. The advertisement ditches Apple’s typically light concept with upbeat soundtrack in favor of an unusually dark-theme styled ad without narration, but it’s still cool to watch.

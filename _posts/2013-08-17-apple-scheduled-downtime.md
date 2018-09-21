@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Dev Center to undergo scheduled downtime tonight
+title: Apples Dev Center to undergo scheduled downtime tonight
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/dev-center.png)
 * Apple began emailing developers last night, informing them that their Developer Website would be going offline on August 17th—that’s tonight—at 6PM PST for a “brief scheduled maintenance.”

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You can now buy iMac with Retina 5K display from Apple's website
+title: You can now buy iMac with Retina 5K display from Apples website
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/buy-iMac-with-Retina-5K-display.png)
 * Following today’s announcement of the iMac with Retina 5K display, the machine is now available for purchase on Apple.com. Starting at $2,499, the base iMac with Retina 5K display model comes with a 3.5GHz Quad-core Intel Core i5,  8GB 1600MHz DDR3 SDRAM, an AMD Radeon R9 M290X with 2GB of dedicated GDDR5 video memory for superior graphics performance, and a 1TB Fusion Drive.

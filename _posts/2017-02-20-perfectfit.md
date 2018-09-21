@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PerfectFit automatically resizes 'outdated' apps to support newer iPhone resolutions
+title: PerfectFit automatically resizes outdated apps to support newer iPhone resolutions
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/PerfectFit-Before-and-After.jpg)
 * Every so often you might come across an app you need from the App Store where the developer hasn’t even bothered to update the interface for the latest iPhone resolutions. In most cases, this means they’re still designed to work on the iPhone 4s resolution or earlier, and this leaves unsightly black bars at the top and bottom of the app.

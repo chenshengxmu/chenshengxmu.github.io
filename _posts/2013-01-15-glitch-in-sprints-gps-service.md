@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Glitch in Sprint's GPS service points Find My iPhone users to innocent man's house
+title: Glitch in Sprints GPS service points Find My iPhone users to innocent mans house
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/find-my-iphone1.jpg)
 * Imagine you are awoken in the middle of the night by someone pounding loudly at your door. It’s a man and his girlfriend, and they’re upset because someone just stole her iPhone, and the Find My iPhone app led them straight to your house. Now imagine this is a regular occurrence.

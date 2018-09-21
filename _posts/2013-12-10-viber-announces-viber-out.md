@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Viber announces new 'Viber Out' feature for making low-cost outgoing calls
+title: Viber announces new Viber Out feature for making low-cost outgoing calls
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/viber-app.png)
 * Popular VoIP and messaging service Viber announced today the release of version 4.1 of its mobile app for Android and iPhone. The update includes the full global launch of Viber Out, a new feature that allows users to make low-cost calls to any mobile or landline phone number.

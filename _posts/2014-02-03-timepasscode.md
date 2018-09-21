@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to set your iOS passcode to your device's current time
+title: How to set your iOS passcode to your devices current time
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/Resized-TimePasscode.jpg)
 * TimePasscode is a new jailbreak tweak that lets you use your device’s current time as a passcode to unlock your device. Spurred on by a Reddit request, developer Steve Hetelekides has created a tweak that allows you to have a different passcode with every passing minute.

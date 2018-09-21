@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A look back at some of Apple's old Christmas commercials
+title: A look back at some of Apples old Christmas commercials
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/apple-christmas.png)
 * Apple’s been causing a lot of commotion lately with its latest iPhone 5s commercial ‘Misunderstood.’ The ad, for those who haven’t seen it, depicts a teenager with his head buried in his smartphone while the family participates in holiday activities, and has a delightful twist.

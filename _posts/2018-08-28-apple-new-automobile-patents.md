@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's focused on seating sensors and sunroof improvements in new automobile patents
+title: Apples focused on seating sensors and sunroof improvements in new automobile patents
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/apple-eve-sports-car-concept-1.jpg)
 * Two recently approved U.S. patents are shining new light on Apple’s long-gestating and secretive automotive initiative, Project Titan. The patents cover two areas of the driving experience, including seating and sunroofs.

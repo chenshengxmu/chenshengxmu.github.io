@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple announces 'biggest ever' holiday for App Store with $1.1 billion sales in two weeks
+title: Apple announces biggest ever holiday for App Store with $1.1 billion sales in two weeks
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/app-store_2x.png)
 * Apple on Wednesday announced that its App Store has had the biggest holiday ever with a record-breaking $1.1 billion revenue in the two weeks ending January 3, as customers increased their spending on apps and In-App Purchases, setting back-to-back weekly records for traffic and purchases.

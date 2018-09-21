@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Native Twitter sharing disappears from latest iOS beta if Twitter's mobile app is installed
+title: Native Twitter sharing disappears from latest iOS beta if Twitters mobile app is installed
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/iOS-8.3-beta-4-no-Twitter-sharing-option.png)
 * iOS 8.3 beta 4 that was seeded to Apple’s registered iOS developers last week has removed the long-standing option to share content to Twitter, according to our own findings a couple days ago that have since been confirmed by other users.

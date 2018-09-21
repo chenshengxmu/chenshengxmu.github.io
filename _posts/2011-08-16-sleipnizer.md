@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sleipnizer Might Just be Mobile Safari's Best Friend
+title: Sleipnizer Might Just be Mobile Safaris Best Friend
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/Photo-Aug-15-5-03-04-PM-e1313448275116.png)
 * We’ve discussed several jailbreak utilities for Safari over the last few years, but Sleipnizer could be its new best friend. The package adds two major features to the option-starved browser.

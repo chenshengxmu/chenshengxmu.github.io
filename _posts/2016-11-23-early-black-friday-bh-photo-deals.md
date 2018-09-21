@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Early Black Friday B&H Photo deals- $170 off LG display, $1,000 off 70" 4K TV, and more
+title: Early Black Friday B&H Photo deals- $170 off LG display, $1,000 off 70 4K TV, and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/11/bh-photo.png)
 * We’re still a few days away from the holiday weekend, but in an effort to get a head start, several retailers have launched what they are calling “early” or “pre-” Black Friday sales. We’re going to be covering as many of these deals as possible, with a particular focus on quality products and notable discounts. Here are a few we’ve found from B&H Photo thus far.

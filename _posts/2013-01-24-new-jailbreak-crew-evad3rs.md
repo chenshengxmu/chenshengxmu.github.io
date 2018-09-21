@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MuscleNerd, pimskeks, planetbeing and pod2g team up as the 'evad3rs'
+title: MuscleNerd, pimskeks, planetbeing and pod2g team up as the evad3rs
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/evad3rs-logo.png)
 * So this is kind of interesting. Amidst all of the recent talk of the iOS 6 jailbreak nearing completion, pod2g has made a rather unexpected announcement. Apparently he, and three other well known iOS hackers are forming a team.

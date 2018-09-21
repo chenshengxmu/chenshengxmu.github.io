@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Report- Apple to open Moscow 'Apple Rus' in 2013
+title: Report- Apple to open Moscow Apple Rus in 2013
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/crowded-apple-store.jpg)
 * First came the U.S. Apple Store, then London and Paris. Now the iPhone maker is preparing to open stores in Moscow, according to a Russian newspaper. The move would allow Apple to sell directly to Moscovites, rather than using local distributors.

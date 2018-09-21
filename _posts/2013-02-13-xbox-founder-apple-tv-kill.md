@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Xbox founder says App Store on Apple TV would 'kill' gaming consoles
+title: Xbox founder says App Store on Apple TV would kill gaming consoles
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/real-racing-airplay.jpg)
 * Earlier today, Jeffries analyst Peter Misek told investors that Apple will hold a TV-related media event in March. And he suspects that the focus of the event will be the unveiling of a software development kit that will allow developers to finally make third-party apps for the Apple TV.

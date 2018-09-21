@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pixite's Union photo app is free right now within the Apple Store app
+title: Pixites Union photo app is free right now within the Apple Store app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/12/union-4.png)
 * Heads up folks, Apple is giving away free copies of the popular Union photo app by Pixite right now. You can find promo codes for the app, which normally retails for $1.99, within the ‘Stores’ section of the Apple Store app on iOS.

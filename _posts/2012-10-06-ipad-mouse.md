@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's how to use a mouse on a jailbroken iPad
+title: Heres how to use a mouse on a jailbroken iPad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/iPad-Mouse.jpg)
 * A new jailbreak tweak was recently released, and it allows you to use a Bluetooth mouse and keyboard on your iPad or iPhone.

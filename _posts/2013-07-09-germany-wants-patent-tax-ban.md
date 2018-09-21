@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Germany wants EU to ban 'patent box' tax breaks
+title: Germany wants EU to ban patent box tax breaks
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/appletax.jpeg)
 * It’s a common practice now under fire from Germany’s finance chief: giving corporations tax breaks to locate and develop their patents – and hopefully hire local workers. In a Europe struggling with widespread economic troubles, the tactic known as the ‘patent box’ should stop, Germany asked a gathering of European Union finance ministers.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hidden icons in iOS 8 show Apple's working on car-finding feature
+title: Hidden icons in iOS 8 show Apples working on car-finding feature
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/parking-lot-pic.jpg)
 * Last fall it was reported that Apple was working on a new feature for its Maps application that could assist users in finding their car. Using the iPhone’s M7 chip, it was said the app could register the location of a parked vehicle, and then help its owner return to that spot at a later time.

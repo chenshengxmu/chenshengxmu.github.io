@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple- we're delaying HealthKit apps until month's end over a software bug
+title: Apple- were delaying HealthKit apps until months end over a software bug
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/iOS-8-Health-teaser-001.jpg)
 * Several health and fitness focused apps were updated in the App Store this morning with plenty useful new features that take advantage of the new HealthKit framework for developers, introduced alongside iOS 8.

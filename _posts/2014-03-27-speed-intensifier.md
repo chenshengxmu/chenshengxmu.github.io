@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's another way to speed up animations in iOS 7
+title: Heres another way to speed up animations in iOS 7
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/Speed-Intensifier.png)
 * Speed Intensifier is a tweak that’s been around for some time, but was just recently updated to play nice with iOS 7 and arm64 devices like the iPhone 5s. The effect, especially when you take into consideration the drastic animation changes present within iOS 7, is nothing short of startling.

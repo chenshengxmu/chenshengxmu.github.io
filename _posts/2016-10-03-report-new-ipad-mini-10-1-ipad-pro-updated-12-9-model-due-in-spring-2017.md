@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Report- new iPad mini Pro, 10.1" iPad Pro & updated 12.9" model due in Spring 2017
+title: Report- new iPad mini Pro, 10.1 iPad Pro & updated 12.9 model due in Spring 2017
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/iPad-Pro-split-screen-multitasking-lifestyle-002.jpg)
 * Japanese blog Mac Otakara has heard from reliable sources that Apple is gearing up to refresh its iPad lineup in Spring of 2017 with an updated 12.9-inch iPad Pro model, a new 10.1-inch model joining the lineup and a fifth-generation iPad mini, which should gained the ‘Pro’ moniker and be marketed by Apple simply as the 7.9-inch iPad mini Pro.

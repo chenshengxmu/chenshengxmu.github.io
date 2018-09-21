@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple More than Likely to Lose Amazon Lawsuit, "App Stores" for Everyone
+title: Apple More than Likely to Lose Amazon Lawsuit, App Stores for Everyone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/03/amazon-appstore.png)
 * Most of you are probably aware of Apple’s trademark lawsuit against Amazon. But if not, it’s easy to catch up. The online retailer opened up a new app market earlier this year, entitled the Amazon Appstore for Android. Apple’s legal team quickly filed a motion with the courts to ban the retailer from using their trademark.

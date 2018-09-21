@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone Won't Have 4G Until At Least 2012
+title: iPhone Wont Have 4G Until At Least 2012
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/iPhone-4G.png)
 * Speculation has been that Apple could possibly introduce an LTE/4G iPhone in the coming year. Some even thought that Apple pushed back the iPhone 5’s announcement to wait for LTE saturation in the U.S.

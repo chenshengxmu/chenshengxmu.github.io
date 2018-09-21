@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Mist- a minimal and lightweight iPhone case for people who don't like cases
+title: The Mist- a minimal and lightweight iPhone case for people who dont like cases
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/Mist-case-iPhone-5.jpg)
 * If you follow me on Twitter or listen to our podcast, you know I’m not a big fan of cases. There are two main reasons why I’d rather go for a naked iPhone. One, I consider myself a minimalist when it comes to design and aesthetics, and using a case goes against that. Two, and maybe the most important reason, is that I think the white iPhone 5 is such a beautiful device that it should be considered a criminal offense to slap a case around it.

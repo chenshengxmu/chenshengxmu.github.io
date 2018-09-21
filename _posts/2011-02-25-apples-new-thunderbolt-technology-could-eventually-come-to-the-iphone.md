@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's New Thunderbolt Technology Could Eventually Come to the iPhone
+title: Apples New Thunderbolt Technology Could Eventually Come to the iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/02/Thunderbolt.jpeg)
 * Apple recently introduced a new connection technology dubbed “Thunderbolt.” In Apple’s MacBook Pro refresh, the Thunderbolt port has been added as a new wired connection architecture that Apple hopes will unify its connection technologies.

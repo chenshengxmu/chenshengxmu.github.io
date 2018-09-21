@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Talk of purported Apple chip plant 'Project Azalea' pops up in Oregon
+title: Talk of purported Apple chip plant Project Azalea pops up in Oregon
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/ipad-a6-e1325875064866.jpg)
 * Last week, an interesting report popped up regarding ‘Project Azalea,’ a mysterious plan for a 3.2 million-square-foot production facility being pitched to New York economic development officials by an unidentified company. Because of its reported $10 billion construction cost, the general consensus is that it’s likely a chip-making plant. And rumor has it that it’s for Apple’s products.

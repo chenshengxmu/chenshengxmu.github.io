@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Check out 'Jobs' featurette with new clips from the movie
+title: Check out Jobs featurette with new clips from the movie
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/Ashton-Kutcher-Jobs-movie-poster.jpg)
 * With a little over two weeks until its nationwide theatrical release, Open Road Films on Wednesday released the first featurette for the upcoming Jobs movie, starring Ashton Kutcher as Apple’s co-founder Steve Jobs and Josh Gad as the other Steve, Steve Wozniak.

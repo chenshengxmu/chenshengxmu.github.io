@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Readdle's Black Friday promo slashes up to 50% off popular productivity apps
+title: Readdles Black Friday promo slashes up to 50% off popular productivity apps
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/11/Readdle-Scanner-Pro-teaser-001.jpg)
 * Readdle, the Ukrainian developer behind some of the best iOS productivity apps such as Calendars, PDF Expert and Scanner Pro, doesn’t do sales often.

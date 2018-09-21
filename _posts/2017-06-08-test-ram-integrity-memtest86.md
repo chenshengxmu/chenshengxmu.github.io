@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to test your RAM's integrity with MemTest86
+title: How to test your RAMs integrity with MemTest86
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/memtest-header.jpg)
 * If you’ve been experiencing strange behaviour from your computer, or have recently upgraded or replaced your RAM, it might be a good idea to test its integrity. This ensures that it is installed correctly, that no part of it has failed, and that it has no intermittent problems.

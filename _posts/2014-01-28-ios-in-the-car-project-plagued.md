@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's iOS in the Car project reportedly plagued by 'organizational issues'
+title: Apples iOS in the Car project reportedly plagued by organizational issues
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/in-the-car-2.png)
 * Apple announced iOS in the Car at WWDC in June of last year. The company said that the new feature will allow iOS 7 device users to connect to the in-car displays of compatible vehicles, and that it would be launching it in the near future.

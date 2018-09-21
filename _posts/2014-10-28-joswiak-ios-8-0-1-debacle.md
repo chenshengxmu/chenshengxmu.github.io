@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Greg Joswiak apologizes for iOS 8.0.1 bug, blames it on distribution
+title: Apples Greg Joswiak apologizes for iOS 8.0.1 bug, blames it on distribution
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/joswiak-code-mobile.png)
 * Continuing with their high profile interviews, Recode’s Ina Fried and Walt Mossberg brought Apple’s VP of iPhone marketing Greg Joswiak up on stage today at their Code/Mobile event. The trio discussed a number of topics, including Apple Pay, Apple Watch and Apple’s recent software woes.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Instagram keeps after Snapchat with new Remix feature for replying to friend's photos
+title: Instagram keeps after Snapchat with new Remix feature for replying to friends photos
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/Instagram-remix-reply.jpg)
 * In a press release posted to the company’s website, Instagram has announced upcoming changes to version 24 of its iPhone and Android app. You will now be able to reply and “remix” pictures friends have sent you, including adding stickers, text and drawings.

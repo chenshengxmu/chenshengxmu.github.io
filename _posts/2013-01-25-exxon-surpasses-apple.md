@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exxon surpasses Apple's market cap, becomes most valuable corporation
+title: Exxon surpasses Apples market cap, becomes most valuable corporation
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/AAPL-Market-cap-20130125.jpg)
 * Despite Apple’s record holiday quarter earnings, investors continue to punish the Apple stock which has took quite a beating since Tuesday’s earnings report. As the stock continues to slide, Apple on Friday hit a new 52-week low, becoming worth less than Exxon Mobil and ceding the top spot to the oil corporation.

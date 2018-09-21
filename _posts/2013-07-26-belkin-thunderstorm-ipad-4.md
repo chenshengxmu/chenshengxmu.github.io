@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Belkin's Thunderstorm handheld home theater now available for iPad 4
+title: Belkins Thunderstorm handheld home theater now available for iPad 4
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/belkin-thunderstorm-.jpg)
 * Accessory maker Belkin back at January’s CES 2013 unveiled a handheld home theater system for Apple’s iPad, the Thunderstorm. The amplification system docks your iPad with integrated front-facing speakers and air channels for the powerful bass sounds. The speaker case was initially limited to older 30-pin iPad 2 and third-generation iPad devices. Today, Belkin announced Thunderstorm availability for iPads outfitted with Lightning I/O, namely the iPad 4…

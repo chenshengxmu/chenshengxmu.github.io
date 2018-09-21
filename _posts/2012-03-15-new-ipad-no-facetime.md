@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New iPad still doesn't allow FaceTime calls over cellular connection
+title: New iPad still doesnt allow FaceTime calls over cellular connection
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/facetime-failed.jpg)
 * Even though it’s been around for a couple of years now, FaceTime has really struggled to gain massive user adoption. Mac and iOS owners just aren’t using it as much as you think they would for a free, no-hassle video-calling service.

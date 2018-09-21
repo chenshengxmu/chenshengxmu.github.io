@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hit game 'Temple Run' crosses one billion downloads
+title: Hit game Temple Run crosses one billion downloads
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/temple_run_1_billion_download_press.jpg)
 * Raleigh, North Carolina-based gaming company Imangi Studios announced this week that its hit game Temple Run has crossed one billion downloads. The total is the combination of both the first and second releases of the endless runner.

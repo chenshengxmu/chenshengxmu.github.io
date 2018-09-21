@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MusicGestures' adds customized gestures to the stock Music app
+title: MusicGestures adds customized gestures to the stock Music app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/MusicGestures-Screenshot.jpg)
 * MusicGestures is a jailbreak tweak that lends the ability to control the stock Music app with gestures instead of button presses. There are a total of 6 actions (7 if you count disabled as an action) that you can assign to any number of gestures.

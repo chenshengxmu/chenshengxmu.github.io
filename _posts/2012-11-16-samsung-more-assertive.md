@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung now more assertive in price negotiations over Apple's hostile tactics
+title: Samsung now more assertive in price negotiations over Apples hostile tactics
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/Samsung-Austin-plant-e1353099940474.jpg)
 * Apple appears to be resolving its legal woes with other Android backers such as HTC, reportedly seeking arbitration and even mulling a global settlement with Google’s subsidiary Motorola Mobility. On the other hand, the company is to this date entangled in a complicated web of patent disputes with Samsung, from whom it sources components for iOS devices.

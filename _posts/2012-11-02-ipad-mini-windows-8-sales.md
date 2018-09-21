@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The iPad mini means 'very tough' holiday for Windows 8 sales
+title: The iPad mini means very tough holiday for Windows 8 sales
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/iPad-mini-promo-users-005.jpg)
 * Yes, the iPad mini is indeed going to be competitors’ worst nightmare. But Apple’s new 7.9-inch tablet won’t be terrorizing Android tablets as much as the last vestiges of PCs – many now with Microsoft’s new Windows 8. On the eve of sales of Apple smaller tablet, the Sterne Agee analyst said Apple has its bulls-eye on PCs and Windows. Clarifying his earlier “nightmare” comment, Wu said observers who believe the new device is chiefly aimed at Android tablets such as Amazon’s Kindle Fire HD or Google’s Nexus 7 “miss the point”…

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple explains iSpaceship benefits to Cupertino's economy
+title: Apple explains iSpaceship benefits to Cupertinos economy
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/iSpaceship-pathways-005.jpg)
 * Apple Tuesday released an 80-page report detailing the economic benefits of Apple’s current headquarters. Along the way, the iPhone maker hopes a peek at the potential flood of cash headed toward local government coffers will help gain city approval of its upcoming iSpaceship campus.

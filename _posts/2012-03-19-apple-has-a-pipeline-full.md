@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook says Apple has a "pipeline full of stuff"
+title: Tim Cook says Apple has a pipeline full of stuff
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/apple-2012.jpg)
 * As expected, Apple held a conference call this morning to discuss plans regarding its stockpile of cash. Although investor relations and iPad numbers were the highlights of the call, Tim Cook did make another interesting announcement.

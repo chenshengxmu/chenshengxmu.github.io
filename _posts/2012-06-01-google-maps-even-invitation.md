@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google teases "the next dimension" of maps, should Apple be worried?
+title: Google teases the next dimension of maps, should Apple be worried?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/Google-Maps-press-event.jpeg)
 * Not content with being outclassed by Apple, Google today sent out invitations to select members of the press. The invite graphics teases “the next dimension of Google Maps”. The search giant’s presser takes place next Wednesday, June 6, at 9:30am, five days ahead of Apple’s worldwide developers conference that kicks off with a keynote in San Francisco’s Moscone West on June 11.

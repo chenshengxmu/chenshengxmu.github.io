@@ -1,6 +1,6 @@
 ---
 layout: post
-title: tvOS's Universal Search feature gains support for Comedy Central, MTV and VH1
+title: tvOSs Universal Search feature gains support for Comedy Central, MTV and VH1
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/07/tvOS-Universal-Search-Comedy-Central-Apple-TV-screenshot-003.jpg)
 * Universal Search feature on the fourth-generation Apple TV has been refreshed yesterday with expanded support for searching content provided by tvOS video apps from Viacom-owned Comedy Central and music networks MTV and VH1. Provided these apps are installed on your set-top box, you can either use the Search app on the device or press the Siri button on the remote and use your voice to find shows like South Park and others.

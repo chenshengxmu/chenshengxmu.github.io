@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New book “Creative Selection” offers an inside account of Apple's design and creative process during the Golden Age of Steve Jobs
+title: New book “Creative Selection” offers an inside account of Apples design and creative process during the Golden Age of Steve Jobs
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/09/Creative-Selection-book.png)
 * An interesting new book by former Apple software engineer Ken Kocienda, titled “Creative Selection,” is now available to order through Apple’s Books Store, offering an inside account of Apple’s design and creative process during the Golden Age of Steve Jobs.

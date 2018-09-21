@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New drone update proves Apple's new headquarters are coming along nicely
+title: New drone update proves Apples new headquarters are coming along nicely
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/Apple-Park-Duncan-Sinfield-001-December-2017.jpg)
 * Two weeks after drone pilot Matthew Roberts released his birds-eye video of Apple’s massive new headquarters, fellow aerial videographer Duncan Sinfield is out with an update of his own.

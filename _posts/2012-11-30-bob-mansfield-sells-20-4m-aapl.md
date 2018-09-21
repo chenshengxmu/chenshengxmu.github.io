@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Technologies boss cashes in shares
+title: Apples Technologies boss cashes in shares
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/bob-mansfield.png)
 * Bob Mansfield, Apple’s un-retired SVP of Technologies, is another high-ranked executive to cash in shares of AAPL stock after an “insanely insane” sell-off that saw a quarter of Apple’s market cap wiped off. Like other executives, Mansfield likely figured the move makes financial sense ahead of a rumored “fiscal cliff”.

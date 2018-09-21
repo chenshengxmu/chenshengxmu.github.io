@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rovio Stars' next release Tiny Thief is coming to iOS next Thursday
+title: Rovio Stars next release Tiny Thief is coming to iOS next Thursday
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/Tiny-Thief-character-002.jpg)
 * Rovio’s new publishing label Rovio Stars recently launched its inaugural title, A Viking Voyage by UK-based studio Nitrome. Their second game will be Tiny Thief, a nice-looking medieval adventure developed by Barcelona-based 5 Ants Studio. Just earlier this morning, Rovio announced that Tiny Thief will be available for iOS and Andoid tablets and handhelds from next Thursday, July 11, here’s what we know so far about the game…

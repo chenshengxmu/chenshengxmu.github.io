@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple appeals Brazil's iPhone trademark ruling
+title: Apple appeals Brazils iPhone trademark ruling
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iPhone-5-teaser-the-biggest-thing-to-happen-to-iPhone-since-iPhone.jpg)
 * In a repeat of the ProView situation, Apple today lost exclusive rights to the ‘iPhone’ trademark in Brazil to a local company called IGB Electronics S.A. that sells an Android cheapo with ‘iPhone’ in its name. While this means both IGB and Apple are allowed to market ‘iPhones’ in the 200 million people country, Apple – keen on avoiding user confusion and public humiliation – has now appealed the decision by the Brazilian Institute for Industrial Property (INPI)…

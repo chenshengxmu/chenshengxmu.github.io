@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Japanese magazine shares detailed 'iPhone 7 Pro' design schematics
+title: Japanese magazine shares detailed iPhone 7 Pro design schematics
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/04/iPhone-7-Plus-design-schematics-Mac-Fan-image-001.jpeg)
 * In its June 2016 edition, Japanese monthly Mac Fan brings purported design schematics of Apple’s upcoming iPhone 7 Plus model, which they refer to as an ‘iPhone 7 Pro’. The drawings reaffirm upcoming features such as the removal of the 3.5mm headphone jack, a dual-lens camera on the back and roughly the same dimensions as the current-generation iPhone 6s Plus model.

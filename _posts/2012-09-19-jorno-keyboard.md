@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jorno may be the pocketable Bluetooth keyboard you've been waiting for
+title: Jorno may be the pocketable Bluetooth keyboard youve been waiting for
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/Jorno.png)
 * If you are in the market for a Bluetooth keyboard, there are plenty to keep you guessing. However, I am yet to find a model that collapses into a small portable unit for grab-and-go solutions. Today, Jorno utilizes the small, compact design you may be looking to discover and is launching on Kickstarter.

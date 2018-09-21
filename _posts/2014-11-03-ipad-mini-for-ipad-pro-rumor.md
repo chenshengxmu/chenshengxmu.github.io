@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple rumored to drop iPad mini development to focus on larger 'iPad Pro'
+title: Apple rumored to drop iPad mini development to focus on larger iPad Pro
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/four-iPad-mini-retina-display.jpg)
 * Apple is dropping iPad mini development in order to focus its efforts on the so-called ‘iPad Pro,’ according to a sketchy new report from Taiwan’s Economic Daily News this evening. The site claims that this year’s iPad mini 3 model will be the last for the 7.9-inch tablet line.

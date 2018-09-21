@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung denies massive chip price hike that could hurt Apple's margins
+title: Samsung denies massive chip price hike that could hurt Apples margins
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/Apple_A6X_chip.jpeg)
 * Monday’s news by South Korean newspaper Chosun alleging Samsung was jacking up prices of Apple mobile chips by as much as twenty percent in order to get even with its largest component buyer for losing more than $1 billion in damages in the massive Apple v. Samsung patent case is untrue, an unnamed Samsung executive reportedly told a Korean newspaper Wednesday. A-series of chips that power iOS devices are designed by Apple and built exclusively by Samsung at its sophisticated facility in Austin, Texas…

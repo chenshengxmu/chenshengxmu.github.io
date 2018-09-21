@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Joy of Tech's funny read on Scott Forstall's ousting
+title: Joy of Techs funny read on Scott Forstalls ousting
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/Overly-Attached-Forstall.jpg)
 * Joy of Tech does regular takes on the tech industry’s blunders and Apple is often the subject of their daily web comic. This is their view of Monday’s executive shake-up that saw CEO Tim Cook fire long-time iOS chief Scott Forstall and retail boss (though he never earned that title) John Browett. Go past the fold for the comic and an additional explanation…

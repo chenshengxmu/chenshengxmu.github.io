@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Employees give Apple's Cook approval rating just shy of Jobs
+title: Employees give Apples Cook approval rating just shy of Jobs
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/2012poy_cook_story.jpg)
 * Wall Street has often questioned whether Apple CEO Tim Cook could ever fill the managerial shoes left by co-founder Steve Jobs. What’s more, some anti-Apple analysts like Rob Enderle in an article titled “The impossible task of fixing Apple” opines the board should fire Cook over the recent stock slide.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Japan's NTT DoCoMo says it's willing to negotiate an iPhone deal
+title: Japans NTT DoCoMo says its willing to negotiate an iPhone deal
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/nttdocomo-japan_6.jpg)
 * As talk continues of an upcoming T-Mobile iPhone deal, and rumors continue to swirl of a China Mobile partnership, a new report today says that the Cupertino company could potentially add another major carrier to its stable: Japan’s NTT DoCoMo.

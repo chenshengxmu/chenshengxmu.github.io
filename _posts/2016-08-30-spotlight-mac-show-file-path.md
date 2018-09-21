@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to reveal a file's path in Spotlight for Mac with a simple keystroke
+title: How to reveal a files path in Spotlight for Mac with a simple keystroke
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/08/macOS-Yosemite-Spotlight-icon-full-size.jpg)
 * In macOS versions up until Lion, hovering over an item in Spotlight’s search results on your Mac would reveal its full file system path. As of macOS Lion, that’s no longer the default behavior—the Spotlight overlay gives you some information about the selected file, but not its location. But don’t you worry, Apple hasn’t ditched this feature entirely as you can reveal a file’s path in your Spotlight search results at any time via this practical keyboard shortcut.

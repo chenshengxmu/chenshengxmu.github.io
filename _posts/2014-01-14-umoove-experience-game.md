@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New 'Umoove Experience' game utilizes eye, face-tracking tech
+title: New Umoove Experience game utilizes eye, face-tracking tech
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/moove-3.png)
 * A new game is out this week that’s causing quite a bit of commotion in the tech world. It’s called ‘Umoove Experience,’ and it follows a main character as he flies around various villages collecting bottles of purple magic potion to score points.

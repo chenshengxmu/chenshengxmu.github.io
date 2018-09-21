@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's rumored Amazon Echo competitor may be new Apple TV
+title: Apples rumored Amazon Echo competitor may be new Apple TV
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/11/apple-tv-4.jpeg)
 * Apple’s rumored Amazon Echo competitor may come in the form of a new set-top box, reports VentureBeat. Citing a source familiar with the matter, the outlet says the iPhone maker is working on a new Apple TV with an improved version of Siri.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gameloft's free to play Dungeon Hunter 4 hits iOS
+title: Gamelofts free to play Dungeon Hunter 4 hits iOS
 ---
 * French publisher Gameloft, one of the most prolific iOS games publishers, has joined Electronic Arts in offering latest triple-A titles for free, a major shift in strategy in recognition of the free-to-play concept. Today, Gameloft’s Dungeon Hunter 4, a major new release, has hit the App Store as a free download.
 * The Diablo-like title is classes as a role-playing game set in the land of Valenthia and you’re tasked with saving the mortal realms from darkness. It includes the usual assortment of potions, daggers, swords, monsters and character classes such as Sentinels, Imps (compared in savagery to a wolverine) and what not…

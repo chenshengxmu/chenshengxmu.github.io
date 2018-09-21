@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Colorize your iPhone's Quick Action menus with SB3DTouchColor
+title: Colorize your iPhones Quick Action menus with SB3DTouchColor
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/02/SB3DTouchColor.jpg)
 * Anyone with an iPhone 6s or newer can use 3D Touch gestures on their Home screen icons to access Quick Action menus with various app shortcuts. As useful as they can be, these menus can look incredibly bland on stock devices.

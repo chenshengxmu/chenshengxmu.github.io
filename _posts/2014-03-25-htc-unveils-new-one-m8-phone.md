@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HTC launches new 'One (M8)' flagship handset
+title: HTC launches new One (M8) flagship handset
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/htc-one-m8.png)
 * Following Samsung’s unveiling of the Galaxy S5 last month, HTC today introduced its new flagship smartphone: the HTC One (M8). The handset is the direct descendent of the critically-successful HTC One, and it encapsulates the company’s latest effort to boost flagging device sales.

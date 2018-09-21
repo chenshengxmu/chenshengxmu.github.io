@@ -1,6 +1,6 @@
 ---
 layout: post
-title: High-quality photographs show construction at Apple's gigantic iSpaceship site
+title: High-quality photographs show construction at Apples gigantic iSpaceship site
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/iSpaceship-construction-teaser-001.jpg)
 * Two days ago, a nice little video popped up on YouTube depicting the initial demolition of Hewlett-Packard’s former buildings at the site where Apple’s gigantic ring-shaped Campus 2 structure should crop up by 2016. Apple’s spectacular building has been appropriately dubbed by the press the iSpaceship due to its resemblance to a flying saucer.

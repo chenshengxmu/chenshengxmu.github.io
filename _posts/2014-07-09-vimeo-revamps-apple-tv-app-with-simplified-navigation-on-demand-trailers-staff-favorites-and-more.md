@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vimeo's Apple TV app revamps UI, adds on-demand trailers, staff favorites and more
+title: Vimeos Apple TV app revamps UI, adds on-demand trailers, staff favorites and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/Vimeo-Apple-TV-003.png)
 * Video-sharing service Vimeo has had its stock channel on Apple’s $99 Apple TV media-streaming box for quite some time now. For those unfamiliar with it, Vimeo on the Apple TV provides basic functionality in terms of streaming your own videos, watching trending clips and other nice-to-haves.

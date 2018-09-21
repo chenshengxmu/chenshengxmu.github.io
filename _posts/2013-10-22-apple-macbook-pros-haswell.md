@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple unveils new 13" and 15" MacBook Pros, drops price tags
+title: Apple unveils new 13 and 15 MacBook Pros, drops price tags
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/MBP-15.png)
 * Apple continues to run through its iPad keynote, and now that Craig Federighi has announced that OS X Mavericks is going to be available as a free update, Phil Schiller has taken the stage to talk about the hardware that’ll run it.

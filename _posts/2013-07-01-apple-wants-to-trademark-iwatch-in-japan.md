@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple moves to trademark 'iWatch' in Japan
+title: Apple moves to trademark iWatch in Japan
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/iWatch-concept-Maps-Martin-Hajek-003.jpg)
 * If you needed proof that Apple is actively researching a wearable device akin to a smartwatch, look no further than a Japan Patent Office filing from early June for an ‘iWatch’ trademark. As discovered by Bloomberg, the filing specifically mentions a “watch device” and a “handheld computer”. While this by no means such a product will see the light of day, it certainly fuels speculation that an Apple-branded smartwatch is in the works…

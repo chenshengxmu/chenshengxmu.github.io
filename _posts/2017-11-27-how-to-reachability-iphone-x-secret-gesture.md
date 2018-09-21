@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tip- here's a much more fun way to invoke Reachability on iPhone X
+title: Tip- heres a much more fun way to invoke Reachability on iPhone X
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/iPhone-X-how-to-Reachability-teaser-001.jpg)
 * On older iPhones, Reachability can be used by tapping the Home button twice.

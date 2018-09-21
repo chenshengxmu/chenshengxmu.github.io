@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Valentine's Day comes early- Real Racing 3 hits New Zealand, Australia
+title: Valentines Day comes early- Real Racing 3 hits New Zealand, Australia
 ---
 * Today is a big day for iOS gamers as Electronic Arts launches the third installment in its popular Real Racing franchise. The game was originally scheduled for February 28 release so it wasn’t clear why Electronic Arts decided to post it today, but we’re not complaining even though the game initially launched in the New Zealand and Australia App Store.
 * The good news don’t end here: as promised, Real Racing 3 is a free download with some unaggressive in-app purchases, a major strategic shift for Electronic Arts which typically prices its most recent iOS games between $5 and $10.

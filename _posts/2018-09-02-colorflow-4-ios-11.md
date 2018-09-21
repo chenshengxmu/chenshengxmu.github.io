@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ColorFlow 4 brings album artwork-centric color schemes to iOS 11's Now Playing interface
+title: ColorFlow 4 brings album artwork-centric color schemes to iOS 11s Now Playing interface
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/09/ColorFlow-4-iOS-11-GIF.gif)
 * A handful of jailbreak tweaks have been released in recent memory that colorize the Now Playing interface in iOS 11, but one of the newest is ColorFlow 4 (iOS 11) by iOS developer David Goldman.

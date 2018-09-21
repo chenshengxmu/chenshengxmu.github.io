@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CanOpener review- fine-tune the audio output of your iPhone's headphones
+title: CanOpener review- fine-tune the audio output of your iPhones headphones
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/CanOpener-3.jpeg)
 * I am a huge music fan. If it is possible to have such a thing as eating, sleeping, and breathing music, I do it. I am also fairly picky about what my music sounds like. Unless I’ve got my iPhone connected to an external speaker, I tend to avoid using it to listen to music.

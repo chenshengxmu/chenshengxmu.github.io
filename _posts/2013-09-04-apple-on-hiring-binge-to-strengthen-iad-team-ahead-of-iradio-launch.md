@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple 'on hiring binge' to strengthen iAd team ahead of iRadio Launch
+title: Apple on hiring binge to strengthen iAd team ahead of iRadio Launch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/iTunes-Radio-three-up-iPhone-5.jpg)
 * Apple is seemingly scrambling to hire a number of key iAd executives in preparation for the launch of its streaming music service iTunes Radio. The Cupertino company is “on a hiring binge,” placing job offers for more than two dozen positions, according to reports Wednesday.

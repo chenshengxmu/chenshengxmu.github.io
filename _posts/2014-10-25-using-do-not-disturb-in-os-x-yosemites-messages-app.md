@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using Do Not Disturb in OS X Yosemite's Messages app
+title: Using Do Not Disturb in OS X Yosemites Messages app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/DoNotDisturb.png)
 * Like the Messages app in iOS 8, the Yosemite version of Messages allows you to mute specific conversations by enabling Do Not Disturb. Do Not Disturb ensures that you still receive messages, but you won’t be bothered by notifications when new messages arrive.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spice up your iPhone X's notification alerts with Notchifications
+title: Spice up your iPhone Xs notification alerts with Notchifications
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/notchification.jpg)
 * The iPhone X’s OLED display and ‘notch’ paved the way for Apple to get creative with incoming notification alerts. But as usual, Apple didn’t go all out; incoming notifications look just about the same on the iPhone X as they do on any other iOS handset.

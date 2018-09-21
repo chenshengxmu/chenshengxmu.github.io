@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video shows off the iPhone 5C's scratch resistance
+title: Video shows off the iPhone 5Cs scratch resistance
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/iPhone-5C-scratch-resistance.jpg)
 * Apple’s rumored mid-tier handset called the iPhone 5C is said to feature a plastic body much like the iPhone 3GS, only sturdier. Using polycarbonate plastic in place of the iPhone 5’s sensitive two-tone aluminum + glass combo should yield some much-needed advancements in the scratch resistance department, as shown in a video posted by Taiwan’s Apple Daily.

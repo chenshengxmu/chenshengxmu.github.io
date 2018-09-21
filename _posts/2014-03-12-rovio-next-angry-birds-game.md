@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rovio says upcoming 'Angry Birds Epic' game is a turn-based RPG
+title: Rovio says upcoming Angry Birds Epic game is a turn-based RPG
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/angry-birds-epic.png)
 * Over the weekend, Rovio posted a teaser trailer for an unknown, upcoming Angry Birds title. The clip was short, and offered up few details about the game outside of showing a bird wearing knight’s armor and announcing countries that would participate in the soft launch.

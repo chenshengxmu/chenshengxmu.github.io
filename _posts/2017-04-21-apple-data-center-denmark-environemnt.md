@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Danish data center to warm homes and provide fertilizer to farmers
+title: Apples Danish data center to warm homes and provide fertilizer to farmers
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/Apple-data-center-Denmark.png)
 * After analyzing Apple’s environment report for 2016, which was released yesterday, MacWorld spotted that the company’s data center being built in Denmark will return excess heat to the community, helping warm local homes. The facility in Denmark’s central Jutland region will be partly powered by recycling waste products from farms. Apple is working with Aarhus University on a solution that could turn some of the waste into nutrient-rich fertilizer for local farmers to use on their fields.

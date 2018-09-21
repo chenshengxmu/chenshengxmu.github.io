@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Watch 2's thinner screen & larger battery allegedly caught on video
+title: Apple Watch 2s thinner screen & larger battery allegedly caught on video
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/Apple-Watch-2-display-assembly-Byte-001.jpeg)
 * Supply chain rumors have asserted that a second-generation Apple Watch 2 could offer a few additional hours of battery life while replacing the current models’ Glass on Glass (G/G) touchscreen with a thinner and lighter screen based on One Glass Solution (OGS) display technology. These two features—a thinner display assembly and a bigger battery—are allegedly shown in a video posted by Byte, a UK-based retailer that sells Apple-certified accessories.

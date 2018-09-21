@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple posts 'Better Starts Here' video highlighting environmental progress during 2014 fiscal year
+title: Apple posts Better Starts Here video highlighting environmental progress during 2014 fiscal year
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/04/Apple-Environment-teaser-Dongguan-supplier-in-China.jpg)
 * Apple on Monday published 2015 Environmental Responsibility Report and an accompanying video entitled ‘Better Starts Here’, which highlights “significant progress” the company has made in terms of its commitment to preserving our environment during the 2014 fiscal year.

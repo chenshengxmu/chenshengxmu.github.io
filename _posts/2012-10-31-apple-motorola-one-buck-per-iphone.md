@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple puts a price tag on Motorola's wireless patents- $1 per iPhone
+title: Apple puts a price tag on Motorolas wireless patents- $1 per iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/Apple-vs-Motorola-lawsuit-image-001.jpg)
 * In a response to Motorola’s motion from yesterday seeking clarification on essential wireless patents (which include both cellular and WiFi standards), Apple has formally acknowledged its willingness to accept a license at a court-determined rate of up to $1 per iPhone through a license agreement on fair, reasonable and non-discriminatory (FRAND) terms.

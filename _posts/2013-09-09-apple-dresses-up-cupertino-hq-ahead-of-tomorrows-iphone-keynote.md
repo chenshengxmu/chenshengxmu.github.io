@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple dresses up Cupertino campus ahead of tomorrow's iPhone keynote
+title: Apple dresses up Cupertino campus ahead of tomorrows iPhone keynote
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/Apple-September-10-iPhone-keynote-Apple-Town-Hall-banners-001.jpg)
 * Ahead of tomorrow’s iPhone keynote, which starts at 10am Pacific / 1pm Eastern, colorful banners have now gone up the facade of Apple’s Town Hall auditorium building in Cupertino, California. Watchful folks could point out that Apple typically holds its high-profile product unveilings at major venues like San Francisco’s Moscone West or Yerba Buena Center for the Arts.

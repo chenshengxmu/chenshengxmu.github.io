@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tip- save power by restricting iPad Pro's ProMotion display refresh rate to 60FPS
+title: Tip- save power by restricting iPad Pros ProMotion display refresh rate to 60FPS
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/WWDC-2017-iPad-Pro-ProMotion-display-slide.jpg)
 * iPad Pro features Apple’s premium ProMotion display technology which doubles the screen refresh rate from 60 to 120 frames per second. It makes iOS interactions and actions like scrolling, playing media and drawing with Apple Pencil more fluid and responsive than before.

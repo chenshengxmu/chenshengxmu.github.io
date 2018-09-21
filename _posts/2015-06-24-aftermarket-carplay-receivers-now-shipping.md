@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kenwood's aftermarket CarPlay receivers now shipping
+title: Kenwoods aftermarket CarPlay receivers now shipping
 ---
 * Kenwood, a Japanese manufacturer of amateur radio,Hi-Fi and portable audio equipment, on Tuesday started shipping its new in-car receivers with CarPlay to car dealers. The new accessories support both Apple’s CarPlay and Google’s Android Auto platform, depending on your preference and connected smartphone.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/Kenwood-DDX9902S-CarPlay-receiver.jpg)

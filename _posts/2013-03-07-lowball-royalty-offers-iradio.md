@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lowball royalty offers said to be causing delay in Apple's streaming music service
+title: Lowball royalty offers said to be causing delay in Apples streaming music service
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/Post-iradio-graphic.jpg)
 * Multiple reports are out this morning, claiming that the reason we haven’t seen Apple’s streaming music service—which was expected to launch as early as Q1 of this year—yet is due to negotiation woes with record labels.

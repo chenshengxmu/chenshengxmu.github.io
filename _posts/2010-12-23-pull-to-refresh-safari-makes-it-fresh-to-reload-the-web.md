@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pull To Refresh Safari' Makes it Fresh to Reload the Web
+title: Pull To Refresh Safari Makes it Fresh to Reload the Web
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/12/Pull-To-Refresh-Safari-02.jpg)
 * Pull To Refresh Safari is the latest jailbreak tweak to appear on the scene that adds Twitter App like refresh functionality to a stock iPhone app; in this case Safari. Not too long ago, Pull To Refresh Mail was released, which added the same unique refreshing capability to the stock Mail app.

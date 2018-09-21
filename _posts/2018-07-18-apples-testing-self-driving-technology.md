@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's beefing up testing of self-driving technology in California
+title: Apples beefing up testing of self-driving technology in California
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/Sirius-App-Update-CarPlay.jpg)
 * Apple has expanded its fleet of vehicles available for self-driving testing in recent months. In California, it now has the third largest fleet. What Apple plans on doing after this testing remains to be seen.

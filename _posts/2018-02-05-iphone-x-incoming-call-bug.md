@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple is investigating iPhone X's incoming call bug
+title: Apple is investigating iPhone Xs incoming call bug
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/iPhone-X-Lock-screen-FaceTime-Audio-call-001.png)
 * Hundreds of iPhone X owners have been complaining recently about an unusual bug that’s causing them to miss incoming calls because the handset’s OLED display won’t wake, preventing the call from being answered.

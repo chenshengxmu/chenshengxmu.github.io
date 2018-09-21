@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Source- Apple's 2018 iPhone event will stream on Twitter for first time [u]
+title: Source- Apples 2018 iPhone event will stream on Twitter for first time [u]
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/iPhone-X-event-1.jpg)
 * Update: It’s official! This year’s event will be held on Wednesday, Sept. 12. 

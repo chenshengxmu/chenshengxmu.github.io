@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NBCUniversal to sell ads in Apple News following iAd's demise
+title: NBCUniversal to sell ads in Apple News following iAds demise
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/ios-10-news-redesign.jpg)
 * As you know, Apple shuttered its in-app iAd advertising network back in the summer because selling ads is “just not something we’re good at”. A new report this morning from Recode revealed that the iPhone maker is leaving the creation, selling and management of ads on its Apple News service to the ad sales teams over at NBCUniversal.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twelve South's HiRise 2 Deluxe dock looks great with the new iPhone 7
+title: Twelve Souths HiRise 2 Deluxe dock looks great with the new iPhone 7
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/TwelveSouth-HiRise-2-Review-6.png)
 * Twelve South is at it again, making great accessories for Apple products. The company’s release of the HiRise 2 and HiRise 2 Deluxe charging docks earlier this month brought forth a redesign with new color options and improved stability for larger devices.

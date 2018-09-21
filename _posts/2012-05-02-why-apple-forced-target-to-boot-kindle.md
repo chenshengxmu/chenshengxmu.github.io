@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Opinion- why Apple forced Target to boot Kindle over "conflict of interest"
+title: Opinion- why Apple forced Target to boot Kindle over conflict of interest
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/amazonkindlefire-adlg1.jpg)
 * As you probably know by now, this morning’s big news has Target dropping Kindle hardware from their retail stores. The story has been officially confirmed by a spokesperson for the nation’s second-largest discount retailer, after Walmart. The resulting finger-pointing, largely centered around Apple and its iPad, is based on an unnamed source mentioning a “conflict of interest” as Apple apparently put the arm on Target…

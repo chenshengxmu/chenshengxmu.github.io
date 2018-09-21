@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Surface Pro teardown- Apple's iPad wins the repair race
+title: Surface Pro teardown- Apples iPad wins the repair race
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/MS-surface-pro.jpg)
 * Microsoft’s one-week old Surface Pro tablet already has some dings in its reputation. The device is more difficult to repair than Apple’s iPad, according to a teardown by iFixit. The Surface Pro makes extensive use of glue to secure everything, including the battery and display, giving Microsoft’s latest tablet a score of just one out of ten for repairability. And repairs could become common, given simply using the Surface Pro could be harmful to the hardware…

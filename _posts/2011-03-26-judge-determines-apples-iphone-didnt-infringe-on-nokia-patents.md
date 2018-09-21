@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Judge Determines Apple's iPhone Didn't Infringe on Nokia Patents
+title: Judge Determines Apples iPhone Didnt Infringe on Nokia Patents
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/03/Apple-vs-Nokia.jpg)
 * It seems like everyone is suing each other in the tech world these days, particularly those in the mobile phone business. In case you haven’t been keeping up with the latest in tech lawsuits, Apple and Nokia are suing each other over patent issues in the U.S. and Europe.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Classic RPG 'Dragon Quest IV' lands in the App Store
+title: Classic RPG Dragon Quest IV lands in the App Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/dragon-quest-2.png)
 * Fans of the classic RPG ‘Dragon Quest IV’ will be happy to hear that Square Enix has delivered on its promise to launch an English version of the game. After spending several months in Japan, the title is now available in the US App Store.

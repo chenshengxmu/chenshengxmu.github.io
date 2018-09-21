@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple promotes Amazon's Prime Video Apple TV app with paid tweets, tvOS splash screen
+title: Apple promotes Amazons Prime Video Apple TV app with paid tweets, tvOS splash screen
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/tvOS-11.2-splash-screen.jpg)
 * Following its arrival on tvOS App Store earlier this week, Apple in a pretty unusual move has since been advertising immediate availability of Amazon’s long-expected Prime Video app for Apple TV with promoted tweets on Twitter, AppleInsider noted Friday.

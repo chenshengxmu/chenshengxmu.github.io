@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EU scrutinizing Apple's 'unusually strict' iPhone contracts with carrier
+title: EU scrutinizing Apples unusually strict iPhone contracts with carrier
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iPhone-5-introduction-video-white-perspective-001.jpg)
 * The cost of selling the iPhone is anything but cheap – just ask Sprint. Because Apple makes the iconic smartphone which helps sell pricey wireless contracts, carriers typically agree to Apple’s way of doing biz that entail committing to large-volume iPhone purchases costing billions of dollars in upfront payments.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone chips infringe University of Wisconsin's tech, Apple faces $862M in damages
+title: iPhone chips infringe University of Wisconsins tech, Apple faces $862M in damages
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/11/Apple-A8X-image-001.jpg)
 * The Apple-designed, TSMC/Samsung-manufactured A7, A8 and A8X mobile chips that power the iPhone, iPod touch and iPad devices released since 2013 have been found to infringe technology patents owned by the University of Wisconsin Alumni Research Foundation (WARF).

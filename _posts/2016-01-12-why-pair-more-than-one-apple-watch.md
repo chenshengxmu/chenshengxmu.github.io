@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why pair more than one Apple Watch to a single iPhone? Here's why...
+title: Why pair more than one Apple Watch to a single iPhone? Heres why...
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/Pair-multiple-Apple-Watch-why.jpg)
 * I’ve seen so many comments questioning the reason behind Apple allowing more than one Apple Watch to be paired with a single iPhone. Some people think it’s silly to have more than one Apple Watch, while others genuinely seem to be confused by the decision.

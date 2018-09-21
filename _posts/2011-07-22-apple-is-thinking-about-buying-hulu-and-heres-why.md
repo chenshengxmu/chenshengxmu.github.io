@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple is Thinking About Buying Hulu, And Here's Why
+title: Apple is Thinking About Buying Hulu, And Heres Why
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/07/hulu-plus-iphone-demo-e1311311464675.jpeg)
 * According to Bloomberg, Apple is considering making a bid on the popular streaming service, Hulu. This acquisition would give Apple Hulu’s large subscription base and video streaming service to rival other competitors, like Netflix.

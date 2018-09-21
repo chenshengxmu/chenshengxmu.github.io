@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple airs new holiday commercial "The Song"
+title: Apple airs new holiday commercial The Song
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/the-song.png)
 * Apple today began airing a new holiday-themed commercial entitled “The Song.” The spot showcases products from all of the company’s major device lines, including a MacBook Air, iPhone and iPad, and how they can be used to create “thoughtful, emotional gifts.”

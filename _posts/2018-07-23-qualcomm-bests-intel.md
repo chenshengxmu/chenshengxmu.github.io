@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Qualcomm celebrates 'superior cellular performance' of Android phones
+title: Qualcomm celebrates superior cellular performance of Android phones
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/qualcomm-x20.jpg)
 * Qualcomm on Monday is celebrating recently announced Ookla download speed tests that pit its Snapdragon 845 against the Intel XMM 7480. The former is found on high-end Android phones such as the Samsung Galaxy S9, while the latter is on the Apple iPhone X, among others devices.

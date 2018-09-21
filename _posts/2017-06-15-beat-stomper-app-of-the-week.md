@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's free app of the week- Beat Stomper
+title: Apples free app of the week- Beat Stomper
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/beat.png)
 * Apple on Thursday updated its App of the Week promotion with the game Beat Stomper. For the next 7 days, you can pick up the music-based vertical jumper for free on both iPhone and iPad—a solid savings of $2.

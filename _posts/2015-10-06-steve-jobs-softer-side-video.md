@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unseen video shows 'softer side' of Steve Jobs
+title: Unseen video shows softer side of Steve Jobs
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/10/Steve-Jobs-internal-video-4th-anniversary-image-001.jpg)
 * It is no secret that Apple executives aren’t thrilled by existing and upcoming Steve Jobs movies. The latest example: Steve’s widow Lauren Powell Jobs apparently “tried to kill” the upcoming Hollywood biopic by Sony Pictures (according to the Wall Street Journal, she tried to cease production on the Aaron Sorkin script multiple times).

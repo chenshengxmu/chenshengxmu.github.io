@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Servers Start Stabilizing, Should Be Safe to Update to iOS 5
+title: Apples Servers Start Stabilizing, Should Be Safe to Update to iOS 5
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/overview_hero-e1318378369992.png)
 * If you were one of the many people that tried to update to iOS 5 yesterday, you probably ran into a few problems. Apple updated and released an incredible amount of software yesterday, and the company’s servers couldn’t handle the heavy traffic.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft- We've Had Siri for Over a Year!
+title: Microsoft- Weve Had Siri for Over a Year!
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/4S-5173_575px-e1322084550252.jpg)
 * Since Apple unveiled the iPhone 4S last month, everyone has been talking about one thing: Siri. The lovable assistant is the product of over 40 years of artificial intelligence research and the US CALO program (Cognitive Assistant that Learns and Organizes).

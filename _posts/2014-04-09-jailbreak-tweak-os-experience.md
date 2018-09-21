@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Upcoming jailbreak tweak 'OS Experience' promises to bring true multitasking to iPad
+title: Upcoming jailbreak tweak OS Experience promises to bring true multitasking to iPad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/os-experience.jpg)
 * We noted on the most recent episode of our podcast Let’s Talk Jailbreak that it’s an exciting time for jailbreakers right now. It seems like every few weeks we have a major new tweak coming out—Auxo 2, ProWidgets, IntelliScreenX 7—and today we have a another one to add to the list.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nest launches sleeker thermostat, CEO says he'd never compete with Apple
+title: Nest launches sleeker thermostat, CEO says hed never compete with Apple
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/Nest-2.0-image-001.jpg)
 * We covered the sexy Nest Learning Thermostat before , with Jeff saying calling it “the thermostat that Cupertino would have created if they were into that sort of thing”. Today, the company took the wraps off a new version of the Nest thermostat which has been re-engineered for smaller footprint and now looks even more futuristic. Also, company founder Tony Fadell, a former Apple engineer who worked on the iPhone and iPod projects, explains why he doesn’t plan on competing with Apple, despite hiring former Apple engineers on his 130-people team…

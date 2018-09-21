@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's been secretly developing non-invasive sensors to monitor blood sugar levels
+title: Apples been secretly developing non-invasive sensors to monitor blood sugar levels
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/apps-for-diabetics.jpg)
 * Apple’s hired a small group of dedicated biomedical engineers who have been tasked with the development of advanced sensors that would monitor blood sugar levels non-invasively, an effort described as a holy grail for treating diabetes and life sciences. The initiative was reportedly initially envisioned by Apple’s late co-founder Steve Jobs before his death. According to CNBC, this team is working from a nondescript office in Palo Alto, miles from Apple’s corporate headquarters, reporting directly to Johny Srouji, Senior Vice President of Hardware Technologies who joined Apple back in 2008.

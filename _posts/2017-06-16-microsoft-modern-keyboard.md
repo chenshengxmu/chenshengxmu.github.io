@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft's new Modern Keyboard is the Touch ID-enabled keyboard we wish Apple had made
+title: Microsofts new Modern Keyboard is the Touch ID-enabled keyboard we wish Apple had made
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/Microsoft-Modern-KEyboard-hiddeng-finferprint-sensor-e1497629817694.jpg)
 * Windows giant Microsoft today unveiled a nicely designed wireless keyboard with a built-in fingerprint sensor located between the Alt and Ctrl keys, as reported by Engadget.

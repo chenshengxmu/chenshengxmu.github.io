@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple stores in London gearing up for Olympic "onslaught"
+title: Apple stores in London gearing up for Olympic onslaught
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/Apple-Store-Covent-Garden-London-UK-exterior-001.jpg)
 * Apple’s retail stores in London are gearing up for the Olympics as the company is reportedly stocking them with iOS gadgets, as well as international replacement MacBook Pro, MacBook Air and MacBook keyboards.

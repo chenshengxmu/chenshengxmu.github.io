@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Puts Another Nail in the iPod Classic's Coffin
+title: Apple Puts Another Nail in the iPod Classics Coffin
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/image1_20100901-e1317406746661.jpg)
 * Apple quietly removed its click wheel games category from the iTunes App Store this morning. Multiple sources have already said that Apple is getting ready to kill the iPod Classic and the iPod Shuffle, so this move doesn’t come as a surprise.

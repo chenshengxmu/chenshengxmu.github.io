@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FTC drags AT&T to court over 'deceptive and unfair' throttling of unlimited data users
+title: FTC drags AT&T to court over deceptive and unfair throttling of unlimited data users
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/ATT-Chicago-store-interior-001.jpg)
 * It’s sad that we’ve grown accustomed to greedy carriers and their unlimited data deals. Not only does unlimited service typically come with lots of strings attached, carriers have dumb excuses ready once folks realize their data speeds are being throttled.

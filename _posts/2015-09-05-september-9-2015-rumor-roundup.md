@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What we can expect from Apple's September 9 event
+title: What we can expect from Apples September 9 event
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/08/Apple-September-2015-event-invite-graphics-e1441446944295.jpg)
 * As it has done for the past few years, Apple is gearing up for a major media event this month. In late August, the company sent out invitations for an event taking place on Wednesday, September 9, at the Bill Graham Civic Auditorium in San Francisco.

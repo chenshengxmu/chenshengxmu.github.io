@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Simplify your Compass app's user interface with sleekCompassView
+title: Simplify your Compass apps user interface with sleekCompassView
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/sleekCompassView-before-and-after.jpg)
 * The Compass app might be one of the most under-appreciated stock apps on an iPhone, but it can be exciting to use if you’re hiking and don’t want a map to spoil all the fun. Nevertheless, the app has a somewhat over-developed user interface.

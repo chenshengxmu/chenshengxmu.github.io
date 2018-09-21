@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS remains developers' first choice, report shows
+title: iOS remains developers first choice, report shows
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/iOS-7-WWDC-2013-logo-mockup-e1368048909125.png)
 * Despite all the chatter about Android and other smartphone platforms trying to entice developer, when it comes to picking their first choice, developers opt for iOS. In addition, 27 percent of developers chose the iPad as their second priority compared to a fifth for Android tablets. The survey by researcher Forrester shows that while Android has the numerical lead, when it comes to developer unveiling a mobile product, iOS is considered first…

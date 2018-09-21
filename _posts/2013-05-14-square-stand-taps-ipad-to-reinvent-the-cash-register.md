@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Square's stylish Stand accessory taps iPad to reinvent the cash register
+title: Squares stylish Stand accessory taps iPad to reinvent the cash register
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/Square-Stand-teaser-001.jpg)
 * Twitter co-founder Jack Dorsey’s other startup, the payment service Square, today announced an interesting hardware dubbed the Square Stand. The all-white stylish accessory lets merchants run their business from an iPad and requires the Square Register iPad app to process payments. The Stand shouldn’t be confused with the Business in a Box, Square’s $299 (and up) bundle that incorporates an uglier iPad stand, cash drawer and an optional receipt printer…

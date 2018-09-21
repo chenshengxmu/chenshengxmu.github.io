@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why isn't Apple allowing pre-orders for the iPhone 5s?
+title: Why isnt Apple allowing pre-orders for the iPhone 5s?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/Gold-iPhone-5s-top-of-the-screen.png)
 * In just about 4 hours, retailers around the globe will begin taking online pre-orders for the new iPhone 5c. And from then until Monday afternoon, tech watchers will be holding vigilant for any kind of word from Apple confirming the handset’s success.

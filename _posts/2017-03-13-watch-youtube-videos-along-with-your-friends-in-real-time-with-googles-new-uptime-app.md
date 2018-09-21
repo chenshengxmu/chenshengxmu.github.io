@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Watch YouTube videos along with your friends in real time with Google's new Uptime app
+title: Watch YouTube videos along with your friends in real time with Googles new Uptime app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/03/Uptime-1.0-for-iOS-teaser-001.jpg)
 * Google today released a new iPhone app designed to let users watch YouTube videos in real-time along with their friends. Called Uptime, the free of charge download is exclusive to iOS and requires an iPhone, iPad or iPod touch with iOS 10.0 or later. The app lets you interact and chat with friends while watching videos, share and curate your favorite clips, get daily video recommendations from friends and people you follow and more.

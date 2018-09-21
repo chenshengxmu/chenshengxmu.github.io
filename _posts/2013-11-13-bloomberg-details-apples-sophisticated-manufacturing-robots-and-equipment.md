@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bloomberg details Apple's sophisticated robots and production machinery
+title: Bloomberg details Apples sophisticated robots and production machinery
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/iPhone-5c-Manufacturing-001.jpg)
 * ‘Gadgets that build gadgets’ should have been the headline of the Bloomberg piece which details Apple’s multi-billion dollar investments in custom-engineered manufacturing equipment, machines and robots which dutifully churn out your shiny new iPads and iPhones with their diamond-cut chamfered edges, precision crafted down to the micron.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to quickly access Emoji characters via the iPhone's stock keyboard
+title: How to quickly access Emoji characters via the iPhones stock keyboard
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/QuickEmoji1.jpg)
 * QuickEmoji is a brand new jailbreak tweak that allows you to quickly access Emoji characters using the stock iOS keyboard. Normally, you’d have to switch to a dedicated Emoji keyboard to use Emoji characters, but this tweak takes on a more practical approach.

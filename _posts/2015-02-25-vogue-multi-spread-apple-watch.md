@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Check out cool Apple Watch print and video ad in Vogue's March issue
+title: Check out cool Apple Watch print and video ad in Vogues March issue
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/Vogue-March-2015-Apple-Watch-ad-001.jpg)
 * Looks like Apple’s marketing department has chalked up another win as the widely respected Vogue just gave the Apple Watch serious exposure.

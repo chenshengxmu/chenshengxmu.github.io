@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to replace the Do Not Disturb icon with today's moon phase
+title: How to replace the Do Not Disturb icon with todays moon phase
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/07/Do-Not-Phase.png)
 * Interested in having a waxing crescent in your status bar instead of the standard Do Not Disturb moon icon? A new jailbreak package will allow you to theme the DND icon with the current moon phase.

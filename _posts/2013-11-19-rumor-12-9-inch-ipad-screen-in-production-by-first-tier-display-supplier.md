@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rumor- 12.9-inch iPad screen in production by 'first tier display supplier'
+title: Rumor- 12.9-inch iPad screen in production by first tier display supplier
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/12_9_ipad_ipad_4_mini_light-800x450.jpg)
 * We’ve heard some rumblings about a 12.9-inch iPad before and now The Korea Times reports Apple is moving to release a bigger iPad some time in 2014 as a “first tier display supplier” has reportedly kicked off mass manufacture of the panels. Apple will introduce a 12.9-inch iPad “early next year,” the report claims.

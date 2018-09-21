@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple confirms it's buying Shazam- “We have exciting plans in store”
+title: Apple confirms its buying Shazam- “We have exciting plans in store”
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/Shazam-for-iPhone-teaser.jpg)
 * Apple on Monday formally announced that it is acquiring the popular music recognition service Shazam, which Siri has been using since iOS 8 to identify songs playing around you.

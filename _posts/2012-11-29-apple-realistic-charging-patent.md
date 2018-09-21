@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple researching 'realistic' wireless charging methods
+title: Apple researching realistic wireless charging methods
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/07/072911_vk_iphoneNFC.jpg)
 * Apple has filed for a patent to solve one of mankind’s most troubling questions: how do I recharge my iPad with this annoyingly-short power cord? In the application, the company suggests a ‘realistic’ way to wirelessly recharge your iDevice via near-field resonance. While near-field technology is more often used to grab data off your credit card at the grocery store, Apple sees the technology as a way to cut the cord between your laptop, iPad or iPhone and a wall charger, the way your mouse was set free years prior…

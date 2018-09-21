@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New iSpaceship video touts 'the most energy-efficient building of its kind'
+title: New iSpaceship video touts the most energy-efficient building of its kind
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/iSpaceship-new-renders-023.jpg)
 * In addition to a press tour of its upcoming data center and solar array installation in the Nevada desert, a nicely done ‘Better’ video narrated by Tim Cook and fresh updates on its Environmental Responsibility microsite, Apple in advance of Earth Day 2014 also posted an overview video of its monstrous Campus 2 project, affectionally dubbed by the press the iSpaceship.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's Talk iOS 189- WWDC fantasy draft 2017
+title: Lets Talk iOS 189- WWDC fantasy draft 2017
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/Lets-Talk-iOS-banner.png)
 * For the first annual WWDC fantasy draft, Cody and Sebastien pick their favorite rumors and predictions for what we might see at Apple’s big developer event in June. Make your own picks and follow along as the two co-hosts explain their choices and battle for the title.

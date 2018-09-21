@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Square reportedly in talks to sell after growing losses, held 'informal talks' with Apple
+title: Square reportedly in talks to sell after growing losses, held informal talks with Apple
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/square_signinghands110420142054.jpg)
 * Mobile payments startup Square is looking to sell its business, following growing losses and shrinking cash reserves, according to the Wall Street Journal.

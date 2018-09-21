@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's Lens visual search feature is coming soon to Google Photos for iOS
+title: Googles Lens visual search feature is coming soon to Google Photos for iOS
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/03/Google-Lens-Photos-app-Android.png)
 * Google said on Twitter this morning its machine learning-powered visual search tool, called Lens, is coming soon to its image-management app for iPhone and iPad, Google Photos.

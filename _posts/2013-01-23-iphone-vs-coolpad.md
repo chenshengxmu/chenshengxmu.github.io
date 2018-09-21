@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Another reason for budget iPhone- China's tiny Coolpad outselling Apple
+title: Another reason for budget iPhone- Chinas tiny Coolpad outselling Apple
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/Yulong-CoolPad-N900.jpg)
 * Those encouraging Apple to introduce a less-pricey iPhone to compete against Android in places such as China have even more ammunition.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ikea and Apple building AR app that'll let you try out virtual furniture at home
+title: Ikea and Apple building AR app thatll let you try out virtual furniture at home
 ---
 * Ikea is co-building a new augmented reality app together with Apple that will allow customers to try out virtual furniture at home, and then buy it.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/WWDC-2017-ARkit.jpg)

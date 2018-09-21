@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's designers come up with ideas around a kitchen table
+title: Apples designers come up with ideas around a kitchen table
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/Apple-recruiter-video-Apple-Desing-Lab-sign.jpg)
 * Apple may be unlike other companies in many regards, but when it comes to thinking stuff up, its designers gather around good ol’ kitchen table to come up with bright new ideas. I’m not making this up, this little nugget was just revealed in a testimony by a member of Apple’s design team during the afternoon hearing in the Apple vs. Samsung mega-lawsuit….

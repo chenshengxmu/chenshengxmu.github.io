@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Download To Newsstand' makes it easier to identify pending downloads
+title: Download To Newsstand makes it easier to identify pending downloads
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/Download-To-Newsstand.jpg)
 * It’s always great to open up the App Store and find a dozen new app updates waiting for download, but downloading so many items at once presents a small issue. If you’re like me and you have a ton of apps scattered around four or five pages in multiple folders, then it can be tedious to locate each app to check its download progress.

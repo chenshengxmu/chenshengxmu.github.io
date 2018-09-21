@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft Donates to Geohot's Cause Against Sony
+title: Microsoft Donates to Geohots Cause Against Sony
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/02/Geohot-Money-Signs.png)
 * Take that Apple! Microsoft has allegedly donated money to the famous iPhone hacker Geohot for his legal battle against Sony. In case you didn’t know by now, George “Geohot” Hotz is in a legal skirmish with Sony because he jailbroke the PS3.

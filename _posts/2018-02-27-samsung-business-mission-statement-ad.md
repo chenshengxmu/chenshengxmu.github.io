@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Watch Samsung's mission statement ad aimed at businesses
+title: Watch Samsungs mission statement ad aimed at businesses
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/02/Samsung-business-ad-do-what-you-cant.jpg)
 * A month and a half following its nicely done brand philosophy ad which communicated the message that “Do What You Can’t” isn’t just a marketing slogan, Samsung has now created a similarly-themed video meant to raise its profile among big business customers.

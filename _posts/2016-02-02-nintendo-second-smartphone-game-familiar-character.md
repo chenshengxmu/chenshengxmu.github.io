@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nintendo- company's second mobile game will focus on a "familiar" character
+title: Nintendo- companys second mobile game will focus on a familiar character
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/02/nintendo-iphone-games.png)
 * Following the continued decline in popularity of Nintendo’s game consoles and portable gaming systems, the Japan-based game maker has been forced to make the tough financial decision of developing for smartphones and tablets despite never wanting to in the first place.

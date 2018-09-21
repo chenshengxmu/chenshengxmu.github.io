@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is the iPod Touch For People Who Don't Want an iPhone?
+title: Is the iPod Touch For People Who Dont Want an iPhone?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/09/10ipodtouch_hero_full.jpg)
 * Apple’s event today wasn’t filled with too many surprises. The iPod Touch was beefed up in features that included many of the predicted and leaked abilities that were floating around. Mimicking nearly all of the features of the iPhone 4 makes me wonder now more than ever if the Touch is specifically designed for those who don’t want an iPhone.

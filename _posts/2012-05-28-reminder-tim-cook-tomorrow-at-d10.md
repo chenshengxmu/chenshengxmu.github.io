@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What to expect from tomorrow's Tim Cook talk at D10- All Things Digital
+title: What to expect from tomorrows Tim Cook talk at D10- All Things Digital
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Apple-event-20120307-iPAd-3-unveiling-Tim-Cook-colorful-background-Apple-logo.jpg)
 * As announced last month, Apple’s head honcho Tim Cook will kick off the Wall Street Journal’s annual technology conference, better known under the D: All Things Digital moniker.

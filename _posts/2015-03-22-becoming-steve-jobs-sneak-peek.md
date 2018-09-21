@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iBooks is offering exclusive sneak peek from upcoming 'Becoming Steve Jobs' biography
+title: iBooks is offering exclusive sneak peek from upcoming Becoming Steve Jobs biography
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/Becoming-Steve-Jobs-free-sample-on-iBooks-Store-teaser-001.jpg)
 * The new Steve Jobs biography by Brent Schlender and Rick Tetzeli is launching on iBooks this Tuesday and Apple is now offering an exclusive sneak peek into the prologue and first chapter, including Schlender’s first interview with Jobs when he moved to NeXT, as noted yesterday be the official iBooks Store account on Twitter.

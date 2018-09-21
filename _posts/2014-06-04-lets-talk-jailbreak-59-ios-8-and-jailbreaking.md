@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's Talk Jailbreak 59- iOS 8 and jailbreaking
+title: Lets Talk Jailbreak 59- iOS 8 and jailbreaking
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/Lets_Talk_Jailbreak_Podcast.png)
 * Episode 59: A discussion about the jailbreak tweaks implemented into iOS 8, the potential of an iOS 8 jailbreak, and the future of jailbreaking after iOS 8. We also round up some of our favorite features from iOS 8 with a jailbreaking perspective.

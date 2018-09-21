@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Poll- what's more important to you - screen size or battery life?
+title: Poll- whats more important to you - screen size or battery life?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/galaxy-s5-iphone-5s.png)
 * Pundits and fans are in agreement that a bigger screen will be the #1 selling point of Apple’s forthcoming iPhone 6 refresh. With two models in tow, one with a 4.7-inch screen and the other using a phablet-class 5.5-inch display, the iconic smartphone will for the first time go comfortably past four inches.

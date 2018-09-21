@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dell's new and affordable 4K displays suggest Retina iMac is edging closer
+title: Dells new and affordable 4K displays suggest Retina iMac is edging closer
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/dell-up2414q-hero.jpg)
 * Three and a half years ago, Apple released the iPhone 4 which introduced the world to the then-new Retina display.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple posts new video- 'Making a difference. One app at a time.'
+title: Apple posts new video- Making a difference. One app at a time.
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/apps-making-a-difference.png)
 * Apple has posted a new, lengthy video to the iOS section of its website today. The 10-minute clip is called ‘Making a difference. One app at a time.’ and it highlights how folks around the globe are using apps on Apple’s mobile products.

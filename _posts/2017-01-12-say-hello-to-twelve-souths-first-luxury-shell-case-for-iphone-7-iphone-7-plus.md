@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Say hello to Twelve South's first luxury shell case for iPhone 7 & iPhone 7 Plus
+title: Say hello to Twelve Souths first luxury shell case for iPhone 7 & iPhone 7 Plus
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/01/Twelve-South-RelaxedLeather-for-iPhone-7-image-002.jpg)
 * It’s certainly been a busy start to 2017 for premium accessory maker Twelve South, which today launched its first ever shell case for iPhone 7 and iPhone 7 Plus. Aptly named RelaxedLeather, it’s hand-burnished along the edges and corners so that it ages naturally with time, giving it unique look and feel.

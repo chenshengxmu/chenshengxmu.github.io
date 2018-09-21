@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FiLMiC Pro can now shoot in iOS 11's new HEVC format
+title: FiLMiC Pro can now shoot in iOS 11s new HEVC format
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/FiLMiC_Pro_6_3_for_iOS_HEVC_setting.jpg)
 * FiLMiC Pro, the best video recording software on iOS used by filmmakers and pros, was updated on App Store with the ability to shoot in High Efficiency Video Coding (also known as H.265), a video compression standard supported in iOS 11 and macOS High Sierra.

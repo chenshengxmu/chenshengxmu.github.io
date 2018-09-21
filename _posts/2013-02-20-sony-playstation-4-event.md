@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sony "unveils" its next-generation gaming console, the PlayStation 4
+title: Sony unveils its next-generation gaming console, the PlayStation 4
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/ps4.jpeg)
 * After months of teaser videos, and years of speculation, Sony has just unveiled its next-generation gaming console, the Playstation 4, at its “See the Future” event in New York City.  That’s right, it’s supercharged, it’s intuitive, it’s social, and it’s finally here.

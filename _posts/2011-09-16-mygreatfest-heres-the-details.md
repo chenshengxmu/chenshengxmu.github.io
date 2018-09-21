@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MyGreatFest, the World's First Jailbreak Convention, Starts Tomorrow - Here's the Details
+title: MyGreatFest, the Worlds First Jailbreak Convention, Starts Tomorrow - Heres the Details
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/MyGreatFest-e1316194575900.png)
 * We originally told you about MyGreatFest, the world’s first jailbreak convention, earlier this year. We watched the convention progress from a dream to reality, with speakers like Saurik, P0sixninja, and other great minds from the jailbreak community slated to give presentations.

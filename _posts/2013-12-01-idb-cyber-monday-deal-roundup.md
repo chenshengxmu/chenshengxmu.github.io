@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iDB's Cyber Monday Deals Roundup
+title: iDBs Cyber Monday Deals Roundup
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/cyber-monday.png)
 * Folks who chose to skip all of the Black Friday mayhem this weekend will be happy to hear that a new wave of deals on apps, consumer electronics and other products are on the way. And there’s no crowd-fighting or line-waiting required.

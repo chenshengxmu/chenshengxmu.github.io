@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple hiring 'Buzz Marketing Manager' to beef up its presence in Hollywood
+title: Apple hiring Buzz Marketing Manager to beef up its presence in Hollywood
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/lawabidingcitizen_mac2.png)
 * Historically, Apple has spent far less than Samsung and other competitors on stuff like marketing and advertising. Things like product placements and celebrity endorsements came easily for devices like the iPhone and iPad, due to their initial popularity and slight competition.

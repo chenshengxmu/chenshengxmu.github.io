@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone could be hit by Trump's next round of tariffs aimed at China
+title: iPhone could be hit by Trumps next round of tariffs aimed at China
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/06/tim-cook-china.jpg)
 * By assembling iPhones in China, Apple has been able to tap into the country’s vast workforce and massive manufacturing capabilities. In doing so, the company’s most profitable product is also considered an export. That distinction could soon place iPhone in the center of the ever-growing U.S.-China trade fight, according to The Wall Street Journal.

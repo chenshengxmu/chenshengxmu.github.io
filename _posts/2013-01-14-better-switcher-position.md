@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Better Switcher Position' aims to create a better app switcher
+title: Better Switcher Position aims to create a better app switcher
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/BetterSwitcherPosition.png)
 * Better Switcher Position is a simple jailbreak tweak that switches the position of the rotation lock button and the music button found in the app switcher. The idea behind the tweaks is that it more closely aligns the volume control slider found in the app switcher, with the music button.

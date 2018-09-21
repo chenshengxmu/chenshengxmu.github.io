@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mpow 3 in 1 Clip-On is a low-priced iPhone photographer's tool kit
+title: Mpow 3 in 1 Clip-On is a low-priced iPhone photographers tool kit
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/07/Mpow-3-in-1-Clip-On-iPhone-lens-kit.jpg)
 * If you fancy yourself an iPhone photographer, you’ve probably got an arsenal of apps to make your images stand out. You can add even more dimensions to your raw photos using special smartphone lenses.

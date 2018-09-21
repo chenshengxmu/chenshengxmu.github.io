@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yahoo wants to be Apple's default iOS search engine, prepares to sway execs
+title: Yahoo wants to be Apples default iOS search engine, prepares to sway execs
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/marissa-mayer-its-treason-for-yahoo-to-disobey-the-nsa.jpg)
 * Yahoo wants to increase its presence on mobile by convincing Apple to ditch Google for Yahoo as the default search service on  iOS devices, according to Recode.

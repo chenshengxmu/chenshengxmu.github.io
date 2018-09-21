@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's next-gen Mac Pro ad hits YouTube ahead of Fall release
+title: Apples next-gen Mac Pro ad hits YouTube ahead of Fall release
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/Mac-Pro-2013-model-two-up-front-back.jpg)
 * As Apple engineers scramble to finalize the next-generation Mac Pro for US-based assembly, the company’s marketing department has been increasingly teasing and hyping the dream machine ahead of its Fall launch. Moviegoers who’d gone out to see the new Jobs biopic last weekend, or any other movie for that matter, spotted a Mac Pro video.

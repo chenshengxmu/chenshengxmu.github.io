@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Changes to Apple's TSS servers currently render Prometheus non functional
+title: Changes to Apples TSS servers currently render Prometheus non functional
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/12/prometheus-down-header.png)
 * Update: tihmstar has stated that the tool is working perfectly, and that he has used it successfully multiple times today. However, some users have been encountering a TSS server error when using the tool nonetheless.

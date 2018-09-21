@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twitter and Twitterrific apps now play nice with iOS 11's Smart Invert mode
+title: Twitter and Twitterrific apps now play nice with iOS 11s Smart Invert mode
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/Twitterrific-Smart-Invert-iPad-image-001.jpg)
 * iOS 11’s Smart Invert, which reverts the colors of the display while attempting to leave the colors of images and media intact, has been gaining some much-needed support from popular apps.

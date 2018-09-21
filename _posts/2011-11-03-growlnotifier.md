@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Forward Push Notifications to Your Mac or PC Using 'GrowlNotifier'
+title: How to Forward Push Notifications to Your Mac or PC Using GrowlNotifier
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/GrowlNotifier.png)
 * Wouldn’t it be awesome if you could forward all of your iPhone’s push notifications to your Mac or PC? Well now you can, if your iDevice is jailbroken.

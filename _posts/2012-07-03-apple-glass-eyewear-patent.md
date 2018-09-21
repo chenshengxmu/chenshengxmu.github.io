@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is Apple readying answer to Google's augmented reality head-mounted display?
+title: Is Apple readying answer to Googles augmented reality head-mounted display?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/Apple-Glass-patent-drawing-002.png)
 * Wearable computing is coming your way in a big way and will be here to stay, or so would Google have us believe. You must have seen a spectacular demo of the search giant’s Minority Report-like wearable computer glasses (if not, I urge you to see the clip right after the break).

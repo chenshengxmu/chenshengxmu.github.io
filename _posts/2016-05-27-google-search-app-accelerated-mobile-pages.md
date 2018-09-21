@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's iOS app gains Accelerated Mobile Pages, sports highlight videos in Now cards
+title: Googles iOS app gains Accelerated Mobile Pages, sports highlight videos in Now cards
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/10/Google-app-icon-small.png)
 * Google’s native Search application for the iPhone, iPod touch and iPad this morning received a newsworthy update in the App Store, gaining faster browsing with support for Accelerated Mobile Pages from major publishers and another feature which allows you to instantly watch sports highlight videos in Now cards.

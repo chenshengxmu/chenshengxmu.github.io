@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Android Users Still Don't Get It
+title: Android Users Still Dont Get It
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/android.png)
 * For years, skeptics have viewed Apple enthusiasts in a prejudice light. Dubbed “fan boys,” this herd of sheep would throw down money for any product bearing the fruit-shaped logo, and would defend the company to the death if necessary.

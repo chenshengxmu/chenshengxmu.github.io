@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Find Out Which Apps You Don't Use with App Stat
+title: Find Out Which Apps You Dont Use with App Stat
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/app-stat-cydia.png)
 * It’s the beginning of April, and spring has begun. While everyone is doing their usual spring cleaning, the urge to tidy up your iPhone may arise. If your home screen is cluttered and you can’t seem to ever find what you’re looking for, it’s definitely time for you to delete some apps.

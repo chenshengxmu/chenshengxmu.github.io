@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A look at TwitkaFly's new Facebook plugin
+title: A look at TwitkaFlys new Facebook plugin
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/TwitkaFly-Facebook-Plugin-Screenshot.jpg)
 * Earlier today I had the opportunity to spend some time with the new Facebook plugin for TwitkaFly — the popular jailbreak tweak available on Cydia.

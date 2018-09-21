@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Universal Search can now search across 1.3 million TV episodes and movies
+title: Apples Universal Search can now search across 1.3 million TV episodes and movies
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/Apple-TV-4K-Amazon-Prime-Video-Marvelous-Mrs-Maisel.jpg)
 * A side-note in Apple’s press release announcing today’s arrival of Amazon’s long expected Prime Video app for Apple TV states that tvOS’s Universal Search feature now lets you search 1.3 million TV episodes and movies on your Apple TV.

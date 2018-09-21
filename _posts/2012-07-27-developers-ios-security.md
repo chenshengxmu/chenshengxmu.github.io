@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Relying on Apple for security could be developers' biggest mistake
+title: Relying on Apple for security could be developers biggest mistake
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/08/apple-security2.jpg)
 * When it comes to security, Apple has gone to great lengths to make its iOS platform much less prone to exploits and has engineered measures such as sandboxed environment, protected app space and even encrypting every single file created on the iPhone with its own encryption key wrapped in the user’s passcode.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's Talk iOS 019- Discussing iOS 7.1
+title: Lets Talk iOS 019- Discussing iOS 7.1
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/Lets-Talk-iOS-podcast-cover-no-matrix-effect.png)
 * Episode 19: On this week’s episode we discuss the release of iOS 7.1, the head-turning traditional iWatch concept, rumors of Apple opening up Siri to third-party developers, the official iDB ultimate Siri guide, plus we tell you how to backup and restore SMS Messages on a clean iOS install.

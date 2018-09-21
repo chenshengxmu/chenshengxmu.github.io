@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What if Apple isn't building a TV set?
+title: What if Apple isnt building a TV set?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/itv1.jpg)
 * Fortune ran an interesting article last night entitled “Tell me again. Why we think Apple will make a TV set?” The piece outlines the sketchy details surrounding one of the most anticipated, unannounced consumer products in recent memory: the Apple TV set.

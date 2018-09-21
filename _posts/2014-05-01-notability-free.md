@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notability for iOS drops to $0 for the first time ever as Apple's new Free App of the Week
+title: Notability for iOS drops to $0 for the first time ever as Apples new Free App of the Week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/Notability-5.21-for-iOS-iPhone-screenshot-001.jpeg)
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/Notability-5.21-for-iOS-iPhone-screenshot-002.jpeg)

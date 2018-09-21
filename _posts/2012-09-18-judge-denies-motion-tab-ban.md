@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Judge denies Samsung's motion to dissolve Galaxy Tab ban
+title: Judge denies Samsungs motion to dissolve Galaxy Tab ban
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/samsung-galaxy-tab-101-1.jpeg)
 * US District Court Judge Lucy Koh denied Samsung’s motion to lift the injunction on its Galaxy Tab 10.1 last night. The decision comes in response to Samsung’s August 27 request to dissolve the sales ban against its tablet.

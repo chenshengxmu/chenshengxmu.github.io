@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Infinity Blade II goes free as App Store's latest Free App of the Week
+title: Infinity Blade II goes free as App Stores latest Free App of the Week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/Infinity-Blade-II-1.3.2-for-iOS-App-Store-of-the-Week-banner.jpg)
 * Chair Entertainment’s Infinity Blade III is still on sale following the massive ‘Blade Masters’ update and now its predecessor, Infinity Blade II, has been slashed to zero bucks, courtesy of Apple’s ongoing Free App of the Week promotion (last week’s free app: Fun Golf GPS 3D).

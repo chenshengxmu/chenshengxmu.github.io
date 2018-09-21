@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's new A8 chip- 20% faster CPU, 50% faster graphics
+title: Apples new A8 chip- 20% faster CPU, 50% faster graphics
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/iPhone-6-processor-performance.png)
 * Apple’s new iPhones — the iPhone 6 and iPhone 6 Plus — come outfitted with Apple’s in-house designed A8 system-on-a-chip which has an astounding two billion transistors, twice as many as its predecessor, the A7.

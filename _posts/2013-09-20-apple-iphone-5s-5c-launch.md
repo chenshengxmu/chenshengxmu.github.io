@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The launch- "incredible" demand, Tim Cook & Co. at Palo Alto store, line vids the world over
+title: The launch- incredible demand, Tim Cook & Co. at Palo Alto store, line vids the world over
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/iPhone-5s-launch-in-munich.jpg)
 * If it is Friday, you must be standing in line for the new iPhones. As the iPhone 5c officially hits stores and the iPhone 5s opens for both pre-sales and retail customers, Apple describes the rush to own the new smartphones as “incredible.” From a Silicon Valley appearance by CEO Tim Cook to Hong Kong’s own gold rush, talk of a down-and-out Apple is forgotten amid the lines and excited iPhone fanatics.

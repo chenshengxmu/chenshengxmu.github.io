@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EinsteinVibes brings haptic feedback to iOS' Calculator app
+title: EinsteinVibes brings haptic feedback to iOS Calculator app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/iOS-11-Calculator-landscape-iPhone-screenshot-001.png)
 * There’ve been a lot of haptic feedback-based jailbreak tweaks released in my day, but EinsteinVibes by iOS developer LacertosusDeus is one of the first I’ve seen that brings haptic feedback to the stock Calculator app in iOS.

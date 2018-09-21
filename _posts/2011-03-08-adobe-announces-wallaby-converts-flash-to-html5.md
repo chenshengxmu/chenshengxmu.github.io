@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adobe Announces "Wallaby", Converts Flash To HTML5
+title: Adobe Announces Wallaby, Converts Flash To HTML5
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/08/Adobe-Flash-on-iPhone-e1282007881759.jpg)
 * One of the major features iOS lacks is Adobe Flash support. While Apple had decided to take a completely different path using HTML5, Flash still (for now), dominates internet content.

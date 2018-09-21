@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IDC- Apple's smartphone OS share falls while consumers wait for new iPhones
+title: IDC- Apples smartphone OS share falls while consumers wait for new iPhones
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/apple-idc.png)
 * The long wait before Apple introduces new iPhone models is causing its iOS smartphone platform to lose marketshare to Android. The iPhone’s iOS slipped to 13.2 percent of the smartphone market, a drop from 16.6 percent during the same period in 2012.

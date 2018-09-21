@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Source- iTV "resembles an Apple monitor, only much larger"
+title: Source- iTV resembles an Apple monitor, only much larger
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Apple-television-mockup-Dan-Draper-001.jpg)
 * Despite Piper Jaffray’s Gene Munster calling for an HD TV set from Apple for what now seems like an eternity (his latest headline says it’ll be “bigger than the smartphone”), the damn thing just wouldn’t materialize and instead remains vaporware. Per latest chatter coming from a source who claims to have seen an Apple HDTV prototype in person, it “resembles an Apple monitor, only much larger”.

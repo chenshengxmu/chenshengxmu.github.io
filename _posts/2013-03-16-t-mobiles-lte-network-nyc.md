@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile's LTE network spotted in New York City
+title: T-Mobiles LTE network spotted in New York City
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/T-Mobile-iPhone-5.jpg)
 * This is kind of interesting. T-Mobile’s long-awaited LTE network has been spotted in the wild, offering up super-fast data in a suburb of New York City. The carrier is the only one left of the major four in the US that doesn’t offer the 4G tech, but it’s expected to finally launch this year. And a curious subscriber just discovered one of its sites in Astoria, Queens…

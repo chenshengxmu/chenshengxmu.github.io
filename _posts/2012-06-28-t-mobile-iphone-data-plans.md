@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile confirms network upgrade won't affect legacy data plans
+title: T-Mobile confirms network upgrade wont affect legacy data plans
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/t-mobile-3g-e1340877089608.jpg)
 * Over the past few months, T-Mobile has been touting its plans to upgrade its wireless network to be more friendly with Apple’s smartphone. Despite not being an official partner, the carrier sees a lot of business from unlocked iPhone users.

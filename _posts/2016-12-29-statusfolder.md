@@ -1,6 +1,6 @@
 ---
 layout: post
-title: StatusFolder displays the Status Bar even when you're in a folder
+title: StatusFolder displays the Status Bar even when youre in a folder
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/12/StatusFolder.png)
 * Just yesterday we showed you a tweak that brought the Status Bar to the App Switcher on jailbroken iOS 10 devices, and if you’ve gotten used to seeing it there already, you probably wish you could see it in your folders too.

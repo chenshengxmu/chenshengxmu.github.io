@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WikiLeaks reveals CIA's tactics for breaching iPhones, iPads, Windows, smart TVs & more
+title: WikiLeaks reveals CIAs tactics for breaching iPhones, iPads, Windows, smart TVs & more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/03/CIA-seal-medium.jpg)
 * WikiLeaks today published a cache of 8,761 secret documents detailing tactics the United States Central Intelligence Agency (CIA) relies on for breaching iPhones, iPads, Android smartphones and tablets, Windows PCs and even routers and smart TVs. It’s currently unclear if the documents—available to peruse on the group’s website—have serious privacy and security implications. Dubbed “Vault 7”, the leak has been teased on WikiLeaks’ Twitter account for a few weeks prior to its release.

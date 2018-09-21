@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sega's Sonic & All-Stars Racing Transformed is now available to download
+title: Segas Sonic & All-Stars Racing Transformed is now available to download
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/Sega-Sonic-and-All-Stars-Racing-Transformed-iPhone-screenshot-003.jpeg)
 * Rather unexpectedly and with little fanfare, games maker Sega has released a brand new title on the App Store. Called Sonic & All-Stars Racing Transformed, the game is actually the official iOS port of Sonic & All-Stars Racing Transformed for consoles and part of its 2013 winter release schedule.

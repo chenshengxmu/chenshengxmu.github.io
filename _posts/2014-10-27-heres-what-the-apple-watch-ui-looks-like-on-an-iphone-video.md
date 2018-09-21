@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's what the Apple Watch UI looks like on an iPhone [video]
+title: Heres what the Apple Watch UI looks like on an iPhone [video]
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/Apple-Watch-UI-iPhone.png)
 * When the Apple Watch was revealed, it displayed a fairly drastic UI change from the way a typical iPad or iPhone works. The UI showcased many app icons on screen and once, and they could be zoomed in and out via the watch’s digital crown.

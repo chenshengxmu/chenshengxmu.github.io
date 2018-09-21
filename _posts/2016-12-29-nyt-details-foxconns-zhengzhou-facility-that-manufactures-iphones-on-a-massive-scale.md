@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NYT details Foxconn's Zhengzhou facility that manufactures iPhones on a massive scale
+title: NYT details Foxconns Zhengzhou facility that manufactures iPhones on a massive scale
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/12/Foxconn-iPhone-City-Zhengzhou-image-003.jpeg)
 * Most of the iPhone models Apple develops, markets and sells are being assembled by Foxconn, the world’s leading contract manufacturer. In a new investigative piece, The New York Times newspaper delves into the inner workings of Foxconn’s iPhone manufacturing plant in Zhengzhou, a city of six million people in an impoverished region of China.

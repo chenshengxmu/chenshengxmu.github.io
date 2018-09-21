@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dish's Sling TV launches live, adds AMC network
+title: Dishs Sling TV launches live, adds AMC network
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/Sling-TV-screenshot.jpeg)
 * Following a limited invite-only launch last month, Dish’s Sling TV service is now available to everyone in the United States, the company announced Monday.

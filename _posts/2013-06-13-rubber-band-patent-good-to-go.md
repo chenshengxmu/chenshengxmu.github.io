@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's key 'rubber banding' patent validated by US Patent Office
+title: Apples key rubber banding patent validated by US Patent Office
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/iphone-4s-user.jpg)
 * Apple’s ‘rubber banding’ patent has been under heavy scrutiny in recent months, invalidated twice by the US Patent Office. It used the patent, which pertains to a software feature that allows content to ‘bounce back’ during scrolling, in its big $1 billion victory over Samsung.

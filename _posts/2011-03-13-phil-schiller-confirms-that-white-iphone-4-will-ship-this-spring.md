@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Phil Schiller Confirms That White iPhone 4 Will Ship "This Spring"
+title: Phil Schiller Confirms That White iPhone 4 Will Ship This Spring
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/03/White-iPhone-4-Closeup.jpeg)
 * Could it finally be true? Could the mythical white iPhone 4 really be on the distant horizon for consumers?

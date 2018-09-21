@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Report- iPhone 5 Cases are "Everywhere" in China
+title: Report- iPhone 5 Cases are Everywhere in China
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/07/iPhone-5-Cases-Rumors.jpg)
 * Yet again, we bring you news of iPhone 5 cases. According to MIC Gadget, iPhone 5 cases are “now everywhere” in China. The site has another gallery of the new designs, and these appear to be no different than any of the other cases we have showed you.

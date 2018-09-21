@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New in iOS 7- Notification Center 'Today' stream shows context-based alerts
+title: New in iOS 7- Notification Center Today stream shows context-based alerts
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/location-today-screen-ios-7.jpg)
 * Alongside the sweeping changes in iOS 7, Apple gave its Notification Center a complete overhaul. It’s been divided into three sections, it no longer sports a linen background, and it’s lost a few features, such as the handy Weather widget.

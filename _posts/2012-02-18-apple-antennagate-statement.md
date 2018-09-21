@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple responds to 'antennagate' settlement
+title: Apple responds to antennagate settlement
 ---
 * Yesterday, it was reported that a settlement was reached in the ‘antennagate’ lawsuit against Apple. The settlement includes Apple issuing a free iPhone bumper case or $15 to each US customer who purchased the iPhone 4. Apple has until April 30, 2012 to send an email out to every customer.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/free_iphone_4_bumper_available_soon_2.jpeg)

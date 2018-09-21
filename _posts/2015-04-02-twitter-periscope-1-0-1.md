@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twitter's Periscope app receives its first update with live broadcast improvements
+title: Twitters Periscope app receives its first update with live broadcast improvements
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/Periscope-1.0-for-iOS-iPhone-screenshot-001.jpg)
 * Twitter’s live-streaming software, Periscope, was released in the App Store a week ago and today the app has received its first feature update. Periscope 1.0.1 fixes issues with chat not working sometimes and addresses performance concerns when watching broadcasts with many users.

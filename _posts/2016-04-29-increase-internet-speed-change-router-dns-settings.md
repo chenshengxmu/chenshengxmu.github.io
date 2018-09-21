@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Changing your router's DNS settings to increase speed and security
+title: Changing your routers DNS settings to increase speed and security
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/AirPort-icon-medium.png)
 * At times, you may experience slow hiccups while trying to use the internet from your home. Sometimes, these problems can be attributed to your router’s DNS settings because your ISP may not always have the best DNS server speeds.

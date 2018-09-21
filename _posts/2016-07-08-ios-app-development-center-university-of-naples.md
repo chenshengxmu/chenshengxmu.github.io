@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's European iOS App Development Center opening at University of Naples in October
+title: Apples European iOS App Development Center opening at University of Naples in October
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/iOS-7-App-Store-app-icon-small.png)
 * We learned in January that Apple would be opening its first European iOS App Development Center in Italy and now German website Macerkopf.de notes that the Università di Napoli Federico II in Naples has officially confirmed partnering with Apple on the initiative.

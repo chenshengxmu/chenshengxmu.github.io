@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung Demands to See Apple's Next iPhone and iPad
+title: Samsung Demands to See Apples Next iPhone and iPad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/05/Samsung-Apple-request.jpeg)
 * Samsung has filed a motion to Apple requesting to see the iPhone 5 and iPad 3. According to This is My Next, Samsung’s lawyers want to get their hands on the iPhone 4S/5 and iPad 3 to see if Apple’s future products are similar to Samsung’s future devices, like the Droid Charge and Galaxy Tab 10.1.

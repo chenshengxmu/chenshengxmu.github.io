@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Starbucks Now Offering Free App "Picks of the Week"
+title: Starbucks Now Offering Free App Picks of the Week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/StarBucksShazam-e1313501985365.png)
 * In a move that is likely to make most of the iDB staff weep for joy, Starbucks and Apple have just started a new promotion. The deal allows Starbucks customers to download a free application as they sip on their beverage of choice.

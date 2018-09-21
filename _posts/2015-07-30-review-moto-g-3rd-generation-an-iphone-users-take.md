@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review- Moto G 3rd-generation - an iPhone user's take
+title: Review- Moto G 3rd-generation - an iPhone users take
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/07/Moto-G-3g-review.jpg)
 * The Moto G is a budget Android smartphone line from Motorola that has nurtured a very good reputation in the tech community. The latest 3rd-generation Moto G, which debuted on Tuesday, is now available in stores like Amazon and Best Buy.

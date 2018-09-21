@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Just How "Green" is the iPhone? [Infographic]
+title: Just How Green is the iPhone? [Infographic]
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/green-apple-logo.jpg)
 * Apple has been criticized by some environmental organizations for its recycling practices. These activists claimed that Apple was slow to remove toxic chemicals from their products and lacked a proper recycling plan for old products.

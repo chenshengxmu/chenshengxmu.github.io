@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is this Facebook's upcoming smartphone?
+title: Is this Facebooks upcoming smartphone?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/Facebook-Home.jpeg)
 * A new image of what is purportedly the upcoming Facebook phone has been leaked on Twitter. The image, first posted by @evleaks, shows off a generic looking Android device made by HTC.

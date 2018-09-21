@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Alleged 'iPad mini 4' shown in new leak with design closer to iPad Air 2
+title: Alleged iPad mini 4 shown in new leak with design closer to iPad Air 2
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/04/ipad-mini-4.jpg)
 * French website Nowehereelse has posted alleged photos of the unannounced “iPad mini 4” chassis, packing a design that brings it closer to the iPad Air 2, after the iPad mini’s humble refresh in the fall of 2014. 

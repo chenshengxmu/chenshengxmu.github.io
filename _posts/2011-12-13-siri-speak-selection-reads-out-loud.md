@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Siri's Speak Selection Feature Reads Text Out Loud
+title: Siris Speak Selection Feature Reads Text Out Loud
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/Screen-Shot-2011-12-13-at-5.00.05-PM.jpg)
 * Here’s a nice little tip for Siri fanatics. Did you know that you can have Siri speak any selection of text out loud anywhere in iOS 5 on the iPhone 4S?

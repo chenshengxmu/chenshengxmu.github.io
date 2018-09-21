@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Watch Bentley's second 'Intelligent Details' film, shot and edited on latest iPhones
+title: Watch Bentleys second Intelligent Details film, shot and edited on latest iPhones
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/05/Bentley-Intelligent-Details-part-two-image-001.jpg)
 * Last year, car maker Bentley produced a documentary video to promote its $300,000 Mulsanne, using specialized accessories and a few App Store apps to shoot and edit the promotional film entirely on the iPhone 5s and iPads.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft- The iPhone Doesn't Give Enough Choice and Android is Chaotic
+title: Microsoft- The iPhone Doesnt Give Enough Choice and Android is Chaotic
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/andylees-ms.jpeg)
 * Those crazy folks at Microsoft seem quite keen on this new release of Windows Phone 7 they’ve been working on, and with good reason. Windows Phone 7.5, or “Mango,” is starting to find its way onto new and old handsets alike, and people seem rather taken with the changes the Microsoft has made.

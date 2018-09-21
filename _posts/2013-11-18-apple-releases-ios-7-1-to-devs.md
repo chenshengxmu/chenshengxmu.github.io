@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple releases iOS 7.1 beta to developers- here is what's new
+title: Apple releases iOS 7.1 beta to developers- here is whats new
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/ios-7.1-beta.png)
 * Apple has released the first beta of iOS 7.1 to registered developers this afternoon. The update, which carries the build number 11D5099e, can be downloaded via Apple’s developer center.

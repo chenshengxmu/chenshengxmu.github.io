@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple surpasses Coca-Cola to become world's most valuable brand
+title: Apple surpasses Coca-Cola to become worlds most valuable brand
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/apple-top-brand.png)
 * Apple has overtaken Coca-Cola as the new most valuable brand in the world, according to a new report from brand consulting firm Interbrand. The move puts an end to the beverage company’s 13-year reign as #1.

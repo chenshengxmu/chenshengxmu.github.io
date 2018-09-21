@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Watch Sport's Ion-X glass goes under the knife (literally) in this scratch test
+title: Apple Watch Sports Ion-X glass goes under the knife (literally) in this scratch test
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/04/Apple-Watch-Scratch-Test.png)
 * The Apple Watch Sport, which will likely be far and away the most popular version of the Apple Watch, comes equipped with a different glass panel than the Apple Watch and Apple Watch Edition models. While the latter two models ship with sapphire glass, which is known for its elemental hardness, the cheaper Sport models ship with something called Ion-X glass.

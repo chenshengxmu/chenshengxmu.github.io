@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's why Apple dropped the ball in Russia
+title: Heres why Apple dropped the ball in Russia
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/apple-store-russia.jpg)
 * Russia is one of the BRIC countries mentioned alongside Brazil, India and China as areas where demand for smartphones is increasing rapidly. Yet, recently, the last of Russia’s big-three carriers stopped selling the iPhone, leaving it up to resellers and Apple’s new online store to meet demand.

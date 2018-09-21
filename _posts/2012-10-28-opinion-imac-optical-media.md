@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple killed the disc drive, but it's for your own good
+title: Apple killed the disc drive, but its for your own good
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/iMac-8G-left-angled-keyboard-mouse.jpg)
 * Apple is no stranger to abandoning features it thinks are heading for the graveyard of technology. I guess you could say the company invented it. The new iMac without a built-in optical drive is the perfect epitome of such forward-thinking that, however, isn’t without its pitfalls.

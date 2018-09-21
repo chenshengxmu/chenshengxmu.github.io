@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wall Street expects Apple to become the world's first $1 trillion company
+title: Wall Street expects Apple to become the worlds first $1 trillion company
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/AAPL-stock-20120403.jpg)
 * Those who sold their shares of Apple last October did not make the wisest move, but all is not lost. AAPL closed yesterday at $618.63 a share (more than a 32GB WiFi iPad, mind you) for a market cap of $577 billion. As the company’s quarterly earnings report looms, analysts are running their spreadsheets and upping targets. So, how long until Apple zooms past the $1 trillion market cap milestone?

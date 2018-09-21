@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Everest' lets you control the Music app and Spotify using banner notifications
+title: Everest lets you control the Music app and Spotify using banner notifications
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/11/Everest-Screen.png)
 * Everest is a recently released jailbreak tweak that allows you to control your music via banner notifications invoked by an Activator gesture. Along with the stock Music app, you can use Everest to control music from Spotify.

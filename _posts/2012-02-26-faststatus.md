@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FastStatus' lets you tweet, text, and email using Activator
+title: FastStatus lets you tweet, text, and email using Activator
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/FastStatus-Screenshot.jpg)
 * With everything going the route of iOS 5’s Notification Center, we’re seeing less and less tweaks that use Activator as a means for invoking, but FastStatus bucks that trend.

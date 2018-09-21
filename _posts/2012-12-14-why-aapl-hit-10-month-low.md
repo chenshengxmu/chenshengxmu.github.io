@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's why AAPL hit 10-month low today
+title: Heres why AAPL hit 10-month low today
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/AAPL-on-20121214.png)
 * China’s influence over Apple’s financial health is growing. In fiscal 2011, the country accounted for sixteen percent of Apple’s revenues. But is Apple’s growth in China sustainable?

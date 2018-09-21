@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung designer- we didn't copy Apple's icons
+title: Samsung designer- we didnt copy Apples icons
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/Samsung-Phone.jpg)
 * Attorneys for Apple embarrassed Samsung last week by showing the jurors half a dozen images meant to prove that the Galaxy maker shamelessly ripped off the look of the iPhone’s icons. Though Apple believes that Samsung’s TouchWiz interface makes it a copycat, that’s ultimately up for the jury to decide.

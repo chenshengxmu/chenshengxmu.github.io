@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Angry Birds Star Wars II goes free, adds 30 new 'Master Your Destiny' levels
+title: Angry Birds Star Wars II goes free, adds 30 new Master Your Destiny levels
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/Angry-Birds-Star-Wars-2-Master-Your-Destiny-update-teaser-001.png)
 * Finnish games maker Rovio Mobile, best-known for its Angry Birds franchise, today released a “Master Your Destiny” update adding an additional thirty new levels to Angry Birds Star Wars 2. And for the third time since it launched late last year, Angry Birds Star Wars 2 has switched from paid to free.

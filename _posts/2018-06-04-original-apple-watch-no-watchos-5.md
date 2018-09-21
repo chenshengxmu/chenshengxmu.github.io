@@ -1,6 +1,6 @@
 ---
 layout: post
-title: watchOS 5 won't support original Apple Watch
+title: watchOS 5 wont support original Apple Watch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/06/watchos.png)
 * Heads up for folks with an original (Series 0) Apple Watch. The watchOS 5 update, which Apple announced earlier today during its WWDC keynote, will not support the older hardware. Everyone else is safe though: watchOS 5 supports Series 1, 2 and 3 models.

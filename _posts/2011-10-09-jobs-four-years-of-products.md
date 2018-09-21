@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Steve Jobs Planned Apple's Next Four Years Of Products Before He Left
+title: Steve Jobs Planned Apples Next Four Years Of Products Before He Left
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/10967-steve-jobs-demonstrates-the-facetime-feature-on-the-iphone-4-e1314311363543.jpg)
 * With all the changes going on at Apple these days, like Steve Jobs stepping down as CEO and his subsequent passing, there has to be one burning question for those of us who follow the workings of the Cupertino company. What will Apple be like without Jobs?

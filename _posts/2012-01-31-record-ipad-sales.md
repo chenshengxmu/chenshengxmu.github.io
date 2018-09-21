@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Record iPad Sales Make Apple the World's Largest PC Manufacturer
+title: Record iPad Sales Make Apple the Worlds Largest PC Manufacturer
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/apple-ipad-sales-21.jpg)
 * A week ago Apple announced record-breaking results for its latest quarter, selling more iPhones and iPads in the three month period than ever before. In fact, its iPhone sales made Apple the number one smartphone manufacturer in the world (by volume).

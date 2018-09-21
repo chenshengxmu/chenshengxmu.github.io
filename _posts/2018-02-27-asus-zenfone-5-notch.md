@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Asus's new ZenFone 5 has a notch that it boasts is 26% smaller than “the fruit phone”
+title: Asuss new ZenFone 5 has a notch that it boasts is 26% smaller than “the fruit phone”
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/02/Asus-ZenFone-5-notch-001.jpg)
 * Remember when the iPhone X notch was widely ridiculed and mocked by competitors?

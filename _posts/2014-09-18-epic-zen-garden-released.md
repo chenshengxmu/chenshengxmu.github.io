@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Epic releases Metal-powered 'Zen Garden' demo free on App Store
+title: Epic releases Metal-powered Zen Garden demo free on App Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/Epic-Zen-Garden-iPhone-screenshot-001.jpeg)
 * Demoed at WWDC back in June to show off the power of Apple’s new low-level graphics framework, Metal, Epic Games’ Zen Garden is now available to download on the iPhone, iPod touch and iPad devices running iOS 8 and powered by the Apple-deigned A7 or A8 processor.

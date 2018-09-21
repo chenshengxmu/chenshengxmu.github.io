@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LG teases upcoming Android Wear-based 'G Watch'
+title: LG teases upcoming Android Wear-based G Watch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/lg-smartwatch.png)
 * LG has posted a teaser clip this weekend for its upcoming G Watch, which is an Android Wear-based smartwatch. The video doesn’t offer up much in the way of specs or feature details, but it gives you a good look at its design and function.

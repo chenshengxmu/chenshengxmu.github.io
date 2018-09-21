@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New in iOS 9.3 beta 2- accessory firmware updates via iPad Pro's Smart Connector
+title: New in iOS 9.3 beta 2- accessory firmware updates via iPad Pros Smart Connector
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/iOS-9.3-beta-2-accessory-firmware-update-iPad-Pro-Smart-Connector-screenshot-001.jpg)
 * Aside from headline features such as Night Shift mode, new 3D Touch shortcuts, Notes improvements and more, the most recent beta of iOS 9.3 has been found to allow the iPad Pro to update accessories’ firmware through its Smart Connector.

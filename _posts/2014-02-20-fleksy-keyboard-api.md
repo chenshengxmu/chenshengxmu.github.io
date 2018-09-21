@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fleksy's predictive touch keyboard now available to all iOS developers
+title: Fleksys predictive touch keyboard now available to all iOS developers
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/Fleksy-keyboard-teaser-001-e1386859935784.jpg)
 * After releasing its predictive touch keyboard, Fleksy, in partnership with select launch partner apps such as Launch Center Pro, GV Connect, Blindsquare and Wordbox, the San Francisco-based startup behind the software has moved the SDK out of private beta so now all iOS devs can incorporate Fleksy as an alternative soft keyboard within their apps.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's name attached to mysterious camera-equipped vehicles in Bay Area
+title: Apples name attached to mysterious camera-equipped vehicles in Bay Area
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/apple-camera-car.jpg)
 * A handful of unmarked minivans have been spotted driving around California over the past several days with what appears to be roof-mounted camera equipment. No one seems to know what the vehicles are up to, but CBS’ Bay Area affiliate was able to confirm with the DMV that at least one of the vans is leased to Apple.

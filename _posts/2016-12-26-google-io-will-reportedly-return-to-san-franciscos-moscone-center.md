@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google I/O will reportedly return to San Francisco's Moscone Center
+title: Google I/O will reportedly return to San Franciscos Moscone Center
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/12/Google-IO-2016-event.jpg)
 * Google I/O, the search giant’s version of Apple’s WWDC, will return to the Moscone Center in San Francisco next year, TechCrunch has learnt. Google I/O 2016 was held at the Shoreline Amphitheatre in Mountain View to mark the 10th anniversary of the company’s first developers conference at their headquarters. Google I/O 2017 should mark a return to the Moscone Center in San Francisco, where Apple has for years held its own annual developers conference.

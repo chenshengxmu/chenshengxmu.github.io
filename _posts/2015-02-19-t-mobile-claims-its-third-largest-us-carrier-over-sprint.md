@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile claims it's third largest US carrier over Sprint
+title: T-Mobile claims its third largest US carrier over Sprint
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/T-Mobile-holiday-2014-ad-image-001.jpg)
 * T-Mobile CEO John Legere claims that his Uncarrier is now the third largest carrier in the United States, overtaking Sprint for the spot behind AT&T and Verizon. Legere had been predicting the overtaking of Sprint for sometime, and he finally made the claim it’s happened during T-Mobile’s earnings call Thursday afternoon.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unsurprisingly, the 2019 iPhone lineup probably won't use fingerprint on display technology
+title: Unsurprisingly, the 2019 iPhone lineup probably wont use fingerprint on display technology
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/Fingerprint-light-blue.jpg)
 * Fingerprint on display technology was once expected to launch on the iPhone X in 2017. Instead, Face ID was introduced to replace Touch ID on Apple’s current flagship device. Apple’s embrace of Face ID isn’t expected to end anytime soon, according to one crucial analyst, despite the push by others to begin using the new fingerprint technology. 

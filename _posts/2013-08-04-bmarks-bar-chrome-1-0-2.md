@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BMarks Bar - Chrome' updated with several awesome new features
+title: BMarks Bar - Chrome updated with several awesome new features
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/BMarks-Bar-Chrome-1.0.2.jpg)
 * We raved about BMarks Bar – Chrome on the last episode of Let’s Talk Jailbreak, and for good reason, as it’s one of the best Google Chrome tweaks yet to be released. Recently, the tweak was updated with all sorts of new goodies, which is sure to make the bookmarking experience even better with Google Chrome.

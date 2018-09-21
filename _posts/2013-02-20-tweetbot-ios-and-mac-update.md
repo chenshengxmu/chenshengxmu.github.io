@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tweetbot for iOS and Mac updated to comply with Twitter's API changes
+title: Tweetbot for iOS and Mac updated to comply with Twitters API changes
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/tweetbot-update-2-7-2.png)
 * As many of you may know, Twitter announced a lengthy list of changes to its API used by third party clients last fall. The deadline for developers to meet the new requirements is March 5th, and apps that don’t comply will cease functioning.

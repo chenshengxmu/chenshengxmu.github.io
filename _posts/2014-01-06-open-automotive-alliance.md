@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CES 2014- Google's in-car plans unmasked as Open Automotive Alliance reveals itself
+title: CES 2014- Googles in-car plans unmasked as Open Automotive Alliance reveals itself
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/Open-Automotive-Alliance-header-001.jpg)
 * In a long-rumored move, the Internet giant Google hopes to repeat its success with Android on smartphones and tablets by announcing Open Automotive Alliance (OAA), a take on its Open Handset Alliance, but for in-car Android integration.

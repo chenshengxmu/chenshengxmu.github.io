@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Christian Bale withdraws from Steve Jobs biopic deciding he wasn't 'right for the part'
+title: Christian Bale withdraws from Steve Jobs biopic deciding he wasnt right for the part
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/Christian-Bale-Steve-Jobs-image-001.jpg)
 * Following the confirmation that he was going to play Steve Jobs in an upcoming Sony movie about Apple’s legendary co-founder, actor Christian Bale has reportedly changed his mind and pulled out of the upcoming project deciding he was “not right for the part,” according to a report Monday by The Hollywood Reporter.

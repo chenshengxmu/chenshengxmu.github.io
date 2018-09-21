@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's (PRODUCT)RED contributions have topped $130 million
+title: Apples (PRODUCT)RED contributions have topped $130 million
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/03/iPhone-7-product-red-web-screenshot-001.png)
 * Tucked away as a side-note in today’s press release with which Apple unveiled (PRODUCT)RED Special Edition iPhone 7 is an interesting update: the Cupertino firm’s raised more than $130 million for the RED organization thus far. Apple is the world’s largest corporate donor to (RED).

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple adds 'Designed for iOS 7' App Store section
+title: Apple adds Designed for iOS 7 App Store section
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/App-Store-Designed-for-iOS-7-001.png)
 * Following The Great Flattening earlier today, Apple has added a new section to its App Store designed to highlight apps that are optimized for the iOS 7 appearance and technologies that make this OS update arguably the most important in Apple’s history.

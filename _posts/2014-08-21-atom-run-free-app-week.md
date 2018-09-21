@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sci-fi robot platformer Atom Run goes free as Apple's new Free App of the Week
+title: Sci-fi robot platformer Atom Run goes free as Apples new Free App of the Week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/Atom-Run.jpeg)
 * It’s Thursday and you know what that means, don’t you? That’s right, today is the day Apple editors get to pick another paid app to go free for seven days, as part of the App Store’s ongoing Free App of the Week promotion.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zynga releases 'New Words With Friends' with new design and features
+title: Zynga releases New Words With Friends with new design and features
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/new-words-2.png)
 * Celebrating its 5-year anniversary, Zynga has released a revamped version of its hit word game called ‘New Words With Friends.’ It’s an all-new app, but users won’t be forced to upgrade, and those who do will not see any kind of interruption in their gameplay.

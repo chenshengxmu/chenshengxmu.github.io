@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We're giving away 10 copies of BrowseInApp
+title: Were giving away 10 copies of BrowseInApp
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/browseinapp-header.jpg)
 * A little over a week ago we reviewed BrowseInApp, an extremely handy jailbreak tweak that allows you to open URL links in apps like Messages and Mail without ever having to switch to Safari.

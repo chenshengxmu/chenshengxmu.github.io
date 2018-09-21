@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review- Apple's iPhone 5c Case is tastefully tacky
+title: Review- Apples iPhone 5c Case is tastefully tacky
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/iPhone-5c-Cases.png)
 * Typically, I do not bother reviewing Apple items because I do not feel like adding my $.02 to the pile of other blogging around the web. Leave the big company reviews to the big boys, is best in my opinion. However, when I saw Apple release the “iPhone 5c Case,” I immediately felt the need to pick one up and share my opinions. Feel free to call it a useless need to self aggrandize my product reviews by weighing in on the newest Apple offering. I couldn’t look past the bold and somewhat tacky bright color schemes.

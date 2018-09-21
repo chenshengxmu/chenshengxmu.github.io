@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some users finding Touch ID's accuracy fades with time
+title: Some users finding Touch IDs accuracy fades with time
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/Touch-ID-success.png)
 * Over the past several weeks, I’ve noticed that the accuracy of the Touch ID feature on my iPhone 5s has been slowly getting worse. Where the sensor used to recognize my registered fingerprint(s) almost instantly, it now takes two or three tries.

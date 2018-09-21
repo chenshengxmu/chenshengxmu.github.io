@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's October 29 agenda outed- Nexus 10 aiming squarely at the iPad
+title: Googles October 29 agenda outed- Nexus 10 aiming squarely at the iPad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/Nexus-7-Back.jpeg)
 * Google’s Android event is scheduled to take place on October 29 in New York, but the company’s planned product launches have apparently been outed by The Next Web. In addition to a 32GB version of the seven-inch Nexus 7 tablet (which has already turned up in U.S. stores) and the long-expected cellular version of the device, Google is said to take Apple on the high-end with the introduction of a ten-inch Nexus tablet thought to incorporate a 2,560-by-1,600 pixel screen with a pixel density of 300 pixels per inch versus the iPad 3’s Retina display which tops the 264 pixels per inch on its 9.7-inch 2,048-by-1,536 Retina display…

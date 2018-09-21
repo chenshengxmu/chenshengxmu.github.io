@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple awarded crucial patent for TrueDepth camera's 4-element infrared optics
+title: Apple awarded crucial patent for TrueDepth cameras 4-element infrared optics
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/Apple-patent-TrueDepth-camera-near-infrared-imaging-lens-002.png)
 * Apple’s TrueDepth camera on iPhone X uses infrared sensors that capture light in the wavelength range of 800nm to 1300nm to achieve pattern-based depth mapping, allowing it to work day or night, like devices used for medical diagnosis, food inspection and night vision.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wall Street fundamentally misunderstands Apple's strong business in China
+title: Wall Street fundamentally misunderstands Apples strong business in China
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/01/Apple-iPhone-7-launch-China.jpg)
 * Business Insider on Tuesday spoke to Morgan Stanley analyst Katy Huberty about her views on why Wall Street fundamentally misunderstands Apple’s strong business in China.

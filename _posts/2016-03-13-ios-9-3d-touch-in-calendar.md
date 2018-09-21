@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Glimpse what's coming up next on your schedule with 3D Touch in Calendar
+title: Glimpse whats coming up next on your schedule with 3D Touch in Calendar
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/iPhone-6s-3D-Touch-technology-001.jpg)
 * In addition to Reminders, Calendar is another stock app on the iPhone, iPod touch and iPad designed to help users organize their daily, weekly and yearly schedule and be more productive.

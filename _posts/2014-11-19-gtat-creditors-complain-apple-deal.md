@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GT Advanced creditors complain about getting 'too little' in proposed Apple settlement
+title: GT Advanced creditors complain about getting too little in proposed Apple settlement
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/GT-Advanced-teaser-001.png)
 * As Apple moves to repurpose the Mesa, Arizona plant it sought to run with the now bankrupt GT Advanced Technology, Reuters is reporting Wednesday that GT’s creditors aren’t all too happy about the agreement.

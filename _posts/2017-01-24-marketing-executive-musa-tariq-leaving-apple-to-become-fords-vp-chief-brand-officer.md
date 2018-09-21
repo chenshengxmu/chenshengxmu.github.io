@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Marketing executive Musa Tariq leaving Apple to become Ford's VP & Chief Brand Officer
+title: Marketing executive Musa Tariq leaving Apple to become Fords VP & Chief Brand Officer
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/01/Musa-Tariq-headshot.png)
 * Musa Tariq, Apple’s executive, is leaving the company to join Ford, the car maker said Tuesday.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 10.5" iPad Pro screen protector surfaces ahead of rumored WWDC announcement
+title: 10.5 iPad Pro screen protector surfaces ahead of rumored WWDC announcement
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/ipad-pro.jpg)
 * A screen protector for the rumored 10.5-inch iPad Pro has surfaced on Amazon ahead of Apple’s WWDC keynote on Monday. It’s made by popular accessory manufacturer Anker and is available for overnight delivery.

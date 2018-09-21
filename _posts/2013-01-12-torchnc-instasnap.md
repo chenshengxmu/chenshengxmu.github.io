@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TorchNC' and 'InstaSnap' spice up Notification Center on jailbroken iPhones
+title: TorchNC and InstaSnap spice up Notification Center on jailbroken iPhones
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/InstaSnap-and-NCTorch.jpg)
 * Two new jailbreak tweaks have recently appeared in Cydia by the same developer, and they both happen to focus on Notification Center. Specifically, these tweaks aim to add handy shortcuts to the Notification Center pull-down pane.

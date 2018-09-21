@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scratch that- iPhone 6 'Phosphorus' component likely barometric pressure sensor
+title: Scratch that- iPhone 6 Phosphorus component likely barometric pressure sensor
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/Screen-Shot-2014-08-25-at-12.48.34-PM.png)
 * An eagle-eyed member of the MacRumors forum says the “Phosporus”component destined for the iPhone 6, leaked on Monday, isn’t a next-generation version of Apple’s M7 co-processor, but instead a barometric pressure sensor. It makes sense given the several rumors that have cropped up in recent months with word Apple plans a barometer used to measure atmospheric pressure in the iPhone 6.

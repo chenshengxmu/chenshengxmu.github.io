@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's smartphone market share in China now up to 19%
+title: Apples smartphone market share in China now up to 19%
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/iPhone-4-China.jpg)
 * We’ve said it before, but it’s worth repeating. With over a billion cell phone users, and millions more in the wing, China is a crucial market for Apple in its quest to sell more smartphones — a market it’s only been in for a few months.

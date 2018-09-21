@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's Jony Ive-designed, aluminum-clad (RED) Desk
+title: Heres Jony Ive-designed, aluminum-clad (RED) Desk
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/RED-Desk-Jony-Iva-and-Marc-Newson-002.jpg)
 * If I had tens of thousands of dollars to burn on various objects of affection, I’d make a bid for this ultimate work desk, created by Apple’s senior vice president of design Jony Ive and industrial designer Marc Newson. It’s another item among the more than 40 limited-edition objects designed by Ive and Newson and slated to be auctioned off on November 23 on the behalf of Bono’s Product RED initiative, well-regarded for its long-running partnership with Apple…

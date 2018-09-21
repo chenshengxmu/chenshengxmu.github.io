@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Design of Apple's 'A11' chip for 2017 iPhones and iPads has been finalized
+title: Design of Apples A11 chip for 2017 iPhones and iPads has been finalized
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/iPhone-6s-Plus-iFixit-teardown-image-002.jpg)
 * Taiwanese component makers are currently scrambling to fulfill orders as the Cupertino firm is getting ready to kick off production of this year’s upcoming iPhones and iPads.

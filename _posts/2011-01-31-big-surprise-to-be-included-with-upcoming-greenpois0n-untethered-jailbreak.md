@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Big Surprise" to be Included With Upcoming GreenPois0n Untethered Jailbreak?
+title: Big Surprise to be Included With Upcoming GreenPois0n Untethered Jailbreak?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/01/GreenPosi0n-JayWalker-Something-In-Store.png)
 * If you’ve been keeping your ear to the street, a.k.a. keeping up with the latest jailbreak news on Twitter, then you may have stumbled upon several rumblings about a “big surprise” that will be included with the upcoming GreenPois0n jailbreak.

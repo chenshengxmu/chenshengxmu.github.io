@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Customize Your 'Slide to Unlock' Knob
+title: How to Customize Your Slide to Unlock Knob
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/ColoredKnob-Red.jpeg)
 * ColoredKnob is a perfect example of the adage that simplicity = generally awesome. Placing a colored slide to unlock nub on an otherwise overcast iOS lock screen looks incredible, as you’ll no doubt agree from our photos and video.

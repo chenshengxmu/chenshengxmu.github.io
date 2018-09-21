@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook- iOS in the Car is a 'key focus' for the company
+title: Tim Cook- iOS in the Car is a key focus for the company
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/iOS-7-Siri-Car-Integration.png)
 * Apple held its quarterly earnings conference call this afternoon, for the June Quarter, where Tim Cook and his CFO Peter Oppenheimer shared financial information and other insights into the company’s operations with analysts, shareholders and reporters.

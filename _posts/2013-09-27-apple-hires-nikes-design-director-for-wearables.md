@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple hires Nike's design director for wearables
+title: Apple hires Nikes design director for wearables
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/Ben-Shaffer-Nike-Innovation-Kitchen-001.jpg)
 * It’s been barely a little more than a month since news broke of Apple hiring a prominent Nike FuelBand developer and now comes word that Tim Cook has managed to lure away another high-profile Nike executive. Ben Shaffer, Studio Director of Nike’s research and development lab dubbed Innovation Kitchen, is working for Apple in unknown capacity.

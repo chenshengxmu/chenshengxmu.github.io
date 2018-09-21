@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meet KOLOS, the world's first iPad gaming wheel
+title: Meet KOLOS, the worlds first iPad gaming wheel
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/kolos-gaming-wheel.png)
 * We’ve seen a number of gamepads built for iOS devices over the years, but this has to be the first time we’ve ever seen an iPad gaming wheel. In fact, the developers of the KOLOS say it’s the first of its kind.

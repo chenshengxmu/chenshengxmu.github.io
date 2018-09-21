@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Popular Paper drawing app is 'coming soon' to iPhone, FiftyThree announces
+title: Popular Paper drawing app is coming soon to iPhone, FiftyThree announces
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/08/Paper-for-iPhone-teaser-003.jpg)
 * FiftyThree, makers of the popular iPad drawing app Paper which supports a range of styli, on Tuesday teased a forthcoming Paper refresh that will bring full iPhone compatibility.

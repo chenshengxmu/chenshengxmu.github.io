@@ -1,6 +1,6 @@
 ---
 layout: post
-title: There is an untethered jailbreak for iPhone X on iOS 11.2.1, but don't get too excited
+title: There is an untethered jailbreak for iPhone X on iOS 11.2.1, but dont get too excited
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/Alibaba-untethered-iOS-11.2.1-jailbreak-iPhone-X.jpg)
 * Security researchers from Alibaba’s Pandora Lab claim to have created a new jailbreak compatible with Apple’s latest flagship: the iPhone X. Furthermore, it appears to work flawlessly with iOS 11.2.1, which Apple just released to the public this week.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Snapchat 6.0 is out with new 'Snapchat Stories' feature
+title: Snapchat 6.0 is out with new Snapchat Stories feature
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/snapchat.png)
 * Snapchat has posted a new version of its iOS client today, bringing the app to version 6.0. The update only includes one new feature—but it’s a major new feature, which the company is calling ‘Snapchat Stories.’

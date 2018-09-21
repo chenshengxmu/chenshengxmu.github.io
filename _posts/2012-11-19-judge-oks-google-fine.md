@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Judge approves Google's $22.5M Safari tracking fine
+title: Judge approves Googles $22.5M Safari tracking fine
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/Safari-icon-medium.jpeg)
 * It looks like Google may have to start writing out that $22.5 million check soon, to cover the fine it agreed to pay in order to settle the FTC claim that it illegally bypassed user privacy settings in Safari.

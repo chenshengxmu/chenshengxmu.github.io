@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Pay now accepts Amazon's Visa Rewards card
+title: Apple Pay now accepts Amazons Visa Rewards card
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/Apple-Pay-04.jpg)
 * In just two short days following Amazon’s confirmation that it’s been working to enable its Chasse-issued Amazon.com Rewards Visa co-branded card for use on Apple Pay, users can now load that card in Apple’s mobile payments software, according to TechCrunch and reports on MacRumors forums, Reddit, Twitter and other social media channels on Friday.

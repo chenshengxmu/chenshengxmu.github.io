@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Preregistration for Nintendo's Miitomo smartphone app begins Feb 17
+title: Preregistration for Nintendos Miitomo smartphone app begins Feb 17
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/02/nintendo-miitomo-app.png)
 * Nintendo’s first official smartphone-only title will launch in March for both the iOS and Android platforms, but the Japanese gaming company announced on Wednesday it will let users preregister for the app starting February 17th so they’re ready to go when the app officially launches.

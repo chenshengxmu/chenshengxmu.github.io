@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's iCloud Using Microsoft and Amazon Cloud Services?
+title: Apples iCloud Using Microsoft and Amazon Cloud Services?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/cloud-graphic.png)
 * After months of rumors and speculation, Apple revealed the long-awaited iCloud last week. The free service replaces MobileMe for $99/year, and, considering of all the new features, it’s expected to be quite popular.

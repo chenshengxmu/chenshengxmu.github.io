@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Snapchat's augmented reality Lenses feature finally works with your iPhone's rear camera
+title: Snapchats augmented reality Lenses feature finally works with your iPhones rear camera
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/04/Snaochat-World-Lenses-rear-camera-006.jpg)
 * A Lens feature on Snapchat, originally introduced in September 2014, has just gotten a whole lot better because the latest update to the company’s iOS app now lets you—at long last—use augmented-reality Lenses with your iPhone’s rear camera. With Lenses, you can add real-time effects into your snaps, courtesy of the company’s advanced face-detection technology. Before today, Lenses were only available via the front-facing camera.

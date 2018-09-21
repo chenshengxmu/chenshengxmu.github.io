@@ -1,6 +1,6 @@
 ---
 layout: post
-title: pod2g- I'm not working on a jailbreak for iOS 6
+title: pod2g- Im not working on a jailbreak for iOS 6
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/Screen-Shot-2012-09-25-at-9.23.26-AM.png)
 * With the recent release of iOS 6, many jailbreakers have held back on the update so they can keep enjoying their favorite tweaks. Looking at conversations on iDB and Twitter, it appears that most jailbreakers are anxious to get on iOS 6, but not at the expense of their jailbreak. Those that find themselves in this situation are now patiently waiting for a jailbreak to be released.

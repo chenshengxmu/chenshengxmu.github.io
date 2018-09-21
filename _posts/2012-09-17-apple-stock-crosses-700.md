@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's stock crosses $700 following record iPhone 5 pre-orders
+title: Apples stock crosses $700 following record iPhone 5 pre-orders
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/apple-stock-700.jpg)
 * Earlier today, AT&T announced that it set a sales record over the weekend with iPhone 5 pre-orders. Apple also had a record-breaking weekend, recording 2 million iPhone 5 pre-orders in just 24 hours.

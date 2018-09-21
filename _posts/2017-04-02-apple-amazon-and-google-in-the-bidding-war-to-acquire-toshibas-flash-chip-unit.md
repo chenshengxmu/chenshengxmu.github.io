@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple, Amazon and Google in the bidding war to acquire Toshiba's flash chip unit
+title: Apple, Amazon and Google in the bidding war to acquire Toshibas flash chip unit
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/07/Apple-MacBook-Air-NAND-Flash-image-001.jpg)
 * Although Toshiba saw strong overall results from its HDD/SSD business in 2016, it’s spinning off the lucrative NAND flash unit into a separate company. It’s a last-ditch effort to plug a gap after the firm reported a heavy one-off $6.3 billion loss in December 2016, prompting its chairman to resign.

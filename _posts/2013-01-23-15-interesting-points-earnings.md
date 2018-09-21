@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 15 interesting points from today's earnings call
+title: 15 interesting points from todays earnings call
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/Apple-store-Nanjing-East-China-exterior-001.jpg)
 * Apple announced its highly anticipated earnings for the fourth quarter of 2012, the first fiscal quarter of 2013, this afternoon. And although they were record-breaking, they missed Wall Street projections. But we’ll save the ‘doomed’ talk for another time.

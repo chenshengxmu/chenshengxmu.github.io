@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thief also stole Steve Jobs' wallet with his yearly salary in it
+title: Thief also stole Steve Jobs wallet with his yearly salary in it
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/Steve-Jobs-Palo-Alto-home-001.jpg)
 * Yesterday’s newspaper report told a story of 35-year-old Kariem McFarlin who last month burglarized the Jobs’ family house in Palo Alto, stealing $60,000 worth of computers and personal items.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple tightens terms for 'Made for iPhone' Lightning accessories
+title: Apple tightens terms for Made for iPhone Lightning accessories
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/Lightning-Connector.jpg)
 * The tiny Lightning connector that debuted on the new iPhone, iPod touch and iPod nano allows Apple to exercise a much tighter control over the accessories ecosystem, it has been revealed. According to a new report out this morning, all vendors seeking to make products bearing the ‘Made for iPhone’ (MFi) trademark must be approved by Apple.

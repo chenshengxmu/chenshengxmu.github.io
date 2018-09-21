@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 5 support is "coming soon" to Sparrow
+title: iPhone 5 support is coming soon to Sparrow
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/Sparrow-for-Mac-and-iPhone-teaser.jpg)
 * According to co-founder and developer Dominique Leca, the Sparrow team (now part of Google’s Gmail team) is working on a minor update that will enable support for the iPhone 5 and its taller screen. “iPhone 5 support is coming soon to Sparrow”, Dominique wrote on Twitter.

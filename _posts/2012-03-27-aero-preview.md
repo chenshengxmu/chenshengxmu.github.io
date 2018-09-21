@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Aero' lets you switch apps with style and grace
+title: Aero lets you switch apps with style and grace
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/Aero-Screenshot.jpg)
 * SBCoders — the same developer behind the highly anticipated Deck jailbreak tweak – is back at it again. Aero is the latest creation from SBCoders, and their aim is to bring significant style and grace to the mundane task of switching apps.

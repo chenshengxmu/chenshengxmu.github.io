@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Highlights from Apple's Q3 earnings call
+title: Highlights from Apples Q3 earnings call
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/apple-store-china.jpg)
 * Following the release of its Q3 financial results, Apple’s CEO Tim Cook and CFO Luca Maestri hopped on a conference call to talk about the numbers. You already know Apple set a June quarter record earning $53.3B in revenue on 41.3M iPhone sales, but below we’ve listed some  other highlights from the call.

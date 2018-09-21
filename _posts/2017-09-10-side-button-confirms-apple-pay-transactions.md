@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Double click of iPhone X's Side button will confirm Apple Pay transaction
+title: Double click of iPhone Xs Side button will confirm Apple Pay transaction
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/iPhone-X-side-button-glyph-teaser.png)
 * iPhone X will have an elongated Power/Lock button on its side. They’re calling it the Side button and you’ll use it for things like Siri, Wallet, Apple Pay and more.

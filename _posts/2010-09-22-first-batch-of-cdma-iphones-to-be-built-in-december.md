@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Batch of CDMA iPhone's to Be Built in December
+title: First Batch of CDMA iPhones to Be Built in December
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2009/12/iphone-verizon.jpg)
 * I just knew it. I knew it wouldn’t be long until the latest Verizon iPhone rumor hit the web waves and I’d be writing about it shortly thereafter. I did not think it would be as concrete as this appears to be.

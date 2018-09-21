@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iTunes carrier billing expands to UK's EE, Germany's Telekom, Orange in France & Spain
+title: iTunes carrier billing expands to UKs EE, Germanys Telekom, Orange in France & Spain
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/iTunes-Icon.jpg)
 * Joining standard payment methods accepted on Apple’s content stores—such as Paypal, plastic money and iTunes credit—customers in some European countries can now have their app and media purchases charged to a monthly mobile phone bill from their carrier.

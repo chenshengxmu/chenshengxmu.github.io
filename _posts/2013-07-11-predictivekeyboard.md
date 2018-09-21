@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PredictiveKeyboard' adds a predictive fifth row to the iOS keyboard
+title: PredictiveKeyboard adds a predictive fifth row to the iOS keyboard
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/PredictiveKeyboard.jpg)
 * PredictiveKeyboard is a recently released jailbreak tweak that allows you to use a SwiftKey inspired 5th row for predictive key entry. The tweak, which is available right now on Cydia’s BigBoss repo for $2.39, is capable of speeding up typing by remembering words and phrases. Want to see how PredictiveKeyboard works in action? Then check out our full video walkthrough after the break…

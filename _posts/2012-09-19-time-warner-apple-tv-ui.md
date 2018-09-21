@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Time Warner would give control of the TV UI to Apple but wants to keep 'customer relationship'
+title: Time Warner would give control of the TV UI to Apple but wants to keep customer relationship
 ---
 * Will Apple fans buy a device that doesn’t have the Apple logo plastered everywhere? That’s the question being considered in Cupertino and elsewhere amid a report media giant Time Warner Cable may give Apple control of a TV user interface — with a catch. Time Warner wants to retain the “customer relationship,” not Apple.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/apple-tv-ui.png)

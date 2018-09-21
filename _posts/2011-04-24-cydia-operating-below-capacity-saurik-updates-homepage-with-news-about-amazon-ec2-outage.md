@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cydia Operating "Below Capacity," Saurik Updates Homepage with News about Amazon EC2 Outage
+title: Cydia Operating Below Capacity, Saurik Updates Homepage with News about Amazon EC2 Outage
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/Cydia-homepage-Amazon-EC2.png)
 * Cydia’s backend has been extensively affected by Amazon’s EC2 outage. Towards the end of last week, Amazon’s popular EC2 cloud computing service went offline and affected many heavily-trafficked services across the internet.

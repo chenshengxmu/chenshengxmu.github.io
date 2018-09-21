@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Download Apple's custom font to use these beautifully designed Mac model icons
+title: Download Apples custom font to use these beautifully designed Mac model icons
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/Apple-font-Mac-models.png)
 * We’re still discovering the many ways Apple has celebrated the Mac’s 30th anniversary. The multi-faceted festivities include a prominent section on Apple’s homepage providing a visual timeline of all Mac models since 1984, a nice ‘Happy Birthday, Mac’ section on the Mac App Store highlighting apps and games that capture the spirit of what makes the Mac a Mac, aptly-themed Apple Store window displays and commemorative posters at Apple’s HQ listing all former and current Apple employees, to name a few (bonus: MacWorld and ABC interviews).

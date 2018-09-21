@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AU Optronics seen boosting output of iPad mini screens ahead of next week's unveiling
+title: AU Optronics seen boosting output of iPad mini screens ahead of next weeks unveiling
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/ipad-display.jpg)
 * Having solved yield issues, Taiwan’s maker of flat panel displays AU Optronics (AUO) is said to be boosting its output of displays for the iPad mini, with Apple being so confident in AUO’s ability to deliver that it upped orders by 50 percent to three million panels (Apple’s striving to produce ten million iPad minis).

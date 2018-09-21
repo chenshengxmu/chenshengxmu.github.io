@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Alleged iPhone "Lite" Leaked Online, And It's Jailbroken
+title: Alleged iPhone Lite Leaked Online, And Its Jailbroken
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/07/jailbroken-iPhone-lite-prototype.jpeg)
 * Take this one with a huge grain of salt, but TechCrunch is reporting that it’s received leaked shots of a “light version of the iPhone 4.” These pictures of what looks very much like a jailbroken iPhone 4 come from Tinhte, and TechCrunch makes the point that Tinhte got a white iPhone 4 prototype right with a leaked video back in April.

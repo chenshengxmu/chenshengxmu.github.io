@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Swift creator leaves Apple to be Tesla's VP of Autopilot Software
+title: Swift creator leaves Apple to be Teslas VP of Autopilot Software
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/Swift-2-new-features.jpg)
 * Swift creator Chris Lattner is leaving Apple to take a position as Vice President of Autopilot Software at Tesla. Lattner announced his departure Tuesday on a Swift.org forum, and Tesla published a blog post shortly after welcoming him to the company.

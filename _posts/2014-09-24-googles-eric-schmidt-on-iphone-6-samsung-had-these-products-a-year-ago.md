@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's Eric Schmidt on iPhone 6- 'Samsung had these products a year ago'
+title: Googles Eric Schmidt on iPhone 6- Samsung had these products a year ago
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/eric-schmidt-google.jpg)
 * Google chairman Eric Schmidt didn’t have positive things to say about the iPhone 6 and iPhone 6 Plus released to much fanfare last week, as you may expect. Schmidt, who is often credited with speaking loosely, had a bold response when a Bloomberg interviewer asked how he felt about people lined up around the block for the new iPhone. 

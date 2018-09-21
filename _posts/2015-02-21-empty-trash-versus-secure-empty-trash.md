@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Empty Trash versus Secure Empty Trash - what's the difference?
+title: Empty Trash versus Secure Empty Trash - whats the difference?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/Secure-Empty-Trash.png)
 * Did you know that there are actually two ways to empty the trash on your Mac? Perhaps you’ve seen both options before, but never gave it much thought. Just what is the deal with Empty Trash versus Secure Empty Trash? Which one should you use? By knowing what each empty trash command is capable of doing, you’ll be able to make more informed future decisions with regard to handling your Mac’s sanitation needs.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple reportedly secured three year's worth of sapphire glass
+title: Apple reportedly secured three years worth of sapphire glass
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/GT-Advanced-furnaces-Pocketnow-001.jpg)
 * With a larger of the two jumbo-sized iPhones rumored to arrive later this year rocking a massive 5.5-inch screen, Apple’s adamant to buy huge amounts of thin sapphire laminates, likely to strengthen the handset’s cover glass. We know Apple invested nearly $500 million in high-tech furnaces and equipment for its Arizona sapphire plant.

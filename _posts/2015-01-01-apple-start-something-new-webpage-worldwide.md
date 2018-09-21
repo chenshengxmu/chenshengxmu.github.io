@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple pushes 'Start Something New' webpage worldwide to highlight iOS' artistic nature
+title: Apple pushes Start Something New webpage worldwide to highlight iOS artistic nature
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-31-at-11.48.35-PM.png)
 * Apple’s marketing team has pushed a new webpage worldwide titled “Start Something New” to highlight the iPad as a way of creating art through drawings and photographs.

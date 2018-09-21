@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Foxconn's upcoming $2.6 billion plant rumored to produce iPhone sapphire screens
+title: Foxconns upcoming $2.6 billion plant rumored to produce iPhone sapphire screens
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/05/foxconn.jpg)
 * Its deal with GT Advanced Technology — which filed for Chapter 11 bankruptcy protection after failing to ramp up sapphire production in time for the iPhone 6 launch — has collapsed but Apple isn’t giving up on the precious gemstone entirely yet.

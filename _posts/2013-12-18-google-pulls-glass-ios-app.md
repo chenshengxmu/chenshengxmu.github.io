@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google pulls Glass iOS app because it 'spilled the beans' too soon
+title: Google pulls Glass iOS app because it spilled the beans too soon
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/myglass-1.png)
 * Google’s official $1,500 Glass eyewear companion app for the iPhone, MyGlass, has been removed from the App Store shortly after it was released. But hold your horses, this particular app removal has nothing to do with Apple – the Internet giant itself asked the iPhone maker to pull the software because it got posted prematurely to begin with.

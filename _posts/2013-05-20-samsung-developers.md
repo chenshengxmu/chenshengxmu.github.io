@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung's $800,000 competition lures devs to write exclusive Galaxy apps
+title: Samsungs $800,000 competition lures devs to write exclusive Galaxy apps
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/Samsung-Galaxy-S-4-white-three-up-front-profile-back.jpg)
 * Samsung wants more developers writing apps that require features exclusively found on its own devices, such as the Galaxy S4 flagship smartphone – and is willing to pay. In an $800,000 competition, the South Korean conglomerate is seeking entries which highlight its own sharing service and proprietary software development kit.

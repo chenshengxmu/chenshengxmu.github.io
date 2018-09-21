@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple introduces new landscape, "reachability" features for larger iPhones
+title: Apple introduces new landscape, reachability features for larger iPhones
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/iPhone-6-landscape-view-2.png)
 * Alongside its two new iPhones, Apple has introduced some new features that will help users take advantage of their larger displays. One gives you the ability to view apps in an iPad-like split screen view while in landscape mode, like you see above, and the other is called “reachability.”

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's how the Apple TV's new Bluetooth keyboard support works
+title: Heres how the Apple TVs new Bluetooth keyboard support works
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/Apple-TV-Bluetooth-Keyboard-Setup-Keyboard.jpg)
 * Earlier today we told you about how the latest beta version of the Apple TV firmware adds Bluetooth keyboard support. Why Apple is just now getting around to adding support for keyboards is anyone’s guess, but it’s better late than never.

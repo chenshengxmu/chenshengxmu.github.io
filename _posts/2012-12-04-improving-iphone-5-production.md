@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Improving iPhone 5 production expected to increase Apple's profits
+title: Improving iPhone 5 production expected to increase Apples profits
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/iphone-5-ad1.jpg)
 * The picture appears brighter for Apple’s iPhone 5. Not only is the new smartphone easier to find in stores, it’s also the top searched for gadget in 2012 and looks to be off to a great start in China. Now, improving supplies is reducing cost and increasing profitability for Apple, one analyst said Tuesday. A smoother supply chain has meant shipping time cut in half to just two days, down from four. Additionally, the improvements come as Apple preps to offer its handset in more than 50 countries during December…

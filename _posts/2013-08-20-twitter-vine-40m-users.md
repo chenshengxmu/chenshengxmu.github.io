@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twitter's Vine hits 40 million registered users
+title: Twitters Vine hits 40 million registered users
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/Vine-1.3-for-iOS-teaser-001.jpg)
 * Twitter’s Vine has seen little action over the past few weeks, especially in light of Instagram Video and with a bunch of startups vying for our attention in the short video-sharing space.

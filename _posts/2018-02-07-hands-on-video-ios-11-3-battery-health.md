@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video- hands-on with iOS 11.3's promised new Battery Health feature
+title: Video- hands-on with iOS 11.3s promised new Battery Health feature
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/02/iPhone-X-Battery.jpg)
 * Apple took the wraps off its promised new Battery Health capability in beta 2 of iOS 11.3. This new feature lets select iPhone users see the health of their battery, as well as disable Apple’s performance management features (read: CPU throttling) if they so choose.

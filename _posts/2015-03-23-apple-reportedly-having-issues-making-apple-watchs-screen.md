@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple reportedly having issues making Apple Watch's screen
+title: Apple reportedly having issues making Apple Watchs screen
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/apple-watch1.png)
 * Apple is having issues manufacturing the 1.5-inch AMOLED screen for the Apple Watch, and as a result, has cut initial production and shipment targets in half, according to UDN Mobile.

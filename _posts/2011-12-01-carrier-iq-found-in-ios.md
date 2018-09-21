@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Carrier IQ's Creepy User-Tracking Software Found in iOS, Here's How to Turn it Off
+title: Carrier IQs Creepy User-Tracking Software Found in iOS, Heres How to Turn it Off
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/carrier-iq-e1322732864860.jpg)
 * Over the last couple of days, there has been a lot of talk around the web regarding Carrier IQ. The company makes user-tracking software for Android, BlackBerry, and Symbian handsets that secretly logs keystrokes, text messages, and other data.

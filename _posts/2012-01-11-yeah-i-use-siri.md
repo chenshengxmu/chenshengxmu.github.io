@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yeah, I Use Siri Everyday. And it's Awesome.
+title: Yeah, I Use Siri Everyday. And its Awesome.
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/iphone-4s-siri-lead-new-261011-e1320765822920.jpg)
 * For some reason there has been a lot of negativity thrown in Siri‘s direction over the past few months. The digital assistant that was once referred to as a “major revolution in voice recognition technology” is now being written off as a mere novelty.

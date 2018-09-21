@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rumor- LG nears OLED iWatch deal, Google smartwatch due 'within months'
+title: Rumor- LG nears OLED iWatch deal, Google smartwatch due within months
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/iWatch-packaging-concept.jpg)
 * LG Display, a prominent Apple supplier that provides LCD panels for the iPad, MacBook and iMac devices, is apparently close to striking a deal to supply a portion of flexible OLED screens for Apple’s rumored iWatch wearable device. Furthermore, Apple is understood to have discussed the possibility of a similar deal with its biggest supplier Samsung, but talks apparently fell apart.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BoostedWifi augments your iPhone's Wi-Fi capabilities
+title: BoostedWifi augments your iPhones Wi-Fi capabilities
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/03/BoostedWiFi.jpg)
 * If you’d like to beef up the Wi-Fi capabilities of your jailbroken iPhone or iPad, then you might take interest in a new free jailbreak tweak called BoostedWifi by iOS developer KingPuffdaddi.

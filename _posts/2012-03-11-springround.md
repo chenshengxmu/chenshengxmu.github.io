@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Access your SpringBoard from anywhere using 'Springround'
+title: Access your SpringBoard from anywhere using Springround
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/Springround-Screenshot.jpg)
 * Springround is an upcoming jailbreak tweak that will allow you to access your iPhone’s Home screen app icons from anywhere.

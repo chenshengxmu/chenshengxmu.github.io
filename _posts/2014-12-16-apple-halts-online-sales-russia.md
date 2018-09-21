@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple halts online sales in Russia due to 'extreme' currency fluctuations
+title: Apple halts online sales in Russia due to extreme currency fluctuations
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/well-be-back.png)
 * Apple has halted all online sales in Russia this morning, due to “extreme” fluctuations in the country’s ruble currency, reports Bloomberg. Spokesman Alan Hely told the outlet that the company has decided to shutter the store while it “reviews pricing,” and it “apologizes to customers for any inconvenience.”

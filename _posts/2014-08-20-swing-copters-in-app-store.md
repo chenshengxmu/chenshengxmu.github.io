@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New game from Flappy Bird developer 'Swing Copters' now available
+title: New game from Flappy Bird developer Swing Copters now available
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/swing-2.png)
 * As promised, ‘Swing Copters,’ the latest game from Flappy Bird developer Dong Nguyen is now available in the App Store. It’s free, with a single $1.29 in-app purchase to remove ads, and it supports both the iPhone and iPad.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to read iDownloadBlog from Facebook's new Paper app
+title: How to read iDownloadBlog from Facebooks new Paper app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/iDownloadBlog-Paper.png)
 * I’m usually not much of a Facebook user but I have to admit I have been spending more time on the social network in the last two days than I have in the whole last month. Why is that? It’s simply due to their new app named Paper, which lets you browse Facebook in a beautiful and intuitive way. If you haven’t tried it yet, I really encourage you to have a look at it. It might change the way you see Facebook, at least until they slap a bunch of ads on it.

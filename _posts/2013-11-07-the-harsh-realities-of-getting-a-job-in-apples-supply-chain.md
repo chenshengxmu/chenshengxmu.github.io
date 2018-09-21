@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The harsh realities of getting a job in Apple's supply chain
+title: The harsh realities of getting a job in Apples supply chain
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/foxconn_prospective_employees_zhengzhou.jpg)
 * Current CEO Tim Cook under Steve Jobs used to run Apple’s vast network of suppliers and contract manufacturers and has largely been credited with turning the company into a well-oiled money-printing machine. But making sure trains run on time involves the incredible complexities associated with hiring tens of thousands of workers – and fast, too –  who tediously assemble iPhones and iPads in factories located in China and Taiwan.

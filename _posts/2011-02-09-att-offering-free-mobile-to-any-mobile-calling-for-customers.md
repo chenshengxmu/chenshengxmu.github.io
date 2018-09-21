@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T Offering Free "Mobile to Any Mobile" Calling for Customers
+title: AT&T Offering Free Mobile to Any Mobile Calling for Customers
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/02/broken-ATT-e1297272110487.png)
 * Verizon has been stealing attention away from the iPhone’s original carrier, and it looks like AT&T is doing all it can to keep disgruntled customers from jumping ship.

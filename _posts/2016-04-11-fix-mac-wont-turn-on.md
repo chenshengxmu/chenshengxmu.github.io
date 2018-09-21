@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What you should do if your Mac won't turn on
+title: What you should do if your Mac wont turn on
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/Twelve-inch-MacBook-Space-Grey-closeup-001.jpg)
 * Most of the time when you want to use your Mac, you can just press the power button, hear a startup sound, and your computer will begin to boot up so you can use it.

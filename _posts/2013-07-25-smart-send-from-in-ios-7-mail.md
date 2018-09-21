@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New in iOS 7- smart 'send from' in Mail
+title: New in iOS 7- smart send from in Mail
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/iOS-7-Mail-icon-teaser-001.png)
 * Just a quick note regarding a nice little feature discovery in Apple’s stock Mail app in iOS 7 that I haven’t seen reported on thus far.

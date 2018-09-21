@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Siri Eyes Free makes its debut today in Chevy's Spark and Sonic vehicles
+title: Siri Eyes Free makes its debut today in Chevys Spark and Sonic vehicles
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/eyes-free.jpg)
 * Last summer, during its WWDC keynote, Apple announced that it was going to be taking its digital assistant act on the road. It introduced Siri ‘Eyes Free,’ a feature that allows qualified iPhone users to interact with Siri over Bluetooth using stock vehicle controls.

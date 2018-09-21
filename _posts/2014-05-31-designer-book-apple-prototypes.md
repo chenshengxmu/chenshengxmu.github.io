@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Designer's book 'Keep it Simple' highlights early Apple phone and tablet prototypes
+title: Designers book Keep it Simple highlights early Apple phone and tablet prototypes
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/S86_verge_super_wide.jpg)
 * In a follow-up to his 2012 book ‘Design Forward,’ industrial designer Hartmut Esslinger released ‘Keep it Simple‘ late last year. The book talks about the collaboration between Esslinger and Steve Jobs during the mid-80s, which led to the creation of several iconic Apple products.

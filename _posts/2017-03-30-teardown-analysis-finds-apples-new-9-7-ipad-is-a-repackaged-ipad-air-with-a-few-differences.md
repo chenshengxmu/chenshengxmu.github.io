@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Teardown analysis finds Apple's new 9.7" iPad is a repackaged iPad Air with a few differences
+title: Teardown analysis finds Apples new 9.7 iPad is a repackaged iPad Air with a few differences
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/03/iFixit-teardown-9.7-inch-iPad-2017-image-002.jpg)
 * Repair experts over at iFixit tore apart Apple’s new iPad with a brighter 9.7-inch screen. What they discovered doesn’t come as surprise: the canonical iPad is basically an original four-year-old iPad Air with a more repairable screen and some new jewelry in the form of Touch ID, Apple Pay, Apple’s homegrown third-generation 64-bit A9 chip with the embedded M9 motion coprocessor and other minor updates.

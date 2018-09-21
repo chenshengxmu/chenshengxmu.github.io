@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to fix boot loop on a jailbroken iPhone or iPad with 'No Substrate Mode'
+title: How to fix boot loop on a jailbroken iPhone or iPad with No Substrate Mode
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/Jailbreak-Cydia-Tweak-Icon.jpg)
 * What happens when a jailbreak tweak bugs out on your device and ends up in a boot loop? Do you try to reboot the device to no avail? Do you take to the internet to ask how to fix it?

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It doesn't take a genius indeed
+title: It doesnt take a genius indeed
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iPhone-5-in-hand-right-angled.jpg)
 * You’ve seen Samsung’s anti-iPhone newspaper ad (and a Nokia fan’s take) that takes a jab at the incoming iPhone 5.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The iPhone 5 camera's low-light ability is pretty amazing
+title: The iPhone 5 cameras low-light ability is pretty amazing
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iPhone-5-camera.jpeg)
 * At first glance, it may appear that your photos look the same when taken with either the iPhone 5 or the iPhone 4S. It may even lead you to believe that there is no difference at all between the two cameras.

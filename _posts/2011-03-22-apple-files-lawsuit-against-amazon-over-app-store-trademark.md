@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Files Lawsuit Against Amazon Over 'App Store' Trademark
+title: Apple Files Lawsuit Against Amazon Over App Store Trademark
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/03/amazon-appstore.png)
 * Amazon has had an “appstore” developer portal since January; a place where developers can submit mobile applications for approval and then sell them on Amazon’s website.

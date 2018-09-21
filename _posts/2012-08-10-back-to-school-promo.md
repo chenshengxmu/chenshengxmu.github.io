@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EA's Back to School promotion knocks 80% off popular iOS titles
+title: EAs Back to School promotion knocks 80% off popular iOS titles
 ---
 * >
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/Back_2_School_Sale_723x250_R1.jpg)

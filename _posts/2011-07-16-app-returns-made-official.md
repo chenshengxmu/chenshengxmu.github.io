@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 7-Day App Return Policy Gets Official in Taiwan, Apple's TOS Updated
+title: 7-Day App Return Policy Gets Official in Taiwan, Apples TOS Updated
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/07/wall-of-apps.jpg)
 * The App Store’s lack of a trial process or refund policy has been one of the few downfalls of an otherwise successful venture. Though some 3rd party developers offer refunds under special circumstances, it’s not a bet you’d ever be willing to make.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile's JUMP! upgrade program now includes free AppleCare+ services
+title: T-Mobiles JUMP! upgrade program now includes free AppleCare+ services
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/11/johnlegere.jpg)
 * T-Mobile said today that its JUMP! upgrade program and Premium Device Protection now include free AppleCare+ for iPhone and iPad because “the best devices in the world deserve the best protection and care.”

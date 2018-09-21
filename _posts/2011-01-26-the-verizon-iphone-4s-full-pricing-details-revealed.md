@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Verizon iPhone 4's Full Pricing Details Revealed
+title: The Verizon iPhone 4s Full Pricing Details Revealed
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/01/Verizon-iPhone-4-teaser.png)
 * It seems like every day tiny bits of information trickle out concerning the Verizon iPhone 4. Now it looks like we’re finally getting somewhere, with full pricing information managing to leak out today.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple introduces 'HomeKit' smart home platform
+title: Apple introduces HomeKit smart home platform
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/HomeKit.jpg)
 * As expected, Apple has announced a new platform for smart home accessories called HomeKit. The new API, which will launch with iOS 8, will make it easier for smart accessories to allow their devices to be controlled by iPhones, as well as Siri.

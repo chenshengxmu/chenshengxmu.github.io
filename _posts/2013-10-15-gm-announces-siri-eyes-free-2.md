@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GM announces Siri 'Eyes Free' coming to 2014 Camaro, Malibu and more
+title: GM announces Siri Eyes Free coming to 2014 Camaro, Malibu and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/siri-eyes-free.jpg)
 * General Motors has issued a press release this week, announcing that Siri ‘Eyes Free’ mode will be coming to several new vehicles in 2014, including the Chevy Camaro, Volt, Malibu, SS, Cruze and Equinox.

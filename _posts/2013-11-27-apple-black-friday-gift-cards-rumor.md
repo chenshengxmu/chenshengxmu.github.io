@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's 2013 Black Friday to be based around gift cards, not product discounts?
+title: Apples 2013 Black Friday to be based around gift cards, not product discounts?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/Apple-Black-Friday-2013-teaser-001.png)
 * Black Friday, for our international readers, is the Friday following Thanksgiving Day, which is observed on the fourth Thursday of November in the United States and on the second Monday of October in Canada. While Thanksgiving is a national holiday and is celebrated as such, Black Friday is not.

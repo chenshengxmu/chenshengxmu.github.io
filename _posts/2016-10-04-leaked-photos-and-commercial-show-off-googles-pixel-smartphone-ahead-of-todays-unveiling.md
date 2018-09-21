@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Leaked photos and commercial show off Google's Pixel smartphones ahead of today's unveiling
+title: Leaked photos and commercial show off Googles Pixel smartphones ahead of todays unveiling
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/Google-Pixel-slide-001.png)
 * As we told you, Google will be unveiling a pair of “Made by Google” smartphones, the Pixel and Pixel XL, at a media event later today. Yesterday, British mobile retailer Carphone Warehouse posted a series of slides for the upcoming devices.

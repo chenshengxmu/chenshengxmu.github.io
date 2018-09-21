@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pirate Bay co-founder touts 'secret' messaging app
+title: Pirate Bay co-founder touts secret messaging app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/Hemlis-teaser-001.jpg)
 * So, you want to order a pizza or text sweet nothings to your significant other without the NSA listening? The co-founder of The Pirate Bay, known for swapping illicit copies of movies and software, has a secret – literally. Peter Sunde is raising funds for Hemlis (Swedish for “secret”), a new kind of messaging app for iOS and Android he and his team are working on. They boldly claim the software is designed to keep out the most prying eyes, such as those from the U.S. government’s PRISM program…

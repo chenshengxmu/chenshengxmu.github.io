@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Facebook testing new 'M' digital assistant feature within Messenger
+title: Facebook testing new M digital assistant feature within Messenger
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/08/facebook-assistant.png)
 * Facebook on Wednesday began testing a new digital assistant feature called ‘M.’ As explained by Facebook Messenger lead David Marcus, the feature, which lives inside Messenger, is powered by artificial intelligence that can complete tasks and find information on a user’s behalf.

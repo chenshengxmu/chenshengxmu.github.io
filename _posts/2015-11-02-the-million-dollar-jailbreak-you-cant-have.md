@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The million dollar jailbreak you can't have
+title: The million dollar jailbreak you cant have
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/11/zerodium-bounty.png)
 * Vulnerability and exploit acquisition platform Zerodium announced today that the million dollar bounty it had put together has expired, noting that a team of researchers has won the prize. Launched in September of this year, the bounty program aimed at rewarding anyone one who would come forward with an “exclusive, browser-based, and untethered jailbreak for the latest Apple iOS 9 operating system and devices.”

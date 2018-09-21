@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Been Interested in the TV Industry for Over 15 Years
+title: Apples Been Interested in the TV Industry for Over 15 Years
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/apple-tv-96.jpg)
 * There’s been a lot of talk over the last few months about Apple releasing its own TV set. While several pundits and analysts are expecting a game-changer from the iPhone-makers, others don’t think the company has the experience to make it in the TV industry.

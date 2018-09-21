@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's Talk iOS 058- The Firefox experiment
+title: Lets Talk iOS 058- The Firefox experiment
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/Lets-Talk-iOS-podcast-cover-no-matrix-effect.png)
 * Episode 58: Sebastien and Jeff talk about their recent trips, and Cody talks about his Black Friday deals. The crew laments about ongoing iOS 8 issues, and chit-chats about Apple’s new ads. Sebastien challenges Jeff to use Firefox on his Mac for an entire week straight.

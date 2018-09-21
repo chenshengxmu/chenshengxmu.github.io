@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T and Incipio introduce new 'Cashwrap' NFC iPhone case
+title: AT&T and Incipio introduce new Cashwrap NFC iPhone case
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/cashwrap-case.jpg)
 * Incipio announced today the launch of its new Cashwrap Mobile Wallet Case for the iPhone 4, 4S, 5, and 5s. The case features NFC tech, and works with the Isis Mobile Wallet app that lets users pay with their smartphones at participating retailers.

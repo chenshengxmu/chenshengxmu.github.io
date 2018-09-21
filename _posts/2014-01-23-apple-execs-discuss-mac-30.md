@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple execs talk Mac's 30th anniversary, future of OS X and iOS, and more
+title: Apple execs talk Macs 30th anniversary, future of OS X and iOS, and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/Steve-Jobs-Mac-001.png)
 * In honor of the 30th anniversary of the unveiling of the original Macintosh, which happens to be tomorrow, Macworld has published a lengthy interview with three Apple executives to discuss a wide range of topics regarding the popular computer.

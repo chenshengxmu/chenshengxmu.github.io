@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Foxconn confirms it's starting to deploy robots to help assemble iPhones
+title: Foxconn confirms its starting to deploy robots to help assemble iPhones
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/Foxconn-robot.jpg)
 * Hon Hai Precision Industry Co., Ltd., also known in the Western world as Foxconn, the world’s largest contract manufacturer, will soon start deploying sophisticated robots to help assemble iPhones, CEO and Chairman Terry Gou announced during a shareholder meeting Monday.

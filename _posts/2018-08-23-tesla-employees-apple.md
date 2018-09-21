@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CNBC claims 'scores' of Tesla employees are leaving and heading to Apple
+title: CNBC claims scores of Tesla employees are leaving and heading to Apple
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/tesla-motors.jpg)
 * Since 2017, Apple has attracted “scores of employees” away from Tesla, including manufacturing, security, and software engineers. However, not all of the recent hires are going to the company’s secretive vehicle initiative, Project Titan. Instead, some are headed elsewhere in the company where it needs software, display, optics, and battery-tech talent for other products, according to CNBC.

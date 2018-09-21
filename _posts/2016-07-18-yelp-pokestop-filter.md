@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Catch ‘em all using Yelp's built-in PokéStop filter
+title: Catch ‘em all using Yelps built-in PokéStop filter
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/07/Yelp-Pokestops.jpg)
 * Pokémon Go’s burgeoning community has been painstakingly creating and maintaining a detailed Google map of PokéStops and gym locations found in specific spots around the world. Actually, whole websites have sprung up dedicated to the Internet phenomenon that seems to be taking the word by storm. Now Yelp developers have decided to jump in on the action with a new PokéStop filter in their mobile app.

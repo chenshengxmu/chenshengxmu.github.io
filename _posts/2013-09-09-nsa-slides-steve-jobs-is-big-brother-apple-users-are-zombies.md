@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NSA slides- Steve Jobs is Big Brother, Apple users are 'zombies'
+title: NSA slides- Steve Jobs is Big Brother, Apple users are zombies
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/NSA-data-center-in-Utah.jpg)
 * In case you missed our Sunday coverage of the newly exposed NSA tactics, the snooping agency – thanks to its secret 10-year initiative code-named Bullrun which runs at $250 million a year – has been able to successfully crack much of the Internet’s widely-used encryption technologies to compromise everyone’s online communications, banking transactions and other sensitive data.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft's Surface just a blip with 0.13 percent of tablet traffic
+title: Microsofts Surface just a blip with 0.13 percent of tablet traffic
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/Surface-table-left-angled-red-cover.jpg)
 * Apparently, more of Microsoft’s Surface tablets are showing up in commercials and television episode placements than online. Despite an aggressive push, the Windows device accounted for just 0.13 percent of advertising served to tablets during November, according to one mobile advertising network. The dismal numbers are just the latest sign the much-heralded Surface just isn’t selling.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gmail for iOS now opens links in Chrome, what's next?
+title: Gmail for iOS now opens links in Chrome, whats next?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/chrome-gmail.jpg)
 * Gmail for iOS received a minor update today, bringing the app to version 1.3.1. The email client now runs a bit more smoothly, and more importantly, it can now open links in the Chrome browser.

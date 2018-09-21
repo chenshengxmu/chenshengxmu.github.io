@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We're giving away three 'Lima' beta invites
+title: Were giving away three Lima beta invites
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/Lima-Beta-Invites.jpg)
 * Last week we brought you an in-depth look at Lima — the web-based Cydia alternative for jailbroken iOS devices. Needless to say, we were thoroughly impressed by what we saw.

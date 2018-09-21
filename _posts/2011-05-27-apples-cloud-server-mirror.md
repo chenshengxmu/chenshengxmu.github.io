@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Cloud Server May Mirror User Libraries, no Uploading Needed
+title: Apples Cloud Server May Mirror User Libraries, no Uploading Needed
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/05/cloudmirror.png)
 * There has been a huge increase in iCloud gossip over the last month or so. The music industry has been a fairly leaky faucet throughout these final weeks of Apple’s rumored negotiations. We’ve now heard that 3 out of the 4 major music labels have agreed to Apple’s iCloud conditions.

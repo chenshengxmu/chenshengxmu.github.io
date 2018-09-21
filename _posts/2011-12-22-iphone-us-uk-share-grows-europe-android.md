@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone's US and UK Share Grows, Rest of Europe Turning to Android
+title: iPhones US and UK Share Grows, Rest of Europe Turning to Android
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/iphone-4s-user.jpg)
 * A new report from Kantar Worldpanel ComTech today claims that the iPhone 4S is responsible for a growth in market share for Apple’s iPhone in both the UK and US, with consumers rushing out to pick up Apple’s latest tech.

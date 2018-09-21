@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What to do when your iPhone or iPad won't connect to Wi-Fi
+title: What to do when your iPhone or iPad wont connect to Wi-Fi
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/FullSizeRender-6.jpg)
 * Wi-Fi is great, when it works, but sometimes those wireless networks we use to connect to the web can experience trouble. In these moments, your iOS devices may be unable to establish a connection to the internet, and it can be frustrating.

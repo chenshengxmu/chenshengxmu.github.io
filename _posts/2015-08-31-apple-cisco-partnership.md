@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple and Cisco form partnership to 'deliver fast lane' for iOS enterprise users
+title: Apple and Cisco form partnership to deliver fast lane for iOS enterprise users
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/Apple-logo-space-001.jpg)
 * In a press release issued Monday, Apple announced a partnership with network giant Cisco designed to deliver “fast lane” for iOS enterprise users. The initiative strives to optimize Cisco networks for iOS devices and apps and integrate the iPhone with Cisco enterprise environments.

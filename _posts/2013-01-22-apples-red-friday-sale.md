@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's 'Red Friday' sale set to take place on January 25
+title: Apples Red Friday sale set to take place on January 25
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/red-friday-sale.jpg)
 * Apple announced its annual Lunar New Year sale last night, a one day shopping event for Asian countries that is similar to November’s Black Friday event. The sale, dubbed “Red Friday,” is set to take place on January 25.

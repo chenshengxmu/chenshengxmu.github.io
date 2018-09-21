@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mars is a levitating Bluetooth speaker that's jam-packed with features
+title: Mars is a levitating Bluetooth speaker thats jam-packed with features
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/Mars-by-Crazybaby-Review-levitating.png)
 * Picking the right Bluetooth speaker for your needs can be hard, especially with all the options out there.

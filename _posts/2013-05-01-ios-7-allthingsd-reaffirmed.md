@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AllThingsD reaffirms Apple is working on 'deForstallization' in iOS 7
+title: AllThingsD reaffirms Apple is working on deForstallization in iOS 7
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/ios-7-game-center.jpg)
 * After months of silence, reports regarding the next major version of iOS have really picked up in recent weeks. Most chatter points to the same thing: iOS 7 will sport an all-new, flatter interface, and the redesign has Apple running behind.

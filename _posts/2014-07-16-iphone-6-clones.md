@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Can't wait for the official iPhone 6? Here come the clones!
+title: Cant wait for the official iPhone 6? Here come the clones!
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/Goophone-i6-image-001.jpg)
 * If the very thought of waiting until September when Apple is expected to formally announce its next iPhone is making you nervous and edgy because you simply need an iPhone 6 now, your best bet is one of the iPhone 6 knock-offs that are now cropping up all over the place in China.

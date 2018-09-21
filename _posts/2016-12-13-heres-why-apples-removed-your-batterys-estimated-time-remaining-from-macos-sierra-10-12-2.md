@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's why macOS Sierra 10.12.2 removes your battery's estimated time remaining
+title: Heres why macOS Sierra 10.12.2 removes your batterys estimated time remaining
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/12/macOS-Sierra-10.12.2-battery-time-remaining-indicator.png)
 * Aside from a number of fixes, GPU improvements and a few new features in macOS Sierra 10.12.2, the update’s introduced a significant change related to the Mac’s Battery menu. Long story short, Macs with macOS Sierra 10.12.2 or later no longer display the battery’s estimated time remaining in the Mac’s menu bar.

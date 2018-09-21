@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hands-on with Apple's new Sport Loop band for Apple Watch
+title: Hands-on with Apples new Sport Loop band for Apple Watch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/watch-colors.jpg)
 * Alongside the new Apple Watch Series 3, Apple updated its whole range of watch bands with new fall colors, new Hermés options, and a whole new style. The Sports Loop is a lightweight, loop style band that is sweat-proof for intense workouts.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Former WGN America president Matt Cherniss joins Apple's global video team
+title: Former WGN America president Matt Cherniss joins Apples global video team
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/10/Apple-TV-4-watching-movies-lifestyle-001.jpg)
 * As news broke that Apple is poised to become a major player in Hollywood by spending a cool $1 billion on original TV shows and movies in the next year, Variety reports that Matt Cherniss, who was a president and general manager of WGN America and Tribune Studios, has joined the Cupertino technology giant’s growing worldwide video team.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple in talks with NFL to live-stream next season's London games
+title: Apple in talks with NFL to live-stream next seasons London games
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/nfl.jpg)
 * Apple is in talks with the National Football League regarding streaming rights, reports Reuters. Citing two sources familiar with the situation, the outlet says the iPhone-maker is among a group of tech firms pursuing the opportunity to live-stream 3 NFL games next season.

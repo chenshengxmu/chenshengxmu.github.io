@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple clarifies "4G" iPad marketing in Australia, warranty coverage options in the EU
+title: Apple clarifies 4G iPad marketing in Australia, warranty coverage options in the EU
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/Apple-Australia-iPad-4G-clarification.jpg)
 * Apple’s doing lots of clarifying lately, that much is clear. Just this day, the company finally tweaked the problematic “4G” wording for the new iPad in Australia and clarified warranty coverage options in the European Union.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's return to US could be led by Foxconn
+title: Apples return to US could be led by Foxconn
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/Foxconn-assembly-line-image-001.jpg)
 * Remember when foreign auto makers such as Honda opened manufacturing plants in the United States? The same likely will be true for Apple in 2013 when the Cupertino, California-based iPhone maker relies on its Chinese manufacturing partner to hire U.S. workers to build gadgets – then increasingly exported to other nations. I’ll pause while you try to follow that convoluted logic.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Former GM Vice Chairman disses Apple's car project, calls it 'a gigantic money pit'
+title: Former GM Vice Chairman disses Apples car project, calls it a gigantic money pit
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/apple-car-concept.jpg)
 * If you’re looking for the auto industry version of “PC guys are not going to just figure this out. They’re not going to just walk in,” look no further than knee-jerk comments that former GM Vice Chairman Bob Lutz made on CNBC.

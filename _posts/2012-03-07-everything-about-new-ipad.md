@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Everything you need to know about today's iPad event
+title: Everything you need to know about todays iPad event
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/new-ipad.jpg)
 * Apple’s iPad event ended three hours ago, and things are just now starting to quiet down. As most of you know, today was a big day for the Cupertino company, who made a number of big announcements.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple will be live-streaming today's event on Apple TV
+title: Apple will be live-streaming todays event on Apple TV
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/apple-event-live-stream.jpg)
 * Great news Apple fans, it looks like the Cupertino company has decided to live stream today’s so-called “iPad mini” event after all.

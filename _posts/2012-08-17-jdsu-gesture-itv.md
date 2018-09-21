@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's gesture recognition tech Apple probably licensed for iTV
+title: Heres gesture recognition tech Apple probably licensed for iTV
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/hand-gestures-minority-report-e1319760305118.jpg)
 * Jefferies & Co’s Peter Misek wrote in today’s note to clients that production of the rumored Apple-branded HD TV is in full swing. While we suspect there would have been plenty of leaks ahead of manufacturing ramp up, a pair of The Wall Street Journal reports yesterday (here and here) did claim that Apple’s been working on a set-top box with cloud DVR features and the ability to retrieve premium cable TV content.

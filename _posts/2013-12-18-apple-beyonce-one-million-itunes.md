@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digital music download's not dead- Beyoncé proves it
+title: Digital music downloads not dead- Beyoncé proves it
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/Beyonce-iTunes.png)
 * Beyoncé’s fifth self-named album was released as an iTunes-exclusive with absolutely no hype five days ago. Billboard said the album had sold 80,000 copies in just three hours on its first day of iTunes release. Three days in, the digital download pulled 828,773 downloads, Apple confirmed.

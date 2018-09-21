@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Popular Science Sees Readership Boost Thanks to Apple's Newsstand
+title: Popular Science Sees Readership Boost Thanks to Apples Newsstand
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/newsstand-ios5.jpeg)
 * Apple’s Newsstand is proving to be a big hit, both with those who own iPads and iPhones and with those behind the magazines and newspapers themselves.

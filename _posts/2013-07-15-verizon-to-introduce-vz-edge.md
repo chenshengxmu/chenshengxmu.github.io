@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Verizon to allow more frequent device upgrades with new 'VZ Edge' plan
+title: Verizon to allow more frequent device upgrades with new VZ Edge plan
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/Verizon-Wireless-store-interior-001.jpg)
 * It looks like T-Mobile’s recent Uncarrier campaign is starting to catch the attention of the other major US carriers, because hot on the heels of it announcing its new ‘Jump’ upgrade program, comes word that Verizon may be following suit.

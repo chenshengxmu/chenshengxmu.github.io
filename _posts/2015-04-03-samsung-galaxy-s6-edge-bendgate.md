@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung's Galaxy S6 Edge caught in #Bendgate of its own
+title: Samsungs Galaxy S6 Edge caught in #Bendgate of its own
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/04/Samsung-Galaxy-S6-Edge-Bendaget-004.jpg)
 * I’ll be the first to admit that the headline of this article may be a bit over the top sensationalistic or even linkbait, but same could be said for the iPhone 6 Bendgate articles. This is clearly meant for entertainment purposes. So, if you’ve been wondering how Samsung’s new Galaxy S6 Edge performs under pressure, here’s your answer.

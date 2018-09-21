@@ -1,6 +1,6 @@
 ---
 layout: post
-title: US government warns iOS users about new 'Masque Attack' threat
+title: US government warns iOS users about new Masque Attack threat
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/11/masque.png)
 * The United States government issued a warning for iPhone and iPad users today regarding the recently-discovered ‘Masque Attack’ vulnerability, reports Reuters. The security flaw, which began circulating the web earlier this week, allows malicious third-party apps to be installed to a device using enterprise provision profiles.

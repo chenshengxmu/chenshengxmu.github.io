@@ -1,6 +1,6 @@
 ---
 layout: post
-title: As we await Apple's AirPower charging mat, we went hands-on with a cheaper Plux alternative
+title: As we await Apples AirPower charging mat, we went hands-on with a cheaper Plux alternative
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/02/Plux-Charger-Nighstand.jpg)
 * As we await Apple’s AirPower charging mat, alternatives continue to crop up. Plux has been my favorite to date, improving on a number of design elements.

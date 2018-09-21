@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tweetbot's iOS app gains alerts for Quoted Tweets, support for longer Direct Messages and more
+title: Tweetbots iOS app gains alerts for Quoted Tweets, support for longer Direct Messages and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/Tweetbot-3-iPhone-6.jpg)
 * About ten days since Tweetbot for OS X brought these new features to the Mac, now Tweetbot for iPhone and iPod touch has picked up support for notifications related to Twitter’s new embedded quoting feature while laying groundwork for longer Direct Messages, a feature Twitter announced almost a month weeks ago but has yet to enable on its end.

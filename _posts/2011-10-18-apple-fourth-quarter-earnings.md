@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Reports Record Quarter, Despite Missing the Street's Expectations
+title: Apple Reports Record Quarter, Despite Missing the Streets Expectations
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/apple-store-glass-e1303338566861.jpg)
 * It’s that time again, Apple has posted its earnings for Q4 just ahead of the company’s quarterly earnings call. Apple set multiple records in the 4th quarter of the 2011 fiscal year, including quarterly revenue, and quarterly net profit.

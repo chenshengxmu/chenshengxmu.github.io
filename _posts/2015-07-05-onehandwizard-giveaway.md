@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We're giving away 10 copies of OneHandWizard
+title: Were giving away 10 copies of OneHandWizard
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/OneHandWizard-Home-screen.png)
 * As an owner of a larger iPhone, OneHandWizard ($3.99) is one of my favorite jailbreak tweaks on Cydia. It allows you to quickly switch to a one-handed mode that’s far and away more practical than the built in Reachability feature on the iPhone 6 and iPhone 6 Plus.

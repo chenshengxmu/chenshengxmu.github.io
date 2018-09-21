@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shazam updated with new 'Pulse' feature for discovering new music
+title: Shazam updated with new Pulse feature for discovering new music
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/shazam-6-1.png)
 * It seems like music discovery is all the rage these days. Twitter launched a new iPhone app back in April, and Apple launched its iTunes Music service earlier this month, both of which place a large focus on helping users discover new music.

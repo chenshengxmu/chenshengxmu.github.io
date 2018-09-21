@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's free U2 album is automatically appearing in your Music app
+title: Apples free U2 album is automatically appearing in your Music app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/BxHRoVICAAETGYk.jpg)
 * U2’s first studio album in five years, Songs of Innocence, is automatically appearing on users’ iPhone and iPads on Wednesday evening, following Apple CEO Tim Cook announcing it will be available for free on iTunes, only from Apple until October 13th. You may have thought you’d get to choose if you’d want to place the album in your iOS device’s Music app. But no, when we say automatically we mean automatically.

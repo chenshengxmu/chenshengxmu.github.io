@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Helpful Explanation of How Siri Works and Why a Port Can't Be Released
+title: A Helpful Explanation of How Siri Works and Why a Port Cant Be Released
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/Siri.png)
 * Ever since rumors of an impending Siri port started circulating, non-iPhone 4S owners have been wondering why Siri can’t be made available on older iDevices. We’ve seen video of hackers running Siri on the iPhone 4, iPod touch 4G, iPhone 3GS, and even video of Siri controlling random devices, like a thermostat.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 5 now 'in stock' in many countries
+title: iPhone 5 now in stock in many countries
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/iphone-5-in-stock.png)
 * Over the past few weeks, we’ve watched as iPhone 5 supply slowly leveled out with consumer demand. Shortly after launch, availability of the handset slipped to 3-4 weeks, and it has since improved to two weeks, one week, 2-4 days.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to live stream today's Apple "hello again" event
+title: How to live stream todays Apple hello again event
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/october-event.jpg)
 * Apple will be streaming its “Hello Again” keynote event from its home campus in Cupertino, California today.

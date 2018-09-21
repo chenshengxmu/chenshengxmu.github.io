@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Steve Jobs' Funeral Today, No Public Memorial Planned
+title: Steve Jobs Funeral Today, No Public Memorial Planned
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/jobs_tribute_soho.jpg)
 * The Wall Street Journal is reporting that Steve Jobs’ funeral is taking place today. The news puts a devastating period at the end of one of the saddest sentences in tech history. Steve Jobs has passed away.

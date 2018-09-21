@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung ads mock iPhone X's lack of a stylus, praise Note 9's power despite slower chips
+title: Samsung ads mock iPhone Xs lack of a stylus, praise Note 9s power despite slower chips
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/Samsung-Ingenius-ads.jpg)
 * Samsung yesterday unveiled Note 9 and what better way to push the new device into public consciousness than a pair of anti-iPhone videos as part of its recent “Ingenious” campaign?

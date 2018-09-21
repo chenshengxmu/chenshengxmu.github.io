@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Schiller- doubling MacBook Pro RAM would've reduced space for batteries
+title: Schiller- doubling MacBook Pro RAM wouldve reduced space for batteries
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/hello-again-event-macbook-pro-battery.jpg)
 * Software developer Ben Slaney asked Apple via email to give a more detailed clarification as to why the new MacBook Pro does not provide a 32-gigabyte build-to-order option for power users looking to max out the RAM. He allegedly received a response from Phil Schiller, who is boss of worldwide marketing at Apple and the steward of the firm’s developer relations.

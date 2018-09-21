@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SiriCorrectInfinity' makes Siri subject to infinite text edits
+title: SiriCorrectInfinity makes Siri subject to infinite text edits
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/SiriCorrectInfinity-Screenshot.jpg)
 * SiriCorrectInfinity is a free jailbreak tweak available on Cydia that allows you to make text edits to Siri queries not once, but an infinite amount of times.

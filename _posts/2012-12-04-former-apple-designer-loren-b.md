@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Former Apple designer Loren Brichter talks about Jony Ive's new role
+title: Former Apple designer Loren Brichter talks about Jony Ives new role
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/loren-brichter.jpg)
 * Loren Brichter is a designer and developer with quite an impressive track record. He’s created popular apps like Tweetie and Letterpress. And he was also a member of the original iPhone team at Apple.

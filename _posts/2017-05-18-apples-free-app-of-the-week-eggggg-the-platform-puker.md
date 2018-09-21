@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's free app of the week- Eggggg - The Platform Puker
+title: Apples free app of the week- Eggggg - The Platform Puker
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/05/egg.png)
 * Apple on Thursday updated its App of the Week promotion with the game Eggggg – The Platform Puker. For the next 7 days you can pick up the popular platformer for free on both iPhone and iPad — a solid savings of $3.

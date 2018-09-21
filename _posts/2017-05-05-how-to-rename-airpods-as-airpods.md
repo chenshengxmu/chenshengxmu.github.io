@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Can't rename your AirPods as “AirPods”? Here's the fix.
+title: Cant rename your AirPods as “AirPods”? Heres the fix.
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/12/AirPods-teaser-005.jpg)
 * I’m the kind of guy who prefers to name all my Apple hardware with the actual name of the product. For example, my phone is named “iPhone 7 Plus,” my Apple Watch Series 2 Nike+ is named “Apple Watch Nike+”, my computer has the “MacBook Air” name and so forth.

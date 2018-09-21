@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Older iPhones comprise almost half of Apple's U.S. handset sales
+title: Older iPhones comprise almost half of Apples U.S. handset sales
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/iPhone-4S-three-up-Weather-Reminders-Twitter..jpeg)
 * Apple’s iPhone 5 accounts for just over half of the company’s smartphone sales, with 48 percent coming from the iPhone 4S and iPhone 4, according to new research. That compares to the iPhone 4S which comprised about 75 percent of Apple sales almost a year after launch.

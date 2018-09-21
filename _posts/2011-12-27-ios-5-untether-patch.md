@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Corona iOS 5.0.1 Untethered Jailbreak Updated to Fix "Launchctl" Error
+title: Corona iOS 5.0.1 Untethered Jailbreak Updated to Fix Launchctl Error
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/untether-update.jpg)
 * If you own an A4 device, chances are you spent your day jailbreaking. After months of waiting on a proper iOS 5 exploit, both the Chronic and iPhone Dev teams released untethered jailbreaks late last night.

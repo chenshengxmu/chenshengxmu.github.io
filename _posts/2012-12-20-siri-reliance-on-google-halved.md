@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Siri's reliance on Google cut in half since iOS 6
+title: Siris reliance on Google cut in half since iOS 6
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/john-malko-siri.jpg)
 * Siri, what happened to Google? The voice-activated personal assistant (which debuted alongside the iPhone 4S last October) and the Internet giant aren’t as close as before. Apple’s digital secretary is fast becoming a stranger to Google as one Apple watcher says Siri’s reliance on Google has been cut in half since iOS 6.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: View how many characters you've typed in the Notes app with countingNotes
+title: View how many characters youve typed in the Notes app with countingNotes
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/CountingNotes.jpg)
 * The iPhone’s native Notes app has received a multitude of changes in some of the most recent iterations of iOS, but one thing Apple always falls short of adding is a character counter.

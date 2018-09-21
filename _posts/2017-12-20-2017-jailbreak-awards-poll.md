@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't forget to vote in the 2017 Jailbreak Awards
+title: Dont forget to vote in the 2017 Jailbreak Awards
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/Jailbreak-Awards-2017.jpg)
 * It’s that time of the year again, and avid jailbreakers who haven’t already participated in the first round of the Jailbreak Awards 2017 poll are strongly encouraged to do so.

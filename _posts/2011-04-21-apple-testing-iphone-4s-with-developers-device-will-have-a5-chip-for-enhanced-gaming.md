@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Testing "iPhone 4S" With Developers, Device Will Have A5 Chip for Enhanced Gaming
+title: Apple Testing iPhone 4S With Developers, Device Will Have A5 Chip for Enhanced Gaming
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/A5-Processor-e1303416422513.png)
 * Apple has already started testing prototype units of the next generation iPhone with “select” developers. We’ve already heard that the next iPhone will most likely sport Apple’s powerful A5 processor, and 9to5Mac is reporting that the next iPhone will indeed boast the A5 chip.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hands-on with Twelve South's re-released HiRise Duet dock for iPhone & Apple Watch
+title: Hands-on with Twelve Souths re-released HiRise Duet dock for iPhone & Apple Watch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/11/Twelve-South-HiRise-Duet-Installed.png)
 * Last year, we took a look at the Duet HiRise charging dock from Twelve South.

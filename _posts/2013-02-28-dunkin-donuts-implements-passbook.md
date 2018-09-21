@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dunkin' Donuts implements Apple's Passbook
+title: Dunkin Donuts implements Apples Passbook
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/Dunkin-Donuts-logo-large.jpeg)
 * Put Dunkin’ Donuts on your list of Passbook backers. A confirmation came Thursday that the American global doughnut company and coffeehouse chain is adding support for Apple’s Passbook to its free Dunkin’ Donuts free mobile app for the iPhone and iPod touch. This enables customers to add their Dunkin’ Donuts Cards to Passbook and pay for food, beverages and merchandise at participating U.S. restaurants simply by scanning their pass in-store or at the drive-thru.

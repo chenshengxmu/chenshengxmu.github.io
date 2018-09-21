@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Best Buy can't keep up with iPhone 5 preorders, report says
+title: Best Buy cant keep up with iPhone 5 preorders, report says
 ---
 * So, you pre-ordered your iPhone 5 the minute it was announced. Turns out, you may have better luck landing an iPhone by standing in line. The latest victim of the iPhone’s own success: electronics giant Best Buy. The company now says it may not have enough of the highly-sought handsets to meet demand, emailing some unlucky souls that they’ll need to wait up to mid-October.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iPhone-5-FedEx-dsitribution-center.jpg)

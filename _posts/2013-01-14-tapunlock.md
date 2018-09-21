@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tap to unlock" from the lock screen instead of sliding with 'tapUnlock'
+title: Tap to unlock from the lock screen instead of sliding with tapUnlock
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/sludetounlock-vs-tapunlock.jpg)
 * tapUnlock is a new jailbreak tweak from the makers of MapsOpener and BrightVol. The tweak replaces the ‘slide to unlock’ bar with a ‘tap to unlock’ button. Personally I’m a fan of the classic slider, as it’s part of how Apple introduced a new paradigm of capacitive screens to the mass market, and it’s something I will always associate with the iPhone.

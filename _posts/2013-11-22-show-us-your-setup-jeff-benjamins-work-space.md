@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Show Us Your Setup- Jeff Benjamin's work space
+title: Show Us Your Setup- Jeff Benjamins work space
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/Jeffs-Office.jpg)
 * Every so often, we’d like to showcase the work space of an iDB writer. We want to give you a behind the scenes look at our work spaces so that you can get to know us better.

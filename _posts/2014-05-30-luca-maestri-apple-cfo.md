@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Luca Maestri officially begins work as Apple's new CFO
+title: Luca Maestri officially begins work as Apples new CFO
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/Luca-Maestri-2.jpg)
 * If you don’t know the name of the guy in the picture, you should probably learn it. That is Luca Maestri, and he is Apple’s latest Senior Vice President. Maestri used to be the company’s Corporate Controller, and is now its Chief Financial Officer.

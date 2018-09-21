@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple ships 1.4 million iPhone 5s units to China Mobile ahead of Friday's launch
+title: Apple ships 1.4 million iPhone 5s units to China Mobile ahead of Fridays launch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/china-mobile-1.jpg)
 * After several years of negotiations, and following months of rumors, Apple announced in December that it had finally inked a deal with China Mobile. The carrier will officially start offering the company’s smartphone on January 17.

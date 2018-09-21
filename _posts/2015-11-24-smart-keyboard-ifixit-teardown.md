@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iFixit gives Apple's Smart Keyboard the lowest repairability score possible
+title: iFixit gives Apples Smart Keyboard the lowest repairability score possible
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/11/Smart-Keyboard-iFixit-teardown-003.jpg)
 * Repair experts over at iFixit today pried open Apple’s new $169 Smart Keyboard case for the iPad Pro.

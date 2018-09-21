@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cask' brings slick animations to iOS table views
+title: Cask brings slick animations to iOS table views
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/Cask1.png)
 * Now that his work on Auxo seems to be finished, perhaps this means that we will begin seeing more frequent releases from Ryan Petrich? It doesn’t appear that he’s wasting any time, as Cask, a new jailbreak tweak, just recently appeared on his beta repo.

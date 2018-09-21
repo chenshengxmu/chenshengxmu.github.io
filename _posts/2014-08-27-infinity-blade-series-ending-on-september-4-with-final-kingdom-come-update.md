@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Infinity Blade series ending on September 4 with final 'Kingdom Come' update
+title: Infinity Blade series ending on September 4 with final Kingdom Come update
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/Ininifty-Blade-III-Kingdom-Come-update-002.jpg)
 * The iOS-exclusive Infinity Blade series will conclude on September 4, the video game production company ChAIR Entertainment, the brains behind the game, confirmed in a blog post.

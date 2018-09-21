@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You can now watch a replay of today’s 'hello again' Mac event
+title: You can now watch a replay of today’s hello again Mac event
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/cook-event.png)
 * Folks who missed today’s ‘hello again’ event, or would just like to watch it again, will be happy to hear that Apple has posted the full video online for your streaming pleasure. It was actually a fairly short keynote, by Apple’s standards, but they spent most of the 80 minutes introducing and demonstrating the new MacBook Pro with Touch Bar.

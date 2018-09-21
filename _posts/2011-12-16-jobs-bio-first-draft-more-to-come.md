@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Steve Jobs Biography Author Says His Book Was Only "First Draft," More Content to Come
+title: Steve Jobs Biography Author Says His Book Was Only First Draft, More Content to Come
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/steve-jobs.jpg)
 * Steve Jobs’ biographer Walter Isaacson is considering adding more content to his already-released book on Apple’s late co-founder and former CEO.

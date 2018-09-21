@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The iPhone 4 Antenna and Ping Make CNN's List of Biggest 2010 Tech Fails
+title: The iPhone 4 Antenna and Ping Make CNNs List of Biggest 2010 Tech Fails
 ---
 * CNN just published a list of the 10 biggest tech fails of 2010. At the top of the list, somewhat of a surprise, is the iPhone 4 antenna, also known as the antennagate, which we widely covered a few months ago.
 * I guess the fail in this case is not the antenna problem itself, but rather the way Apple handled the whole situation by pretty much saying there was no issue, then saying there was an issue that would be fixed with a software update, then saying there was actually no issue, but since there was no issue, they were going to give free cases to everyone. Confused?

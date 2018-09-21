@@ -1,6 +1,6 @@
 ---
 layout: post
-title: September 9 event wallpapers- "Hey Siri, give us a hint"
+title: September 9 event wallpapers- Hey Siri, give us a hint
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/08/Hey-Siri-give-us-a-hint-splash.jpg)
 * On Thursday, August 27, Apple released the media invitation for an event on September 9. The fall announcements typically highlight updates for iOS devices. Sometimes iPhone and iPad are announced separately, but it is estimated both devices will receive a refresh in the coming weeks.

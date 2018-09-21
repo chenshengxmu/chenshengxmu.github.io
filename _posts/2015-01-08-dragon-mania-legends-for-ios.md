@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Breed, raise and train your dragons in Gameloft's Dragon Mania Legends
+title: Breed, raise and train your dragons in Gamelofts Dragon Mania Legends
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/Dragon-Mania-Legends-for-iOS-iPhone-screenshot-002.png)
 * If you’re crazy about dragons, are blood-thirsty and mildly interested in pet simulation games, Gameloft’s Dragon Mania Legends should be at the top of your list.

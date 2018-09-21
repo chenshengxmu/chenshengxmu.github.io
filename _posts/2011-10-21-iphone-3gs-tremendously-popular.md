@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 3GS "Tremendously" Popular on AT&T
+title: iPhone 3GS Tremendously Popular on AT&T
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/iPhone-3GS.jpg)
 * After announcing the iPhone 4S pricing at its “Let’s Talk iPhone” event on October 4th, Apple also announced that it would be further reducing the pricing for the older generation iPhone 3GS 8GB from $49 to $0 with a 2-year carrier agreement.

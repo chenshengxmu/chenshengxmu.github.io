@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's Talk Jailbreak 166- The spiritual predecessor
+title: Lets Talk Jailbreak 166- The spiritual predecessor
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/05/lets-talk-jailbreak-teaser.png)
 * Joaquim and Sebastien go slightly off topic by sharing their impressions of iPhone 8 vs iPhone X. They then get back on track by talking about the untethered 32-bit jailbreak for iOS 8.4.1 that was recently released, as well as a few of their favorite tweaks from the past month.

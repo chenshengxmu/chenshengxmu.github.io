@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cupertino City Council gives Apple green light to begin building new 'Spaceship' campus
+title: Cupertino City Council gives Apple green light to begin building new Spaceship campus
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/Apple-Campus-2-Rendering-001-Retina-optimized.jpg)
 * Well, it’s finally happened. After years of presentations, meetings and campaigning, Apple last night cleared the final hurdle in its ‘Campus 2’ initiative. The Cupertino City Council has given the iPad-maker the green light to begin construction on its so-called ‘Spaceship’ campus.

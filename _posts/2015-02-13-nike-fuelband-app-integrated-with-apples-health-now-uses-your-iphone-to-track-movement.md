@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nike+ FuelBand app integrated with Apple's Health, now uses your iPhone to track movement
+title: Nike+ FuelBand app integrated with Apples Health, now uses your iPhone to track movement
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/NikePlus-Fuel-2.4-for-iOS-iPhone-screenshot-001.jpg)
 * It only took, what, five months, but Nike’s FuelBand application for the iPhone was finally refreshed Friday, adding much-needed integration with Apple’s HealthKit platform. As a result, a dedicated FuelBand accessory is no longer required to track your activity or earn Fuel points, your iPhone now does this.

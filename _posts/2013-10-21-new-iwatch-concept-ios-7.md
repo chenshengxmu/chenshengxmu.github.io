@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New iWatch concept looks like Nike's FuelBand, runs iOS 7
+title: New iWatch concept looks like Nikes FuelBand, runs iOS 7
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/iwatch-concept-ios-7.png)
 * Although we’re not expecting to see it on stage at Apple’s media event tomorrow, the iWatch is still a highly anticipated product in the company’s pipeline. Most industry watchers don’t have the device launching until late 2014.

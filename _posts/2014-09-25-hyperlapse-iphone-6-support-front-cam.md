@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Instagram's Hyperlapse app picks up native iPhone 6 support, new 'selfielapse' feature
+title: Instagrams Hyperlapse app picks up native iPhone 6 support, new selfielapse feature
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/Instagram-Hyperlapse-iPhone-screenshot-001.jpg)
 * Instagram’s iPhone app for high quality Time-lapse video capture, Hyperlapse, debuted a month ago.

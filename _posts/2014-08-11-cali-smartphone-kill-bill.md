@@ -1,6 +1,6 @@
 ---
 layout: post
-title: California smartphone 'kill switch' bill passes state legislature
+title: California smartphone kill switch bill passes state legislature
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/iphone-theft.jpg)
 * Earlier this year, California Senator Mark Leno introduced a new bill that would require cellphone makers to install ‘kill switches’ in all of their handsets, rendering them inoperable when stolen. The move comes as smartphone thefts continue to rise in major US cities.

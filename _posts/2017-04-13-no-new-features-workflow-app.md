@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No new features are coming to the Workflow app following Apple's acquisition
+title: No new features are coming to the Workflow app following Apples acquisition
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/11/Workflow-redesign-1.jpg)
 * Apple in March 2017 purchased the powerful iOS automation app Workflow. Even though Workflow is now free and the company has refunded some of the users who have paid for the app, it seems that no new features will be coming to Workflow going forward. That’s according to French blog iGeneration, which reported Thursday that the Workflow team’s confirmed that the software will no longer be updated with new features.

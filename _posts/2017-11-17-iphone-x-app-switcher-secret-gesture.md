@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2 ways to get to iPhone X's app switcher faster
+title: 2 ways to get to iPhone Xs app switcher faster
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/iPhone-X-app-switcher-teaser-002.jpg)
 * Apple instructs iPhone X owners to swipe up from the bottom edge of the display and pause in order to bring up the iOS app switcher. But there are faster, undocumented methods of opening the iPhone X app switcher which don’t require performing this clunky gestural action.

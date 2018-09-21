@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is Google Apple's next courtroom sparring partner?
+title: Is Google Apples next courtroom sparring partner?
 ---
 * Samsung’s $1 billion loss to Apple last week may have widespread repercussions, including Google’s Android software. What previously was a proxy cold war with cell phone makers, the stand-in soldiers, could heat up dramatically and place the Mountain View, Calif. firm squarely in the middle of Apple’s legal radar and making Steve Jobs’ threatened “thermonuclear war” over Android a reality.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/samsung-logo-with-google.jpg)

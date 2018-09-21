@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Man suing Apple over "misleading" Siri advertisements
+title: Man suing Apple over misleading Siri advertisements
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/siri-image-e1337765742481.jpeg)
 * Apple’s Siri, featured exclusively on the iPhone 4S, has captured the attention of many over the last few months. Some customers viewed it as a pretty cool addition to iOS, while some have said Siri is pretty pointless. The majority of us were expecting it to be included on the third-generation iPad 3, but that’s not the case.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Apple videos cover framing techniques and composing with iPhone's telephoto camera
+title: New Apple videos cover framing techniques and composing with iPhones telephoto camera
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/02/Apple-Support-video-tutorial-iphone-framing-compose-telephoto-camera.png)
 * Apple Support’s official YouTube channel just published two new mini-tutorial videos.

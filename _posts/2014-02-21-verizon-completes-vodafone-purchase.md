@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Verizon completes purchase of Vodafone's 45% stake in Verizon Wireless
+title: Verizon completes purchase of Vodafones 45% stake in Verizon Wireless
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/Verizon-Wireless-store-interior-001.jpg)
 * Verizon last September announced that it has reached an agreement with Vodafone to buyout its 45 percent stake in Verizon Wireless in one of the largest corporate acquisitions in history.

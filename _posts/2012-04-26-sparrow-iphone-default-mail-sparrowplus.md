@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Make Sparrow your iPhone's default mail client with 'SparrowPlus' [Updated]
+title: Make Sparrow your iPhones default mail client with SparrowPlus [Updated]
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/Sparrow-Plus-Screenshot.jpg)
 * If you remember my Sparrow review, I said it was a great app that was marred by a few missing features — namely: push notification capability, and the ability to make Sparrow the default Mail app.

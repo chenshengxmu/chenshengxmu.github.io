@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple starts readying Yerba Buena Center for next week's event
+title: Apple starts readying Yerba Buena Center for next weeks event
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/yerba-beuna-9to5-e1347010828470.jpg)
 * Earlier this week, Apple sent out media invitations to an event to be held at the Yerba Buena Center for the Arts in San Francisco on September 12. It’s widely expected to unveil a new iPhone.

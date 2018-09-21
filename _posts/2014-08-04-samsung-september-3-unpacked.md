@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung to unveil Galaxy Note 4 and other new gizmos at September 3 'Unpacked' event
+title: Samsung to unveil Galaxy Note 4 and other new gizmos at September 3 Unpacked event
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/Galaxy-Note-family-001.jpeg)
 * Apple’s arch-rival Samsung just made it known it’ll be holding a major media event on Wednesday, September 3, 2014. The invites for the new ‘Unpacked’ event, something of an annual tradition for the South Korean conglomerate, have now gone out to select members of the press, hinting at a possible unveiling of the Note 4 phablet.

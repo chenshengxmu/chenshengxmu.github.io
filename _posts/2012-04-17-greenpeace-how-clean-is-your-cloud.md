@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Greenpeace slams Apple over "19th-century coal energy”, praises Google
+title: Greenpeace slams Apple over 19th-century coal energy”, praises Google
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/WWDC-2011-iCloud-data-center-exterior-001.jpg)
 * Non-governmental environmental organization Greenpeace has taken issue with Apple’s $1 billion iCloud data center in North Carolina, accusing the Cupertino company of running a facility that operates on “dirty, 19th-century coal energy”.

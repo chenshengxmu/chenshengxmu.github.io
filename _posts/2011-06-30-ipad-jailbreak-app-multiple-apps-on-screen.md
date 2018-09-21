@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Upcoming Jailbreak App Allows You to Run Multiple iPhone Apps on Your iPad's Screen Simultaneously
+title: Upcoming Jailbreak App Allows You to Run Multiple iPhone Apps on Your iPads Screen Simultaneously
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/Two-Apps-at-Once-iPad.png)
 * Don’t you just hate running iPhone-only apps on your large iPad screen? When you enlarge them they look all pixelated and ugly, but when you keep them at normal size, much of the iPad’s screen goes to waste.

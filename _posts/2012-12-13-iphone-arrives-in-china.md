@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 5 hits China to reclaim Apple's lost market share
+title: iPhone 5 hits China to reclaim Apples lost market share
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/iPhone-5-launch-in-China-001.jpg)
 * Following the iPad mini’s debut in China a week earlier and the iPhone 5 arrival in South Korea, Apple today like a clockwork started sales of the iPhone 5 in China. While the handset is scheduled to launch in an additional 31 markets on Friday, including Russia, China is the top priority. Home to population of 1.33 billion people, China is a huge opportunity for the California-based company.

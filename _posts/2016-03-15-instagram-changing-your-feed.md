@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Instagram is changing its feed order to show you posts you'll care about first
+title: Instagram is changing its feed order to show you posts youll care about first
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/instagram-header.png)
 * Instagram announced on Tuesday that it plans to change the way that it orders posts in user feeds. Instead of showing photos and videos in the order that they were uploaded, the social network is going to implement an algorithm to surface the most relevant content.

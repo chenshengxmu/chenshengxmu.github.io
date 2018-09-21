@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rumor- iPhone 6 launching on October 14, an 'immense' day for Apple
+title: Rumor- iPhone 6 launching on October 14, an immense day for Apple
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/iPhone-6-back-part-Evasi0nJailbreak-002.jpg)
 * According to a rather dubious rumor published by MacRumors, citing a source familiar with an internal Apple Retail Store meeting, a senior Store Leader allegedly told staff that the whole month of October will be very busy for Apple Stores and the company itself, singling out October 14 as a particularly “immense” day for Apple.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's former retail boss Ron Johnson knew Apple had a great future back in 2000
+title: Apples former retail boss Ron Johnson knew Apple had a great future back in 2000
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/apple-store-e1340491876604.jpeg)
 * Ron Johnson just can’t escape his past as Apple’s widely successful head of retail. He left Apple last November to join the struggling retailer J.C. Penney and apply some Apple magic to its mid-range department stores. Johnson was interviewed by Fortune’s Jennifer Reingold and of course the inevitable questions of his work at Apple popped up, among the many other topics of conversations. Here’s what came out of him…

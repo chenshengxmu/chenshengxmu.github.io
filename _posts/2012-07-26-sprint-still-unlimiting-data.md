@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sprint's CEO reaffirms plans to keep unlimited data, for now
+title: Sprints CEO reaffirms plans to keep unlimited data, for now
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/sprint-store.jpg)
 * With recent moves by both AT&T and Verizon to nudge their remaining customers off of unlimited data and onto their new share plans, the spotlight has turned to Sprint.

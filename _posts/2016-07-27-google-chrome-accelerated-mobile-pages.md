@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chrome for iOS now supports Google's Accelerated Mobile Pages
+title: Chrome for iOS now supports Googles Accelerated Mobile Pages
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/Google-Chrome-logo-medium.png)
 * Google today issued a small but important refresh to the Chrome browser for the iPhone, iPad and iPod touch on the App Store. The updated software bumps up version number to 52.0.2743.84 and brings official support for Accelerated Mobile Pages that, similar to Instant Articles on Facebook, load in a fraction of the time of their non-accelerated mobile versions. Any news stories and articles from partner publishers that have a lightning bolt and “AMP” next to them in search results will load instantly when tapped on.

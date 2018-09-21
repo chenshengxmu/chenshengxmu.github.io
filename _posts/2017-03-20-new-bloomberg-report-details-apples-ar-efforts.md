@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Bloomberg report details Apple's AR efforts
+title: New Bloomberg report details Apples AR efforts
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/11/Apple-patent-augmented-reality-maps-drawing-001.png)
 * Bloomberg’s Mark Gurman in a new report Monday offered a deeper insight into Apple’s next big thing—the company’s secretive efforts related to augmented reality (AR) technologies which reportedly include an iPhone-connected digital spectacles that the news organization previously said would launch in 2018.

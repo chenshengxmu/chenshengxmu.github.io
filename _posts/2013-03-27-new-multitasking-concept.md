@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sentry's new App Switching concept makes it easier to move between apps
+title: Sentrys new App Switching concept makes it easier to move between apps
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/sentry-app-switching-concept.png)
 * We’re always in search of ways that iOS can be improved, which is why you’ll see a number of iOS concepts and ideas on iDB that are aimed at making Apple’s mobile operating system better. Take this recent one on multitasking, for example. It’s beautiful.

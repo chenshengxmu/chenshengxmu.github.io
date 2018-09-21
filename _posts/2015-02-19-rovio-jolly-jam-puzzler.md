@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rovio's new 'Jolly Jam' puzzler now available in the App Store
+title: Rovios new Jolly Jam puzzler now available in the App Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/jolly-2.png)
 * Finnish video game developer Rovio released a new game for iOS and Android devices today entitled ‘Jolly Jam.’ It’s a puzzler that looks nothing like the games from the firm’s popular bird-flinging ‘Angry Birds‘ franchise, and more like Candy Crush.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 7 said to feature redesigned, "very flat" user interface
+title: iOS 7 said to feature redesigned, very flat user interface
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/ios-7-lock-screen-concept.png)
 * Ever since Apple’s SVP of iOS Software Scott Forstall was ousted last fall, and hardware designer Jony Ive was put in charge of the human interface team, pundits and fanatics alike have wondered what future versions of the platform would look like.

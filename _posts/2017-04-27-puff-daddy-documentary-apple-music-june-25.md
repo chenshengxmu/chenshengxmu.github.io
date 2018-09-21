@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Puff Daddy's documentary hitting Apple Music on June 25
+title: Puff Daddys documentary hitting Apple Music on June 25
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/04/Puff-Daddy-documentary-poster-teaser.jpg)
 * Billboard reported Thursday that a new documentary about Sean “Diddy” Combs aka Puff Daddy is coming exclusively to Apple Music on June 25. Titled “Can’t Stop, Won’t Stop: A Bad Boy Story,” it chronicles Combs’ and his record label’s precipitous rise in the mid-90s to the top of the music business.

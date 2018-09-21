@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 8's 3D scanner supports Apple Pay & multiple faces, works in third-party apps
+title: iPhone 8s 3D scanner supports Apple Pay & multiple faces, works in third-party apps
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/Deepface-facebook.0.jpg)
 * Brazilian iOS developer Guilherme Rambo has discovered additional tidbits in the HomePod firmware that hint at some exciting capabilities for iPhone 8’s rumored 3D facial scanning technology.

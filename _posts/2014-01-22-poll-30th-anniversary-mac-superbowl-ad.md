@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Poll- is Apple going to advertise the Mac's 30th anniversary during Super Bowl?
+title: Poll- is Apple going to advertise the Macs 30th anniversary during Super Bowl?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/Steve-Jobs-Mac-001.png)
 * This one’s a stretch, but Apple’s Macintosh is soon celebrating its 30th anniversary and advertising legend Lee Clow hinted in a pair of tweets that the company just might celebrate the occasion by running an ad during the Super Bowl XLVIII.

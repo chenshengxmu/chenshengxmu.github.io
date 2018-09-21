@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You can now create logins directly in 1Password's iOS extension and more
+title: You can now create logins directly in 1Passwords iOS extension and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/1password-best-touch-id-extension-2014.jpg)
 * Developer AgileBits on Monday refreshed its freemium password-manager utility, 1Password for iOS, with a much smarter extension that allows you to create logins and other items without switching to the main app.

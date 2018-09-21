@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Take a closer look at iSpaceship's underground auditorium, R&D building and more
+title: Take a closer look at iSpaceships underground auditorium, R&D building and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/11/iSpaceship-December-2016-update-image-002.jpg)
 * Drone footage of iSpaceship site captured by YouTuber Matthew Roberts has impressed us thus far and his latest video is no exception. In addition to showing continuous progress in terms of landscaping and solar panels on the massive flying saucer-shaped building, new videos provide a closer look at an R&D building and an underground auditorium where future events will be held.

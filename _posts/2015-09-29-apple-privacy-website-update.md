@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple details what it does and doesn't collect in Privacy website refresh
+title: Apple details what it does and doesnt collect in Privacy website refresh
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/Apple-logo-space-001.jpg)
 * Apple on Tuesday refreshed the Privacy section of its website with new information on what “we do and don’t collect.” In a post titled “Apple’s commitment to your privacy,” Apple CEO Tim Cook explains the great lengths his company goes in order to protect your private data from prying eyes.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's a Steve Jobs-Inspired iPhone SJ Concept
+title: Heres a Steve Jobs-Inspired iPhone SJ Concept
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/iphone-concept.jpg)
 * Antonio De Rosa has come up with yet another awesome iPhone concept, a handset he called the iPhone SJ because it was inspired by the late Steve Jobs.

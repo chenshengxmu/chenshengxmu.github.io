@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google previews Android O, check out the top new features ahead of iOS 11's June beta
+title: Google previews Android O, check out the top new features ahead of iOS 11s June beta
 ---
 * If you think Apple’s innovation in the smartphone OS space has stalled, wait until you see the next major revision to Google’s Android operating system.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/03/android-o-logo.png)

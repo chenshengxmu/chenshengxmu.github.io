@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple forces guy in Poland to relinquish ownership of 'aplestore.com' domain name
+title: Apple forces guy in Poland to relinquish ownership of aplestore.com domain name
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Apple-event-20120307-iPAd-3-unveiling-Tim-Cook-colorful-background-Apple-logo.jpg)
 * Apple has finally obtained ownership over the ‘aplestore.com’ domain name through arbitration.

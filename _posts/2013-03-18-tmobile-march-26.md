@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile plans March 26 event- we're not going to act like a wireless company anymore
+title: T-Mobile plans March 26 event- were not going to act like a wireless company anymore
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/T-Mobile-March-26-presser.png)
 * Deutsche Telekom-owned T-Mobile USA this morning sent out invites for a March 26 event in New York, where the telco should announce some big news and update us on its technology and business. “We’re still a wireless company,” reads the invitation, “We’re just not going to act like one anymore”.

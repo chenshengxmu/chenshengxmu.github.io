@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PayPal reportedly offers to run Apple's rumored mobile payment service
+title: PayPal reportedly offers to run Apples rumored mobile payment service
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/iOS-7-teaser-iPhone-5s-ad-002.jpg)
 * It’s no secret that PayPal and Apple partner on iTunes billing, making the payment giant one of the few billing methods available in iTunes.

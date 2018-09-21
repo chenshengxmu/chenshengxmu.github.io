@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kantar- the iPhone is America's top smartphone as Android falters
+title: Kantar- the iPhone is Americas top smartphone as Android falters
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/kantar-us-smartphone-sales-chart.png)
 * Apple’s iOS is now the top-selling smartphone operating system in the United States, capturing for the first time more than 50 percent of sales, a new survey finds.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T to throttle streaming video next year with new 'Stream Saver' feature
+title: AT&T to throttle streaming video next year with new Stream Saver feature
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/08/ATT-Logo-Chicago-store.jpg)
 * AT&T on Friday announced a new feature for its data plans called Stream Saver. The carrier calls it a “free and convenient, data-saving feature” that will cap most mobile video streams at DVD quality (or around 480p).

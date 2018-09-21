@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sprint's Q3 losses shrink to $398M, courtesy of iPhone
+title: Sprints Q3 losses shrink to $398M, courtesy of iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/sprint-iphone-feature.jpg)
 * Sprint, America’s third-largest wireless carrier, announced Wednesday that 1.4 million of the five million smartphones it sold during the third quarter were iPhones, of which 40 percent were to new customers.

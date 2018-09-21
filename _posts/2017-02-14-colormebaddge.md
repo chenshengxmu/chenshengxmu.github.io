@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ColorMeBaddge can be used to colorize your Home screen's notification badges
+title: ColorMeBaddge can be used to colorize your Home screens notification badges
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/ColorMeBadge-Example.jpg)
 * On any stock installation of iOS, every one of your notification badges are going to be red and contain white-colored text that usually indicates the number of missed notifications in the app. To me, that seems a little boring, and a developer named midey seems to agree, as he’s just released a new free jailbreak tweak called ColorMeBaddge.

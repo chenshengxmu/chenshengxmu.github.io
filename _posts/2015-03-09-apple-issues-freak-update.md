@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple issues updates for OS X, iOS and Apple TV to address 'FREAK' attack
+title: Apple issues updates for OS X, iOS and Apple TV to address FREAK attack
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/Screen-Shot-2015-03-09-at-9.35.55-PM-e1425962412423.png)
 * Apple on Monday issued a security update for OS X to address a handful of vulnerabilities, including the high profile SSL flaw known as “FREAK.” Spotlighted last week, the bug allows would-be attackers to spy on communications made through Safari.

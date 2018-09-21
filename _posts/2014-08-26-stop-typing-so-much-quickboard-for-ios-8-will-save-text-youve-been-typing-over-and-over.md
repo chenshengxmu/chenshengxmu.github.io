@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stop typing so much- QuickBoard for iOS 8 will save text you've been typing over and over
+title: Stop typing so much- QuickBoard for iOS 8 will save text youve been typing over and over
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/Screen-Shot-2014-08-26-at-5.48.11-PM.png)
 * A new third-party keyboard called QuickBoard wants to stop you from drone-lessly typing out the same information over and over. These iPhones have tiny screens, after all!

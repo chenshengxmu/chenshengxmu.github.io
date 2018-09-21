@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's creating a portal for legal law enforcement user data requests
+title: Apples creating a portal for legal law enforcement user data requests
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/Resized-PasscodeTime.jpg)
 * To better handle data requests from law enforcement agencies, Apple plans on introducing a dedicated website for this purpose before the end of the year. This online portal will become the one-stop location law enforcement agencies worldwide can go to submit requests for data, track requests, and obtain responsive data from Apple. The company’s plans were recently added to a government privacy page on the Apple website. 

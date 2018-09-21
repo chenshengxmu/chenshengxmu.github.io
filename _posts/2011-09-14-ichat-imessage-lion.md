@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iMessage to Become Part of Mac OS X Lion's iChat?
+title: iMessage to Become Part of Mac OS X Lions iChat?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/Screen-Shot-2011-06-23-at-5.11-e1316033076928.png)
 * When iMessage was first announced by Apple way back in June, we all got very excited. The prospect of replacing SMS with something a little more 21st century appeals to us all, and getting rid of those ridiculous carrier charges is somewhat of a bonus.

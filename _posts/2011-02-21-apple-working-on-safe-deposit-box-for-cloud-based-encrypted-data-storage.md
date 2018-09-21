@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Working on "Safe Deposit Box" for Cloud-Based Encrypted Data Storage
+title: Apple Working on Safe Deposit Box for Cloud-Based Encrypted Data Storage
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/02/The-Virtual-Safe-Depost-Box-Patent-e1298288990694.jpeg)
 * Apple has recently patented a virtual “locker” for encrypted data storage in Mac OS X. Speculation is that this new feature will work with Apple’s revamp of MobileMe and heavily integrate with iOS.

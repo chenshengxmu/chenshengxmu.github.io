@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 15 interesting points from today's earnings call
+title: 15 interesting points from todays earnings call
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/upperwestside_gallery_image1.jpg)
 * Apple just announced its financial results for Q4 2012, and is now finishing up its earnings call. As promised, we’ve put together a list of some of the more interesting bits from the call to pass on to you.

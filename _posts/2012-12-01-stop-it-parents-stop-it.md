@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple products trend on 2012's most popular baby names list
+title: Apple products trend on 2012s most popular baby names list
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/baby-facetime.jpg)
 * Did you know that in 2012, it’s become completely acceptable to name your newborn after an Apple product? In fact, it’s not only acceptable, it’s become quite trendy.

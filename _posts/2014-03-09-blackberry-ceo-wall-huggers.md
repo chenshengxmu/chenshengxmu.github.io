@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BlackBerry CEO calls iPhone users 'wall huggers' due to poor battery life
+title: BlackBerry CEO calls iPhone users wall huggers due to poor battery life
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/john_s_chen.jpg)
 * BlackBerry’s newly appointed CEO John Chen isn’t afraid to ruffle a few feathers. Last month he penned an open letter regarding T-Mobile’s ‘ill-conceived’ iPhone promotion, and this past week he went after the iPhone users themselves.

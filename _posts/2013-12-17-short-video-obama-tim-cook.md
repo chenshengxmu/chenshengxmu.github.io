@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Short video from Obama's recent meeting with Tim Cook and other tech execs
+title: Short video from Obamas recent meeting with Tim Cook and other tech execs
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/obama-tech-giants.png)
 * As we reported yesterday, Tim Cook and a number of other executives from prominent tech companies met with US President Barack Obama at the White House to discuss a wide range of government and tech-related topics.

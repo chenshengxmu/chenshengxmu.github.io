@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Transcript of Tim Cook's comments at the Goldman Sachs Conference
+title: Transcript of Tim Cooks comments at the Goldman Sachs Conference
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/tim-cook-happy.jpg)
 * We’ve talked quite a bit about Tim Cook’s comments at the Goldman Sachs Technology Conference today. Tim Cook had talked at this same conference several times in the past, but it was his first time there as CEO of Apple.

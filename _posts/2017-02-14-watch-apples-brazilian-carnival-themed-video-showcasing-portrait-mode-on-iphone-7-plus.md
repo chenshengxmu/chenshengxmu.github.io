@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Watch Apple's Brazilian Carnaval-themed video showcasing Portrait mode on iPhone 7 Plus
+title: Watch Apples Brazilian Carnaval-themed video showcasing Portrait mode on iPhone 7 Plus
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/Apple-Brazil-Carneval-ad-iPHone-7-Plus-Portrait-mode.jpg)
 * Following a pair of iPhone 7 Plus ads showcasing the depth of field shooting mode made possible by the dual-lens camera on iPhone 7 Plus, Apple shared another video on its Brazilian YouTube channel

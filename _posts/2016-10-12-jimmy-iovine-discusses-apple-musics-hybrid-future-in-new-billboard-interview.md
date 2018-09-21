@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jimmy Iovine discusses Apple Music's “hybrid” future in new Billboard interview
+title: Jimmy Iovine discusses Apple Musics “hybrid” future in new Billboard interview
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/Jimmy-Iovine-AllThingsD-image-001.jpg)
 * Billboard yesterday published a wide-ranging interview with Apple executive and music industry mogul Jimmy Iovine, who dropped hints of Apple Music’s “hybrid” future. He also discussed the difference between the engineer culture in Silicon Valley and the creative culture in Hollywood and underscored the importance of technology in popular culture and other tidbits. Here are some choice quotes from that interview.

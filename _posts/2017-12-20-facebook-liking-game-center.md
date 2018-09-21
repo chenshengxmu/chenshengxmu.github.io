@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple forgot to strip iOS 11's non-functioning Facebook Like button from Game Center
+title: Apple forgot to strip iOS 11s non-functioning Facebook Like button from Game Center
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/Game_Center_Facebook_liking_unavailable_002.jpg)
 * You may have noticed that Facebook liking is no longer available in Game Center.

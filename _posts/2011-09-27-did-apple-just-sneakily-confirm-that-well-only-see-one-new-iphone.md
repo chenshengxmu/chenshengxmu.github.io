@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Did Apple Just Sneakily Confirm That We'll Only See One New iPhone?
+title: Did Apple Just Sneakily Confirm That Well Only See One New iPhone?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/diseccted-Apple-invite.png)
 * Today Apple sent out invites for its October 4th media event where the curtain will be lifted on all things iPhone.

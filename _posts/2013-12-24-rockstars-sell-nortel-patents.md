@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's 'Rockstar Consortium' considering Nortel patent sale
+title: Apples Rockstar Consortium considering Nortel patent sale
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/nortelblue1.gif)
 * In 2011, Apple teamed up with a number of tech companies including Microsoft and BlackBerry to form what many called the ‘Rockstar consortium’ to purchase a collection of over 4,000 patents from Nortel, a communications company that went bankrupt in 2009.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5 Practical Jailbreak Apps That Should Be in Every iPhone Owner's Tool Belt
+title: 5 Practical Jailbreak Apps That Should Be in Every iPhone Owners Tool Belt
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/12/iPhone-Tool-Belt.png)
 * We here at iDB love us some good jailbreak apps and tweaks, but there are few that stand out when you take into account sheer practicality.

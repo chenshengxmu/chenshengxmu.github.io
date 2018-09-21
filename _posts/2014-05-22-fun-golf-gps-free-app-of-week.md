@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fun Golf GPS 3D goes free as Apple's App of the Week
+title: Fun Golf GPS 3D goes free as Apples App of the Week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/fun-golf-gps-3d.png)
 * Apple has named the popular app Fun Golf GPS 3D its App of the Week this week. This means that between now and next Thursday, you’ll be able to pick up the application for both your iPhone and iPad for free—a huge savings of $20.

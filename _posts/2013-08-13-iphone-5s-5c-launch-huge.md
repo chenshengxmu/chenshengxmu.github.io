@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Joint iPhone 5S, 5C launch could be the most successful in Apple's history
+title: Joint iPhone 5S, 5C launch could be the most successful in Apples history
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/Budget-iPhone-vs-iPhone-5-yellow-ASCII-001-e1377060766651.jpg)
 * If you’re still scratching your head trying to figure out why high profile investor Carl Icahn just made a [rumored] $1 billion investment in Apple, consider this: the stock is down more than $200 from where it was a year ago, despite any major missteps, and the company is about to have another big fall.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Saurik pushes out Cydia update to remove April Fools' joke
+title: Saurik pushes out Cydia update to remove April Fools joke
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/Cydia-1.1.6.jpg)
 * Those of you that appreciate a good prank might not want to install the new Cydia update. Saurik just announced that he has pushed out Cydia 1.1.6 to remove last year’s Twitter-inspired “dickbar” April Fools’ Day joke.

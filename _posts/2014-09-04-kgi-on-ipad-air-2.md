@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KGI on iPad Air 2- launching next Tuesday with 'significant spec upgrades'
+title: KGI on iPad Air 2- launching next Tuesday with significant spec upgrades
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/Samsung-ad-Galaxy-Tab-S-vs-iPad-Air-002.jpg)
 * Rounding up a trio of predictions that Ming-Chi Kuo of KGI Securities released to clients this morning, AppleInsider quotes the influential analyst as making a surprising claim that the upcoming second-generation iPad Air will be unveiled at Apple’s media event next Tuesday.

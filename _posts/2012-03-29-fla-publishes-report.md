@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The FLA publishes initial report on Foxconn factories- they aren't sweatshops
+title: The FLA publishes initial report on Foxconn factories- they arent sweatshops
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/foxconn-sign1.jpg)
 * Today, the Fair Labor Association published its highly anticipated report on the working conditions inside Foxconn’s factories. Apple joined the FLA earlier this year amidst an onslaught of criticism that it was neglecting its supplier responsibilities.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Maps team hiring Web UI designer for 'secret project'
+title: Apple Maps team hiring Web UI designer for secret project
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iPhone-5-white-three-up-Maps.jpg)
 * Apple has posted a new job listing today, calling for a Maps Web User Interface Designer. The inquiry asks that applicants be able to design, develop, and maintain complex front-end code for a new ‘secret project.’

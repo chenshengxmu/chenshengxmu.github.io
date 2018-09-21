@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I've decided to get an iPad Air
+title: Ive decided to get an iPad Air
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/Confessions.png)
 * If you’ve been listening to Let’s Talk Jailbreak, you know that I’ve been going through a bit of a metamorphosis as of late. I’ve gotten rid of a lot of excess in the name of simplifying and streamlining my life. Sebastien and Cody like to make fun of me because of that, but it is deserved when you consider how I’ve waffled back and forth.

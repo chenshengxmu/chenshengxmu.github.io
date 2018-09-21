@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nuance launches 'Siri for cars'
+title: Nuance launches Siri for cars
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Nuance-Drive-message-dictation.jpg)
 * Nuance, which provides world-class voice recognition technology behind Apple’s Siri personal assistant, today announced its entrance into the fast-growing connected cars market.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's failed sapphire plant will now build server cabinets for its global data centers
+title: Apples failed sapphire plant will now build server cabinets for its global data centers
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/GT-Advanced.jpeg)
 * Apple’s failed sapphire crystal manufacturing facility in Mesa, Arizona will be repurposed to produce server assembly cabinets for the Cupertino firm’s global data centers, according to a notification published by the Federal Register and cited yesterday by Business Insider.

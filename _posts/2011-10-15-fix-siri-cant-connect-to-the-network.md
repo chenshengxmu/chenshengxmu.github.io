@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fix- Siri Can't Connect to the Network
+title: Fix- Siri Cant Connect to the Network
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/Siri-Network-Connection-Issue.png)
 * Twelve hours and countless reboots and resets later, I’m glad to announce that Siri is finally working again for me. Since last night, all Siri was able to tell me was “Sorry, I’m having trouble connecting to the network,” or “Sorry, I’m not able to connect to the network right now.” Quite disappointing for a $400 piece of hardware.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video suggests 4.7" iPhone 6 would be optimized for one-handed use
+title: Video suggests 4.7 iPhone 6 would be optimized for one-handed use
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/4.7-inch-iPhone-6-front-panel-iFanr-001.png)
 * Japanese magazine Mac Fan asserted back in October 2013 that Apple’s upcoming larger-screened iPhone 6 would file as the first device with a display this large that would still be optimized for one-handed use, thanks to some smart design decisions.

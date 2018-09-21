@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T's iPhone Dominance on the Decline, Sprint Cannibalizing Verizon
+title: AT&Ts iPhone Dominance on the Decline, Sprint Cannibalizing Verizon
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/iPhone-4S-ATT-Verizon-Sprint-Comparison.png)
 * With more carriers offering the iPhone than ever before, it is glaringly obvious that AT&T’s share of iPhone customers has to be on the decline, but by how much?

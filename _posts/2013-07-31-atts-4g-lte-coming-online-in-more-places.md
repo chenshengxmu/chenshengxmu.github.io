@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T's 4G LTE coming online in more places
+title: AT&Ts 4G LTE coming online in more places
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/ATT-Chicago-store-interior-001.jpg)
 * Just a week after adding seven new markets, the nation’s second-largest telco today announced its fourth-generation Long-Term Evolution (LTE) wireless service is now available in an additional ten U.S. cities.

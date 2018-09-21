@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft fires another salvo at Apple's Mac with new Surface Book ads
+title: Microsoft fires another salvo at Apples Mac with new Surface Book ads
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/Microsoft-Surface-Book-ad-image-001.jpg)
 * Microsoft is back at it with new commercials that build up to the “I can’t do that on my Mac” tagline.

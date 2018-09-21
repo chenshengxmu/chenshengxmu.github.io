@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's marketing honcho Phil Schiller launches attacks on Android on eve of Galaxy S4 launch
+title: Apples marketing honcho Phil Schiller launches attacks on Android on eve of Galaxy S4 launch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/Phil-Schiller-iPad-mini-event-001.jpg)
 * Following today’s unexpected news of Google’s SVP Andy Rubin leaving Android to focus on moonshot projects at the Internet giant – and conveniently just 24 hours ahead of Samsung’s big unveiling of the Galaxy S4 at the Unpacked event in New York City – Apple’s SVP of Worldwide Marketing Phil Schiller sat down with The Wall Street Journal to pooh-pooh the Android platform.

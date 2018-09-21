@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rumor- Apple is going to refresh MacBook Air after all and it'll have USB-C
+title: Rumor- Apple is going to refresh MacBook Air after all and itll have USB-C
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/11/MacBook-Air-stickers-ad-001.jpg)
 * DigiTimes, a Taiwanese trade publication that more or less accurately reports unknown features of unreleased Apple products (although the timing on its rumors is usually off), is out with a new story Wednesday claiming that USB Type-C connection is coming to a next-gen MacBook Air, implying Apple might update its most popular notebook after all.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Capacity of Flint Center for Apple's September event hints big announcement incoming
+title: Capacity of Flint Center for Apples September event hints big announcement incoming
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/Screen-Shot-2014-08-28-at-1.22.26-PM.png)
 * Apple must be planning big announcements for the September 9th media event that members of the press just got an invite to. Not only is the capacity of the Flint Center much larger than Apple’s usual product unveiling venues, but the Cupertino-based company is constructing its own building on the Flint Center grounds as part of the event.

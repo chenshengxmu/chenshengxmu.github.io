@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple makes 'iWork for iCloud' beta available to developers
+title: Apple makes iWork for iCloud beta available to developers
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/icloud-beta.png)
 * Alongside OS X Mavericks and iOS 7, Apple showed off its new web-based ‘iWork for iCloud’ software suite during its Monday keynote. The suite, similar to Google Docs and Office 360, allows users to view and edit iWork, and other documents right from their browser. And Apple just activated a beta version of it for registered developers…

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's allegedly brokered $2.6 billion deal with Samsung to supply OLED panels for iPhones
+title: Apples allegedly brokered $2.6 billion deal with Samsung to supply OLED panels for iPhones
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/iPhone-6s-camera-front-image-001.jpg)
 * Apple has reportedly brokered a deal with its South Korean frenemy Samsung, worth an estimated $2.59 billion, to supply OLED panels for future iPhones, scheduled to ship in 2017. Citing sources familiar with Samsung’s plans, The Korea Herald reported Friday that Samsung’s mobile display making arm, Samsung Display, will manufacture about hundred million OLED panels annually, measuring 5.5 inches diagonally, starting next year.

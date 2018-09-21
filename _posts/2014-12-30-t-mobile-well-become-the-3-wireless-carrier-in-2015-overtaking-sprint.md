@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile- We'll become the #3 wireless carrier in 2015, overtaking Sprint
+title: T-Mobile- Well become the #3 wireless carrier in 2015, overtaking Sprint
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/11/johnlegere.jpg)
 * “UnCarrier” T-Mobile CEO John Legere has posted a lengthy prediction post for 2015 – you guessed it – he’s incredibly bullish on his company for the new year. He expects things to go so well that T-Mobile will officially overtake Sprint to become the third-largest wireless company in the US sometime in 2015.

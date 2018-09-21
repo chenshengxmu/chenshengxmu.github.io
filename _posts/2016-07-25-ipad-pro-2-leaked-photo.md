@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Claimed photos of 12.9" iPad Pro 2 hit the web
+title: Claimed photos of 12.9 iPad Pro 2 hit the web
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/iPad-Pro-with-Apple-Pencil-lifestyle-005.jpg)
 * iPhone 7 leaks and rumors have dominated the headlines for better part of the summer, especially as we’ve been inching closer and closer to the handset’s expected September introduction. But the iPhone 7 isn’t the only Apple product that’s up for a refresh.

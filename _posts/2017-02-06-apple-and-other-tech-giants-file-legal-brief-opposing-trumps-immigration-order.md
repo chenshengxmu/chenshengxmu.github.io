@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple and other tech giants file legal brief opposing Trump's immigration order
+title: Apple and other tech giants file legal brief opposing Trumps immigration order
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/12/tim-cook-trump.jpg)
 * U.S. President Donald Trump’s controversial executive order that would bar Syrian refuges and travelers from Iran, Iraq, Libya, Somalia, Sudan, Syria and Yemen from entering the country is being formally challenged by Apple and 96 other companies, Bloomberg said Monday.

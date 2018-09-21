@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Developer ports classic FPS shooter Doom onto the new MacBook Pro's Touch Bar display
+title: Developer ports classic FPS shooter Doom onto the new MacBook Pros Touch Bar display
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/MacBook-Pro-Touch-Bar-009.jpg)
 * Developer Adam Bell has successfully ported the classic first-person shooter Doom onto the new MacBook Pro Touch Bar’s 2,170-by-60 pixel resolution OLED display complete with 3D graphics, the game’s familiar head-up display and trademark sound effects. Doom, of course, runs on everything these days thanks to enthusiasts who port the game onto computing devices that can handle it.

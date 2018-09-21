@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Android Tablets Gaining on iPad's Market Share, Slowly But Surely
+title: Android Tablets Gaining on iPads Market Share, Slowly But Surely
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/07/Android-on-iPad-e1311352217765.jpeg)
 * In a market that is growing at an alarming rate, tablet demand is at an all-time high, with Apple’s iOS and Google’s Android tablet operating systems proving the two main competitors in the space, according to new research.

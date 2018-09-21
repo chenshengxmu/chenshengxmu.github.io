@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple introduces 'MailDrop' for sending large files via email
+title: Apple introduces MailDrop for sending large files via email
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/DSC_0928.jpg)
 * Continuing on with its rundown of OS X 10.10 Yosemite, Apple’s Craig Federighi just introduced MailDrop. The new feature addresses a “fundamental problem with email” by allowing users to send large files over email, via iCloud.

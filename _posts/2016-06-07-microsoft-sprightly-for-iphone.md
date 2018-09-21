@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Make fliers, catalogs, e-cards and more with Microsoft's Sprightly for iPhone
+title: Make fliers, catalogs, e-cards and more with Microsofts Sprightly for iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/Microsoft-Sprightly-1.0-for-iOS-teaser-001.png)
 * Sprightly, a Microsoft Garage project which launched on Android in February, is now available on iOS. The free app lets you create detailed catalogs, beautiful fliers, multiple price lists, e-cards and discount coupons on the go.

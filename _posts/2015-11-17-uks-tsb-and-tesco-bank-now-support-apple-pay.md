@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UK's TSB and Tesco Bank now support Apple Pay
+title: UKs TSB and Tesco Bank now support Apple Pay
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/11/TSB-Apple-Pay-teaser-001.jpeg)
 * In addition to adding Canada as the third country where Apple Pay is available (limited to American Express cardholders at launch), availability of Apple’s mobile payments service in the United Kingdom, where Apple Pay launched this summer, increased today with financial institutions TSB and Tesco Bank now supporting the service. This leaves Barclays as the last UK major bank without support for Apple Pay.

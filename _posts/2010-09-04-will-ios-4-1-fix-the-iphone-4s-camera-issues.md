@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Will iOS 4.1 Fix the iPhone 4's Camera Issues?
+title: Will iOS 4.1 Fix the iPhone 4s Camera Issues?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/09/iphone-4-camera-issue.jpg)
 * There were certainly no shortage of complaints when the iPhone 4 was released, or perhaps there was no shortage of coverage relating to every issue users experienced. Whatever perspective you take there was an issue that didn’t receive much attention compared to the rest. There seemed to be a couple problems relating discoloring of photos in certain light.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Snapchat's sweet new update makes a handful of things a tad easier
+title: Snapchats sweet new update makes a handful of things a tad easier
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/Snapchat-banner.png)
 * A brand new version of Snapchat is now available in the App Store on your iPhone, iPad and iPod touch. It’s a point update but don’t let that fool you as it makes a handful of things a bit easier. For starters, you can now finally preview a person’s public Stories without adding them as a friend. Before today, you had to add a contact as your friend to view their Stories so just this nice improvement alone could go a long way toward helping us discover new accounts and content on Snapchat a bit more easily than before.

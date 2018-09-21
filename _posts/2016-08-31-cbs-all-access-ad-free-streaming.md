@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Want to get rid of ads on CBS All Access? That'll be an extra $4 per month
+title: Want to get rid of ads on CBS All Access? Thatll be an extra $4 per month
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/08/CBS-All-Access-tiers-web-screenshot-001.jpg)
 * CBS’s over-the-top streaming services, All Access, is available on wide variety of platforms including the iPhone, iPad, Apple TV and more. Subscriptions are priced at $5.99 per month, but now you can pay an extra $4 per month for a commercial-free experience, the broadcaster announced Wednesday.

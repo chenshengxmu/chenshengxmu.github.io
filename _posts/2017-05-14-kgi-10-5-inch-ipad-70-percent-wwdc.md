@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KGI- 70% likelihood that Apple will unveil 10.5" iPad Pro at WWDC next month
+title: KGI- 70% likelihood that Apple will unveil 10.5 iPad Pro at WWDC next month
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/10.5-inch-iPar-Pro-Dan-Provost.jpeg)
 * KGI Securities analyst Ming-Chi Kuo says there’s over 70 percent likelihood that Apple’s rumored 10.5-inch iPad Pro with a redesigned chassis is formally announced at the June 5 WWDC keynote as suppliers are gearing up for volume production in early June.

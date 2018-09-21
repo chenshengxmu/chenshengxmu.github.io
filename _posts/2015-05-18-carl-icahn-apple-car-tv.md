@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Carl Icahn puts faith in Apple's mythical 4K television set and sketchy Apple Car rumor
+title: Carl Icahn puts faith in Apples mythical 4K television set and sketchy Apple Car rumor
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/Billionaire-Investor-Carl-Icahn-Buys-More-Apple-Stock.jpg)
 * Activist investor Carl Icahn today issued yet another open letter to Apple CEO Tim Cook. In it, he predictably pushes for an ever expanding increase of Apple’s share repurchase program.

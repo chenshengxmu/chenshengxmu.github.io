@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'NFL Now' lands on Apple TV with news and highlights
+title: NFL Now lands on Apple TV with news and highlights
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/nfl-now.jpg)
 * As expected, the National Football League launched the Apple TV client for its new ‘NFL Now’ service this morning. The service went live earlier this month on mobile and various streaming devices, and today it comes to Apple’s set top box.

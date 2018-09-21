@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Apple' trademark now covers jewelry, clocks and watches
+title: Apple trademark now covers jewelry, clocks and watches
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/iWatch-website-mockup-001.png)
 * Is Apple about to enter the jewelry business? This obvious question comes to mind after realizing that the company’s own trademark for the Apple name now includes protection for jewelry, clocks and watches.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Want to Know What Apple's New Campus Will Really Look Like? [Infographic]
+title: Want to Know What Apples New Campus Will Really Look Like? [Infographic]
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/Apple-campus-concept-e1307923603707.png)
 * Uh oh, looks like someone has a bad case of the Mondays. Well, what better way to start off your week than with a charming infographic? By now you’ve probably all heard of Apple’s new spaceship-looking building that will be built in Cupertino.

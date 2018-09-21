@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Bullies "iCloud Communications" Out of Its Name and Web Site
+title: Apple Bullies iCloud Communications Out of Its Name and Web Site
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/icloud_logo-e1315329380459.jpeg)
 * It seems that Apple’s iCloud has won another battle – a battle over its own name. Ars Technica reports that iCloud Communications has dropped its legal battle over trademark infringement, with the company changing its name to PhoenixSoft/Clear Digital Communications.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Apple "Acquired" the iPhone Trademark From Cisco
+title: How Apple Acquired the iPhone Trademark From Cisco
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/iphone-keynote-e1327707095293.jpg)
 * Adam Lashinsky’s new book Inside Apple, which was released earlier this week, is full of juicy stories from Apple’s past. Pieces of the book have been popping up on the web over the past two weeks.

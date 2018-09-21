@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sprint now offering up to $650 for new 'Framily' subscribers
+title: Sprint now offering up to $650 for new Framily subscribers
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/sprint-store.jpg)
 * Following in the footsteps of T-Mobile, Sprint announced this week that it is now offering up to $650 in equipment trade-in and early termination fee credits to new subscribers. The goal of the promo is to entice customers to switch over from their current carriers.

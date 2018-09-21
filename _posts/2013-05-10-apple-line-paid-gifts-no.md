@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple orders messaging app 'Line' to remove paid virtual gifts
+title: Apple orders messaging app Line to remove paid virtual gifts
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/line-app-ss.jpg)
 * Apple’s app approval team has seemingly been on a warpath lately, pulling popular titles like AppGratis from the App Store without much warning or explanation. It’s clear that the company is in the process of revamping some of its policies.

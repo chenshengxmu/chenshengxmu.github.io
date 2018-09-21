@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bastion' and 'Walking Dead' games updated with iOS 7 controller support
+title: Bastion and Walking Dead games updated with iOS 7 controller support
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/logitech-teaser.png)
 * It seems like the gaming scene on iOS is about to explode—even more than it already has. As most of you know, iOS 7 brings about controller support for games, and a few high-profile names have already signed on.

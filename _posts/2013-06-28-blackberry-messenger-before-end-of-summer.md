@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BlackBerry Messenger launching on iOS 'before the end of summer', CEO confirms
+title: BlackBerry Messenger launching on iOS before the end of summer, CEO confirms
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/BlackBerry-Messenger-coming-to-iOS-teaser-002.jpg)
 * First, it was going to be available “this summer”. Now, it is coming “before the end of this summer”. I’m referring to BlackBerry’s way overdue iOS and Android edition of the Messenger software which once used to be the primary reason teenagers in emerging markets opted for BlackBery handsets.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New iOS-friendly Fender guitar spotted in Apple's web store
+title: New iOS-friendly Fender guitar spotted in Apples web store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/usb-fender-strat.jpg)
 * With the holidays just around the corner, Apple has been seen stocking up on app-enabled accessories. A few weeks ago we noted that the iPad-maker had started selling iPhone-controlled lightbulbs, and now it’s added an iOS-friendly guitar to its inventory.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 8 User Guide inadvertently confirms 'iPad Air 2’ and 'iPad mini 3’ with Touch ID and Burst mode
+title: iOS 8 User Guide inadvertently confirms iPad Air 2’ and iPad mini 3’ with Touch ID and Burst mode
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/New-iPads-leaked-on-iTunes-Store.png)
 * An inadvertent (or is it?) slip-up on Apple’s iBooks Store on Wednesday all but confirmed that tomorrow’s media event will in fact serve as a launchpad for a pair of iPad refreshes: a second-generation iPad Air and third-generation iPad mini. Furthermore, the images suggest Touch ID fingerprint scanning for both new tablets, in addition to Burst camera mode for the regular-size iPad.

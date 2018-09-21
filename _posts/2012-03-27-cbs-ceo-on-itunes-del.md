@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CBS chief (again) explains Steve Jobs didn't want to pay a dime for iTunes deal
+title: CBS chief (again) explains Steve Jobs didnt want to pay a dime for iTunes deal
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/hdtv-111025.jpg)
 * Back in November, CBS President and CEO Les Moonves confirmed in a conference call with Wall Street analysts that Apple’s late co-founder Steve Jobs approached the studio with a subscription-based iTunes content deal. It had been rumored at the time that Apple was looking for premium content partnerships to accompany a rumored Apple-branded television set, dubbed by the press the iTV.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DarkAppleStore gives the Apple Store app's tab bar a darkened makeover
+title: DarkAppleStore gives the Apple Store apps tab bar a darkened makeover
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/DarkAppleStore-Before-and-After-1.jpg)
 * Jailbreakers that use the Apple Store app to browse Apple’s product offerings can take advantage of a new free jailbreak tweak called DarkAppleStore by iOS developer CydiaGeek to spice up its user interface.

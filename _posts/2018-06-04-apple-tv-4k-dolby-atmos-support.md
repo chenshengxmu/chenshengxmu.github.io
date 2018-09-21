@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why tvOS 12's Dolby Atmos support is great news for Apple TV owners
+title: Why tvOS 12s Dolby Atmos support is great news for Apple TV owners
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/06/Apple-TV-4K-teaser-005.jpg)
 * When tvOS 12 releases in the fall, your Apple TV 4K is going to become the only streaming player featuring both Dolby Vision and Dolby Atmos approval, according to both Apple itself and Dolby Laboratories. But what’s so great about Dolby Atmos sound?

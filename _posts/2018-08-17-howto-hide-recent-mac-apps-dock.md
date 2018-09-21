@@ -1,6 +1,6 @@
 ---
 layout: post
-title: macOS Mojave- How to hide recent apps in your Mac's Dock
+title: macOS Mojave- How to hide recent apps in your Macs Dock
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/macOS_Mojave_Dock_with_REcent_Apps_teaser_001.jpg)
 * macOS Mojave 10.14 includes a new Recents feature in your computer’s Dock. On by default, it lets you get to a recently-used app with a click. Thankfully, you can hide this section at any time in order to make your Dock appear less crowded.

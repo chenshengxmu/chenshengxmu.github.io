@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's Project Tango- phone that maps 3D environments, senses depth and geometry
+title: Googles Project Tango- phone that maps 3D environments, senses depth and geometry
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/Google-Project-Tango-image-002.jpg)
 * Imagine directions to a new location not stopping at the street address, or never getting lost in a new building again. Or, how about playing hide-and-seek in your house with your favorite game character or competing against a friend “for control over physical space with your own miniature army”?

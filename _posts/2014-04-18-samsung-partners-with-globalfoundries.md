@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung-GlobalFoundries deal gives Apple's chip production greater flexibility
+title: Samsung-GlobalFoundries deal gives Apples chip production greater flexibility
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/Samsung-Austin-plant-e1353099940474.jpg)
 * As Apple continues to move anything it can away from Samsung as a result of heightened competition, fierce rivalry and an ugly patent spat between the two technology giants, Samsung seems to be doing the opposite, hoping to to please Apple’s enormous appetite for mobile processors powering iOS devices.

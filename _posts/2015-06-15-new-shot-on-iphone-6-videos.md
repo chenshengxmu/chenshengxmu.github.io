@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple posts four new 'Shot on iPhone 6' videos
+title: Apple posts four new Shot on iPhone 6 videos
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/shot-on-iphone-6.png)
 * Apple has added four new clips to the World Gallery films section of its “Shot on iPhone 6” microsite. The company launched the Shot on iPhone 6 campaign earlier this year, showcasing beautiful photos and videos taken with its latest smartphones.

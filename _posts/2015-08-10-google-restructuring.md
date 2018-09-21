@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google becomes Alphabet's subsidiary, Sundar Pichai becomes CEO in massive restructuring
+title: Google becomes Alphabets subsidiary, Sundar Pichai becomes CEO in massive restructuring
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/Sundar-Pichai.jpg)
 * Sundar Pichai, Google Senior Vice President of Android, Chrome and Google Apps, is now officially the new CEO at the search company, which itself has now become a subsidiary of a bigger company called Alphabet, Inc.

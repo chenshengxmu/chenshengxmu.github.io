@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ayecon' adds insanely detailed icons to the iPad
+title: ayecon adds insanely detailed icons to the iPad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/Ayecon-iPad.png)
 * ayecon — the high resolution WinterBoard theme from renowned designer, Surenix — is making its way to the iPad. Perhaps the worst kept secret in the theming community, ayecon for the iPad is very real, and it’s coming soon to a jailbroken iPad near you.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Following iOS 7 flattening, Apple changes Jony Ive's title to SVP, Design
+title: Following iOS 7 flattening, Apple changes Jony Ives title to SVP, Design
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/Jonatahan-Ive-Apple-SVP-Design.png)
 * This is quite interesting. Just as Apple has taken the wraps off iOS 7 which has undergone a major facelift under the guidance of Apple’s Jony Ive, the design guru’s official title on the company’s Leadership section has been tweaked, going from Senior Vice President of Industrial Design to just Senior Vice President of Design.

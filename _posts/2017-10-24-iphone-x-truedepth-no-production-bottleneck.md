@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Supplier says iPhone X's dot projector no longer stuck in a production hell
+title: Supplier says iPhone Xs dot projector no longer stuck in a production hell
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/iPhone-X-promotional-video-Animoji-Jony-Ive-001.png)
 * For all the gloom and doom talk regarding Apple’s ability to fulfill expectedly high iPhone X demand, a supplier dismissed speculation that the dot projector is stuck in a production hell.

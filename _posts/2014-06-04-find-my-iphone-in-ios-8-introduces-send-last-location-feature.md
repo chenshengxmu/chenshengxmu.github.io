@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Find My iPhone in iOS 8 introduces 'Send Last Location' feature
+title: Find My iPhone in iOS 8 introduces Send Last Location feature
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/iOS-8-Find-My-iPhone-Send-Last-Location-001.jpg)
 * Find My iPhone is a great way to locate your lost or misplaced device – that is, unless a thief was smart enough to find a way to disable it right after you’ve been mugged and your device has been taken from you.

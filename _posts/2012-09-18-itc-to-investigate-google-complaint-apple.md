@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ITC to investigate Google's complaint against Apple
+title: ITC to investigate Googles complaint against Apple
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/motorola-mobility-logo.jpg)
 * Even though Motorola Mobility filed a complaint against Apple on August 17, the handset maker is now a Google-owned entity so this really reads as the Google v. Apple complaint. Unsurprisingly, the United States International Trade Commission (ITC) today announced that it will be instituting a formal investigation of this complaint.

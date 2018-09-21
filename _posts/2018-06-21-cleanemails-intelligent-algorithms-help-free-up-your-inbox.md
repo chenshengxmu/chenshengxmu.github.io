@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CleanEmail's intelligent algorithms help free up your inbox
+title: CleanEmails intelligent algorithms help free up your inbox
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/06/product_20946_product_shots2_image-1.jpg)
 * Most of us can’t remember the last time we woke up to an email inbox that wasn’t flooded with spam and useless messages. CleanEmail puts an end to this nonsense once and for all by using intelligent algorithms to filter and simplify your email inbox, and right now a 1-year subscription is available for 60% off at just $19.99.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Check out iSkelter's gorgeously minimalistic bamboo-handcrafted iPhone 5 dock
+title: Check out iSkelters gorgeously minimalistic bamboo-handcrafted iPhone 5 dock
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/iSkelter_Chisel_iPhone_5_dock_image_001.jpg)
 * You love your iPhone 5 and pride yourself with being an environmentally conscious person? How about putting your money where your mouth is by considering this awesome-looking iPhone 5 dock from iSkelter? Handmade entirely from bamboo, one of the fastest-growing plants on Earth, it “perfectly compliments your iPhone’s minimalistic design features” with a touch of eco-friendliness. As the images attest, the dock will keep your iPhone 5 firmly in place either in portrait or landscape.

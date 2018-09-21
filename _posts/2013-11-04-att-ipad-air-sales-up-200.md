@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T says iPad Air activations up 200% over last year's launch
+title: AT&T says iPad Air activations up 200% over last years launch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/ATT-Chicago-store-interior-001.jpg)
 * While Apple hasn’t announced specific figures for the iPad Air’s launch weekend yet, most indications are that the tablet is performing well. Supplies began weakening over the weekend, and carriers are seeing healthy sales.

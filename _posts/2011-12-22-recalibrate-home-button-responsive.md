@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Recalibrate Your iPhone's Home Button to Make it More Responsive
+title: How to Recalibrate Your iPhones Home Button to Make it More Responsive
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/Recalibrate-Home-Button.jpg)
 * Sometimes the Home button on the iPhone just starts getting a little funky, a little laggy, a bit unresponsive.

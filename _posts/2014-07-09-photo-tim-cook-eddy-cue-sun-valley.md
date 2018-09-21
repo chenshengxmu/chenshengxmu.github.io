@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Cook and Cue spotted at Sun Valley media conference, check out the photos
+title: Apples Cook and Cue spotted at Sun Valley media conference, check out the photos
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/Tim-Cook-Sun-Valley-2014-Jon-Erlichman-001.jpg)
 * Allen & Company’s annual Sun Valley retreat is kicking off today and a host of media, entertainment and technology executives are now arriving at the Idaho resort.

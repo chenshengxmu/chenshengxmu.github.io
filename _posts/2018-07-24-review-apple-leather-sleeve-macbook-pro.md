@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reviewing Apple's MacBook Pro sleeve- Italian leather comes at a steep cost
+title: Reviewing Apples MacBook Pro sleeve- Italian leather comes at a steep cost
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/Apple-Leather-Sleeve-for-MacBook-Pro-001.jpg)
 * Following a recent announcement of the upgraded MacBook Pro family for 2018, Apple also released a luxury yet pricey leather sleeve for the pro notebook under the radar. But coming in at $179/$199, is Leather Sleeve for MacBook Pro worth the steep asking price?

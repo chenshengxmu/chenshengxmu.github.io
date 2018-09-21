@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amazon's Cloud Player can now stream songs to Ford's SYNC AppLink vehicles
+title: Amazons Cloud Player can now stream songs to Fords SYNC AppLink vehicles
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/Amazon-Cloud-Player-2.1-for-iOS-iPhone-screenshot-001.jpg)
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/Amazon-Cloud-Player-2.1-for-iOS-iPhone-screenshot-002.jpg)

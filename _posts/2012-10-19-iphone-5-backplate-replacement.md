@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scuffgate? Here's your iPhone 5 backplate replacement
+title: Scuffgate? Heres your iPhone 5 backplate replacement
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/iPhone5mod-iPhone-5-metal-backplate-002.jpg)
 * When it comes to the iPhone 5, yours truly is one to suffer from a severe case of panic disorder stemming from Scuffgate. I, for one, happen to believe that it’s real. And even though Scuffgate has definitely been blown way out of proportion, I can’t shrug off fear that my iPhone 5 will arrive with nicks and scuffs out-of-the-box or scratch itself if I look at it the wrong way.

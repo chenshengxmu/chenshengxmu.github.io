@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pegatron CEO says Apple's budget iPhone won't be 'cheap'
+title: Pegatron CEO says Apples budget iPhone wont be cheap
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/Budget-iPhone-Nickolay-Lamm-and-Matteo-Gianni-teaser.jpg)
 * Speaking at his company’s shareholders meeting on Thursday, Pegatron CEO T.H. Tung made some interesting comments on Apple’s often rumored ‘budget iPhone.’ He said don’t expect the handset to be inexpensive, as the “price [on it] is still high.”

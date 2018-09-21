@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple CEO Tim Cook thinks slow down in iPad sales is just a 'speed bump'
+title: Apple CEO Tim Cook thinks slow down in iPad sales is just a speed bump
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/Tim-Cook-holds-iPad-with-Katie-Cotton-Jacqui-Cheng.jpg)
 * Apple CEO Tim Cook isn’t worried about the company’s tablet sales, even when industry analysts and consumers have been yammering on about it being a slowing market. Words from the Apple boss came in a brief interview with ReCode’s Walt Mossberg,   moments before a report went live detailing plans for a larger iPad out of Cupertino. 

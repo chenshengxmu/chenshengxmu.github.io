@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OWC's new driver adds Boot Camp support to all of its aftermarket SSD upgrades
+title: OWCs new driver adds Boot Camp support to all of its aftermarket SSD upgrades
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/OS-X-El-Capitan-Boot-Camp-Assistant-app-icon-full-size.png)
 * In March, Other World Computing (OWC) launched the world’s first SSD upgrade for 2013 and later MacBook Air and MacBook Pro with Retina display computers. The storage upgrades came in 480GB and 1TB flavors, and we recently showed you the install process of the 1TB OWC Aura SSD upgrade.

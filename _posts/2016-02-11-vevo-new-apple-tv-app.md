@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vevo's beautiful new Apple TV app brings 150,000 HD music videos
+title: Vevos beautiful new Apple TV app brings 150,000 HD music videos
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/02/Vevo-for-Apple-TV-tvOS-screenshot-001.png)
 * Vevo today began shipping a refreshed Apple TV app. Redesigned from top to bottom, it provides access to more than 150,000 music videos in high-definition and exclusive original programming. The revamped software upgrades the experience for users over the old app in many respects.

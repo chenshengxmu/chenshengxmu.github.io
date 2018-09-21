@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The iPhone 5 hits Samsung's home turf
+title: The iPhone 5 hits Samsungs home turf
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/iPhone-5-in-hand.png)
 * As promised, Apple on Friday rolled the iPhone 5 out in Samsung’s home turf of South Korea, home to population of 50 million people. Today’s launch will be augmented by the global roll-out to an additional 50 countries later in the month as Apple works on fulfilling its self-imposed schedule of having the device available in a hundred countries and across 240 carriers by year’s end.

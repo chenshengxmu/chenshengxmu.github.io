@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's Talk Jailbreak 168- Put on a hiatus
+title: Lets Talk Jailbreak 168- Put on a hiatus
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/Lets-Talk-Jailbreak-banner.png)
 * The jailbreaking landscape has changed dramatically over the last few years, and this episode is the perfect illustration of it all.

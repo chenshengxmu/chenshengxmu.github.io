@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS activation in enterprise jumps to 73 percent, increasing Apple's lead over Android
+title: iOS activation in enterprise jumps to 73 percent, increasing Apples lead over Android
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/Good-Technology-chart-enterprise-activations-q4-2014.png)
 * Thanks in no small part to strong sales of the iPhone 6 and iPhone 6 Plus smartphones, Apple has been able to extend its enterprise lead over Android during the fourth quarter of last year.

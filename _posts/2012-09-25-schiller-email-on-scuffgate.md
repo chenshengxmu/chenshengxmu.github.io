@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's marketing honcho on Scuffgate- scratches are normal
+title: Apples marketing honcho on Scuffgate- scratches are normal
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/Phil-Schiller-headshot.jpg)
 * Phil Schiller, SVP of Worldwide Marketing, is also known as steward of Apple’s relationship with app developers. Increasingly, Schiller is becoming the public face of Apple, which shouldn’t come as a surprise given how he “channeled Jobs’s perspective so consistently”, according to a Businessweek profile.

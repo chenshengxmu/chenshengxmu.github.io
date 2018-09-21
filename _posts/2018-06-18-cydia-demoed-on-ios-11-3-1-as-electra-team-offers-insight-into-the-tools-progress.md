@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cydia demoed on iOS 11.3.1 as Electra Team offers insight into the tool's progress
+title: Cydia demoed on iOS 11.3.1 as Electra Team offers insight into the tools progress
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/06/Electra-iOS-1131.png)
 * As we inch closer to the imminent release of an Electra jailbreak tool with support for iOS 11.2-11.3.1, we’re beginning to see exciting tidbits and teasers from the developers of the Electra Team that are actively working on it.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's new MacBook won't come bundled with an extension cable
+title: Apples new MacBook wont come bundled with an extension cable
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/Whats-In-The-Box.png)
 * Sad news for those of you who use the power extension cable that comes with the MacBook Air and the MacBook Pro: Apple’s newest addition to the venerable notebook line no longer comes bundled with said cable.

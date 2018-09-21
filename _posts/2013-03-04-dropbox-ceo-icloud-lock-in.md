@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dropbox CEO- iCloud is a lock-in brimming with 'bizarre limitations'
+title: Dropbox CEO- iCloud is a lock-in brimming with bizarre limitations
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/iCLoud-Documents-in-the-Cloud-teaser-001.jpg)
 * Apple’s iCloud, a service that brings together all of your desktop and mobile devices with seamless synch and cloud-based storage, is basically a lock-in, Dropbox CEO Drew Houston opined speaking at Mobile World Congress in Barcelona, Spain. Praising his company’s cross-platform approach to file sharing, Houston blasted iCloud for imposing “bizarre limitations” on what users can do with their files, remarking that people shouldn’t really care what platform they are using in order to access their files anywhere and on any device…

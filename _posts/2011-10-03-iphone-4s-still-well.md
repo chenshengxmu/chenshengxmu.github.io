@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The iPhone 4S "Life-Changing" Feature
+title: The iPhone 4S Life-Changing Feature
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/assistant-e1317665600789.jpg)
 * There has been a lot of controversy over Apple’s iPhone event tomorrow. Recent evidence has suggested that the company won’t be unveiling a device with an all-new design, but one similar to the iPhone 4 with improved internals.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung's Galaxy S6 rumored to adopt touch-based fingerprint sensor akin to Touch ID
+title: Samsungs Galaxy S6 rumored to adopt touch-based fingerprint sensor akin to Touch ID
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/Samsung-Galaxy-S5-fingerprint-sensor-001.jpg)
 * Samsung’s upcoming Galaxy S6 flagship smartphone will include a much-improved fingerprint sensor which takes cues from Apple’s Touch ID in that it will recognize a fingerprint when a user places their fingertip on the Home button, according to an unverified report last week by SamMobile.

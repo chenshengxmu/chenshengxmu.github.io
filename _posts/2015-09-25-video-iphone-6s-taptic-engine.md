@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's new Taptic Engine inside iPhone 6s blasted with X-rays, captured in action on video
+title: Apples new Taptic Engine inside iPhone 6s blasted with X-rays, captured in action on video
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/iPhone-6s-Taptic-Engine-image-009.jpg)
 * When Apple says that a redesigned vibrator inside the iPhone 6s and iPhone 6s Plus, branded as the Taptic Engine, gives you “real-time feedback” in the form of subtle taps, the company is not exaggerating. The new oscillating mechanism, now enclosed with its own aluminum shell, reaches its full power in just one cycle (and stops just as quickly) versus ten or more oscillations for most other smartphones.

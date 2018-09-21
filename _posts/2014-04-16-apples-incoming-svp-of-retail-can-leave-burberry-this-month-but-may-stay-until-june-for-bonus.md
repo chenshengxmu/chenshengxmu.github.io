@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's incoming SVP of Retail can leave Burberry this month, but may stay until June for bonus
+title: Apples incoming SVP of Retail can leave Burberry this month, but may stay until June for bonus
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/Angela_Ahrendts_2.jpeg)
 * Angela Ahrendts, Apple’s incoming SVP of Retail, may not be in her new position as quickly as once thought.

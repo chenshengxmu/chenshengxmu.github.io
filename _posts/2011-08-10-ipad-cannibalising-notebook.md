@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shocker- Apple's iPad is Cannibalising Notebook Sales
+title: Shocker- Apples iPad is Cannibalising Notebook Sales
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/03/iPad-2-review1.png)
 * Way back when Apple first announced the iPad last year, the Cupertino outfit was very careful not to put its new device up against the notebook market. ‘The iPad is a new class of device,” it said, claiming that it fitted in-between the smartphone and notebook, filling the gap with a large, touchscreen display that filled our hearts with joy and wonder.

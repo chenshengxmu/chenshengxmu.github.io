@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Anker's 40W five-port charger gets the job done for multiple devices at once
+title: Ankers 40W five-port charger gets the job done for multiple devices at once
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/08/Anker-40W-5-Port-charger.jpg)
 * How many smartphones, tablets, and music players do you have in your household? Chances are, you have more than two. In some households, there are a lot more than that. Sometimes, it doesn’t seem like there are enough plugs to charge everyone’s gadgets.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Foursquare's Swarm app now offers real-life perks
+title: Foursquares Swarm app now offers real-life perks
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/Swarm-Challenges-teaser-001.jpeg)
 * If every day is a game, then there should be prizes, right? Foursquare’s Swarm app has started offering just that, real-life perks depending on where and how often you check in. Called Swarm Challenges, this is yet another feature that Foursquare has brought back to Swarm from its main mobile application, which is now focused on places reviews while Swarm is all about the check-in game.

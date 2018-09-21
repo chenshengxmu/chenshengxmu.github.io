@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hands-on with LG's new Thunderbolt 3 UltraFine displays
+title: Hands-on with LGs new Thunderbolt 3 UltraFine displays
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/LG-Thunderbolt-3-Monitor-CES.jpg)
 * LG debuted three new Thunderbolt 3 UltraFine monitors last week at CES and we got to go hands-on and check them out.

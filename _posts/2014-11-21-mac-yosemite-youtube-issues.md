@@ -1,6 +1,6 @@
 ---
 layout: post
-title: YouTube issues affecting Yosemite's Safari
+title: YouTube issues affecting Yosemites Safari
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/11/OS-X-Yosemite-Safari-YouTube-issues.jpg)
 * According to user-submitted posts over at both Apple Support Communities and Google Product forums, an unknown portion of Mac owners who run Yosemite are having issues playing certain YouTube videos, with some getting Safari crashes when attempting to watch a clip.

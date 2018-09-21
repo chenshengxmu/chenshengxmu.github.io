@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Songs friends play on your HomePod won't affect Apple Music's “For You” section
+title: Songs friends play on your HomePod wont affect Apple Musics “For You” section
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/02/HomePod-TechCrunch-001.jpg)
 * You can decided for yourself whether the music your friends play on your HomePod through AirPlay will affect Apple Music’s “For You” section in the Music app on iPhone and iPad.

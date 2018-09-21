@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Music's upcoming Carpool Karaoke show will feature a different host every episode
+title: Apple Musics upcoming Carpool Karaoke show will feature a different host every episode
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/Tim-Cook-karaoke.jpg)
 * Apple’s upcoming show, Carpool Karaoke, will consist of sixteen half-hour episodes that will air on Apple Music and feature a different host every episode, Variety reported Monday.

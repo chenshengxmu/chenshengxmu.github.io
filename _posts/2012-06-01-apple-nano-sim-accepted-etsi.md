@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's 40 percent smaller Nano SIM proposal gets a go-ahead
+title: Apples 40 percent smaller Nano SIM proposal gets a go-ahead
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Apple-Nano-SIM-at-CTIA-image-002.jpeg)
 * Following an amusing public back and forth between Apple on one side and Research In Motion, Motorola and Nokia on the other, the European Telecommunications Standards Institute (ETSI) this morning decided to officially back Apple’s proposal for an upcoming miniaturized SIM card standard that provides for a thinner, smaller mobile devices…

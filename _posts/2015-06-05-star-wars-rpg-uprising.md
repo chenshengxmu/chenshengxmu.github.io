@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kabam teases upcoming RPG 'Star Wars Uprising' for mobile
+title: Kabam teases upcoming RPG Star Wars Uprising for mobile
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/star-wars-1.jpg)
 * Star Wars fans have a lot to be excited about this year. There’s, of course, the new movie ‘The Force Awakens’ that’s coming out in December, and a handful of new console games are on the way. There’s also apparently a new RPG coming to mobile devices.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MCX announces it's ending CurrentC beta test, postponing further releases
+title: MCX announces its ending CurrentC beta test, postponing further releases
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/04/currentc.png)
 * MCX (the Merchant Consortium Exchange) has notified testers that it will be ending its CurrentC beta test soon. The Consumerist on Tuesday shared an email sent by the company, telling users that it’s going to shut down the mobile payment service on June 28.

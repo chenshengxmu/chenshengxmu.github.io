@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Good deal- $10 off FireCore's aTV Flash (black)
+title: Good deal- $10 off FireCores aTV Flash (black)
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/aTV-Flash-Black-Couch-Surfer-Recently-Visited-Pages-e1326835304822.jpg)
 * Folks with a jailbroken 1st or 2nd generation Apple TV should check out this sweet little deal going on over Stack Social. The deal site has the popular ATV software suite aTV Flash (black) on sale right now for under $20.

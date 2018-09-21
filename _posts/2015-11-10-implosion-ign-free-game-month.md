@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Console-grade hack'n' slasher Implosion - Never Lose Hope is IGN's Free Game of the Month
+title: Console-grade hackn slasher Implosion - Never Lose Hope is IGNs Free Game of the Month
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/11/Implosion-Never-Lose-Hope-for-iOS-iPhone-screenshot-003.jpeg)
 * Implosion – Never Lose Hope by Rayark Inc. has gone free via IGN’s ongoing Free Game of the Month promotion.

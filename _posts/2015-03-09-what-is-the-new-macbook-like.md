@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hands-on with Apple's new ultra thin 12-inch MacBook
+title: Hands-on with Apples new ultra thin 12-inch MacBook
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/macbook.png)
 * So by now you’ve likely watched Apple’s keynote, and know Apple unveiled a new 12-inch MacBook today, but thus far you’ve probably only seen it on stage or in marketing materials. Obviously the new laptop is going to look good in photos, but what about in real life?

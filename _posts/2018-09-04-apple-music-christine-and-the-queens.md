@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Music hosting special Paris performance for Christine and the Queen's
+title: Apple Music hosting special Paris performance for Christine and the Queens
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/09/AMP-event-dm-Chris.jpg)
 * On Thursday, Sept. 13, Apple Music is hosting a special performance in Paris for Christine and the Queen’s. Called “Apple Music Presents: Chris,” the concert will be recorded and then streamed on the service beginning on Friday, Sept. 14. One week later, the band’s new album, “Chris,” will officially launch. (via iGeneration)

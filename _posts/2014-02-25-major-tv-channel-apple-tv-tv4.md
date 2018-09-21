@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Streaming channel for network 'TV4' added to Apple TV in Sweden
+title: Streaming channel for network TV4 added to Apple TV in Sweden
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/apple-tv-sweden.png)
 * Apple has added another new channel to the Apple TV this morning for customers in Sweden. It’s called TV 4 Play, and it’s a streaming channel for the major Swedish television network TV 4 and it features both live and on-demand content.

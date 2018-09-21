@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Toys R' Us to Begin Selling the iPad 2 Next Month?
+title: Toys R Us to Begin Selling the iPad 2 Next Month?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/toys-r-us.png)
 * The iPad 2 has been quite the success story. The device that had to live up to the name “magical,” continues to do so with analysts predicting iPad 2 sales beyond 40 million units.

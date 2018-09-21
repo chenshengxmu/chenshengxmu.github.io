@@ -1,6 +1,6 @@
 ---
 layout: post
-title: German Court Scuppers Samsung's 3G Patent Lawsuit Against Apple
+title: German Court Scuppers Samsungs 3G Patent Lawsuit Against Apple
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/apple-vs-samsung.jpeg)
 * With Samsung and Apple locked in the middle of so many lawsuits these days, it can be difficult to keep up, but the latest movement in the saga sees the Korean smartphone maker receive a black-eye after a German court rejected one of its patent claims.

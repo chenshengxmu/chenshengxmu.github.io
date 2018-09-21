@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Instagram updated with simplified UI, 'Lux' image enhancement and new filter
+title: Instagram updated with simplified UI, Lux image enhancement and new filter
 ---
 * Instagram has blown up as one of the most popular iOS apps on the App Store, allowing users to simply share moments in their life through photos.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/Lux.jpg)

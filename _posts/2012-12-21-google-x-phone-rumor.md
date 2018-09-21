@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google reportedly building 'X Phone' to rival Apple and Samsung
+title: Google reportedly building X Phone to rival Apple and Samsung
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/google-motorola-e1327544277376.jpg)
 * Android may be winning the smartphone war right now against Apple due to the sheer number of mobile devices available using the open-sourced OS, but Google’s not content with that. It wants to take the Cupertino company and its popular iPhone head-on.

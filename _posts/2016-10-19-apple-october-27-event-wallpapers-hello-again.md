@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple October 27 event wallpapers- "hello again"
+title: Apple October 27 event wallpapers- hello again
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/AR72014-Apple-October-27-Event-Wallpaper-splash.jpg)
 * Today, Apple announced the upcoming media event on October 27. With the announcement, in traditional fashion, comes a simple graphic representation of the event. As always, armchair pundits and tea leaf readers try to discern the hidden messages believed to be concealed in the graphic.

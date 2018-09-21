@@ -1,6 +1,6 @@
 ---
 layout: post
-title: YouTube Capture gets updated with 'Wi-fi only' upload option and more
+title: YouTube Capture gets updated with Wi-fi only upload option and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/YouTube-Capture-1.0-for-iOS-iPhone-screenshot-001.jpg)
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/YouTube-Capture-1.0-for-iOS-iPhone-screenshot-002.jpg)

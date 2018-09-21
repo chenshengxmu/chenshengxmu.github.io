@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook Sends Message to Apple Employees- "Nothing is Changing"
+title: Tim Cook Sends Message to Apple Employees- Nothing is Changing
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/tim-cook-apple-ceo-e1314287735337.png)
 * The entire tech industry was rocked yesterday as one of the world’s greatest CEOs said goodbye to his friends, employees and an entire community of fans. After a 13 year hot-streak, Steve Jobs stepped down from his leading position at Apple Inc.

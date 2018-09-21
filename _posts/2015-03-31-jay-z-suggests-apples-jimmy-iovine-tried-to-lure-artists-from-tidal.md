@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jay Z suggests Apple's Jimmy Iovine tried to lure artists from Tidal
+title: Jay Z suggests Apples Jimmy Iovine tried to lure artists from Tidal
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/beats-audio-jimmy.jpg)
 * Following the re-launch of Tidal on Monday, now music streaming boss Shawn “Jay Z” Carter suggested in an interview with Billboard that Apple’s Jimmy Iovine had been trying to lure artists from the new service.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS hackers can't wait for Apple to release iOS 6.1
+title: iOS hackers cant wait for Apple to release iOS 6.1
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/iOS-6-icon-cydia.png)
 * On January 28th, a mere five days from now, iOS 6.1 beta 4 will expire. If the past is any indication, then Apple will act, either releasing a 5th beta for iOS 6.1, or releasing the iOS 6.1 golden master — a final baked version, which shortly precedes a public release.

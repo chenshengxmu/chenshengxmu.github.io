@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 10 Tweaks to try that aren't on default Cydia repos
+title: 10 Tweaks to try that arent on default Cydia repos
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/Add-Source-Cydia-Repos-10-tweaks.png)
 * Yesterday, I found this thread on Reddit and was reminded of how many great jailbreak tweaks exist outside of Cydia’s default repos. Of course, developers like Ryan Petrich are well-known for their beta repos, but there are some other lesser-known repos that you should be aware of as well. Here’s a list of ten jailbreak tweaks that are available outside of the popular BigBoss and ModMyi repos.

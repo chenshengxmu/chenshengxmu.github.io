@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Australia's Treasury Department the latest to switch from BlackBerry to iPhone
+title: Australias Treasury Department the latest to switch from BlackBerry to iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/BlackBerries_In_The_Trash_Wide.jpg)
 * RIM may have a new name, operating system and a pair of devices on the way, but Australia’s chief information officer Peter Alexander says that it’s almost too little too late. The comments follow a recent announcement that the country’s Treasury Department would be trading in their BlackBerry devices for iPhones—a seemingly popular trend lately…

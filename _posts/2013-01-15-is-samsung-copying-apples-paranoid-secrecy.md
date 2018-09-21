@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is Samsung copying Apple's paranoid secrecy?
+title: Is Samsung copying Apples paranoid secrecy?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/samsung-100-million.jpg)
 * First, South Korean smartphone maker Samsung tries to steal Apple’s coolness, now the company is trying to mimic the California firm’s penchant for secrecy. Samsung reportedly is now asking suppliers to sign non-disclosure agreements with penalties of up to $1 billion (you read that right).

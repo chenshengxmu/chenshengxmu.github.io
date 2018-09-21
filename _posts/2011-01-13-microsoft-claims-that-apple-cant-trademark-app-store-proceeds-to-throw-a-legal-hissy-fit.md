@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft Claims that Apple Can't Trademark "App Store", Proceeds to Throw a Legal Hissy Fit
+title: Microsoft Claims that Apple Cant Trademark App Store, Proceeds to Throw a Legal Hissy Fit
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/01/Microsofts-Steve-Ballmer-Calling-the-Shots.jpeg)
 * What do you do when your company has 66 billion dollars in revenue from last year? Invest in lots of hot startup companies and acquire more talented employees? No. You hire a highly-paid team of lawyers to file a pathetic motion for trademark denial to the U.S. Patent and Trademark Office.

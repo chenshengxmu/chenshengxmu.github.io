@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's 30-Pin Dock Connector Could be Getting a Huge Upgrade
+title: Apples 30-Pin Dock Connector Could be Getting a Huge Upgrade
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/Closeup-photo-of-the-bottom-of-iPhone-4-including-the-speakers-and-dock-connector-e1302055174224.jpeg)
 * A new and interesting patent reveals a very interesting possibility for future iDevices. Apple’s current proprietary connection technology has been in need of an update for a long time, and technologies like MagSafe have been considered as a replacement.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More details regarding Forstall's ousting emerge
+title: More details regarding Forstalls ousting emerge
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/Scott_Forstall.png)
 * If you’ve been anywhere near a computer for the past 24 hours, chances are you’ve heard the news: Scott Forstall, Apple’s SVP of iOS Software will be leaving the company next year.

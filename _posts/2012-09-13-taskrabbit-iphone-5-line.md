@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't want to wait in line for the iPhone 5? TaskRabbit will do it for you
+title: Dont want to wait in line for the iPhone 5? TaskRabbit will do it for you
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/Apple-Store-Covent-Garden-London-UK-exterior-001.jpg)
 * If you don’t plan on pre-ordering your iPhone this weekend, but still want to grab the handset as soon as it launches, your only other option is to stand in line at an Apple, or other retail, store.

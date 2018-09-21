@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FlashArmyKnife has a hidden tethering feature [update- it's gone]
+title: FlashArmyKnife has a hidden tethering feature [update- its gone]
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/FlashArmyKnife-iphone-screenshot-001.jpg)
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/FlashArmyKnife-iphone-screenshot-002.jpg)

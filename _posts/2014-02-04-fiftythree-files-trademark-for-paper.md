@@ -1,6 +1,6 @@
 ---
 layout: post
-title: In response to Facebook's Paper, FiftyThree files trademark application for the term 'Paper'
+title: In response to Facebooks Paper, FiftyThree files trademark application for the term Paper
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/Paper-Facebook-vs-FiftyThree.jpg)
 * Facebook yesterday released its new Paper for iPhone app, a free download, prompting a swift response from Seattle- and New York-based FiftyThree which slammed the social networking behemoth for ignoring the fact that the Paper name has been associated with FiftyThree’s own iPad drawing program, also a free download from the App Store.

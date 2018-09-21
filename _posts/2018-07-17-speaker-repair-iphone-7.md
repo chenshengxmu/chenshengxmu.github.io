@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's no longer providing free speaker repair to iPhone 7 users
+title: Apples no longer providing free speaker repair to iPhone 7 users
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/03/iPhone-7-Product-RED-teaser.jpg)
 * A few months ago, Apple ostensibly acknowledged that some iPhone 7 and iPhone 7 Plus units were experiencing issues with the built-in microphone. As such, an internal memo showed that Apple was willing to fix those handsets free of charge, even when they were out of warranty. Unfortunately, it now looks like Cupertino is no longer offering that exemption. 

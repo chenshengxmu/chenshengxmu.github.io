@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to enable the iPhone 6s' keyboard trackpad mode on older jailbroken iPhones
+title: How to enable the iPhone 6s keyboard trackpad mode on older jailbroken iPhones
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/12/Motus.jpg)
 * If you have an older jailbroken iPhone like the iPhone 6 or iPhone 5s, then you’re missing out on one of the best features made possible by 3D Touch featured on the iPhone 6s. Thanks to 3D Touch, the iPhone 6s’ keyboard trackpad mode allows users to swipe on the keyboard to position the cursor accurately when typing or editing text.

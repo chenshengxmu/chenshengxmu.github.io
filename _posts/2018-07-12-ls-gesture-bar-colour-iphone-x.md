@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This tweak lets you colorize the iPhone X's gesture bar
+title: This tweak lets you colorize the iPhone Xs gesture bar
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/LS-Gesture-Bar-Colour-iPhone-X.jpg)
 * While the notch is one of the iPhone X’s most distinguishable features, so too is the missing Home button, which has been replaced with a new gesture bar.

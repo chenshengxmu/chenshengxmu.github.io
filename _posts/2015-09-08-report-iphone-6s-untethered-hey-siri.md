@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Report- iPhone 6s to feature untethered 'Hey Siri' functionality
+title: Report- iPhone 6s to feature untethered Hey Siri functionality
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/Siri-iOS-9.jpg)
 * Remember the invitation that Apple sent out to invitees for tomorrow’s iPhone 6s event? The invitation contained the phrase “Hey Siri, give us a hint.”

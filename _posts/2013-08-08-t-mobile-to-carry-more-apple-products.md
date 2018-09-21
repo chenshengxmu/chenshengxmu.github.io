@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile to carry 'a whole array of Apple products', CEO promises
+title: T-Mobile to carry a whole array of Apple products, CEO promises
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/John-Legere-Uncarrier-001.jpg)
 * I haven’t forgotten what T-Mobile said last December about selling Apple products in 2013. “T-Mobile USA has entered into an agreement with Apple to bring products to market together next year,” the carrier’s parent Deutsche Telekom wrote in a press statement back then.

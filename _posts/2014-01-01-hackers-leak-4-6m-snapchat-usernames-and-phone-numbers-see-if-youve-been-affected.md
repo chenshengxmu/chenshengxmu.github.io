@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hackers leak 4.6M Snapchat usernames and phone numbers, see if you've been affected
+title: Hackers leak 4.6M Snapchat usernames and phone numbers, see if youve been affected
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/snapchat-2.png)
 * Bad news, Snapchat fans: a group of anonymous hackers have successfully exploited a nasty security hole in the popular IM application to hijack a whopping 4.6 million usernames and phone numbers, publishing this private data on a website called SnapchatDB.info.

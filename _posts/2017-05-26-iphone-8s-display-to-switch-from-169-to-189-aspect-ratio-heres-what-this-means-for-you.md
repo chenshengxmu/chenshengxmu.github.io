@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 8 to switch from 16-9 to 18-9 display—here's what this means for you
+title: iPhone 8 to switch from 16-9 to 18-9 display—heres what this means for you
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/05/iPhpne-8-dummy-hands-on-video.jpg)
 * Apple is expected to change iPhone’s screen aspect ratio from 16:9 on iPhone 7 to 18:9 on iPhone 8, according to multiple reports. Economic Daily News said today that the device’s screen ratio will change to 18.5:9 instead of the previous 16:9.

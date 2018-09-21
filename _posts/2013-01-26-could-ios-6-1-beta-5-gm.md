@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Could iOS 6.1 beta 5 actually be the "golden master" everyone is waiting on?
+title: Could iOS 6.1 beta 5 actually be the golden master everyone is waiting on?
 ---
 * A few folks on Twitter have been speculating about the validity of the just released iOS 6.1 beta 5. Not in the sense that the release is bogus, but in the sense that this might actually be the iOS 6.1 golden master release that everyone’s been feverishly waiting on.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/iOS-6.1-Beta-5-GM.png)

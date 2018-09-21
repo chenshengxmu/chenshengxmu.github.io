@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple semi-officially confirms that force-quitting apps won't extend iPhone battery life
+title: Apple semi-officially confirms that force-quitting apps wont extend iPhone battery life
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/iOS-5-battery-icon-full.jpg)
 * As our own Sebatien recently explained, force-quitting multitasking apps to save your iPhone’s battery life is a terrible idea because A) Apple is giving developers proper tools to have their apps work efficiently in the background; and B) users should trust the operating system is effectively managing apps that aren’t active.

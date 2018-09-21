@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple posts new 'Music Every Day' iPhone ad
+title: Apple posts new Music Every Day iPhone ad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/music-every-day-ad.png)
 * Apple has started airing a new TV commercial for its iPhone this evening. The ad, which it has also posted on its YouTube channel, is called ‘Music Every Day,’ and it focuses on the handset’s ability to play music.

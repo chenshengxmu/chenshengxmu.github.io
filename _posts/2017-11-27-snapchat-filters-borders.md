@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Snapchat's new photo recognition feature provides content-aware stickers and borders
+title: Snapchats new photo recognition feature provides content-aware stickers and borders
 ---
 * In a slow rollout before the significant redesign coming December 4, Snapchat today released some new features that will allow it to detect the subject of your photos, as well as provide relevant stickers and borders, as first spotted by Mashable.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/Screen-Shot-2017-11-27-at-12.28.47-PM.png)

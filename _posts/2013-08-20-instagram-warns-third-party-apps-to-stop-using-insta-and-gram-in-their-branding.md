@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Instagram warns third-party apps to stop using 'Insta' and 'Gram' in their branding
+title: Instagram warns third-party apps to stop using Insta and Gram in their branding
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/Instagram-App-of-the-Year.jpg)
 * Your favorite Instagram-connected app could be changing soon, or worse, it could be shutting down. The photo-sharing network just updated its brand guidelines, stating that it’s going to start banning apps that use either the word ‘Insta’ or ‘Gram’ in their names.

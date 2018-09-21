@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung Australia- We didn't stage anti-Apple protest. So, who the heck did?
+title: Samsung Australia- We didnt stage anti-Apple protest. So, who the heck did?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/Samsung-Galaxy-S-III-Wake-Up-protest.jpg)
 * Apple’s frenemy Samsung went on the record to deny speculation that it was behind a flashmob-style anti-Apple protest that occurred ‘spontaneously’ outside Apple’s retail outlet in Sydney, Australia. More precisely, a spokesperson for Samsung said their Australian branch had nothing to do with the stunt.

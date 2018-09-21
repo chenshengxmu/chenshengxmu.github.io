@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What if iWatch isn't actually an Apple smart watch, but an aptly named TV?
+title: What if iWatch isnt actually an Apple smart watch, but an aptly named TV?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/iWatchZ-Q-series-watch-band-for-iPod-nano.png)
 * As we entered 2013, the rumor mill has been increasingly churning out speculative reports regarding Apple’s rumored TV set and smart watch projects, almost on a daily basis. Even Bloomberg joined the frenzy with claims that Apple has as many as a hundred product designers working on a wearable smart watch-like computer that “may perform some of the tasks now handled by the iPhone and iPad.” But here’s the kicker: what if this group is instead working on a television set – fittingly referred to as an iWatch?

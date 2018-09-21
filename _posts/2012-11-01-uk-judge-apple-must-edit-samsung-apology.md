@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UK Judge- Apple must remove "incorrect" Samsung apology
+title: UK Judge- Apple must remove incorrect Samsung apology
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/Apple-apology.png)
 * Note to Apple: UK judges don’t get American snarkiness. The UK Court of Appeals Thursday told the iPhone maker its recent apology to Samsung was “incorrect” and required a new notice on the website “acknowledging the inaccurate comments.” At issue: comments from the trial’s first ruling in which the judge declared Samsung’s tablet “not as cool.”

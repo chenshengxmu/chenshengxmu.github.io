@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to adjust your iMac Pro's startup security level with Secure Boot features
+title: How to adjust your iMac Pros startup security level with Secure Boot features
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/iMAc-Pro-back-connectivity.jpg)
 * Apple’s iMac Pro ships with a new feature, called Secure Boot, which takes advantage of the onboard Apple T2 chip, an ARM processor similar to the one in an iPad or iPhone, allowing the computer’s firmware to validate the bootloader prior to loading.

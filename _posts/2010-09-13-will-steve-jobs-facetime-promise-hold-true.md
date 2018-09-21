@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Will Steve Jobs' FaceTime Promise Hold True?
+title: Will Steve Jobs FaceTime Promise Hold True?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/09/FaceTime-image.jpg)
 * Remember back in June when Steve Jobs introduced the iPhone 4 and the revolutionary FaceTime ability? Perhaps if you’re detail oriented you’ll remember that Jobs also stated that Apple would be shipping 10’s of millions of FaceTime ready devices. How will he make this happen?

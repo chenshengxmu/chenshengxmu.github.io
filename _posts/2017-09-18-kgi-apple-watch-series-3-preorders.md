@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KGI- Apple's new LTE watch accounts for the lion's share of preorders
+title: KGI- Apples new LTE watch accounts for the lions share of preorders
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/watch-series-3-incoming-two-wrap.jpg)
 * Arriving this Friday, Apple’s third-generation watch is seeing “significantly stronger” than expected demand, with the pricier LTE model accounting for the lion’s share of preorders.

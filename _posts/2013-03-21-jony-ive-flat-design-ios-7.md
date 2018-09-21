@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jony Ive reportedly pushing 'flat design' in iOS as design teams get cozier
+title: Jony Ive reportedly pushing flat design in iOS as design teams get cozier
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/jony-ive.png)
 * Those hoping that Jony Ive’s new role as the head of Apple’s Human Interface design team will have a sooner-than-later impact on the user interface of its mobile operating system will be happy to hear that this may indeed be the case.

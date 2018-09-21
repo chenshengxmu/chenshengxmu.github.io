@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple knockoff maker Xiaomi takes aim at iPhone 6 Plus with 5.7" Mi Note phablet
+title: Apple knockoff maker Xiaomi takes aim at iPhone 6 Plus with 5.7 Mi Note phablet
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/Xiaomi-Mi-Note-image-001.jpg)
 * Apple knockoff maker Xiaomi, which according to IDC is now the world’s third largest smartphone maker, has launched a new phablet-class handset.

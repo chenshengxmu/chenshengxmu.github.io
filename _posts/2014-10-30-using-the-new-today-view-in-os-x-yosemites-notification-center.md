@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using the new Today View in OS X Yosemite's Notification Center
+title: Using the new Today View in OS X Yosemites Notification Center
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/Notification-Center-Today-View-OS-X-Yosemite.png)
 * The Notification Center in iOS 8 received a significant revamp, and the same can be said about the Notification Center in Yosemite. New in this year’s OS X revamp is the appearance of the Today View.

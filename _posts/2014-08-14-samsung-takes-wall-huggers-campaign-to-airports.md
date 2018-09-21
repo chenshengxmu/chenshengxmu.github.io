@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung takes 'Wall Huggers' campaign to airports
+title: Samsung takes Wall Huggers campaign to airports
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/Samsung-Galaxy-S5-ad-iPhone-battery-001.jpg)
 * Samsung’s much-talked-about anti-iPhone campaign dubbed ‘Wall Huggers’ is expanding to select airports, which are among the most trafficked public spots and traditionally the domain of iPhone and MacBook-toting users.

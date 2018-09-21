@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple may be working to supplant Siri's Nuance speech recognition with in-house tech
+title: Apple may be working to supplant Siris Nuance speech recognition with in-house tech
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/iOS-7-Siri.png)
 * Although Apple’s Siri uses Nuance’s speech recognition technology, the digital assistant may be getting a new voice soon. Although Nuance continues to power Siri’s speech recognition, a number of former Nuance employees reportedly are now part of Apple’s in-house efforts to develop a new speech recognition technology to power Siri, reducing its technological dependency on third-parties.

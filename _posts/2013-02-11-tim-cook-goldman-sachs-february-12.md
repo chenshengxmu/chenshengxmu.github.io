@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Cook to speak at Goldman Sachs tech conference tomorrow
+title: Apples Cook to speak at Goldman Sachs tech conference tomorrow
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/WWDC-2012-keynote-Tim-Cook-001.jpg)
 * Apple CEO Tim Cook will speak at Tuesday’s Goldman Sachs tech conference, February 12, according to Apple’s Investor News site.

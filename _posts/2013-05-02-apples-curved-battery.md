@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's battery patents hint at rounded gizmos
+title: Apples battery patents hint at rounded gizmos
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/Apple-patent-rounded-battery-drawing-004.png)
 * The days of boxy computers are history, so why are the batteries which power them still the same shape? That’s the question a pair of new Apple patent applications seek to answer. The patents filed in 2011 with the U.S. Patent and Trademark Office describe “non-rectangular batteries for portable devices.”

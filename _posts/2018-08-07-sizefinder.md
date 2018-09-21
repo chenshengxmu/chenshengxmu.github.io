@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This tweak replaces iOS' app deletion buttons with storage usage indicators
+title: This tweak replaces iOS app deletion buttons with storage usage indicators
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/SizeFinder.jpg)
 * You can enter ‘wiggle’ mode on your iPhone or iPad by tapping and holding on any app icon from your Home screen. While in this mode, tiny ‘X’ buttons pop up at the top left of every icon, letting you delete your apps one at a time.

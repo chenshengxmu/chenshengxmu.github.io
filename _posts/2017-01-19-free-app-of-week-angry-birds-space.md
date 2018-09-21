@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's free app of the week- Angry Birds Space
+title: Apples free app of the week- Angry Birds Space
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/01/space.png)
 * Apple on Thursday updated its App of the Week promotion with the game Angry Birds Space. This means that for the next 7 days you can pick up the popular title for free on both iPhone and iPad—saving yourself $4.

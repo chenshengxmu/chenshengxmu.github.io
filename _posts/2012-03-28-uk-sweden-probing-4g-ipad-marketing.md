@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Denmark, Sweden, UK, New Zealand also probing Apple's "4G" marketing for the new iPad
+title: Denmark, Sweden, UK, New Zealand also probing Apples 4G marketing for the new iPad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/iPad-4G-markting-in-Australia-befor-and-after.jpg)
 * Uh-oh, it looks like Apple is now facing additional probes by consumer watchdogs in other countries around the world for misleading 4G iPad buyers with false advertising. Yesterday, Apple of California was forced to bow to the pressure from the Australian Competition and Consumer Commission over the matter and is now offering refunds to those consumers believing they were misled.

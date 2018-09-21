@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 6 pre-orders on Samsung's home turf top 100,000 units, outpacing Galaxy Note 4
+title: iPhone 6 pre-orders on Samsungs home turf top 100,000 units, outpacing Galaxy Note 4
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/iPhone-6-Plus-hand-001.jpg)
 * Ahead of the scheduled October 31 launch, carriers in South Korea have managed to collect 100,000 pre-orders for Apple’s new iPhone 6 and iPhone 6 Plus smartphones, three times the amount of pre-orders for Samsung’s Galaxy Note 4 in the country, The Wall Street Journal reported Monday.

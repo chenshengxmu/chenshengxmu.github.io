@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brand new 'Accessibility' section launches on Apple Online Store
+title: Brand new Accessibility section launches on Apple Online Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/Apple-Online-Store-Accessibility-section-web-screenshot-001.jpg)
 * Confirming earlier rumors, the Apple Online Store has begun selling accessibility-related accessories and peripherals via a dedicated Accessibility section, as first discovered by Amusement. At the time of this writing, the store listed about fifteen accessories separated into sub-categories such as Vision, Physical & Motor Skills and Learning & Literacy products, with more to be added at a later stage.

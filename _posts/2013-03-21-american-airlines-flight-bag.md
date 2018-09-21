@@ -1,6 +1,6 @@
 ---
 layout: post
-title: American Airlines' new iPad electronic flight bag caught on video
+title: American Airlines new iPad electronic flight bag caught on video
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/ipad-flight-bag-cockpit.png)
 * As most of you have probably heard by now, flight bags are going digital. This means that pilots are getting approval to replace their 30-40lb bags of paper company and flight manuals with a 1.5lb tablet—typically an iPad.

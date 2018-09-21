@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's marketing goes back to its roots
+title: Apples marketing goes back to its roots
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/Designed-by-Apple-in-California.jpg)
 * Earlier this week, Apple showed the WWDC crowd what could only be described as a pair of mission-statement videos. As we reported, these highlight Apple’s renewed focus on simplicity in iOS 7 and underscore its famous ‘Designed by Apple in California’ signature.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's strict MFi terms force Kickstarter project to shut down
+title: Apples strict MFi terms force Kickstarter project to shut down
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/pop-kickstarter.png)
 * Back in September, things were going pretty good for the folks at Edison Junior. Their Kickstarter project POP, a portable power station, was a huge success, raising more than $100,000. And they were hoping to start shipping the accessory by early December.

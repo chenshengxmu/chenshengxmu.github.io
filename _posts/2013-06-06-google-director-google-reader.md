@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google product director explains why it's shutting down Google Reader
+title: Google product director explains why its shutting down Google Reader
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/google-reader-.jpeg)
 * In March of this year, Google announced that it would be shutting down its news aggregation service Google Reader. The news sent the tech world into a frenzy, and spawned a petition with over 100,000 signatures.

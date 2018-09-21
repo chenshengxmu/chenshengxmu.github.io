@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile's new family promo gives you two lines with unlimited 4G LTE for $100 per month
+title: T-Mobiles new family promo gives you two lines with unlimited 4G LTE for $100 per month
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/T-Mobile-family-promo-002.png)
 * T-Mobile USA, the self-proclaimed “Uncarrier,” on Wednesday launched a new family plan promotion which starts at $100 per month for two lines with unlimited 4G LTE data (2.5GB per line with no sharing required), with an additional $40 per line cost on up to ten people.

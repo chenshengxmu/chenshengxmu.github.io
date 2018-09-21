@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to use iOS 12's new multitasking gestures on iPad
+title: How to use iOS 12s new multitasking gestures on iPad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/06/iOS-12-multitasking-gestures-teaser.jpg)
 * For the sake of consistency, iOS supports iPhone X-style multitasking gestures on iPad. With them, you can interact with multiple apps on the Apple tablet by using new gestures in iOS 12 designed to replace the key functions of the incredibly versatile Home button.

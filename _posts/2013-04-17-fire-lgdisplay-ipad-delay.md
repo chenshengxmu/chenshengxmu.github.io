@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple may have delayed next-gen iPads over fire at LG Display's subcontractor plant
+title: Apple may have delayed next-gen iPads over fire at LG Displays subcontractor plant
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/iPad-3-white-flat-finger-on-Safari.jpg)
 * An analyst report last Tuesday disappointed folks who were holding their breath for new iPads before this summer. As iDB told you, KGI Securities’ rather accurate analyst Ming-Chi Kuo cited a number of “technical challenges” that Apple is currently facing in manufacturing the second-generation iPad mini and fifth-generation full-size iPad, leading him to believe that both products won’t hit the market until Fall.

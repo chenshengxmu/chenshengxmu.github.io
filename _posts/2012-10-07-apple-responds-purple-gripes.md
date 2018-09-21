@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple responds to 'purple haze' iPhone 5 camera complaints
+title: Apple responds to purple haze iPhone 5 camera complaints
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/dpreview-purple-iphone-5.png)
 * In addition to the back panel scratching and light leak complaints, early iPhone 5 purchasers have spotted another flaw in Apple’s latest handset: a purple haze or halo is appearing in some photos taken with its rear camera.

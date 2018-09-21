@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2005 Purple iPhone prototype proves Apple didn't lift iPhone's design from Sony
+title: 2005 Purple iPhone prototype proves Apple didnt lift iPhones design from Sony
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/Purple-iPhone-prototype-image-001.jpg)
 * Remember Apple’s Sony-infused iPhone prototype that Samsung recently showed in its pre-trial brief? The one done by designer Shin Nishibori whom Apple hired from Sony to create one of the early iPhone prototypes? As you know, Apple fought hard to keep the jury from seeing that evidence that, Samsung hopes, establishes that the Cupertino, California company lifted the iPhone’s design from Sony.

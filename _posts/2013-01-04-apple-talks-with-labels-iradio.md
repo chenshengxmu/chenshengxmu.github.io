@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple again said to be in talks with labels over 'iRadio' service
+title: Apple again said to be in talks with labels over iRadio service
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/itunes-music-e1354708397977.png)
 * It’s 2013 now, meaning we could be seeing Apple’s rumored Pandora-like streaming music service popup anytime now. The last we heard, the Cupertino company was having trouble getting record labels on board. But according to a new report, the negotiations are back on and rolling at full speed…

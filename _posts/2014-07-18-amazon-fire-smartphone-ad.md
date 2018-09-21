@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Watch Amazon's inaugural TV ad for its upcoming Fire Phone
+title: Watch Amazons inaugural TV ad for its upcoming Fire Phone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/Amazon-Fire-Phone1-e1405692174133.jpg)
 * Last night, the online retail giant Amazon has begun airing the first television commercial for its Fire smartphone ahead of its debut next Friday in the United States.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sony's new 48MP camera sensor could solve Apple's low-light iPhone shooting problems
+title: Sonys new 48MP camera sensor could solve Apples low-light iPhone shooting problems
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/iPhone-X-Cameras.jpg)
 * While Apple has been steadily improving low-light photography capabilities of the iPhone cameras, Samsung still beats it in terms of high-sensitivity shooting. This could change if Apple opts to use Sony’s new 48-megapixel camera sensor in future iPhone models.

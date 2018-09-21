@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Modern Combat 4- Zero Hour 'Meltdown' update explodes into the App Store
+title: Modern Combat 4- Zero Hour Meltdown update explodes into the App Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/Modern-Combat-4-Zero-Hour-iPad-screenshot-001.jpg)
 * True to its promise, French developer Gameloft today unleashed a massive content update to the fourth installment of its popular wartime shooter franchise, Modern Combat. The ‘Meltdown’ content pack, as they’re calling it, is of course free to players who’ve previously purchased the game.

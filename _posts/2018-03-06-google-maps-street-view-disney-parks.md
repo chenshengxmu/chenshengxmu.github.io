@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's Street View comes to Disney parks
+title: Googles Street View comes to Disney parks
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/03/Google-Street-View-Disney-parks-002.jpg)
 * Google on Tuesday announced that the popular street-level photography feature available on its Maps service now covers eleven Disney-operated theme parks in the United States.

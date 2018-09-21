@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rotating bezel on Samsung's new Gear S2 smartwatch shown on video
+title: Rotating bezel on Samsungs new Gear S2 smartwatch shown on video
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/Smsung-Gear-S2-rotating-bezel-teaser-001.png)
 * Two days ago, Samsung officially unveiled its new smartwatch lineup: the Gear S2, Gear S2 classic and the Gear S2 with 3G connectivity.

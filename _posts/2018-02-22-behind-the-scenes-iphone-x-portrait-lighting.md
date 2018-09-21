@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple video explains how iPhone X's Portrait Lighting effects were created
+title: Apple video explains how iPhone Xs Portrait Lighting effects were created
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/02/Apple-Video-behind-scenes-iPhone-X-Portrait-Lighting.jpg)
 * Apple last evening posted a new video to its official YouTube channel, offering a rare behind the scenes look at how the Portrait Lighting effects on iPhone X were created.

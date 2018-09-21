@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cook explains why Apple's VPN actions in China are not inconsistent with its values in the US
+title: Cook explains why Apples VPN actions in China are not inconsistent with its values in the US
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/11/Tim-Cook-biceps.jpg)
 * Apple’s actions in China regarding the removal of unlicensed VPN apps are not at odds with its refusal in the US to unlock an iPhone that belonged to a San Bernardino shooter, Apple’s chief executive said during Tuesday’s post-earnings conference call with investors and analysts.

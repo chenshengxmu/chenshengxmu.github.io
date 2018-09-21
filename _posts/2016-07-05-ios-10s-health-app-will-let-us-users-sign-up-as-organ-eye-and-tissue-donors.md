@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 10's Health app will let US users sign up as organ, eye and tissue donors
+title: iOS 10s Health app will let US users sign up as organ, eye and tissue donors
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/iOS-8-Health-teaser-001.jpg)
 * Apple announced Tuesday that it will add an organ donor registration option to the stock Health app in iOS 10. People in the United States will be able to use a built-in option in the Health app when iOS 10 launches for public consumption this fall to register themselves as organ, eye and tissue donors.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rumor- iPhone 6s sports animated backgrounds inspired by Apple Watch's Motion face
+title: Rumor- iPhone 6s sports animated backgrounds inspired by Apple Watchs Motion face
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/04/Apple-Watch-faces-process-Wired-004.jpg)
 * Apple’s upcoming ‘iPhone 6s’ and ‘iPhone 6s Plus’ smartphones are said to include animated backgrounds inspired by the Apple Watch’s Motion face, 9to5Mac learned from sources. Of course, Apple has offered dynamic wallpapers since iOS 7, but it’s a single motif in seven color choices.

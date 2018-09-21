@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tip- customizing the toolbar of your Mac's Mail app
+title: Tip- customizing the toolbar of your Macs Mail app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/02/os-x-mail-app-icon.png)
 * Your Mac’s Mail app is a powerful email client, and for many, the default app configuration in plenty for getting day-to-day email tasks done.

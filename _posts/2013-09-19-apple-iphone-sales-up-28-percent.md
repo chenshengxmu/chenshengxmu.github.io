@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New iPhones could fuel 28 percent jump in Apple's Christmas quarter sales
+title: New iPhones could fuel 28 percent jump in Apples Christmas quarter sales
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/apple-morgan_stanley_iphone.png)
 * Although Apple’s iPhone 5s and iPhone 5c don’t hit shelves until tomorrow, we already have a glimpse into how the new smartphones will boost sales. Judging by pre-sales that began last week, Apple could see a 28 percent jump in fiscal fourth quarter sales, according to one Wall Street observer.

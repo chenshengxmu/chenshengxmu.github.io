@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New 4K video reveals the incredible complexity of Apple's upcoming iSpaceship headquarters
+title: New 4K video reveals the incredible complexity of Apples upcoming iSpaceship headquarters
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/04/iSpaceship-April-2016-update-image-001.jpg)
 * A new ultra high-definition drone video of Apple’s upcoming Campus 2 facility, posted Monday by YouTuber Duncan Sinfield, gives a nice overview of just how far along the project has progressed over the past twelve months.

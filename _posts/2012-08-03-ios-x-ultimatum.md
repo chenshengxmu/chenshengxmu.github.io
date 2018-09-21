@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'iOS X Ultimatum' brings Mountain Lion-like theme to your iPhone
+title: iOS X Ultimatum brings Mountain Lion-like theme to your iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/OS-X-Lion-Ultimatum.png)
 * If you’re searching for one of the best looking themes for the iPhone, then search no further than iOS X Ultimatum. The sequel of sorts to the original OS X Lion Ultimatum, this theme seeks to merge the desktop and the small screen into one environment.

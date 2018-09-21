@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Eddy Cue details Apple Pay on Apple Watch at NBA game
+title: Apples Eddy Cue details Apple Pay on Apple Watch at NBA game
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/apple-watch-nba.png)
 * Apple’s software boss Eddy Cue, an avid Golden State Warriors fan, was on-hand at Oracle arena in Oakland on Saturday to help with the official rollout of Apple Pay at the team store, the second such to support the mobile payment technology.

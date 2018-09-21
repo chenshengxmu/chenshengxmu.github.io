@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What's jet black anyway?
+title: Whats jet black anyway?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/iPhone-7-plus-back-side.jpg)
 * Apple’s new jet black iPhone 7 is what I believe to be the flagship finish for this year’s iPhone. This is the one that Apple features in most of its promo materials, and I assume this is the one Jony Ive is carrying right now in his man purse, along with early prototypes of the iPhone 8.

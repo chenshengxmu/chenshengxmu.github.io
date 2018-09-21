@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3% of Apple's supply chain workers still putting 60+ hour weeks into someone else's dream
+title: 3% of Apples supply chain workers still putting 60+ hour weeks into someone elses dream
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/foxconn-workers.jpg)
 * Determined to prove the world it’s doing the right thing to prevent labor abuses in its supply chain, Apple has quietly updated the Labor and Human Rights web page with some interesting data points. The company’s suppliers in August employed 60 percent more workers than in January of this year.

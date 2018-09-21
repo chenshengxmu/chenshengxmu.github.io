@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sega's Football Manager Handheld 2015 hits iOS
+title: Segas Football Manager Handheld 2015 hits iOS
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/11/Football-Manager-Handheld-2015-1.0-for-iOS-iPhone-screenshot-002.jpeg)
 * Japanese games maker Sega on Thursday rolled out Football Manager Handheld 2015 to the App Store. Featuring improved look and feel, a brand new match engine, a Scouting Agency feature and new world rankings with dynamic league reputation, the latest installment in the award-winning Football Manager series lets smartphone and tablet gamers live out the dream of managing their favorite real-life club.

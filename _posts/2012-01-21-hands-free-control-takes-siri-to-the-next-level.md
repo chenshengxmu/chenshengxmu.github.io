@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hands-Free Control' Takes Siri to the Next Level
+title: Hands-Free Control Takes Siri to the Next Level
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/HAnds-Free-Control-With-Siri-e1327177337645.jpg)
 * The potential is startling. Once you play with Hands-Free Control in a true Siri environment on the iPhone 4S, it really hits you how much potential jailbreaking adds to Siri. Truly, the sky’s the limit here as far as voice recognition and the like are concerned.

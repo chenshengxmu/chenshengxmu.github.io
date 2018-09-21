@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tip- your iPhone's stock Compass app has a level built into it
+title: Tip- your iPhones stock Compass app has a level built into it
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/07/iPhone-level-in-Compass-App.png)
 * There’s a feature hiding inside of your iPhone’s Compass app that could come in handy in many scenarios.

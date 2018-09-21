@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Judge Denies Samsung's Request to Ban iPhone 4S in Italy
+title: Judge Denies Samsungs Request to Ban iPhone 4S in Italy
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/07/Lawsuit-e1302038574242.jpg)
 * Here we go again. In the pissing contest legal battle that has now been going on for months between Samsung and Apple, an Italian judge has once again decided to side with Apple.

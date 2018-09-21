@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rumor- Samsung not churning out Apple's A8 chip for the next iPhone and iPad due to low yields
+title: Rumor- Samsung not churning out Apples A8 chip for the next iPhone and iPad due to low yields
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/Apple-A8-teaser-001.png)
 * Apple’s upcoming A8 mobile processor is of course expected to power the next wave of iPhone and iPad devices, but the advanced chip apparently won’t be manufactured by Samsung, which fabbed all of A-series processors since the iPhone 4’s 2010 A4 chip.

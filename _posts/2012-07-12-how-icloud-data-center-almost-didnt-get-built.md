@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Apple's $1 billion iCloud data center almost didn’t get built
+title: How Apples $1 billion iCloud data center almost didn’t get built
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/Apple-data-center-Maiden-North-Carolina-exterior-001.jpg)
 * An interesting feature by Katie Fehrenbacher of GigaOM has an insightful look at how Apple’s $1 billion data center in North Carolina came to be and how it almost didn’t get built. Luckily, officials were able to work out the deal and boy did it pay off. Because Apple is a powerful company, the iCloud data center gave Catawba County a much needed bargaining chip in convincing others to build their data centers there, too…

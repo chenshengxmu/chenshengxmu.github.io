@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple adds Beats Music to 'Apps Made by Apple' section in App Store
+title: Apple adds Beats Music to Apps Made by Apple section in App Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/beats-music-app-store.png)
 * Following its addition to the ‘new user’ prompt in the App Store earlier this week, Apple has added the Beats Music iOS client to the ‘Apps Made by Apple‘ section of its digital storefront. The move comes just two weeks after the two companies made the acquisition official.

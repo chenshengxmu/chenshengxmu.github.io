@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to access iOS 9's Picture in Picture mode for YouTube videos
+title: How to access iOS 9s Picture in Picture mode for YouTube videos
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/12/youplayer-3.png)
 * Google is seriously lagging when it comes to updating its YouTube app with all the latest iOS 9 and iPad Pro features. For example, there’s no support for Split View side by side multitasking, and the app lacks optimization for the iPad Pro’s extra large screen. But what I find to be most egregious, is the lack of support for Picture in Picture mode.

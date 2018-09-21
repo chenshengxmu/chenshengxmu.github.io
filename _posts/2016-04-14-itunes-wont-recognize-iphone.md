@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What to do if iTunes doesn't recognize your iPhone or iPad
+title: What to do if iTunes doesnt recognize your iPhone or iPad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/04/Mad-At-iTunes.png)
 * If you ever sync your iPhone, iPod touch, or iPad with iTunes, then more than likely you’ve experienced hiccups at some point in time where iTunes has been unable to find or recognize your device.

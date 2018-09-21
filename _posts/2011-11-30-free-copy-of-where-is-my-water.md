@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Get Your Free Copy of "Where's My Water" for iOS Now
+title: Get Your Free Copy of Wheres My Water for iOS Now
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/Free-Wheres-My-Water.jpg)
 * Apple is feeling generous these days, so take advantage of it while it lasts. Just like it did not too long ago with Jetpack Joyride, Apple is currently giving away promo codes for another hit game, Where’s My Water, the Disney app that usually sells for $0.99 in the App Store.

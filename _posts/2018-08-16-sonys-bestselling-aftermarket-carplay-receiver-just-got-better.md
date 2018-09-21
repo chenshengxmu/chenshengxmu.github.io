@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sony's bestselling aftermarket CarPlay receiver just got better
+title: Sonys bestselling aftermarket CarPlay receiver just got better
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/Sony-XAV-AX210-image-002.jpg)
 * If you love CarPlay but aren’t fond of burning cash on a brand-new vehicle just to get CarPlay out of the box, consider Sony’s latest receiver featuring a 6.4-inch touchscreen, CarPlay and Android Auto compatibility, support for iDatalink Maestro and more.

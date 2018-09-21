@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Cook touring China to talk iPhone 5 with carriers (UPDATE- greater investment mulled)
+title: Apples Cook touring China to talk iPhone 5 with carriers (UPDATE- greater investment mulled)
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/Tim-Cook-on-Joy-City-store-in-Beijing.jpg)
 * Though Apple’s late co-founder Steve Jobs never visited China (so says the official biography), the new CEO Tim Cook has been spotted at the company’s Apple Store in Joy City, a shopping mall located in Xidan, Beijing. A local news article included pictures of Cook posing with fans, snapped at the store. However, the real purpose of the executives’s visit to China is shrouded in secrecy.

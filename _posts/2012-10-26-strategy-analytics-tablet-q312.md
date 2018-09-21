@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Android grabs 41 percent of tablet market as Apple's share falls
+title: Android grabs 41 percent of tablet market as Apples share falls
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/iPad-mini-every-inch-an-iPad.jpg)
 * Can the iPad mini save Apple’s slipping lead in tablet sales? The could be the question of the day as researchers announce Apple’s share of the tablet market dropped to 56.7 percent while Android tablets now account for 41 percent of the worldwide market.

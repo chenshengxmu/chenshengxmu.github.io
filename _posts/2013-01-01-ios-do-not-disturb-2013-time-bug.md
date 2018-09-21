@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No New Year greetings? Blame your iPhone's Do Not Disturb mode
+title: No New Year greetings? Blame your iPhones Do Not Disturb mode
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/Do-Not-Disturb-2.jpeg)
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/Do-Not-Disturb-3.jpeg)

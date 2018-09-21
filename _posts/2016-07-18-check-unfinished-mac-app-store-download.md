@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Do you have unfinished Mac App Store downloads? Here's how to check
+title: Do you have unfinished Mac App Store downloads? Heres how to check
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/02/App-Store-icon-OS-X-Yosemite-hero-2000px-1000x400.jpg)
 * Do you have any Mac App Store apps stuck in cyberspace that you don’t even know about?

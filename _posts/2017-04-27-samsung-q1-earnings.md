@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung's Q1 results- mobile business declines, worries about iPhone 8, Note 8 coming
+title: Samsungs Q1 results- mobile business declines, worries about iPhone 8, Note 8 coming
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/03/Samsung-Galaxy-S8-Bixby-003.jpg)
 * Samsung Electronics on Thursday posted financial results for the first calendar quarter ended March 31, 2017. While the South Korean conglomerate increased both revenue and profit from the year-ago quarter, the growth is attributed mainly to Samsung’s lucrative components business as its mobile segment actually shrank year-over-year.

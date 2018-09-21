@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twelve South's most popular iPad stand, Compass 2, now available in Gold and Rose Gold
+title: Twelve Souths most popular iPad stand, Compass 2, now available in Gold and Rose Gold
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/Twelve-South-Compass-2-gold-and-rose-gold-image-001.png)
 * Compass 2, a compact, ultra-portable iPad stand from the United States-based premium accessory vendor Twelve South, is now available in two new colorways to match your Gold or Rose Gold Apple tablet. The accessory is designed to work with the 9.7-inch iPad Pro and all generations of the iPad Air and iPad mini, in both landscape and portrait mode. The new Gold and Rose Gold editions of the Compass 2 are now available for $39.99 a pop each on Amazon and via Twelve South’s web store.

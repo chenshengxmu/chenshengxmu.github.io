@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple shifting some of its iCloud services to Google's Cloud Platform
+title: Apple shifting some of its iCloud services to Googles Cloud Platform
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/iCloud-iPhone-iPad-Mac.png)
 * Apple has signed a deal with Google to use the search giant’s Cloud Platform for some of its iCloud services, reports CRN. The site says that the two firms inked the deal late last year, and it’s believed to be worth somewhere between $400-$600 million.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PowerDown Pro- add more options to the iPhone's power down interface
+title: PowerDown Pro- add more options to the iPhones power down interface
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/POwerDown-Pro.png)
 * PowerDown Pro is a jailbreak tweak that adds extra options to the power down screen that appears on your iPhone after holding the sleep button. Normally, this menu contains a single option—slide to power off—but with PowerDown Pro, three additional options are put into play.

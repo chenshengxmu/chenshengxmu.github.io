@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here is the iPhone 6's new M8 coprocessor
+title: Here is the iPhone 6s new M8 coprocessor
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/M8.jpg)
 * As expected, Apple has upgraded the M7 motion coprocessor to a new M8 motion coprocessor for the iPhone 6. This coprocessor, which exists separately from the new A8 CPU, allows the iPhone to track movements via continuous measurements from the accelerometer, gyroscope, and compass.

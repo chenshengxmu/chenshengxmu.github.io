@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile to add iPhone 6 to 'Test Drive' program
+title: T-Mobile to add iPhone 6 to Test Drive program
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/T-Mobile-Test-Drive-teaser-002.png)
 * T-Mobile, the nation’s fourth-largest wireless carrier, this past weekend told technology website Re/code that devices upgraded to iOS 8, including the latest iPhone 6 and iPhone 6 Plus smartphones, will be soon available through its ‘Test Drive’ program. Introduced at its ‘Uncarrier 5.0’ event back in June, ‘Test Drive’ allows customers to borrow an iPhone free for a week to test out T-Mobile’s network.

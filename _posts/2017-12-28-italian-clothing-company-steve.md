@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Italian apparel company wins legal battle to use Steve Jobs' name
+title: Italian apparel company wins legal battle to use Steve Jobs name
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/steve.jpg)
 * An Italian apparel company has won the right to use the name Steve Jobs, reports Italian site la Repubblica Napoli (via The Verge). After a lengthy legal battle with Apple, the clothing co can now freely use the name of the iPhone-maker’s beloved founder in its designs.

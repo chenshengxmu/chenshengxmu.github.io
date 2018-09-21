@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apex is now available on Cydia. Here's why you should buy it
+title: Apex is now available on Cydia. Heres why you should buy it
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/Apex-01.jpg)
 * One of the best jailbreak tweaks to touch down in some time is now available for purchase on the Cydia Store. I’m referring to Apex, the new jailbreak tweak collaboration from A3tweaks.

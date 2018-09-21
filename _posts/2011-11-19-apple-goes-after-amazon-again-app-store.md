@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Goes After Amazon in Court Again Over Using the Term "App Store"
+title: Apple Goes After Amazon in Court Again Over Using the Term App Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/amazon_apple_app_store_sue.jpg)
 * While Apple’s long-running legal battle with Samsung has been consistently receiving the headlines, Tim Cook’s band of highly paid lawyers are also going after another one of the tech industry’s big boys, Amazon. Since the beginning of the battle back in March, Apple has been suing the retailer/tablet-maker over its use of the phrase “App Store.”

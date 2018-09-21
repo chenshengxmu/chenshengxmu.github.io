@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Isn't Worried About Amazon's Tablet
+title: Apple Isnt Worried About Amazons Tablet
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/amazon-kindle.jpg)
 * Apple has dominated the tablet market the last two years with its iPad line. Since it reinvented the category in 2010, competitors have struggled to keep up with Apple’s high-powered, low-cost slate.

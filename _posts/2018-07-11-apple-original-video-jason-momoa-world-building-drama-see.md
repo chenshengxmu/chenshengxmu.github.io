@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Game of Thrones” star Jason Momoa lands the lead role in Apple's world-building drama
+title: “Game of Thrones” star Jason Momoa lands the lead role in Apples world-building drama
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/khal-drogo-jason-momoa.jpg)
 * Apple continues to bolster its upcoming original video programming with news that Jason Momoa, who played Khal Drogo in HBO’s “Game of Thrones,” has been cast in the lead role in the iPhone maker’s upcoming world-building drama series, “See”.

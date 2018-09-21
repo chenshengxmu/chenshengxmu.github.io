@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's second secret eBay store goes live with pre-owned iPhones
+title: Apples second secret eBay store goes live with pre-owned iPhones
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/Apple-eBay-store-unlocked-iPhone-5-refurb.png)
 * Back in November 2012, a secret mini-store popped up on eBay with officially certified, little-used Apple products, similar to those found on the company’s own refurbished section at the Online Apple Store.

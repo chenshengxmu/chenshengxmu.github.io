@@ -1,6 +1,6 @@
 ---
 layout: post
-title: White balance- the iPhone photographer's little secret
+title: White balance- the iPhone photographers little secret
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/iPhone-Photography-Series.jpg)
 * I hope you have enjoyed the last few weeks exploring the creative possibilities of exposure. I wanted to continue on our adventure back to the basics of photography. Something I’m sure you have seen at some point in your photographic pursuits is a dial, slider, or some other control annotated with a cloud, sun, flash, shade, and light bulb. Although, camera companies have done a great job researching the iconography that best represents ‘it’, they really don’t explain what ‘it’ is. In today’s lesson we will quickly learn what ‘it’ is and then explore creative ways to use ‘it’ to our advantage!

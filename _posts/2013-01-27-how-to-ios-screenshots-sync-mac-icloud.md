@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to have iOS screenshots automagically appear in your Mac's Finder
+title: How to have iOS screenshots automagically appear in your Macs Finder
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/iPhone-4S-two-up-Photos-001.jpg)
 * I’ve always loved the simplified iOS approach to screenshot taking just by pressing the power and home button simultaneously. This oft-used feature works in absolutely any app and, as an added bonus, iOS stores my screenies in the Camera Roll as crisp, lossless PNG files.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Report sheds light on public transit directions in iOS 8's Maps and other new features
+title: Report sheds light on public transit directions in iOS 8s Maps and other new features
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/OS-X-Mavericks-Maps-Send-to-iOS-teaser.jpg)
 * A new report by the reliable blogger Mark Gurman of 9to5Mac has offered new details concerning Apple’s Maps service in iOS 8, the next major iteration of Apple’s mobile operating system for the iPhone, iPod touch and iPad devices, which is expected to be released later this year.

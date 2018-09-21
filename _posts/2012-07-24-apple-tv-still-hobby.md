@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Despite growing sales, Apple says TV is still a "hobby"
+title: Despite growing sales, Apple says TV is still a hobby
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/apple-tv.jpg)
 * Earlier this afternoon, Apple hosted a conference call to discuss its performance over the past three months. You can replay the call here, or you can check out our roundup of the most interesting points.

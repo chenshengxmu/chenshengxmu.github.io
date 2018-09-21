@@ -1,6 +1,6 @@
 ---
 layout: post
-title: One of the Coolest Fake Apple Stores We've Ever Seen
+title: One of the Coolest Fake Apple Stores Weve Ever Seen
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/Screen-Shot-2011-08-16-at-11.17.36-AM-e1313511511522.png)
 * Apple’s retail locations have achieved unprecedented success over the last 10 years. They’ve received numerous architectural design awards and currently average around $4000 in sales per square foot.

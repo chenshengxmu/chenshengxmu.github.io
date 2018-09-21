@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to check if the phone you're buying was stolen
+title: How to check if the phone youre buying was stolen
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/05/Stolen_Phone_Checker_teaser.jpg)
 * If you’re in the market for a used iPhone, it’s always a good idea to ask the owner to disable Find My iPhone, which automatically turns off Apple’s theft-deterring Activation Lock feature.

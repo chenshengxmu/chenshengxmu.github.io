@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NYT- Apple's rumored noninvasive continuous glucose reader is likely a few years away
+title: NYT- Apples rumored noninvasive continuous glucose reader is likely a few years away
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/watch-series-3-heartrate-app.jpg)
 * While Apple continues research into what should one day result in its own rumored non-invasive continuous glucose reader for Apple Watch, industry watchers have cautioned that the Cupertino tech giant is probably years away from a commercial product.

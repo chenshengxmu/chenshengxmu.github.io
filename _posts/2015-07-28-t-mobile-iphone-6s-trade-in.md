@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile will let those who buy an iPhone 6 this summer upgrade to upcoming 'iPhone 6s' for free
+title: T-Mobile will let those who buy an iPhone 6 this summer upgrade to upcoming iPhone 6s for free
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/07/T-Mobile-iPhone-upgrade-promo-image-002.png)
 * Did you purchase your current iPhone 6 for $15 per month through T-Mobile’s JUMP! On Demand trade-in program? If so, you’ll be automatically eligible for a free upgrade to Apple’s ‘iPhone 6s’—or whatever it will be called when it’s released this fall.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple TV's universal search expands to nine new video channels
+title: Apple TVs universal search expands to nine new video channels
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/tvOS-universal-search-HGTV-proprety-brothers-Apple-TV-screenshot-001.jpg)
 * After adding support for video content from Bravo, E!, Syfy and USA channels ten days ago, tvOS’s universal search feature was refreshed earlier today with official support for nine additional channels. The full up-to-date list of universal search providers can be found in Apple’s support document.

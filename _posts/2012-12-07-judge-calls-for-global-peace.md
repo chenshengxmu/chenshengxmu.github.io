@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Judge calls for 'global peace' between Apple and Samsung
+title: Judge calls for global peace between Apple and Samsung
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/apple-samsung-trial.jpg)
 * Call it a Rodney King moment, or a holiday Hail Mary, but one California judge is asking long-time judicial combatants Apple and Samsung to play nice. Apparently, the idea went over like last year’s fruitcake. Judge Lucy Koh Thursday made the plea as the two rivals met for an appeal hearing where the South Korean smartphone maker objected to its $1.05 billion patent-infringement fine and Apple argued the penalty should be increased…

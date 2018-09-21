@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's subscription television service reaffirmed to remain on hold ahead of September 9 event
+title: Apples subscription television service reaffirmed to remain on hold ahead of September 9 event
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/Apple-TV-Air-Remote-Martin-Hajek-004.jpg)
 * A next-generation Apple TV hardware with Siri voice control, a revamped remote and a dedicated App Store is expected to launch alongside new iPhones and iPads at the September 9 media event at San Francisco’s gigantic Bill Graham Civic Auditorium.

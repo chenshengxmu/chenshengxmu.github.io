@@ -1,6 +1,6 @@
 ---
 layout: post
-title: As it turns out, Tim Cook didn't visit Valve's headquarters
+title: As it turns out, Tim Cook didnt visit Valves headquarters
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/valve-hq.jpg)
 * Last week, a report made its way around the blogosphere claiming that Apple’s CEO Tim Cook was spotted at Valve’s headquarters. This sparked all kinds of speculation regarding the nature of Cook’s visit, and the company’s future plans in the gaming space.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hands-on with iOS 11's one-handed QuickType keyboard
+title: Hands-on with iOS 11s one-handed QuickType keyboard
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/ios-11-one-handed-keyboard-web-screenshot-001.png)
 * As previously suspected, and officially announced at the Worldwide Developers Conference, iOS 11 provides a new keyboard feature making it easier to type in one-handed mode, whether you’re a right or left-handed user. It works on both 4.7 and 5.5-inch iPhones and is easily invoked at any time via the keyboard’s Emoji key.

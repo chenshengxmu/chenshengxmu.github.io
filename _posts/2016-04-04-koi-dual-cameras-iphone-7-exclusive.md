@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KGI- dual cameras to be exclusive to 5.5" iPhone 7
+title: KGI- dual cameras to be exclusive to 5.5 iPhone 7
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/iPhone-6s-camera-back-image-002.jpg)
 * Apple’s upcoming iPhone 7 will feature dual cameras for improved photography features, but only on the flagship 5.5-inch model, according to an investment note by KGI Securities analyst Ming-Chi Kuo, a copy of which was obtained by AppleInsider this morning.

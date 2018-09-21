@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some new iMacs say 'Assembled in the USA'
+title: Some new iMacs say Assembled in the USA
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/iMac-8G-two-up-left-angled-right-angled-e1354532353731.jpg)
 * Apple has taken a lot of criticism over the years for outsourcing the manufacturing of its products to China and other countries. They’re not the only one that does this — thousands do — but because of their size and influence, they always get singled out.

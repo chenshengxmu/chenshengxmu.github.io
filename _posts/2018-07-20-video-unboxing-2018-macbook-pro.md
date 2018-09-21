@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video- unboxing 2018's 15-inch MacBook Pro
+title: Video- unboxing 2018s 15-inch MacBook Pro
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/2018-MacBook-Pro-001.jpg)
 * The refreshed MacBook Pro models for 2018 are here so we tasked our video guy Harris Craycraft with putting together an unboxing video taking a look at what’s inside packaging.

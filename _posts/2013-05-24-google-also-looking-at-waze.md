@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Watch out Facebook, Google's also considering Waze buyout
+title: Watch out Facebook, Googles also considering Waze buyout
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/waze.jpg)
 * Whatever the folks over at Waze are doing, they must be doing it right. Earlier this month, we heard that Facebook was looking to acquire the Palo Alto-based startup and its popular crowd-sourced navigation app for a cool $1 billion.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video of Pixar founder as he accepts Steve Jobs' Disney Legends Award
+title: Video of Pixar founder as he accepts Steve Jobs Disney Legends Award
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/steve-jobs.png)
 * Back in July, Disney announced that it was going to be honoring Steve Jobs with a Disney Legend Award. The award is the media conglomerate’s highest and most coveted honor, and is reserved for extraordinary visionaries and artists.

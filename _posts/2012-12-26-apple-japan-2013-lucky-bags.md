@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's 'Lucky Bags' sale starts January 2 in Japan
+title: Apples Lucky Bags sale starts January 2 in Japan
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/Apple-Lucky-Bags-teaser.jpg)
 * Everything is different in Asia than over here in the United States (or Europe, or most other parts of the world for that matter). Whereas we celebrate Christmas and Santa Claus and kick off the holiday shopping season with Black Friday mega discounts, there’s no such thing in Japan. Instead, they have Fukubukuro – aka Lucky Bags or Mystery Bags – a New Year’s Day custom where retailers entice buyers with grab bags containing unknown random contents.

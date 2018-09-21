@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cheaper iPhone Would Have to Be an "Innovative, Category-Killer Experience," According to Apple
+title: Cheaper iPhone Would Have to Be an Innovative, Category-Killer Experience, According to Apple
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/Steve-Jobs-in-front-iPhone-4-e1312563860767.png)
 * Since the beginning of this year, rumors have been heating up that Apple will release not one, but two iPhone models this year. One of these devices would be the next flagship iPhone 5 based on the the current pricing structure, while the second device would be a cheaper (possibly pre-paid) “Nano” handset.

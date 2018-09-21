@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's upcoming iSpaceship auditorium looks like a hovering flying saucer
+title: Apples upcoming iSpaceship auditorium looks like a hovering flying saucer
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/iSpacehip-auditorium-image-001.jpg)
 * Now that the City of Cupertino Council has approved Apple’s upcoming flying saucer-shaped, 2.8 million square feet corporate building called Campus 2 (or iSpaceship, informally), the company’s slated to break ground real soon. The 4-story, eco-friendly building is already $2 billion over budget and should open by 2016.

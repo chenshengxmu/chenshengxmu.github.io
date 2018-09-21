@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 8 bug in 'Reset All Settings' feature deletes iCloud Drive files
+title: iOS 8 bug in Reset All Settings feature deletes iCloud Drive files
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/delete-all-settings.png)
 * A new bug has been discovered in iOS 8 that will indadvertedly delete iCloud Drive documents. MacRumors reports that selecting the ‘Reset All Settings’ option from the Reset menu in the Settings app of iOS 8 will erase iWork-related files in iCloud Drive.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 15 interesting points from Apple's Q1 2016 earnings call
+title: 15 interesting points from Apples Q1 2016 earnings call
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/Apple-Store-Fifth-Avenue-exterior-001.jpg)
 * Apple announced the financial results for its fiscal first quarter of 2016 this afternoon, and the numbers are pretty solid. The company broke its own records on handset sales, moving 74.8 million iPhones, and revenue, garnering nearly $76 billion during the three-month holiday period.

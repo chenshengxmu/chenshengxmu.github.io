@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OLED for iPhone 8 could add $50 million to Apple's March quarter expenses
+title: OLED for iPhone 8 could add $50 million to Apples March quarter expenses
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/iPhone-7-better-screen.jpg)
 * iPhone 8, or 10th Anniversary iPhone as affectionately dubbed by the media, is expected to adopt the unrivaled organic light-emitting diode (OLED) display technology as utilized on Apple Watch screens and the new MacBook Pro’s Touch Bar.

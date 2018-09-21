@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Billion Dollars Isn't Cool, You Know What's Cool? A Trillion Dollars
+title: A Billion Dollars Isnt Cool, You Know Whats Cool? A Trillion Dollars
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/10/Apple-Money.jpg)
 * Yesterday, Apple briefly became the most valuable company in the world, passing ahead of Exxon Mobile, and falling behind the oil giant again minutes later.

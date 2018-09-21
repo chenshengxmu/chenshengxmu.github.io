@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook on Apple Car- 'it's going to be Christmas Eve for a while'
+title: Tim Cook on Apple Car- its going to be Christmas Eve for a while
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/iOS-9.3-CarPlay-teaser-001.jpg)
 * Don’t expect the Apple Car to start hitting stores anytime soon, says Tim Cook. During Apple’s annual shareholders meeting on Friday, the CEO responded to a question regarding the rumored vehicle, suggesting the project is far from launching.

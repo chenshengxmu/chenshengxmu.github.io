@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LG Can't Meet the iPad Demand
+title: LG Cant Meet the iPad Demand
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/07/iPad-in-Diagonal.jpg)
 * LG, the manufacturer of the iPad display, said yesterday that even though it’s currently running at full capacity, the company won’t be able to meet Apple’s demand.

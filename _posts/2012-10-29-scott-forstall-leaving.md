@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's SVP of iOS software Scott Forstall to leave the company next year
+title: Apples SVP of iOS software Scott Forstall to leave the company next year
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/scott-forstall.png)
 * This is huge: Apple just announced that some major executive changes will be taking place in 2013, one of which involves Senior Vice President of iOS Software Scott Forstall leaving the company. Forstall, as most of you know, has been largely responsible for the success of iOS and its devices. In his absence, Jony Ive, Bob Mansfield and other executives will take on more responsibilities.

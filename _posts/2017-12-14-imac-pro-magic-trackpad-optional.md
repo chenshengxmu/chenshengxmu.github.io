@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iMac Pro's Magic Trackpad 2 in gorgeous Space Gray is an optional accessory
+title: iMac Pros Magic Trackpad 2 in gorgeous Space Gray is an optional accessory
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/iMAc-Pro-keyboard-mouse-Marques-Brownlee-001.jpg)
 * Apple’s Magic Mouse 2 comes standard with your iMac Pro purchase, but you can instead choose a Magic Trackpad 2 if you’d like.

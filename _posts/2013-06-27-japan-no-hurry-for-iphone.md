@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Japan's top carrier thinks iPhone is no longer king of the hill
+title: Japans top carrier thinks iPhone is no longer king of the hill
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/nttdocomo-japan_6.jpg)
 * Remember the days of carriers acting like teenagers at a Justin Bieber concert when it came to the iPhone? That all-out adoration of Apple’s flagship device is waning – especially in Japan. The country’s largest wireless provider sees no hurry in offering the iPhone as Android alternatives grow in popularity.

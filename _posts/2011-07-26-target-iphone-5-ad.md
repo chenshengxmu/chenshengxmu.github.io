@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hilarious Target Ad "Leaks" the iPhone 5
+title: Hilarious Target Ad Leaks the iPhone 5
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/07/iphone-target-ad-copy-e1311715057827.jpg)
 * We’re not sure whether the iPhone featured in this Target ad is the work of a smart jokester in the retailer’s art department, or whether someone has inadvertently leaked an image of the iPhone 5, but either way, this is interesting — especially because it seems to tie in with those iPhone 5 case designs we published earlier.

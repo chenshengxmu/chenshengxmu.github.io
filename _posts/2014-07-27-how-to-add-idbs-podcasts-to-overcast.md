@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to add iDB's podcasts to Overcast
+title: How to add iDBs podcasts to Overcast
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/Overcast-feed-screen-e1406319116218.png)
 * Marco Arment’s new podcasting app, Overcast, is undoubtedly a fantastic listening tool. However, if you have been using another podcast app, it may be difficult finding and importing your favorites into Overcast, such as iDB’s Let’s Talk Jailbreak and Let’s Talk iOS. Have no fear, dear reader, as upon finishing this post, you will be hearing the fantastic podcasts (including Jeff’s silky smooth voice) in Overcast.

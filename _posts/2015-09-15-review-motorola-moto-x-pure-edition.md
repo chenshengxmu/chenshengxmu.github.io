@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review- Motorola Moto X Pure Edition from an iPhone user's perspective
+title: Review- Motorola Moto X Pure Edition from an iPhone users perspective
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/Moto-X-Pure-Edition-Hero.png)
 * As you guys know, I’m a fan of the Moto G—Motorola’s off-contract budget phone that packs in a surprising amount of good features for a super-cheap price. As I stated in my review, the Moto G is a good choice for anyone wishing to dip their toes into the Android waters, or for anyone who needs a cheap second smartphone.

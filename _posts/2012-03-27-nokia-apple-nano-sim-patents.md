@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple granted Nano SIM-related patent that Nokia is "not aware" of
+title: Apple granted Nano SIM-related patent that Nokia is not aware of
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/SIM-card-sizes.jpg)
 * Once again, the Finnish cell phone giant Nokia is opposing Apple’s proposal for a new requirement related to the emerging Nano SIM card standard, dated back to 2011. According to a rumor yesterday, Apple wants to license its version of the Nano SIM to others royalty-free in exchange for any Nano SIM-related patents held by other companies.

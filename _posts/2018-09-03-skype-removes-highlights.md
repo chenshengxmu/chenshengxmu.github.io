@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Skype removes Highlights because users couldn't care less about Snapchat copying
+title: Skype removes Highlights because users couldnt care less about Snapchat copying
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/09/Skype-Higlhights-001.jpg)
 * Microsoft’s decided that a major Snapchat-style redesign for Skype, released a year ago, was perhaps too much for users so it’s removed the Stories-like Highlights feature from the app.

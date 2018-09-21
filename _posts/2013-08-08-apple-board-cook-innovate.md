@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Board of Directors reportedly pressuring Tim Cook to innovate
+title: Apples Board of Directors reportedly pressuring Tim Cook to innovate
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/WWDC-2012-keynote-Tim-Cook-001.jpg)
 * Looking at headlines produced by the Apple rumor mill over the past several months, there’s no way you could accuse it of not innovating. We’ve seen reports that the company is working on everything from an advanced smart watch, to a cloud-based DVR, and everything in between.

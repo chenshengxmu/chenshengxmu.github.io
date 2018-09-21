@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung launches ad-free streaming radio service 'Milk Music'
+title: Samsung launches ad-free streaming radio service Milk Music
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/milk-collage_610x390.jpg)
 * In a somewhat surprising move, Samsung announced today a new streaming radio service dubbed ‘Milk Music.’ The service is a lot like Apple’s iTunes Radio in that music is chosen based on a user’s preferences, and it’s platform-specific—it’s only available to Galaxy device owners.

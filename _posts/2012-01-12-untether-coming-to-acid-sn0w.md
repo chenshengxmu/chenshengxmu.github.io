@@ -1,6 +1,6 @@
 ---
 layout: post
-title: pod2G's Untether Exploit Coming to Ac1dsn0w
+title: pod2Gs Untether Exploit Coming to Ac1dsn0w
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/ac1dsn0w-ss.jpg)
 * It’s been more than two weeks since the iOS 5.0.1 untether was released. Both the Dev Team and Chronic Dev Team released untether solutions using pod2g‘s handy work, but it doesn’t stop there.

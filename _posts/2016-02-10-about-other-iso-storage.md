@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Other' storage on your iPhone and iPad explained
+title: Other storage on your iPhone and iPad explained
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/11/iTunes-Other-iPhone-storage-Mac-screenshot-002.png)
 * For most users, the ‘Other’ iOS storage category—reported after connecting an iOS device to desktop iTunes—is something of a mystery. ‘Other’ storage starts at one to five percent of total device capacity but can quickly creep in to a few gigabytes.

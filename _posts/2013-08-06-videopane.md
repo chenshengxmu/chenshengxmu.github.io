@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'VideoPane' brings true video multitasking to iOS
+title: VideoPane brings true video multitasking to iOS
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/VideoPane-Featured1.jpg)
 * Judging from the popularity of the preview post, it looks like quite a few of you are highly interested in Ryan Petrich’s new flagship video tweak. VideoPane, as it is called, was just released, and it’s now available for purchase on Cydia’s BigBoss repo.

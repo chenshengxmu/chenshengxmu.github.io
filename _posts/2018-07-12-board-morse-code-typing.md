@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gboard, Google's excellent iOS keyboard, picks up Morse code typing in latest update
+title: Gboard, Googles excellent iOS keyboard, picks up Morse code typing in latest update
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/Google-Gboard-Morse-code-typing.png)
 * Google yesterday bumped its Gboard software keyboard for iPhone and iPad to version 1.29, bringing out Morse code typing as well as Dvorak and Colemak layouts for English keyboards.

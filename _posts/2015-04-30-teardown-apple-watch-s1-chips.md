@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's what Apple's custom designed Apple Watch 'S1' chip packs in
+title: Heres what Apples custom designed Apple Watch S1 chip packs in
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/Apple-Watch-S1-chip.jpg)
 * The Apple Watch is driven by Apple’s in-house designed system-in-package (SiP) processor, called S1. Laying flat in the bottom of the Watch casing, it integrates many subsystems into one remarkably compact module, essentially miniaturizing an entire computer architecture onto a single chip.

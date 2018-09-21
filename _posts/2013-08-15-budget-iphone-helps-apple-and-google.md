@@ -1,6 +1,6 @@
 ---
 layout: post
-title: There's more to Apple's rumored budget iPhone than just the price
+title: Theres more to Apples rumored budget iPhone than just the price
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/iPhone-5C-boxes-Martin-Hajek-002.jpg)
 * Are you ready for a break from the usual headlines concerning Apple’s likely introduction of a low-cost iPhone? The perception of low-cost smartphones as some technological game of limbo between the iPhone maker and Google’s Android is all wrong, says one analyst. Those thinking Apple needs to join the race to the bottom misunderstand that hardware price is not the overriding factor for every consumer shopping for a handset…

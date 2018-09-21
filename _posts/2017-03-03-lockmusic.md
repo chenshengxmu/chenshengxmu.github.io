@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LockMusic makes subtle changes to your Lock screen's Now Playing interface
+title: LockMusic makes subtle changes to your Lock screens Now Playing interface
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/03/LockMusic-Before-and-After.jpg)
 * If you use your iPhone to listen to music a lot, then installing a new jailbreak tweak called LockMusic by fl00d might be worth adding to your to-do list.

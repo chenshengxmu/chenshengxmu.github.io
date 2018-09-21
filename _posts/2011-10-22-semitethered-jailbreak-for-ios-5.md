@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Semitethered' Jailbreak For iOS 5 Released! Here's How to Get It
+title: Semitethered Jailbreak For iOS 5 Released! Heres How to Get It
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/iOS-5-jailbreak.jpeg)
 * What’s the next best thing to an untethered jailbreak for iOS 5? A Semitethered Jailbreak of course!

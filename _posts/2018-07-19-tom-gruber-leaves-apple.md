@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The last of Siri's three co-founders retires from Apple, head of Search is also out
+title: The last of Siris three co-founders retires from Apple, head of Search is also out
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/Siri-co-creator-Tom-Gruber-TED-talk-001.jpg)
 * Artificial intelligence expert and Siri co-founder Tom Gruber is retiring from Apple, becoming the last of Siri’s three co-founders to leave the California technology giant.

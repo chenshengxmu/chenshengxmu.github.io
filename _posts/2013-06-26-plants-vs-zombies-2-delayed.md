@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Plants vs. Zombies 2 to be delayed until 'later in the summer'
+title: Plants vs. Zombies 2 to be delayed until later in the summer
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/Plants-vss-Zombies-2-teaser-001.jpg)
 * Bad news this afternoon for Plants vs. Zombies fans. Electronic Arts has announced today that the highly anticipated sequel to PopCap’s popular lane defense game will not launch next month as it had originally anticipated.

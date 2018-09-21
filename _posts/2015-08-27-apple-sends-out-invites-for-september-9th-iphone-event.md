@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple sends out invites for September 9th event- 'Hey Siri, give us a hint'
+title: Apple sends out invites for September 9th event- Hey Siri, give us a hint
 ---
 ![img]()
 * As expected, Apple has sent out invitations to for its iPhone event to be held on Wednesday, September 9th, 2015. The event will go down at the Bill Graham Civic Auditorium in San Fransisco, CA starting at 10am PST.

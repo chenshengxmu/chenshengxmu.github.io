@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's Talk Jailbreak- an iPad Pro accident story, is it worth losing your jailbreak for iOS 9.3?
+title: Lets Talk Jailbreak- an iPad Pro accident story, is it worth losing your jailbreak for iOS 9.3?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/Lets-Talk-Jailbreak-banner.png)
 * Episode 142: Jeff shares his iPad Pro accident story. Is it worth it to lose your jailbreak for iOS 9.3? How to uncover hidden features on the Apple TV. Several newly released jailbreak tweaks are discussed.

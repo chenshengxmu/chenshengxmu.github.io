@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's Apple's five-point plan designed to turn things around in India
+title: Heres Apples five-point plan designed to turn things around in India
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/iPhone-X-availability-price-2.jpg)
 * Apple has reportedly drawn a five-point plan designed to turn things around in India, a 1.34 billion people country and the world’s second-largest smartphone market, where inexpensive local brands have reduced iPhone’s share of the market to a mere 1% of shipments.

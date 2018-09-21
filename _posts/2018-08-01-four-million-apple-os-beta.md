@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Four million people are participating in Apple's OS beta programs
+title: Four million people are participating in Apples OS beta programs
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/iPhone-MacBook-Pro-Apple-Watch-TV.jpg)
 * Apple has four million people on betas of its operating systems.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iTunes license agreement says you can't use it to make nuclear weapons
+title: iTunes license agreement says you cant use it to make nuclear weapons
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/iTunes-11-Albums.jpg)
 * Folks in the illegal arms manufacturing industry may want to double check the iTunes End User License Agreement before using the software for business. Apparently there’s a clause in the agreement that says you can’t use the app to make nuclear weapons.

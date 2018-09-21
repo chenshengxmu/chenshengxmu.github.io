@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Touch ID fingerprint scanning revealed
+title: Apples Touch ID fingerprint scanning revealed
 ---
 ![img]()
 * A last-minute leak from our friends over at Nowhereelse.fr suggested that Apple would refer to the rumored iPhone 5s fingerprint sensor as Touch ID. The rumors were true: Apple first revealed the top-end iPhone 5s which has a much-improved camera and runs two times faster A7 chip that’s 64-bit (the first for a phone) and a new motion chip called M7.

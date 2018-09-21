@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple has reportedly put its 'iPad Pro' project on hold
+title: Apple has reportedly put its iPad Pro project on hold
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/12_9_ipad_ipad_4_mini_light-800x450.jpg)
 * Folks looking forward to Apple’s rumored 13-inch tablet may want to pick something else to pine over for a while. According to a new report, the Cupertino company has shelved its so-called ‘iPad Pro’ project due to various developmental issues.

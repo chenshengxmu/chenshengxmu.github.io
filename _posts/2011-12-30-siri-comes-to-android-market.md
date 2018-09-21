@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Siri" Comes to Google's Android Marketplace
+title: Siri Comes to Googles Android Marketplace
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/siri-image-e1323205667847.jpg)
 * Yes, you read that correctly. Siri for Android has apparently hit the Android Marketplace. A developer by the name of “Official App” has published a supposed Android version of Siri.

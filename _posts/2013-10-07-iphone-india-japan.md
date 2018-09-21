@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NTT DoCoMo hurt by iPhone wait, iPhone 5c too pricey for India's prepaid market
+title: NTT DoCoMo hurt by iPhone wait, iPhone 5c too pricey for Indias prepaid market
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/docomo-e1378407444615.jpg)
 * Did Japan’s largest carrier wait too long to offer the iPhone? That’s the impression after NTT DoCoMo lost a record 66,800 net users in September, dropping its market share to 46 percent. By comparison, KDDI and SoftBank, which sold iPhones soon after its 2007 introduction, gained ground adding 270,700 and 237,700 users respectively.

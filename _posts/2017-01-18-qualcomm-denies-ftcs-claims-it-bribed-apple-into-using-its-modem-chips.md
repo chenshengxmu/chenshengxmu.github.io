@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Qualcomm denies FTC's claims it bribed Apple into using its modem chips
+title: Qualcomm denies FTCs claims it bribed Apple into using its modem chips
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/Qualcomm-headquarters-001.jpg)
 * Yesterday, the U.S. Federal Trade Commission (FTC) charged Qualcomm with monopolizing baseband modems used in smartphones, basically saying the company bribed Apple into not making a WiMAX iPhone in exchange for better royalties. The chip maker in a subsequent press release denied any wrongdoing, saying the FTC doesn’t really understand how the mobile industry works.

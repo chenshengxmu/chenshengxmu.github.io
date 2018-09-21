@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hands on with Clips, Apple's new social video editing app
+title: Hands on with Clips, Apples new social video editing app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/04/Clips-1.0-for-iOS-teaser-001.jpg)
 * Apple today released Clips, its brand new social video editing app that was previewed on March 21 as part of the company’s Spring product refresh. Available at no charge on App Store, Clips comes with some interesting features, like voice-activated captions, effects, emoji, animated speech bubbles, motion backgrounds, built-in soundtracks and more.

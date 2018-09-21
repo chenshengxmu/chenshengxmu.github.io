@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's Talk Jailbreak 133- A history of Apple TV jailbreaking, with Kevin Bradley
+title: Lets Talk Jailbreak 133- A history of Apple TV jailbreaking, with Kevin Bradley
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/Lets-Talk-Jailbreak-banner.png)
 * In this special episode, Sébastien sits down with Kevin Bradley (@nitoTV) to talk about the history of Apple TV jailbreaking, starting in 2007 with the device’s first generation. Through more or less complex details, multiple anecdotes, and subtle Anchorman references, Kevin recounts what it’s been like to be part of that history as he shares insights about where things might go in the future.

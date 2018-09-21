@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A closer look at some of Speck's most popular iPhone cases
+title: A closer look at some of Specks most popular iPhone cases
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/02/speck-products-logo-large.jpg)
 * Speck makes some awesome cases for the iPhone lineup, and if you’ve been itching for a new one, don’t count these guys out.

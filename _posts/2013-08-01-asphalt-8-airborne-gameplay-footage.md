@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's Asphalt 8- Airborne gameplay footage
+title: Heres Asphalt 8- Airborne gameplay footage
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/Asphalt-8-Airborne-screenshot-006.jpg)
 * Mid-June, French games maker Gameloft released first screenshots depicting the upcoming eight installment in the Asphalt racing franchise, Asphalt 8: Airborne. The high-quality game is coming to iOS and Android later this summer, priced at just 99 cents.

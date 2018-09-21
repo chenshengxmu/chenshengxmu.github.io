@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Eric Schmidt on Google's relationship with Apple
+title: Eric Schmidt on Googles relationship with Apple
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/ericschmidt.jpg)
 * Eric Schmidt, former Google CEO and now executive board member, recently sat down to talk with Jessica E. Lessin of The Wall Street Journal. During the interview, he fielded several interesting questions about a variety of things including Google’s current relationship status with Apple, their continuous run-ins with patent litigation, and more…

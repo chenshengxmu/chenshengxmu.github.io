@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beautiful Unfold lock screen tweak now available and it's free
+title: Beautiful Unfold lock screen tweak now available and its free
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Unfold-Screenshot-Teaser.jpg)
 * Jeff told you about this awesome lock screen tweak on Sunday and I’m happy to report that the Unfold jailbreak tweak is now available for download. It was born out of Anton Kudin’s “fold to unlock” concept for the iPhone which immediately captured attention of the jailbreak community.

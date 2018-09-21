@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brian Bumbery becomes Apple Music's new publicity director
+title: Brian Bumbery becomes Apple Musics new publicity director
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/apple-music-friends-mix.jpg)
 * Brian Bumbery is the new director of Apple Music Publicity. His arrival comes as former head Jimmy Iovine has now transitioned to a consulting role at the music streaming service, according to Variety.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iFixit's iMac Pro teardown shows off redesigned internals and modular components
+title: iFixits iMac Pro teardown shows off redesigned internals and modular components
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/iFixit-Disassembled-iMac-Pro.jpg)
 * With their usual degree of pomp and circumstance, iFixit has performed a teardown of the new iMac Pro. Based on their results, it now appears that the iMac Pro will be at least somewhat upgradable.

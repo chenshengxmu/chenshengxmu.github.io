@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple to fix iMessage phone number issues in a 'future software update'
+title: Apple to fix iMessage phone number issues in a future software update
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/iMessage-iOS-7.jpg)
 * No, Apple is not intentionally trying to make life tougher for its former users who switched to another smartphone brand.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5 calculator apps Apple featured in App Store's Productivity Monday section
+title: 5 calculator apps Apple featured in App Stores Productivity Monday section
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/App-Store-Productivity-Monday.png)
 * To me, calculator apps are a lot like weather apps – I can never get enough of them. In an effort to help you increase your mobile productivity, Apple is now featuring several great third-party calculators in an App Store section titled Productivity Monday.

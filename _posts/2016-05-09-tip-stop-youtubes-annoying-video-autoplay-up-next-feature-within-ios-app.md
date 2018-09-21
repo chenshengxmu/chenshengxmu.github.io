@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tip- stop YouTube's annoying video autoplay 'Up Next' feature within iOS app
+title: Tip- stop YouTubes annoying video autoplay Up Next feature within iOS app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/YouTube-for-iOS-disable-Auto-Play-iPhone-screenshot-002.jpg)
 * My colleague Anthony recently vented his frustration with YouTube’s default handling of the ‘Up Next’ feature on the web. Autoplay in YouTube is one of the banes of my existence, too, but as Anthony states in his write-up, YouTube for iOS lacks a switch to disable auto-play videos.

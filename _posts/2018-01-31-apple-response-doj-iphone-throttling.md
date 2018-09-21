@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's Apple's response to government's probe over throttled iPhones
+title: Heres Apples response to governments probe over throttled iPhones
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/iFixit-iPhone-6s-teardown-image-004-Battery.jpg)
 * Apple has now responded to the news that both the United States Department of Justice (DOJ) and the Securities and Exchange Commission (SEC) are investigating iPhone CPU throttling.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to turn off Facebook's expanded facial recognition features
+title: How to turn off Facebooks expanded facial recognition features
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/Mark-Zuckerberg-Face-ID.jpg)
 * Facebook takes advantage of facial recognition in several ways.

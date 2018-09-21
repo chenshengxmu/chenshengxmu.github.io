@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's boss to unveil Maps development center and iOS accelerator program in India
+title: Apples boss to unveil Maps development center and iOS accelerator program in India
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/11/Tim-Cook-biceps.jpg)
 * After visiting China yesterday to meet the country’s officials and promote a $1 billion acquisition of the local ride-sharing service Didi Chuxing, Apple’s boss Tim Cook is touring India today and is planning to meet Prime Minister Narendra Modi.

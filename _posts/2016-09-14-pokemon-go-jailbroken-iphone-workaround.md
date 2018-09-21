@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Latest Pokémon GO update blocks jailbreakers, but here's a workaround
+title: Latest Pokémon GO update blocks jailbreakers, but heres a workaround
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/07/Jailbreak-Tweaks-for-Pokemon-GO.png)
 * The latest Pokémon GO update blocks jailbreakers from using the game in a move to crack down on third-party apps and tweaks that harvest data for Pokémon tracking and cheating.

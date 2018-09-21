@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Snugg iPad Air 2 smart folio is a businessman's case
+title: Snugg iPad Air 2 smart folio is a businessmans case
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/Snugg-iPad-Air-2-Case.jpg)
 * The iPad Air 2 is about the size of a pad of lined paper, so it is no wonder that a folio case looks so good on it. If you are looking for more than just a cover with a stand, Snugg makes an executive smart folio that has all of the bells and whistles you’d want in your case. Plus, with the leather exterior, you’ll look like a boss at all of your business meetings.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tesco's Clubcard unofficially repurposed for Apple’s Passbook app
+title: Tescos Clubcard unofficially repurposed for Apple’s Passbook app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/Tesco-teaser-001.jpg)
 * Apple’s Passbook app in iOS 6 has seen an encouraging uptick as various brands continue to implement Passbook support for loyalty and coupon cards and tickets, like Starbucks, mobile payment startup Square, Coupons.com, MLB, Discover, Apple (of course) and a host of airlines, to name a few. Passbook is also used by real estate agents and now Passverse founder Tomas McGuinness has brought an unofficial support for Passbook to the Clubcard from Tesco, UK’s biggest supermarket chain…

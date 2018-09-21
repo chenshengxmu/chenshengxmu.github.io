@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oscar Mayer's new iPhone alarm clock wakes you up to the smell of bacon
+title: Oscar Mayers new iPhone alarm clock wakes you up to the smell of bacon
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/oscar-mayer-bacon.png)
 * Of all the smells you can wake up to in the morning, I would have to say that Bacon is perhaps the most alluring. Obviously, that’s not the case for everyone, but if I could, I would create an automatic bacon-cooker that I could program to start cooking bacon at 9am every morning.

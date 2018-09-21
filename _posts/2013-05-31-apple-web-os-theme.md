@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Web OS- a theme that mimics Apple's online store
+title: Apple Web OS- a theme that mimics Apples online store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/apple-web-os-1.jpg)
 * If pressed, I would say that I consider myself an Apple fan. I love my iPhone, and my iPad, and I’m typing right now on a MacBook Pro. But even I cringed a bit when I first laid eyes on this new DreamBoard theme called Apple Web OS.

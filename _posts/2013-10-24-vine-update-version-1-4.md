@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vine app update adds new 'Time Travel' and 'Sessions' features
+title: Vine app update adds new Time Travel and Sessions features
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/editing.png)
 * It’s been about 10 months since Twitter launched its video-sharing platform experiment known as Vine, and it’s still going strong. The app recently crossed the 40 million user mark, and it’s currently in the top 20 free apps in the App Store.

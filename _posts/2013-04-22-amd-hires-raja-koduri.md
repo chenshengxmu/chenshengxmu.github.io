@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AMD hires away Apple's director of graphics architecture
+title: AMD hires away Apples director of graphics architecture
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/Raja-Koduri-headshot-002.jpg)
 * Graphics giant Advanced Micro Devices (AMD) has wooed another semiconductor expert away from Apple. Raja Koduri, who had previously worked at AMD before Apple poached him in April 2009, specializes in graphics technology and is understood to have helped with Apple’s own chip-design efforts a great deal.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Analysis- why the iPhone won't be No. 1 in China
+title: Analysis- why the iPhone wont be No. 1 in China
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/Lei-Jun-unveils-Xiaomi-Phone-2.jpg)
 * When Lei Jun, founder and CEO of China’s mobile company Xiaomi Technology, took the stage in Beijing yesterday to announce the Xiaomi Phone 2, his company’s successor to the MiOne phone, it was a familiar sight to anyone who has ever watched one of Apple’s famous theatrical product unveilings.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's New Cloud Service to be Called iCloud?
+title: Apples New Cloud Service to be Called iCloud?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/iCloud.jpeg)
 * Apple has allegedly bought iCloud.com for the sum of $4.5 million. The domain was previously owned by Xcerion’s cloud service that has now been rebranded to be called CloudMe.

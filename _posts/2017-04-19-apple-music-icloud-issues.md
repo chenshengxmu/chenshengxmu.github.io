@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Issues with your Apple Music subscription or iCloud storage? You're not alone
+title: Issues with your Apple Music subscription or iCloud storage? Youre not alone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/08/iCloud-2TB-Storage-tier.png)
 * As acknowledged on Apple’s System Status webpage, an unknown percentage of Apple Music subscribers have been experiencing issues with their subscriptions since Tuesday, ranging from the inability to download tracks for offline listening to being unable to connect to the service at all.

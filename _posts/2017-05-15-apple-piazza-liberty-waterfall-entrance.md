@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's upcoming Piazza Liberty store in Milan to feature waterfall entrance
+title: Apples upcoming Piazza Liberty store in Milan to feature waterfall entrance
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/05/Apple-Piazza-Liberty-image-005.jpg)
 * Apple on Monday showed off its upcoming Italian retail store. Located at Piazza del Liberty in Milan, the forthcoming brick-and-mortar outlet will feature Apple’s next-generation retail design, with the sales floor sitting beneath the cozy outdoor amphitheater and accessible by walking down the staircase situated between the middle of a pair of waterfalls that form part of a larger fountain.

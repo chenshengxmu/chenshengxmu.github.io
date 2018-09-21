@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Disney's iOS-exclusive combat strategy game Star Wars- Commander launches globally
+title: Disneys iOS-exclusive combat strategy game Star Wars- Commander launches globally
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/Star-Wars-Commander-2.0.2-for-iOS-iPad-screenshot-001.jpeg)
 * After soft-launching in Australia nearly two months ago, Disney Interactive on Thursday released its real-time strategy game for iOS, Star Wars: Commander, on a worldwide basis.

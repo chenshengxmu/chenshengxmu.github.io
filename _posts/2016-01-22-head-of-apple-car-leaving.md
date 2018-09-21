@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Head of Apple's electric car project leaving the company
+title: Head of Apples electric car project leaving the company
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/iOS-9.3-CarPlay-teaser-001.jpg)
 * Apple is losing long-time veteran and VP of Product Design Steve Zadesky, reports The Wall Street Journal. Zadesky has been with the company for 16 years, where he worked on the iPhone and iPod, and most recently spearheaded its ambitious automobile efforts.

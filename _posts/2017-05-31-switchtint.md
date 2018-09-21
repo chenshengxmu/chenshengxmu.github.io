@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Colorize your iPhone's toggle switches with SwitchTint
+title: Colorize your iPhones toggle switches with SwitchTint
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/05/SwitchTint-Featured.jpg)
 * I’ve always been a fan of simple customization jailbreak tweaks, and one of the latest releases to catch my eye is one called SwitchTint by iOS developer Justin Petkovic.

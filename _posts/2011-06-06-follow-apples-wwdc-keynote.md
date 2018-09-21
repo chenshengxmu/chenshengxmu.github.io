@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Follow Apple's WWDC Keynote Today
+title: How to Follow Apples WWDC Keynote Today
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/03/WWDC-2011-e1306515545624.jpg)
 * It’s finally here, folks! Today is the keynote presentation by Apple for the World Wide Developers Conference 2011. Every year, Apple gathers the brightest minds in app development under one roof at The Moscone Center in San Francisco, California.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Save Web Pages For Offline Viewing With 'WebOffline'
+title: Save Web Pages For Offline Viewing With WebOffline
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/WebOffline.png)
 * WebOffline is a jailbreak tweak that allows you to save entire web pages for offline viewing in Safari. It’s tightly integrated with Apple’s stock iPhone browser, and makes offline reading fairly effortless.

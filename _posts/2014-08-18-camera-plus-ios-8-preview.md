@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Camera+ picks up improvements ahead of 'cool new things' in forthcoming iOS 8 update
+title: Camera+ picks up improvements ahead of cool new things in forthcoming iOS 8 update
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/Camera-Plus-iPhone-and-iPad-teaser-001.jpg)
 * My favorite iPhone photography application, Camera+ by a developer called Tap tap tap, has received a few very nice additions ahead of an upcoming iOS 8 update.

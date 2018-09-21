@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Speak your "now playing" song with 'MediaSpeak'
+title: Speak your now playing song with MediaSpeak
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/MediaSpeak-Screenshot.jpg)
 * If you do a lot of running or jogging, then you probably find your iPhone in your pocket while you listen to your favorite motivational music.

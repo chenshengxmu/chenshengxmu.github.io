@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Expert says 'average consumers' shouldn't worry about Touch ID hack
+title: Expert says average consumers shouldnt worry about Touch ID hack
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/Touch-ID-success.png)
 * Over the weekend, a group of hackers called the Chaos Computer Club announced that it had managed to bypass Apple’s Touch ID system using the popular ‘fake finger’ method involving a hi-res photograph, and pink latex milk.

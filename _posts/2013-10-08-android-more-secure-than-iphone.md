@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's Eric Schmidt says Android is more secure than the iPhone
+title: Googles Eric Schmidt says Android is more secure than the iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/eric-schmidt-moto-x-640x426.jpg)
 * Back in August, an unclassified US government report on mobile security surfaced with data showing the various malware threats discovered on different platforms. And Android took the top spot, accounting for nearly 80% of all threats.

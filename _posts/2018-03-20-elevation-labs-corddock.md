@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ElevationLab's ultra compact CordDock for iPhone has a detachable MFi Lightning cable
+title: ElevationLabs ultra compact CordDock for iPhone has a detachable MFi Lightning cable
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/03/ElevationLab-CordDock-007.jpg)
 * Elevation Lab today unveiled CordDock, a curious $39 accessory which combines all the benefits of a dock, with the flexibility of a cord, in one ultra-compact design.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple building 'visually stunning' Palo Alto store next to Microsoft
+title: Apple building visually stunning Palo Alto store next to Microsoft
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/apple-stanfordapplestore.jpg)
 * While most Apple retail locations which grab headlines are in China or New York City, the iPhone maker is working hard to finish work on its flagship store in Palo Alto, California. Unlike other huge glass Apple flagship stores, this one is most known for overwhelming a nearby Microsoft store built just last year to out-do Apple.

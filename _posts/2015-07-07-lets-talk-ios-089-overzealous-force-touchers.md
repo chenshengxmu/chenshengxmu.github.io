@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's Talk iOS 089- Overzealous force-touchers
+title: Lets Talk iOS 089- Overzealous force-touchers
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/Lets-Talk-iOS-banner.png)
 * Episode 89: Our opinions on Apple Music and Beats 1 after nearly a week’s usage. 10 tips for Apple Music. New iPhone 6s rumors run rampant. New iPod colors may be on the way.

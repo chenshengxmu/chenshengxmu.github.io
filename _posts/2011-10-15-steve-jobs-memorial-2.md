@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Steve Jobs Memorial to Take Place on Apple's Campus October 19th
+title: Steve Jobs Memorial to Take Place on Apples Campus October 19th
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/apple-campus.jpg)
 * There wasn’t an organized public memorial for Steve Jobs, which seemed only right given his secluded lifestyle. But fans still found a way to honor him, turning out by the thousands at Apple Stores around the world to pay their respects.

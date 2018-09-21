@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Take a look at Anker's upcoming line of wireless chargers
+title: Take a look at Ankers upcoming line of wireless chargers
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/Anker-Qi-Wireless-charger-CES-2018.jpg)
 * Anker has announced a significant revamp to their wireless chargers at CES 2018. We went hands on with several of their new chargers, squarely aimed at the latest iPhones.

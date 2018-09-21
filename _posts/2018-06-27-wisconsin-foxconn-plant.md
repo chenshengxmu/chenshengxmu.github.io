@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wisconsin's new Foxconn plant is getting more costly to residents
+title: Wisconsins new Foxconn plant is getting more costly to residents
 ---
 * During a Thursday ceremony in Wisconsin, President Donald Trump will no doubt call this week’s groundbreaking of Foxconn’s 20 million-square-foot complex that will make LCD panels an example of how his administration is “making America great again.” That may be true for the citizens of Wisconsin in the long-run, but right now it has become a far costlier proposition than once imagined, according to The Wall Street Journal. 
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/11/Foxconn-headquarters-WSJ-001.jpg)

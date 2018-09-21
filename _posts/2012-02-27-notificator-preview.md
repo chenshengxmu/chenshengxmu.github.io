@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Notificator' allows you to customize iOS system events with banners and sounds
+title: Notificator allows you to customize iOS system events with banners and sounds
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/Notificator-Screenshot.jpg)
 * Wouldn’t it be neat to receive a banner notification once that huge app finishes downloading? What about a less intrusive banner notification when your device is running low on battery life?

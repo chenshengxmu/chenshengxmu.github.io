@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Angry Birds Go! arriving December 11, here's new gameplay video
+title: Angry Birds Go! arriving December 11, heres new gameplay video
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/Angry-Birds-Go-teaser-003.jpg)
 * Angry Birds maker back in June teased its upcoming Angry Birds-themed kart racing game. Named Angry Birds Go, the game will be set on a 3D Piggy Island and include tons of characters with unique special powers and a fully rendered 3D world.

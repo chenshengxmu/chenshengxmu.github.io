@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Marvel announces 'The Amazing Spider-Man 2' coming to iOS in April
+title: Marvel announces The Amazing Spider-Man 2 coming to iOS in April
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/amazing-spiderman-2.png)
 * Marvel and Gameloft have announced this week that they are teaming up to bring The Amazing Spider-Man 2 to smartphones and tablets this spring as the official game for the film of the same name. Both are slated to land in mid-April.

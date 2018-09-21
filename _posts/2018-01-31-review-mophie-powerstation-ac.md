@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review- Mophie's new Powerstation delivers juice using USB-C PD standard, adds AC outlet
+title: Review- Mophies new Powerstation delivers juice using USB-C PD standard, adds AC outlet
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/Mophie-PowerStation-AC-Lights.jpg)
 * We’ve seen our fair share of portable USB-C battery packs that have been certified to support the USB-C Power Delivery specification, also referred to as USB-C PD. The new Powerstation AC battery accessory from Mophie is one of the most compelling yet.

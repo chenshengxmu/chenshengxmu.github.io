@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adobe begins rolling out support for Apple's HEIF image format, starting with Lightroom CC
+title: Adobe begins rolling out support for Apples HEIF image format, starting with Lightroom CC
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/Adobe-Lightroom-CC-for-Mac-teaser-001.jpg)
 * This is pretty significant.

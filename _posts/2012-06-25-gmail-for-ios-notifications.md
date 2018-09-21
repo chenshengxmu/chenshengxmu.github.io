@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gmail for iOS gets true Notification Center support and "send-as" feature
+title: Gmail for iOS gets true Notification Center support and send-as feature
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/Gmail-for-iOS-Notiifcation-CenteR.jpg)
 * Google has just pushed out an incremental update to its native Gmail client for iOS. The new version brings three little nice-to-haves to your email arsenal, including the ability to send email messages from your alternate email addresses and stay logged in longer.

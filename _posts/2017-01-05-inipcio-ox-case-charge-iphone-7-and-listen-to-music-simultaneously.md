@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Incipio's OX case lets you charge your iPhone 7 and listen to music simultaneously
+title: Incipios OX case lets you charge your iPhone 7 and listen to music simultaneously
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/01/Incipio-OX-case-iPhone-7-Lightning-and-Headphone-Jack-Integrated.jpg)
 * Among the many things being unveiled at CES 2017, accessory maker Incipio has just unveiled a new case for both the iPhone 7 and iPhone 7 Plus called OX that has a built-in 3.5mm headphone jack in addition to a Lightning port.

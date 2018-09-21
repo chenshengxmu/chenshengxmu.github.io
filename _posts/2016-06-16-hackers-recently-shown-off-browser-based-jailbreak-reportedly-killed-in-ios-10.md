@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hacker's recently-teased browser-based jailbreak reportedly killed in iOS 10
+title: Hackers recently-teased browser-based jailbreak reportedly killed in iOS 10
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/ios-9.3.2-browser-jailbreak.png)
 * Only last month, well-known Italian iOS hacker and developer Luca Todesco teased a really nifty browser-based jailbreak that appeared to work on iOS 9.3.2.

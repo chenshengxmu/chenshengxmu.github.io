@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's Talk iOS 050- Thoughts on the iPad Air 2
+title: Lets Talk iOS 050- Thoughts on the iPad Air 2
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/Lets-Talk-iOS-podcast-cover-no-matrix-effect.png)
 * Episode 50: We discuss the upcoming iPad Air 2 event, including new features that could make the iPad line more compelling. We also talk about iOS 8.1 beta, iOS 8 bugs, the iMac refresh, and CarPlay.

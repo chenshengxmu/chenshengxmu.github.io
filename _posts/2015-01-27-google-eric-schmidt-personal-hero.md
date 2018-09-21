@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You'll never guess whom Google's Chairman Eric Schmidt named his personal hero... or will you?
+title: Youll never guess whom Googles Chairman Eric Schmidt named his personal hero... or will you?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/Eric-Schmidt-image-001.jpg)
 * Google’s former CEO and Chairman, Eric Schmidt, has a penchant for exaggeration. Not just infamous for telling bad jokes, Eric is known for going into a sputter when pressed on Google’s privacy practices and making platitudinous statements on Android and rivalry with Apple that earn him headlines.

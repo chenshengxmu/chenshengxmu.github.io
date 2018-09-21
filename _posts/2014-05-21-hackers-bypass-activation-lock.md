@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hackers create tool to bypass Apple's 'Activation Lock' security feature
+title: Hackers create tool to bypass Apples Activation Lock security feature
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/activation-lock.png)
 * Two hackers have created a tool that they claim can bypass Apple’s ‘Activation Lock.’ It’s called ‘doulCi, and it uses a man-in-the-middle attack to intercept users’ Apple ID credentials as well as unlock devices disabled by the highly-lauded security feature.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iTunes exclusively streams free David Bowie's new album until its March 12 release
+title: iTunes exclusively streams free David Bowies new album until its March 12 release
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/David-Bowie-iTunes-free-streaming.jpg)
 * It’s been a decade since musician David Bowie’s 2003 album, “Reality”. To promote his upcoming album entitled “The Next Day”, Bowie turned to Apple’s iTunes, the leading music store in the world which previously cut exclusive free streaming deals to promote new albums from the likes of Red Hot Chili Peppers, Ke$ha, One Direction, Matchbox 20 and Jack White.

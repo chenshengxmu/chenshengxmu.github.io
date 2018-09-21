@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Real Racing 3 updated with new 'open wheel' vehicles, expanded roster and more
+title: Real Racing 3 updated with new open wheel vehicles, expanded roster and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/real-racing-3-1.png)
 * Hot on the heels of its major Aston Martin update last month, the folks at EA have posted another new version of its popular Real Racing 3 game today that brings about new ‘open wheel’ vehicles, an expanded roster and more.

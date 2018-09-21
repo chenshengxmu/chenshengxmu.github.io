@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's how Apple will let customers try on in-ear headphones
+title: Heres how Apple will let customers try on in-ear headphones
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/apple-store-in-ear.jpg)
 * Following a report last month, Japan-based blog Macotakara was able to snag a look at the kit Apple Store employees will use to allow customers to try-on in-ear headphones before making a purchase.

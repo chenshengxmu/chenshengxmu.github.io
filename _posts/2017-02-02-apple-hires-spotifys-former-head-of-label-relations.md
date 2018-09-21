@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple hires Spotify's former head of label relations
+title: Apple hires Spotifys former head of label relations
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/Tim-Cook-One-More-Thing-001.jpg)
 * The Apple vs. Spotify fight just became tougher with news that Apple recently hired Spotify’s former head of label relations, Steve Savoca, who left the company in August of last year (Spotify’s current boss of label relations is Rob Harvey). He was recruited for the identical role at Apple Music.

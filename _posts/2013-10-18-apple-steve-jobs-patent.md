@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Massive setback for Android- Apple's 'Steve Jobs patent' reconfirmed for original iPhone
+title: Massive setback for Android- Apples Steve Jobs patent reconfirmed for original iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/January-2007-iPhone-introduction-Steve-Jobs-multitouch-patented-slide.jpg)
 * In a case of good timing, the United States Patent and Trademark Office (USPTO) has reconfirmed a multitouch patent credited to Apple’s late co-founder Steve Jobs and the original iPhone design.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Bluetooth can make Apple TV more than a 'hobby' device
+title: How Bluetooth can make Apple TV more than a hobby device
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/Apple-TV-Bluetooth.jpg)
 * News that the Apple TV software will support Bluetooth could make the streaming device largely viewed as a “hobby” into something more. Much more. More than simply replacing the Apple remote with a keyboard, the new software potentially does for video what the iPhone did for grainy phone snaps.

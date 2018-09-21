@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Will the iPhone X's notch be a problem for day-to-day landscape mode use?
+title: Will the iPhone Xs notch be a problem for day-to-day landscape mode use?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/iPhone-X-Notch.png)
 * I’m avidly waiting for Apple’s new iPhone X, just like many others, but one of the controversial qualities about the upcoming handset is the ‘notch’ at the top of the display; this is where Apple keeps its TrueDepth camera system and many of the iPhone’s other vital sensors.

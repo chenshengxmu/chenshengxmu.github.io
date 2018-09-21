@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mophie's battery cases get playful color options
+title: Mophies battery cases get playful color options
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/Mophie-Spectrum.jpg)
 * Mophie’s Helium series of battery-extending cases for Apple’s iPhone 5 are a no-brainer for power users who can’t get through their day on a single charge. The California-based accessory maker offers the Helium cases in three flavors: the 13 percent thinner standard-edition Juice Pack Helium with a 1,500mAh battery, the even thinner Juice Pack Air (just 0.63-inches thick) with a bigger 1,700mAh built-in battery and the latest Juice Pack Plus which rocks a 2,100 mAh battery, good for an additional ten hours of 3G/LTE talk time/web use.

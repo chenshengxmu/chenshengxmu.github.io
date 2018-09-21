@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Poll- should the next iPhone implement Apple Watch's Force Touch pressure sensing?
+title: Poll- should the next iPhone implement Apple Watchs Force Touch pressure sensing?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/Apple-Watch-Fource-Touch-002.jpg)
 * If you believe recent reporting by Tech News Taiwan and UDN, Force Touch, one of the technologies behind the Apple Watch, could make its way into this year’s refresh of the iPhone 6, likely to be referred to as an ‘iPhone 6s’.

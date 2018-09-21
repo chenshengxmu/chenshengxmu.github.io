@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's free app of the week- Toca Hair Salon 2
+title: Apples free app of the week- Toca Hair Salon 2
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/12/Toca-Hair-Salon-2-iPhone-screenshot-001.jpg)
 * Like every Thursday, Apple today updated its Free App of the Week promotion on the App Store with a brand new item, a kids-friendly game called Toca Hair Salon 2. This means that for the next seven days, you’ll be able to download this app free of charge—a savings of $2.99.

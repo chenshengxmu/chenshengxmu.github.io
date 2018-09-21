@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ergo HD' DreamBoard Theme Aims to Innovate With Ergonomic Dual Hand Navigation
+title: Ergo HD DreamBoard Theme Aims to Innovate With Ergonomic Dual Hand Navigation
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/Ergo-HD-Top.png)
 * Today we’re going to talk about something a little different in the theming universe. I’d like to introduce to you a DreamBoard theme called ErgoHD.

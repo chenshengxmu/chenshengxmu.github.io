@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Banners go up at Yerba Buena Center ahead of Tuesday's iPad event
+title: Banners go up at Yerba Buena Center ahead of Tuesdays iPad event
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/Apple-October-2012-event-banners-001.jpg)
 * With less than a week until Apple’s big reveal next Tuesday, October 22, banners are now going up the Yerba Buena Center for Arts building downtown in San Francisco, California.

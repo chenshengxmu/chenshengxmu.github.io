@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 6 Plus has 'top performing smartphone LCD,' DisplayMate finds
+title: iPhone 6 Plus has top performing smartphone LCD, DisplayMate finds
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/Silver-iPhone-6-6-Plus-side-by-side.png)
 * It’s official: the iPhone 6 Plus has raised the bar for LCD display performance up by a notch and earned itself the title of the Best Performing Smartphone LCD display “that we have ever tested”, as per a detailed display shootout conducted by DisplayMate Technologies, a professional video calibration equipment producer.

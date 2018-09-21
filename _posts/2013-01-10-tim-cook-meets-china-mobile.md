@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook meets with China Mobile head to talk 'matters of cooperation'
+title: Tim Cook meets with China Mobile head to talk matters of cooperation
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/china-mobile-e1330969893625.jpg)
 * Earlier this week, we passed along a report that Tim Cook was on a business trip in China. No one really knows the exact nature of the visit, but he has been meeting with high-level government officials, and dropping in on Apple retailers.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple rolls out new "All on iPad" commercial
+title: Apple rolls out new All on iPad commercial
 ---
 * >
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/new-ipad-ad-ss.png)

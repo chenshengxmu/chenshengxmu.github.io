@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amid swirling iPhone mini rumors, Tim Cook meets China's high-level officials
+title: Amid swirling iPhone mini rumors, Tim Cook meets Chinas high-level officials
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/Tim-Cook-and-Miao-Wei.jpg)
 * Apple CEO Tim Cook is fast becoming a frequent visitor to China. Cook’s meeting with that country’s Industry and IT Ministry to discuss the near doubling of Apple Stores follows an early visit to quiet critics of Foxconn and rumors of iPhone sweatshops. China’s Ministry of Industry and Information announced Cook met with the agency’s Miao Wei.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Corning says it's ready to produce '3D-shaped' Gorilla Glass
+title: Corning says its ready to produce 3D-shaped Gorilla Glass
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/Corning-CES-2013-booth.jpg)
 * New York-based glass manufacturer Corning announced yesterday the manufacturing readiness of its new 3D glass-forming technology to shape its patented Gorilla Glass, which has been used in a number of mobile devices including iPhones and iPads.

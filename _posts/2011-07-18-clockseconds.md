@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Want Seconds on Your Lockscreen Clock? Try 'ClockSeconds'
+title: Want Seconds on Your Lockscreen Clock? Try ClockSeconds
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/07/ClockSeconds.png)
 * ClockSeconds is a recently released tweak that adds seconds to the clock on your iPhone’s lockscreen.

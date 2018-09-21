@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Disney's Movies Anywhere out for Android, makes cross-platform movies a reality
+title: Disneys Movies Anywhere out for Android, makes cross-platform movies a reality
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/11/Disney-Movies-Anywhere-1.2.5-for-iOS-iPhone-screenshot-001.png)
 * In a somewhat ironic twist of fate, Disney is helping blur the lines between Apple’s and Google’s respective ecosystems with Tuesday’s release of its Movies Anywhere app for Android, now available free of charge in the U.S. Google Play Store. That’s right, the app now lets folks buy and enjoy Disney content on both iOS and Android devices.

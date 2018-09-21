@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KGI- iPhone 8's 3D Touch may provide higher sensitivity and wider range of pressure levels
+title: KGI- iPhone 8s 3D Touch may provide higher sensitivity and wider range of pressure levels
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/3D-Touch-finger-pressing-screen-image-001.jpg)
 * KGI Securities analyst Ming-Chi Kuo predicted in today’s research note that Apple may adopt a combination of fingerprint and face detection sensors to supplant Touch ID.

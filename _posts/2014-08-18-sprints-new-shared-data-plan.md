@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sprint announces new 'Family Share Pack' shared data plan
+title: Sprint announces new Family Share Pack shared data plan
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/sprint-store.jpg)
 * Sprint this afternoon announced the ‘Sprint Family Share Pack,’ a new shared-data plan that offers double the high-speed data of its two largest competitors, at a cheaper price. The plan, which will become available later this week, will enable customers to have as many as 10 mobile phone lines share 20 gigabytes of data for just $100 a month. More details below…

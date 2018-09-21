@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Federighi explains why Face ID is a single-user affair
+title: Apples Federighi explains why Face ID is a single-user affair
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/Apple-Events-September-2017-Craig-Federighi-Face-ID-demo-009.jpg)
 * Face ID permits a single user to register their face, as opposed to Touch ID which supports up to five different fingerprints. Apple’s chief of software engineering explains why.

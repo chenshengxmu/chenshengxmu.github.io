@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MobileNotifier' Brings Drastically Improved Push Notifications to Your iPhone
+title: MobileNotifier Brings Drastically Improved Push Notifications to Your iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/02/Mobile-Notifier-01.png)
 * I’ll be honest with you; the iPhone’s native way of handling push notifications leaves a lot to be desired. So anytime a tweak comes along that promises to improve the outdated stock system, my ears perk up.

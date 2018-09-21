@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's how Google Pixel 2's Active Edge sensors work
+title: Heres how Google Pixel 2s Active Edge sensors work
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/Google_Pixel_2_Active_Edge_X-ray_iFixit_001.jpg)
 * iFixit tore apart the new Pixel 2 phone, subjecting it to X-rays to reveal the inner workings of Google’s signature feature—the pressure-sensing bezels, called Active Edge.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Watch Apple’s star-laden trailer for Apple Music's upcoming Carpool Karaoke show
+title: Watch Apple’s star-laden trailer for Apple Musics upcoming Carpool Karaoke show
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/Carpool-Karaoke-iTunes-teaser-001.png)
 * Apple during last night’s Grammy Awards ceremony aired a trailer for its upcoming Carpool Karaoke spinoff, saying it’s coming soon without committing to a specific air date for the show. It will be exclusively distributed to Apple Music members.

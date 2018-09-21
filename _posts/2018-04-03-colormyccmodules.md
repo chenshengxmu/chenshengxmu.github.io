@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This tweak lets you colorize iOS 11's Control Center modules
+title: This tweak lets you colorize iOS 11s Control Center modules
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/04/colormyyccmodules.jpg)
 * One of the most significant changes to ship with iOS 11 was the redesigned modular Control Center interface. But despite everything Apple did to make Control Center more customizable, it still lacks color-based personalization.

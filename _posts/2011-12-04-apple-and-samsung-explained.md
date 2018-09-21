@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Everything You Need to Know About Apple and Samsung's Patent War [Infographic]
+title: Everything You Need to Know About Apple and Samsungs Patent War [Infographic]
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/apple-vs-samsung-top.jpg)
 * A lot has happened in the patent war between Apple and Samsung since the iPad-makers filed the original patent infringement suit earlier this year. Apple’s won a majority of the bouts, winning injunctions against Samsung’s products on multiple continents.

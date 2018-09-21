@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple stock takes a hit after Wall Street hammers iPhone 5c 'iPhlop'
+title: Apple stock takes a hit after Wall Street hammers iPhone 5c iPhlop
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/apple-stocks.png)
 * Wall Street is a curious bunch. Apple shares dropped by five percent Wednesday morning after analysts piled on with disappointment over the iPhone 5c.

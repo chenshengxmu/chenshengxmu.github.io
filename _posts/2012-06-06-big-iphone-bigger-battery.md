@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Apple would want to make the iPhone's screen bigger
+title: Why Apple would want to make the iPhones screen bigger
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Taller-iPhone-vs-iPhone-4S-Safari-Niilo-Autio.jpg)
 * According to recent rumors, reports and speculation, Apple’s next-generation smartphone will finally receive a bump in screen size. It seems like everyone is convinced that the next iPhone, expected to drop later this year, will be sporting an all-new 4-inch display.

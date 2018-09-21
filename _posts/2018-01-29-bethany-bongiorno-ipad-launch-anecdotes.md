@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Former engineering director shares anecdotes about the original iPad's high-profile launch
+title: Former engineering director shares anecdotes about the original iPads high-profile launch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/06/iPad-First-Impressions.jpg)
 * Bethany Bongiorno, Apple’s former software engineering director who helped launch the original iPad, recently shared a series of previously unheard anecdotes on Twitter to celebrate the eighth anniversary of the Apple tablet, which was unveiled on January 27, 2010.

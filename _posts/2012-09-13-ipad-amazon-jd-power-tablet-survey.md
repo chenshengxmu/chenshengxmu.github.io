@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple just scrapes past Amazon in JD Power's tablet satisfaction survey
+title: Apple just scrapes past Amazon in JD Powers tablet satisfaction survey
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/appe-store-ipads-e1375226327716.png)
 * Apple’s iPad is once again ranked as the No. 1 tablet in the United States. However, the company’s lead over Amazon’s Kindle Fire is as razor-thin as its products. According to customer satisfaction researcher JD Power, Apple scored 848 points with Amazon close behind with 842 out of 1,000.

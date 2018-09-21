@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Think Different' ad man explains why Samsung's anti-Apple advertising is working
+title: Think Different ad man explains why Samsungs anti-Apple advertising is working
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/Samsung-ad-iPhone-5-launch-001.jpg)
 * Apple, the world’s greatest marketing machine, is no longer untouchable. That’s the sentiment shared by Ken Segall, the former creative director at advertising firm TBWAChiatDay, the guy who came up with the name “iMac” and worked alongside Steve Jobs on Apple’s famous Think Different campaign. In a post over at his personal blog, Segall opined that Samsung’s commercials are getting the best out of Apple and he offers two reasons why that’s the case…

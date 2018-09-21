@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Upcoming 'AppButton' tweak brings a unique app switching method to iOS
+title: Upcoming AppButton tweak brings a unique app switching method to iOS
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/AppButton-Featured.jpg)
 * I love jailbreaking for many reasons, but one of the primary reasons is that it allows developers to bring unique ideas to fruition. One such idea is AppButton, a new jailbreak tweak that places a very different twist on the concept of app switching. AppButton is not available on the default Cydia repos yet, and is still in Alpha stages. Even so, it’s a tweak that shows tons of potential and promise.

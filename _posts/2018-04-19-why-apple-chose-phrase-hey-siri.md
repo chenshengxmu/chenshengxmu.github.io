@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's why Apple chose the phrase “Hey Siri”
+title: Heres why Apple chose the phrase “Hey Siri”
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/07/Apple-Siri-ad-the-rock-teaser-001.jpg)
 * If you have ever wondered how Apple came to choose the wake word for Hey Siri function, its latest machine learning article focusing on the Siri trigger phrase provides the answer.

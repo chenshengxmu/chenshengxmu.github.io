@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T's LTE now available in Albuquerque, Reading, Salt Lake City and Puerto Rico
+title: AT&Ts LTE now available in Albuquerque, Reading, Salt Lake City and Puerto Rico
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/ATT-building-logo-001.jpg)
 * AT&T, the nation’s leading carrier, Monday morning announced its fourth-generation Long-Term Evolution (LTE) network is now available in Albuquerque, Reading, Salt Lake City and Puerto Rico markets, with the latter including Yauco, San German -Cabo Rojo and Guayama. Consumer Reports last week ranked AT&T worst of major U.S. carriers when it comes to voice and data service quality.

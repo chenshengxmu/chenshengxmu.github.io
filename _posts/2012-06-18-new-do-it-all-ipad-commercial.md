@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple starts airing new "Do It All" iPad commercial
+title: Apple starts airing new Do It All iPad commercial
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/do-it-all-ad.jpg)
 * Apple has started airing a new iPad commercial this evening entitled “Do It All.” As the name suggests, the ad gives examples of some of the many things you can do with the tablet.

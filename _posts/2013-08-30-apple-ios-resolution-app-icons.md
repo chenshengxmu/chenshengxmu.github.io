@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ahead of September's reveal, Apple now asking devs to submit app icons at new iOS 7 sizes
+title: Ahead of Septembers reveal, Apple now asking devs to submit app icons at new iOS 7 sizes
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/iOS-7-App-Store-teaser-002.jpg)
 * With less than two weeks left until the looming iPhone 5S/5C event, Apple is now reportedly asking developers to submit larger app icons optimized for the new iOS 7 resolutions. Because Apple has slightly enlarged app icons in iOS 7, third-party applications which support only iOS 6 icon sizes appear with a small white border on the iOS 7 Home screen.

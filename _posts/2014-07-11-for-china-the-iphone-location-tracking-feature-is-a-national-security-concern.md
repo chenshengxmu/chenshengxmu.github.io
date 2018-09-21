@@ -1,6 +1,6 @@
 ---
 layout: post
-title: For China, the iPhone location tracking feature is a "national security concern"
+title: For China, the iPhone location tracking feature is a national security concern
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/tim-cook-china-mobile.jpg)
 * The WSJ is out this morning with a piece based on a report recently broadcasted on the state-run China Central Television, quoting the iPhone location tracking feature as a “national security concern.” Nevermind the fact that you can turn off the feature.

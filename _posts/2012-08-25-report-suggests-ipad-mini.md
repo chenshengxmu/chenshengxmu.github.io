@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Report says Apple's smaller tablet will indeed be called iPad mini
+title: Report says Apples smaller tablet will indeed be called iPad mini
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/leaked-ipad-mini-caser-rear-camear-mystery-hole-e1345924710813.jpg)
 * With Apple’s media event (or two media events) getting closer, the rumor mill has gone into full swing. Earlier today, reports surfaced regarding the new iPod touch, and nano. And now this.

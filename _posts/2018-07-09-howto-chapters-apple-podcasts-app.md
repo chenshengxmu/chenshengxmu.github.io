@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to navigate in Apple's Podcasts app with chapter markers
+title: How to navigate in Apples Podcasts app with chapter markers
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/02/Lets-Talk-iOS-podcast-on-iPhone-X.jpg)
 * Chapter markers in podcast shows are not really new—Apple’s own Podcasts app has supported them for quite some time now—but iOS 12 makes this handy feature easier to use.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T, Verizon and Sprint won't support the iPhone 5 HD voice at launch
+title: AT&T, Verizon and Sprint wont support the iPhone 5 HD voice at launch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iPhone-5-keynote-wideband-audio-002.jpg)
 * Of all the three major carriers in the United States, none is able to support the iPhone 5 high-definition voice technology at launch. Specifically, carriers AT&T and Verizon don’t yet support wideband audio and Sprint’s HD Voice technology is only compatible with CDMA x1 technology whereas the iPhone 5 taps WCDMA networks for the feature. There is, of course, hope that major U.S. telcos will catch up and update their backend for the iPhone 5 wideband audio…

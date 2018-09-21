@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Expected to Launch "iTunes Replay" Soon
+title: Apple Expected to Launch iTunes Replay Soon
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/07/iTunes-Graphite_512x512.png)
 * Apple has been hard at work on their iTunes ecosystem over the last several weeks. They’ve enabled Automatic Downloads and added the ability to redownload previously purchased TV shows, and they don’t seem to be slowing down anytime soon.

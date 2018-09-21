@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft's Surface OS is a resource hog
+title: Microsofts Surface OS is a resource hog
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/surface-tv-spot-ss.jpg)
 * We’ve been covering Microsoft’s Surface and other competing tablets quite extensively here at iDB because we believe Apple is not an isolated isle and it pays to keeping tabs on what your competition is doing. Now, a 32GB Surface RT matches a 16GB iPad 3 in terms of price, both costing $499. That said, Surface RT users will wind up having less storage space available because the operating system and bundled apps require a significant amount of storage. It almost comes close to installing a Windows on a PC…

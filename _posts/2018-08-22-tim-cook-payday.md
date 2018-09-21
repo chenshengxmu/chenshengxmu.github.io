@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook's set for a $120 million payday this week
+title: Tim Cooks set for a $120 million payday this week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/tim-cook.jpg)
 * Tim Cook’s about to collect a huge financial reward. On Friday, Aug. 24, the Apple CEO will receive additional shares in Apple worth around $120 million. The award is tied to Cook’s continued service at the world’s largest publicly traded company and Apple’s relative performance on the stock market during his tenure as CEO, according to Bloomberg.

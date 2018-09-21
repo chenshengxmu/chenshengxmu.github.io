@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple looking to bring Apple Watch Series 4's ECG functionality to Canada
+title: Apple looking to bring Apple Watch Series 4s ECG functionality to Canada
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/09/apple-watch-series4_ecg-heartrate_09122018.jpg)
 * Apple and Health Canada are working together to bring the Apple Watch Series 4’s ECG functionality to the Canadian market. This news comes from MobileSyrup, which says there has been no timeframe announced on when this could occur. 

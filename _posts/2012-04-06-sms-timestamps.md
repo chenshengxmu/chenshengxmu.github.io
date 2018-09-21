@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SMS Timestamps' makes tracking your messages easy
+title: SMS Timestamps makes tracking your messages easy
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/SMS-Timestamps_1.jpg)
 * Want an easy way to track when your text messages were sent or received? SMS Timestamps is a jailbreak tweak that may be up to the task.

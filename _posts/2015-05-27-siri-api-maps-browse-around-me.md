@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New report details Siri API, Apple's Google Now, ‘Browse Around Me’ in Maps and more iOS 9 stuff
+title: New report details Siri API, Apples Google Now, ‘Browse Around Me’ in Maps and more iOS 9 stuff
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/iOS-7-App-Store-teaser.jpg)
 * Apple is reportedly reading a Siri Application Programming Interface (API), according to a new report. Called Breadcrumbs, it should let developers enhance iPhone and iPad applications by implementing Siri intelligence in a limited fashion. Another new initiative seeks to create a Google Now experience for iOS devices.

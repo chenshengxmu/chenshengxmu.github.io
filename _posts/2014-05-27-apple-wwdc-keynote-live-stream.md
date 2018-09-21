@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple will live stream next week’s 'exciting' WWDC keynote address
+title: Apple will live stream next week’s exciting WWDC keynote address
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/Apple-WWDC-2014-Live-stream.png)
 * After confirming via the recently updated WWDC for iOS app that it will be kicking off its summer developer pilgrimage with a keynote on June 2, Apple has just confirmed that the two-hour event will be available as a free live stream on iPhone, iPod touch and iPad devices, as well as on Mac and Windows PCs.

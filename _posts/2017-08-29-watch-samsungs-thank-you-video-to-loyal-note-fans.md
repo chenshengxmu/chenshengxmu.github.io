@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Watch Samsung's thank you video to loyal Note fans
+title: Watch Samsungs thank you video to loyal Note fans
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/Samsjng-Note-8-thank-you-video.png)
 * Although Note 7 met an untimely demise when its batteries started exploding shortly after its launch in August of last year, the new Note 8 appears to be OK so Samsung’s now posted a cool video note thanking customers for their patience and loyalty through hardship.

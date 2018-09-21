@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung exec says there's no plans for HTC-like settlement with Apple
+title: Samsung exec says theres no plans for HTC-like settlement with Apple
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/Shin-Jong-Kyun-Senior-Executive-Samsung.jpg)
 * Last week, Apple and HTC grabbed a number of headlines when they announced that they had reached a global settlement in patent litigation, effectively ending several ongoing lawsuits between the two companies.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Clone Alarm- a new tweak for those who don't trust having a single alarm clock
+title: Clone Alarm- a new tweak for those who dont trust having a single alarm clock
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/CloneAlarm.jpg)
 * I thought I was the only weirdo who sets seven or eight different alarms staggered out by a few minutes. I do this because I have a fear of waking up late and missing important appointments. With Clone Alarm, a recently released jailbreak tweak, setting multiple alarms just got a whole lot easier.

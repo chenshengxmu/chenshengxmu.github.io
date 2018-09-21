@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T & T-Mobile now using Apple's Hybridized Emergency Location tech for 911 calls
+title: AT&T & T-Mobile now using Apples Hybridized Emergency Location tech for 911 calls
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/emergency-sos-ios-11.png)
 * While major mobile platforms such as Apple’s iOS and Google’s Android come with rich location services helping apps like Uber and Facebook pinpoint a user’s location, emergency services were unable to use this data. Thankfully, that’s beginning to change now.

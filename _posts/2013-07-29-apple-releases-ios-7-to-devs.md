@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple releases iOS 7 beta 4- this is what's new
+title: Apple releases iOS 7 beta 4- this is whats new
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/iOS-7-beta-4-download.jpg)
 * As expected, Apple has released the fourth beta of iOS 7 this morning. The update comes three weeks after the release of beta 3—longer than the the time period between previous betas due to a lengthy Developer Center outage caused by a security breach.

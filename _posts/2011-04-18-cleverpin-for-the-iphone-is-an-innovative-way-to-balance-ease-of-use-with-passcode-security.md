@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'CleverPin' for the iPhone is an Innovative Way to Balance Ease of Use With Passcode Security
+title: CleverPin for the iPhone is an Innovative Way to Balance Ease of Use With Passcode Security
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/CleverPin-01.png)
 * Can this guy be stopped? Hot off the heels of the super-popular Springtomize, Filippo Bigarella is back with his latest jailbreak concoction.

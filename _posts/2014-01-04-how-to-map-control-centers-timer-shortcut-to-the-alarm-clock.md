@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to map Control Center's timer shortcut to the alarm clock
+title: How to map Control Centers timer shortcut to the alarm clock
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/CCClockOpenToAlarm.png)
 * I don’t know about you, but I rarely use the timer found in the stock Clock app. I know Sebastien has mentioned that he uses the timer from time to time while cooking, but he’s one of the few I know who do.

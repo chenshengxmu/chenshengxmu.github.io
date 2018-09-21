@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's ebook damages trial tentatively scheduled for May 2014
+title: Apples ebook damages trial tentatively scheduled for May 2014
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/courtroom-660x439.jpg)
 * US District Court Judge Denise Cote sent out an order on Tuesday, made public last night, calling for all parties involved in Apple’s e-book case to prepare for a damages trial set for May 2014. Apple could wind up owing hundreds of millions of dollars in damages.

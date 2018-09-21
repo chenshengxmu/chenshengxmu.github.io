@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to access tvOS' hidden 'Advanced Settings' menu on Apple TV
+title: How to access tvOS hidden Advanced Settings menu on Apple TV
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/Apple-TV-Settings.png)
 * The Apple TV features a hidden “Advanced Settings” menu, which contains some interesting Apple employee-centric features. Accessing the hidden settings menu is remarkably easy to do, all you need is a paired Siri remote to get going.

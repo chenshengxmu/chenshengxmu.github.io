@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple prepping Yerba Buena Center for next week's iPad 3 event
+title: Apple prepping Yerba Buena Center for next weeks iPad 3 event
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/yerba-buena.jpg)
 * Apple sent out invites earlier this week for a media event to take place in California next Wednesday. The company is expected to unveil the third iteration of its popular tablet, and possibly a new Apple TV, during the keynote.

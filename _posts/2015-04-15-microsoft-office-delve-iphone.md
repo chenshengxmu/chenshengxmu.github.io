@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft releases 'Office Delve' app for iPhone
+title: Microsoft releases Office Delve app for iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/04/delve-2.png)
 * Building upon its already enormous library of iOS software, Microsoft on Tuesday released ‘Office Delve‘ for iPhone. The app serves as a mobile client to Microsoft’s Office Delve service, which connects Office users to relevant people and documents.

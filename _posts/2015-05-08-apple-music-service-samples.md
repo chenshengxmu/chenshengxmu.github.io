@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Try before you buy- Apple's new music service to offer lengthy trial periods and free song samples
+title: Try before you buy- Apples new music service to offer lengthy trial periods and free song samples
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/Beats-Music-teaser-003.jpg)
 * Apple’s new music service could include multiple ways to listen for free, Recode reported on Friday. Citing sources familiar with the project, the site says that while the service won’t include a typical ‘free version,’ Apple is hoping to offer a lengthy trial period and free song samples.

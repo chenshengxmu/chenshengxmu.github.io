@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 4 owners begin receiving 'antennagate' settlement checks
+title: iPhone 4 owners begin receiving antennagate settlement checks
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/check-iphone-4-settlement.png)
 * Ah, who could forget the infamous iPhone 4 ‘Antennagate‘ debacle? It had barely been a month since Apple had introduced its newly-redesigned handset, when users began to complain of severe signal attenuation when holding the device a certain way.

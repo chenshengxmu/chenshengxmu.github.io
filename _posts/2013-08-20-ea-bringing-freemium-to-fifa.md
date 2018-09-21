@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EA announces it's bringing freemium model to mobile FIFA titles
+title: EA announces its bringing freemium model to mobile FIFA titles
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/fifa14-ios-02-e1377027382693.jpg)
 * Sorry FIFA fans, it looks like the popular soccer (futbol) game is going freemium this year. Electronic Arts made the not-so-surprising announcement during its Gamescom press conference in Germany this morning.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 8 is the world's fastest phone, obliterates every Android phone out there
+title: iPhone 8 is the worlds fastest phone, obliterates every Android phone out there
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/iPhone-X-iPhone-8-6-cores.jpg)
 * iPhone 8 is here and it’s the world’s fastest phone in terms of both synthetic benchmarks and heavy duty real-world tasks, as tested by hardware experts over at Tom’s Guide.

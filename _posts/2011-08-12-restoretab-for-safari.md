@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'RestoreTab for Safari' Makes Losing Pages a Thing of the Past
+title: RestoreTab for Safari Makes Losing Pages a Thing of the Past
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/RestoreTab-for-Safari.png)
 * Don’t you just hate it when you accidentally close out a tab, desktop browser or otherwise? Thankfully, most desktop browsers include provisions to quickly restore a closed tab in an instant. With mobile browsers, however, it’s a matter of going back through your history.

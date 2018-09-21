@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone Keyboard Tweak Makes It Easier to See Which Case You're Typing
+title: iPhone Keyboard Tweak Makes It Easier to See Which Case Youre Typing
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/02/ShowCase-01.png)
 * I’ve always believed that the iPhone’s most frustrating issues surrounded around composing long messages or filling out exceptionally long forms. Not only is the auto correct particularly troublesome, but I find myself from time to time typing uppercase letters when I meant to type lowercase, and lowercase letters when I meant to type upper case.

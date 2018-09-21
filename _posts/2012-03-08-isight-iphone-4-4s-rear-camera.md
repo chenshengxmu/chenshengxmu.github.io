@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple begins using 'iSight' branding for iPhone 4 and 4S rear cameras too
+title: Apple begins using iSight branding for iPhone 4 and 4S rear cameras too
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/new-ipad-camera-e1331145538844.jpg)
 * Mac users may remember Apple’s iSight branding for its standalone and built-in webcams. However in recent years, Apple hasn’t used the appellation, replacing it with the FaceTime branding. But bringing the term back, iSight was reintroduced during yesterday’s iPad announcement. Apple’s senior vice president of Worldwide Marketing Phil Schiller showed off the new iPad’s camera, which was given the name iSight.

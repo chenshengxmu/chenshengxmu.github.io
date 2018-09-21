@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nintendo's Refusal to Make App Store Games Costs Nearly $1 Billion
+title: Nintendos Refusal to Make App Store Games Costs Nearly $1 Billion
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/imgSuper-Mario-Galaxy2.jpg)
 * Nintendo reported a net loss of $923 million for the first six months of the fiscal year, revealing the drastic effect that the company’s stance on mobile games has produced. Despite the fact that there has been huge consumer demand for Nintendo titles on mobile platforms like iOS, the company has been adamant that it doesn’t plan on porting its games to mobile devices like the iPhone.

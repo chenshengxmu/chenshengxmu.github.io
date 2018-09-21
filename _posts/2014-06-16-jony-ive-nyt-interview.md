@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jony Ive and Tim Cook on Apple's design process, new materials, revamping software and more
+title: Jony Ive and Tim Cook on Apples design process, new materials, revamping software and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/Jony-Ive-and-Bono-NYT-001.jpg)
 * Apple’s design guru Jonathan Ive rarely gave any interviews under the Steve Jobs regime. But this are different now, this is Tim Cook’s Apple. In another sign of much-welcomed openness signaling that the Cupertino firm has changed its ways when it comes to public relations, it’s increasingly making its key executives available to media.

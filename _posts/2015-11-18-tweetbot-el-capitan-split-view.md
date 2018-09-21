@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tweetbot for Mac updated for El Capitan's Split View multitasking and more
+title: Tweetbot for Mac updated for El Capitans Split View multitasking and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/11/Tweetbot-for-OS-X-Split-View-multitasking-El-Capitan-MAc-screenshot-002.png)
 * The Mac edition of Tweetbot, Tapbots’ popular Twitter client, has received an update this morning in the Mac App Store. The refreshed app now supports El Capitan’s Split View multitasking mode and can be taken to OS X’s native full screen mode as well.

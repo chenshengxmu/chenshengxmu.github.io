@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pandora's iOS revamp launches with Thumb History, new mini player and more
+title: Pandoras iOS revamp launches with Thumb History, new mini player and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/Pandora-Station-Personalization-iPhone-screenshot-001.jpg)
 * The iPhone edition of Pandora Radio, a music streaming service with more than 75 million listeners each month, has just received a visual makeover. The company previewed it almost two months ago, though the iPad edition hasn’t been refreshed today.

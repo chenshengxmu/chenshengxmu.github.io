@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spotify delivers 'Discover Weekly' personalized playlists and deep Nike+ Running integration
+title: Spotify delivers Discover Weekly personalized playlists and deep Nike+ Running integration
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/07/Spotify-Discover-Weekly-screenshot-001.png)
 * Following Apple Music introduction, Spotify has doubled down on music discovery and third-party integration, the two areas where it hopes to outsmart competition, with Monday’s announcement of a Discover Weekly feature and deep integration with the Nike+ Running mobile app.

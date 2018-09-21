@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Disney's new iPad app lets you recreate and customize iconic Star Wars scenes
+title: Disneys new iPad app lets you recreate and customize iconic Star Wars scenes
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/Star-Wars-Scene-Maker-10-for-iOS-iPad-screenshot-004.png)
 * Following Disney’s unexpected purchase of Lucasfilm from George Lucas for $4.05 billion, the Mickey Mouse house is poised to release a seventh Star Wars film later this year. As part of the pre-release hype, the animation powerhouse has released a new Star Wars-themed app in the App Store.

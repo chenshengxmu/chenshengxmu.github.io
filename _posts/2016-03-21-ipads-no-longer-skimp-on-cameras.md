@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 9.7" iPad Pro certainly doesn't skimp on camera tech, but is this a new normal for iPads?
+title: 9.7 iPad Pro certainly doesnt skimp on camera tech, but is this a new normal for iPads?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/New-iPad-Pro-camera.jpg)
 * Apple’s best mobile cameras go into iPhones, not iPads, though a curious thing happened at today’s unveiling of a smaller 9.7-inch iPad Pro—both it and the iPhone 6s share a powerful Apple-designed camera subsystem which takes sharp snaps in twelve megapixels and shoots video in 4K.

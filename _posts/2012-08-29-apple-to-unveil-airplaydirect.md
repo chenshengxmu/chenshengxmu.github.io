@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple to reportedly unveil new 'AirPlay Direct' feature next month
+title: Apple to reportedly unveil new AirPlay Direct feature next month
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/airplay-speaker-e1346234588837.jpg)
 * Citing sources familiar with Apple’s plans, a new report is out today claiming that the Cupertino company is looking to launch a new version of its popular AirPlay feature next month, called AirPlay Direct.

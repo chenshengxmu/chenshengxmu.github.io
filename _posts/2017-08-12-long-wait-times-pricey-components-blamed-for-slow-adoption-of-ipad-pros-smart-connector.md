@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Long wait times, pricey components blamed for slow adoption of iPad Pro's Smart Connector
+title: Long wait times, pricey components blamed for slow adoption of iPad Pros Smart Connector
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/11/Logitech-Create-iPad-Pro-4.png)
 * The iPad Pro Smart Connector accessory business isn’t exactly booming, with Logitech’s Smart Connector-enabled backlit keyboard case among a small handful of third-party options currently available on the market.

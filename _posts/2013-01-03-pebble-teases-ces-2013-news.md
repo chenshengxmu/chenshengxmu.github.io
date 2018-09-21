@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amid iWatch talk, Pebble teases 'big news' at CES
+title: Amid iWatch talk, Pebble teases big news at CES
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/iwatch2-1.jpeg)
 * Pebble, the company behind the upcoming smart watch of the same name,  is telling its Kickstarter backers that “it’s time” for some “big news” as the company promises to livestream its CES news event January 9 at at 12pm ET. For those unaware, their Pebble E-Paper Watch has been long in the making and last April became the most highly funded Kickstarter project to date, which tells you there’s certainly some demand for such a product.

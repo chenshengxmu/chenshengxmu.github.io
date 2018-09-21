@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Lucky Bags promotion goes live in Japan
+title: Apples Lucky Bags promotion goes live in Japan
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/Apple-Lucky-Bags-2014-Macotakara-004.jpg)
 * As announced a week ago, Apple today kicked off its Lucky Bags promotion in Japan. The 36,000 yen (approximately $345 USD) mystery bags filled with randomly picked Apple products and third-party accessories are being offered today only to customers in select Apple retail stores across the 128 million people country.

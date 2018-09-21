@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to reveal and use tvOS's hidden remote diagnostics mode on your Apple TV
+title: How to reveal and use tvOSs hidden remote diagnostics mode on your Apple TV
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/04/tvOS-9.2-Diagnostics-mode-Apple-TV-screenshot-001.jpg)
 * Nearly five years ago, Apple started taking advantage of a new feature that lets customers send diagnostic data to an Apple advisor to help troubleshoot any problems they might be having, without having to take their device to an Apple Store Genius.

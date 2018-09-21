@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple wants to enable iPhone 6's NFC for building security, public transit tickets and more
+title: Apple wants to enable iPhone 6s NFC for building security, public transit tickets and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/apple-pay-passbook-scan.png)
 * Most of the talk about NFC inside the iPhone 6 and iPhone 6 Plus has centered around Apple Pay, the iPhone maker’s mobile payments service, but NFC has other uses, too. Android handsets typically use NFC for proximity-based wireless sharing and now The Information is reporting that Apple is considering adding more NFC-based features to the new iPhones, stuff like enabling secure access to buildings and transit fare systems.

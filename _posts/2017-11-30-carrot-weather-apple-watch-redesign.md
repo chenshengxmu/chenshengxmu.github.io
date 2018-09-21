@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Carrot Weather's watch app now speaks to you
+title: Carrot Weathers watch app now speaks to you
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/Carrot-Weather-teaser-001.jpg)
 * Your favorite weather robot now speaks to you through your Apple Watch’s speaker.

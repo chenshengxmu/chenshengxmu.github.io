@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gartner predicts Lenovo will become China's #1 smartphone brand in 2013
+title: Gartner predicts Lenovo will become Chinas #1 smartphone brand in 2013
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/iPhone-4-China.jpg)
 * China is fast becoming a key market for Apple and other smartphone makers looking to cash-in on the nation’s enormous population. However, the top player in 2013 could come from closer to home. Lenovo is expected to become China’s leading smartphone brand next year, up from its current #2 slot, one research firm announced Tuesday.

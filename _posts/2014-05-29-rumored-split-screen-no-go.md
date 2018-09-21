@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rumored iOS 8 split-screen feature won't be ready for WWDC
+title: Rumored iOS 8 split-screen feature wont be ready for WWDC
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/split-screen.png)
 * Earlier this month, a report surfaced that Apple was working on a new feature in iOS 8 involving split-screen multitasking. Designed specifically for the larger iPad, the addition reportedly allows two apps to run side-by-side while in landscape mode.

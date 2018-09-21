@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hands-on with 'OS Experience' for iPad
+title: Hands-on with OS Experience for iPad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/OS-Experience1.png)
 * OS Experience is an upcoming jailbreak tweak that allows for true multitasking on the iPad. It’s a tweak that’s similar in function to the Quasar tweak that released a few years ago, but it’s much more in-depth and functional than Quasar.

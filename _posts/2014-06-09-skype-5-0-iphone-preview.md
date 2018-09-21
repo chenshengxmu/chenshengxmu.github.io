@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This is Skype's upcoming iPhone facelift
+title: This is Skypes upcoming iPhone facelift
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/Skype-5.0-for-iOS-iPhone-screenshot-002.png)
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/Skype-5.0-for-iOS-iPhone-screenshot-001.png)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Court rules iPhone looks can't be protected, adjusts Samsung's $930 million penalty
+title: Court rules iPhone looks cant be protected, adjusts Samsungs $930 million penalty
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/Apple-vs-Samsung-Apple-before-and-after-iPhone.jpg)
 * Monday, The United States Court of Appeals for the Federal Circuit said it’s ruled that Samsung violated Apple’s design patents but did not infringe on the Cupertino firm’s trade dress intellectual property.

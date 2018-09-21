@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft's Office Sway for iPhone now available in US App Store and other countries
+title: Microsofts Office Sway for iPhone now available in US App Store and other countries
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/Microsoft-Office-Sway-1.1-for-iOS-iPhone-screenshot-001.png)
 * After soft-launching in the New Zealand App Store in November, Microsoft’s Office Sway for iPhone is now available more broadly in a number of markets around the world, including in the U.S. App Store.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BlackBerry going after Ryan Seacrest's 'Typo' keyboard for patent infringement
+title: BlackBerry going after Ryan Seacrests Typo keyboard for patent infringement
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/typo-1.png)
 * Last month, we told you about an interesting new accessory coming out this year for the iPhone called the ‘Typo.’ It’s a case with a built-in Bluetooth keyboard that bills itself as the perfect solution for the folks who still carry both an iPhone and a BlackBerry.

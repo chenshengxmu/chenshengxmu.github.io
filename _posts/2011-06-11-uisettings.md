@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 5 Gets Its First Jailbreak Tweak, and You're Going to Like It
+title: iOS 5 Gets Its First Jailbreak Tweak, and Youre Going to Like It
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/UISettings.png)
 * It’s been about 24 hours since the release of RedSn0w 0.9.8b1, a tethered jailbreak for iOS 5 beta 1, and we’ve already had confirmation that it’s possible to add widgets to the Notification Center of Apple’s latest mobile OS. Not only we have the confirmation, but we now have the proof as the jailbreak community has already come up with a tweak for it.

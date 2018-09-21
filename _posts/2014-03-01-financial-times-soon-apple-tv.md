@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New report claims revamped Apple TV could land 'any week now'
+title: New report claims revamped Apple TV could land any week now
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/Apple-TV.jpg)
 * When it comes to the Apple TV, it seems like everyone agrees that a new one is coming. But just when it will get here is a different story. We’ve heard everything from ‘as early April,’ to ‘before WWDC in June,’ and as late as ‘in the fall this year with Apple’s other product refreshes.’

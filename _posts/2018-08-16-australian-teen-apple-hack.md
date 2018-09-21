@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Teen broke into Apple's servers, downloaded secure files & accessed user accounts
+title: Teen broke into Apples servers, downloaded secure files & accessed user accounts
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/Apple-Mesa-Arizona-data-center-001.jpg)
 * When he was just 16 years old, a young Australian boy has managed to repeatedly break into Apple’s servers and download about 90GB of “secure files”. Additionally, he reportedly accessed customer accounts and successfully obtained “authorized keys” as part of his offending.

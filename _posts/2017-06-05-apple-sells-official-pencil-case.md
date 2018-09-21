@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You can now protect your Apple Pencil with Apple's own Pencil case
+title: You can now protect your Apple Pencil with Apples own Pencil case
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/apple-pencil-case-apple-store-online.png)
 * It was only a matter of time until Apple would release an in-house case for Apple Pencil. Lo and behold, just after this year’s main WWDC keynote had come to a close, the item already offered by various third party companies was silently added to the Apple Store.

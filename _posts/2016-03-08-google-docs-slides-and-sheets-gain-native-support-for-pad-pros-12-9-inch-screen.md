@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Docs, Slides and Sheets gain native support for iPad Pro's 12.9-inch screen
+title: Google Docs, Slides and Sheets gain native support for iPad Pros 12.9-inch screen
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/Google-Docs-1.2-for-iOS-app-icon-small.png)
 * The Internet giant Google today refreshed its mobile productivity apps in the App Store—Google Docs, Google Sheets and Google Slides—adding support for the iPad Pro’s 12.9-inch screen along with other minor improvements.

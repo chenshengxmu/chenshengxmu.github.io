@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung was Apple's top iPad display supplier in Q1 this year
+title: Samsung was Apples top iPad display supplier in Q1 this year
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/iPad-Air-Videos.png)
 * Despite their frequent disputes in the court room, Apple and Samsung remain close supply chain partners. The Cupertino company has been trying to distance itself, but Samsung still makes a number of components used in the firm’s line of mobile products.

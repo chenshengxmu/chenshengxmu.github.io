@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to enable AirPlay Mirroring on your Mac with 'Reflection'
+title: How to enable AirPlay Mirroring on your Mac with Reflection
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/AirPlay-Mirroring-to-iMac-Reflection.jpg)
 * It’s one of those feature that seem so painfully obvious, but no one took advantage of the opportunity until now.

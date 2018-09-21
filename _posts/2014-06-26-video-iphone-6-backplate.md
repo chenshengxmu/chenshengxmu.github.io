@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Claimed video shows off 4.7" iPhone 6 back part
+title: Claimed video shows off 4.7 iPhone 6 back part
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/iPhone-6-backplate-NowhereElse-003.jpg)
 * A new video has surfaced Thursday, purportedly depicting an all-aluminum back of a forthcoming 4.7-inch iPhone 6 model.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Do iPhone 8's supposedly revolutionary VR/AR features sound too good to be true?
+title: Do iPhone 8s supposedly revolutionary VR/AR features sound too good to be true?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/Robert-Scoble-Google-Glass-shower.jpg)
 * Will iPhone 8 knock our socks off with revolutionary virtual reality and augmented reality capabilities? I’m not sold yet, but that’s not stopping some people from making far-fetched speculations based solely on wishful thinking and little evidence. And what evidence has been presented thus far is very flimsy.

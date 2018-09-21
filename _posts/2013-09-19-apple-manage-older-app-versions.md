@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple now lets devs manage availability of apps' previous versions
+title: Apple now lets devs manage availability of apps previous versions
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/SIGHyKE.png)
 * Yesterday, we told you about an unexpected improvement of the App Store backend which results in customers being able to grab older versions of apps. This is especially useful to those who may be browsing the App Store using an older device with one of the older iOS versions.

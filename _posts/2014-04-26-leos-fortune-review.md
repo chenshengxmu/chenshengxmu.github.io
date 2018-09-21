@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Leo’s Fortune is the best platformer we've played in a while
+title: Leo’s Fortune is the best platformer weve played in a while
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/Leos-Fortune-3.jpeg)
 * Ah, the platformer, a genre that has stood the test of time for generations. Once Mario and his brother graced our living room screens, we were hooked on the run-and-jump adventure that platformers offer. After so many decades, it is starting to get hard to tell titles apart. It seems like anyone can make a platform game, but not everyone can make it good.

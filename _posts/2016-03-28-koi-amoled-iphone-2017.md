@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KGI- 5.8" AMOLED iPhone with iPhone 4-like curved glass design due in 2017
+title: KGI- 5.8 AMOLED iPhone with iPhone 4-like curved glass design due in 2017
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/iPhone-6-concept-ConceptsPhone-004.jpg)
 * Last month, supply chain sources claimed Apple was working to launch a 5.8-inch iPhone featuring rigid AMOLED display panels some time in 2017.

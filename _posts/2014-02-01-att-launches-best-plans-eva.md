@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T launches new family plans with 'best-ever' prices
+title: AT&T launches new family plans with best-ever prices
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/ATT-Chicago-store-interior-001.jpg)
 * In an effort to fend off T-Mobile’s ‘Un-carrier’ attack, and stay competitive with Verizon, AT&T announced a new set of family plans this afternoon. The plans include unlimited talk and text and then a bucket of 10GB of data that can be shared by all of the accompanying devices.

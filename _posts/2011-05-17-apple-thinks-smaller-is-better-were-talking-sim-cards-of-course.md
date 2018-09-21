@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Thinks Smaller is Better. We're Talking SIM Cards of Course...
+title: Apple Thinks Smaller is Better. Were Talking SIM Cards of Course...
 ---
 * When Apple launched the first iPad a little over a year ago, it introduced a fairly new SIM format called Micro SIM. A few months later, those Micro SIMs were also implemented in the iPhone 4. Smaller in size compared to the standard Mini SIMs, Micro SIMs do the exact same job while using less space.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/09/SIM-Card.jpg)

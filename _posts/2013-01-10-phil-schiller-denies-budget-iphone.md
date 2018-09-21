@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Confirmed- Apple's marketing honcho shoots down budget iPhone talk
+title: Confirmed- Apples marketing honcho shoots down budget iPhone talk
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/Phil-Schiller-iPad-mini-event-001.jpg)
 * Samsung is planning to refresh its flagship consumer electronics products at a media event on February 21, rumors are swirling that Apple is about to branch out the iPhone into two hardware versions: one flagship model aimed at high-end consumers and the other budget model costing up to $149, reportedly made from cheaper materials and possibly crammed with less features.

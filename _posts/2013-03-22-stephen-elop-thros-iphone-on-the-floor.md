@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nokia boss throws interviewer's iPhone on the floor
+title: Nokia boss throws interviewers iPhone on the floor
 ---
 * Wow, this has got to be a new low for the ailing Nokia and its boss, former Microsoft exec Stephen Elop. With everyone trashing Apple these days, from investors to big media to analysts, the Nokia CEO apparently thinks piggy-backing on the trend is the way to go to score a few coolness points.
 * After an interviewer on a Finnish television said he had an iPhone in his pocket, a petulant Elop – unable to control his manners – nervously quipped “how embarrassing, I’ll take care of that” before throwing the device on the floor as if it were a piece of useless junk. That’s the first time a big name CEO has exercised such an utmost disrespect for a rival, at least to my knowledge…

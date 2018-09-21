@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's Talk Jailbreak 149- The unintentional downer
+title: Lets Talk Jailbreak 149- The unintentional downer
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/Lets-Talk-Jailbreak-banner.png)
 * The guys discuss the apparent drought in the jailbreak community where not much is being released in Cydia these days. Sebastien then shares his lack of interest in using his jailbroken Apple TV. Finally, Cody and Sebastien discuss a handful of tweaks that they deem to be the best of the month. Also, a tip you most definitely already knows about, unlike Sebastien…

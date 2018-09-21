@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's 3D maps look much better than Google's
+title: Apples 3D maps look much better than Googles
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/Google-vs-Apple-Maps-3D.png)
 * Google, in an attempt to outshine one of the worst kept secrets in the industry at the time — Apple’s 3D Maps announcement at WWDC 2012 — hastily put together its own presser 5 days in advance, to announce their entry into the “next dimension” of maps.

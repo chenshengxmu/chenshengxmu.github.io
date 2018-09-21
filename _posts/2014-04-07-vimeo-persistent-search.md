@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Persistent search bar and swiping improvements added to Vimeo's iOS app
+title: Persistent search bar and swiping improvements added to Vimeos iOS app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/Vimeo-4.0.1-for-iOS-iPhone-screenshot-001.png)
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/Vimeo-4.0.1-for-iOS-iPhone-screenshot-002.png)

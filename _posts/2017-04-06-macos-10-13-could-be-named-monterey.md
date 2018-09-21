@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The next version of macOS won't use a mountain/park name
+title: The next version of macOS wont use a mountain/park name
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/wwdc-2016-macos-sierra.jpg)
 * As part of its list of supposed hardware upgrades coming to Apple’s pro-level iMacs later this year, the Pike’s Universum blog mentioned in passing that the next major version of macOS (10.13) won’t use a mountain or a park name anymore.

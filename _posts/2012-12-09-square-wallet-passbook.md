@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Square's Wallet app gains gift cards with Passbook integration
+title: Squares Wallet app gains gift cards with Passbook integration
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/Square-Wallet-for-iOS-gift-card-002.jpg)
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/Square-Wallet-for-iOS-gift-card-003.jpg)

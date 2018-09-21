@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spotify's new continuously updated playlist combines your favorites and new music
+title: Spotifys new continuously updated playlist combines your favorites and new music
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/Spotify_logo_horizontal_black.jpg)
 * Spotify, the #1 music streaming service, today announced a new playlist updated daily with tracks that users mark as favorites as well as new music.

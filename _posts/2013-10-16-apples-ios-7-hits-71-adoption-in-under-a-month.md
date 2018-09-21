@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's iOS 7 hits 71% adoption in under a month
+title: Apples iOS 7 hits 71% adoption in under a month
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/apple-ios7-adoption-71-percent.png)
 * Apple’s iOS 7 continues to break records when it comes to how quickly the mobile software is being adopted. In less than a month, nearly 75 percent of iPhone, iPad and iPod touch owners have upgraded, topping the pace of iOS 6.

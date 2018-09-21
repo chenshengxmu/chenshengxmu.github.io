@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4th gen iPad's A6X chip runs quad-core PowerVR SGX 554MP4 graphics
+title: 4th gen iPads A6X chip runs quad-core PowerVR SGX 554MP4 graphics
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/Apple_A6X_chip.jpeg)
 * Apple introduced the new A6X with the fourth-generation iPad on October 23. It’s an improved version of the A6 silicon powering the iPhone 5 by increasing clock frequency for the CPU (1.5GHz) and GPU (500MHz) part in order to achieve Apple’s claim of twice the CPU and GPU performance.

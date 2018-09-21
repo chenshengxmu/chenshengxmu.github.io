@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Siri by the numbers- interesting stats about Apple's assistant
+title: Siri by the numbers- interesting stats about Apples assistant
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/siri-info-header.jpg)
 * Ever since Apple unveiled Siri at its iPhone 4S media event last fall, the digital assistant has remained in the spotlight. Whether it’s celebrity-laden TV spots or class-action lawsuits, it seems like it’s always making headlines.

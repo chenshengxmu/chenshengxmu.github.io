@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You can now watch Funny or Die's 'iSteve' online
+title: You can now watch Funny or Dies iSteve online
 ---
 * Comedy web site Funny or Die originally said its satirical movie about Apple’s co-founder Steve Jobs, dubbed iSteve, would arrive on April 15, but they pushed it back a bit in the wake of Boston bombing.
 * The movie is now available online, as a free stream via the Funny or Die web site.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 6 brings brand new privacy settings you can't miss
+title: iOS 6 brings brand new privacy settings you cant miss
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/privacy-ios-6-1.jpeg)
 * You might remember the privacy fiasco that started earlier this year when it was discovered that Path was uploading your whole address book to its servers. Of course, Path wasn’t the only app to do that, but it was the first to get the backlash that followed, forcing Apple to slightly change what the company requires app developer to do with your data and how they notify you.

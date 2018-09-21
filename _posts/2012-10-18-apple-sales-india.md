@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple changes sales tactics as the iPhone's share in India plummets to new lows
+title: Apple changes sales tactics as the iPhones share in India plummets to new lows
 ---
 * I’ve previously written about Apple’s woes in India, where the company was forced to re-price the iPhone 3GS because cheap Android handsets took the market by storm. It’s really the same problem plaguing Apple in any other country, only it’s way more pronounced in India, a 1.24 billion people market that buys 220 million handsets per year.
 * India is also home to the largest concentration of people living below the World Bank’s international poverty line of $1.25 per day. It doesn’t take a genius to figure out that Apple’s exorbitant pricing model in India couldn’t fly with the vast majority of would-be buyers who simply cannot afford an iPhone at Apple’s terms of business…

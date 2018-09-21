@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T iPhone Beats Verizon's in Data Speed Tests
+title: AT&T iPhone Beats Verizons in Data Speed Tests
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/03/verizon-vs-att.jpg)
 * Verizon might win the coverage war, but AT&T takes the crown for the fastest data download speeds. That is, of course, according to Metrico Wireless. An independent mobile device performance evaluation company out of Maryland, Metrico has been advising companies on launch readiness of their wireless products and services for years.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's $399 Home Max speaker goes on sale
+title: Googles $399 Home Max speaker goes on sale
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/Google-Home-Max-web-screenshot.png)
 * Unveiled in October, Google announced Monday that its Home Max wireless speaker with built-in Assistant is now available in the US from electronics retailer Best Buy, carrier Verizon., retailer Walmart and Google’s own webstore.

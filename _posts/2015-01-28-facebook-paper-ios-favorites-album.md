@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Facebook's Paper app now supports sharing from iOS Favorites album and more
+title: Facebooks Paper app now supports sharing from iOS Favorites album and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/facebook-paper.png)
 * Facebook’s Paper for iPhone app has been refreshed today with improved performance as well as faster way of sharing photos, in addition to fixing a few issues “you’ve let us know about.”

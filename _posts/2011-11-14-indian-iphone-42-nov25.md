@@ -1,6 +1,6 @@
 ---
 layout: post
-title: India Set to Get Apple's iPhone 4S on November 25th
+title: India Set to Get Apples iPhone 4S on November 25th
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/aircel-iphone-4s-coming-soon-india1.jpeg)
 * Those living in India won’t have much longer to wait before they can get their hands on an iPhone 4S, according to reports.

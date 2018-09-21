@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPad vs. Lava Isn't Really a Fair Fight
+title: iPad vs. Lava Isnt Really a Fair Fight
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/lava-ipad.jpg)
 * Some people aren’t happy unless they are destroying things. We’ve already witnessed the various “will it blend” videos showing Apple hardware being subjected to the inside of a blending machine, but the latest method of destroying an iPad really takes the cake.

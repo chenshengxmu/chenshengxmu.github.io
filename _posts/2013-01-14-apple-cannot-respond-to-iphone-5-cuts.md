@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Apple isn't responding to vague claims of iPhone 5 order cuts
+title: Why Apple isnt responding to vague claims of iPhone 5 order cuts
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/iPhone-5-Apple-Store-window-UTC-la-jolla.jpg)
 * So Apple in a heartbeat dispatches its marketing honcho Phil Schiller to talk to a Chinese newspaper and kill the cheap iPhone chatter for fear the rumor might affect sales and yet the company remains completely mum on The Wall Street Journal article claiming iPhone 5 orders were cut in half amid what the author interpreted as a ‘weaker than expected’ demand.

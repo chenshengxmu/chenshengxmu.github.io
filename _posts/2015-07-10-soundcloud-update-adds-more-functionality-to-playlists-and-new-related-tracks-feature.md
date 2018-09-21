@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SoundCloud update adds more functionality to playlists and new 'related tracks' feature
+title: SoundCloud update adds more functionality to playlists and new related tracks feature
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/07/soundcloud.png)
 * SoundCloud updated its iOS client this morning, bringing the app to version 3.10.1. The company says the update “significantly upgrades the listening experience,” bringing about more functionality for playlists, the ability to shuffle your Likes, and a new ‘related tracks’ feature.

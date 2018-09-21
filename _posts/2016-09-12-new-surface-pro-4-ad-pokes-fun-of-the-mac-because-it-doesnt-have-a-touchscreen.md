@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Surface Pro 4 ad pokes fun of the Mac because it doesn't have a touchscreen
+title: New Surface Pro 4 ad pokes fun of the Mac because it doesnt have a touchscreen
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/Microsoft-Get-Surface-Pro-ad-image-002.jpg)
 * Microsoft over the weekend fired another ad salvo at Apple’s tablet/computer strategy with a new (somewhat) amusing commercial. Simple titled “Get the Surface Pro,” the 30-second ad highlights Microsoft’s Surface Pro 4 hybrid device which includes a stylus and comes with a detachable keyboard and an Intel chip allowing it to be transformed into a computer that runs Windows, Office and other real desktop applications.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Realmac's digital scrapbook app Ember is now available on Mac App Store
+title: Realmacs digital scrapbook app Ember is now available on Mac App Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/Ember-1.0-for-Mac-screenshot-002.jpg)
 * I’ve been growing increasingly frustrated with the note-taking giant Evernote‘s decision to buy Skitch, my favorite screenshot-taking and annotation app. Very little have I seen in terms of meaningful enhancements and new features post-buyout.

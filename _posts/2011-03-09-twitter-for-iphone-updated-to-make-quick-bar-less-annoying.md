@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twitter for iPhone Updated to Make "Quick Bar" Less Annoying
+title: Twitter for iPhone Updated to Make Quick Bar Less Annoying
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/03/Twitter-Dickbar-e1299645290693.png)
 * The official Twitter app was recently updated with some significant changes. Among other new features, Twitter decided to add the “Quick Bar” to the top of the timeline.

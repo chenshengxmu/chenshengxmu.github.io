@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FCC approves AT&T's $1.3 billion acquisition of Leap Wireless
+title: FCC approves AT&Ts $1.3 billion acquisition of Leap Wireless
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/ATT-Chicago-store-interior-001.jpg)
 * Last summer, AT&T announced that it had reached an acquisition deal with Leap Wireless. The company said that it would be buying out the provider, which owns and operates the popular prepaid carrier Cricket, for $15 per share—equal to $1.3 billion. All it needed was approval from the FCC.

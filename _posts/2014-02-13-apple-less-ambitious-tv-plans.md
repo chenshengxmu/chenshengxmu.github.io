@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple said to be moving forward with 'less ambitious' TV plans
+title: Apple said to be moving forward with less ambitious TV plans
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/Apple-TV-teaser-001.jpg)
 * Following a report by Bloomberg, which reiterated Apple’s move to revamp its set top box, comes a scoop from The Wall Street Journal regarding the company’s TV plans. The outlet says Apple has abandoned efforts to disrupt cable TV in favor of a less ambitious strategy.

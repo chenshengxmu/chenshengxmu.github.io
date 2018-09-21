@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't worry, the 'iPhone Math' moniker won't stick
+title: Dont worry, the iPhone Math moniker wont stick
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/iPhone-Math-stupid-moniker.jpg)
 * When I woke up this morning to the iPhone Math rumor, I was like ‘iPhone what?’ As insane as that purported moniker sounds, some did fall for it and took the story as is. But do you really believe Apple would adorn a refresh of its iconic smartphone with such a stupid name? Yes, the Power Mac G4 Cube also wasn’t the best moniker to begin with, but what on Earth is the ‘iPhone Math’ supposed to stand for?

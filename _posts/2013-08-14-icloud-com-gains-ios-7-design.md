@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iCloud Beta revamped with iOS 7 style design, here's your gallery
+title: iCloud Beta revamped with iOS 7 style design, heres your gallery
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/iCloud-Beta-redesign.png)
 * Apple’s streamlining, redesigning and flattening efforts go beyond iOS 7 or Jonny Ive’s title. Today, the company has issued a major revamp to its iCloud.com Beta website. The enhanced experience focuses on an all-new yet familiar look which takes more than a few clues from iOS 7, to put it mildly.

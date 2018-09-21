@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You'll finally be able to turn on the shower using Siri soon
+title: Youll finally be able to turn on the shower using Siri soon
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/U-by-Moen-HomeKit-Shower-system.jpeg)
 * At CES 2018, Moen has announced a new update to their Wi-Fi-enabled shower system. U by Moen allows you to turn your shower on and off from anywhere in the house, set the precise temperature, and now it adds support for Siri (through HomeKit) and Amazon Alexa.

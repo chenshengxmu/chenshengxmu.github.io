@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Watch Apple's cool new environment video- it's all about iMessage
+title: Watch Apples cool new environment video- its all about iMessage
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/04/Apple-environemnt-video-iMessages-image-001.png)
 * Apple yesterday published a cool new video on its YouTube channel that does a very good job explaining to the general public, in layman’s terms, its renewable energy strides.

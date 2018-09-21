@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sprint's new tablet-exclusive unlimited plan degrades your video, music and gaming streams
+title: Sprints new tablet-exclusive unlimited plan degrades your video, music and gaming streams
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/Sprint-Unlimited-Freedom-for-tablets-teaser-001.png)
 * I don’t trust “unlimited” wireless plans because they’re all but unlimited and often come with a bunch of caveats one needs to consider carefully. The latest example: Sprint’s newly announced data plan for tablets which promises unlimited 4G LTE data in exchange for $20 per month. So far so good, but the devil—as always—is in the detail.

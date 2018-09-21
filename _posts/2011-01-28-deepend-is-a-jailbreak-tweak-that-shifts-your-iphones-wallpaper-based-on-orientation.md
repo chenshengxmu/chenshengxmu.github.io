@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DeepEnd is a Jailbreak Tweak That Shifts Your iPhone's Wallpaper Based on Orientation
+title: DeepEnd is a Jailbreak Tweak That Shifts Your iPhones Wallpaper Based on Orientation
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/01/DeepEnd-First-Look-e1296229722361.png)
 * Earlier this week we talked about 3DBoard, which is an upcoming jailbreak tweak that adds a 3D effect to your iPhone’s Home screen. DeepEnd works in a similar way, altering your wallpaper’s orientation based on movement.

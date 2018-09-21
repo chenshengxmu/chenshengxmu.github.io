@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple announces new 'Space Gray' color for iPod touch, nano and shuffle
+title: Apple announces new Space Gray color for iPod touch, nano and shuffle
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/new-space-gray-ipod-touch.png)
 * With Apple’s iPod line receiving a significant upgrade last fall, and declining sales making the music players ever-less important, it wasn’t surprising that there was no mention of them during today’s event.

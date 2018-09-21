@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple releases iBooks version of its 'iOS Human Interface Guidelines'
+title: Apple releases iBooks version of its iOS Human Interface Guidelines
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/ios-human-interface.png)
 * Last night, Apple published an iBooks version of its ‘iOS Human Interface Guidelines.’ The move is notable because until now you could only access the user interface guidelines for iOS 7 via the developer portal, which required a $99-per-year membership.

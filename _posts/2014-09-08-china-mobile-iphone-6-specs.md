@@ -1,6 +1,6 @@
 ---
 layout: post
-title: China Mobile's claimed iPhone 6 specs- waterproof, dustproof, sapphire-protected and more
+title: China Mobiles claimed iPhone 6 specs- waterproof, dustproof, sapphire-protected and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/iPhone-6-vs-iPhone-5s-hand-002.jpg)
 * Having started taking pre-orders for Apple’s unreleased and still unofficial iPhone 6 a good five days ago, carrier China Mobile has now posted to its official website what it claims are official hardware specifications of the 4.7-inch version of the handset, GforGames reported Monday afternoon.

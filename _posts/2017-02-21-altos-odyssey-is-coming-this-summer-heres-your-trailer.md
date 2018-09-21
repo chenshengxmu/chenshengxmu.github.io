@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Alto’s Odyssey is coming this summer, here's your teaser trailer
+title: Alto’s Odyssey is coming this summer, heres your teaser trailer
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/Altos-Odyssey-screenshot-008.jpg)
 * The award-winning endless snowboard odyssey, Alto’s Adventure, turned two yesterday. Today, Alto’s developer Snowman gave us a first look at the game’s official sequel, Alto’s Odyssey. In Odyssey, players are challenged to discover the secrets of the endless desert.

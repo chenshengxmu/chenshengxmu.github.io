@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's dedicated iOS 6 page goes live
+title: Apples dedicated iOS 6 page goes live
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/iOS-6-page-apple-e1339442025477.jpg)
 * iOS 6 has a ton of new features, and like always, Apple has created a new page highlighting the upgrade’s most compelling bullet points.

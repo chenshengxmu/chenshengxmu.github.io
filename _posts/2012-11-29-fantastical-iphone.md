@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fantastical for iPhone is here and it's a thing of beauty
+title: Fantastical for iPhone is here and its a thing of beauty
 ---
 * As promised, Flexibits today launched Fantastical for the iPhone. The app makes a leap from the Mac, where it’s been deemed the most popular calendar software for the platform. And one of its trademark features – the natural-language engine which parses entries, allowing one to just type in full sentences to create events – is now available on the iPhone and is just as effective as on the Mac. And for those that don’t like to type, Fantastical also supports dictation so you can speak the details for your event…
 * Of course, the system-wide Dictation feature requires an iPhone 4S/5 or the fifth-gen iPod touch and Internet access. One of the new features in the iPhone version of Fantastical is the DayTicker view of the next few days of events at a glance.

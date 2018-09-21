@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nike's new sneaker-matching Apple Watch bands now available for purchase
+title: Nikes new sneaker-matching Apple Watch bands now available for purchase
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/nikeplusnewbands2-800x559.jpg)
 * A significant number of new Nike Apple Watch band colors are now available for purchase from Nike’s Website, signifying an expansion of the Apple/Nike partnership.

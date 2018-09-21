@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unhappy with reduced hours, Foxconn workers argue salary doesn't cover basic needs
+title: Unhappy with reduced hours, Foxconn workers argue salary doesnt cover basic needs
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/foxconn-workers.jpg)
 * Following yesterday’s findings of the Fair Labor Association’s investigation into Apple’s supply chain, a report out this morning claims Foxconn workers are now concerned about their work hours being cut because they think the move will lead to lower wages.

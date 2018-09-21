@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple posts new 'Brilliant' and 'Discover' iPhone ads
+title: Apple posts new Brilliant and Discover iPhone ads
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/brilliant-iphone-ad.png)
 * Apple has posted two new iPhone commercials this evening. The first one is entitled ‘Brilliant,’ and the second is ‘Discover,’ and both of them follow the Cupertino company’s recent marketing trend for its iOS devices.

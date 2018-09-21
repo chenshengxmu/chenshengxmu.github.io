@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RIM's backlog hits $1 billion worth of unsold BlackBerrys and PlayBooks
+title: RIMs backlog hits $1 billion worth of unsold BlackBerrys and PlayBooks
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/sad-blackberry1-e1319653370667.jpg)
 * Just as we thought things couldn’t get any worse for the embattled BlackBerry maker Research In Motion, more bad news hits the wires on a daily basis.

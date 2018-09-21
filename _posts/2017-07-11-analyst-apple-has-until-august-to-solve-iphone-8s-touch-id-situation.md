@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Analyst- Apple has until August to solve iPhone 8's Touch ID situation
+title: Analyst- Apple has until August to solve iPhone 8s Touch ID situation
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/04/iPhone-8-prototype-Touch-ID-back-Sonny-Dickson-teaser.jpg)
 * Highly unlikely claims by KeyBanc Capital Markets analyst Andy Hargreaves were cited in today’s report by the investment publication Barrons, alleging that Apple has “just weeks” to decide whether to put a Touch ID fingerprint sensor under the cover glass of iPhone 8 or completely replace the popular feature with an advanced facial recognition system.

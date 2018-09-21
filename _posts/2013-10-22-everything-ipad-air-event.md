@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Everything you need to know about today's iPad event
+title: Everything you need to know about todays iPad event
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/four-iPad-mini-retina-display.jpg)
 * Well, that’s all folks. Apple’s highly anticipated iPad event has come, and gone. All announcements have been made, all software has been released, and we now know what the future of the popular tablet line looks like.

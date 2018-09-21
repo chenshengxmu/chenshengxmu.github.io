@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung's chip wizard defects to Apple
+title: Samsungs chip wizard defects to Apple
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/A6-Chip.jpg)
 * An interesting development here in the never-ending Apple-Samsung saga. Per The Wall Street Journal, Apple has successfully lured Jim Mergard, one of Samsung’s most noted chip design luminaries, who joined the Mac maker to presumable help its silicon team create new processors for Apple devices. This has gotta be a blow to South Korea-based Samsung, whose components arm manufactures processors for iPhones, iPads and iPods, which are designed internally by Apple’s team of silicon engineers.

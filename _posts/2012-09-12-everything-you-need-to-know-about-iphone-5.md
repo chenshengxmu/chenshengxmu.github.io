@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Everything you need to know about today's iPhone 5 event
+title: Everything you need to know about todays iPhone 5 event
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iPhone-5-black-front-left-angled.jpg)
 * The iPhone 5 is finally here.

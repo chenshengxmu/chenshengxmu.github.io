@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's ResearchKit available today to developers and medical researchers
+title: Apples ResearchKit available today to developers and medical researchers
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/04/ResearchKit-teaser-003.jpg)
 * Today, Apple’s made good on its promise to make ResearchKit available to developers and medical researchers. As announced in a media release Tuesday, medical researchers can tap into ResearchKit to write custom apps while developers are permitted to contribute new research modules to ResearchKit.

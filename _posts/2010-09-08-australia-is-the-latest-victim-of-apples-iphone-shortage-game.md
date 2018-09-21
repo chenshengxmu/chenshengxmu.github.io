@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Australia is the Latest Victim of Apple's iPhone Shortage Game
+title: Australia is the Latest Victim of Apples iPhone Shortage Game
 ---
 * On launch day of the iPhone 4 I was 26th in line at the Mall of America. I arrived at 2 in the morning and by the time Apple opened their doors there were easily over 300 people waiting behind me. I know that everyone in line that day didn’t go home with the new iPhone. It was blissfully maddening.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/09/aussieiphone093845225.jpg)

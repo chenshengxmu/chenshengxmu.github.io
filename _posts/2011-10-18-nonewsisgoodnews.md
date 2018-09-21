@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kick Newsstand to the Curb With 'NoNewsIsGoodNews'
+title: Kick Newsstand to the Curb With NoNewsIsGoodNews
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/NoNewsIsGoodNews-e1318946969186.png)
 * If one of the first thoughts to your mind when Newsstand was revealed at WWDC was: “I’m never going to use that”, then this tweak is for you.

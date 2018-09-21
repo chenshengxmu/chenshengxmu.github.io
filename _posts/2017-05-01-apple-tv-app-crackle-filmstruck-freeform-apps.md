@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's dedicated TV app picks up support for Crackle, Filmstruck and Freeform apps
+title: Apples dedicated TV app picks up support for Crackle, Filmstruck and Freeform apps
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/05/tvOS-TV-app-Top-Shelf-Watch-Now-Apple-TV-screenshot.jpg)
 * Apple’s dedicated TV app on iPhone, iPad, iPod touch and Apple TV now supports Sony’s Crackle video-streaming service, in addition to content from Filmstruck and Freeform apps. The company’s support document highlighting the TV app was updated earlier in the morning to reflect these additions.

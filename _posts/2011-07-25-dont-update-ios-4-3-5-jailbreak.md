@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Warning- Don't Update to iOS 4.3.5 if You Care About Your Jailbreak
+title: Warning- Dont Update to iOS 4.3.5 if You Care About Your Jailbreak
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/09/Warning.png)
 * With the release of iOS 4.3.5 and 4.3.10 earlier today, I think it would be safe to remind you to stay away from the “update” button if you care about your jailbreak or unlock.

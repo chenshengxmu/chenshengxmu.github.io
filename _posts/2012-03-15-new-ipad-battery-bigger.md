@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New iPad takes "several hours" to charge due to bigger battery
+title: New iPad takes several hours to charge due to bigger battery
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/new-ipad-battery-shot.jpg)
 * For those of you wondering how Apple managed to keep the iPad’s legendary 10 hour battery life despite the addition of a Retina display and LTE technology, we’ve come across a good explanation: the battery is a lot bigger than its predecessors. Surprise!

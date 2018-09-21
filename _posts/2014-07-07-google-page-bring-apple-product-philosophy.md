@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's Page and Brin think Apple is doing too few products
+title: Googles Page and Brin think Apple is doing too few products
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/Khosla-Ventures-Google-interview-image-002.jpg)
 * Apple’s late co-founder Steve Jobs used to offer a nice word of advice to Google co-founder and boss Larry Page. “You guys are doing too much stuff,” he’d tell Page.

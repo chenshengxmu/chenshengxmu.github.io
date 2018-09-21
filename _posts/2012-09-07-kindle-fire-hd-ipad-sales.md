@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wall Street- Amazon's new Kindle Fire unlikely to hurt iPad Sales
+title: Wall Street- Amazons new Kindle Fire unlikely to hurt iPad Sales
 ---
 * Should Apple be nervous following Amazon introducing the Kindle Fire HD Thursday? No, says Wall Street. However, Google and Microsoft could be sweating bullets, analysts are telling investors Friday.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/Kindle-Fire-HD-two-up-front-portrat-landscape.jpg)

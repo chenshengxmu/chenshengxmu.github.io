@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple said to be 'scrambling' to make changes to IAP policies required by March 31
+title: Apple said to be scrambling to make changes to IAP policies required by March 31
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/in-app-purchase-fail.png)
 * In a settlement with the FTC earlier this year regarding a lawsuit over in-app purchases, Apple told the commission that it would issue refunds to those affected and modify its in-app billing system to make things more clear. The FTC agreed and gave the company until March 31, 2014 to make the changes.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 5 does little to improve Apple's standing in China
+title: iPhone 5 does little to improve Apples standing in China
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/iPhone-5-launch-in-China-001.jpg)
 * Even though Apple isn’t one to “blindly pursue market share”, China has risen to become its second biggest market in terms of revenue, right behind the United States. In fact, CEO Tim Cook is convinced that in the near future “China will become Apple’s largest market”. But despite recently introducing a new interest-free payment option and two million sales during the opening weekend, that wasn’t enough to curb China’s explosive growth of Android cheapos. And as price-sensitive shoppers continue to favor attractively-priced Android handsets over the pricey Apple smartphone, the iPhone 5 has done little in terms of moving the needle…

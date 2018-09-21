@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's breathtaking Piazza Liberty store in Milan with waterfall entrance to open July 26
+title: Apples breathtaking Piazza Liberty store in Milan with waterfall entrance to open July 26
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/05/Apple-Piazza-Liberty-image-002.jpg)
 * Apple has scheduled grand opening of its awesome new store at Piazza del Liberty in Milan, Italy on next Thursday, July 26. Among other things, the upcoming brick-and-mortar retail outlet features a waterfall entrance and Apple’s next-generation store design.

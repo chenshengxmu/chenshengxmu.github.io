@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Analyst- budget iPhone won't have Retina display
+title: Analyst- budget iPhone wont have Retina display
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/Budget-iPhone-Martin-Hajek-002.jpg)
 * Apple’s rumored less-expensive iPhone aimed at emerging markets won’t just shave costs by having a polycarbonate body instead of Unibody aluminum design, it is bound to have a standard-resolution screen rather than Apple’s Retina display, like other iDevices. That’s at least what one analyst wrote in a note to clients Friday, based on the often unreliable supply chain checks.

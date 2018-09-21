@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's op-chief- AI will transform healthcare
+title: Apples op-chief- AI will transform healthcare
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/Jeff-Williams.png)
 * Operations boss Jeff Williams is in Taipei today for the 30th anniversary of Apple’s key semiconductor foundry partner, Taiwan Semiconductor Manufacturing Company (TSMC), which fabricates the new A11 Bionic chip powering iPhone 8 and iPhone X.

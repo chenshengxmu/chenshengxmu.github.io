@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hands-on with Satechi's dual iPhone & Apple Watch charging stand
+title: Hands-on with Satechis dual iPhone & Apple Watch charging stand
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/Satechi-Dual-Smart-Charging-Station-CES-2018.jpg)
 * You’ve got plenty of dual charging options for your Apple Watch and iPhone out there, but Satechi has announced a new one here at CES 2018. We got an early look before it launches this year.

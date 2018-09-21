@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Springtomize 2' Has a Cover Flow Dock Feature Too
+title: Springtomize 2 Has a Cover Flow Dock Feature Too
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/Springtomize-2-Cover-Flow-e1326949192785.jpg)
 * While we’re on the subject of Cover Flow dock tweaks, let us not forget that Springtomize 2 has featured a similar tweak since its inception. True, it’s not exactly like Adam Bell’s Overflow tweak, but if you already own Springtomize 2 you might as well give it a shot.

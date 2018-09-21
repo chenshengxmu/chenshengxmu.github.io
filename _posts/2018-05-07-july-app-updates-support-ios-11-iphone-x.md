@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Starting in July, all app updates must support iOS 11 and iPhone X's Super Retina display
+title: Starting in July, all app updates must support iOS 11 and iPhone Xs Super Retina display
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/App-Store-Best-of-2017-iPhone.jpg)
 * Those ugly black bars in apps that don’t take advantage of the native iPhone X resolution?

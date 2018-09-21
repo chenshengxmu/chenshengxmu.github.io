@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple CEO praises employees for their 'incredible hard work and focus'
+title: Apple CEO praises employees for their incredible hard work and focus
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/Tim-Cook-holds-iPad-with-Katie-Cotton-Jacqui-Cheng.jpg)
 * Following up on yesterday’s record fiscal 2013 first-quarter earnings release (which, unsurprisingly, has failed to impress Wall Street), Apple CEO Tim Cook issued an email to employees last night. The internal communiqué congratulates employees on their performance as Cook thanks everyone on their “incredible hard work and focus” that has resulted in 75 million iDevice sales during the holiday quarter.

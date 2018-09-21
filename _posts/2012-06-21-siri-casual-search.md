@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Apple's casual search engine Siri is containing Google search on iOS
+title: How Apples casual search engine Siri is containing Google search on iOS
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Google-Search-for-iOS-iPhone-screenshot-004.jpg)
 * Steve Jobs used to defend his “thermonuclear” option against Android by stressing how Apple did not enter the search space while Google had decided to challenge the iPhone with its Android.

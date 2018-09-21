@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple shares 3 new 'Switch to iPhone' ads
+title: Apple shares 3 new Switch to iPhone ads
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/05/Siwtch-to-iPhone-ad.jpg)
 * Apple on Monday shared a trio of geeky ads that are part of its new campaign aimed at persuading Android users to make the leap to the iconic smartphone. Published on Apple’s official YouTube channel, the new mini-ads, running sixteen seconds each, promote the company’s ability to roll out important security fixes fast via iOS software updates.

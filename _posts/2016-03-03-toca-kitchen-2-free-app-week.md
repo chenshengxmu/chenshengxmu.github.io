@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Toca Kitchen 2 is Apple's new Free App of the Week
+title: Toca Kitchen 2 is Apples new Free App of the Week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/Toca-Kitchen-2-for-iOS-iPhone-screenshot-001.jpeg)
 * Apple’s in-house editors have selected Toca Boca’s Toca Kitchen 2, the official sequel to the wildly popular Toca Kitchen, as a new Free App of the Week on the App Store. Retailing for $2.99, this universal app is now available at no charge for a week, until next Thursday, March 10, 2016.

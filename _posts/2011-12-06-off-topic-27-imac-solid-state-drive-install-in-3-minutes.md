@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Off Topic- 27" iMac Solid State Drive Install in 3 Minutes!
+title: Off Topic- 27 iMac Solid State Drive Install in 3 Minutes!
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/iMac-SSD-Install.jpg)
 * As you guys may know, my main job at iDownloadBlog is to create videos for everything from tweak and app reviews, to product reviews. Millions of people have watched our videos, and the amount of subscribers grow each day.

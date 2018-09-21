@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why we'll finally see LTE technology in the iPhone and iPad this year
+title: Why well finally see LTE technology in the iPhone and iPad this year
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/ipad-3g.jpg)
 * Yesterday morning, my friend and colleague Oliver Haslam laid out an interesting case for why he believes, despite overwhelming evidence, that Apple won’t implement LTE technology into any of its mobile products this year.

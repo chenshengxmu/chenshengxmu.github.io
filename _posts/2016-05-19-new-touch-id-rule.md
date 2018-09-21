@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's new Touch ID rule requires you to enter passcode more often than before
+title: Apples new Touch ID rule requires you to enter passcode more often than before
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/Resized-PasscodeTime.jpg)
 * Has your iPhone or iPad been asking you to enter your passcode after you wake up, even though you normally used to unlock it with Touch ID?

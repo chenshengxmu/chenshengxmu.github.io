@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Samsung ad mocks iPhone throttling, but it's deceiving and doesn't make much sense
+title: New Samsung ad mocks iPhone throttling, but its deceiving and doesnt make much sense
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/05/Samsung-ad-iPhone-throttling.jpg)
 * Relentlessly mocking Apple at every turn, Samsung’s created a frivolous anti-iPhone ad.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The 5K LG UltraFine is the external display Apple didn't want to make
+title: The 5K LG UltraFine is the external display Apple didnt want to make
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/lg-5k-1.png)
 * During its ‘hello again’ event on Thursday, Apple showed off a new 27-inch 5K LG UltraFine display. SVP Phil Schiller described it as the “ultimate docking station” because it has multiple Thunderbolt 3 ports, and can even charge the new MacBook Pro.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Alto's Odyssey will take a while longer
+title: Altos Odyssey will take a while longer
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/Altos-Odyssey-teaser.jpg)
 * Alto’s Odyssey, a much anticipated sequel to the award-winning endless snowboarding odyssey, Alto’s Adventure, has been delayed a little because the team is going to need “a while longer” to bring the game to life, developer Snowman’s Ryan Cash told iDownloadBlog today.

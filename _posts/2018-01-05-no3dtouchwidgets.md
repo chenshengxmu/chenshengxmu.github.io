@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No3DTouchWidgets hides app widgets from iOS' Quick Action menus
+title: No3DTouchWidgets hides app widgets from iOS Quick Action menus
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/no3dtouchwidgets1.jpg)
 * Quick Actions are the menus accessible from the Home screen with a 3D Touch gesture on any app icon (iPhone 6s or newer). They not only contain shortcuts to vital app functions but they sometimes host widgets that summarize information from that particular app.

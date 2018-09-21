@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Claimed 'iPhone 7 Pro' shown on newly leaked photos
+title: Claimed iPhone 7 Pro shown on newly leaked photos
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/07/iPhone-7-Plus-image-001.jpg)
 * Dutch blog iPhoneabonnementen.com re-posted Monday some interesting new photos that allegedly show off a three-model iPhone 7 lineup consisting of the claimed ‘iPhone 7’, ‘iPhone 7 Plus’ and ‘iPhone 7 Pro’ models. The images were originally posted on Chinese social network Weibo by an unknown source and should be taken with a grain of salt.

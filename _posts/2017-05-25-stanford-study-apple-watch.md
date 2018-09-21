@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stanford study praises Apple Watch's heart rate monitoring, calorie counting needs more work
+title: Stanford study praises Apple Watchs heart rate monitoring, calorie counting needs more work
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/Apple-Watch-nike-plus-running-woman.jpg)
 * A new medical study from Stanford University focusing on consumer fitness tracker reliability, published Wednesday in the Journal of Personalized Medicine, has crowned Apple Watch the king of heart rate monitoring while pointing out shortcomings in its calorie counting feature.

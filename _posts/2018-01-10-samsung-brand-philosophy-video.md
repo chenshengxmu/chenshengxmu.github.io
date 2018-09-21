@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung's nicely done brand philosophy video says “Do What You Can't” isn't just a slogan
+title: Samsungs nicely done brand philosophy video says “Do What You Cant” isnt just a slogan
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/Samsung-brand-philosophy-ad-001.jpg)
 * Samsung has been using its “Do What You Can’t” tagline in Galaxy advertising since about a year ago and it’s been working out nicely for them. The company wants customers to realize that “Do What You Can’t” is what they do every day, not just a marketing slogan, so they’ve put together an impressive brand philosophy video.

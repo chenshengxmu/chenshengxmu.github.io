@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New report claims Apple launching 55" and 65" 4K TV sets in 2014
+title: New report claims Apple launching 55 and 65 4K TV sets in 2014
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/iTV-mockup-AllThingsD-004.jpg)
 * Apple may not be ready to introduce its TV set at today’s iPad event, but the project does appear to be nearing completion. This according to comments made by Advanced Research’s Masahiko Ishino, in a recent interview with Bloomberg.

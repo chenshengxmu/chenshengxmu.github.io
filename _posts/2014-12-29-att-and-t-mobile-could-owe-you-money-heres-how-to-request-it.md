@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T and T-Mobile could owe you money - here's how to request it
+title: AT&T and T-Mobile could owe you money - heres how to request it
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/20110321_att-tmobile_33.jpg)
 * The FCC negotiated settlements with both T-Mobile and AT&T over mobile “cramming”, an act carriers know all too well by sneaking recurring monthly charges onto your bill through ringtones, trivia, horoscopes and more.

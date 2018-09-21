@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Benchmarks put iPad Pro's A9X chip roughly on par with Intel's 2013 Core i5
+title: Benchmarks put iPad Pros A9X chip roughly on par with Intels 2013 Core i5
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/ipad-pro-a9x.png)
 * The powerful Apple-designed ‘A9X’ system-on-a-chip—the engine that drives the iPad Pro—outperforms its predecessor inside the iPad Air 2 by a large margin while offering approximately the same performance as Intel’s Core i5 processor for notebooks from 2013.

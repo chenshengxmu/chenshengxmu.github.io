@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What's AT&T Stream Saver and how to turn it off?
+title: Whats AT&T Stream Saver and how to turn it off?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/03/att-stream-saver.jpg)
 * Stream Saver is a new feature from AT&T that allows users to save cellular data by automatically streaming higher definition videos at a standard definition (480p). This feature has now officially been rolled out to all AT&T customers that are on a voice + data plan.

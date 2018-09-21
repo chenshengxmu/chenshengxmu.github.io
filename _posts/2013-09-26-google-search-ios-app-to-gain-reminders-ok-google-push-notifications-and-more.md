@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Search app gaining Reminders, 'OK Google' activation, push notifications and more
+title: Google Search app gaining Reminders, OK Google activation, push notifications and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/iPhone-Triptych-Clear-Background.png)
 * Google today invited a bunch of reporters to a garage where the Internet giant started it all, a convenient setting given Google Search turns fifteen tomorrow.

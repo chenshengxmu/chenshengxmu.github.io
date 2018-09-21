@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Breakthrough" Liquidmetal Apple gadget at least 5 years away
+title: Breakthrough Liquidmetal Apple gadget at least 5 years away
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Atakan-Peker-medium.jpg)
 * Apple’s love for new materials and its penchant for innovative manufacturing processes is well documented and evident in shiny products it builds.

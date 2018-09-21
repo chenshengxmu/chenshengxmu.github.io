@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twelve South launches BookBook and SurfacePad cases for 9.7" iPad Pro
+title: Twelve South launches BookBook and SurfacePad cases for 9.7 iPad Pro
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/08/Twelve-South-Book-Book-SurfacePad-iPad-Pro-teaser-001.jpeg)
 * Premium accessory maker Twelve South today added a new 9.7″ iPad Pro-optimized member to its vintage-style Book Book cases, three months following Book Book for 12.9-inch iPad Pro that debuted in early-summer. The company also said that customers can now pick up Surface Pad covers for their 9.7-inch iPad Pro. The new Book Book for the 9.7-inch tablet is priced at $79.99, or $99.99 for the Rutledge Edition.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple won't use Samsung screens for iPad 5 and iPad mini 2
+title: Apple wont use Samsung screens for iPad 5 and iPad mini 2
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/iPad-3-iPhoto-teaser.jpg)
 * In another hint of Apple distancing itself from Samsung by procuring crucial gadget components from alternative suppliers, we hear the Cupertino firm may have already dropped Samsung entirely as the maker of next-gen panels for a fifth-generation iPad and a second-generation iPad mini.

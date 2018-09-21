@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AltKeyboard 2' is a great sequel to the original keyboard enhancing tweak
+title: AltKeyboard 2 is a great sequel to the original keyboard enhancing tweak
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/AltKeyboard-2-02.png)
 * AltKeyboard 2 is a follow-up to the uber-popular A3tweaks release, AltKeyboard. It is perhaps only surpassed in expectation by the brand’s Auxo 2, which released earlier this year to much anticipation.

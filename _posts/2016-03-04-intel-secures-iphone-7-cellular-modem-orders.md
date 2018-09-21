@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Intel has reportedly secured orders for a 'significant portion' of iPhone 7 cellular modems
+title: Intel has reportedly secured orders for a significant portion of iPhone 7 cellular modems
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/02/iPhone-5se-iPhone-7-concept-Curved-image-002.jpg)
 * Chip giant Intel has secured orders for a “significant portion” of cellular modems on Apple’s upcoming iPhone 7, according to a note CLSA Securities analyst Srini Pajjuri sent to clients, a copy of which was obtained by NDTV.

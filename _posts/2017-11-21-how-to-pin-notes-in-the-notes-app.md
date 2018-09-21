@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to pin notes in Apple's Notes app
+title: How to pin notes in Apples Notes app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/iOS-11-pin-note-.png)
 * We’re over the hump for another year. The shiny 2017 iPhones have been released and as has the software for the next 12 months. With the excitement slowly reverting back to normal levels, it is a good time to peel the attention-stealing layers off the new offerings and explore features arguably more low-key, however inarguably still valuable.

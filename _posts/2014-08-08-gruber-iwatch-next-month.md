@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple could announce its "wrist wearable thing" next month, says Gruber [updated]
+title: Apple could announce its wrist wearable thing next month, says Gruber [updated]
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/iWatch-concept-All-Todd-Hamilton-001.png)
 * Apple may unveil its so-called iWatch sooner than expected, according to Daring Fireball’s John Gruber. In a new blog post this afternoon, the well-connected Apple pundit casually mentions that the Cupertino company plans to announce its “wrist wearable thing” next month.

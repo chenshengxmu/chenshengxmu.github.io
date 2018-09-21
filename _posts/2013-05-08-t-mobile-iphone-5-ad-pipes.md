@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile's new iPhone 5 ad uses 'Intertubes' metaphor
+title: T-Mobiles new iPhone 5 ad uses Intertubes metaphor
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/T-Mobile-iPhone-5-d-Pipe.jpg)
 * In his now legendary attempt to criticize an amendment that would have prohibited service providers from charging for a tiered Internet structure, former Alaskan Senator Ted Stevens in 2006 likened the web to a series of tubes. “The Internet is not a big truck,” he famously said, “It’s a series of tubes.”

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Infinity Blade is Epic's most lucrative game ever
+title: Infinity Blade is Epics most lucrative game ever
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Infinity-Blade-II-iPad-screnshot-001-e1337876272283.jpg)
 * According to Epic Games CEO Tim Sweeney, the iOS-exclusive Infinity Blade series is his company’s most profitable game ever. And for the sake of meme completeness, Infinity Blade is more profitable than Epic Games’ Gears of War, a lucrative military sci-fi shooter franchise for the Xbox and Windows platforms. Which is saying a lot considering Gears of War cost $10 million to develop…

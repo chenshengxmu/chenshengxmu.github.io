@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Put Product Hunt right in your Mac's menu bar
+title: Put Product Hunt right in your Macs menu bar
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/04/Product-Hunt-for-iOS-Mac-teaser-001.png)
 * Product Hunt, the popular Y Combinator-backed service that lets users share and discover new products, earlier this month unveiled a thoroughly revamped iPhone and iPad application that puts fun back into product discovery.

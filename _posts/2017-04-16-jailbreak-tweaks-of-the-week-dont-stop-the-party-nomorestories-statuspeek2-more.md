@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jailbreak tweaks of the week- Don't Stop the Party!, NoMoreStories, StatusPeek2, & more...
+title: Jailbreak tweaks of the week- Dont Stop the Party!, NoMoreStories, StatusPeek2, & more...
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/Tweaks-of-the-week.jpg)
 * Those of you clinging onto that iOS 10 jailbreak wall want to hold onto it a bit longer. There’ve have been some neat jailbreak tweak releases these past couple of weeks and every Sunday we come at you with a roundup, showcasing the best of the week.

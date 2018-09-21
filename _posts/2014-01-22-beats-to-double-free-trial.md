@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beats offers to double length of free 'Music' trial following launch problems
+title: Beats offers to double length of free Music trial following launch problems
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/beats.jpg)
 * Earlier this week, Beats launched its highly anticipated streaming music service dubbed Beats Music. The service is entering into a crowded marketplace, several years late, but it hopes to differentiate itself from the Rdios and Spotifys with custom in-house curation methods.

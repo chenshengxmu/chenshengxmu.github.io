@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Siri says she can speak Japanese even though she can't yet
+title: Siri says she can speak Japanese even though she cant yet
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/Siri-Japanese.jpg)
 * Last week we told you about a rumor that Siri might be available in Chinese, Japanese, Russian and other languages soon, which Apple had already promised on their Siri support page.

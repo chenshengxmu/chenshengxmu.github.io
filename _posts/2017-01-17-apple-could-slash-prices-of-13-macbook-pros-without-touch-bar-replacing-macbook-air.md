@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple could slash prices of 13" MacBook Pros without Touch Bar, replacing MacBook Air
+title: Apple could slash prices of 13 MacBook Pros without Touch Bar, replacing MacBook Air
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/hello-again-event-macbook-pro-prices.jpg)
 * KGI Securities analyst Ming-Chi Kuo has called for updated MacBook and MacBook Pro notebooks this year with Intel’s latest Kaby Lake processors and a 32-gigabyte RAM option on 15-inch Pros. According to a Chinese-language Economic Daily News report cited by DigiTimes, Apple is likely to slash prices of 13-inch Pros without Touch Bar to increase its overall shipments in 2017.

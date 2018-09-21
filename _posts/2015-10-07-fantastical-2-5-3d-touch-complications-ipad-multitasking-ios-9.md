@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fantastical gains iOS 9's productivity-enhancing features, Apple Watch complication and more
+title: Fantastical gains iOS 9s productivity-enhancing features, Apple Watch complication and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/10/Fantastical-2.5-for-iOS-Slide-Over-iPad-screenshot-001.png)
 * Hot off the heels of its big Mac update, developer Flexibits today issued an update to Fantastical for iPad, iPhone and Apple Watch. The new software takes advantage of the new productivity-enhancing features provided by iOS 9 and watchOS 2.

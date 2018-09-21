@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NYT music reporter claims Apple won't be acquiring Tidal after all
+title: NYT music reporter claims Apple wont be acquiring Tidal after all
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/tidal-share.239a2bdc.png)
 * The Wall Street Journal ran a story yesterday claiming that Apple was in “exploratory talks” to acquire music service Tidal, which rap mogul Jay-Z bought in March 2015 for a reported $56 million.

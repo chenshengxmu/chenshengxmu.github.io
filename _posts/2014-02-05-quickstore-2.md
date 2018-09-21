@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to open App Store links without leaving the app you're currently in
+title: How to open App Store links without leaving the app youre currently in
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/QuickStore-2.png)
 * When you tap on an app link on your iPhone or iPad using Safari or otherwise, you are automatically redirected to the App Store to make a download or learn more details. The transition is rather cumbersome, however, as it is essentially a two-step process that requires you to return to the app you were originally using via the Home screen or multitasking menu.

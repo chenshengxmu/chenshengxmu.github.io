@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Claimed 'iPhone 5' engineering samples surface
+title: Claimed iPhone 5 engineering samples surface
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/iphone-5-front-1-e1341951072136.jpeg)
 * It seems like it’s been a while since we’ve heard any new information regarding the next-generation iPhone. The rumor mill has been chock-full of iPad Mini talk, but nothing regarding the highly-anticipated handset.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple to launch 'Back to School' promotion this week, include iPhone for first time
+title: Apple to launch Back to School promotion this week, include iPhone for first time
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/07/ipad-classroom-e1312055976233.jpg)
 * Multiple sites are reporting this morning that Apple is set to launch its annual ‘Back to School’ promotion in the United States, and several other countries this week. In fact, the popular sale could kick off as soon as tomorrow.

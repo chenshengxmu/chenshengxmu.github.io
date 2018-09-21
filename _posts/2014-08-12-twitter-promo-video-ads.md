@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twitter announces beta test of new 'Promoted Video' ads
+title: Twitter announces beta test of new Promoted Video ads
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/2012-Twitter-logo.jpg)
 * Twitter has announced today that it is moving forward with its ‘Promoted Video’ ad project. The site has been testing Twitter Video Cards for several months now, and the results show that Tweets containing native video generate better engagement and more video views than other types of ads.

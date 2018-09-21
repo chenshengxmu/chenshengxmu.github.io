@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's Ashton Kutcher playing Steve Jobs
+title: Heres Ashton Kutcher playing Steve Jobs
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/Jobs-Get-Inspired-movie.jpg)
 * TMZ, a celebrity news site, just posted a set of nice photos depicting actor Ashton Kutcher dressed in Apple’s late co-founder Steve Jobs’ classic attire.

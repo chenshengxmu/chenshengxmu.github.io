@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here come the first ads for Apple's new iPad Pro
+title: Here come the first ads for Apples new iPad Pro
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/iPad-Pro-ad-image-001.jpg)
 * With the new 10.5-inch iPad Pro now official, Apple posted a pair of brand new ads on its official YouTube channel as part of its ongoing “Real problems…answered” campaign. Titled “So many things to love” and “A whole new kind of computer,” the videos are running 16 seconds long each and position the new 10.5-inch iPad Pro as a viable alternative to your computer.

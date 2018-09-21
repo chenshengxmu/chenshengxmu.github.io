@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PanguTeam confirms it's working on iOS 8 jailbreak
+title: PanguTeam confirms its working on iOS 8 jailbreak
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/iOS-8-on-iPhone-5s1.png)
 * Good news for those of you missing out on today’s iOS 8 festivities in order to save your jailbreak, the PanguTeam says it’s on the case. As part of a PSA yesterday to remind users to jailbreak while still possible, the team confirmed it has already begun work on hacking the new firmware.

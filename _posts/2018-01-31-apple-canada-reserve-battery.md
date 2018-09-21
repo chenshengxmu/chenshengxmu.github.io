@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Canadian customers can now reserve iPhone batteries from Apple's website
+title: Canadian customers can now reserve iPhone batteries from Apples website
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/Apple-Canada-reserve-iPhone-battery.png)
 * Apple is trialing a new system, currently limited to its Canadian customers, that makes it easier for people to reserve a replacement battery for their iPhone through the support website.

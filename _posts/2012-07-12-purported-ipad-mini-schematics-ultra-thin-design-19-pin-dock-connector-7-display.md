@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPad mini schematics- ultra-thin body, 19-pin dock connector, 7" display
+title: iPad mini schematics- ultra-thin body, 19-pin dock connector, 7 display
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/iPad-mini-schematics-ThinkiOS-001.png)
 * An alleged iPad mini case mold got leaked out two days ago, showing a smaller dock connector. This morning, a purported schematics depicting an iPad mini has hit the web. According to ThinkiOS (via 9to5Mac), these drawings confirm whispers that the iPad mini will sport a seven-inch display and a brand new 19-pin dock connector instead of the regular 30-pin dock connector.

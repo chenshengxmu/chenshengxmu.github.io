@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's fitness guru talks Breathe app and bringing meditation to your wrist
+title: Apples fitness guru talks Breathe app and bringing meditation to your wrist
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/Apple-Watch-Breathe.png)
 * Jay Blahnik, Apple’s Director of Fitness and Health technologies who was a Nike contract athlete and consultant for over eighteen years, sat down with BuzzFeed News reporter Stephanie Lee three days ago to discuss an interesting addition to the Apple Watch’s arsenal of health-focused software technologies: the new Breathe app in watchOS 3.

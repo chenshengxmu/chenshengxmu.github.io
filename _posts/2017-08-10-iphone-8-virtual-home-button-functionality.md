@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 8's virtual Home button is resizable, shows/hides as needed & more
+title: iPhone 8s virtual Home button is resizable, shows/hides as needed & more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/iPhone-8-Home-button-concept-Max-Rudberg.png)
 * iOS developer Steven Troughton-Smith dug up some interesting code strings from HomePod’s version of iOS that may potentially provide valuable insight into iPhone 8’s virtual Home button.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video walkthroughs offer detailed look at CarPlay on Pioneer's $700 AVH-4000NEX receiver
+title: Video walkthroughs offer detailed look at CarPlay on Pioneers $700 AVH-4000NEX receiver
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/Pioneer-AVIC-8000NEX-with-CarPlay.jpg)
 * Though we’ve seen our fair share of CarPlay demos in months past, we still can’t get enough of learning about the intricacies of Apple’s in-car iPhone entertainment system. You may have head that Pioneer recently released a firmware update bringing CarPlay functionality to five of its 2014 NEX in-dash multimedia receivers, so people don’t have to buy a brand new car just to enjoy CarPlay.

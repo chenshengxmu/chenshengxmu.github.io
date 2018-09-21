@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple executive explains why iMessage isn't on other platforms
+title: Apple executive explains why iMessage isnt on other platforms
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/iOS-10-Messages-teaser-001.jpg)
 * In a broad reflective piece on Apple’s WWDC keynote, noted tech journalist Walt Mossberg made some interesting comments regarding a recent rumor that Apple was considering bringing its iMessage service to Android. Turns out that isn’t happening, and won’t be in the near future.

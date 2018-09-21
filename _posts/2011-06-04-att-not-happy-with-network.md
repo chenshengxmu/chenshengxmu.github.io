@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T- We're Not Happy With Our Network
+title: AT&T- Were Not Happy With Our Network
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/att-with-logo.jpeg)
 * The chief executive of AT&T wireless, Ralph De La Vega, stated that the nation’s largest carrier wasn’t “happy” with its network. In an interview at the All Things Digital conference, Ralph De La Vega talked about how AT&T is trying to “reduce static” with its customers and help build a more reliable wireless network.

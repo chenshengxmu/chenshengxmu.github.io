@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple adds 'in-app purchase' warning to freemium apps
+title: Apple adds in-app purchase warning to freemium apps
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/in-app-purchase-warning.png)
 * Apple today has added a new ‘Offers In-App Purchases’ warning in the description of App Store apps that utilize the feature. The new disclosure can be seen in the App Store, located just beneath the Buy/Free button of pertinent applications.

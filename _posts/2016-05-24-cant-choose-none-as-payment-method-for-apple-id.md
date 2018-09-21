@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Can't remove your payment info from your Apple ID? Here's why
+title: Cant remove your payment info from your Apple ID? Heres why
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/04/Screen-Shot-2016-04-19-at-12.45.38-AM.png)
 * Not everyone wants to have their credit card or debit card linked to their Apple ID. Some people are afraid of having their financial information tied to online merchants and digital content stores because of the unfortunate reality of identity theft and unauthorized purchases.

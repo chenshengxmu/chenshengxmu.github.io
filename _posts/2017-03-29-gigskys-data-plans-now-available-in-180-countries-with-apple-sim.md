@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GigSky's data plans now available in 180+ countries with Apple SIM
+title: GigSkys data plans now available in 180+ countries with Apple SIM
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/03/GigSky-iPad.jpeg)
 * GigSky is now offering its data plans in over 180 countries on Apple SIM, plus great new pricing, the company announced Tuesday. GigSky in the summer of 2016 expanded its service to more than 140 countries worldwide, meaning their affordable mobile data plans for iPad users with Apple SIM are now available in about 40 new markets versus last summer.

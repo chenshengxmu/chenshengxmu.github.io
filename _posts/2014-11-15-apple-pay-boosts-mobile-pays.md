@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Pay accounts for 50% of McDonald's tap-to-pay transactions
+title: Apple Pay accounts for 50% of McDonalds tap-to-pay transactions
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/apple-pay1.png)
 * The New York Times reported on Friday that Apple Pay now accounts for 50% of the tap-to-pay transactions at all of McDonald’s 14,000 US stores. Additionally, the outlet claims that Walgreens’ mobile payments at its 8,000+ stores have doubled since the service launched.

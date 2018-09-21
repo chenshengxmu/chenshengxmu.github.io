@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's rumored TV service to include local stations, likely won't launch by early fall
+title: Apples rumored TV service to include local stations, likely wont launch by early fall
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/iTV-concept-iTV-or-Apple-TV-Martin-Hajek-001.jpg)
 * Apple’s rumored television services hinges on the company’s ability to sign complex agreements that would permit it to include live programming from local stations, Re/code reported Friday.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple launches 'Takeback Program' for third-party USB power adapters
+title: Apple launches Takeback Program for third-party USB power adapters
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Apple-USB-Power-Adapter.jpg)
 * In light of recent events involving the safety of third-party chargers for iOS devices, Apple has launched a new trade-in program for all unauthorized USB power adapters. The company made the announcement on its support site this afternoon.

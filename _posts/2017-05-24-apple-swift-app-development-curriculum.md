@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Download Apple's new Swift app development curriculum from iBooks Store
+title: Download Apples new Swift app development curriculum from iBooks Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/05/Swift-app-development-UI-kit-MAc-screenshot-007.jpg)
 * Apple on Wednesday announced a new app development curriculum targeting U.S. high school and college students who are eager to learn the secrets of mobile app development with the Swift programming language.

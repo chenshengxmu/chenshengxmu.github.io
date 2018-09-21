@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's your iPhone X unboxing video
+title: Heres your iPhone X unboxing video
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/iPhone-X-unboxing-video.png)
 * Aside from a video showing the Face ID setup process on an iPhone X, another seemingly Apple-sanctioned clip popped up on YouTube last weekend documenting device unboxing.

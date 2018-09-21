@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review- the Nexus 9 from an iPad user's perspective
+title: Review- the Nexus 9 from an iPad users perspective
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/nexus-9-05.png)
 * As someone who no longer personally owns an iPad, it was great to finally get back into the tablet game with the adoption of a Nexus 9 from Google. I know some of you probably think I’ve lost it as of late, or I’m simply pulling a classic Jeff move, but hear me out.

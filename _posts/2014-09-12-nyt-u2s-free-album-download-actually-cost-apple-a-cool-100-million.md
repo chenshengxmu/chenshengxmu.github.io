@@ -1,6 +1,6 @@
 ---
 layout: post
-title: U2's “free” album download cost Apple $100 million, other projects with U2 on the way
+title: U2s “free” album download cost Apple $100 million, other projects with U2 on the way
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/u2.png)
 * As people continue to freak out over Apple’s forced iTunes download of U2’s new album titled “Songs of Innocence,” the New York Times newspaper has learned from sources that the value of the arrangement between the iPhone maker and the aging Irish rock band is in the ballpark of $100 million.

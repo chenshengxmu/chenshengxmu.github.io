@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Apple's transition to larger-screened iPhones...
+title: On Apples transition to larger-screened iPhones...
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/iPhone-6-mockup-Settings-Sam-Beckett-001.png)
 * We’ve seen our fair share of the supposedly leaked technical drawings, front panel parts, third-party cases and manufacturing molds concerning Apple’s next iPhone, but what about bigger-screened apps?

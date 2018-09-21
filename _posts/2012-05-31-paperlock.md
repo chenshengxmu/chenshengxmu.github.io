@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PaperLock adds yet another mod to your iPhone's Home screen
+title: PaperLock adds yet another mod to your iPhones Home screen
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/PaperLock_1.jpg)
 * PaperLock, like Unfold, and Unlockize before it, adds another “slide to unlock” modification to your iPhone’s Lock screen. PaperLock — as its name not so subtly implies — is a tweak that lends a paper-like “page turning” look to your iPhone, similar to what you see when you turn a page in iBooks.

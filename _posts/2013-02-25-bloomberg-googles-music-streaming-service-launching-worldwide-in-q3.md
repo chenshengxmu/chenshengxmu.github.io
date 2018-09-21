@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bloomberg- Google's music streaming service launching worldwide in Q3
+title: Bloomberg- Googles music streaming service launching worldwide in Q3
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/05/musicbeta-e1305050005344.jpg)
 * Piggy-backing on last week’s reports by The Wall Street Journal and Financial Times asserting Google’s been looking to enhance its Music service with streaming features akin to those of Spotify, Bloomberg today learned from its own sources that the service is likely targeted for a third quarter start. What’s more, Google is reportedly planning to release this as a worldwide offering from the get-go.

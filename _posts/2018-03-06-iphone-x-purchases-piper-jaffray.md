@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You could've probably guessed top reasons some people haven't purchased iPhone X
+title: You couldve probably guessed top reasons some people havent purchased iPhone X
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/ElevationDock-4-for-iPhone-Works-One-Handed-Review.jpg)
 * Piper Jaffray analyst Michael Olson yesterday shared a new 1,500 person study he performed as to why people opted not to purchase a new iPhone. The results aren’t particularly surprising, noting three primary reasons for the hold off.

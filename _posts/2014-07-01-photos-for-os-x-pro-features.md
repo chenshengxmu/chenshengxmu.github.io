@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Photos for Mac won't be dumbed down, says Apple
+title: Photos for Mac wont be dumbed down, says Apple
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/Photos-for-OS-X-screenshot-001.jpg)
 * Apple’s surprise announcement that it will cease development of its Aperture app in favor of Photos for OS X Yosemite has left watchers scratching their head. There’s also the problem of prosumers and iPhone photography enthusiasts, many of whom have grown dependent on Aperture workflows.

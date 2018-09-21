@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First day Nexus 7 sales prove there's a demand for smaller tablets
+title: First day Nexus 7 sales prove theres a demand for smaller tablets
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/7-inch-tablets.jpg)
 * Proponents of the idea that Apple won’t make an “iPad Mini” due to the lack of demand for smaller tablets, may want to rethink their position. Several major retailers are reporting lightning fast sellouts of Nexus 7 stock.

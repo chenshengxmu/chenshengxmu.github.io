@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook spotted at Valve's headquarters
+title: Tim Cook spotted at Valves headquarters
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/valve-hq.jpg)
 * This is kind of interesting, AppleInsider is reporting that Apple’s CEO Tim Cook was spotted at Valve’s Bellevue, Washington headquarters this morning.

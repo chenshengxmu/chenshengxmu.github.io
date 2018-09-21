@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Early CPU scores suggest modest gains for iPhone 7's A10 chip vs. iPad Pro's A9X
+title: Early CPU scores suggest modest gains for iPhone 7s A10 chip vs. iPad Pros A9X
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/07/A10-Geekbench-early-benchmarks-TechTastic-001.png)
 * Early Geekbench 3 benchmark of the Apple-designed A10 system-on-a-chip—which will be the next iPhone and iPad’s engine—was posted Thursday by Dutch blog TechTastic.nl. Purported scores suggest the device may not be much speedier than the iPhone 6s and iPad Pro. The upcoming chip scored a tad more than last year’s A9 powering the iPhone 6s series and a little bit faster than the A9X in the iPad Pro.

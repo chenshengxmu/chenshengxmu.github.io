@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twitter expands ads into "Following" list, drama unfolds
+title: Twitter expands ads into Following list, drama unfolds
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/twitter-ad-api.jpg)
 * Twitter has ramped up the use of advertising within its mobile apps – this time in your “Following” list. Go ahead and take a look, you might find some brands or people showing up on the list, even if you don’t follow them.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Belkin's new QODE Thin Type keyboard case for iPad Air now available
+title: Belkins new QODE Thin Type keyboard case for iPad Air now available
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/Belkin-Qode-Thin-Type-3_4-with-tablet.jpg)
 * Good news for iPad Air owners this afternoon. Belkin’s QODE Thin Type keyboard, which was first announced last October, is now available for Apple’s newest full-sized tablet. The QODE joins the Logitech Ultrathin and just a handful of others in the ultra-slim iPad keyboard space.

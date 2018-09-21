@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 6 said to replace Google Maps with Apple's own cutting-edge 3D Maps
+title: iOS 6 said to replace Google Maps with Apples own cutting-edge 3D Maps
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/C3-Technologies-3D-mpa-of-New-York-City.jpg)
 * If a new rumor is to be believed, iOS 6 – the next major release of Apple’s iOS operating system powering the iPhone, iPod touch and iPad – will forgo Google Maps in favor of Apple’s in-house mapping service based on incredible 3D maps. The headline new feature will still be called Maps.

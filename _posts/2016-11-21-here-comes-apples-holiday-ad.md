@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here comes Apple's holiday ad
+title: Here comes Apples holiday ad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/11/Screen-Shot-2016-11-21-at-16.08.00.jpg)
 * Apple just aired a brand new holiday-themed television commercial through its channel on YouTube. Titled “Frankie’s Holiday,” the cinematic video runs two minutes long and depicts an unexpected holiday visitor who finally receives the “warm welcome he’s always yearned for.” The unexpected visitor is Frankenstein himself, who happens to be an iPhone 7 user.

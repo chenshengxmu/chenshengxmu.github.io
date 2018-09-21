@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Angry Birds Space goes free as Apple's App of the Week
+title: Angry Birds Space goes free as Apples App of the Week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/Angry-Birds-Space.jpg)
 * It’s pretty mind-boggling to think about what the folks at Rovio have done with the Angry Birds franchise. What started out as just a simple game has turned into a multimedia empire complete with its own clothing line, TV show, and feature film.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone X's OLED screen uses a different pixel arrangement from prior iPhones
+title: iPhone Xs OLED screen uses a different pixel arrangement from prior iPhones
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/iPhone-X-flat-side.jpeg)
 * Something early iPhone X reviewers have noticed but Apple only briefly mentioned during the September event: iPhone X uses a different pixel layout from all iPhone models before it.

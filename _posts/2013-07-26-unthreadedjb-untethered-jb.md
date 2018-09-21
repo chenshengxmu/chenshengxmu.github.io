@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'UnthreadedJB' untethered jailbreak released for CDMA iPhone 4 on iOS 5.1
+title: UnthreadedJB untethered jailbreak released for CDMA iPhone 4 on iOS 5.1
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/unthreaded-jailbreak.png)
 * Make sure you read that title very carefully before you get too excited. Yes, there’s a new jailbreak out, and yes, it’s untethered. But odds are, you’re not going to fit its compatibility requirements. It only works for CDMA versions of the iPhone 4, and the app only runs on Linux.

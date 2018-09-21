@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yosemite's Handoff feature may not be compatible with all Macs
+title: Yosemites Handoff feature may not be compatible with all Macs
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/OS-X-Yosemite-Handoff-Mac-iPad-001.jpg)
 * Handoff, arguably the coolest feature of the upcoming OS X 10.10 Yosemite, may not be available to all Mac users. In case you’re not familiar with Handoff, it’s part of Continuity, a new feature designed for seamless transitioning between iOS devices and Macs.

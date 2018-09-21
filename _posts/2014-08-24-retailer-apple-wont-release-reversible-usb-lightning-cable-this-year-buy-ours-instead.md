@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Retailer- Apple won't release reversible USB Lightning cable this year, buy ours instead
+title: Retailer- Apple wont release reversible USB Lightning cable this year, buy ours instead
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/IMG_1168.jpg)
 * Third-party retailer Moca.co claims Apple doesn’t have plans to release a reversible Lightning USB cable with the upcoming iPhone 6, or even in 2014, throwing a wrench in recent Apple rumors.

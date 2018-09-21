@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Facebook's secretive hardware lab working on a video chat device
+title: Facebooks secretive hardware lab working on a video chat device
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/FAcebook-F8-2017-Mark-Zuckerberg-roadmap.jpg)
 * In addition to an upcoming HomePod rival with a fifteen-inch screen, Facebook’s secretive “Building 8” hardware lab is also supposedly working on a dedicated video chat device for the home that would make it seem like people are in the same room, according to Bloomberg’s sources who spoke with reporters Mark Gurman and Sarah Frier.

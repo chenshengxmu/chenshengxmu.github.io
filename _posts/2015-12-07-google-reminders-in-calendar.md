@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You can now add to-dos to Google's Calendar app using a new Reminders feature and 3D Touch
+title: You can now add to-dos to Googles Calendar app using a new Reminders feature and 3D Touch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/12/Google-Calendar-Reminders-teaser-001.png)
 * Google’s standalone Calendar app was released in the App Store in March of 2105 and today the software is getting some interesting new features: Reminders, 3D Touch support and a cool Star Wars skin for those who have opted to join either the Dark or Light side of the Force at google.com/starwars. Reminders in Google Calendar make it easier to keep track of your to-dos alongside your events—in one place, no need to juggle between different apps.

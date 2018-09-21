@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Latest macOS Sierra beta informs you when your Mac's display is using significant energy
+title: Latest macOS Sierra beta informs you when your Macs display is using significant energy
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/01/mac-significant-energy-display-brightness.jpg)
 * The latest beta of macOS Sierra 10.12.3 provides a brand new display brightness energy saving recommendation for extending battery life under the Battery menu bar item, MacRumors has discovered. It appears in macOS Sierra 10.12.3 beta 4 when display brightness is set above the 75 percent mark.

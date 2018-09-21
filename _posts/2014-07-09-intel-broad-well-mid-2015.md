@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Retina MacBook Air hits roadblocks as Intel's Broadwell chips face new delays
+title: Retina MacBook Air hits roadblocks as Intels Broadwell chips face new delays
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/MacBook-Air-Front.jpg)
 * It’s hardly a secret that Apple is looking to phase out non-Retina models from its MacBook Pro lineup.

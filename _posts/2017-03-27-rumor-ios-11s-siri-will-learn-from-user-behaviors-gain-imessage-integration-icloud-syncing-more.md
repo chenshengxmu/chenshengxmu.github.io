@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rumor- iOS 11's Siri will learn from user behaviors, gain iMessage integration & iCloud syncing
+title: Rumor- iOS 11s Siri will learn from user behaviors, gain iMessage integration & iCloud syncing
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/03/iPhone-8-concept-Siri-augmented-reality-Gabor-Balogh-008.jpg)
 * A sketchy rumor released Monday by the Israeli outlet The Verified claims that Siri will gain some interesting new capabilities when iOS 11 launches this fall. For starters, Apple’s personal digital assistant will tap into machine learning deeper than ever before to learn from user behaviors within the context of individual apps. Moreover, Siri will integrate with Apple’s iMessage service and sync data via iCloud.

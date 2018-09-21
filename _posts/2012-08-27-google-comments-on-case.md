@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google comments on last week's Apple vs. Samsung ruling
+title: Google comments on last weeks Apple vs. Samsung ruling
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/samsung-logo-with-google.jpg)
 * Just in case you missed out on the excitement last week, the high-profile Apple vs. Samsung trial ended with a bang. After 21 hours of deliberation, the jury ruled in Apple’s favor, awarding the company some $1 billion in damages.

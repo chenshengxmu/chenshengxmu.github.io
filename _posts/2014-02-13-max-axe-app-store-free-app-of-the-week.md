@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Max Axe is App Store's new Free App of the Week
+title: Max Axe is App Stores new Free App of the Week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/Max-Axe-1.4-for-iOS-iPhone-screenshot-001.jpeg)
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/Max-Axe-1.4-for-iOS-iPhone-screenshot-002.jpeg)

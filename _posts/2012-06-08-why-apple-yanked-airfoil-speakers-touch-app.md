@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's why Apple yanked Airfoil Speakers Touch app from the App Store
+title: Heres why Apple yanked Airfoil Speakers Touch app from the App Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/airfoil-speakers.jpg)
 * Remember Airfoil Speakers Touch app? Of course you do, this nifty little program from Rogue Amoeba turns your iPhone, iPod touch or iPad into an audio receiver so you can send any audio from your desktop to your iOS device. As you know, Apple pulled it two weeks ago without giving the team much of an explanation only to allow it into the store a few days ago.

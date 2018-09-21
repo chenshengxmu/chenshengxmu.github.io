@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EU demanding 'concrete answers' from Apple and Google regarding in-app purchasing concerns
+title: EU demanding concrete answers from Apple and Google regarding in-app purchasing concerns
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/In-app-game-purchase.jpeg)
 * Reuters is reporting that The European Commission has invited Apple and Google to discuss a flurry of user complaints surrounding in-app purchases. The move follows numerous media reports that center on disgruntled parents who were shocked to find that their children racked up vast credit card bills by making content purchases in free-to-play games.

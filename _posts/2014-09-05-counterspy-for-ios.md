@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sony's side-scrolling CounterSpy stealth game now available on iOS
+title: Sonys side-scrolling CounterSpy stealth game now available on iOS
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/CounterSpy-1.0-for-iOS-iPhone-screeenshot-001.jpeg)
 * After releasing on the PlayStation 3, PlayStation 4 and PlayStation Vita last month, Sony’s CounterSpy is now available on Apple’s iOS platform.

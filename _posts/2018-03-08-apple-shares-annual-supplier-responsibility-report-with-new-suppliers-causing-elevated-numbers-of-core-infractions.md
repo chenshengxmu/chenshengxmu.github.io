@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple shares annual Supplier Responsibility report with new suppliers causing elevated numbers of "core infractions"
+title: Apple shares annual Supplier Responsibility report with new suppliers causing elevated numbers of core infractions
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/supply-chain.jpg)
 * Apple’s 12th Supplier Responsibility Progress Report, which details the working conditions at its various supplier facilities, has been released today. At first glance, it appears violations are on the rise, but there is also a simple explanation.

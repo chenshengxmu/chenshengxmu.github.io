@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Developers of Camera+ launch new app 'Vee for Video'
+title: Developers of Camera+ launch new app Vee for Video
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/vee-1.jpeg)
 * Camera+ developers Lisa Bettany, Scott Meinzer and Karl von Randow today announced a new app called ‘Vee for Video.’ It essentially hopes to accomplish what the popular Camera+ app has for photos on iPhone, for videos.

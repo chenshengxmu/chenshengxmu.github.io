@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Annual Sun Valley conference starts tomorrow, Apple's Cook and Cue said to be in attendance
+title: Annual Sun Valley conference starts tomorrow, Apples Cook and Cue said to be in attendance
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/WWDC-2012-keynote-Tim-Cook-001.jpg)
 * The annual Sun Valley conference hosted by Allen & Company, a premier investment bank for the media and entertainment sector, is about to kick off Tuesday.

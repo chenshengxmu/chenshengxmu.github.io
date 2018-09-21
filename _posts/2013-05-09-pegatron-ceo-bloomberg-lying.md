@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pegatron CEO- Bloomberg is lying about 'falling iPad mini demand'
+title: Pegatron CEO- Bloomberg is lying about falling iPad mini demand
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/iPad-mini-promo-video-iPad-mini-users-003.jpg)
 * The credulous Bloomberg yesterday covered Pegatron’s investor conference where the contract manufacturer announced a whopping 80 percent year-over-year growth in first-quarter profits.

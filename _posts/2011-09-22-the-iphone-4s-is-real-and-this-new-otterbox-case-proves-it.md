@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The 'iPhone 4S' is Real, And This New OtterBox Case Proves It
+title: The iPhone 4S is Real, And This New OtterBox Case Proves It
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/iPhone-4S-OtterBox.jpg)
 * Folks, it looks like the ‘iPhone 4s’ naming designation is indeed the real deal. Just a few minutes ago, Chronic posted an image of new OtterBox packaging that includes the iPhone 4S naming designation printed on the box.

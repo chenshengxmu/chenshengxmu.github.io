@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iFixit's $300 kit lets you boost the RAM on Apple's new 21.5-inch iMac to 32GB
+title: iFixits $300 kit lets you boost the RAM on Apples new 21.5-inch iMac to 32GB
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/iFixit-iMac-32GB-RAM-DIY-kit.jpg)
 * Repair experts at iFixit have announced a DIY $300 upgrade kit for the new 21.5-inch iMac with 4K Retina display after finding user-replaceable RAM via a pair of removable SO-DIMM slots instead of the memory modules being soldered onto the logic board.

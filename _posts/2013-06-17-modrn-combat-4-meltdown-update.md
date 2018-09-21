@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gameloft previews Modern Combat 4 'Meltdown' update, coming Wednesday
+title: Gameloft previews Modern Combat 4 Meltdown update, coming Wednesday
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/Modern-Combat-4-Zero-Hour-Meltdown-update-teaser.jpg)
 * Modern Combat 4: Zero Hour made its way into the App Store last December and today French developer Gameloft is teasing a forthcoming update. Titled ‘Meltdown,’ the content update is of course free to players who bought the game and will be available on iOS starting Thursday, June 19, and “coming very soon” to Android.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'QuickClear' lets you clear app badges with 3D Touch
+title: QuickClear lets you clear app badges with 3D Touch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/02/quickclear-review-featured-image.jpg)
 * Here’s a gem for 3D Touch fans and jailbreakers alike; a new free jailbreak tweak that goes by the name of QuickClear is now available in Cydia’s BigBoss repository that lets you perform a 3D Touch gesture on any app icon with a notification badge to clear the badge from the app icon.

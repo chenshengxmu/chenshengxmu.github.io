@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Springtomize' Brings an Insane Level of Springboard Customization to the iPhone
+title: Springtomize Brings an Insane Level of Springboard Customization to the iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/03/Springtomize-03.png)
 * Okay Mr. Bigarella, you’ve outdone yourself this time. That’s the only phrase that popped into my head upon installing Springtomize and discerning how gaudy his latest jailbreak tweak is.

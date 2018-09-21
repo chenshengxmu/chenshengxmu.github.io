@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Bookstand' Combines Newsstand and iBooks Content
+title: Bookstand Combines Newsstand and iBooks Content
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/Bookstand-Screen.jpg)
 * To some, having periodicals in one place and books in another place can seem redundant. If you’re in this camp, then Bookstand may be something that makes sense.

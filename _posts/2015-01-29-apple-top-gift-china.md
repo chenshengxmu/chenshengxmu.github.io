@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple also becomes China's #1 luxury gift provider
+title: Apple also becomes Chinas #1 luxury gift provider
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/iPhone-6-China-teaser-001-e1422543061729.png)
 * In addition to becoming the top smartphone seller in China (based on the 70 percent annual sales uptick in Greater China), Apple is now the top luxury gift provider in the country, knocking Hermès off the top spot, Reuters reported Thursday.

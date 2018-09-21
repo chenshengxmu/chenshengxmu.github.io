@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Researchers demonstrate passcode detection method that uses your phone's motion sensors
+title: Researchers demonstrate passcode detection method that uses your phones motion sensors
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/04/iPhone-hand-security-privacy-001.jpg)
 * A team of researchers from the United Kingdom’s Newcastle University have demonstrated how criminals could steal your passcode simply by tracking the motion of your phone. Don’t worry, Apple issued patches last year to prevent anyone from collecting sensor data, but Android users remain at risk of having their passcodes stolen if they visit a rogue website or tap a malware link. Although Google is aware of the issue, they’re still looking into a fix.

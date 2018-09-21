@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft releases new 'Xbox One SmartGlass' app for iOS
+title: Microsoft releases new Xbox One SmartGlass app for iOS
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/xbox-one-2.png)
 * Ahead of its big Xbox One launch later this week, Microsoft has released a new companion app for the console called ‘Xbox One SmartGlass.’ Microsoft says it’s “the perfect companion app for your Xbox One, both in your living room and on the go.”

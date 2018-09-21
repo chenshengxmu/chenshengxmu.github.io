@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Square's Register app gains kitchen tickets, new features for restaurants
+title: Squares Register app gains kitchen tickets, new features for restaurants
 ---
 * Square’s Register, the free point of sale app, has been available on the iPhone and iPad since May 2010 and has seen a number of updates since. And with the release of Square’s all-in-one $299 iPad POS bundle in February 2012, the Register app gained prominence as the POS solution was designed from the ground up to work wirelessly with the Register app. Today, Square updated the Register software with kitchen tickets and several new ordering features to better server restaurant owners…
 * The iPad version now includes order modifiers, which allows employees to customize orders at the counter and send them to the kitchen. These tickets are now customizable with a name, number and other details and can be printed on paper to speed up restaurant workflow.

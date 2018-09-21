@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You can now translate webpages within Safari with Microsoft's updated Translator app
+title: You can now translate webpages within Safari with Microsofts updated Translator app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/04/Microsoft-Translatro-iPhone-teaser-001.png)
 * Following yesterday’s release of Microsoft’s new Hub Keyboard for the iPhone, iPod touch and iPad with Office 365 integration, the Windows maker today issued a refresh to its Translator app in the App Store.

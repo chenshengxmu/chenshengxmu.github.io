@@ -1,6 +1,6 @@
 ---
 layout: post
-title: US Patent Office invalidates Apple's rubber-banding patent
+title: US Patent Office invalidates Apples rubber-banding patent
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/iphone-4s-user.jpg)
 * This is a pretty big deal: the United States Patent and Trademark Office has just tentatively invalidated Apple’s rubber-banding patent. This is the infamous ‘381 patent that covers the ‘bouncing’ effect when scrolling on a touch screen.

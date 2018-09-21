@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New in iOS 10's Photos- Maps view, Memories, facial recognition and more
+title: New in iOS 10s Photos- Maps view, Memories, facial recognition and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/wwdc-2016-photos-face-recognition.jpg)
 * Photos in iOS 10 is receiving a major upgrade with several major new features and a few noteworthy improvements. For starters, Photos in iOS 10 has a dedicated Maps view similar to iPhoto for Mac which lets you browse your photos on a world map, based on where you took them.

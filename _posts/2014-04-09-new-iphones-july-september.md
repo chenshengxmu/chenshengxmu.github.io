@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rumor- mass production of 4.7" iPhone 6 in July, 5.5" version in September
+title: Rumor- mass production of 4.7 iPhone 6 in July, 5.5 version in September
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/iphone-6-all.jpg)
 * It used to be that 2014 would see a simultaneous double-iPhone launch until Reuters earlier this week asserted the larger model could get delayed due to production issues with 5.5-inch screens. As a result, only the rumored 4.7-inch model is said to be ready for a launch in September.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PayPal app redesign adds new start screen, 'one-click' cash request, & more
+title: PayPal app redesign adds new start screen, one-click cash request, & more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/02/paypal-app-redesigned.jpg)
 * The PayPal app for iOS, which has been long over-due for an update, has finally received its much-needed update on Thursday that adds official support for the retina HD displays of Apple’s 4.7-inch and 5.5-inch handsets.

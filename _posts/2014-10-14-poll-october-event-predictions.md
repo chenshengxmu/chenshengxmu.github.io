@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Roundup + poll- what are you most excited about for Apple's Thursday event?
+title: Roundup + poll- what are you most excited about for Apples Thursday event?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/Apple-event-September-2014-Tim-Cook-smiling-001.jpg)
 * In less than 48 hours, journalists blessed with Apple’s “It’s been way too long” invitation will gather on the Town Hall Campus grounds in Cupertino, California for another dose of technology news.

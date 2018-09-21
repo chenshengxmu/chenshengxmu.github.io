@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's 2017 Back to School promo launches in Australia, New Zealand & Japan
+title: Apples 2017 Back to School promo launches in Australia, New Zealand & Japan
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/Apple-2017-Back-To-School-australia-teaser-001.png)
 * Apple today kicked off its annual Back to School promotion across Australia, New Zealand and Japan. Advertised under the “Back to Uni” tagline, these deals offer students, teachers and university staff members an Apple Store credit in exchange for a qualified iMac, Mac Pro, MacBook/Air/Pro or iPad Pro purchase made from February 7 to March 16.

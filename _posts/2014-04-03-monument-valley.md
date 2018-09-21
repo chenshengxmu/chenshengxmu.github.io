@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unique physics-based platformer Monument Valley just hit iOS and it's insanely great
+title: Unique physics-based platformer Monument Valley just hit iOS and its insanely great
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/Monument-Valley-for-iOS-iPhone-screenshot-001.jpg)
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/Monument-Valley-for-iOS-iPhone-screenshot-002.jpg)

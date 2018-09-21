@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple named most valuable 'billion dollar brand' in the US
+title: Apple named most valuable billion dollar brand in the US
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/Apple-Store-Fifth-Avenue-exterior-001.jpg)
 * A new report was released yesterday by brand consulting agency Brand Finance, naming the top “billion dollar brands” in the United States. The list was compiled estimating the royalty rate that would be charged to use a company’s brand and combing that with expected future revenue.

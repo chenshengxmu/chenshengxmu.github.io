@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This tweak shrinks and relocates the Lock screen's date and time indicator
+title: This tweak shrinks and relocates the Lock screens date and time indicator
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/SimpleLSiOS10-Before-and-After.jpg)
 * A few years ago, a popular jailbreak tweak called SubtleLock rearranged some of the Lock screen’s information pieces to reduce their visual footprint and put more emphasis on the wallpaper you’ve chosen. Unfortunately, despite its popularity, it hasn’t been updated for iOS 10.

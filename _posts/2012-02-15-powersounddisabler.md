@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PowerSoundDisabler' disables your iPhone's charge alerts
+title: PowerSoundDisabler disables your iPhones charge alerts
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/PowerSoundDisabler-Screenshot.jpg)
 * Don’t you hate it when it’s late at night, and you forget to turn on silent mode before plugging your iPhone in to charge? The audible alert that results seems loud enough to wake up the whole residence!

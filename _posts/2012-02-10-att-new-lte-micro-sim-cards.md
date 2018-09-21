@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Could AT&T's new LTE micro SIM cards be for upcoming iPad/iPhone?
+title: Could AT&Ts new LTE micro SIM cards be for upcoming iPad/iPhone?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/lte-micro-sim.jpg)
 * Among the rumors we’ve heard regarding Apple’s next-generation tablet, LTE compatibility has come up a number of times. And last month, Bloomberg seemed pretty confident when it reported that the iPad 3 would feature the 4G technology.

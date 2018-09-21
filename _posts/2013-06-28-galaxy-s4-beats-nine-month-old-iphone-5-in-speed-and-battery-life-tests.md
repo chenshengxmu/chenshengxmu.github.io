@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung's new Galaxy S4 beats nine-month-old iPhone 5 in speed and battery life tests
+title: Samsungs new Galaxy S4 beats nine-month-old iPhone 5 in speed and battery life tests
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/Smartphone-tests-Which.jpg)
 * Samsung’s latest smartphone, the Galaxy S4, won top honors in a series of tests conducted by a UK-based consumer research organization called Which?. The organization found that Samsung’s Galaxy S4 topped Apple’s iPhone 5 and other competitors when it comes to speed, call time and Internet use.

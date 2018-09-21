@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's free app of the week- Streaks Workout
+title: Apples free app of the week- Streaks Workout
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/streak.png)
 * Apple on Thursday updated its App of the Week promotion with the app Streaks Workout. For the next 7 days, you’ll be able to pick up the popular fitness aide for free for iPhone, iPad, Apple Watch, and Apple TV—a solid savings of $3.

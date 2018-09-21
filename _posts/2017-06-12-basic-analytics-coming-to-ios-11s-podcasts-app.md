@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Basic analytics coming to iOS 11's Podcasts app
+title: Basic analytics coming to iOS 11s Podcasts app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/iOS-11-Podcasts-app-iPhone-screenshot-001.jpg)
 * Like many stock apps in iOS 11, Apple’s Podcasts app has been redesigned around an Apple Music-style appearance with consolidated tabs, bigger thumbnails and more.

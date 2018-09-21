@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cook calls 2012 an 'incredibly successful' year for Apple
+title: Cook calls 2012 an incredibly successful year for Apple
 ---
 * In his email to employees, Apple CEO Tim Cook describes 2012 as an “incredibly successful year” which continues “to show Apple’s unrivaled leadership in this post-PC era”.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/timcook-iphone.jpg)

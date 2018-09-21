@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hands-on with pod2g's first App Store app, podDJ
+title: Hands-on with pod2gs first App Store app, podDJ
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/poddj-scratch-255x143.jpg)
 * When someone mentions the name pod2g, likely the first thing that comes to your mind is jailbreaking the iPhone. That, obviously, makes sense, when you consider that pod2g was one of the primary reasons we’ve been able to jailbreak our iOS device’s in the past. His ingenuity provided us with jailbreaks for the iPhone 4S and iPad 3, and many are hoping that he can work his same magic on the iPhone 5 along with iOS 6.

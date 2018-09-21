@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 5's Voice-to-Text Feature Finally Revealed
+title: iOS 5s Voice-to-Text Feature Finally Revealed
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/ios5nuancemic-e1312678694854.png)
 * In the weeks building up to this year’s WWDC, there was a lot of speculation that Apple and Nuance were planning a major partnership to bring system-wide voice-to-text to iOS 5. The 2 companies were expected to make a big announcement at the Summer event.

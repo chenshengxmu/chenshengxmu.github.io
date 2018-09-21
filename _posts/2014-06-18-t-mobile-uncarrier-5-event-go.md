@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile announces new 'Music Freedom' and 'Unradio' initiatives
+title: T-Mobile announces new Music Freedom and Unradio initiatives
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/music-freedom.jpg)
 * During T-Mobile’s event in Seattle tonight, the carrier announced a handful of new ‘uncarrier’ initiatives. There’s Test Drive, which we’ve already talked about here, and two new programs for music lovers: ‘Unradio’ and ‘Music Freedom.’

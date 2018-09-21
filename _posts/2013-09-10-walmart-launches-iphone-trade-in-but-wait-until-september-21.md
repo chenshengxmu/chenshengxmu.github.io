@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Walmart launches smartphone trade-in, but you'll have to wait until September 21
+title: Walmart launches smartphone trade-in, but youll have to wait until September 21
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/apple-tradeins.png)
 * As everyone waits to learn what iPhones Apple will announce later today, the urge to trade-in current smartphones will surge. Hoping to take advantage of that last-minute push is Walmart, adding the world’s largest retailer to the list of firms offering deals on older iPhones and other used smartphones.

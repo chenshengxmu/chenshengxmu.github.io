@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New in iOS 6- App Store app doesn't close anymore when downloading an app
+title: New in iOS 6- App Store app doesnt close anymore when downloading an app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/iOS-6-download-app-store.jpeg)
 * One major annoyance I had with iOS so far is that anytime you download an application from the App Store, the app would close and take you back to the Home screen. If you want to download a new app, you have to launch the App Store app again, and repeat the process.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tokyo court rules Samsung devices don't violate Apple patent
+title: Tokyo court rules Samsung devices dont violate Apple patent
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/Samsung-Corporate-HQ-image-001.jpg)
 * You have to feel for Samsung, it’s had a pretty rough week. First, it lost a high-profile patent suit to Apple which will cost it in upwards of $1 billion. And now it’s facing a US sales ban on 8 devices.

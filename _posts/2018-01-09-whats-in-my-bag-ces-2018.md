@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What's in my bag? CES 2018 edition- cables, chargers, cameras, hand sanitizers & other tech
+title: Whats in my bag? CES 2018 edition- cables, chargers, cameras, hand sanitizers & other tech
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/Whats-in-my-CES-gear-bag.png)
 * Between gear for shooting video, for writing and keeping everything powered up, it takes quite a bit of tech to cover CES. We break it all down in this special edition of “What’s In My Bag.”

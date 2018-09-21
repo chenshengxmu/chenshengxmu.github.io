@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Watch doesn't need Bluetooth if connected iPhone is on same Wi-Fi network
+title: Apple Watch doesnt need Bluetooth if connected iPhone is on same Wi-Fi network
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/apple-watch1.png)
 * The Apple Watch will provide users with the full experience even if an iPhone it’s paired with is outside Bluetooth range, as long as both the wearable device and the smartphone are connected through Wi-Fi. Tim Cook made a passing note of it during yesterday’s “Spring Forward” media event.

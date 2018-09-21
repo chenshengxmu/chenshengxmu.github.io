@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google surpasses Apple as world's most valuable brand in latest study
+title: Google surpasses Apple as worlds most valuable brand in latest study
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/google-building-44.jpg)
 * It seems like every couple of weeks, a new study comes out telling us who the most valuable brand in the world is based on various metrics. The winner changes from time to time, but I’d guess more times than not in recent years, it’s been Apple.

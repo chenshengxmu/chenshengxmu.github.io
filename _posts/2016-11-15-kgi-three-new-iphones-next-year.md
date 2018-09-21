@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KGI details three new iPhones coming in 2017, including 5.5" OLED model with dual cameras
+title: KGI details three new iPhones coming in 2017, including 5.5 OLED model with dual cameras
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/iPhone-7-dark-blue-Martin-Hajek-001.jpg)
 * KGI Securities analyst Ming-Chi Kuo is out with a new report to clients Tuesday, a copy of which was obtained by MacRumors, that lays out his predictions for Apple’s 2017 iPhone refresh. The analyst is calling for a trio of new iPhones next fall, two of which should be upgraded versions of the current models with classic TFT-LCD screens.

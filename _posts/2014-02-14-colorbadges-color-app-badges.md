@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to colorize app badges with 'ColorBadges'
+title: How to colorize app badges with ColorBadges
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/Resized-ColorBadges.png)
 * ColorBadges is an upcoming jailbreak tweak that was recently submitted to Cydia’s BigBoss repo. It allows users to colorize app badges based on the color of the app icon. For example, if you have a badge on the Cydia app, the color of the badge will be brown, which corresponds to the color of the Cydia app.

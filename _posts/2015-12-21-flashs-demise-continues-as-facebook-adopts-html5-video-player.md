@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flash's demise continues as Facebook adopts HTML5 video player
+title: Flashs demise continues as Facebook adopts HTML5 video player
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/12/Facebook-HTML5-video-player-web-screenshot-001.png)
 * Following Google’s decision to stop using Adobe’s outdated Flash technology for video delivery on YouTube in favor of an HTML5-based video player, Facebook last week announced a similar move of its own.

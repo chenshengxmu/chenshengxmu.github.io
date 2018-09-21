@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jeff Williams becomes Apple's Chief Operating Officer, Phil Schiller now oversees all App Stores
+title: Jeff Williams becomes Apples Chief Operating Officer, Phil Schiller now oversees all App Stores
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/Jeff-Williams.png)
 * Apple today announced that it is promoting Jeff Williams to Chief Operating Officer. Williams has been the company’s Vice President of Operations and served as Tim Cook’s right-hand man during the latter’s multi-year tenure as Apple’s op-chief in the Steve Jobs era.

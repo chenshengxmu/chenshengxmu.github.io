@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's Chrome is already No. 1 free App Store app
+title: Googles Chrome is already No. 1 free App Store app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/Google-Chorme-No-free-app-on-App-Store.jpg)
 * In less than 24 hours following its official introduction, Google’s Chrome browser for the iPhone and iPad has risen to become the No. 1 free app on the App Store. That’s a remarkable achievement, one clearly highlighting the popularity of Google’s excellent web browser. Although it doesn’t use the speedy Safari Nitro engine, Chrome for iOS is very zippy (speed test here) and enables seamless synchronization of browsing preferences and open tabs across desktop and mobile installations via your Google Account…

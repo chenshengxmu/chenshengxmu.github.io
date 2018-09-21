@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FTC investigating children's apps over privacy concerns
+title: FTC investigating childrens apps over privacy concerns
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/itunes-apps-for-kids.png)
 * The US Federal Trade Commission released a report yesterday regarding mobile apps that are aimed at children. It has been investigating kids titles from both the App Store and the Google Play marketplace, and has found that there has been little done over the past few years to address privacy concerns. These apps are still collecting kids’ data, and sharing it, without their parents’ knowledge or consent…

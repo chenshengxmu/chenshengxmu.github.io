@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Alert's new smoke/carbon monoxide detector doubles as an AirPlay 2 speaker
+title: First Alerts new smoke/carbon monoxide detector doubles as an AirPlay 2 speaker
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/Onelink-Safe-Sound-Lifestyle-03-e1515434316990.jpg)
 * First Alert’s latest HomeKit-compatible OneLine Safe & Sound smoke and carbon monoxide detector will be upgraded with AirPlay 2 support upon availability, allowing users to enjoy multi-room audio and manage music playback through the Home app.

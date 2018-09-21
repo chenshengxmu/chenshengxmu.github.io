@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Greenpeace- Apple's clean energy policies have significantly improved
+title: Greenpeace- Apples clean energy policies have significantly improved
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/greenpeace-120712.jpeg)
 * Apple has been taking a lot of heat regarding its environmental policies over the past week. This due to the news that the company has recently pulled its products from the EPEAT registry.

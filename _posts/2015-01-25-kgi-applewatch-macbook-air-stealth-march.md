@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Noted analyst pegs 12" MacBook Air for Q1, reiterates March launch of Apple Watch
+title: Noted analyst pegs 12 MacBook Air for Q1, reiterates March launch of Apple Watch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/og_apple_watch.jpg)
 * Pretty accurate KGI Securities analyst Ming-Chi Kuo has issued a brand new note to clients. In it, he confirmed an earlier report calling for a March release date of the Apple Watch (remember, Apple’s retail boss mentioned a vague Spring release date).

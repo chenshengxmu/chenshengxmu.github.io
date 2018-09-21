@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook issues email to troops commemorating fourth anniversary of Steve Jobs's death
+title: Tim Cook issues email to troops commemorating fourth anniversary of Steve Jobss death
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/steve-jobs.png)
 * Steve Jobs succumbed to cancer and died of respiratory arrest on this day four years ago. To commemorate the fourth anniversary of his tragic passing, current CEO Tim Cook, whom Jobs suggested as his successor to the Board of Directors, issued a company-wide email to employees.

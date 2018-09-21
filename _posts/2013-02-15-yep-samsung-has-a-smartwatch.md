@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Screenshots of Samsung's iWatch competitor leaked
+title: Screenshots of Samsungs iWatch competitor leaked
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/samsung-smartwatch-1.jpg)
 * While there’s been multiple Apple rumors bandied about over the past few weeks, by far, the one receiving the most attention is the iWatch. Three major news outlets have now reported of its existence and the word is, Apple’s bringing it to market.

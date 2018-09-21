@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What to expect from Apple's iPad event
+title: What to expect from Apples iPad event
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/Apple-October-2013-media-event.jpg)
 * Last week, Apple sent out media invitations for an event set to take place on Tuesday, October 22 at the Yerba Buena Center in San Francisco, California. It’s believed that the event will focus on new iPads, but OS X Mavericks and new Macs are also expected to get some on-stage time.

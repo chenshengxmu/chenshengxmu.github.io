@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple previews Milan's Piazza Liberty store with dramatic glass fountain
+title: Apple previews Milans Piazza Liberty store with dramatic glass fountain
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/Apple-Piazza-Liberty-store-003.jpg)
 * With Italy’s breathtaking Piazza Liberty store opening Thursday, Apple just gave eager fans an early look at the upcoming retail outlet that it says will revitalize a piazza in the center of Milan.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Reserve Strap' aims to extend the battery life of your Apple Watch
+title: Reserve Strap aims to extend the battery life of your Apple Watch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/power-watch-band.jpg)
 * One of the biggest public concerns regarding the Apple Watch seems to be its battery life. While other smartwatches, such as the Pebble, claim life of up to 10 days, the Cupertino wearable is said to last for less than 24 hours.

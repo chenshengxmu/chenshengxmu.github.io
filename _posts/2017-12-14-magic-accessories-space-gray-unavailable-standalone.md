@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You'll have to buy the $5,000 iMac Pro to get Magic accessories in stunning Space Gray
+title: Youll have to buy the $5,000 iMac Pro to get Magic accessories in stunning Space Gray
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/iMAc-Pro-space-gray-magic-accessories-001.jpg)
 * If you fell in love with Apple’s stunning new dark gray finish for its wireless mouse, keyboard and trackpad, you’re definitely not alone as we think they’re badass, too..

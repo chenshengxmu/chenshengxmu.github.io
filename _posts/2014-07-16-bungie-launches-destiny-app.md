@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bungie launches companion app for upcoming console game 'Destiny'
+title: Bungie launches companion app for upcoming console game Destiny
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/destiny-3.png)
 * We are rapidly approaching the launch of hit-game-maker Bungie’s first major release since leaving the Halo franchise. The game is called Destiny, and it’s a combination action role-player and first-person shooter that’s landing on consoles in September.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Swatch- we're not working with Apple on iWatch
+title: Swatch- were not working with Apple on iWatch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/swatch-logo.jpg)
 * Just as I’d suspected, Apple isn’t really partnering with Swiss watchsmiths on developing and producing multiple iWatch devices.

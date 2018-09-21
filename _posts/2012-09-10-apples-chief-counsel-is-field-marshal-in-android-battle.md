@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's chief counsel is 'field marshal' in Android battle
+title: Apples chief counsel is field marshal in Android battle
 ---
 * If Apple’s “thermonuclear war” on Android had a leader, it would be Noreen Krall, chief litigator for the Cupertino, Calif. iPhone maker. Indeed, Bloomberg’s profile of Krall describes her as Apple’s legal “field marshall.”
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/krall-120910.jpg)

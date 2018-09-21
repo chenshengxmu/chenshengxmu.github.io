@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Posting tweetstorms has been made easier with Twitter's new Threads feature
+title: Posting tweetstorms has been made easier with Twitters new Threads feature
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/Twitter-Threads.png)
 * Twitter on Tuesday announced a new Threads feature in its mobile app for iPhone and iPad, making it a lot easier to post so-called tweetstorms to the micro-blogging service.

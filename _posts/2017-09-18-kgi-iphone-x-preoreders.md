@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KGI- iPhone X is eating iPhone 8's lunch
+title: KGI- iPhone X is eating iPhone 8s lunch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/iPhone-8-iPhone-8-Plus-iPhone-X-image-001.jpg)
 * You may have noticed that there isn’t a long waiting list for Apple’s new iPhone 8 yet because many early adopters are patiently awaiting for the pricier iPhone X, which starts at $999.

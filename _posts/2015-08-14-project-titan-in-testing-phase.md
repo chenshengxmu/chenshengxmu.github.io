@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Documents show Apple's car is further along than many suspected
+title: Documents show Apples car is further along than many suspected
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/apple-carplay.jpg)
 * Apple’s self-driving electric car, codenamed Project Titan, is further along than many suspected, reports The Guardian. The publication has obtained documents that show that the Cupertino company is already scouting locations to test the vehicle.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's upcoming HQ is beginning to take shape
+title: Apples upcoming HQ is beginning to take shape
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/iSpaceship-Aerial-photo-Ron-Cervi-001.jpeg)
 * After completing demolition of a site located along Cupertino’s Ridgeview Ct. where Apple is set to construct a 2.8 million square foot ring-shaped structure dubbed iSpaceship (officially called Campus 2), a new aerial image reveals that the upcoming corporate campus has started to take shape.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Having trouble deciding what Mac to buy? Use Apple's online comparison tool
+title: Having trouble deciding what Mac to buy? Use Apples online comparison tool
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/Twelve-inch-MacBook-Space-Grey-closeup-001.jpg)
 * Apple has a wide variety of Macs to choose from, so if you’re in the market to buy a new one, you might need some help deciding which one is going to be right for you.

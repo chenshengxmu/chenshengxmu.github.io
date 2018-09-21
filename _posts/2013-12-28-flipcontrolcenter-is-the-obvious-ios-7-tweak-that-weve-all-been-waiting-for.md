@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FlipControlCenter is the obvious iOS 7 tweak that we've all been waiting for
+title: FlipControlCenter is the obvious iOS 7 tweak that weve all been waiting for
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/FlipControlCenter-Toggles.png)
 * It’s been a busy day to me, so I was admittedly late to get to FlipControlCenter after its release earlier today. When I first saw Cody’s post, I knew that this tweak would be a part of my nightly recap before heading off to bed. Well, I just tried FlipControlCenter for myself, and I can tell you that it works like a dream, even in its beta state, and even with the underlying issues with Mobile Substrate.

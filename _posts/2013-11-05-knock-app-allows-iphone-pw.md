@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New 'Knock' app allows you to unlock your Mac with your iPhone
+title: New Knock app allows you to unlock your Mac with your iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/knock-ss.png)
 * With the iPhone 5s, Apple made security more convenient by allowing users to unlock their devices with a quick tap of its Touch ID Home button. It’s kind of like having a password, without having to type it in every time.

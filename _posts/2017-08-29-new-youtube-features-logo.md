@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video- YouTube's overhauled look and new features coming to iOS app
+title: Video- YouTubes overhauled look and new features coming to iOS app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/YouTube-for-iOS-new-look-teaser-001.jpg)
 * Google’s YouTube app for iOS is undergoing some changes amid a broader redesign and rebranding effort reflected in the service’s revamped logo and icon, announced earlier today.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's New In-Store Self-Checkout Plan Revealed
+title: Apples New In-Store Self-Checkout Plan Revealed
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/apple-store-e1320041984801.jpg)
 * A few days ago, MacRumors reported that Apple was going to be unveiling a new version of its iOS retail app in the very near future. The update is expected to bring multiple new features, including an in-store self-checkout option for accessories.

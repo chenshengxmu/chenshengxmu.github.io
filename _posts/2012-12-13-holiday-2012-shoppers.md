@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Looks like it's gonna be a very Merry Apple Christmas indeed
+title: Looks like its gonna be a very Merry Apple Christmas indeed
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/Apple-store-holiday-2012-banner-iPad-mini.jpg)
 * Despite a blitz of advertising and promotions, consumers across the globe are choosing Apple products during the run up to Christmas. After interviewing more than seventy shoppers in ten cities, Reuters reports consumers are not swayed either by Wall Street concerns or Madison Avenue come-ons. Instead, in shopping malls in the US, Europe and Asia, the key is Apple’s simplicity.

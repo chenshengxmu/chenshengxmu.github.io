@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Online Petition Against Apple's Factory Conditions Receives 160,000 Signatures in a Week
+title: Online Petition Against Apples Factory Conditions Receives 160,000 Signatures in a Week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/foxconn.jpg)
 * Apple has received some slack of late over the perceived conditions of the Chinese workers who build its hugely popular products. With the eyes of the world currently firmly fixed on the likes of Foxconn, people are beginning to look more closely at the real cost of building our iPhones and iPads.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Boston Red Sox caught using Apple Watch to steal opponents' signs
+title: Boston Red Sox caught using Apple Watch to steal opponents signs
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/red-sox-tim-cook.jpg)
 * Investigators for Major League Baseball have determined that the Boston Red Sox executed a scheme to illicitly steal hand signals from opponents’ catchers in games, reports The New York Times. Citing several people briefed on the matter, the outlet says a member of the Red Sox’s training staff used his Apple Watch to communicate with video replay personnel and then passed the intel onto his players.

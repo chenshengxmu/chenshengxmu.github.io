@@ -1,6 +1,6 @@
 ---
 layout: post
-title: European Commission is investigating Apple's proposed acquisition of Shazam
+title: European Commission is investigating Apples proposed acquisition of Shazam
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/Shazam-offline-mode.jpg)
 * Apple’s proposed acquisition of the media identification service Shazam is now being scrutinized under the watchful eye of the European Commission, Reuters reported Monday.

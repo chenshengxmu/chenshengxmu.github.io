@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Now doesn't tax your battery, says Google, but users beg to differ
+title: Google Now doesnt tax your battery, says Google, but users beg to differ
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/Google-Search-3.0-for-iOS-iPhone-screenshot-002.jpg)
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/Google-Search-3.0-for-iOS-iPhone-screenshot-004.jpg)

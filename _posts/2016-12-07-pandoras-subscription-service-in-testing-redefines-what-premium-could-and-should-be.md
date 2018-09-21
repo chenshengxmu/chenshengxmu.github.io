@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pandora's subscription service in testing, “redefines what premium could and should be”
+title: Pandoras subscription service in testing, “redefines what premium could and should be”
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/12/Pandora-Premium-event-image-001.jpg)
 * After recently refreshing its brand identity, the popular Internet radio service Pandora today officially announced its upcoming on-demand music service, simply called Premium, which the company says is going to redefine what “premium” could and should be.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung's latest 'Wall Huggers' Galaxy ad attacks iPhone's battery performance
+title: Samsungs latest Wall Huggers Galaxy ad attacks iPhones battery performance
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/Samsung-Galaxy-S5-ad-iPhone-battery-001.jpg)
 * Samsung’s marketing department is no stranger to Apple-bashing and its most recent advertisement for the Galaxy S5 flagship proves the point.

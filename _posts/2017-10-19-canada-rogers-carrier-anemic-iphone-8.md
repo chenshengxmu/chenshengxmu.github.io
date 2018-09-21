@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Canada's top carrier is seeing “anemic appetite” for iPhone 8
+title: Canadas top carrier is seeing “anemic appetite” for iPhone 8
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/iPhone-8-wireless-charging.jpg)
 * The CEO of Canada’s biggest wireless company told investors and shareholders on a conference call they’re seeing little demand for Apple’s iPhone 8, Reuters reported Thursday.

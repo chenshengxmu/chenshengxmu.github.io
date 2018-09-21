@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 12's Face ID supports unlocking iPhone X with two faces
+title: iOS 12s Face ID supports unlocking iPhone X with two faces
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/06/iOS_12_Face_ID_enroll_face.jpg)
 * While iOS 12 does not actually bring out official support for allowing multiple people to register their face with Face ID on a single iPhone X device, nor does it enable horizontal unlock as previously thought, customers are now permitted to at least set up an alternate appearance—a feature that can effectively be used to have an iPhone X recognize a second person.

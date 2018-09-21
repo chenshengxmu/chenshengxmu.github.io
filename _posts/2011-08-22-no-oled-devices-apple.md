@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No OLED Devices From Apple For Another "Three to Four Years"
+title: No OLED Devices From Apple For Another Three to Four Years
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/07/retinadisplay-e1311182916190.jpeg)
 * Rumors of an Apple branded television just won’t go away, with the latest claims being that Apple has partnered with LG in order to bring a 55″ TV to market. This rumor has now been debunked, with LG’s own CEO saying that Apple is not keen on jumping into the TV market, with OLED screens proving a stumbling block.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unprecedented security precautions for tomorrow's event, live-stream page takes over Apple.com
+title: Unprecedented security precautions for tomorrows event, live-stream page takes over Apple.com
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/Apple-Flint-Center-mystery-building.jpg)
 * With less than 24 hours until Apple’s press event, security precautions at the Flint Center for the Performing Arts in Cupertino, California have been taken to “unprecedented levels,” reports Cult of Mac editor Leander Kahney who’s secretly snagged a few interviews with unnamed staffers at the venue.

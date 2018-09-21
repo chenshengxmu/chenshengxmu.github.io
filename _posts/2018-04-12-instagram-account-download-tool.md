@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Instagram's upcoming feature lets you download your photos, videos and messages
+title: Instagrams upcoming feature lets you download your photos, videos and messages
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/04/instagram-download-your-information.png)
 * You’ll soon be able to download an archive of the content shared on your Instagram account.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's 'Cardboard' virtual reality app now available on iOS
+title: Googles Cardboard virtual reality app now available on iOS
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/05/googlecardboard.jpg)
 * In addition to Google Photos, Google announced at I/O today that it would be bringing another Android app over to iOS: Google Cardboard. The Mountain View tech giant says the software will “bring virtual reality to your iPhone.”

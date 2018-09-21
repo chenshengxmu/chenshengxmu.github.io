@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Crazy rumor (or is it?) claims 12.9-inch 'iPad maxi' will rock 4K Retina display
+title: Crazy rumor (or is it?) claims 12.9-inch iPad maxi will rock 4K Retina display
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/iPad-mini-retina-display.png)
 * As the Wall Street Journal in July gave credence to 12.9-inch iPad speculation, which dates back to a sketchy report published in May 2013, we’re now officially in the clear as far as crazy rumors go. The mythical iPad designed for real men – let’s call it the ‘iPad maxi’ for the time being, shall we? – could give Retina a new meaning by incorporating an ultra high-resolution 4K screen.

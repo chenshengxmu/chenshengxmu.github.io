@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's silicone and leather iPhone 7 cases are now available in six new colors
+title: Apples silicone and leather iPhone 7 cases are now available in six new colors
 ---
 * Aside from refreshing Apple Watch bands with half a dozen new Spring-themed designs, Apple also announced this morning that its family of silicon and leather cases for the iPhone 7 and iPhone 7 Plus family now comes in six new Apple-designed colors that conveniently match the new Apple Watch bands.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/03/iPhone-7-cases-new-colors-002.jpg)

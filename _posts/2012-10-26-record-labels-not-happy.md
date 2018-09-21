@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Record labels reportedly unhappy with Apple's radio service proposal
+title: Record labels reportedly unhappy with Apples radio service proposal
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/itunes-music.png)
 * By now, you’ve probably heard the rumors that Apple is working on a Pandora-like internet radio service. Yesterday, Bloomberg added to the speculation, saying that a deal with record labels could be reached by mid-November.

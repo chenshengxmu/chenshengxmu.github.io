@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Following 'Dungeons' cancelation, new evidence suggests Infinity Blade 3 in the works
+title: Following Dungeons cancelation, new evidence suggests Infinity Blade 3 in the works
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/infinity-blade-ss.jpg)
 * Following months of silence, Chair co-founder and Creative Director Donald Mustard announced last month that ‘Infinity Blades: Dungeons’ had been canceled. Rumors about the game had been bouncing around since it debuted onstage at Apple’s iPad 3 event.

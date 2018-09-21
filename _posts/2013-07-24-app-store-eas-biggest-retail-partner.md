@@ -1,6 +1,6 @@
 ---
 layout: post
-title: App Store is now EA's biggest retail partner
+title: App Store is now EAs biggest retail partner
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/iOS-7-App-Store-teaser-004.jpg)
 * Electronic Arts, the most prolific games publisher, during a conference call discussing its June quarter earnings, paid a nice little lip service to Apple by acknowledging that the App Store has become its biggest retail partner in terms of sales – and for the first time, too. That’s another important milestone for both Apple’s strides in the mobile gaming space and its application store, which last month celebrated its fifth birthday and 50 billionth app download…

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Take Notes Via Notification Center Using 'QuickMemo'
+title: How to Take Notes Via Notification Center Using QuickMemo
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/QuickMemo.png)
 * Need to jot down a quick phone number, recipe, directions, or an address? If you have an iPhone 4S, you could always rely on Siri, but what if you don’t?

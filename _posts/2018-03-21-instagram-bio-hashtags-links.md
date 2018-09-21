@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to use #hashtags and link to other people's profiles in your Instagram bio
+title: How to use #hashtags and link to other peoples profiles in your Instagram bio
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/03/Instagram-bio-hashtags-profile-links.jpg)
 * Instagram allows you to better express yourself and tell others about the things you care about by using hashtags and profile links in your bio section that lead to their corresponding pages.

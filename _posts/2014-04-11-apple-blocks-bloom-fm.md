@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple bans UK's iTunes Radio competitor from iAd
+title: Apple bans UKs iTunes Radio competitor from iAd
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/iTunes-Radio-three-up-iPhone-5.jpg)
 * Bloom.fm, a London-based music streaming service, on Friday made it known on Twitter that Apple’s blocked it from advertising on its iAd platform, citing competitive reasons.

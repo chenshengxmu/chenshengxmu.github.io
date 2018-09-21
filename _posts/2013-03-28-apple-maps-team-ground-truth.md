@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple looking to beef up Maps team with 'Ground Truth' managers
+title: Apple looking to beef up Maps team with Ground Truth managers
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/ground-truth-job-listings.png)
 * When Apple released iOS 6 last year, it replaced the long-running Google Maps app with its own in-house mapping software. And, as most of you know, it took a lot of criticism over the move due to its inaccurate map data, missing features and other issues.

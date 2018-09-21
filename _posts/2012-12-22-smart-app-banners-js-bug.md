@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JavaScript bug found in iOS 6's Smart App Banners
+title: JavaScript bug found in iOS 6s Smart App Banners
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/smart-app-banners-1.png)
 * This is kind of weird. A new bug has been discovered in iOS 6 that has to do with the Smart App Banners feature. It seems that the banners, which websites can implement to give users a direct link to apps, will turn on the JavaScript setting in Safari without warning.

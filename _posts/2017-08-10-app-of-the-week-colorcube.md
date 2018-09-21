@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's free app of the week- Colorcube
+title: Apples free app of the week- Colorcube
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/cube.png)
 * Apple on Thursday updated its App of the Week promotion with the game Colorcube. For the next 7 days, you can pick up the colorful puzzler for free on both iPhone and iPad—a nice little savings of a buck.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Snapchat's redesign caused daily active user base to fall for the first time since its inception
+title: Snapchats redesign caused daily active user base to fall for the first time since its inception
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/04/Snapchat-Spectacles-waater-resistance.jpg)
 * As part of its quarterly earnings announcement yesterday, Snap, Inc. has revealed that its number of daily active users fell by two percent to about 188 million.

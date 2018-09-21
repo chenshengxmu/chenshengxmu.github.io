@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to fix Cydia error "wow, you exceeded the number of package names this APT is capable of"
+title: How to fix Cydia error wow, you exceeded the number of package names this APT is capable of
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/exceeded-number-of-cydia-package-names.jpg)
 * Ever since the evasi0n jailbreak came out, we’ve been inundated with the same support request about a Cydia error that displays the following message: wow, you exceeded the number of package names this APT is capable of. The message also shows a couple more lines of errors but the first one really is the source of the problem.

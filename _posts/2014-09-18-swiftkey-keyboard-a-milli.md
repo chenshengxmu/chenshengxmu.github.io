@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SwiftKey's new iOS 8 keyboard surpasses 1 million downloads in first day
+title: SwiftKeys new iOS 8 keyboard surpasses 1 million downloads in first day
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/swiftkey-milli.jpg)
 * SwiftKey has announced today that its new iOS 8 keyboard has already surpassed the 1 million downloads mark. The news comes just 24 hours after Apple released the software update, which activated support for third party iOS keyboards.

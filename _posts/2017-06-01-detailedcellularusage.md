@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DetailedCellularUsage reveals hidden items in your iPhone's cellular usage report
+title: DetailedCellularUsage reveals hidden items in your iPhones cellular usage report
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/05/iPhone-Cellular-Data.jpg)
 * Cellular data is one of those things we seem to always use regularly, but fail to keep track of as efficiently as we could. This becomes a problem when you swear your data provider is over-charging you for your data usage.

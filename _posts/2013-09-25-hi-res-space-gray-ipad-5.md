@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hi-res photos of alleged 'Space Gray' iPad 5 shell surface
+title: Hi-res photos of alleged Space Gray iPad 5 shell surface
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/spacegray-ipad.jpg)
 * With the new iPhones now unveiled and shipping, the rumor mill’s attention of course turns to Apple’s tablet lines. It’s widely believed that we’ll see a media event for a new iPad and iPad mini next month.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Disney launches Movies Anywhere app with free digital download of Pixar's 'The Incredibles'
+title: Disney launches Movies Anywhere app with free digital download of Pixars The Incredibles
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/Disney-Movies-Anywhere-1.0-for-iOS-iPhone-screenshot-001.png)
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/Disney-Movies-Anywhere-1.0-for-iOS-iPhone-screenshot-002.png)

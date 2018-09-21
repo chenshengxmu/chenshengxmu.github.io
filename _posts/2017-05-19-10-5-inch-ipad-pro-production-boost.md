@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple boosts production of 10.5" iPad Pro ahead of rumored WWDC reveal
+title: Apple boosts production of 10.5 iPad Pro ahead of rumored WWDC reveal
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/10.5-inch-iPar-Pro-Dan-Provost.jpeg)
 * Apple has boosted production of a rumored 10.5-inch iPad Pro model ahead of the tablet’s supposed reveal at the company’s annual pilgrimage for developers next month, Taiwanese trade publication DigiTimes said Friday.

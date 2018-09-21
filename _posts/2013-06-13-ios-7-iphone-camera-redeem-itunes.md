@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New in iOS 7- redeem iTunes cards with your iPhone's iSight camera
+title: New in iOS 7- redeem iTunes cards with your iPhones iSight camera
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/iOS-7-Redeem-iTunes-card-001.jpg)
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/iOS-7-Redeem-iTunes-card-002.jpg)

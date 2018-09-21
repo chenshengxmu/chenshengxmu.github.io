@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook tells CNBC Apple has 'great innovation in the pipeline'
+title: Tim Cook tells CNBC Apple has great innovation in the pipeline
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/tim-cook-cnbc.png)
 * Tim Cook on Monday appeared on CNBC’s ‘Mad Money’ to talk with host Jim Cramer about Apple’s recent earnings report. The iPhone maker announced weaker-than-expected Q2 sales last week, and its stock has since dropped more than 10 points.

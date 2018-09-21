@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Fails Greenpeace "Dirty Data" Report
+title: Apple Fails Greenpeace Dirty Data Report
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/green-apple-e1303511406412.jpg)
 * The environmental group known as Greenpeace has been keeping an eye on Apple’s “Green” initiatives for quite some time. Back in 2006, the organization gave Apple an environmental rating of 2.7 out of 10. A year later, the group publicly protested the Mac-maker by shining green spotlights on Apple’s flagship retail store in New York City.

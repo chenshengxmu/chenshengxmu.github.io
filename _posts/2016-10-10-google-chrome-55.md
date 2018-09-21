@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Chrome 55 won't take up as much memory on websites that use JavaScript
+title: Google Chrome 55 wont take up as much memory on websites that use JavaScript
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/Google-Chrome-logo-medium.png)
 * An upcoming update to Google’s Chrome browser won’t take up as much memory on desktop or mobile websites that use JavaScript as before, CNET reported. Chrome 55 for desktop and mobile, scheduled to release on December 6, packs in an improved JavaScript engine dubbed V8 that was designed to “significantly reduced the memory footprint” of websites like Imgur, Reddit, Twitter and The New York Times.

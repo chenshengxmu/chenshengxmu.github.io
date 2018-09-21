@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Apple Store app in the works with 'For You' recommendations
+title: New Apple Store app in the works with For You recommendations
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/04/apple-store-app.png)
 * Apple is currently working on a redesigned version of its Apple Store mobile app with new recommendation features, reports Bloomberg. Citing sources familiar with the project, the outlet says the updated app could be rolled out in the next two weeks.

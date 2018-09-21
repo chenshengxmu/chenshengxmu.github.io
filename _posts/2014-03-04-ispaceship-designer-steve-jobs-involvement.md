@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iSpaceship designer talks Steve Jobs involvement, project's scale and smart planning
+title: iSpaceship designer talks Steve Jobs involvement, projects scale and smart planning
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/iSpaceship-Scale-model.jpg)
 * Apple has just finished demolishing the Campus 2 site after receiving an unanimous approval for the project from the Cupertino City Council last November. When construction completes in 2016, a whopping 12,000 Apple employees will move into their new 2.8 million square foot, ring-shaped home.

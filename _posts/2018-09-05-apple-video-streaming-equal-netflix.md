@@ -1,6 +1,6 @@
 ---
 layout: post
-title: By 2025, Apple's original video streaming business could equal Netflix
+title: By 2025, Apples original video streaming business could equal Netflix
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/09/room-2559790_1920.jpg)
 * At last count, Apple has over 20 original video streaming projects in development. Despite this, the iPhone maker has yet to announce how it plans on distributing these shows or when they will begin rolling out to the public. Even without knowing this information, a team from Morgan Stanley suggests Apple’s foray into video production could prove successful relatively quickly.

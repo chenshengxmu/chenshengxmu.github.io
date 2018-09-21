@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amazon asks judge to drop the 'App Store' claim
+title: Amazon asks judge to drop the App Store claim
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/03/amazon-appstore.png)
 * Online retailer Amazon has asked a federal judge to throw out Apple’s legal maneuvering seeking to challenging Amazon’s use of the “Appstore” term due to similarities with Apple’s App Store trademark. The contention erupted in March of last year, when Apple sued Amazon over the App Store moniker. The online retailer was using the ‘app store’ term in their developer portal and other marketing materials, with Apple arguing the similarity with its own App Store name may have led to customer confusion…

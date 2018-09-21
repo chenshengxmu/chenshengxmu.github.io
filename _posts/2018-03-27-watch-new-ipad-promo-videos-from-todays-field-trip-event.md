@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Watch new iPad promo videos from today's Field Trip event
+title: Watch new iPad promo videos from todays Field Trip event
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/03/Education-iPad-video-001.jpg)
 * Apple’s education-only Field Trip event just wrapped up.

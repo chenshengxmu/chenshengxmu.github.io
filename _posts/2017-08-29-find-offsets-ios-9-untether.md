@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to find offsets for tihmstar's iOS 9 untether (and how to untether your Home Depot jailbreak)
+title: How to find offsets for tihmstars iOS 9 untether (and how to untether your Home Depot jailbreak)
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/untether-home-depot-cydia.png)
 * Want to turn your semi-tethered Home Depot jailbreak on iOS 9.1-9.3.4 into fully untethered? I’ll show you how to find the offsets to do so, and how to be part of finishing up the jailbreak simultaneously.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to have your iPhone's flash blink when receiving calls or messages
+title: How to have your iPhones flash blink when receiving calls or messages
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/iPhone-6-gray-silver-gold-back-camera-e1422282932304.jpg)
 * Your iPhone usually lets you know when a notification comes in with sound, vibration or both. But in certain situations, audible alerts and vibration won’t be enough to attract your attention, like when in a loud environment such as a night club. Or perhaps you simply don’t want to be disturbed with sound or vibration at all.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dedicated Connect tab is going away in iOS 10's Apple Music overhaul
+title: Dedicated Connect tab is going away in iOS 10s Apple Music overhaul
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/07/How-to-replace-Connect-with-Playlists-iOS-8.4-Music-iPhone-screenshot-003.png)
 * Apple is going to pull plug on the dedicated Apple Music Connect tab when iOS 10 launches this fall, if a new report from 9to5Mac’s Mark Gurman is anything to go by. Citing sources familiar with the upcoming Apple Music overhaul, the publication claims that the Connect tab will be “demoted,” its functionality integrated into the For You recommendations section.

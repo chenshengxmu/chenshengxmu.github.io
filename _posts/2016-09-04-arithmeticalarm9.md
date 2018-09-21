@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ArithmeticAlarm9- solve a math problem to snooze your iPhone's alarm
+title: ArithmeticAlarm9- solve a math problem to snooze your iPhones alarm
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/ArithmeticAlarm9-Lock-Screen-Math.jpg)
 * What’s worse than an alarm going off in the morning to wake you up from your comfortable bed? How about being late to work or school because you made it too easy to snooze your wake-up alarm?

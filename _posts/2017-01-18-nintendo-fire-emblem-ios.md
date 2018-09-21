@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nintendo announces new 'Fire Emblem' game coming to iOS February 2
+title: Nintendo announces new Fire Emblem game coming to iOS February 2
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/01/fire-emblem.png)
 * Nintendo on Wednesday announced that its next game released for mobile will be a new entry from the popular Fire Emblem franchise. It’s called Fire Emblem Heroes, and it is slated to launch on iOS and Android on February 2.

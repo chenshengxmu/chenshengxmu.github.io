@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's Charlie Rose's full interview with Apple's boss Tim Cook
+title: Heres Charlie Roses full interview with Apples boss Tim Cook
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/charlie-rose-tim-cook.png)
 * CBS journalist and television talk show host Charlie Rose interviewed Apple’s Tim Cook last December, but the complete video of the interview was behind the paywall up until recently.

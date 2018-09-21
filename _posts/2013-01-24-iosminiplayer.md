@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sentry teases video for upcoming 'iOS MiniPlayer' tweak
+title: Sentry teases video for upcoming iOS MiniPlayer tweak
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/miniplayer.jpg)
 * Do you love iTunes 11‘s MiniPlayer so much you wish you could just take it with you when you leave the house? If so, Sentry’s latest concept for an iOS MiniPlayer will be a dream come true.

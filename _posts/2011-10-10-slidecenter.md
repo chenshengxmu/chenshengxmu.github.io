@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Add Slideshow Capabilities to Notification Center With 'SlideCenter'
+title: Add Slideshow Capabilities to Notification Center With SlideCenter
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/SlideCenter.png)
 * What do you get when you mix a slideshow with iOS 5’s Notification Center? You get SlideCenter. That’s right, there’s little creativity in the naming department these days.

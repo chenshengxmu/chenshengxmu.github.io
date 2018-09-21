@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's Allo messaging app hits the App Store and it logs all your chats
+title: Googles Allo messaging app hits the App Store and it logs all your chats
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/Google-Allo-iPhone-screenshot-003.jpg)
 * At the annual I/O developer conference in April 2016, Google previewed two new mobile apps: a one-to-one video calling app called Duo, which released in mid-August, and a messaging software called Allo, which surfaced on the App Store this morning as a free download.

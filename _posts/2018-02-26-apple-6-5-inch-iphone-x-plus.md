@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple said to be working on 6.5-inch 'iPhone X Plus' with 1242 x 2688 resolution
+title: Apple said to be working on 6.5-inch iPhone X Plus with 1242 x 2688 resolution
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/iPhone-X-Display.jpg)
 * The 2018 iPhone lineup will include a near-6.5-inch model, reports Bloomberg. The outlet says the handset, which would be the largest ever for Apple, will feature an OLED panel with a resolution of 1242 x 2688.

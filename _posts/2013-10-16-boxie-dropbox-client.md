@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Boxie app promises to 'prettify your Dropbox'
+title: New Boxie app promises to prettify your Dropbox
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/boxie-2.png)
 * I’ve never thought that there was anything wrong with Dropbox’s iPhone client. It works well enough for me. But there are some folks who think the app lacks features, is tough to use, and isn’t visually appealing.

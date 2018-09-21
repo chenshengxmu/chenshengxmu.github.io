@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nomad's new Lightning cables cross durability with function
+title: Nomads new Lightning cables cross durability with function
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/11/Nomad-All-Cables-iPhone.png)
 * When you decide to pick up another Lightning cable for your iPhone or iPad, you could choose to go chintzy with another OEM cable that’ll just wear out again in no time at all, or you can go with a beefier option that will have a much longer operating life.

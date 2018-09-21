@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Verizon's LTE launches in 6 new markets, now available in nearly 500 U.S. locations
+title: Verizons LTE launches in 6 new markets, now available in nearly 500 U.S. locations
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/Verizon-4G-LTE-coverage-20130520.png)
 * Verizon’s aggressive 4G LTE network roll-out continues unabated. The nation’s leading wireless carrier on Monday announced six new markets getting its speedy fourth-generation Long-Term Evolution (LTE) radio technology today: Durango, Colorado; Corbin and Madisonville, Kentucky; Adrian and Mount Pleasant, Michigan; and Marietta, Ohio.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T's 'best-ever' smartphone sales hint at 8M iPhones in Q4 2012
+title: AT&Ts best-ever smartphone sales hint at 8M iPhones in Q4 2012
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/iPhone-5-in-hand.png)
 * What can be divined from AT&T’s announcement of record smartphone sales during the holiday quarter? According to one Apple watcher, the fact that the Dallas-based carrier sold ten million Apple, Android and Windows smartphones likely means the bulk – more than eight million – were iPhones. According to Piper Jaffray’s Gene Munster, during the holiday quarter of 2011, the wireless company sold 9.4 million smartphones, 7.6 million of which were Apple’s handset. Because of that trend, Munster is forecasting 8.1 million iPhones were sold during the fourth quarter of 2012…

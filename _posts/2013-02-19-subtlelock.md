@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SubtleLock lends a subdued look to the iPhone's Lock screen
+title: SubtleLock lends a subdued look to the iPhones Lock screen
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/SubtleLock-Featured.png)
 * Looking for a Lock screen a bit on the unassuming side of things? Then try out this new jailbreak tweak entitled SubtleLock. This is a tweak that makes both the ‘slide to unlock’ and the clock section on your Lock screen a bit smaller.

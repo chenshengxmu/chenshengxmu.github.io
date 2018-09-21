@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Geohot "makes it ra1n" on Android with a rooting tool for the Samsung Galaxy S5
+title: Geohot makes it ra1n on Android with a rooting tool for the Samsung Galaxy S5
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/Towelroot-Make-it-Ra1n.png)
 * Geohot—a name that’s virtually synonymous with iPhone jailbreaking—has taken up quite a few different ventures since departing from the jailbreak scene. He’s dabbled in Playstation 3 hacking, and working at Facebook. He was even rumored to have been on the precipice of an iOS 7 jailbreak, but nothing formally materialized from him.

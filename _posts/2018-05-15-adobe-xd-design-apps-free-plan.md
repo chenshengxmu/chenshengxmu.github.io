@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adobe's new Starter plan offers free usage of XD design apps
+title: Adobes new Starter plan offers free usage of XD design apps
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/05/Adobe-XD-for-Mac-001.jpg)
 * Adobe today announced that its XD design software is now free via a new Starter plan while also releasing a host of new features and assets for XD users.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple rejects Sparrow's iPhone 5 update
+title: Apple rejects Sparrows iPhone 5 update
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/Sparrow-for-Mac-and-iPhone-teaser.jpg)
 * Bad news for folks who were looking forward to Sparrow’s iPhone 5 update. It appears that it’s going to take longer than anticipated, as Apple has rejected the update submission due to it violating its App Store guidelines.

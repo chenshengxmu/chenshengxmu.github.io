@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New iOS 6.x jailbreak to be called 'evasi0n'
+title: New iOS 6.x jailbreak to be called evasi0n
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/Screen-Shot-2013-01-30-at-4.37.55-PM.png)
 * The iOS 6.x jailbreak has a name, and it’s ‘evasi0n.’ The evad3rs—a team of hackers made up of musclenerd, pod2g, pimskeks, and planetbeing—have just launched their official website. And their first post is a big one.

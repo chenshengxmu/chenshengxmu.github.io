@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Taylor Swift dances to “The Darkness” like no one's watching in latest Apple Music ad
+title: Taylor Swift dances to “The Darkness” like no ones watching in latest Apple Music ad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/Taylor-Swift-Apple-Music-ad-image-001.jpg)
 * We’ve already seen pop singer Taylor Swift wipe out on the treadmill and drop a mic like a pro in a pair of amusing television commercials for Apple’s $9.99 per month subscription music service. This morning, she tweeted out another short video created to promote Apple Music. “Dance like no one’s watching,” reads the tweet. In the new video, Swift dances around her living room to The Darkness’ song “I Believe In A Thing Called Love”.

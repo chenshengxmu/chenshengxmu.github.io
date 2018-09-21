@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KGI- Apple won't be switching to AMOLED screens for iPhones anytime soon
+title: KGI- Apple wont be switching to AMOLED screens for iPhones anytime soon
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/iPhone-6-inside-view-retina-hd-display.png)
 * Talk of an iPhone equipped with a power-efficient AMOLED screen technology has persisted for years. Yet, Apple continues to build iPhones with LCD screens that use a premium display technology, called IPS (In-Plane Switching), for wide viewing angles and improved image quality.

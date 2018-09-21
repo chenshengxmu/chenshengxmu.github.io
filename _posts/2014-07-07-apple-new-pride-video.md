@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple celebrates diversity and equality in new 'Pride' video
+title: Apple celebrates diversity and equality in new Pride video
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/pride.png)
 * At the end of June, San Francisco held its 44th annual Pride parade where people from all around the world marched to show their support of the LGBT community. Several tech companies, including Apple, participated in the event.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's AuthenTec purchase indicates an e-wallet fingerprint service
+title: Apples AuthenTec purchase indicates an e-wallet fingerprint service
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/AuthenTec-teaser.jpg)
 * Apple’s $356 million acquisition of mobile security firm AuthenTec (already under investigation, by the way) has been already deemed by one analyst as a move meant to bolster security of iOS devices in enterprise. Now another analysts chimes in with speculation that the transaction, still pending approval, will probably help Apple create a mobile payment system around future iOS devices built around an e-wallet fingerprint service…

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to enable Dark Mode for YouTube's web interface
+title: How to enable Dark Mode for YouTubes web interface
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/04/Google-Chrome-for-Mac-YouTube-Dark-Mode-screenshot-004.jpg)
 * YouTube has offered a cool Dark Mode for some time now to those who’ve had its Material Design look.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wi-Fi Sync's Similarity to Rejected App Surprised its Original Creator
+title: Wi-Fi Syncs Similarity to Rejected App Surprised its Original Creator
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/Side-by-side-comparison-of-Wi-Fi-Sync-logos.jpeg)
 * When Apple announced its iOS software update at its WWDC keynote on Monday, one much-vaunted feature caught the eye of a university student in Birmingham, England. Greg Hughes apparently looked on in surprise as Apple announced iOS 5’s PC-Free credentials including Wi-Fi iTunes syncing. Surprise came from the fact that Hughes had submitted an app to Apple’s App Store that did the exact same thing, an app that was rejected by the Cupertino outfit.

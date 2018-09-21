@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Watch doesn't work with 5Ghz Wi-Fi networks
+title: Apple Watch doesnt work with 5Ghz Wi-Fi networks
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/05/Apple-Watch-disconnected-001.jpg)
 * In addition to Bluetooth, the Apple Watch also relies on Wi-Fi to communicate with its paired iPhone. In fact, the device can provide a number of useful features over Wi-Fi when iPhone isn’t in Bluetooth range such as Messages, Siri and more.

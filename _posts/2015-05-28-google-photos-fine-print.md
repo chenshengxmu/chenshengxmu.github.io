@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The fine print of Google Photos and why you shouldn't ditch iCloud Photo Library just yet
+title: The fine print of Google Photos and why you shouldnt ditch iCloud Photo Library just yet
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/05/Google-Photos-Android-screenshot-001.jpg)
 * I jumped with joy after reading Cody’s coverage of Google Photos. I mean, who wouldn’t want a sleek photo service across iOS, Android and the web that came with truly unlimited storage, right?

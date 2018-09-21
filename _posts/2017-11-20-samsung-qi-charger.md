@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Juicing up your iPhone 8 & iPhone X using Samsung's 10W Qi wireless charger
+title: Juicing up your iPhone 8 & iPhone X using Samsungs 10W Qi wireless charger
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/Samsung-Qi-charger-image-001.jpg)
 * Samsung’s Qi charger is an affordable way to wirelessly charge your new iPhone X or iPhone 8.

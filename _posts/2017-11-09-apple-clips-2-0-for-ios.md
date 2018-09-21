@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Clips app gains iPhone X support, 360° selfie scenes, Star Wars stickers & more
+title: Apples Clips app gains iPhone X support, 360° selfie scenes, Star Wars stickers & more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/Clips-2.0-for-iOS-iPhone-X-screenshot-001.jpg)
 * Aside from today’s release of iOS 11.1.1 that fixed an issue where “Hey Siri” stopped working and squashed the embarrassing “A [?]” autocorrect bug, Apple also announced a major update to its Clips social video app for iPhone and iPad.

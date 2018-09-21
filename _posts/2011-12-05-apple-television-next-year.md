@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rumor- Apple Television Set for Next Year, Ranging in Sizes From 32" to 55"
+title: Rumor- Apple Television Set for Next Year, Ranging in Sizes From 32 to 55
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/itv.jpg)
 * Analysts, investors, and tech pundits have been predicting an Apple-flavored TV set for quite some time now. It seems like everyone wants to see the company do for televisions, what it has for smartphones and tablets.

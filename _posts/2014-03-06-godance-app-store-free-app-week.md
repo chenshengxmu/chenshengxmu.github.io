@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sega's Go Dance goes free as Apple's App of the Week
+title: Segas Go Dance goes free as Apples App of the Week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/Sega-Go-Dance-iPHone-screenshot-001.jpeg)
 * It’s Thursday and those who frequent iDownloadBlog know what that means as the App Store editors get to chose a new app to go free for the next seven days.

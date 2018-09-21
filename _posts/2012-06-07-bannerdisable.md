@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BannerDisable adds a new "Do Not Disturb" option to your iPhone
+title: BannerDisable adds a new Do Not Disturb option to your iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/BannerDisable-Screenshot.jpg)
 * BannerDisable is a jailbreak tweak that adds a new “Do Not Disturb” toggle switch to the iPhone’s settings app. This switch allows you to globally enable or disable banner notifications on the fly, which can be very useful if you’re trying to get some rest or take a meeting.

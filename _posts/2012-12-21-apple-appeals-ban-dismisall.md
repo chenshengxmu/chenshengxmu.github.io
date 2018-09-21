@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple appeals Judge's decision to dismiss Samsung injunction
+title: Apple appeals Judges decision to dismiss Samsung injunction
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/courtroom-gavel.jpg)
 * As expected, Apple is filing for an appeal on Judge Koh’s decision to throw out its request for a permanent injunction against Samsung’s products. In addition to the $1 billion in damages it won back in August, the iPad-maker was seeking a US sales ban on all of Samsung’s infringing devices.

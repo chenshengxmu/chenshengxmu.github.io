@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gameloft releases 'GT Racing 2- The Real Car Experience'
+title: Gameloft releases GT Racing 2- The Real Car Experience
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/gt-racing-1.jpg)
 * Great news gamers, Gameloft has made good on its promise to release a sequel to their popular sim-racer GT Racing today. It’s called ‘GT Racing 2: The Real Car Experience’ and it’s now available for download.

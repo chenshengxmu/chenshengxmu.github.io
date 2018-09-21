@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Facebook's Snapchat competitor 'Slingshot' briefly appears in the App Store
+title: Facebooks Snapchat competitor Slingshot briefly appears in the App Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/facebook-slingshot.png)
 * Last month, word got out that Facebook was working on a Snapchat competitor called Slingshot. Despite the company’s recent $19 billion acquisition of WhatsApp, it’s still very interested in the video and ephemeral messaging space that’s popular among teens.

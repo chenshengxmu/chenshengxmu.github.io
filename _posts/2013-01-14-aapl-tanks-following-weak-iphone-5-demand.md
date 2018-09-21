@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AAPL tanks below $500 on 'weaker than expected' iPhone 5 demand rumor
+title: AAPL tanks below $500 on weaker than expected iPhone 5 demand rumor
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/Yahoo-finance-AAPL-20130114.png)
 * AAPL fell briefly below $500 this morning following The Wall Street Journal and the Nikkei newswire reports of the iPhone 5 part orders halved amid what’s being claimed a ‘weaker-than-expected’ global demand for the handset. Specifically, shares briefly sank to $497 in pre-market trading Monday as investors reacted to the news.

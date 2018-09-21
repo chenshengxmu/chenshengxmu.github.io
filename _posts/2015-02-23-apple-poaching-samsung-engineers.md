@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rumor- Apple poaching Samsung's semiconductor and battery experts
+title: Rumor- Apple poaching Samsungs semiconductor and battery experts
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/Apple-A9-mockup-002.jpg)
 * Apple is luring Samsung Electronics’ engineers, including chip experts who specialize ”in next-generation technology” related to signal and visual-processing management and battery technology, offering raises and competitive benefits, according to a report Monday by The Korea Times.

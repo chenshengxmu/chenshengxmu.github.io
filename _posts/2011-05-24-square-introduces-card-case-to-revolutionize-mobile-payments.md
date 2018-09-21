@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Square Introduces "Card Case" to Revolutionize Mobile Payments
+title: Square Introduces Card Case to Revolutionize Mobile Payments
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/05/Square-Card-Case-e1306188725665.png)
 * We’ve told you about the revolutionary mobile payment system for iOS, called Square. As a creation by  Twitter’s co-founder, Jack Dorsey, Square aimed at bringing mobile payments to the iPhone and iPad in a way that’s never been done before.

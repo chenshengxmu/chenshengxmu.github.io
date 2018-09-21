@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rovio's 'Red's Mighty Feathers' update combines Angry Birds and Bad Piggies
+title: Rovios Reds Mighty Feathers update combines Angry Birds and Bad Piggies
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/Angri-Birs-Reds-Mighty-Feathers-update.jpg)
 * A while ago we stopped posting stories about episodic updates to Rovio’s Angry Birds bird-flinging series because we felt these games have run their course. Today’s update is different and noteworthy because for the first time Rovio has brought Angry Birds and Bad Piggies together in a Red’s Mighty Feathers update to the original Angry Birds game.

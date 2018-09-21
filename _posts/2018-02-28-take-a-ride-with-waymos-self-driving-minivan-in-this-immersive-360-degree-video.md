@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Take a ride with Waymo's self-driving minivan in this immersive 360-degree video
+title: Take a ride with Waymos self-driving minivan in this immersive 360-degree video
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/02/Waymo-self-driving-minivan-002.jpeg)
 * Today, Waymo has the world’s first and only fleet of fully self-driving cars on public roads.

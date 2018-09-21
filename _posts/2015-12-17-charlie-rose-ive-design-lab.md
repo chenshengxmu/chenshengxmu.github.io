@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Charlie Rose offering inside look at Jony Ive's design lab, new store design on Sunday
+title: Charlie Rose offering inside look at Jony Ives design lab, new store design on Sunday
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/12/ive-and-rose.jpeg)
 * Noted journalist and television talk show host Charlie Rose will be offering an inside look at Jony Ive’s design lab and new store design on Sunday. CBS’ TV series 60 Minutes announced Rose’s upcoming segment via Twitter late Thursday evening.

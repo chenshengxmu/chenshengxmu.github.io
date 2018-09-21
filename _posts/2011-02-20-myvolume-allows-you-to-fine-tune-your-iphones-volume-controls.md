@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MyVolume' Allows You to Fine Tune Your iPhone's Volume Controls
+title: MyVolume Allows You to Fine Tune Your iPhones Volume Controls
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/02/MyVolume-03.jpg)
 * If you’re serious about customizing your iPhone’s sound, there’s likely no better candidate to meet your needs than MyVolume.

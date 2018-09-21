@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hulu's $40 per month Live TV service launches, app hits App Store
+title: Hulus $40 per month Live TV service launches, app hits App Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/05/Hulu-Live-TV-for-iOS-iPhone-screenshot-001.jpg)
 * Hulu’s long-expected live TV service has gone official with today’s launch of the Hulu Live TV app on App Store. Designed for iPhone, iPad, iPod touch and Apple TV, the software lets subscribers access the entire Hulu streaming library and more than 50 top live and on-demand channels, including FOX, ABC, NBC, CBS, ESPN, FX, NBCSN, FS1, History Channel and TNT.

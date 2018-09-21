@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twelve South's new chic holster for Apple Pencil features integrated magnets
+title: Twelve Souths new chic holster for Apple Pencil features integrated magnets
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/Twelve-South-PencilSnap-007.jpg)
 * Premium Apple accessory maker Twelve South on Tuesday announced PencilSnap, its brand new leather case designed specifically for Apple Pencil that takes advantage of a series of built-in magnets to attach securely to your iPad Pro cover wherever you go.

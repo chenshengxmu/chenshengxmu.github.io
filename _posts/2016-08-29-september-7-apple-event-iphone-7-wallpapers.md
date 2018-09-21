@@ -1,6 +1,6 @@
 ---
 layout: post
-title: September 7 Apple event wallpapers- "See you on the 7th"
+title: September 7 Apple event wallpapers- See you on the 7th
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/08/September-7-splash.jpg)
 * Apple just announced the iPhone 7 media event, to be held on September 7. Their invitation has sparked many comments and additional rumors about the content of the media event. “See you on the 7th” could hint at many different announcements, but perhaps the strongest is optical or camera upgrades.

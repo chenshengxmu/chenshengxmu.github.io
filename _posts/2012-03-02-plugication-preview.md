@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Plugication' will automatically restart music when headphones are connected
+title: Plugication will automatically restart music when headphones are connected
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/Plugication-Screenshot.jpg)
 * Tweaks like these are the reason why I love jailbreaking so much. Jailbreaking allows you to add obvious features to the iPhone that Apple may have looked over, or purposely omitted.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BitTorrent's new media-streaming app for iPhone, iPad and Apple TV is arriving soon
+title: BitTorrents new media-streaming app for iPhone, iPad and Apple TV is arriving soon
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/BitTorrent-Now-for-iOS-iPhone-screenshot-001.jpg)
 * BitTorrent yesterday announced it’ll be releasing a brand new application in the near future. Called Now, the software will let users stream videos and music from independent artists and studios to their iPhone, iPad, iPod touch and Apple TV.

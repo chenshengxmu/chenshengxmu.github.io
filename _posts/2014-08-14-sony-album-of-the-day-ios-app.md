@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sony releases 'Album of the Day' for iPhone app
+title: Sony releases Album of the Day for iPhone app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/Album-of-the-Day-1.24-for-iOS-iPhone-screenshot-001.jpeg)
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/Album-of-the-Day-1.24-for-iOS-iPhone-screenshot-002.jpeg)

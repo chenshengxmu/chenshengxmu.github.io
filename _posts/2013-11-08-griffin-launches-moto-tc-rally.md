@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Griffin introduces new iOS-controlled 'Moto TC Rally' car
+title: Griffin introduces new iOS-controlled Moto TC Rally car
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/moto-tc-rally-outside-1.jpg)
 * Folks in the market for a new remote control car that you can control with an iOS device should check out Griffin’s new ‘Moto TC Rally’ offering. It’s half the price of the recently released Anki Drive kit and uses Bluetooth 4.0.

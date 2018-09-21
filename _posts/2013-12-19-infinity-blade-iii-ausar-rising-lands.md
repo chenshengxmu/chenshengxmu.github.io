@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ausar Rising' update now available as Infinity Blade III goes half price
+title: Ausar Rising update now available as Infinity Blade III goes half price
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/Infinity-Blade-III-Oslim-the-Deathless-Bloodmage.jpg)
 * Chair Entertainment’s Infinity Blade franchise has received a massive content update this morning. Hot on the heels of releasing the first major Soul Hunter content pack, Infinity Blade III Ausar Rising is now available as a free download for those who’ve purchased the game.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amazon Announces the Kindle Fire Tablet for People that Don't Have an iPad
+title: Amazon Announces the Kindle Fire Tablet for People that Dont Have an iPad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/Fire2-e1317225693652.jpeg)
 * Today Amazon unveiled the ‘Kindle Fire’ tablet and the e-ink ‘Kindle Touch’ reader. Priced at $199, the Kindle Fire is a full-featured tablet running Android under the hood with an interface that is totally Amazon’s.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fast Copy Speeds Up Your iPhone's Copy and Paste Functionality
+title: Fast Copy Speeds Up Your iPhones Copy and Paste Functionality
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/10/Fast-Copy-e1287967169606.png)
 * Every so often, a tweak comes around that simply makes the iPhone better to use. Fast Copy is the type of tweak that falls perfectly into that category, taking basic iPhone functionality and improving it.

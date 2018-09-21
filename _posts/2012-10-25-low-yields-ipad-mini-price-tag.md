@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Low touch screen yields blamed for the iPad mini's price tag
+title: Low touch screen yields blamed for the iPad minis price tag
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/iPad-mini-promo-users-005.jpg)
 * With so many people seemingly disappointed that the iPad mini starts at $329 rather than $249 or even $199, we polled you ahead of the announcement on the price and only seven percent thought only Apple could get away with pricing the device at $329. And yesterday, in another poll more than forty percent said they would be getting one (more than half would opt for the entry-level WiFi-only model).

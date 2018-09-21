@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rayman Fiesta Run for iPhone and iPad slashed to $0 in Apple's Free App of the Week promo
+title: Rayman Fiesta Run for iPhone and iPad slashed to $0 in Apples Free App of the Week promo
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/11/Rayman-Fiesta-Run-1.5.2-for-iOS-iPhone-screenshot-001.jpeg)
 * Since its November 2013 debut, Ubisoft’s Rayman Fiesta Run has only gone free briefly through an in-app promotion within the Expedia app.

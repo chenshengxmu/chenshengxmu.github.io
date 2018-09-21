@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ColoredKnob' Updated With a Host of New Colors
+title: ColoredKnob Updated With a Host of New Colors
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/ColoredKnob-Blue.jpg)
 * ColoredKnob is a tweak that we covered in the past, and it was met with a fairly warm reception. We really liked it; in fact, the only thing holding us back from absolutely loving it was the limited amount of colors available in the initial release.

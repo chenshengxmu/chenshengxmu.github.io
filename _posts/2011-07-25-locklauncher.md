@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LockLauncher' Adds App Shortcuts to Your Lockscreen
+title: LockLauncher Adds App Shortcuts to Your Lockscreen
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/07/LockLauncher-e1311609422107.png)
 * One of the much anticipated features of iOS 5 is the ability to launch the camera app directly from your lockscreen.

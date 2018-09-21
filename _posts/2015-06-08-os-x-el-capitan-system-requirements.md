@@ -1,6 +1,6 @@
 ---
 layout: post
-title: If your Mac can run Yosemite, it'll run El Capitan just fine
+title: If your Mac can run Yosemite, itll run El Capitan just fine
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/OS-X-El-Capitan.jpg)
 * Just like the rumors have predicted, OS X 10.11 El Capitan is short on major headline-grabbing features Apple fans have grown accustomed to.

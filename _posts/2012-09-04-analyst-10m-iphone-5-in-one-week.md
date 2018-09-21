@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Will the iPhone 5 outsell Samsung's Galaxy S III?
+title: Will the iPhone 5 outsell Samsungs Galaxy S III?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/iPhone-2007-launch.jpg)
 * Now that we have the official confirmation of Apple’s iPhone event taking place at San Francisco’s Yerba Buena Center for the Arts next Wednesday, the second part of iMore’s report mentioning September 21 availability (it’s a Friday) is almost certainly a done deal as well. Which means Apple will get to sell the iPhone 5 (or whatever you think it’s going to be called) for just ten days during the September quarter.

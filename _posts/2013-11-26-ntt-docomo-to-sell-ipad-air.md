@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Japan's NTT DoCoMo to land iPad Air real soon
+title: Japans NTT DoCoMo to land iPad Air real soon
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/docomo-e1378407444615.jpg)
 * NTT DoCoMo, Japan’s top wireless carrier with about sixty million subscribers, accounts for more than half of that country’s market for cell phones. Apple products – the iPhone in particular – are tremendously popular with the Japanese so fans will be delighted to learn that NTT will soon open sales for Apple’s new iPad Air.

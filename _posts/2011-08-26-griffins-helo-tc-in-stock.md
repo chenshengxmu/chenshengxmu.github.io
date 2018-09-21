@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Griffin's $50 Helo TC iPhone-Controlled Helicopter Now In-Stock!
+title: Griffins $50 Helo TC iPhone-Controlled Helicopter Now In-Stock!
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/griffin-tc-helo-1-e1313684463702.jpg)
 * Those of you paying attention will remember how just last week we told you about the Griffin Helo TC, a wonderful little helicopter that’s controlled by the power of your mind! Well, it actually needs an iPhone between your mind and the Helo TC, but still, that’s cool right?

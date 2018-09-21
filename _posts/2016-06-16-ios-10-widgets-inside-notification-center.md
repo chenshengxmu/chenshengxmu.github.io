@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No, widgets haven't been removed from iOS 10's Notification Center
+title: No, widgets havent been removed from iOS 10s Notification Center
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/ios-10-widgets-in-notification-center.jpg)
 * Widgets are a big deal in iOS 10. In addition to having new capabilities such as increased support for 3D Touch and the ability to play—and even stream—video inline, they now have a dedicated side panel on the Lock screen. Now, some people have voiced concerns about widgets having been removed entirely from the Notification Center on iOS 10.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Take a peek at Apple's new Texas offices, its second largest operation in the world
+title: Take a peek at Apples new Texas offices, its second largest operation in the world
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/Apple-Austin-Texas-campus-image-010-e1441634305681.jpg)
 * Austin American-Statesman on Monday published a nice photo gallery providing our first sneak peek at Apple’s new offices in Austin, Texas.

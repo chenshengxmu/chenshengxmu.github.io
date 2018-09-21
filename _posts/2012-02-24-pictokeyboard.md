@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PictoKeyboard' adds tons of new Unicode symbols to your iDevice
+title: PictoKeyboard adds tons of new Unicode symbols to your iDevice
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/PictoKeyboard-Screenshot.jpg)
 * If you’re one of those people that knows what U+F8FF means, or what Option+Shift+K does, then this post is for you. For those of you who aren’t aware, U+F8FF is the Unicode address for the Apple logo  (on Apple devices) that you see on a lot of Twitter profiles, etc.

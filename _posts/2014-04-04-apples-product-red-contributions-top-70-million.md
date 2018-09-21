@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's PRODUCT (RED) contributions top $70 million
+title: Apples PRODUCT (RED) contributions top $70 million
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/Square-Product-Red.jpeg)
 * Product Red – styled as (PRODUCT)RED – is a marketing brand licensed to other companies, established in 2006 by U2 frontman and activist, Bono, together with Bobby Shriver of the ONE/DATA, with the goal of raising awareness and funds to help eliminate HIV/AIDS in Africa.

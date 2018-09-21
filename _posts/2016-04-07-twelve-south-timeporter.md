@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twelve South unveils 'TimePorter,' a travel tote and portable charging stand for Apple Watch
+title: Twelve South unveils TimePorter, a travel tote and portable charging stand for Apple Watch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/04/Twelve-South-TimePorter-image-002.jpg)
 * Twelve South, the maker of premium Apple-exclusive accessories, on Thursday announced a combined charge and travel stand for the Apple Watch, dubbed the TimePorter. Resembling a luxury eyeglass case, this stylish accessory is designed to hold your Apple Watch charging cable, as well as extra Watch bands USB chargers and more. The case incorporates the Apple Watch charging disc and converts into a travel charging and display stand in an instant.

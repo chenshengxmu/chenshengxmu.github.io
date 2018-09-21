@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Childish- Samsung stages douchebag stunt urging Apple store shoppers to 'Wake Up'
+title: Childish- Samsung stages douchebag stunt urging Apple store shoppers to Wake Up
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/Samsung-Galaxy-S-III-Wake-Up-protest.jpg)
 * File this one under the WTF category. Not content with referring to Apple’s (and potentially its own) customers as the iSheep, South Korea-based Samsung has apparently staged a ‘spontaneous’ flash mob-style protest at an Apple store.

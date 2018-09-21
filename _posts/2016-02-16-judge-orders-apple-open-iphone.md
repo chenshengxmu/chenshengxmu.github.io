@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Judge orders Apple to help FBI recover data from San Bernardino shooter's iPhone
+title: Judge orders Apple to help FBI recover data from San Bernardino shooters iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/Resized-PasscodeTime.jpg)
 * A federal judge on Tuesday ordered Apple to help investigators access encrypted data on the iPhone used by one of the San Bernardino shooters, reports NBC News. The ruling says that the Cupertino firm must provide “reasonable technical assistance” to the FBI in recovering data from the handset.

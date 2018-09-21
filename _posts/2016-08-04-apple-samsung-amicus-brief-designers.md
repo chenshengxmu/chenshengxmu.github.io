@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's case against Samsung gets support from Dieter Rams, Calvin Klein & other designers
+title: Apples case against Samsung gets support from Dieter Rams, Calvin Klein & other designers
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/Apple-vs-Samsung-Apple-before-and-after-iPhone.jpg)
 * Apple’s mega-lawsuit against Samsung is now in the hands of the United States Supreme Court, which should start hearing Samsung’s appeal over Apple’s design patent case in October. Ahead of court proceedings, Apple today filed an amicus brief containing support from 111 famed designers.

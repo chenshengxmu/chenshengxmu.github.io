@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple to Hold "Special Event" on September 1st
+title: Apple to Hold Special Event on September 1st
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/08/Apple-Special-Event-Sept-1-2010.png)
 * Surprisingly, we didn’t get an invite for this, but TechCrunch did, and according to it, Apple will be holding a “special event” on September 1st, at the Yerba Buena Center for the Arts Theater in San Francisco at 10 am.

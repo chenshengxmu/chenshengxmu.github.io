@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft's post-PC trouble- capturing the profits of bygone days
+title: Microsofts post-PC trouble- capturing the profits of bygone days
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/Microsoft-Surface-ad-multiple-devices-hands-001.jpg)
 * Before PC demand dwindled, software giant Microsoft was happy with licensing its Windows software to computer makers. Now that we are taking the first steps into the post-PC era, the Redmond firm still wants its profit. But how do you charge a $50 per-tablet royalty fee when the device itself costs $199?

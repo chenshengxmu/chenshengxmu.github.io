@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Houdini "semi-jailbreak" for iOS 10.x released
+title: Houdini semi-jailbreak for iOS 10.x released
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/houdini-header.png)
 * You may remember us reporting on the most recent jailbreak to be released, Saïgon. Well, its developer Abraham Masri is back, with something inventive we haven’t seen before. Perhaps best described as a “semi-jailbreak”, his tool Houdini achieves some of the effects of a jailbreak, whilst avoiding the hardest challenges and pitfalls which constructing the full package would bring.

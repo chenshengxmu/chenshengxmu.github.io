@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's iOS Search app, now available with Google Now
+title: Googles iOS Search app, now available with Google Now
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/Google-Now-iOS-teaser-001.jpg)
 * Boom, just like that Google has issued an update to its excellent Search app for the iPhone and iPad which enables some of the most popular Google Now features on the iOS platform. At least initially, Google Now on iOS devices doesn’t support some of the features Android users have come to love.

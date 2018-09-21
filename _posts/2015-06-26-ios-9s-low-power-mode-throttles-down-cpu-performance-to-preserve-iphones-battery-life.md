@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 9's Low Power mode throttles down CPU performance to preserve iPhone's battery life
+title: iOS 9s Low Power mode throttles down CPU performance to preserve iPhones battery life
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/iOS-9-beta-2-Low-Power-mode-Geekbench-CPU-performance-iPhone-screenshot-001.jpg)
 * With iOS 9, Apple has brought out a brand new Low Power mode which kicks in when you’re nearly out of juice. It was designed to help extend your iPhone’s battery life, providing up to three hours of additional time before charging.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple seeds iOS 8 beta 3 to developers- here is what's new
+title: Apple seeds iOS 8 beta 3 to developers- here is whats new
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/iOS-8-logo-mockup-001.jpg)
 * Nearly three weeks after releasing the second beta of iOS 8, Apple has this morning seeded the third beta of iOS 8 to developers. The beta is labeled as build 12a4318c, and is available for compatible iPhone, iPad and iPod touch devices.

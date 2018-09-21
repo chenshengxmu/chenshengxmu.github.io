@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rumor- iPhone 8 won't ship with wireless charger, USB-C cable or headphone jack adapter
+title: Rumor- iPhone 8 wont ship with wireless charger, USB-C cable or headphone jack adapter
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/iPhone-8-Concept-iDrop-News-004.jpg)
 * Japanese blog Mac Otakara claimed Saturday that iPhone 8’s rumored wireless charging feature may require a dedicated wireless charger accessory that customers would need to purchase separately. Citing reliable sources within Apple’s supply chain, the story goes on to say that iPhone 8 also won’t ship with the 3.5mm headphone jack adapter found in the iPhone 7 box nor will it come with a Lightning to USB-C cable as some have hoped.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Strava Run app becomes first to utilize iPhone 5s' M7 [update- NOT]
+title: Strava Run app becomes first to utilize iPhone 5s M7 [update- NOT]
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/strata-run-2.png)
 * UPDATE: Strava Run is not the first app to take advantage of the M7. Read our post about Argus for the details.

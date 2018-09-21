@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sid Meier's Starships launches for iPad and Mac
+title: Sid Meiers Starships launches for iPad and Mac
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/Sid-Meier-Starships-teaser.jpeg)
 * Announced back in January, Sid Meier’s Starships, an interstellar companion to Civilization: Beyond Earth, launched Thursday for the iPad and Mac.

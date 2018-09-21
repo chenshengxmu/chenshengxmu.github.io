@@ -1,6 +1,6 @@
 ---
 layout: post
-title: YouTube's new Backstage section will let you share photos, polls, text & more with subscribers
+title: YouTubes new Backstage section will let you share photos, polls, text & more with subscribers
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/YouTube-logo-medium.png)
 * Just as we’re processing today’s news regarding an upcoming video-sharing app from Apple, a new report claims Google is set to enhance YouTube’s social experience in the fall by unveiling a new Backstage section in the mobile app and on the web.

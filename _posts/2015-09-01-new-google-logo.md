@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Have you checked out Google's new playful logo yet?
+title: Have you checked out Googles new playful logo yet?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/Google-2015-logo-medium.png)
 * As part of its massive restructuring effort, the Internet giant Google on Tuesday showed off its brand new logo. While the Mountain View company has refined its logo multiple times over the past seventeen years, today’s announcement marks the biggest visual change to Google’s brand identity thus far.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's 'Spaceship' campus approved by Cupertino City Council
+title: Apples Spaceship campus approved by Cupertino City Council
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/Apple-Campus-2-Rendering-001.jpg)
 * It looks like the brochures worked. Following the approval by the city’s Planning Commission earlier this month, Apple began sending out pamphlets to Cupertino residents to garner support for its ‘Spaceship’ campus ahead of its final meeting with City Council.

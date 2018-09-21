@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple ranks #1 again in Fortune's 'Most Admired Companies' list
+title: Apple ranks #1 again in Fortunes Most Admired Companies list
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/most-admired.png)
 * For the sixth year in a row, Apple was named the most-admired company in the world. In spite of a stock free fall and the Apple Maps gaffe, the iPhone maker topped rivals Google and Amazon, Fortune announced Thursday.

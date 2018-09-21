@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Facebook Messenger gains VoIP calling, but it's Canada only initially
+title: Facebook Messenger gains VoIP calling, but its Canada only initially
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/Facebok-Messenger-for-iOS-2.0-iPhone-screenshot-003.jpg)
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/Facebok-Messenger-for-iOS-2.0-iPhone-screenshot-004.jpg)

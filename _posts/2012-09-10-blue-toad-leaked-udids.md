@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Publishing firm Blue Toad says it's to blame for leaked UDID list
+title: Publishing firm Blue Toad says its to blame for leaked UDID list
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/hackers.jpg)
 * So this is kind of interesting. Remember that list of 1 million Apple device IDs that the hacking group AntiSec claims it stole from the FBI and then leaked online? Well it may not have actually come from the FBI.

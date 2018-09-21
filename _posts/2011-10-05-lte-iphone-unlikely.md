@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why the iPhone 4S Doesn't Have LTE "4G" Technology
+title: Why the iPhone 4S Doesnt Have LTE 4G Technology
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/iPhone-4S-Specs-Data-Speeds-e1317752335809.jpg)
 * Although Apple touted its new smartphone yesterday as “capable” of 4G-like speeds, the iPhone 4S isn’t getting the “4G” label. The handset still essentially uses 3G technology, debunking the last-minute rumors that the device would be LTE-capable.

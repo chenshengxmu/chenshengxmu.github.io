@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple clarifies it's never worked on in-screen or rear Touch ID for iPhone X
+title: Apple clarifies its never worked on in-screen or rear Touch ID for iPhone X
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/04/iPhone-8-prototype-Touch-ID-back-Sonny-Dickson.jpeg)
 * Apple has officially debunked this year’s popular rumor that Face ID was its plan B should its engineers fail to integrate Touch ID underneath the phone’s cover glass.

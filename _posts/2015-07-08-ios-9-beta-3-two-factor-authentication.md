@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A look at Apple's new, more secure 2-factor authentication in iOS 9 and El Capitan
+title: A look at Apples new, more secure 2-factor authentication in iOS 9 and El Capitan
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/07/iOS-9-two-factor-authentication-teaser-001.png)
 * At WWDC, Apple has made a promise to step up security with native two-factor authentication in iOS 9 and OS X El Capitan. Before today, the feature was unavailable on iOS 9 betas prior to beta 3.

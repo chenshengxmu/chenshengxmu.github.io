@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You no longer need Amazon's Echo speaker to enjoy Alexa
+title: You no longer need Amazons Echo speaker to enjoy Alexa
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/11/Amazon-Echo-image-001.jpg)
 * If you’ve ever wanted to take Amazon’s Alexa digital assistant for a spin but bulked at the though of dropping $180 on the company’s Echo wireless speaker, now you can.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Watch Apple's boss Tim Cook getting ice bath to benefit ALS research
+title: Watch Apples boss Tim Cook getting ice bath to benefit ALS research
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/Tim-Cook-Ice-Bucket-Challenge-001.jpg)
 * Yesterday, Apple’s marketing honcho Phil Schiller undertook the Ice Bucket Challenge. In a tweet accompanied by a series of images showing himself dumping a bucket of ice water on his head at the beaches, Schiller called on Apple CEO Tim Cook to accept the challenge and also get doused, by tagging him in the post.

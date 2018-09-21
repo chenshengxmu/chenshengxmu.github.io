@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New in iOS 7.1- Maps navigation prompts through your car's stereo over Bluetooth
+title: New in iOS 7.1- Maps navigation prompts through your cars stereo over Bluetooth
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/iOS-7.1-HFP-Prompts.png)
 * Apple has delivered iOS 7.1 yesterday, its first major iOS update since the software’s launch nearly six months ago. We’ve already detailed some of the noteworthy enhancements like Touch ID reliability improvements, new Siri features, CarPlay support, a bunch of bug fixes – some of which have been credited to prominent iOS hackers like the evad3rs team – and more.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's environmental chief talks current and future clean energy initiatives
+title: Apples environmental chief talks current and future clean energy initiatives
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/jackson-.png)
 * Apple’s newly appointed VP of Environmental Initiatives, and former head of EPA, Lisa Jackson spoke at Fortune’s Brainstorm Green conference earlier this week. The executive talked about a number of topics, including the iPad-makers various green projects.

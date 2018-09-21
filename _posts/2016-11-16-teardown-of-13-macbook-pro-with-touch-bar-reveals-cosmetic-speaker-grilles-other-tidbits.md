@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Teardown of 13" MacBook Pro with Touch Bar reveals “cosmetic” speaker grilles, other tidbits
+title: Teardown of 13 MacBook Pro with Touch Bar reveals “cosmetic” speaker grilles, other tidbits
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/11/13-inch-MacBook-Pro-with-Touch-Bar-iFixit-teardown-004.jpg)
 * After disassembling the base 13-inch MacBook Pro model without the Touch Bar, teardown wizards over at iFixit have now taken apart Apple’s Touch Bar-equipped 13-inch MacBook Pro. From the inside, it’s an entirely different computer with a totally different design that has more in common with its 15-inch brethren. Among other things, the teardown analysis has found that the external speaker grilles in the top half of the case exist mostly for “cosmetic” purposes.

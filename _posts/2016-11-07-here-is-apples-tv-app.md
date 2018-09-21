@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A quick look at Apple's new TV app
+title: A quick look at Apples new TV app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/11/TV-app-beta-2.jpg)
 * Apple released the second betas of iOS 10.2 and tvOS 10.1 on Monday and in them, it included its new TV app. The company introduced the new app at its ‘hello again’ Mac event last month, saying they believe it’s going to “completely change how you watch TV.”

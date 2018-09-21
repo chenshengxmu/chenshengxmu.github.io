@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SwitcherCleaner Micromanages Your iPhone's App Switcher
+title: SwitcherCleaner Micromanages Your iPhones App Switcher
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/SwitcherCleaner-e1324316943190.jpg)
 * SwitcherCleaner allows for more fine tuned control over the apps in your App Switcher. It works by automatically placing the items found in your App Switcher into “quit” mode, and only displays apps that are actually running.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twitter rolling out revamped 'Quote Tweet' feature with comments
+title: Twitter rolling out revamped Quote Tweet feature with comments
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/04/new-retweet.png)
 * Twitter on Monday announced that it would be rolling out a revamped Retweet feature to all of its platforms. The new feature allows users to easily add comments to Retweets, and properly embeds them instead of inserting them between quotation marks. It also lets you quickly undo a Retweet, should you change your mind.

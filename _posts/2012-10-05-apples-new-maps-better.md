@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Maps app starting to show signs of improvement
+title: Apples Maps app starting to show signs of improvement
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/statue_of_liberty_flyover.jpg)
 * It appears that Apple is making good on Tim Cook’s promise. Just a week after the CEO posted an open letter regarding the shortcomings of the new Maps application, users are starting to see improvements.

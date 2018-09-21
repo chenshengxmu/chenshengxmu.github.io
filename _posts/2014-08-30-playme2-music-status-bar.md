@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #PlayMe2 displays the currently playing song's details in the Status Bar
+title: #PlayMe2 displays the currently playing songs details in the Status Bar
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/PlayMe-2.png)
 * If you’ve been following iDB, you’ll remember that Jeff reviewed a status bar tweak a few months ago known as #PlayMe. The same developer has now released #PlayMe2 which is a more stable version of its predecessor with fewer bugs, but it serves the same purpose.

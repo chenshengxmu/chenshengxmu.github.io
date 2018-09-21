@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How the iPhone's Camera Has Improved Over the Years
+title: How the iPhones Camera Has Improved Over the Years
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/iPhone4scamera.jpeg)
 * The new 8MP camera in the iPhone 4S is one of the handset’s standout features. Other than Siri, the improved camera is likely the biggest motivator for folks to upgrade to Apple’s latest smartphone.

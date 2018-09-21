@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to adjust Siri Remote's Touch surface sensitivity
+title: How to adjust Siri Remotes Touch surface sensitivity
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/10/Apple-TV-Siri-Remote-in-hand-image-003.jpg)
 * The new Apple TV ships with Apple’s dramatically enhanced Siri Remote with a dedicated trackpad-like area, officially referred to as the Touch surface. In addition to making a clicking sound when pressed to highlight an item, you can swipe left, right, up or down on the Touch surface to navigate the interface, and much more.

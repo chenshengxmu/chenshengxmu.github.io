@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AssistantExtensions- A New Jailbreak Tweak That Pushes Siri's Limits
+title: AssistantExtensions- A New Jailbreak Tweak That Pushes Siris Limits
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/AssistantExtensions-YouTube.jpg)
 * If there is one good reason to get an iPhone 4S, it’s Siri, the iPhone’s witty virtual assistant that can help you do various tasks such as searching the web, scheduling appointments, send messages, etc by simply using voice commands. Siri can do many things, but there are also many things Siri can’t do.

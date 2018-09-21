@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Moga's inbound Ace Power 'MFi' gaming controller gets video treatment
+title: Mogas inbound Ace Power MFi gaming controller gets video treatment
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/MOGA-MFi-iPhone-controller-EVLeaks-001.png)
 * The prolific leaker @EVLeaks last week tweeted out a pair of photos that show off Moga’s upcoming Made for iPhone (MFi) gaming controller.

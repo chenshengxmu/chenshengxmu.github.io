@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OneSafe password manager goes free as Apple's App of the Week
+title: OneSafe password manager goes free as Apples App of the Week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/onesafe-2.png)
 * Apple on Thursday updated its App of the Week promotion with the app OneSafe. This means that for the next 7 days, you’ll be able to pickup Lunabee’s popular password manager for free for both iPhone and iPad, a solid savings of $5.

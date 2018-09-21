@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Volvo posts video of Apple's CarPlay in action
+title: Volvo posts video of Apples CarPlay in action
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/Apple-CarPlay-Honda-Apple-Maps-001.jpg)
 * Hot on the heels of Apple’s CarPlay announcement earlier this morning at the Geneva Motor Show, car maker Volvo has posted a video showing off iOS integration in action.

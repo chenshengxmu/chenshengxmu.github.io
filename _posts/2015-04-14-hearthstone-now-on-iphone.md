@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You can now play Blizzard's Hearthstone- Heroes of Warcraft on iPhone
+title: You can now play Blizzards Hearthstone- Heroes of Warcraft on iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/hearthstone.jpg)
 * Fans of Hearthstone: Heroes of Warcraft will be happy to hear that you can now play the game on your iPhone. Blizzard pushed out an update today for the popular card battler that, among other improvements, brings about support for Apple’s handset.

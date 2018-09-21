@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rumor- low-powered M7 successor code-named 'Phosphorous' to collect health and fitness data (Updated)
+title: Rumor- low-powered M7 successor code-named Phosphorous to collect health and fitness data (Updated)
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/iOS-8-Health-teaser-001.jpg)
 * An Apple chip internally code-named ‘Phosphorous’ has been identified on leaked schematics and thought to replace the M7, a motion coprocessor which debuted inside the iPhone 5s last Fall. (Update: It’s looking like a barometer pressure sensor instead.)

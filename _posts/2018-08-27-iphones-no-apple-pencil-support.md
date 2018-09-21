@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Key analyst says 2018 iPhones won't work with Apple Pencil after all
+title: Key analyst says 2018 iPhones wont work with Apple Pencil after all
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/red-stage.jpg)
 * Apple’s upcoming 2018 iPhone lineup won’t offer support for Apple Pencil, despite previous claims. The reason is the lack of a “good user experience,” according to respected Apple analyst Ming-Chi Kuo.  

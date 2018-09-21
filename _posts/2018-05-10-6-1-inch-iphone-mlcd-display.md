@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 6.1" LCD iPhone may use the same MLCD+ display as LG's new G7 ThinQ smartphone
+title: 6.1 LCD iPhone may use the same MLCD+ display as LGs new G7 ThinQ smartphone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/05/LG-G7-ThinkQ-002.jpg)
 * Apple’s upcoming 6.1-inch iPhone, one of the three rumored new models coming this year, may feature an ultra-bright, low-power LCD screen based on the new MLCD+ display technology pioneered by LG’s new G7 ThinQ smartphone.

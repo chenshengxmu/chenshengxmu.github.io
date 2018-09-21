@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Patent gives a peek into Apple's retail prowess
+title: Patent gives a peek into Apples retail prowess
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/Apple-store-patent-drawing-001.png)
 * No matter if you are in Syracuse, NY or Singapore, when you step into an Apple Store, you’re likely to be greeted in a singular manner. That’s no mistake. In fact, the ‘brain’ of Apple’s retailing success is part of a patent filing for a centralized floor plan management. It’s entitled “System and method for planning layout of a retail store” and details, well, everything.

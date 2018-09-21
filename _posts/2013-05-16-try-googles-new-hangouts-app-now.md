@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Try Google's new Hangouts app now
+title: Try Googles new Hangouts app now
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/Hangouts-1.0-for-iOS-iPhone-screenshot-001.jpg)
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/Hangouts-1.0-for-iOS-iPhone-screenshot-002.jpg)

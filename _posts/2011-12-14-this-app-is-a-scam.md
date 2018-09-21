@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stay Away from This Fake MineCraft App, It's a Scam
+title: Stay Away from This Fake MineCraft App, Its a Scam
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/mine-craft-scam.jpg)
 * Although Apple has done a great job keeping malicious software out of the App Store, it hasn’t quite figured out how to keep the scammers at bay. It seems like we’ve seen several misleading apps surface in the App Store over the past few months.

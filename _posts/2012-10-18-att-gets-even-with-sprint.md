@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T voices concern over Sprint's Clearwire deal
+title: AT&T voices concern over Sprints Clearwire deal
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/att.jpg)
 * About this time last year, AT&T’s plans to buyout T-Mobile were crumbling. Thanks to strong opposition from its competitors — namely Sprint, and the US government, the carrier was forced to withdraw its merger application from the FCC.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Customize your Lock screen's charging text string with PersonalEcate
+title: Customize your Lock screens charging text string with PersonalEcate
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/02/PersonalEcate.jpeg)
 * Any time you plug your locked iPhone or iPad into a power source, the screen lights up with an over-sized battery indicator that gives you a brief summary and visual representation of your remaining percentage.

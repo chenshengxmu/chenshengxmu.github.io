@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Facebook's Project Spartan to Hit iOS Within the Next Month
+title: Facebooks Project Spartan to Hit iOS Within the Next Month
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/THIS-IS-FACEBOOK-e1308249673876.png)
 * Facebook went live with the media this morning from their Palo Alto headquarters to make good on Mark Zuckerberg’s promise last week that his company would be making some “awesome” announcements. Though Skype-integrated video chat looks cool, iDB feels that the best has yet to come.

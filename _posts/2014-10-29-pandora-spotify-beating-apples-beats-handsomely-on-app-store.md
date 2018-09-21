@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pandora, Spotify beating Apple's Beats handsomely on App Store
+title: Pandora, Spotify beating Apples Beats handsomely on App Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/Beats-Music-Windows-Phone-Android-iOS-001.png)
 * Pandora and Spotify rank as the number one and number two music streaming apps in terms of downloads, analytics firm AppAnnie reports – no big surprise. However, where things become interesting is that Apple’s Beats Music, which the company purchased for $3 billion in May, is placed ninth, below iHeartRadio, SoundCloud and Apple’s GarageBand.

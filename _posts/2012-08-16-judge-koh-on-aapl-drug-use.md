@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Judge Koh to Apple's attorneys- are you smoking crack?
+title: Judge Koh to Apples attorneys- are you smoking crack?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/courtroom-gavel.jpg)
 * You have to feel for US District Court Judge Lucy Koh. For the past three weeks, she’s had to listen to attorneys from both Apple and Samsung argue over boring technology patents.

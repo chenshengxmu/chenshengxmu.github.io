@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Philips taking on Apple's iBeacon tech with smart lights
+title: Philips taking on Apples iBeacon tech with smart lights
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/grocery-store.jpg)
 * Philips has officially joined the onslaught of competitors looking to go head-to-head with Apple’s iBeacon geolocation technology. At a retailer in northern Germany, the company is testing out a lighting unit which includes a built-in beacon that can relay information to smartphones.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple now rejecting apps with 'flappy' in their title
+title: Apple now rejecting apps with flappy in their title
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/flappy_bird_screens.png)
 * Following Flappy Bird’s removal from the App Store, Apple is now reportedly rejecting third-party applications that have ‘flappy’ in their title. One developer has found his app rejected during the iTunes authorisation process because it’s attempted to “leverage a popular app”.

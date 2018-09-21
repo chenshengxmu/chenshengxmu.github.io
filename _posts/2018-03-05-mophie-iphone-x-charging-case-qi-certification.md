@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mophie's upcoming wireless charging case for iPhone X was just granted Qi certification
+title: Mophies upcoming wireless charging case for iPhone X was just granted Qi certification
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/03/Mophie-Juice-Pack-Air-for-iPhone-X.jpg)
 * Mophie’s upcoming Juice Pack Air wireless charging case for iPhone X has surfaced in the Wireless Power Consortium’s official Qi Certified Product Database, indicating that the popular accessory maker was just granted crucial certification for the product.

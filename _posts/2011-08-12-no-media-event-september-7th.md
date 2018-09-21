@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nevermind, Apple Won't Be Holding a Media Event September 7th
+title: Nevermind, Apple Wont Be Holding a Media Event September 7th
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/Steve-Jobs-iPhone-keynote.jpeg)
 * Earlier today, a report came in regarding the date as to when Apple would hold its annual fall media event. Japanese site Kodawarisan claimed that Apple will be holding the media event as soon as September 7th.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Chinese New Year Gift Guide now live
+title: Apples Chinese New Year Gift Guide now live
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/new-year-gift-guide-ss.png)
 * Apple is more focused on China now than it’s ever been before. Tim Cook is actually in the country this week, meeting with high-level government officials and the chairman of the world’s largest carrier, China Mobile.

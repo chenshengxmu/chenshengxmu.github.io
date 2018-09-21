@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You should update to iOS 8.1 now if you're at all interested in jailbreaking
+title: You should update to iOS 8.1 now if youre at all interested in jailbreaking
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/iOS-8-jailbreak-pangu-1.1.jpg)
 * Perhaps you’ve been holding out on updating to iOS 8.1 until there’s a “stable” jailbreak and a stable version of Cydia. Maybe you’re like Sebastien and Cody, and just want to make sure that things run smoothly enough, and that the compelling tweaks are updated for iOS 8 before taking the leap.

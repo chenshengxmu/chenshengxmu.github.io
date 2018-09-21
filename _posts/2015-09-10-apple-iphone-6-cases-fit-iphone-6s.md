@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's iPhone 6/6 Plus cases will fit the new iPhone 6s/6s Plus models
+title: Apples iPhone 6/6 Plus cases will fit the new iPhone 6s/6s Plus models
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/Apple-iPhone-Cases-teaser-001.jpg)
 * Considering the amount of people who have asked us if their cases will be compatible with the new phones, it’s worth underscoring that Apple’s own case lineup for the iPhone 6 and iPhone 6 Plus will indeed fit the new iPhone 6s and iPhone 6s Plus, and vice versa.

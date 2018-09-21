@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung designer on ripping off the iPhone- "The Galaxy is original from the beginning"
+title: Samsung designer on ripping off the iPhone- The Galaxy is original from the beginning
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/Desing-comparison-Apple-vs-Samsung-products.jpg)
 * One could easily opine there are only so many ways to design a tablet or a smartphone. The argument has its merits and isn’t far from truth. With today’s mobile gadgets increasingly becoming basically a piece of glass framed by a bezel of sorts, the question of who’s copying who gets muddied.

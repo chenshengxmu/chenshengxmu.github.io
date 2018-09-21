@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung wants to take a peek inside Apple's patent settlement with HTC
+title: Samsung wants to take a peek inside Apples patent settlement with HTC
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/Samsung-Corporate-HQ-image-001.jpg)
 * Always on the lookout to possibly improve its legal position in the ongoing stand-off with Apple, Samsung on Friday filed a court order seeking to force Apple to turn over a copy of the HTC agreement. As Cody told you, Apple and HTC settled litigation with a ten-year licensing agreement worth nearly $3 billion.

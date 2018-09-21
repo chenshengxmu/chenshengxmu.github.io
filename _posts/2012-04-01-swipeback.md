@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SwipeBack' allows you to navigate back with a swipe
+title: SwipeBack allows you to navigate back with a swipe
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/SwipeBack-Screenshot.jpg)
 * SwipeBack is a brand new jailbreak tweak from Ryan Petrich that allows you to navigate back within apps using a simple swipe from left to right.

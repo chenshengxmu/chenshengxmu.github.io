@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Highlights from Tim Cook's Goldman Sachs talk
+title: Highlights from Tim Cooks Goldman Sachs talk
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/2012poy_cook_story.jpg)
 * As announced yesterday, Apple CEO Tim Cook is speaking at the Goldman Sachs Technology and Interactive Conference in San Francisco. Right on schedule, he began discussing topics of interest at 7.15am Pacific, 10:15am Eastern time, just after the markets open. Originally scheduled at 4:15pm Eastern, Cook’s segment was shifted so he could be whisked more than 2,000 miles to Washington DC to sit beside Michelle Obama for the President’s State of the Union address.

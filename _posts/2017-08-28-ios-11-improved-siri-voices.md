@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hear how Siri's voice has changed over the years
+title: Hear how Siris voice has changed over the years
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/07/Apple-Siri-ad-the-rock-teaser-001.jpg)
 * iOS 11 includes more natural and expressive male and female synthetic voices for Siri that use the latest advancements in machine learning and artificial intelligence to adjust intonation, pitch, emphasis and tempo while speaking.

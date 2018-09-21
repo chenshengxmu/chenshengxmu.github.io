@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Vice President of corporate and government sales has stepped down
+title: Apples Vice President of corporate and government sales has stepped down
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/freeios7.com_apple_wallpaper_apple-shop_ipad_retina_parallax.jpg)
 * John Solomon, Apple’s Vice President for Enterprise and Government, has stepped down. He led sales teams charged with pushing Apple hardware and software to big companies and government agencies with large technology budgets.

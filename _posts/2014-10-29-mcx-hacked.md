@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Pay rival MCX already hacked, but insists it's OK to keep your sensitive data in the cloud
+title: Apple Pay rival MCX already hacked, but insists its OK to keep your sensitive data in the cloud
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/MasterCard-Apple-Pay-ads-001.jpg)
 * The whole CVS/Rite Aid/Apple Pay controversy is about to get uglier as MCX, the consortium of retailers who back the competing CurrentC mobile payment system, on Wednesday responded to accusations that it was purposefully blocking Apple Pay, Google Wallet and other NFC-based payment solutions and requiring participating retailers to use CurrentC exclusively.

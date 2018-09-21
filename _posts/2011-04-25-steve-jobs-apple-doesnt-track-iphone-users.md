@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Steve Jobs- Apple Doesn't Track iPhone Users
+title: Steve Jobs- Apple Doesnt Track iPhone Users
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/iPhone-Tracking.jpeg)
 * The media has been firing on all cylinders about the public uncovering of the iPhone’s shady location database file. Speculation has been that Apple and/or network carriers are intentionally tracking the coordinates of iPhone users through the device’s Location Services.

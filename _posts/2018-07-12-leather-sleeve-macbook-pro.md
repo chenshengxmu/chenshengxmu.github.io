@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You can buy Apple's quality but pricey leather sleeve for your MacBook Pro for the first time
+title: You can buy Apples quality but pricey leather sleeve for your MacBook Pro for the first time
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/2018-MacBook-PRo-image-005.jpg)
 * Apple has announced all-new Leather Sleeves for the 13-inch and 15-inch MacBook Pro models. The accessory arrives on the same day the company announced its MacBook Pro lineup for 2018. 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Imgur's MemeGen app lets you make your own memes
+title: Imgurs MemeGen app lets you make your own memes
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/memegen.png)
 * Last summer, Imgur released an official client for iOS, essentially putting all of the web’s most popular memes in the palm of your hand. Now it’s bringing the ability to create your own meme to that same hand, with MemeGen.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Responds to Location Tracking Controversy- "We Don't Track Your iPhone"
+title: Apple Responds to Location Tracking Controversy- We Dont Track Your iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/iPhone-Map-and-Compass.jpeg)
 * Apple has decided to officially respond to the iPhone’s location database issue that has been undergoing intense scrutiny by the media and industry experts. In a Q&A response, Apple has addressed why the iPhone logs your location, and what Apple does with that information.

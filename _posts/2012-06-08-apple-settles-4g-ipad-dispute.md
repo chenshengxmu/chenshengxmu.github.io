@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple settles Australian '4G' iPad dispute for $2.25 million
+title: Apple settles Australian 4G iPad dispute for $2.25 million
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/new-ipad-4G.jpg)
 * Apple has taken a lot of heat over the use of the ‘4G’ term in the name of its latest iPad. While the tablet is indeed LTE-capable here in the States, it isn’t in most other places. And some folks found that misleading.

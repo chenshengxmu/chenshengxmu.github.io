@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Billionaire investor Carl Icahn is concerned about Apple's prospects in China
+title: Billionaire investor Carl Icahn is concerned about Apples prospects in China
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/Billionaire-Investor-Carl-Icahn-Buys-More-Apple-Stock.jpg)
 * Activist investor Carl Icahn earlier this year sold his position in Apple, but that doesn’t mean he no longer thinks Apple is a lucrative stock to invest in. Quite the contrary, he’s made several billion dollars on Apple!

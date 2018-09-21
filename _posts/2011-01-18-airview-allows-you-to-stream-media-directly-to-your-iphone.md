@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AirView' Allows You to Stream Media Directly to Your iPhone
+title: AirView Allows You to Stream Media Directly to Your iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/01/AirView-01.png)
 * There’s an old saying that goes like this: “There’s more than one way to skin a cat.” Maybe we should update that saying, and change it to: “There’s more than one way to stream video with an iPhone.”

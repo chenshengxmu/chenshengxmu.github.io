@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple celebrates America's national parks with two new promotions
+title: Apple celebrates Americas national parks with two new promotions
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/apple-national-parks.jpg)
 * Apple has announced two new promotions that advance the continued use and maintenance of America’s national park system. One involves it making a donation for each Apple Pay purchase while the other is a new Apple Watch Activity Challenge that was previously leaked. 

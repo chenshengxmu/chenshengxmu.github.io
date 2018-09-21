@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to remove the 'Store' button in the Music app on iOS 7
+title: How to remove the Store button in the Music app on iOS 7
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/NoStoreButton7-Final1.png)
 * In an effort to generate iTunes sales on iOS devices, Apple has long placed a Store button in the top menu bar of its Music app. As you would expect, tapping on Store exits the Music app and brings you to the iTunes Store for everything from songs and albums to movies and TV shows. It’s a convenient link from one app to another on iOS devices, but some users might not find use in it. If you’re one of those people, a new jailbreak tweak called NoStoreButton7 is a quick fix for you…

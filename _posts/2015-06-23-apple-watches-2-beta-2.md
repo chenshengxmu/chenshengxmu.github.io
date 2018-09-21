@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple seeds watchOS 2 beta 2 and iOS 9 beta 2 to developers, here's what's new
+title: Apple seeds watchOS 2 beta 2 and iOS 9 beta 2 to developers, heres whats new
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/04/Apple-Watch-Edition-back-Wired-002.jpg)
 * Tuesday, Apple has released a second beta of the forthcoming WatchOS 2 software update to its registered developers. Alongside the new beta firmware for the 38mm and 42mm Apple Watch models, Apple has also released an updated version of iOS 9 Developer Preview which now carries a build number of 13A4280e.

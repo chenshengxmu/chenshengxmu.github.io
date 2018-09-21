@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nuance exec- Siri set “a new bar”, could get "more personalized"
+title: Nuance exec- Siri set “a new bar”, could get more personalized
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Siri-promo-video-Woman-asks-for-weather.jpeg)
 * Digital secretary Siri was, and still is, the headline feature of the iPhone 4S. It owes some of its allure to the vast processing power of Apple’s servers that run a remarkably sophisticated voice recognition software licensed from Nuance, a Burlington, Massachusetts-based provider of arguably the best voice technology money can buy.

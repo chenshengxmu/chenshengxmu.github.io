@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sprint Doesn't Like AT&T's Acquisition of T-Mobile, Sides With Google
+title: Sprint Doesnt Like AT&Ts Acquisition of T-Mobile, Sides With Google
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/03/Sprint-Google.png)
 * Sprint, the nation’s third largest wireless provider, is not happy about AT&T’s acquisition of T-Mobile. Once AT&T and T-Mobile are officially merged, the only major players in the U.S. wireless space will be AT&T, Verizon and Sprint.

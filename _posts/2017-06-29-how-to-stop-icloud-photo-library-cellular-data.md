@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to stop iCloud Photo Library from eating into your iPhone's cellular data plan
+title: How to stop iCloud Photo Library from eating into your iPhones cellular data plan
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/iCloud-Photo-Library-iPhone-iPad-MacBook-Air-teaser-001.jpg)
 * iCloud Photo Library is an optional feature on iPhone, iPad, iPod touch and Mac that uploads every photo and video you take or import to iCloud and keeps everything synchronized across all your Apple gear. I’ve been using it for years and it really “just works”.

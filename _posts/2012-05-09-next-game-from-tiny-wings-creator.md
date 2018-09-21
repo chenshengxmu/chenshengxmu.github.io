@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Next game by Tiny Wings creator due "in less than three weeks"
+title: Next game by Tiny Wings creator due in less than three weeks
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/Tiny-Wings-e1298778306759.png)
 * We instantly fell in love with Tiny Wings by Andreas Illiger, an addictive game featuring a cute bird flying through a series of random hills. The game still files as one of the best entertainment releases to hit the App Store since Angry Birds.

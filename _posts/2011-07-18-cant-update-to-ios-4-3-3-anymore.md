@@ -1,6 +1,6 @@
 ---
 layout: post
-title: If You Haven't Already Updated to iOS 4.3.3, You Can't Anymore
+title: If You Havent Already Updated to iOS 4.3.3, You Cant Anymore
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/05/iOS-4.3.3-Download-Notice.png)
 * Apple will no longer allow users to update or restore an iOS device to iOS 4.3.3. The signing window for 4.3.3 has been closed, meaning that you can no longer restore a device to 4.3.3 in iTunes without previously saved SHSH blobs from that firmware.

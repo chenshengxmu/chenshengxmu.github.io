@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Everything we expect from Apple's 'Let us loop you in' event on Monday
+title: Everything we expect from Apples Let us loop you in event on Monday
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/Apple-Mach-21-event.png)
 * As you know, Apple has scheduled a media event on its Cupertino campus on this coming Monday, March 21. Earlier this month, the company sent out its predictably cryptic invites with the “Let us loop you in” tagline to select members of the press.

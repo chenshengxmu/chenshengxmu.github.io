@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Watch maker Swatch not happy about Apple's yet to be announced iWatch
+title: Watch maker Swatch not happy about Apples yet to be announced iWatch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/swatch-logo.jpg)
 * Swiss watch maker Swatch is not happy about Apple’s iWatch. To be more specific, the company is not happy about the fact that Apple’s wearable may be called iWatch, a name that definitely sounds a lot like iSwatch, a trademark registered by the watch maker for one of its lines of watches.

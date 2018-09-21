@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ITC drops Motorola's complaint against Apple over proximity sensor patent
+title: ITC drops Motorolas complaint against Apple over proximity sensor patent
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/January-2007-iPhone-introduction-Proximity-sensor-slide.jpg)
 * Apple’s patent troubles with the struggling handset maker has largely been viewed as a proxy fight with Google, which acquired Motorola Mobility along with its vast patent portfolio in August 2011 for $12.5 billion. Two and a half years ago Motorola asserted its proximity sensor patent against Apple. Monday, the U.S. International Trade Commission (ITC) threw Motorola’s complaint out of the window, invalidating Motorola’s patent because it’s too obvious. That’s good news for Apple as Google was hoping to leverage that patent to seek an import ban against iPhones…

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The new coco controller isn't your average iOS gamepad
+title: The new coco controller isnt your average iOS gamepad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/cocoorange.jpg)
 * The physical game controller space for iOS is still up for grabs. There are some nice options already on the market, sure. But none of them have really managed to stand out, or pull ahead of the pack.

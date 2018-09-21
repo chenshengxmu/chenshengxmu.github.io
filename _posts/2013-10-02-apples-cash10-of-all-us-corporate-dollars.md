@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's ever-growing cash horde pegged at one-tenth of all US corporate dollars
+title: Apples ever-growing cash horde pegged at one-tenth of all US corporate dollars
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/Apple-logo-American-flag-money.jpg)
 * Some people collects rocks, other people collect stamps. Apple, however, likes cash. Turns out the iPhone maker, all by itself, controls ten percent of all corporate cash in the United States.

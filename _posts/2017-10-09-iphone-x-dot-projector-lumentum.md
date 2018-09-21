@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone X's laser dot projector is solely produced by Lumentum
+title: iPhone Xs laser dot projector is solely produced by Lumentum
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/iPhone-X-TrueDepth-camera-004.jpg)
 * Apple’s new TrueDepth camera in iPhone X uses a dot projector to achieve its magic and a new report claims that US-based laser diode supplier Lumentum is now the only company that has won orders from the Cupertino giant for that crucial part.

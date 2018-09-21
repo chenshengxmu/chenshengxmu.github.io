@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to use Snapchat's new one-handed zoom
+title: How to use Snapchats new one-handed zoom
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/Snapchat-Lenses-image-001.png)
 * We don’t hang out on Snapchat on a regular basis, but I myself use the app from time to time to check out new features. Earlier today, my boss Sébastien shared an amazing collection of handy Snapchat tips and trick, created by fifteen-year-old Victoria Samson.

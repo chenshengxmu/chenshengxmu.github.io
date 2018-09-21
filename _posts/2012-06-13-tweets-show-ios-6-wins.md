@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tweets show iOS 6 was most popular announcement of Apple's keynote
+title: Tweets show iOS 6 was most popular announcement of Apples keynote
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/wwdc_2012.1d00d054026-e1339620077985.jpeg)
 * Forget the announcements regarding the new Retina display MacBook Pro, OSX Mountain Lion and other non-mobile related products. According to Twitter, iOS 6 was the hottest topic of Apple’s WWDC keynote.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple could fire longtime ad agency TBWA, look to Beats' Jimmy Iovine to regain marketing mojo
+title: Apple could fire longtime ad agency TBWA, look to Beats Jimmy Iovine to regain marketing mojo
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/Apple-ad-Designed-by-Apple-in-California-001.jpg)
 * Gossip along Madison Avenue is growing more fluent about Apple tiring of its longtime ad agency TBWA Media Labs over a series of disappointing ads. The client-agency relationship is said to have deteriorated to the point where the iPhone maker ostensibly appears on the brink of putting its ad account up for a formal review and firing the ad agency after 30 years of fruitful collaboration.

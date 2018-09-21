@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What's the Status of the iPad 2 Jailbreak?
+title: Whats the Status of the iPad 2 Jailbreak?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/jailbreak-ipad.jpg)
 * The iPad 2 is one of the most successful Apple products to date in a number of categories. One of those categories is, it has yet to be jailbroken. Now I say that lightly, because I realize that a handful of intelligent folks have hacked their iPad 2s. But nearly 3 months after its release, there is still not a widely available jailbreak solution for Apple’s new tablet.

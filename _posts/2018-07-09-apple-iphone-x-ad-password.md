@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's awesome new iPhone X ad showcases unlocking saved passwords with Face ID
+title: Apples awesome new iPhone X ad showcases unlocking saved passwords with Face ID
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/iPhone-X-ad-Memory-004.jpg)
 * Since its September 2017 introduction, Apple has aired a few noteworthy iPhone X advertisements showcasing the particular aspects of the Face ID feature. The latest video released last evening on the company’s official YouTube channel is no exception.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's "If You Don't Have an iPhone" Ads Highlight App Store, iTunes, and iBooks
+title: Apples If You Dont Have an iPhone Ads Highlight App Store, iTunes, and iBooks
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/03/Hand-holding-iPhone-e1300377110598.png)
 * Apple has released some new ads that focus on the three main e-commerce stores for the iPhone. These short, 30 second promos focus on the App Store, iTunes, and iBooks.

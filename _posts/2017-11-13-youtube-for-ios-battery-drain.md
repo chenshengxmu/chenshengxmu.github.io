@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is YouTube draining your iPhone battery? You're not alone
+title: Is YouTube draining your iPhone battery? Youre not alone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/YouTube-for-iOS-battery-drain.png)
 * Some folks are complaining about YouTube for iPhone and iPad draining their battery excessively, even when the app is running in the background, causing the device to overheat.

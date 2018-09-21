@@ -1,6 +1,6 @@
 ---
 layout: post
-title: pod2g Enlists Chronic Dev Team's Help to Expedite Untethered Jailbreaks
+title: pod2g Enlists Chronic Dev Teams Help to Expedite Untethered Jailbreaks
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/gp_web1.png)
 * pod2g has handed over the keys to his iOS 5 untethered jailbreak for A4 devices (which includes the iPhone 4) to the Chronic Dev Team. In doing so, he hopes to focus primarily on the A5 jailbreak, which covers the iPhone 4S and iPad 2.

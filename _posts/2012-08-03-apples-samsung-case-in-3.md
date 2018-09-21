@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's case against Samsung explained in 3 images
+title: Apples case against Samsung explained in 3 images
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/iphones-and-samsung.jpg)
 * As you’ve probably noticed, Apple and Samsung are locked in a high stakes courtroom battle in northern California right now. Apple believes that Samsung intentionally copied its smartphone and tablet designs, and is seeking more than $2 billion in damages.

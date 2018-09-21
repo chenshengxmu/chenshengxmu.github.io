@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's Samsung's Christmas ad that will ruin your childhood
+title: Heres Samsungs Christmas ad that will ruin your childhood
 ---
 * http://www.youtube.com/watch?v=XIKv1AXUmOk
 * Not sure whether or not you saw Samsung’s TV ad starring Santa and Mrs. Claus where the characters share their sex tape using “the magic of S Beam on the Galaxy S III and the Galaxy Note II”.

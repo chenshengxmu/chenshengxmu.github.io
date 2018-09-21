@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Burglar steals $60,000 worth of computers and personal items from Steve Jobs' home
+title: Burglar steals $60,000 worth of computers and personal items from Steve Jobs home
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/Steve-Jobs-Palo-Alto-home-001.jpg)
 * Late Apple co-founder Steve Jobs’ Palo Alto home was burglarized last month, according to a newspaper report today. The police included the crime in its weekend report log released to the media. A suspect was apprehended with $60,000 worth of stolen items, including computers and personal items.

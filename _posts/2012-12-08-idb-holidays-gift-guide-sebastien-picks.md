@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iDB 2012 holiday gift guide- Sebastien's picks
+title: iDB 2012 holiday gift guide- Sebastiens picks
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/Screen-Shot-2011-12-24-at-10.31.25-PM-e1324783928454.jpg)
 * Tis the season to spend an incredible amount of money on people you love, and like every year, you are confronted with the same problem: “what am I going to get for my lovely wife?” Or, “should I get him a tie like I did for the last 4 years?” I’ve been there, believe me.

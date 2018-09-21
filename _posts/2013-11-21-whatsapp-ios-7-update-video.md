@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WhatsApp's iOS 7 update caught on video
+title: WhatsApps iOS 7 update caught on video
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/WhatsApp-iOS-7-uodate-image-003.jpg)
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/WhatsApp-iOS-7-uodate-image-001.jpg)

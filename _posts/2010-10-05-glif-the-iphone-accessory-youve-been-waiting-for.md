@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Glif - the iPhone Accessory You've Been Waiting For
+title: Glif - the iPhone Accessory Youve Been Waiting For
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/10/Glif-730x400.jpeg)
 * Glif is an upcoming iPhone 4 tripod and mount from the mind’s of Dan Provost and Thomas Gerhardt. Glif’s website describes the product as, “a simple iPhone 4 accessory with two primary functions: mounting your iPhone to a standard tripod, and acting as a kickstand to prop your phone up at an angle.”

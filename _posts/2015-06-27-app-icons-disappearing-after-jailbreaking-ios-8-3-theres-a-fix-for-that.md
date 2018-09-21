@@ -1,6 +1,6 @@
 ---
 layout: post
-title: App icons disappearing after jailbreaking iOS 8.3? There's a fix for that
+title: App icons disappearing after jailbreaking iOS 8.3? Theres a fix for that
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/UIKit-Tools.png)
 * Have you encountered an issue with disappearing icons on your jailbroken iPhone? You’re not alone. Quite a few users have complained about the issue after jailbreaking using the TaiG tool for iOS 8.3.

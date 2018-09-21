@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Steve Jobs really felt about carriers and why they're still like Soviet ministries
+title: How Steve Jobs really felt about carriers and why theyre still like Soviet ministries
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/Steve-Jobs-and-Stan-Sigman.jpg)
 * Before wrapping up his career-defining iPhone presentation on January 9, 2007, Steve Jobs invited Stan Sigman, then the CEO of Cingular Wireless, to join him on stage and announce a partnership that would send shockwaves of fear throughout the wireless industry. For the first time in history, a telecom would work in concert with a phone vendor to make a revolutionary phone possible without messing the user experience with junkware.

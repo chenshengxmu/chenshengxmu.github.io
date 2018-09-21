@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple launches battery replacement program for 13" MacBook Pro without Touch Bar
+title: Apple launches battery replacement program for 13 MacBook Pro without Touch Bar
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/04/13-inch-macbook-pro.jpg)
 * Apple has begun offering a global battery replacement service aimed at owners of eligible non-Touch Bar 13-inch MacBook Pro notebook models.

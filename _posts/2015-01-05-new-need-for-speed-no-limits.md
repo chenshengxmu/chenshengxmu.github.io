@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EA posts new trailer for upcoming game 'Need for Speed- No Limits'
+title: EA posts new trailer for upcoming game Need for Speed- No Limits
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/need-for-speed-no-limit.png)
 * EA mobile today posted what it is calling the “Official Gameplay Teaser” for its upcoming Need for Speed: No Limits title. Like the previous teaser, it runs about 30 seconds long, but this time there’s a lot more in-game footage, and a lot less Ken Block.

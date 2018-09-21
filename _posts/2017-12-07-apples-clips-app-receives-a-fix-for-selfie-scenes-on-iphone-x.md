@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Clips app receives a fix for Selfie Scenes on iPhone X
+title: Apples Clips app receives a fix for Selfie Scenes on iPhone X
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/Clips-2.0-for-iOS-iPhone-X-screenshot-001.jpg)
 * Apple’s fixed a bug in its Clips app for making expressive, easily shareable videos on the go.

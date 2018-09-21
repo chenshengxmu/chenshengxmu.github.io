@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CafePress Launches Custom iPhone Cases [We're Giving Away 5 of Them]
+title: CafePress Launches Custom iPhone Cases [Were Giving Away 5 of Them]
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/11/CafePress-iPhone-Case-Giveaway.jpg)
 * You know CafePress, the online source for custom merchandise such as T-Shirts, mugs, and pretty much anything else you can think of. Yesterday they announced the launch of custom iPhone cases, ready to be designed with your own photos or artwork.

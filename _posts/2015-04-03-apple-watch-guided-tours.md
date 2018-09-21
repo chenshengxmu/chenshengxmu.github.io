@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple takes you on 'Guided Tours' to teach you all about Apple Watch
+title: Apple takes you on Guided Tours to teach you all about Apple Watch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/04/guided-tours.png)
 * Apple on Friday added a new ‘Guided Tours’ section to its Apple Watch website, offering an in-depth look at the device’s headlining features ahead of its April 24 launch. The page plays host to walk-through videos, which teach prospective customers how to take advantage of the Watch’s new interactions and technologies.

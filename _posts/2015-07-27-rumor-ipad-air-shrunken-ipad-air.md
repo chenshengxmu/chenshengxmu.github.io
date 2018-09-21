@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rumor- Apple's next iPad mini will be shrunken version of iPad Air 2
+title: Rumor- Apples next iPad mini will be shrunken version of iPad Air 2
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/ipad-air-inline.jpg)
 * Japanese blog Macotakara is reporting that Apple’s next-generation iPad mini will be actually a shrunken iPad Air 2. According to the report which is rather short on details, the yet-to-be-announced fourth-generation iPad mini should adopt some of the hallmarks of the second-generation iPad Air hardware such as its slim design, 8MP iSight camera and more.

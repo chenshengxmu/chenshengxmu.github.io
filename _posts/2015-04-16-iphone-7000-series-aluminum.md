@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple said to adopt Apple Watch Sport's strong 7000 Series aluminum for next iPhone
+title: Apple said to adopt Apple Watch Sports strong 7000 Series aluminum for next iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/04/Apple-Watch-Sport-aluminum-image-001.jpg)
 * Taiwan’s Economic Daily News reported Thursday that Apple will adopt 7000 Series aluminum for the next iPhone, a custom alloy the company developed for the Apple Watch Sport.

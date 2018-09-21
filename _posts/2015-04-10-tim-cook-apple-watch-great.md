@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook- Apple Watch pre-orders have been 'great'
+title: Tim Cook- Apple Watch pre-orders have been great
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/04/tim-cook-apple-store.png)
 * Tim Cook took time out of his day on Friday to visit his local Palo Alto Apple Store, to greet folks trying on the Apple Watch. The CEO shook hands, posed for photos, and fielded questions regarding Apple’s highly anticipated wearable.

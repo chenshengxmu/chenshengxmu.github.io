@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Enable iOS 5's Hidden Panorama Feature Without Jailbreaking
+title: How to Enable iOS 5s Hidden Panorama Feature Without Jailbreaking
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/panorama1-e1320798616296.png)
 * Yesterday, a hidden feature was revealed in iOS 5. It turns out that the panorama camera mode that Apple was rumored to be working on is actually baked into iOS. Shortly after the feature was exposed, jailbreakers were able to download a tweak to enable it.

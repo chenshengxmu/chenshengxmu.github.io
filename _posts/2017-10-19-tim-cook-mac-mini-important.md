@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook- Mac mini will remain an “important part” of Apple's lineup
+title: Tim Cook- Mac mini will remain an “important part” of Apples lineup
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/04/Mac-mini-teaser-001.jpg)
 * Chief executive Tim Cook has reportedly assured a concerned Apple fan that Mac mini, the company’s most affordable desktop computer, is definitely going to remain “an important part” of the Apple product lineup going forward.

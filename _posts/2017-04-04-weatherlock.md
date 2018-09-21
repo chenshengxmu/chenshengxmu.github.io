@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WeatherLock brings the Weather app's animated backgrounds to your Lock screen
+title: WeatherLock brings the Weather apps animated backgrounds to your Lock screen
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/04/WeatherLock-Lock-screen.jpg)
 * The Lock screen is a user interface you see countless times on any given day. And because you see it so many times, you want the wallpaper on your Lock screen to look appealing instead of just plain, and that’s where a new jailbreak tweak called WeatherLock by rainwolf is going to receive some cheers.

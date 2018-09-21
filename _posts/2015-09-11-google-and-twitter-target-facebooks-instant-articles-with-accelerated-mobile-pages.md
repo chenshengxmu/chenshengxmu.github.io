@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google and Twitter target Facebook's Instant Articles with 'accelerated mobile pages'
+title: Google and Twitter target Facebooks Instant Articles with accelerated mobile pages
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/05/Facebook-Instant-Articles-photo.jpg)
 * Internet giant Google and the micro-blogging platform Twitter have joined forces as they gear up to launch their own take on Facebook’s quick-loading Instant Articles for mobile users, according to Peter Kafka and Mark Bergen of Re/code.

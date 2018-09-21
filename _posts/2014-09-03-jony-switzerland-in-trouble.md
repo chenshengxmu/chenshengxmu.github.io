@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jony Ive says "Switzerland's in trouble" ahead of expected iWatch unveiling
+title: Jony Ive says Switzerlands in trouble ahead of expected iWatch unveiling
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/jony-ive.jpg)
 * After years of speculation, it’s believed that Apple is finally ready to show off its new wearable device, dubbed the ‘iWatch‘ by much of the media. And according to the company’s senior vice president of design Jony Ive, the folks over in Switzerland are in trouble.

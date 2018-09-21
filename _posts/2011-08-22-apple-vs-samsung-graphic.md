@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shining Some Light on Apple's Copycat Claims With Samsung
+title: Shining Some Light on Apples Copycat Claims With Samsung
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/Screen-Shot-2011-08-21-at-2.57.15-PM-e1313956741611.png)
 * Most of you are aware of the litigation between Apple and Samsung. The ongoing court battle between the two handset makers started with Apple accusing Samsung of copying its products.

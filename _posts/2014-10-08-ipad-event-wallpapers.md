@@ -1,6 +1,6 @@
 ---
 layout: post
-title: October 16 event wallpapers- "it's been way too long"
+title: October 16 event wallpapers- its been way too long
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/Apple-invite-October-2014.jpg)
 * As with all Apple event invitations, we rush to provide you with a way to celebrate on your own device! Almost right on cue, we were able to receive wallpapers from our consistent iDB reader, Jason Zigrino. The imagery is extremely simple in this invitation, unlike some other more developed invites. The term “It’s been way too long” will certainly keep some armchair analysts awake at night pondering over its hidden meaning.

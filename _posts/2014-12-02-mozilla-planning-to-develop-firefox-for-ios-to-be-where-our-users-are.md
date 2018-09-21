@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mozilla planning to develop Firefox for iOS to 'be where our users are'
+title: Mozilla planning to develop Firefox for iOS to be where our users are
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/firefox_logo-wordmark-horiz_RGB.png)
 * Mozilla has long stayed away from bringing its Firefox web browser to iOS, however it’s looking to change its plans to “be where our users are”.

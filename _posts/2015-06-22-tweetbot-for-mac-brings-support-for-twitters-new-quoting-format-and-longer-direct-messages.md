@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tweetbot for Mac brings support for Twitter's new quoting format and longer direct messages
+title: Tweetbot for Mac brings support for Twitters new quoting format and longer direct messages
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/Tweetbot-2-for-OS-X-Mac-screenshot-001.jpeg)
 * Tweetbot for Mac with support for Yosemite’s design and a plethora of other improvements hit earlier in the month as a free upgrade for existing users. Monday, its developer Tapbots issued the first maintenance refresh bringing out support for a pair of Twitter’s recently introduced handy new features.

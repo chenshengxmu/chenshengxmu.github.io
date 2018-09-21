@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple announces 12.9" iPad Pro with A9X chip, four speaker audio, 10-hour battery and more
+title: Apple announces 12.9 iPad Pro with A9X chip, four speaker audio, 10-hour battery and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/iPad-Pro-.png)
 * Today, Apple unveiled “the biggest news in iPad since the iPad,” as CEO Tim Cook put it. Yes, the iPad Pro gets real. It’s got the biggest screen in an iOS device measuring 12.9 inches diagonally and is driven by the fastest Apple-designed iOS device processor yet.

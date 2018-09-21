@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Q2 2018- 52.2M iPhones, 9.1M iPads, $61.1B revenue
+title: Apples Q2 2018- 52.2M iPhones, 9.1M iPads, $61.1B revenue
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/apple-hq-headquarters.jpg)
 * Apple this afternoon disclosed its [fiscal] Q2 2018 earnings report, offering a look at its performance over the last 3 months. The company beat Wall Street expectations in just about every category, selling 52.2 million iPhones and earning $61.1 billion in revenue. Here’s a full breakdown of the numbers.

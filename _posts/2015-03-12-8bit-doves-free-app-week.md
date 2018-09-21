@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 8bit Doves is Apple's new Free App of the Week
+title: 8bit Doves is Apples new Free App of the Week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/8bit-Doves-1.2.1-for-iOS-iPhone-screenshot-002.jpeg)
 * Today is the day Apple’s editorial team gets to cherry-pick a new iOS app to feature as the App Store’s Free App of the Week. Are you ready for something completely different this time around? Good, because this week’s gem of a game is 8bit Doves (regularly $2.99).

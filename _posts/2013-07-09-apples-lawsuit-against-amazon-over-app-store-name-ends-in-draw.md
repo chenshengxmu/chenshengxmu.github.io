@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's lawsuit against Amazon over 'App Store' name ends in draw
+title: Apples lawsuit against Amazon over App Store name ends in draw
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/amazon_apple_app_store_sue.jpg)
 * Apple and Amazon have taken off the gloves back in 2011, apparently deciding the ‘App Store’ name is big enough for both companies. An Oakland, California district court pulled the plug on the dispute at the request of the two app providers. The decision to walk away from just who owns the ‘App Store’ title follows Apple agreeing not to sue Amazon, according to a report this morning…

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Pencil and Smart Keyboard deliveries slip to 4-5 weeks, Apple promises 'regular shipments'
+title: Apple Pencil and Smart Keyboard deliveries slip to 4-5 weeks, Apple promises regular shipments
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/iPad-Pro-Smart-Keyboard-Large.png)
 * If you’re in the market for an iPad Pro and are considering purchasing Apple’s $99 Pencil or the $169 Smart Keyboard to take full advantage of the tablet’s new features for creatives and mobile workers, you’re in for some serious waiting as shipping times for these accessories have slipped to 4-5 weeks on the Apple Online Store.

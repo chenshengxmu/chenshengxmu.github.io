@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google caught overriding Safari users' privacy settings
+title: Google caught overriding Safari users privacy settings
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/google-tracking-infographic.jpg)
 * User privacy has been a hot button issue over the past few months thanks to high profile scandals like the CarrierIQ fallout, and the more recent Path debacle. And now it looks like we can add Google to the list of violators.

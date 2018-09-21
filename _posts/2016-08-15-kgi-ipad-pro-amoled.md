@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KGI- 10.5" model joining iPad Pro lineup in 2017, radically overhauled AMOLED iPad in 2018
+title: KGI- 10.5 model joining iPad Pro lineup in 2017, radically overhauled AMOLED iPad in 2018
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/iPad-Pro-ad-Reveal-image-003.jpg)
 * KGI Securities analyst Ming-Chi Kuo—who has a decent, but not stellar track record in predicting future Apple products—just issued a peculiar note to clients regarding the future of Apple’s iPad lineup.

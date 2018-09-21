@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft's Surface Watch to come housed in exquisite translucent aluminum chassis?
+title: Microsofts Surface Watch to come housed in exquisite translucent aluminum chassis?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/Microsoft-smartwatch.jpg)
 * Microsoft’s rumored smartwatch will reportedly compete with Apple’s rumored iWatch by designing the product around Surface and Xbox technology, while giving it a cool translucent shell along with a variety of colorized removable wrist bands for a dash of fashion statement. Oh, and it will supposedly do LTE on its own.

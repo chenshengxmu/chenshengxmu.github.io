@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Icahn says Apple board is 'working against shareholders' then buys $500M more shares
+title: Icahn says Apple board is working against shareholders then buys $500M more shares
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/Billionaire-Investor-Carl-Icahn-Buys-More-Apple-Stock.jpg)
 * Greedy activist investor Carl Icahn has escalated his anti-Apple rhetoric on Wednesday after recently filing a proposal to put his aggressive stock buyback proposal up for a vote. Apple responded by confirming that any changes to its own corporate stock buyback program will be discussed in the “first part of calendar 2014,” likely at the upcoming shareholder meeting in February.

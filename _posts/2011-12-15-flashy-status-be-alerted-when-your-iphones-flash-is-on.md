@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flashy Status- Be Alerted When Your iPhone's Flash is On
+title: Flashy Status- Be Alerted When Your iPhones Flash is On
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/Flashy-Status.jpg)
 * The concept of Flashy Status is a good one: make it more evident when your flash might fire when snapping a photo with your iPhone’s camera.

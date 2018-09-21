@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Leaked NSA presentation slides show it's not just Verizon giving up data [updated]
+title: Leaked NSA presentation slides show its not just Verizon giving up data [updated]
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/prism-slide-4.jpg)
 * Last night, news broke of a secret court order from the National Security Agency (or NSA) requiring Verizon Wireless to hand over the call records of millions of US cell phone users. As you can imagine, mayhem ensued.

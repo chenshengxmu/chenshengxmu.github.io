@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Education iPad teardown finds repairability doesn't pencil out
+title: Education iPad teardown finds repairability doesnt pencil out
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/04/9.7-inch-iPad-iFixit-teardown-001.jpg)
 * “School is a brutal place for electronics—they need to be long-lived and fixable on the cheap for most education budgets,” iFixit told me in an email Tuesday.

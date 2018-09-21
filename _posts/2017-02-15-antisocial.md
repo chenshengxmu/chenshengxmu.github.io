@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AntiSocial enables the 'Leave this Conversation' button even in three-way iMessage groups
+title: AntiSocial enables the Leave this Conversation button even in three-way iMessage groups
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/AntiSocial-Leave-This-Conversation-Button.jpg)
 * One of the things that really grinds my gears is when I get sucked into group iMessage conversations that I really don’t want to be in. Although rare, sometimes people do it just to wish a bulk of people a good holiday without sending individual messages, but other times people do it just to be annoying.

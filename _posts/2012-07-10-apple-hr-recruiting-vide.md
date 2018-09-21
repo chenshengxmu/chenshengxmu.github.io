@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple HR corporate video explains what it's like workin' for the man
+title: Apple HR corporate video explains what its like workin for the man
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/Apple-corporate-employee-recruiting-video.jpg)
 * 9to5Mac’s Mark Gurman did a nice job discovering Apple HR’s employee recruiting video on YouTube. It’s definitely worth spending four minutes and 36 seconds of your time for it tells a story of what it’s like working for the world’s most-valuable company and arguably the most powerful corporation on the planet.

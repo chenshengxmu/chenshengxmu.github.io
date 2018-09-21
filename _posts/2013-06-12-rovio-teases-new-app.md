@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rovio teases new 'Angry Birds Go' game
+title: Rovio teases new Angry Birds Go game
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/angry-birds-go.png)
 * Raise your hand if you’ve been thinking to yourself “you know, I think there really needs to be another Angry Birds game.” No one? Ok. Well apparently that’s what the folks at Rovio have been thinking, because one is coming.

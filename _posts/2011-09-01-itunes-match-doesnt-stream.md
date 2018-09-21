@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 5 Beta 7 Proves iTunes Match Really Isn't a Streaming Service
+title: iOS 5 Beta 7 Proves iTunes Match Really Isnt a Streaming Service
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/iTunes-Match.png)
 * Soon after the iTunes Match beta went live earlier this week, reports started flooding in that the service did indeed support the streaming of music, a feature that wasn’t advertised by Apple during the iCloud announcement. Many were originally disappointed that streaming was not included in iTunes Match, so the news that it was actually there was met with glee and happiness all around.

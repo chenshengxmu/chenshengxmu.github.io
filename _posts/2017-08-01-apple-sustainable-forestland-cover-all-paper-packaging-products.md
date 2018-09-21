@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's created enough sustainable forestland to cover all paper packaging products
+title: Apples created enough sustainable forestland to cover all paper packaging products
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/07/Apple-Earth-Day-video-protecting-forestry.png)
 * Apple’s environmental efforts, part of its mission to “leave the world better than we found it”, are certainly commendable and have paid off as the company’s now created enough sustainable forestland to cover all paper packaging products.

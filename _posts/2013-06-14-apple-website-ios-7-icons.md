@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mistake on Apple's website shows different iOS 7 app icons
+title: Mistake on Apples website shows different iOS 7 app icons
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/iOS-7-Home-screen.png)
 * This is kind of interesting. New versions of some of the stock app icons in iOS 7 have been spotted on Apple’s website. The reason for the changes is not yet known, but the app icons have received the blunt of the criticism thus far regarding Apple’s new mobile OS.

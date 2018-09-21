@@ -1,6 +1,6 @@
 ---
 layout: post
-title: China Now the App Store's Second Largest Market
+title: China Now the App Stores Second Largest Market
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/Asian-App-Store-Downloads.png)
 * Distimo has released a new study that focuses on the iPhone’s App Store development in Asia. The analytics company examined data from 14 different countries, including China, to determine the App Store’s influence in the Eastern hemisphere.

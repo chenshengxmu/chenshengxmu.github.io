@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung's #1 priority for 2012- beat Apple
+title: Samsungs #1 priority for 2012- beat Apple
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/Samsung-Beat-Apple-memo.png)
 * A treasure trove of internal documents have been leaking out of Apple’s second California trial against the Galaxy maker Samsung.

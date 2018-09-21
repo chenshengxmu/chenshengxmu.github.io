@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nokia threatens not to license essential patents if Apple "imposes" its Nano SIM variant
+title: Nokia threatens not to license essential patents if Apple imposes its Nano SIM variant
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/Apple-backed-Nano-SIM.jpg)
 * Handset maker Nokia is increasing pressure on Apple ahead of the European Telecommunications Standards Institute’s (ETSI) ruling on the emerging SIM card standard, due later this week. The latest in the ongoing power struggle includes Nokia issuing another statement accusing Apple for bending unwritten rules and misusing the standardization process “to rubber stamp its proposal”.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asphalt 8- Airborne' goes free as Apple's App of the Week
+title: Asphalt 8- Airborne goes free as Apples App of the Week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/Asphalt-8-Airborne-screenshot-007.jpg)
 * Great news gamers! Apple has just named Gameloft’s recently-released ‘Asphalt 8: Airborne’ game the App of the Week. This means that for the next 7 days, you’ll be able to grab the popular racer for your iPhone or iPad, for free.

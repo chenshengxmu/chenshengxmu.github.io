@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pangu Untether updated to fix overheating issues on 32-bit devices [update- it's back]
+title: Pangu Untether updated to fix overheating issues on 32-bit devices [update- its back]
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/Pangu-Yosemite-icon.png)
 * If you’ve jailbroken your iPhone 5, iPod touch 5th gen, iPhone 4s, iPad 2, or any other 32-bit iOS device, then perhaps you’ve encountered the problem that this update fixes. The launchd process would “spin” continuously burning CPU and battery, and in some cases, even making the device run extremely hot.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DCMA'd iDevice stock-tracking tool gets mirrored at another website
+title: DCMAd iDevice stock-tracking tool gets mirrored at another website
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/Apple-Tracker-web-tool-image-002.jpg)
 * With the iPhone 5s in high demand, still-constrained supply of the iPad Air and tight availability of the iPad mini with Retina display, getting your hands on one of Apple’s latest iDevices isn’t yet a simple matter of waltzing inside your nearest Apple Store and pulling a credit card out of your pocket.

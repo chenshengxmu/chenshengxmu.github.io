@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SSD in the new MacBook Pro with Touch Bar can't be upgraded
+title: SSD in the new MacBook Pro with Touch Bar cant be upgraded
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/11/ssd-macbook-pro-touch-bar.jpg)
 * After seeing in iFixit’s teardown that the base model of the new 2016 MacBook Pro without the Touch Bar had a removable PCIe SSD storage unit, many were excited at the possibility of aftermarket upgrade parts across the new MacBook Pro lineup.

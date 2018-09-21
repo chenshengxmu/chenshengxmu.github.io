@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UK's Everything Everywhere announces LTE expansion to 17 new markets by March 2013
+title: UKs Everything Everywhere announces LTE expansion to 17 new markets by March 2013
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/4G-EE-store-image-001.jpg)
 * Everything Everywhere (EE), a joint venture between Deutsche Telekom’s T-Mobile and France Télécom’s Orange, launched UK’s first commercial 4G LTE network on October 30 and today the company has announced a network expansion to seventeen new markets in the country, to be finished by March of next year.

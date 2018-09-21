@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Developers can now use Apple's Transporter tool to upload app previews to iTunes Connect
+title: Developers can now use Apples Transporter tool to upload app previews to iTunes Connect
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/app-store-redesign-on-iPhone-ios-11.jpg)
 * Registered iPhone, iPad and Apple TV developers can now use Apple’s command-line delivery tool to upload their app previews to iTunes Connect, change app metadata in bulk and more.

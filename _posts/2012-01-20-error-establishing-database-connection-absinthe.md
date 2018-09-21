@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Fix "Error Establishing a Database Connection" when Using Absinthe
+title: How to Fix Error Establishing a Database Connection when Using Absinthe
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/error-establishing-database-connection.jpg)
 * The Absinthe jailbreak for iPhone 4S and iPad 2 was released a few minutes ago. Of course, we were right on it and we already posted a tutorial on how to jailbreak the iPhone 4S or iPad 2 using Absinthe.

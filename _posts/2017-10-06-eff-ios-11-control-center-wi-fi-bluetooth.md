@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EFF slams Apple's implementation of Wi-Fi & Bluetooth toggles in iOS 11 Control Center
+title: EFF slams Apples implementation of Wi-Fi & Bluetooth toggles in iOS 11 Control Center
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/iOS-11-Control-Center-Wi-Fi-Bluetooth-toggles-on-iPhone-screenshot-001.png)
 * The Electronic Frontier Foundation today criticized the changed behavior of Apple’s Wi-Fi and Bluetooth toggles in Control Center, saying iOS 11 has made it harder for users to control these settings and calling them “misleading“ and “bad for user security.”

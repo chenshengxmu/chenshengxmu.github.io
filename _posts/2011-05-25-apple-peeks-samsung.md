@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Gets to Have a Peek at Samsung's Yet-to-Be Released Phones
+title: Apple Gets to Have a Peek at Samsungs Yet-to-Be Released Phones
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/Samsung-v.s-iPhone-e1303179104864.jpeg)
 * There is a legal battle going on between Apple and Samsung right now. You might recall last month when we reported that Apple was suing Samsung for copyright infringement. Apple claimed at the time that Samsung’s latest devices strangely look similar to their iPhone. It took only 11 days for Samsung to countersue Apple, with 10 patents infringements claims.

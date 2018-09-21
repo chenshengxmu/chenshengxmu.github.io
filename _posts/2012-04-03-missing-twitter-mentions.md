@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Noticed missing Twitter mentions on your iPhone? You're not alone
+title: Noticed missing Twitter mentions on your iPhone? Youre not alone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/Screen-Shot-2011-10-18-at-10.22.12-AM.png)
 * Twitter integration with iOS has led to huge sign-up numbers for the social network. Add those new users to the throngs of iPhone owners that were already big Twitter users, and it’s safe to say that there are plenty of Twitter accounts plugged into iPhones.

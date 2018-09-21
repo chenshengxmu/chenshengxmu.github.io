@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 7 is water resistant but liquid damage is not covered under Apple's warranty
+title: iPhone 7 is water resistant but liquid damage is not covered under Apples warranty
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/iPhone-7-waterproofing-image-004.jpg)
 * Apple’s new iPhone 7 and iPhone 7 Plus are the first dust and water resistant iPhones with IP67 protection, meaning they’re 100 percent resistant to dust and sand and should survive being submerged in about a meter of water for up to 30 minutes. The devices have waterproofed components like the buttons, the chassis and the SIM tray.

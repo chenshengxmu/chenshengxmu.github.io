@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Walk-in Retina iPad mini purchases unavailable, Apple 'working hard' to meet demand
+title: Walk-in Retina iPad mini purchases unavailable, Apple working hard to meet demand
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/ipadminispacegray.png)
 * Those of you who just woke up needn’t worry, there’s nothing wrong with the Internet today – Apple’s iPad mini with Retina display has indeed made a surprise debut. As Cody told you, the highly anticipated tablet has unexpectedly been available as of midnight Pacific Time on November 12, arriving without too much noise on Apple’s part aside from a quiet website update and a press release.

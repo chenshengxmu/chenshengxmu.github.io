@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tweetbot's iCloud sync is brilliant
+title: Tweetbots iCloud sync is brilliant
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/Tweetbot-iCloud-Sync.jpg)
 * A couple of weeks ago version 2.2 of Tweetbot — my favorite Twitter client for iOS — was released to the public.

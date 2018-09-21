@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple exploring ways of letting users loan and resell "used" iTunes purchases
+title: Apple exploring ways of letting users loan and resell used iTunes purchases
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/iTunes-Store-gift-app.jpg)
 * In a world of digital media, ranging from e-books to movies and music, consumers have often questioned the difficulty of loaning or selling their originally purchased items. In an exciting development, Apple has now developed a way to transfer digital content while also protecting the rights of the publisher.

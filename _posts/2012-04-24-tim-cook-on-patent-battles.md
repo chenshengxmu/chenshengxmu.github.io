@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook speaks out on Apple's patent battles
+title: Tim Cook speaks out on Apples patent battles
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/tim-cook.jpg)
 * Along with making announcements regarding its quarterly performance, Apple also uses its financial earnings calls to offer analysts a chance to ask questions. After all, these are the folks that have to essentially guess how Apple will fair over the next few months.

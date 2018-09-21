@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung rumored to supply screens for iPad Air 2 and 12.9" iPad Pro
+title: Samsung rumored to supply screens for iPad Air 2 and 12.9 iPad Pro
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/iPad-Air-2-mockup-TLD-Today-001.jpg)
 * Samsung Display, Samsung’s display unit and part of the company’s component-making arm, will supply Apple with high-resolution panels for an upcoming second-generation iPad Air and a rumored “iPad Pro”which is understood to feature a 12.9-inch screen, Taiwanese trade publication DigiTimes reported Tuesday morning citing Korean-news outlet inews24.

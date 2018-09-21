@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Safari for Mac not resolving Twitter's shortened “t.co” links? Apple's identified a fix.
+title: Safari for Mac not resolving Twitters shortened “t.co” links? Apples identified a fix.
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/Safari-broken-Twitter-links.jpg)
 * If you prefer to browse your Twitter timeline in Safari for Mac, you must have noticed the irritating issue where the browser won’t resolve shortened “t.co” links, resulting in an error message informing you that “Safari can’t open the page because the server where this page is located is not responding”.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Despite Samsung's lead, Apple continues to rule profits
+title: Despite Samsungs lead, Apple continues to rule profits
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/08/iPhone-Dollar-Money.jpg)
 * Though Samsung sold twice as many smartphones during the June quarter compared to Apple, the South Korean company still lags behind Apple in terms of the most important metric, operating profit. According to latest estimates, Apple took home more than three out of four dollars earned in the cell phone making biz.

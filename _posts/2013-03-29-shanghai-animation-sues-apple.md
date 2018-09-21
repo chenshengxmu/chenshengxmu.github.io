@@ -1,6 +1,6 @@
 ---
 layout: post
-title: China's oldest animation studio sues Apple over improper downloads
+title: Chinas oldest animation studio sues Apple over improper downloads
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/The-Monkey-King-teaser.jpg)
 * Apple’s legal woes in the 1.33 billion people market of China have worsened as Shanghai Animation Film Studio filed a lawsuit over the allegedly improper iTunes downloads. The studio asserts that Apple’s been illegally selling its content and is seeking north of half a million dollars in damages. Shanghai Animation is China’s first and oldest animation studios and their complaint alleges in no ambiguous terms that Apple blatantly stole their content without paying any royalty at all.

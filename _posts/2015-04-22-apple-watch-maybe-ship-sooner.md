@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some Apple Watch pre-orders with May and June ship dates now 'Preparing for Shipment'
+title: Some Apple Watch pre-orders with May and June ship dates now Preparing for Shipment
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/04/apple-watch-pre-order1.png)
 * Potentially good news today for folks looking at lengthy lead times on their Apple Watch pre-orders. Some customers with 4-6 week and June shipping estimates are reporting that Apple has charged them for their Watch purchases, and their order statuses have changed from ‘Processing Items’ to ‘Preparing for Shipment.’

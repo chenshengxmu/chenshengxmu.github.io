@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Springtomize 2' Updated with Native iPad Support
+title: Springtomize 2 Updated with Native iPad Support
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/Springtomize-2-iPad.jpg)
 * Springtomize 2 — the ridiculously in-depth Springboard tweak package — was updated today to include native iPad support among other things.

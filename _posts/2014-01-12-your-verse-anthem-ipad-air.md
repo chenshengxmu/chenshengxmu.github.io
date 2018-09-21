@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple airs new 'Your Verse Anthem' iPad Air ad
+title: Apple airs new Your Verse Anthem iPad Air ad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/ipad-air-verse-anthem.png)
 * Apple began airing a new commercial for its iPad Air today, during this morning’s NFL playoff game between the San Francisco 49ers and the Carolina Panthers. The ad, entitled “Your Verse Anthem,’ feels familiar in that it shows how people from different walks of life use the iPad.

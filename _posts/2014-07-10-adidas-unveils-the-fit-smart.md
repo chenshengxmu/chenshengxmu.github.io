@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adidas adds to the fitness tracker craze with the 'Fit Smart'
+title: Adidas adds to the fitness tracker craze with the Fit Smart
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/adidas-fit-smart.jpg)
 * If you were disappointed to hear that Nike was shuttering its FuelBand hardware, never fear, another major sportswear brand is picking up the baton. Adidas has unveiled its latest fitness tracking device, the miCoach Fit Smart, this week.

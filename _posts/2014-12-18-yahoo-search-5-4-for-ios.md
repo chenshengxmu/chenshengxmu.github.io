@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yahoo's Search iOS app gains comments, local news and improved navigation
+title: Yahoos Search iOS app gains comments, local news and improved navigation
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/Yahoo-5.4-for-iOS-iPhone-screenshot.png)
 * Yahoo’s main search-focused iPhone and iPad application has received a refresh today. In addition to an improved navigation system focused on the new side panel accessible by swiping, Yahoo 5.4 for iOS now integrates latest local news headlines and finally lets you comment on stories within the app.

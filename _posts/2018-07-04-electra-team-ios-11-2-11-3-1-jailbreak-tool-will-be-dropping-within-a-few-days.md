@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Electra Team- iOS 11.2-11.3.1 jailbreak tool "will be dropping within a few days"
+title: Electra Team- iOS 11.2-11.3.1 jailbreak tool will be dropping within a few days
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-04-at-6.24.58-PM.png)
 * Good news on Wednesday for those who’ve been eagerly awaiting a jailbreak for iOS 11.3.1: the Electra Team announced that their upcoming jailbreak tool would be released in coming days.

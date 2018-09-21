@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New mockups visualize Apple's rumored iOS 8 'Healthbook' app
+title: New mockups visualize Apples rumored iOS 8 Healthbook app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/healthbook-concept.png)
 * A couple of mockup images surfaced on the web today, hoping to visualize what Apple’s rumored health-tracking app could look like. A January report from 9to5Mac said that the app, codenamed ‘Healthbook,’ would gather health and fitness data from iWatch and launch alongside iOS 8.

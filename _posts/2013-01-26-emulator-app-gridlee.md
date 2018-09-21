@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MAME emulator 'Gridlee' pops up in the App Store
+title: MAME emulator Gridlee pops up in the App Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/gridlee-ss.png)
 * Good news old school gamers. Word has started spreading this afternoon that a MAME emulator has made its way into the App Store. It’s called Gridlee, named after an old arcade game that never made it to market, and it’s based on the MAME4iOS platform.

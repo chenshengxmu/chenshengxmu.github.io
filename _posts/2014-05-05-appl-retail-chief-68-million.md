@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's new retail chief Angela Ahrendts awarded $68 million in stock
+title: Apples new retail chief Angela Ahrendts awarded $68 million in stock
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/angela-ahrendts.png)
 * Talk about a signing bonus. After officially joining Apple last week, word got out today that Angela Ahrendts has already received 113 thousand units of restricted stock. At today’s prices—remember, APPL is back up around $600—the shares would be worth roughly $68 million.

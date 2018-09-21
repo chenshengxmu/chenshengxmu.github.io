@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple to kick off annual 'Lucky Bag' one-day sale in Japan on January 2
+title: Apple to kick off annual Lucky Bag one-day sale in Japan on January 2
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/Apple-Lucky-Bag-2014-teaser-001.png)
 * Apple has confirmed that its retail stores in Japan will be kicking off the holiday ‘Lucky Bag’ promotion next Thursday, January 2, 2014. The country’s annual sales event is something of a local tradition and Apple has made sure to delight its loyal fans with mystery bags filled with randomly picked products.

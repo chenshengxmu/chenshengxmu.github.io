@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How did ABC's documentary 'A Trip to the iFactory' make Apple look?
+title: How did ABCs documentary A Trip to the iFactory make Apple look?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/img_6967_ss_120220_ssh-1.jpeg)
 * ABC’s 25 minute documentary ‘A Trip to the iFactory‘ just aired on Nightline, where correspondent Bill Weir traveled to Foxconn for the world’s first full view of the operation inside. For those unfamiliar, Foxconn is the factory where Apple’s and other top brands’, products are manufactured.

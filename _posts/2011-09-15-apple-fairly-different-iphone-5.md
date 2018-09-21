@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Employees- "Fairly Different" iPhone 5 is "Just Weeks Away"
+title: Apple Employees- Fairly Different iPhone 5 is Just Weeks Away
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/iphone5_concept5-e1309378231534.jpg)
 * We know. You’ve heard this already. In fact, it would be downright crazy for Apple to not hold an iPhone announcement in the next few weeks.

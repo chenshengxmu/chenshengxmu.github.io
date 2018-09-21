@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple- we knew nothing of jury foreman Hogan's background
+title: Apple- we knew nothing of jury foreman Hogans background
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/apple_jury_foreman.jpg)
 * Apple and Samsung are scheduled to once again duke it out in the courtroom on the eve of Pearl Harbor Day, Thursday, December 6. And as the South Korean conglomerate last month alleged jury misconduct, claiming a foreman in the Apple v. Samsung lawsuit concealed information during the jury selection process, Apple is adamant it knew nothing of the foreman background.

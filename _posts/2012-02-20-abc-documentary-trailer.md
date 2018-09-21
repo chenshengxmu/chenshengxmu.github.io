@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ABC releases teaser for their upcoming 'A Trip to The iFactory' documentary
+title: ABC releases teaser for their upcoming A Trip to The iFactory documentary
 ---
 * U.S. television network ABC was granted the rights to produce a documentary profiling Apple’s main manufacturer, Foxconn. This is the first inside look of the manufacturing plant, where many say workers are under harsh condition to produce our favorite Apple devices.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/img_6967_ss_120220_ssh.jpeg)

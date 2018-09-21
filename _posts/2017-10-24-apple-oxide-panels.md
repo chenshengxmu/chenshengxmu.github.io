@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's adoption of oxide display panels has PC laptop rivals following suit
+title: Apples adoption of oxide display panels has PC laptop rivals following suit
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/iPad-pro-Orlando-nighttime-.jpeg)
 * Image sharpness and overall quality afforded by oxide flat panels found in Apple’s notebooks and the latest iPad Pro models hasn’t gone unnoticed with branded PC notebook vendors who are now following in Apple’s footsteps, said the sources that spoke with DigiTimes.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google still 'interested in reaching an agreement with Apple' over patents
+title: Google still interested in reaching an agreement with Apple over patents
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/Apple-vs-Motorola-lawsuit-image-001.jpg)
 * Though it hinted it was tiring of patent wars and even dropped its ITC patent infringement claims against Apple (the move some deciphered as a gesture of goodwill), Motorola could be off the hook as Google was quoted as saying Monday that that a Wisconsin federal court tossed Apple’s “patent lawsuit with prejudice” out of the window.

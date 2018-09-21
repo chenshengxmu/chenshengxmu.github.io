@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's marketing honcho Phil Schiller joins biotech company Illumina's board of directors
+title: Apples marketing honcho Phil Schiller joins biotech company Illuminas board of directors
 ---
 * Phil Schiller, Apple’s Senior Vice President of Worldwide Marketing, has been named to biotechnology company Illumina’s board of directors. According to Illumina’s announcement, Phil’s track record and global experience in marketing world-class products “will help guide us as we continue to develop innovative new solutions for our customers.”
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/Phil-Schiller.jpg)

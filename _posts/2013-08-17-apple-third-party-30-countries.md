@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's third-party USB adapter trade-in program now available in 30 countries
+title: Apples third-party USB adapter trade-in program now available in 30 countries
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Apple-USB-Power-Adapter.jpg)
 * Following a handful of fatal electrocutions in China due to the use of unauthorized chargers, Apple unveiled a new USB Power Adapter Takeback Program earlier this month to “enable customers to acquire properly designed adapters.”

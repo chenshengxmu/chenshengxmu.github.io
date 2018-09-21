@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Telltale offering first episode of 'The Wolf Among Us' for free right now
+title: Telltale offering first episode of The Wolf Among Us for free right now
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/wolf-3.jpeg)
 * Heads up gamers, Telltale Games is currently offering the first episode of ‘The Wolf Among Us’ for free right now. We named the game one of our ‘Apps of the Week‘ for the iPhone and iPad back in February, and it normally retails for $4.99.

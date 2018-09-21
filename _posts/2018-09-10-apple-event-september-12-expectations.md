@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What to expect (and not expect) at Apple's 'Gather round' event on Sept. 12
+title: What to expect (and not expect) at Apples Gather round event on Sept. 12
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/AJavier_E-gatherround1-mac-September-12-Apple-Event-iPhone-wallpaper.jpg)
 * I’ve been reporting on Apple through various outlets for over eight years. During that time, I have covered plenty of “special” events like the one we’re about to see this week. Based on my experience, there are things I’ve come to expect from Apple during these events, and things I do not. 

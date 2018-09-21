@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cook at D10- Apple TV sales doubling, but it's still "an experiment"
+title: Cook at D10- Apple TV sales doubling, but its still an experiment
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Tim-Cook-at-D10-image-001.jpg)
 * Apple CEO Tim Cook addressed his company’s $99 set-top box at yesterday’s D10: Al Things Digital conference where he was an opening-night speaker. He reiterated his predecessor’s stance of Apple TV still being a hobby (he called it “an experiment” and confirmed the company sold 2.7 million units in this year so far…

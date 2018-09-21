@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's revised apology to Samsung hits UK newspapers
+title: Apples revised apology to Samsung hits UK newspapers
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/The-Guardian-Apple-apology-to-Samsung.jpg)
 * As required by the UK court of appeal, Apple today published a public apology to Samsung in The Guardian newspaper, following the previous U.K. ruling that Samsung tablets did not copy the iPad. Snarky Apple yesterday published a public notice of the ruling on its web site and ran into trouble because it cunningly inserted a paragraph quoting the Judge on how consumers can’t confuse the Galaxy Tab with the iPad because “they’re not as cool”, prompting Judge Robin Jacob to order that the edits be made within 24 hours.

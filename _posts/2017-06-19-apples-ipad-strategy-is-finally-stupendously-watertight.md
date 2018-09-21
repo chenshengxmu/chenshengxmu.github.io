@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's iPad strategy is finally stupendously watertight
+title: Apples iPad strategy is finally stupendously watertight
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/iPad-Pro-all-colors-promo.jpg)
 * Rome was famously not built in a day. And we know now that at Apple, the iPad line-up was not intuitively streamlined until WWDC 2017. Factoring out the formative years of iPad shortly after its birth in 2010, too many incremental releases (e.g. iPad 3 to iPad 4 in the same year of 2012, also iPad Mini) and too much tinkering with suffixes in the name (Air, Pro, Mini, blank) had diluted and complicated the iPad brand, so much so that large numbers of customers must have struggled to stay on top of what’s the latest tablet product on Apple’s shelves.

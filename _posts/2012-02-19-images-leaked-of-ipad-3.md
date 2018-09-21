@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rumor- images leaked of the iPad 3's Retina display in production
+title: Rumor- images leaked of the iPad 3s Retina display in production
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/ipad-3-production-3.jpg)
 * We know, these iPad 3 rumors are starting to get a bit ridiculous. In the last two days we’ve seen images of the purported tablet, and learned that its processor may (or may not) be called the A5X.

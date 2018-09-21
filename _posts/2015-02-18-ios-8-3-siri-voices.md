@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Can you tell the difference between Siri's voice in iOS 8.1.1 and iOS 8.3?
+title: Can you tell the difference between Siris voice in iOS 8.1.1 and iOS 8.3?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Siri-promo-video-Woman-asks-for-weather.jpeg)
 * Improved Siri voice is reportedly among the under-the-hood improvements in Apple’s upcoming iOS 8.3 software update. Though a better-sounding Siri may not always be apparent to an untrained ear, Apple should be credited for consistently improving the voice assistant’s speech synthesis capabilities.

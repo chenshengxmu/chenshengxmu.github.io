@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 10 tidbit- 'Hey Siri' intelligently responds on one nearby device at a time
+title: iOS 10 tidbit- Hey Siri intelligently responds on one nearby device at a time
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/iOS-10-Siri-waveform-image-001.png)
 * iOS 10 adjusts how a tetherless Siri feature works in a rather interesting way. Rather than have every single nearby device respond to the ‘Hey Siri’ command, creating a cacophony of multiple sounds, iOS 10 responds to the hotword on only one nearby device at a time.

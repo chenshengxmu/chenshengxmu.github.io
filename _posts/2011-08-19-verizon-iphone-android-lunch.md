@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 4 Beginning to Eat Android's Lunch on Verizon
+title: iPhone 4 Beginning to Eat Androids Lunch on Verizon
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/07/VerizoniPhone--e1311354543466.jpg)
 * Apple’s iPhone 4 has only been on sale on Verizon for around 6 months, but it’s already stealing Android’s lunch money, according to new stats from Chitika Insights this week.

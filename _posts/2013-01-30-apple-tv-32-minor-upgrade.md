@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Apple TV 3,2' is just a minor internal upgrade
+title: Apple TV 3,2 is just a minor internal upgrade
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/Apple-TV.jpg)
 * Don’t get too excited about that unreleased Apple TV device which popped up in Monday’s iOS 6.1 release – Apple confirmed it’s just a minor internal upgrade that won’y affect product features at all. That much was expected: after all, the very ‘AppleTV 3,2’ designation indicates a minor refresh (current-gen 1080p Apple TV is being referenced as ‘AppleTV 3,1’). We kinda hoped that the new Apple TV would run third-party apps or become a full-blown television set, but Apple says ‘no’…

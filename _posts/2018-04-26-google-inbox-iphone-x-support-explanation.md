@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google explains why it's taking so long to add iPhone X support to the Inbox email app
+title: Google explains why its taking so long to add iPhone X support to the Inbox email app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/03/Inbox-by-Gmail-not-optimiezd-iphone-x.png)
 * Google’s attitude towards Inbox users is beyond inexcusable.

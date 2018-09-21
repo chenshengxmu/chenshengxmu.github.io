@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Munster on iTV- 'if' has been decided and now the question is 'when'
+title: Munster on iTV- if has been decided and now the question is when
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/itv.jpg)
 * Riding on his iTV  predictions, Piper Jaffray analyst Gene Munster wrote in a note to clients today that a number of factors, including Tim Cook’s D10 talk earlier this week, have led him to confidently assume that a full-fledged television set from Apple is a now a matter of ‘when’, not ‘if’.

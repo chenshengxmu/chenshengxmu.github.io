@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CloudMagic Mail with 'fast magical search' hits iOS
+title: CloudMagic Mail with fast magical search hits iOS
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/CloudMagic-1.0.8-for-iOS-iPhone-screenshot-001.jpeg)
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/CloudMagic-1.0.8-for-iOS-iPhone-screenshot-005.jpeg)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple seeds iOS 8 beta 4 to developers- here is what's new
+title: Apple seeds iOS 8 beta 4 to developers- here is whats new
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/iOS-8-beta-4.png)
 * Two weeks after its last beta release, Apple has seeded iOS 8 beta 4 to developers. Aside from the usual myriad of bug fixes and improvements, there are sure to be some UI tweaks and other noticeable changes. Apple has more details in beta 4’s release notes.

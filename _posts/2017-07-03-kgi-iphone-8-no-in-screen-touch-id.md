@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KGI- iPhone 8 won't support fingerprint recognition
+title: KGI- iPhone 8 wont support fingerprint recognition
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/04/iPhone-8-Full-Vision-Display-iFanr-mockup-001.jpg)
 * Revered Apple analyst Ming-Chi Kuo of KGI Securities is back with the latest round of predictions conquering Apple’s upcoming iPhones, obtained by StreetInsider.

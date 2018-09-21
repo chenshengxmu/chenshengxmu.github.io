@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New photos surface of Apple's Arizona sapphire plant, possible expansion rumored
+title: New photos surface of Apples Arizona sapphire plant, possible expansion rumored
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/arizona-plant.jpg)
 * According to a new report from AppleInsider, contractors are working around the clock and on weekends to finish Apple’s new sapphire plant in Mesa, Arizona. The site says that work on the facility is progressing, and that the company may be expanding the project with an additional building.

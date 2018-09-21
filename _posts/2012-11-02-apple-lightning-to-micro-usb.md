@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Lightning to Micro USB Adapter hits US online store
+title: Apples Lightning to Micro USB Adapter hits US online store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/Lightning-to-Micro-USB-Adapter.jpeg)
 * Apple’s been an avid supported of USB for years. With USB 3.0, not so much – at least not until first Mac notebooks with USB 3.0 support began rolling out of assembly lines last year. The company, however, never adopted the industry-standard Micro USB connector. Instead, and much to the horror of the multi-billion dollar accessory biz, it chose to replace its own bulky, decade-old proprietary 30-pin dock connector with Lightning, another proprietary connector similar in size to micro USB (there’s a reasonable explanation for that).

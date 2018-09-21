@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't hold your breath for Files.app in iOS 6, here's why
+title: Dont hold your breath for Files.app in iOS 6, heres why
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/Pages-for-iOS-iPad-screenshot-001.jpg)
 * Geeks have been holding their breath for direct file system access in iOS ever since the original iPhone’s debut five years ago.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Disney CEO- my job is to build more "brand deposits" than "brand withdrawals”
+title: Disney CEO- my job is to build more brand deposits than brand withdrawals”
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Bob-Iger-at-Disney-World-Gregg-Segal-for-Fortune.jpg)
 * Disney CEO Bob Iger, who got named to Apple’s board last year, shares some interesting tidbits with Fortune concerning life at Disney and his management style.

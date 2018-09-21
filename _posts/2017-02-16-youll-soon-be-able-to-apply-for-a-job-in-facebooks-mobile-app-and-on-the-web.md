@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You'll soon be able to apply for a job in Facebook's mobile app and on the web
+title: Youll soon be able to apply for a job in Facebooks mobile app and on the web
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/Facebook-Jobs-iPhone-screenshot-001.jpg)
 * Facebook on Thursday announced it’s rolling out a new Jobs section on the mobile app and via the web interface at facebook.com/jobs. This new feature will allow users to find and apply for hourly-paid job openings advertised on the service by small businesses in the United States and Canada.

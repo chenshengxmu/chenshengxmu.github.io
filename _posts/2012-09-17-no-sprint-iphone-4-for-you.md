@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It looks like Sprint isn't going to carry the free iPhone 4
+title: It looks like Sprint isnt going to carry the free iPhone 4
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/sprint-iphone-4-e1347950976605.jpg)
 * When Apple unveiled its new smartphone last week, it also announced some changes to its iPhone lineup. For starters, the 16GB iPhone 4S is going to drop to just $99 with a two year contract.

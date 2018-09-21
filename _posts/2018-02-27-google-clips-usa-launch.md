@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's iOS-compatible, machine learning-driven smart camera now available in US
+title: Googles iOS-compatible, machine learning-driven smart camera now available in US
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/Google-Clips.jpg)
 * First announced last October alongside the new Pixel 2 smartphone lineup, an expanded Home speaker range and other accessories, Google’s miniature smart camera, called Clips, finally went on sale today in the United States priced at $249.

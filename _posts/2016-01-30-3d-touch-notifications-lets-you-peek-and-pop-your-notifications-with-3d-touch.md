@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '3D Touch Notifications' lets you peek and pop your notifications with 3D Touch
+title: 3D Touch Notifications lets you peek and pop your notifications with 3D Touch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/3d-touch-notifications-banner-image.png)
 * 3D Touch is one of the flagship features of the iPhone 6s and iPhone 6s Plus, allowing users to press firmly on various interfaces throughout iOS to reveal hidden menus with shortcuts to commonly-performed actions.

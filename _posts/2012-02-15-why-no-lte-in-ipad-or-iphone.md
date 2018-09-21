@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Apple won't give the iPhone or iPad an LTE radio. Yet.
+title: Why Apple wont give the iPhone or iPad an LTE radio. Yet.
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/lte-ipad.jpg)
 * Right, I’m going to come right out and say this before I go any further: I’m going to get a lot of stick for this, and the rest of the iDB team thinks that I’ve lost my mind, but I’m going to write this anyway. I don’t think the iPad or iPhone is going to get an LTE radio. At least, not yet.

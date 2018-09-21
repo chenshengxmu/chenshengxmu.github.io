@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's “Calls” adaptation may let you experience short stories via real-life audio sources
+title: Apples “Calls” adaptation may let you experience short stories via real-life audio sources
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/10/Apple-TV-4-watching-movies-lifestyle-001.jpg)
 * According to Variety, Apple’s latest original video content deal is “Calls,” an English-language adaptation of the French short-form series Canal+ that let viewers experience short stories via real-life audio sources and minimal visuals.

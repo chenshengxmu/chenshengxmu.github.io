@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung wants a retrial of its last retrial based on 'racial prejudice'
+title: Samsung wants a retrial of its last retrial based on racial prejudice
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/courtroom-660x439.jpg)
 * Following a recent retrial in the Apple v. Samsung case that saw the jury award the former with a cool $290 million on top of the nearly $600 million in previous damages over copying patented iPhone technology, Samsung of South Korea now wants a retrial of the retrial, citing a very unusual argument. Apple throughout the trial has painted Samsung as a “threat” to the local and national economy.

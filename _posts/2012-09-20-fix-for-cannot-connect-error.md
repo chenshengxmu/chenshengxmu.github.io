@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fix for "Cannot connect to iTunes Store" error in iOS
+title: Fix for Cannot connect to iTunes Store error in iOS
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/cannot-connect-to-iTunes-store.jpg)
 * Since updating my iPhone to the latest iOS version available, I’ve been having problems with the App Store. Specifically, when I was in the Passbook application and clicked the App Store portal, I was met with the following error: “Cannot connect to iTunes Store.”

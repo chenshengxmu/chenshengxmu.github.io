@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile CEO teases 'Uncarrier 4' event, promises to eliminate a customer pain point
+title: T-Mobile CEO teases Uncarrier 4 event, promises to eliminate a customer pain point
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/T-Mobile-Jump-presser-John-Legere.jpg)
 * Get ready US carriers and subscribers, it looks like T-Mobile is about to introduce another game-changer. The company’s outspoken CEO John Legere tweeted out this morning that it’s time for them to ‘eliminate another customer paint point.’

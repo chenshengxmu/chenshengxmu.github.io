@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exclusive Interview with Pete "Plamoni" Lamonica, the Creator of SiriProxy
+title: Exclusive Interview with Pete Plamoni Lamonica, the Creator of SiriProxy
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/Screen-Shot-2011-11-28-at-1.20.02-PM-e1322504467511.jpg)
 * SiriProxy has been making the headlines as of late. The server technology makes it possible to use Siri to unlock your car, interact with apps, and even set your thermostat.

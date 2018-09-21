@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AirPods and iPads top this year's most sought gadgets for Cyber Monday
+title: AirPods and iPads top this years most sought gadgets for Cyber Monday
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/AirPods-and-iPads.jpg)
 * Adobe today released its annual report on Black Friday and Cyber Monday that includes a bunch of interesting details, including the fact that iPads and AirPods were some of the best selling gadgets.

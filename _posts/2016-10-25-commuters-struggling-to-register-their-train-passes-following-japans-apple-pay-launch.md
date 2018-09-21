@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Commuters struggling to register their train passes following Japan's Apple Pay launch
+title: Commuters struggling to register their train passes following Japans Apple Pay launch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/Apple-Pay-Japan-teaser-001.jpg)
 * Following its official launch in Japan, Apple Pay has experienced a rocky debut in the 127 million people market as commuters struggled to register their train passes onto iPhones for more than ten hours amid apparent system overload.

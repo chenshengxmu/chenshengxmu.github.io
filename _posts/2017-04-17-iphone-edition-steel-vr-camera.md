@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Report- next-gen 'iPhone Edition' to feature stainless steel frame, vertical VR camera
+title: Report- next-gen iPhone Edition to feature stainless steel frame, vertical VR camera
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/04/iphone-8.png)
 * Apple’s next-generation handset will feature a stainless steel frame, reports Japanese blog Mac Otakara. Citing sources familiar with the matter, the site claims the new iPhone will use an improved version of the Apple Watch’s stainless steel casing, which will sit sandwiched between two pieces of glass.

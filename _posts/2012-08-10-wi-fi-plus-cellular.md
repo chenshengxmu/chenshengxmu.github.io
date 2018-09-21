@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A complete breakdown of iOS 6's new Wi-Fi Plus Cellular feature
+title: A complete breakdown of iOS 6s new Wi-Fi Plus Cellular feature
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/Wi-Fi-Plus-Cellular-Hero.jpg)
 * As we told you yesterday, Apple has incorporated a new Wi-Fi Plus Cellular option in iOS 6 beta 4. This new setting allows apps to use cellular data when there are issues with the Wi-Fi connection.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's new T1 chip that drives MacBook Pro's Touch Bar runs “eOS”, a variant of watchOS
+title: Apples new T1 chip that drives MacBook Pros Touch Bar runs “eOS”, a variant of watchOS
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/MacBook-Pro-Touch-Bar-emoji-image-001.jpg)
 * If early impressions are an indication, the Touch Bar on the new MacBook Pro is definitely not a gimmick. The time-saving feature lets you accomplish common tasks faster without needing to memorize a bunch of app-specific keyboard shortcuts.

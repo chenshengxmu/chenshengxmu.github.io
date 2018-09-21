@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sony's PlayStation Music goes live in 41 countries with Spotify integration
+title: Sonys PlayStation Music goes live in 41 countries with Spotify integration
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/Sony-PlayStation-Music-Home-screenshot-001.jpg)
 * After years of trying to make a dent in the music space with its ill-fated services like Music Unlimited, Sony back in January threw in the towel by announcing a partnership with Spotify, the leading music-streaming service.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's free app of the week- Green Riding Hood
+title: Apples free app of the week- Green Riding Hood
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/green-1.png)
 * Apple on Thursday updated its App of the Week promotion with the app Green Riding Hood. This means that for the next 7 days, you’ll be able to pick up this popular title for free on both iPhone and iPad—a nice savings of $3.

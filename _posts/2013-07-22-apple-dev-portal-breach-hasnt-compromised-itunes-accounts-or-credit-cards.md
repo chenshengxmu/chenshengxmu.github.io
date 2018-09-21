@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple- dev portal breach hasn't compromised iTunes accounts or credit cards
+title: Apple- dev portal breach hasnt compromised iTunes accounts or credit cards
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/dev-center-down.png)
 * You’re probably aware by now Apple’s portal for its registered developers has been down since noon on Thursday, July 18. The firm on Sunday updated the standard “we’ll be back soon” message at the service’s landing page to warn the “maintenance will take longer than expected”.

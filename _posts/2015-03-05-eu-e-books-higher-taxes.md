@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EU rules e-books can't be subject to lower taxes
+title: EU rules e-books cant be subject to lower taxes
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/iBooks-3.2-for-iOS-iOS-7-iPhone-screenshot-001.jpg)
 * The top court of the European Union has determined that e-books shouldn’t be treated like their printed counterparts when it comes to taxes and therefore should be subject to higher tax rates, The Wall Street Journal reported Thursday.

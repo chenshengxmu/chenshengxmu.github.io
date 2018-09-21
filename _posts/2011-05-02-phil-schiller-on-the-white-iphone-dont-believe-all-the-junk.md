@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Phil Schiller on the White iPhone- "Don't Believe All the Junk"
+title: Phil Schiller on the White iPhone- Dont Believe All the Junk
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/05/White-iPhone-4-Unicorn.jpeg)
 * It was recently discovered that the newly released white iPhone is slightly thicker than the original iPhone 4. To everyone that cared, it seemed interesting that Apple would release the practically same device with a different set of dimensions.

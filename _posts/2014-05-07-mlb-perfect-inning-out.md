@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Baseball sim 'MLB Perfect Inning' now available in the App Store
+title: Baseball sim MLB Perfect Inning now available in the App Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/mlb-2.jpeg)
 * Baseball fans looking for a good sim on iOS will be happy to hear that one just landed in the App Store. It’s called ‘MLB Perfect Inning,’ by Gamevil, and it’s a console-quality simulator that’s been fully-licensed by Major League Baseball.

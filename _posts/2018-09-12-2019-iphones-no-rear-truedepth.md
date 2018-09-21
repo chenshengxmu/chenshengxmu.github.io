@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kuo- 2019 iPhones won't utilize Apple's TrueDepth infrared system on the back
+title: Kuo- 2019 iPhones wont utilize Apples TrueDepth infrared system on the back
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/iPhone-X-Cameras.jpg)
 * In a new research note issued to clients this morning, respected Apple analyst Ming-Chi Kuo has expressed his belief that the Cupertino technology firm won’t integrate an infrared depth-sensing system on the rear of new iPhones due in 2019, citing two reasons.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple TV picks up a new channel for Sports Illustrated's 120 SPORTS network
+title: Apple TV picks up a new channel for Sports Illustrateds 120 SPORTS network
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/Apple-TV-Sports-Illustrated-120-Sports-Home-menu.jpg)
 * As spotted by MacRumors, Apple TV has just gained a brand new channel with content from Sports Illustrated’s 120 SPORTS network.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Walmart stops Kindle sales, following Target's lead
+title: Walmart stops Kindle sales, following Targets lead
 ---
 * Amazon’s $199 Kindle and low-price retailer Walmart would appear to be a match made in discount heaven, right? Then how do you explain today’s news that Walmart is kicking Amazon to the curb? In a statement, Walmart only says the decision is part of its “overall merchandising strategy.”
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/kindle-fire.jpg)

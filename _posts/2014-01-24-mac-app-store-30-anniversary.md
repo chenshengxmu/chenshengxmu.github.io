@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mac App Store highlights apps and games that 'capture what makes Mac so extraordinary'
+title: Mac App Store highlights apps and games that capture what makes Mac so extraordinary
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/Mac-30-anniversary-Mac-App-Store.png)
 * Unless you haven’t been following news today, you’re by now aware that this Friday marks the Mac’s 30th anniversary. Apple is celebrating the occasion by taking over its own homepage with a nice interactive timeline of all Mac models, along with a cool poll and a heartwarming video to go with it.

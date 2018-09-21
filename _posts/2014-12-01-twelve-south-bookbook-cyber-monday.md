@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twelve South's Cyber Monday- 25 percent off BookBook cases for iPhones, iPads and Macs
+title: Twelve Souths Cyber Monday- 25 percent off BookBook cases for iPhones, iPads and Macs
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/Twelve-South-Rutledge-BookBook-image-009.jpg)
 * Twelve South, a premium accessory maker that designs and builds cases, stands, chargers and other Apple-exclusive accessories, is having a Cyber Monday sale today.

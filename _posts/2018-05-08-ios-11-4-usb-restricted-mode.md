@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 11.4's Restricted Mode may defeat physical data access by hacking tools like GrayKey
+title: iOS 11.4s Restricted Mode may defeat physical data access by hacking tools like GrayKey
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/04/GrayKey.jpg)
 * iOS 11.4 packs in a new feature called USB Restricted Mode that was designed to help defeat physical data access by forensic firms like Cellebrite and hacking tools such as GrayKey.

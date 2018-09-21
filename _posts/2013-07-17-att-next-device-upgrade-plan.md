@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why AT&T's 'Next' device upgrade program is a bad deal
+title: Why AT&Ts Next device upgrade program is a bad deal
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/ATT-Chicago-store-interior-001.jpg)
 * Yesterday, AT&T introduced a new device upgrade program called AT&T Next. An obvious response to T-Mobile’s ‘Jump’ plan, Next will allow customers, willing to pay a monthly fee, to trade in their device and upgrade to a brand new one every 12 months.

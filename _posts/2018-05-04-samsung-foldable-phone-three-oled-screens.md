@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung's foldable phone is said to have three 3.5-inch OLED screens
+title: Samsungs foldable phone is said to have three 3.5-inch OLED screens
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/05/samsung-foldable-galaxy-x.jpg)
 * Samsung Electronics is working on a foldable smartphone code-named “Winner” that will reportedly come outfitted with three 3.5-inch OLED screens, two inside and one outside, with the two inside panels forming a large seven-inch screen when the phone is unfolded.

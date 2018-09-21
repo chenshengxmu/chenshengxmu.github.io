@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Watch designers creating prototypes in Apple's studios
+title: Watch designers creating prototypes in Apples studios
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/11/Apple-Industrial-Design-Studio-image-015.jpg)
 * Apple yesterday announced a $300 coffee table photo book, titled “Designed by Apple in California”, which chronicles 20 years of iconic product designs. Jony Ive, Apple’s Chief Design Officer, discussed the photo book with Wallpaper.com and Japanese design firm Casa Brutus.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Makayama's iPad 2 Movie Mount Helps You Shoot Steady Footage On-the-Go
+title: Makayamas iPad 2 Movie Mount Helps You Shoot Steady Footage On-the-Go
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/moviemountpix.jpeg)
 * We all love the iPhone 4’s camera. The iPhone’s success as a camera and HD video recorder has been widely observed, with the smartphone topping the chart of used cameras on Flickr.

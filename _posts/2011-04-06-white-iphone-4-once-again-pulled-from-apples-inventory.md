@@ -1,6 +1,6 @@
 ---
 layout: post
-title: White iPhone 4 Once Again Pulled From Apple's Inventory
+title: White iPhone 4 Once Again Pulled From Apples Inventory
 ---
 * White iPhone 4 rumors are a dime a dozen these days. But because of the device’s mysterious non-existence, we all still seem to pay attention. At any rate, if you tried to visit the online Apple Store late last night, chances are you saw the above message.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/apple-store-down.jpg)

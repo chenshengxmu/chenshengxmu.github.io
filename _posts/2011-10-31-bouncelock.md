@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BounceLock' Adds a Visual Bounce to Your Lock Screen
+title: BounceLock Adds a Visual Bounce to Your Lock Screen
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/BounceLock-e1320074030589.png)
 * Want to add a little bounce to your Lock screen? If so, then BounceLock might be just the solution.

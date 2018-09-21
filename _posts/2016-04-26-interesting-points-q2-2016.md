@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 15 interesting points from Apple's Q2 2016 earnings call
+title: 15 interesting points from Apples Q2 2016 earnings call
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/Apple-Stores-Istanbul-Turkey-image-001.jpg)
 * Apple announced the financial results for its fiscal second quarter of 2016 this afternoon, and the numbers are pretty rough. While they fall within the company’s own guidance, iPhone sales are down 10 million units from the year-ago quarter, and revenue is down $7 billion.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile's iPhone-friendly HSPA+ network now covers 100 million people
+title: T-Mobiles iPhone-friendly HSPA+ network now covers 100 million people
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/T-Mobile-sign-web.jpg)
 * With its now-confirmed 2013 iPhone launch looming, T-Mobile continues its aggressive rollout of its HSPA+ network today with launches in Chicago, Illinois, Reno, Nevada, and Sacramento, California, along with enhancements in other areas.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'VideoLock' Keeps Streaming Video While Your iPhone is Locked
+title: VideoLock Keeps Streaming Video While Your iPhone is Locked
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/01/VideoLock.png)
 * If an Apple TV happens to be among your possessions, then chances are you’re a big proponent of AirPlay — Apple’s highly pushed streaming technology.

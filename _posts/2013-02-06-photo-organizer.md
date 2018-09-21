@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Photo Organizer let's you easily edit the Camera Roll and Albums
+title: Photo Organizer lets you easily edit the Camera Roll and Albums
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/photo-organizer.jpg)
 * The developer who goes by the name of Lordscotland should call himself LordOfAwesomeTweaks. His backlog of jailbreak apps includes incredibly useful freebies like Safari Download Enabler and PDF Printer for Safari. His latest tweak is called Photo Organizer, which provides users with more control over all their photo albums including the Camera Roll.

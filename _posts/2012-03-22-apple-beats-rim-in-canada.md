@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's iPhone beats BlackBerry in RIM's home turf
+title: Apples iPhone beats BlackBerry in RIMs home turf
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/Apple-vs-RIM.jpg)
 * Tapping IDC data, Bloomberg says Apple’s iPhone last year outsold Research In Motion’s BlackBerry smartphone in Canada, where the embattled BlackBerry maker is headquartered. The numbers say Apple shipped 2.85 million iPhones in Canada last year versus 2.08 million BlackBerrys.

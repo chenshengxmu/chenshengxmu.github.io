@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reminder- Jailbreakers Should Update to iOS 5.0.1 Before It's Too Late
+title: Reminder- Jailbreakers Should Update to iOS 5.0.1 Before Its Too Late
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/Warning.png)
 * We already warned you, but it might be the right time to remind you again that iPhone 4S and iPad 2 owners should update to iOS 5.0.1 asap, should they want to be able to jailbreak, when that A5 jailbreak is released.

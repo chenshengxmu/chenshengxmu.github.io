@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Popular gadget reseller says new Nexus 7 isn't attracting iPad owners
+title: Popular gadget reseller says new Nexus 7 isnt attracting iPad owners
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/nexus-7-2.jpg)
 * On Wednesday, Google unveiled a new version of its Nexus 7 tablet. And on paper, it looks great. It’s both thinner and lighter than its predecessor, and features a number of upgrades, like a hi-res 1,920 x 1,200 display. But so far, iPad users aren’t impressed.

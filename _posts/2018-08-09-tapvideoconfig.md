@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TapVideoConfig lets you adjust your iPhone's recording quality from the Camera app
+title: TapVideoConfig lets you adjust your iPhones recording quality from the Camera app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/tapvideoconfig1.jpg)
 * Depending on the type of iPhone or iPad you have, you might be able to change your Camera app’s video settings to support better picture quality or to conserve storage space when recording. But sadly, Apple makes the process more convoluted than it needs to be.

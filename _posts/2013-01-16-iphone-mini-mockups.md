@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's a budget iPhone concept with a 3.5-inch display
+title: Heres a budget iPhone concept with a 3.5-inch display
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/iPhone-Mini-2.jpg)
 * Apple is expected to make a few changes to its mobile lineup this year. For the iPad, it’s expected to revamp the 9.7-inch model making it thinner and lighter, with smaller bezels. On the iPhone side, it’s expected to release a new budget model.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Apple Won't Bring Siri to the iPhone 4
+title: Why Apple Wont Bring Siri to the iPhone 4
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/Photo-Nov-01-8-31-44-PM.jpg)
 * There’s been a lot of speculation lately that Apple’s new digital assistant, Siri, might be on its way to other devices. And given the evidence we’ve seen that Siri works fine on the iPhone 4, and that Apple’s been testing it on the old handset, it’s a fairly reasonable assumption.

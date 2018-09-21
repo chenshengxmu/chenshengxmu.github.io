@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's free app of the week- Telepaint
+title: Apples free app of the week- Telepaint
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/tele.png)
 * Apple on Thursday updated its App of the Week promotion with the game Telepaint. For the next 7 days, you can snag the paint-themed puzzler for free on both iPhone and iPad—a solid savings of $3.

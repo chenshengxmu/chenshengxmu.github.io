@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fantastical heading to the iPhone as Clear hits the Mac- it's about iCloud, stupid
+title: Fantastical heading to the iPhone as Clear hits the Mac- its about iCloud, stupid
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/Clear-for-Mac-teaser.jpg)
 * Two more great apps are making a jump from the Mac to the iOS platform and vice versa. Clear, a simplified and lively personal to-do list which debuted on the iPhone, is now available for the Mac, bringing with it gestures-based interface and classy animations the iOS version is known for.

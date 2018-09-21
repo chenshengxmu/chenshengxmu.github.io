@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple releases teasers for “Carpool Karaoke” ahead of next week's release
+title: Apple releases teasers for “Carpool Karaoke” ahead of next weeks release
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/Carpool-Karaoke-Will-Smith.jpg)
 * Apple’s version of “Carpool Karaoke”, based on the viral segment of “The Late Late Show” with James Corden, will premiere on Apple Music next Tuesday so the company released new teaser videos today to drum up excitement around the show’s debut.

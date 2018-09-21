@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's original show “Carpool Karaoke” will debut August 8 on Apple Music
+title: Apples original show “Carpool Karaoke” will debut August 8 on Apple Music
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/Tim-Cook-karaoke.jpg)
 * “Carpool Karaoke: The Series,” Apple’s first original show based on the popular segment on “The Late Late Show” with James Corden, will premiere August 8 on Apple Music. The news was revealed in today’s tweet by Eddy Cue, Apple’s chief of Internet Software and Services.

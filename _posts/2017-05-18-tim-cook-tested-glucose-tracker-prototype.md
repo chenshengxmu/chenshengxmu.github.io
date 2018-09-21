@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook is testing Apple's glucose tracker prototype on his body
+title: Tim Cook is testing Apples glucose tracker prototype on his body
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/04/Apple-Watch-NikeLab-Highsnobiety-image-006.jpg)
 * Apple’s chief executive Tim Cook was spotted around Apple’s campus wearing a non-invasive glucose tracker prototype on his body, CNBC said Thursday. A mystery device was connected to his Apple Watch. He’s been test-driving this rumored accessory to understand how his blood sugar responds to factors like food and exercise, according to the report.

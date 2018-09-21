@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to add an OS X inspired battery indicator to the iPhone's status bar
+title: How to add an OS X inspired battery indicator to the iPhones status bar
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/Resized-MacBattery-02.jpg)
 * MacBattery is a brand new jailbreak theme that allows you to add an OS X inspired battery indicator to the status bar in iOS 7. The theme uses the Alkaline jailbreak tweak in order to modify the battery indicator without having to rely on WinterBoard. We already reviewed Alkaline in an earlier post last week.

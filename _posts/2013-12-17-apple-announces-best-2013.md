@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple launches 'Best of 2013' iTunes page for top apps, games and more
+title: Apple launches Best of 2013 iTunes page for top apps, games and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/best-of-2013.png)
 * As it has done every December since 2009, Apple has published an iTunes page today highlighting the top performing downloads in its various digital storefronts. The page covers everything from apps to games, to books and movies.

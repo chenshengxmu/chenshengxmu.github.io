@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tip- quickly turn off your Mac's screen with this handy keyboard shortcut
+title: Tip- quickly turn off your Macs screen with this handy keyboard shortcut
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/Finder-App-Icon-e1424287696699.jpg)
 * If you don’t want a bystander to read what’s on your Mac’s screen or just want to temporarily shut off the display—for instance, to save battery—you can take advantage of several built-in OS X features.

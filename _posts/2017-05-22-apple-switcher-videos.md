@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's new videos aim to lure Android users into switching to iPhone
+title: Apples new videos aim to lure Android users into switching to iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/05/Siwtch-to-iPhone-ad.jpg)
 * Apple on Monday shared five short switcher videos through its official channel on YouTube. Titled “Photos”, “Jump”, “Fast”, “Privacy” and “Music”, each runs sixteen seconds long.

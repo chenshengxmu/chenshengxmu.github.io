@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The new iPad camera- we've seen it somewhere before
+title: The new iPad camera- weve seen it somewhere before
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/5mprearcam.jpeg)
 * Now that the new iPad is finding its way into the hands of lucky buyers across the globe, we are beginning to hear reports of first impressions and as always, teardowns. One such teardown has come courtesy of Chipworks.

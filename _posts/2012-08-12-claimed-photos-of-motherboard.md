@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Claimed photos of new iPhone's motherboard surface
+title: Claimed photos of new iPhones motherboard surface
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/iphone-5-motherboard-e1344821663641.jpg)
 * Surprise, more photos of leaked next-generation iPhone parts have surfaced. Over the past few days we’ve seen images of what are believed to be the battery and dock connector of Apple’s next smartphone. And now this.

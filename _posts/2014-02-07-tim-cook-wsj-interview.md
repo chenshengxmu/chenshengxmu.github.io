@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook- Apple working on 'some really great stuff' in new product categories
+title: Tim Cook- Apple working on some really great stuff in new product categories
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/tim-cook.jpg)
 * “There will be new categories,” Tim Cook told The Wall Street Journal in an interview regarding Apple’s recent buyback of more than $14 billion in stock. “We’re not ready to talk about it, but we’re working on some really great stuff.”

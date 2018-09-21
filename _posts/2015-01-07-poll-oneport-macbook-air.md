@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Poll- how do you feel about Apple's reportedly radical MacBook Air redesign?
+title: Poll- how do you feel about Apples reportedly radical MacBook Air redesign?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/12-inch-MacBook-Air-aerial-render-small.png)
 * A well-sourced report from 9to5Mac’s Mark Gurman has ignited a heated debate on social media about the practicability of a brand new twelve-inch MacBook Air model as it’s said to ditch standard USB ports, the SD Card slot and even its Thunderbolt I/O and MagSafe power connector in favor of a single, fully reversible USB Type-C port.

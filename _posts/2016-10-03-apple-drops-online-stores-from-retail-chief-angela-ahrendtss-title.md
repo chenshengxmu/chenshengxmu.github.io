@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Online Stores” dropped from Angela Ahrendts's title, but she is still Apple's retail boss
+title: “Online Stores” dropped from Angela Ahrendtss title, but she is still Apples retail boss
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/Angela_Ahrendts_2.jpeg)
 * Apple’s boss of online and physical retail stores, Angela Ahrendts, no longer has “Online Stores” in her official title. Instead, Apple is now referring to her role simply as “Senior Vice President, Retail” to better reflect its efforts to simply retail branding. Her reworded title along with a tweaked job description is live at the Apple Leadership webpage.

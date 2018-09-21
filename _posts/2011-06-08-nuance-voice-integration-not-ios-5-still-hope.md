@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nuance Voice Integration Not Currently in iOS 5, But There's Still Hope
+title: Nuance Voice Integration Not Currently in iOS 5, But Theres Still Hope
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/05/apple-nuance.png)
 * Apple unveiled a truckload of iOS 5 features at WWDC on Monday, but one major thing was missing: Nuance voice integration. There was a strong series of rumors leading right up to the keynote that claimed iOS 5 would boast huge improvements in voice integration.

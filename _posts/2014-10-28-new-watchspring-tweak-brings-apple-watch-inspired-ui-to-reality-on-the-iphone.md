@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New 'WatchSpring' tweak brings a real working Apple Watch inspired UI replacement to the iPhone
+title: New WatchSpring tweak brings a real working Apple Watch inspired UI replacement to the iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/WatchSpring-Featured.png)
 * It started as a concept, it grew to a mockup, and now it’s somewhat of a reality. Earlier today, WatchSpring, a tweak that brings an Apple Watch inspired user interface to the iPhone, was released to the public.

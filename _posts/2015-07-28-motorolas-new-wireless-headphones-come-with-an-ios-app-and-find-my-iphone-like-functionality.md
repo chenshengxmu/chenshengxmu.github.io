@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Motorola's new wireless headphones come with an iOS app and Find My iPhone-like functionality
+title: Motorolas new wireless headphones come with an iOS app and Find My iPhone-like functionality
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/07/Moto-Surround-headphones-lifestyle-001.jpg)
 * Motorola held ‘A Better Mobile Relationship’ press event this morning to announce some new hardware, including the third-generation Moto G handset, a second Moto X called the Moto X Play and its brand new flagship, the Moto X Style.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Opinion- the clock is ticking on Apple's rumored on-demand streaming music service
+title: Opinion- the clock is ticking on Apples rumored on-demand streaming music service
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/new-spotify-header.png)
 * If you need another proof that download sales are declining steadily as music lovers increasingly rent their music rather than buy it, here’s one.

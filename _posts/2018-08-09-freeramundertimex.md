@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This tweak puts a free RAM indicator in the iPhone X's Status Bar
+title: This tweak puts a free RAM indicator in the iPhone Xs Status Bar
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/freeramundertimex1.jpg)
 * The iPhone X’s notch compelled Apple’s to redesign the handset’s Status Bar to make the best use possible of the free space available. The result doesn’t look that bad, but software tinkerers in the jailbreak community always find ways to improve trivial things of this nature.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RIM confirms it was behind recent 'Wake Up' stunt
+title: RIM confirms it was behind recent Wake Up stunt
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/RIM-headquarters-exterior-001.jpg)
 * Finally, all of the speculation can come to an end. Remember that ridiculous ‘wake up’ flash mob that hit an Australian Apple store a few days ago? Of course you do, we’ve been hearing about it nonstop.

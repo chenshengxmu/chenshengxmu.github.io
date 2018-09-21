@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Koogeek's affordable HomeKit accessories are a great way to start your smart home
+title: Koogeeks affordable HomeKit accessories are a great way to start your smart home
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/P1-1-c938-cV30.jpg)
 * I’ve been one of the biggest proponents of the HomeKit smart home since it was announced by Apple. Since then, much has happened in this space but, there has historically been two major hurdles for early adopters. Prices have been high, and manufacturer support has been slow.

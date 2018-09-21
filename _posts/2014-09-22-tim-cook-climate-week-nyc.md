@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook talks Apple's environmental efforts at Climate Week NYC
+title: Tim Cook talks Apples environmental efforts at Climate Week NYC
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/tim-cook-climate.png)
 * Tim Cook turned up in Manhattan today, to help kickoff the Climate Week NYC 2014 conference. The CEO was invited to speak as part of the ‘enterprise-focused global solutions’ portion of the event, and he participated in a short on-stage interview regarding Apple’s carbon footprint.

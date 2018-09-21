@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More 'macOS' rebranding evidence discovered on Apple's developer website
+title: More macOS rebranding evidence discovered on Apples developer website
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/macos.png)
 * More evidence has surfaced that Apple is planning to rebrand OS X to macOS in the near future. As noted by MacRumors, a reference to the name-change has been spotted on a developer FAQ page outlining the new App Store revenue sharing policies.

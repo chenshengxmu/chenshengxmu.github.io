@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung Note- It's Not a Phone, It's Not a Tablet, It's a Phablet!
+title: Samsung Note- Its Not a Phone, Its Not a Tablet, Its a Phablet!
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/Samsung-Note.jpg)
 * A few days ago, Samsung released a teaser for what they called the next big thing, in which they made fun of us poor Apple users. Today we found out what the next big thing is when Samsung showed off the Note, during the Super Bowl.

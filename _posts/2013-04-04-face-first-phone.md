@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HTC shows off new 'First' smartphone running Facebook Home
+title: HTC shows off new First smartphone running Facebook Home
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/htc-first.png)
 * Facebook’s media event just ended and as expected, most of what was talked about had to do with a new Facebook experience on Android. The social network unveiled a new ‘people first’ launcher, or shell if you will, for Android devices called Facebook Home.

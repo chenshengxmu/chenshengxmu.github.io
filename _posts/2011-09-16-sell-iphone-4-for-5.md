@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Looking to Sell Your iPhone 4? You'd Better Act Fast
+title: Looking to Sell Your iPhone 4? Youd Better Act Fast
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/iPhone-4-on-table-e1316201072784.jpeg)
 * It’s that time of year again. Although it’s a few months later than previous years, all of the pre-iPhone launch festivities have begun. We’ve seen blurry spy shots, several glimpses of leaked parts and cases, and heard countless rumors.

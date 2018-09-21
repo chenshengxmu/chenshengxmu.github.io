@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's why I look forward to jailbreaking iOS 11
+title: Heres why I look forward to jailbreaking iOS 11
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/iOS-11-inspired-Jailbreak-Tweaks.jpg)
 * If you’ve been following the news lately, then you might’ve caught wind about a particular tfp0 iOS exploit released by security researcher Ian Beer that could potentially aid in the development of an iOS 11 jailbreak.

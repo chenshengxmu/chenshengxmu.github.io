@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Poll- which would you rather wear, an Apple iWatch or Google's Glasses
+title: Poll- which would you rather wear, an Apple iWatch or Googles Glasses
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/Google-Project-Glass-image-003.jpg)
 * Silicon Valley giant Google rightfully trusts tech enthusiasts will be falling over themselves to adopt its Android-driven Glasses, going as far to commission a pro to take a series of fashion photographs featuring beautiful, smiling models. Apple, on the other hand (pun intended), is said to be entering the wearable computing space with a smart watch-like gizmo believed to be conceptualized as your most intimate computer yet.

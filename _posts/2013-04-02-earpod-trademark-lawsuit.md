@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's EarPods trademark challenged by HearPod maker Randolph Divisions
+title: Apples EarPods trademark challenged by HearPod maker Randolph Divisions
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/Apple-EarPods-air-holes-004.jpg)
 * When you have a few hundred million in walking around money and are worth more than any company on the planet, you become a magnet for lawsuits. That’s the lesson Apple is learning as the iPhone maker fields increasing numbers of trademark infringement legal cases.

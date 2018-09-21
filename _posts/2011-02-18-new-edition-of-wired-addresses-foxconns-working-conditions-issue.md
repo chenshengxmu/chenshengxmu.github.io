@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Edition of WIRED Addresses Foxconn's Working Conditions Issue
+title: New Edition of WIRED Addresses Foxconns Working Conditions Issue
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/02/New-Issue-of-WIRED-e1297995782160.png)
 * The cover of the March 2011 edition of the popular WIRED magazine addresses the looming problem with Foxconn’s employee treatment. If you didn’t know, Foxconn is the manufacturer that makes the iPhones we buy.

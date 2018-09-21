@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 10 tidbit- warning message when launching apps that aren't 64-bit compliant
+title: iOS 10 tidbit- warning message when launching apps that arent 64-bit compliant
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/07/iOS-10-64-bit-warning-space-gray-iPhone-screenshot-001.png)
 * In April 2015, Apple reminded developers that as of June 2015 all apps and app updates submitted to the App Store must include 64-bit support. After more than a year, some apps are still stuck on 32 bits and lack support for 64-bit devices. iOS 10 takes a naming and shaming approach by including a brand new warning message that appears when you open a 32-bit app on a 64-bit iPhone, iPad or iPod touch.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T's LTE-Advanced network now live in Chicago
+title: AT&Ts LTE-Advanced network now live in Chicago
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/ATT-Chicago-store-interior-001.jpg)
 * Folks living in and around Chicago will be happy to hear that AT&T has souped up its network in the Windy City. Using an LTE-Advanced technology called ‘carrier aggregation,’ the company has bonded two 4G networks together in the area resulting in a big boost in performance.

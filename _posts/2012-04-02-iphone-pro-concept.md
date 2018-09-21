@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Check out this "iPhone Pro" concept with DSLR lens mount
+title: Check out this iPhone Pro concept with DSLR lens mount
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/iphone-pro-e1333387034984.jpg)
 * As most of you know, we love a good iPhone concept here on iDB. Concepts allow us to see what kind of features could be implemented in the handset if conventional design rules didn’t exist. And they’re fun to look at too.

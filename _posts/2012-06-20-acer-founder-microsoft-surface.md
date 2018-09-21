@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Acer- Microsoft's Surface is just a ploy to drive Windows 8 adoption
+title: Acer- Microsofts Surface is just a ploy to drive Windows 8 adoption
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/surface.jpg)
 * When Microsoft out of the blue announced on Monday it was entering the tablet race with its own Surface-branded product, many industry watchers and, more importantly, Microsoft’s hardware partners were taken aback and left scratching their head.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Calendar app gets a new "Day View" for OS X Yosemite
+title: The Calendar app gets a new Day View for OS X Yosemite
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/Calendar-Day-View.png)
 * The Calendar app receives a brand new Day view to highlight a full day’s events in OS X Yosemite. Again, this is a feature that originates on iOS, and has found its way back to the Mac.

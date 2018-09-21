@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interesting points from Apple's Q1 earnings call
+title: Interesting points from Apples Q1 earnings call
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/Apple-Park-Steve-Jobs-Theater-Duncan-Sinfield-001.jpg)
 * Apple this afternoon announced the financial results for its fiscal first quarter of 2018, and the numbers for the 3-month are good but not great. The company beat EPS and revenue expectations, but fell short in iPhone sales.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twitterrific for iOS now lets you edit tweets after they've been published
+title: Twitterrific for iOS now lets you edit tweets after theyve been published
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/Twitterrific-5.5.3-for-iOS-iPhone-screenshot-003.png)
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/Twitterrific-5.5.3-for-iOS-iPhone-screenshot-001.jpeg)

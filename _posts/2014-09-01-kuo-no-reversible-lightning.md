@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trusted analyst doesn't expect reversible Lightning cable and redesigned charger to ship with iPhone 6
+title: Trusted analyst doesnt expect reversible Lightning cable and redesigned charger to ship with iPhone 6
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/USB-regular-vs-reversible-Sonny-Dickson-001.jpeg)
 * KGI Securities’ Ming-Chi Kuo in a note to clients issued Monday postulated that Apple’s upcoming iPhone 6 is “not likely” to ship with a more powerful power adapter.

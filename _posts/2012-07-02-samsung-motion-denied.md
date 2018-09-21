@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Judge rejects Samsung's motion to stay Galaxy Tab injunction
+title: Judge rejects Samsungs motion to stay Galaxy Tab injunction
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/samsung-galaxy-tab-101-1.jpeg)
 * U.S. District Court Judge Lucy Koh has rejected Samsung’s motion to stay the Galaxy Tab ban this evening. Koh handed down the injunction ruling last week, citing “clear patent infringement.”

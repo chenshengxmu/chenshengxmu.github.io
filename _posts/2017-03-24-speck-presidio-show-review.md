@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Speck's Presidio Show reveals your iPhone's finish through the back of the case
+title: Specks Presidio Show reveals your iPhones finish through the back of the case
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/01/Speck-Presidio-Show-Full-Back.png)
 * Speck unveiled the new Presidio Show case at CES 2017, introducing an effective way to protect your sleek new iPhone while still enabling you to get a good look at the incredible industrial design of your handset that would normally be hidden by the protective materials that make up most impact-resistant cases.

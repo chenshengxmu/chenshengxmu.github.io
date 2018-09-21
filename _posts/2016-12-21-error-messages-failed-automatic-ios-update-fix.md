@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Error messages popping up from failed automatic iOS updates? Here's the fix
+title: Error messages popping up from failed automatic iOS updates? Heres the fix
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/12/iPhone-Software-Update-Not-Installed-Error.png)
 * Your iPhone and/or iPad can perform over the air (OTA) software updates automatically during the night while you’re sleeping, so long as it’s connected to a power source and you’ve given it permission first. While this feature is incredibly convenient for anyone who doesn’t have the time to wait for software updates during the day, it can sometimes be problematic.

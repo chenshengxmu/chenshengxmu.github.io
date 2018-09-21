@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'IconRotator' rotates your iPhone's app icons based on orientation
+title: IconRotator rotates your iPhones app icons based on orientation
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/IconRotator-Screenshot-e1330130301713.jpg)
 * They say the simple things in life are some of the best things in life. They also say the best things in life are free.

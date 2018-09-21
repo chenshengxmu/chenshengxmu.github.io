@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Panel suppliers struggling to meet Apple's large order volume for OLED iPhones
+title: Panel suppliers struggling to meet Apples large order volume for OLED iPhones
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/iPhone-7-display.jpg)
 * For all the talk of Apple’s rumored switch to the superior, power-sipping organic light-emitting diode (OLED) display technology for next year’s iPhones, it’s increasingly looking like OLED screens will be limited to a single model.

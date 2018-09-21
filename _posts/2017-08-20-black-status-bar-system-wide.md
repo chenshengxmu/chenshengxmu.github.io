@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blacken your Status Bar's background and colorize its text with this tweak
+title: Blacken your Status Bars background and colorize its text with this tweak
 ---
 * Back in the day, the Status Bar never used to be the same color as the background behind it. Things changed drastically after the major iOS 7 redesign and stayed that way up until now.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/Black-Status-Bar-System-Wide-Before-and-After-1.jpg)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fandango update brings new iOS 7 design, 'Go Now' feature and more
+title: Fandango update brings new iOS 7 design, Go Now feature and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/fandango-ios-7.png)
 * Attention moviegoers, Fandango has posted a significant update for its iOS client today, bringing the app to version 5.9. The new software has been redesigned for iOS 7, and includes several improvements.

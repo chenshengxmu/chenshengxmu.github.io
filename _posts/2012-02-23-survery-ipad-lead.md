@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New survey confirms the iPad's lead in tablet market
+title: New survey confirms the iPads lead in tablet market
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/ipad-2-for-sale-e1329720836328.jpg)
 * Last week, iSuppli released some interesting numbers on the current state of the tablet market. The report claimed that the iPad dropped from 64 percent market share in Q3 to 57 percent in Q4, and that Amazon’s Kindle Fire was able to grab 14 percent of the tablet market during the holiday quarter.

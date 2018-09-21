@@ -1,6 +1,6 @@
 ---
 layout: post
-title: If Only the iPhone 4S is Expected Next Week, What's With All of These Cases?
+title: If Only the iPhone 4S is Expected Next Week, Whats With All of These Cases?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/Screen-Shot-2011-09-30-at-3.56.37-PM.png)
 * Apple’s iPhone event is just a few days away, and after months of rumors, we’re still unsure of what to expect. Since March, there has been speculation that the Cupertino company would be unveiling multiple handsets this year.

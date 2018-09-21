@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Clips of Adobe's lambasting of iPhone over Flash haunt Apple's new VP Kevin Lynch
+title: Clips of Adobes lambasting of iPhone over Flash haunt Apples new VP Kevin Lynch
 ---
 * http://www.youtube.com/watch?v=ZNtTfFDena4#!
 * Conspiracy theorists had a field day with yesterday’s confirmation that Kevin Lynch, Adobe’s Chief Technology Officer, will soon be taking an executive role at Apple, joining the iPhone maker as its VP of Technology and reporting directly to Apple’s SVP of Technologies Bob Mansfield. Lynch joined Adobe after the Photoshop maker snapped up Macromedia in 2005. Macromedia originally developed Flash technology and Lynch has been instrumental in its continuing development at Adobe.

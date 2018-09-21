@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KGI predicts massive iPhone 8 upgrade cycle, 4.7" model to feature wireless charging
+title: KGI predicts massive iPhone 8 upgrade cycle, 4.7 model to feature wireless charging
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/iPhone-7-Plus-Piano-Black-AppleArab-concept-004.jpg)
 * KGI Securities analyst Ming-Chi Kuo issued a note to clients this morning, a copy of which was obtained by MacRumors, predicting record 150 million iPhone sales in the second half of 2017. A 4.7-inch iPhone 8 with an LCD screen and glass casing should feature wireless charging, he wrote.

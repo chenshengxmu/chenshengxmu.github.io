@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple confirms Apple TV's role as a hub for remote HomeKit functionality
+title: Apple confirms Apple TVs role as a hub for remote HomeKit functionality
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/Apple-TV-HomeKit-mockup.png)
 * We’ve known since CES 2015 the Apple TV would play a central role in Apple’s HomeKit ecosystem, dating back to October 2014 when HomeKit support first surfaced in an Apple TV Software beta.

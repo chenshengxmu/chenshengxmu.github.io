@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Upcoming jailbreak tweak 'Deck' adds a hotbar to your SpringBoard
+title: Upcoming jailbreak tweak Deck adds a hotbar to your SpringBoard
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/Deck-Screenshot.jpg)
 * Deck is an upcoming jailbreak tweak from SBCoders that is currently in beta testing. It promises to lend added functionality to your SpringBoard by adding an App switcher-esque side bar that’s accessible by swiping.

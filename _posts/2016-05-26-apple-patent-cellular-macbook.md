@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's just been granted a patent for a MacBook with embedded cellular connectivity
+title: Apples just been granted a patent for a MacBook with embedded cellular connectivity
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/Apple-Patent-cellular-MacBook-drawing-002.png)
 * The United States Patents and Trademark Office (USPTO) today granted Apple a brand new patent which seems to address a longstanding complaint among MacBook owners: the machine’s lack of an embedded cellular connectivity.

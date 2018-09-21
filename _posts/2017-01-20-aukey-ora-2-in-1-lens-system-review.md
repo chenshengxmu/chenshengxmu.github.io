@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aukey's Ora 2-in-1 lens system for iPhone helps expand your mobile photography capabilities
+title: Aukeys Ora 2-in-1 lens system for iPhone helps expand your mobile photography capabilities
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/01/Aukey-Ora-Lens-Attached-to-iPhone.png)
 * I know a lot of people who take their iPhone photography seriously, and a number of them use the stock iPhone camera in all of its glory, while a select few use hardware lens attachments that can enhance the capabilities of their iPhone cameras beyond what software can.

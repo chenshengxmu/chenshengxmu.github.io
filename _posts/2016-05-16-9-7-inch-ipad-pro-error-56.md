@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 9.3.2 reportedly bricking some 9.7-inch iPad Pro models with 'Error 56'
+title: iOS 9.3.2 reportedly bricking some 9.7-inch iPad Pro models with Error 56
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/ios-9.3.2.png)
 * It appears that today’s iOS 9.3.2 update is causing problems for some 9.7-inch iPad Pro owners. As noted by MacRumors, a number of users have taken to Twitter and other forums to complain that the firmware bricked their tablets shortly after installing the over-the-air update.

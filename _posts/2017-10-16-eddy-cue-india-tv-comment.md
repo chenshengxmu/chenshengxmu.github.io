@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Cue on TV efforts- We're doing “some future stuff that we haven’t talked about”
+title: Apples Cue on TV efforts- Were doing “some future stuff that we haven’t talked about”
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/07/Eddy-Cue-Hollywood-Reporter-001.jpg)
 * Eddy Cue, Apple’s chief of Internet Software and Services and one of its most important negotiators with Hollywood producers and studios, has made some interesting comments regarding Apple’s TV efforts during his trip to India.

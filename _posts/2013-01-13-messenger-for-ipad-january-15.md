@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Facebook 'totally' ready to launch Messenger for iPad on Tuesday
+title: Facebook totally ready to launch Messenger for iPad on Tuesday
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/02/Facebook-Messenger-Banner-2-e1298330203198.png)
 * You may have heard that Facebook has issued invites for a media event due this coming Tuesday to “come and see what [they’re] building”. People in the know claim the news conference is a pretty big deal as Facebook could announce a brand new mobile operating system, even a so-called Facebook Phone of some sort. And now, another source has stepped forward with knowledge that the social networking giant will also launch an iPad version of its mobile Messenger app, which in a recent update has gained VoIP capabilities…

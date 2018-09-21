@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple doesn't want developers to turn the iPhone or iPad camera into a button
+title: Apple doesnt want developers to turn the iPhone or iPad camera into a button
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/Astro-Astropad-luna-display-camera-button.jpg)
 * Astro HQ made news headlines recently when they announced a new feature coming to their Astropad drawing app and their upcoming Luna Display. It was an easy way to incorporate an additional button into their app without sacrificing screen space by using the front facing camera. It appears Apple disagreed with how innovating this idea was.

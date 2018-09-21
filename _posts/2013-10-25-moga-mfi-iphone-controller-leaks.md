@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Moga's upcoming MFi 'Ace Power' iPhone controller gets shown off in leaked photos
+title: Mogas upcoming MFi Ace Power iPhone controller gets shown off in leaked photos
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/MOGA-MFi-iPhone-controller-EVLeaks-001.png)
 * With iOS 7, Apple is for the first time allowing for ‘Made for iPhone’ (MFi) physical game controllers in a bid to solidify its mobile gaming lead. We’ve already seen Logitech’s upcoming iOS 7 gaming controller (ClamCase is also working on one) and now a photo has surfaced depicting Moga’s upcoming MFi controller which will come with a massive built-in 1800mAh battery, have a look at it below the fold…

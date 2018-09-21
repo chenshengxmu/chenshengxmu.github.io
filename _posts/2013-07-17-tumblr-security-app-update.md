@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tumblr posts 'very important' app update to patch security flaw
+title: Tumblr posts very important app update to patch security flaw
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/tumblr-update-640x468.jpg)
 * Yahoo-owned Tumblr issued an update for its native iOS app last night, bringing the client to version 3.4.1. But you won’t find any new features or UI enhancements in this release—this particular update is all about security.

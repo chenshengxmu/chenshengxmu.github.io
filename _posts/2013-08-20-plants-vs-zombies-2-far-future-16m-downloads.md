@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EA says Plants vs. Zombies 2 tops 16M downloads, 'Far Future' update coming
+title: EA says Plants vs. Zombies 2 tops 16M downloads, Far Future update coming
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/Plants-vss-Zombies-2-teaser-001.jpg)
 * EA Mobile and PopCap Games unleashed the long-anticipated Plants vs. Zombies 2 last Thursday and already the free-to-play game has amassed a respectable sixteen million downloads on the App Store, making it the most successful mobile game launch in EA’s history.

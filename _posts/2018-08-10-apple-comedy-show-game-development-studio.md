@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's TV push continues with a comedy set in a video game development studio
+title: Apples TV push continues with a comedy set in a video game development studio
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/Apple-comedy-show-Rob-McElhenney-Charlie-Day.jpg)
 * Apple and actors Rob McElhenney and Charlie Day, who have starred in the comedy show “It’s always sunny in Philadelphia” since 2005, are reportedly developing a straight-to-series comedy set in a video game development studio studio.

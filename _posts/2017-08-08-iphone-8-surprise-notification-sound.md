@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 8 may suppress notification sounds if you're looking at it
+title: iPhone 8 may suppress notification sounds if youre looking at it
 ---
 * There will be more, a whole lot more to that sophisticated 3D sensor that should come outfitted on the OLED iPhone than originally thought, with a new discovery indicating that Apple’s tenth anniversary phone might suppress notification sounds if you’re looking at it.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/07/Iris-scanning-teaser-001.jpg)

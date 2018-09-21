@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1Password confirms that Touch ID support for the MacBook Pro's Touch Bar is in the works
+title: 1Password confirms that Touch ID support for the MacBook Pros Touch Bar is in the works
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/1PAssword-for-Mac-Touch-ID-001.png)
 * As we were watching a live-stream of yesterday’s “Hello again” Mac event, our own Sébastien told the rest of the team via Slack that, in his mind, the 1Password + Touch ID + MacBook Pro combination would make a lot of sense. And indeed it would.

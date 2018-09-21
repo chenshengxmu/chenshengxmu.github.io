@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to subscribe to Let's Talk iOS
+title: How to subscribe to Lets Talk iOS
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/Lets_Talk_iOS-400x400.png)
 * Each week, Sebastien, Cody, and Jeff join forces to discuss the latest ongoings in the wonderful world of iOS. The result? An entertaining podcast entitled Let’s Talk iOS.

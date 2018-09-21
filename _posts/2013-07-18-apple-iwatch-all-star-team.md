@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meet Apple's iWatch dream team
+title: Meet Apples iWatch dream team
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/Tim-Cook-Bob-Mansfield-and-Kevin-Lynch.jpg)
 * As evidence pertaining to a rumored Apple smartwatch mounts, so do Apple’s recent tech celebrity hirings. For example, the past few weeks saw the poaching of former Adobe CTO and Flash proponent Kevin Lynch, who joined Apple as VP of Technology.

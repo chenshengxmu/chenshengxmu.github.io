@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Schiller and his wife donate $10 million to Bowdoin College's Coastal Studies Center
+title: Apples Schiller and his wife donate $10 million to Bowdoin Colleges Coastal Studies Center
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/Phil-and-Kim-Schiller.jpg)
 * As first spotted by MacRumors, a Reddit user today revealed that Apple’s marketing boss Phil Schiller and his wife Kim Gassett-Schiller have donated a cool $10 million to Bowdoin College’s Coastal Studies Center on Harpswell Sound in Harpswell, Maine.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's what Foxconn's strategic deal with Sharp could mean for Apple, iPad and iTV
+title: Heres what Foxconns strategic deal with Sharp could mean for Apple, iPad and iTV
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/itv.jpg)
 * Yesterday’s news that Apple’s contract manufacturer Foxconn bought an eleven percent stake in the Japanese multinational corporation Sharp sent the tongues wagging. With a 46.5 percent stake in Sharp’s LCD plant in Sakai, Osaka, conventional wisdom has it that Foxonn, which just released its 2011 financial report, will bolster Sharp’s LCD business and make it more profitable by securing the lowest prices on components.

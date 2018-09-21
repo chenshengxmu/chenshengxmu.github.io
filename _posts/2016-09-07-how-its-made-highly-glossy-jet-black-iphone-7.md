@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How it's made- black iPhone 7
+title: How its made- black iPhone 7
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/iPhone-7-jet-black-back-camera.jpg)
 * I’m sure you know that Apple’s new iPhone 7 series brings two new finishes to the mix, replacing the previous Space Gray colorway.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple seeks expert in China Mobile's TD-LTE ahead of iPhone deal
+title: Apple seeks expert in China Mobiles TD-LTE ahead of iPhone deal
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/china-mobile-e1375299063364.jpg)
 * Apple is a bit like a black hole: only by detecting its effect on nearby objects can observers discern its real intention. The latest clue to Apple’s China card is a job posting seeking a networking expert in a technology only used by China Mobile. The engineer would be based in Beijing, supporting China Mobile’s 3G technology TD-SCDMA, as well as TD-LTE, which the world’s largest carrier is testing.

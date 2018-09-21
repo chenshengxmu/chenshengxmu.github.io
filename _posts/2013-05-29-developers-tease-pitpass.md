@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Developer of 'Elements' iOS app teases upcoming release using Passbook
+title: Developer of Elements iOS app teases upcoming release using Passbook
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/pit-pass-app.png)
 * Fans will be happy to hear today that Second Gear, the developers of the popular iOS note-taking and Markdown editing app Elements, have a new application in the works. We don’t yet know what that app is, but we do know how they’ll announce it.

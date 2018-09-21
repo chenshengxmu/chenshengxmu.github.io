@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Worried that Cydia will be too slow after the jailbreak? Don't worry too much
+title: Worried that Cydia will be too slow after the jailbreak? Dont worry too much
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/Screen-Shot-2011-09-27-at-10.29.46-AM.png)
 * It’s the same story with almost every jailbreak. The new jailbreak is released, and folks rush to download all of their favorite jailbreak apps and tweaks. The result is a less than primed experience due to the stress that this places on Cydia and the repos hosting the various packages. After a new jailbreak is released, it usually takes a few days for everything to calm down to somewhat normal levels.

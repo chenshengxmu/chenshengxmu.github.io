@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple, Amazon must enter settlement talks over 'App Store' trademark ahead of August trial
+title: Apple, Amazon must enter settlement talks over App Store trademark ahead of August trial
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/App-Store-Icon.jpeg)
 * Amazon last September asked court to drop Apple’s suit over its use of the ‘Appstore’ term in relation to its application store, which launched as the Amazon Appstore for Android, but is now simply called the Amazon Appstore. The service is carrying mobile applications for Android devices and Amazon’s own Kindle lineup of tablets and e-readers.

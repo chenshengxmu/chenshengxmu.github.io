@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Surface ad wants you to think that your Mac “ain't fast enough”
+title: New Surface ad wants you to think that your Mac “aint fast enough”
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/Surface-Pro-4-ad-MacBook-Air-image-001.jpg)
 * It’s been only three days since Microsoft’s advertising department unleashed a new ad salvo at Apple’s direction in the form of a commercial for its Surface Pro 4 tablet/laptop hybrid and now it’s posted yet another video to conveniently reiterate its message ahead of iPhone 7’s launch tomorrow. Titled “Power of Touch”, the 30-second commercial doubles down on the ”the Mac lacks a touchscreen” theme.

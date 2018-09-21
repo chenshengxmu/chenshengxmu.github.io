@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Survey finds 21% of iOS users wouldn't change platforms for any price
+title: Survey finds 21% of iOS users wouldnt change platforms for any price
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/iphone-user.jpg)
 * For those of you wondering if Apple still has a strong cult following, here you go: a new survey from Goldman Sachs finds that 21% of iOS users wouldn’t switch to another platform, for any price.

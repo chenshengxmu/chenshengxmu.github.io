@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Poll- which one's a better buy - $1,099 iMac or MacBook Air?
+title: Poll- which ones a better buy - $1,099 iMac or MacBook Air?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/Cheaper-iMac-on-online-Appl-Store-image-001.png)
 * Apple is taking some heat over its $200 cheaper baseline iMac, which released this morning. See, in order to bring the price down to an attractive $1.099, the iPhone maker has sadly skimped on the specs.

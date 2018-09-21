@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple granted a patent which could help get rid of iPhone's embarrassing camera bulge
+title: Apple granted a patent which could help get rid of iPhones embarrassing camera bulge
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/Apple-patent-spherical-camera-drawing-002.png)
 * Apple has just been granted a very cool patent that promises to solve the protruding camera lens on the back of the iPhone 6/6s series. The invention basically calls for packing a spherical photosensor and lens array in a tiny package.

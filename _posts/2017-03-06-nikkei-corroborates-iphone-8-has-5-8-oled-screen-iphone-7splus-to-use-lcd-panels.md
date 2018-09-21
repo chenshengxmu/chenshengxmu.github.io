@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nikkei corroborates iPhone 8 has 5.8" OLED screen, iPhone 7s/Plus to use LCD panels
+title: Nikkei corroborates iPhone 8 has 5.8 OLED screen, iPhone 7s/Plus to use LCD panels
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/iPhone-8-Concept-iDrop-News-005.jpg)
 * Nikkei Asian Review in a research note Monday corroborated previous reports which said that only a brand new iPhone 8 model would switch to organic light-emitting diode (OLED) screens, with the two smaller models—iPhone 7s and iPhone 7s Plus—expected to retain their existing LCD panels.

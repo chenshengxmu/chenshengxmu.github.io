@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's focus on software quality in 2018 said to include Mac, but “to a lesser degree”
+title: Apples focus on software quality in 2018 said to include Mac, but “to a lesser degree”
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/iCloud-Photo-Library-iPhone-iPad-MacBook-Air-teaser-001.jpg)
 * Apple’s rumored focus on software quality in 2018 reportedly extends to the Mac platform.

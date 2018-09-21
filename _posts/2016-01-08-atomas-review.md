@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Atomas- a fun game I can't put down, and here's why
+title: Atomas- a fun game I cant put down, and heres why
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/atomas-application-icon.jpg)
 * A lot of times when downloading and trying out games from the App Store, I find myself dissatisfied with the game just minutes or hours after playing it. It’s not always easy to find those hidden gems that Apple fails to give the spotlight to, but when stumbling across one, I’ll easily get addicted to the game and not want to put the game down.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The '80s Called And It Wants Its Case Back
+title: The 80s Called And It Wants Its Case Back
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/01/80s-iPhone-Case.jpeg)
 * You gotta love the 1980s. In 1989, a gallon of gas was only 97 cents. Those were the days.

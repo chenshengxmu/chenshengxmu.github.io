@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Carpool Karaoke spinoff is coming in April, watch the second clip now
+title: Apples Carpool Karaoke spinoff is coming in April, watch the second clip now
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/Tim-Cook-karaoke.jpg)
 * Apple wants original content and its SVP Eddy Cue is in charge of making that happen. Cue sat down last night for an interview with Peter Kafka of Recode, discussing a range of topics at the publication’s Code Media conference.

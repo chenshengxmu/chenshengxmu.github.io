@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple posts new 'Dreams' iPhone 5s ad
+title: Apple posts new Dreams iPhone 5s ad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/5s-dream-ad.png)
 * Apple tonight posted a new iPhone 5s commercial to its YouTube channel. The ad is entitled ‘Dreams,’ and it depicts the popular handset being used to aid professionals and hobbyists in a variety of different fields.

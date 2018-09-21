@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung's Galaxy S5 video tour takes swipes at iPhone 5s and Apple's Retina display
+title: Samsungs Galaxy S5 video tour takes swipes at iPhone 5s and Apples Retina display
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/galaxy-s5-iphone-5s.png)
 * Yesterday, four new feature tour videos cropped up on the Samsung Mobile USA channel on YouTube, showcasing the handset’s full HD Super AMOLED screen, the selective camera focus feature, its ultra-power saving mode and the bundled S Health app. Unlike some of the conglomerate’s previous promotional videos, these clips do a good job explaining how the four aforementioned features enhance experience for the user.

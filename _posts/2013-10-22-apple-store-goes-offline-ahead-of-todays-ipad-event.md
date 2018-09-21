@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Store goes offline ahead of today's iPad event
+title: Apple Store goes offline ahead of todays iPad event
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/Screen-Shot-2013-10-22-at-15.08.50.png)
 * The online Apple Stores in the United States and the world over have gone offline ahead of today’s iPad event. Just a few minutes ago, Apple also updated its homepage with the event teaser graphics and provided a link to live stream the event through a web browser on iOS devices and Macs. Additionally, the Apple Events channel on the Apple TV has been updated with the event listing so couch potatoes from around the world can enjoy the presentation as it unfolds, from the comfort of their living room…

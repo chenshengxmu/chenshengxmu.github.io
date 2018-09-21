@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wide-ranging profile offers Jony Ive's thoughts on cars, watches, the future and more
+title: Wide-ranging profile offers Jony Ives thoughts on cars, watches, the future and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/Jonathan-Ive-The-New-Yorker-interview-001.jpg)
 * The New Yorker’s February 2015 issue features a lengthy interview with British-born designer Jonathan Ive who is widely credited with helping revive Apple’s fortunes alongside his spiritual mentor Steve Jobs, who used to call Ive “my best friend in the whole world”.

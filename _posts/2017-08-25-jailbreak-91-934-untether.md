@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Everything you need to know about tihmstar's iOS 9.1-9.3.4 jailbreak untether
+title: Everything you need to know about tihmstars iOS 9.1-9.3.4 jailbreak untether
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/untether-home-depot-cydia.png)
 * First things first: do not rush off and install this untether on your devices. It could easily boot loop them. This isn’t a general warning to be ignored; the tool does not support most devices yet, and I will not be held responsible for any damage done by it.

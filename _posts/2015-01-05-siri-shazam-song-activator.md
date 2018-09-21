@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to use Siri's song recognition feature with Activator
+title: How to use Siris song recognition feature with Activator
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/Siri-Activator-Shazam.jpg)
 * Siri’s built-in Shazam song recognition feature is a handy way to quickly identify songs that are playing around you. What’s this song, Siri? is a new Activator add-on that takes this song recognition feature, and makes it directly accessible by means of an Activator gesture.

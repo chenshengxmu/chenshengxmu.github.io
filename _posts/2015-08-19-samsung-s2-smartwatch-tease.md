@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung posts teaser for upcoming 'Gear S2' Apple Watch competitor
+title: Samsung posts teaser for upcoming Gear S2 Apple Watch competitor
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/08/samsung-s2.png)
 * During its big Galaxy Note 5/S6 Edge+ event last week, Samsung showed off a video teaser of its upcoming Apple Watch competitor, the Gear S2. For folks who missed the keynote, the clip is now available on the company’s Mobile YouTube channel.

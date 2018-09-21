@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RIM- "you don't just think different, you do different"
+title: RIM- you dont just think different, you do different
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/Samsung-Galaxy-S-III-Wake-Up-protest.jpg)
 * Risking to be called out as a fanboy, I just can’t help noticing the new lows Research In Motion sank to. The staged ‘Wake Up’ protest?

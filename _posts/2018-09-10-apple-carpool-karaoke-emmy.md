@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's original video wins its first Emmy for “Carpool Karaoke”
+title: Apples original video wins its first Emmy for “Carpool Karaoke”
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/Carpool-Karaoke-Will-Smith.jpg)
 * Apple’s video streaming plans, which include tons of original productions as well as some licensed content, have received an important industry recognition when the firm’s “Carpool Karaoke: The Series” won a Primetime Emmy award on Sunday night.

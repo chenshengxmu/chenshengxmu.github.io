@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's what Apple is looking for when shopping for new TV shows and movies
+title: Heres what Apple is looking for when shopping for new TV shows and movies
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/gameofthrones.jpg)
 * Apple is planning to deploy a $1+ billion budget for original video programming over the next year.

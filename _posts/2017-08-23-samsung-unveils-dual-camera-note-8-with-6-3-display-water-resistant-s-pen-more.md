@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung unveils dual-camera Note 8 with 6.3" display, water-resistant S Pen & more
+title: Samsung unveils dual-camera Note 8 with 6.3 display, water-resistant S Pen & more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/Samsung-Galaxy-Note-8-image-001.jpg)
 * Samsung at today’s media event officially announced an eighth-generation Note with a water-resistant S Pen stylus, a narrower body, a dual-camera setup with optical image stabilization and 2x optical zoom (or 10x digital zoom) on both wide angle and telephoto lenses, a 6.3-inch (without accounting for the rounded corners) Quad HD+ Super AMOLED Infinity Display with an 18.5:9 aspect ratio that’s curved on the sides like on Galaxy S8 and more.

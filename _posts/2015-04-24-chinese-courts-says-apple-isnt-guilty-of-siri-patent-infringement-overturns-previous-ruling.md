@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chinese court says Apple isn't guilty of Siri patent infringement, overturns previous ruling
+title: Chinese court says Apple isnt guilty of Siri patent infringement, overturns previous ruling
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/siri-ios-7.jpg)
 * “Siri, how does it feel to be a winner?”

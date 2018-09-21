@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Q4 earnings report- 26.9M iPhones and 14M iPads sold, $36B in revenue
+title: Apples Q4 earnings report- 26.9M iPhones and 14M iPads sold, $36B in revenue
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/apple-hq.jpg)
 * As promised, Apple has released its quarterly earnings report this afternoon. This is the company’s third calendar quarter for 2012, and fourth fiscal quarter, and is the last one before the big holiday season.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Poll- should Apple worry about Microsoft's response to iPad
+title: Poll- should Apple worry about Microsofts response to iPad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/Microsoft-Windows-8-tablet.jpg)
 * Microsoft summoned select members of the press for a media event tomorrow in Los Angeles.

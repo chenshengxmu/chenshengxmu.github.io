@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stunning iPhone 8 marketing mockups look like something straight out of Jony Ive's kitchen
+title: Stunning iPhone 8 marketing mockups look like something straight out of Jony Ives kitchen
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/iPhone-8-concept-Quinton-Theron-001.jpg)
 * We’re only a few weeks away from Apple’s September event that will serve as a launchpad for Apple’s highly anticipated tenth-anniversary handset. While the rumors have mostly revolved around possible hardware advances for the OLED iPhone model, one aspect has remained largely overlooked thus far: how Apple could market iPhone 8.

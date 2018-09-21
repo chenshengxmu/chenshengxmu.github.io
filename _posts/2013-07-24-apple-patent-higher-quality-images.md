@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's dual-image sensor patent focuses on higher quality images
+title: Apples dual-image sensor patent focuses on higher quality images
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iPhone-5-white-camera-closeup-001.jpg)
 * While we’ve all heard the saying “two heads are better than one,” a new Apple patent applies that thinking to digital images. The patent, granted Tuesday by the U.S. Patent and Trademark Office, describes a method of combining two image sensors to produce a photo with the best quality.

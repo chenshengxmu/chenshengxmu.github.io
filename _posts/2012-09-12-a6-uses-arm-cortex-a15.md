@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's new A6 chip runs two ARM Cortex A15 cores, quad-core GPU
+title: Apples new A6 chip runs two ARM Cortex A15 cores, quad-core GPU
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/A6-faster.jpg)
 * Surprisingly enough, the iPhone 5 comes with Apple’s in-house A6 chip (labeled “S5L8950X”) rather than a souped up version of the A5X chip, as previously thought. Apple’s Tech Specs page for the iPhone 5 doesn’t even mention the A6 (a norm for Cupertino). The Compare iPhones page names the chip, however without divulging an iota about its architectural underpinnings.

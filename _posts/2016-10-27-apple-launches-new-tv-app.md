@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple launches new 'TV' app
+title: Apple launches new TV app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/tv-app-1.png)
 * Apple on Thursday kicked off its Hello Again event by announcing a new app it’s simply calling ‘TV.’ Tim Cook claimed that his team believes it will “completely change how you watch TV on your Apple TV as well as your iPhone and iPad.”

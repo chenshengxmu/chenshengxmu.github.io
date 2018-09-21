@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jon Stewart on Apple's Senate probe
+title: Jon Stewart on Apples Senate probe
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/Tim-Cook-Senate-hearing-001.jpg)
 * Earlier this week, Apple’s CEO Tim Cook came to Washington and escaped unscathed. The focus of media coverage has now seemingly moved away from Apple to the greater tactics some of the well-known corporations use to funnel their money using the world’s tax havens – and perfectly legally, too.

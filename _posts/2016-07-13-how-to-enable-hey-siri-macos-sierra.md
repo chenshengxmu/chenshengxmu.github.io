@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to simulate tetherless 'Hey Siri' functionality on macOS Sierra like a pro
+title: How to simulate tetherless Hey Siri functionality on macOS Sierra like a pro
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/07/macOS-Sierra-Siri-teaser-003-e1468361540976.jpg)
 * Apple advertises Siri as one of the headlining new features in the forthcoming macOS Sierra software update. Siri on the Mac performs in much the same way as it always has on an iPhone, iPad and iPod touch, except on the Mac tetherless ‘Hey Siri’ functionality is currently unsupported.

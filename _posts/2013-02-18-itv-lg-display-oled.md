@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iTV could use LG Display's OLED panels
+title: iTV could use LG Displays OLED panels
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/iTV-mockup-AllThingsD-002.jpg)
 * LG Display, a major Apple supplier that makes high-resolution screens for the iPad mini, fourth-generation iPad, 13-inch MacBook Pro with Retina display and redesigned iMacs, plans to allocate more than 706 billion won, or approximately $656.7 million, toward building organic light emitting diode (OLED) screens for high-definition television sets by the end of June 2014, according to The Wall Street Journal. The investment will allow LG Display to make some 26,000 sheets per month for customers seeking 55-inch or larger television screens.

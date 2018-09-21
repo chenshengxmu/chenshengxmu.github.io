@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lenovo CEO isn't afraid of Apple, plans to dominate tablet market
+title: Lenovo CEO isnt afraid of Apple, plans to dominate tablet market
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/Lenovo-LePad.jpg)
 * There was no shortage of media coverage last week as Apple officially passed Lenovo in revenue by hitting $3.8 billion on Lenovo’s home turf of greater China (thanks largely in part to the iPhone and iPad).

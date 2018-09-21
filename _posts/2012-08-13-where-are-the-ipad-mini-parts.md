@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why haven't we seen many leaked iPad mini parts?
+title: Why havent we seen many leaked iPad mini parts?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/ipad-mini-2.jpg)
 * If we were doing a scavenger hunt for iPhone 5 parts, we’d be nearly done by now. We’d have the back cover, front panel, motherboard, and a slew of other components for the handset.

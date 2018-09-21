@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple should to do something about useless App Store "change logs"
+title: Apple should to do something about useless App Store change logs
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/02/App-Store-icon-OS-X-Yosemite-hero-2000px-1000x400.jpg)
 * The App Store is the best way to download and use apps on your iPhone, iPod touch, or iPad, and every so often, you get an update for one of your apps that is supposed to fix problems or add new features.

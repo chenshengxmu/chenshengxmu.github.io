@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 5 May Abandon Intel's Infineon Chip
+title: iPhone 5 May Abandon Intels Infineon Chip
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/08/intel-infineon.jpg)
 * A few weeks back we posted articles detailing Intel’s acquiring of Infineon, the smartphone chip maker who has supplied every single iPhone baseband chip. Surely this meant that Apple’s beloved phone would be running Intel inside their next iPhone come next summer. Not so fast.

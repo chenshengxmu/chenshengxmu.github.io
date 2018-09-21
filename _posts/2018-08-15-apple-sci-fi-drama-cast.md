@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sarah Jones, Joel Kinnaman & Michael Dorman to star in Apple's sci-fi drama
+title: Sarah Jones, Joel Kinnaman & Michael Dorman to star in Apples sci-fi drama
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/michael-dorman-sarah-jones-joel-kinnamon-5.jpg)
 * Apple’s upcoming science-fiction space drama series from “Star Trek” veteran and “Battlestar Galactica” and “Outlander” developer Ronald D. Moore has reportedly cast actress Sarah Jones and actors Joel Kinnaman and Michael Dorman.

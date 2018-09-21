@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An offer you can't refuse- The Godfather Trilogy is just $10 on iTunes right now
+title: An offer you cant refuse- The Godfather Trilogy is just $10 on iTunes right now
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/11/godfather.png)
 * Thanksgiving is on Thursday, and unless you work in retail, chances are you have a long weekend coming up. And what better way to spend your extra free time than by watching one of the most popular film series in cinematic history: The Godfather Trilogy.

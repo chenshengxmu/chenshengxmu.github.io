@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Control Over Sprint's iPhone 4S Launch Revealed
+title: Apples Control Over Sprints iPhone 4S Launch Revealed
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/sprint-stores.jpg)
 * After months of rumors, Apple finally confirmed last week that Sprint was going to be offering its latest handset. This Friday marks the first time that the carrier will have partnered with the Cupertino company on a major product launch.

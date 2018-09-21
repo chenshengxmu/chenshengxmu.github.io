@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gameloft offers new details on 'Modern Combat 5- Blackout'
+title: Gameloft offers new details on Modern Combat 5- Blackout
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/MC5-Blackout-Storm.jpg)
 * It’s been nearly a year since we first saw a preview of Gameloft’s Modern Combat 5, and the game has yet to see a release date. In fact, we’ve heard almost nothing about the title in the past 11 months, leading some folks to believe that the project had either been shelved or canceled.

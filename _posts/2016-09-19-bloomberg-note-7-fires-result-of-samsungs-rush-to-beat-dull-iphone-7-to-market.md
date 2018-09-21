@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bloomberg- Note 7 fires result of Samsung's rush to beat “dull” iPhone 7 to market
+title: Bloomberg- Note 7 fires result of Samsungs rush to beat “dull” iPhone 7 to market
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/Samsung-Galaxy-Note-7-on-fire-image-001.jpg)
 * After they began hearing earlier this year that the iPhone 7 would look just like the previous two models, the top brass at Samsung Electronics, including its mobile chief D.J. Koh, have made the decision to outmaneuver Apple and move up the launch of the Note 7 to early August. In hindsight, it was a risky, ill-fated move that has backfired and damaged Samsung’s brand and reputation.

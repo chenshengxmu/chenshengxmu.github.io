@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twelve South's most popular cases have been updated for iPhone X, preorders now available
+title: Twelve Souths most popular cases have been updated for iPhone X, preorders now available
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/Twelve-South-BookBook-Journal-case-for-iPhone-X.jpg)
 * Today is a big day for folks over at premium Apple accessory maker Twelve South, who announced they’ve optimized their best-selling iPhone cases for the iPhone X form factor.

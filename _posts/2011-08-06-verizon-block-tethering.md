@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Verizon Follows AT&T's Lead and Starts Blocking Unofficial Tethering
+title: Verizon Follows AT&Ts Lead and Starts Blocking Unofficial Tethering
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/02/tethering.jpg)
 * A couple days ago, we reported that AT&T would automatically start moving jailbreakers using MyWi to an official tethering plan starting August 11.

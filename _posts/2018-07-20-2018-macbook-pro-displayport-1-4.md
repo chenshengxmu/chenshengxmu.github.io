@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Do Apple's 2018 MacBook Pro models support the DisplayPort 1.4 spec?
+title: Do Apples 2018 MacBook Pro models support the DisplayPort 1.4 spec?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/2018-MacBook-Pro-logic-board-iFixit-002.jpg)
 * Even though Apple’s refreshed MacBook Pro models for 2018 feature an iFixit-identified JHL7540 Thunderbolt 3 controller from Intel, unveiled in January as part of the Titan Ridge platform, the notebooks don’t truly support the DisplayPort 1.4 specification.

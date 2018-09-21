@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Japan Apple Store features eco-friendly 'green' wall for climate control
+title: New Japan Apple Store features eco-friendly green wall for climate control
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/japan-store.png)
 * Last week, Apple’s Lisa Jackson spoke at the Fortune Brainstorm Green conference about the company’s efforts to reduce its carbon footprint. She noted that all of its data centers run on renewable energy, and it’s working toward a similar goal with its retail stores.

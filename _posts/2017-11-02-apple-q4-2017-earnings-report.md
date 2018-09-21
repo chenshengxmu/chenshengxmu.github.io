@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Q4 2017- 46.7M iPhones, 10.3M iPads, $52.6B revenue
+title: Apples Q4 2017- 46.7M iPhones, 10.3M iPads, $52.6B revenue
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/apple-hq-headquarters.jpg)
 * Apple on Thursday reported its [fiscal] Q4 2017 earnings, offering a look at its performance over the last 3 months. The company absolutely crushed expectations, selling 46.7 million iPhones, up a little over a million units from the same quarter a year ago, and made $52.6 billion in revenue, up over $5 billion year-over-year. Here’s a full breakdown of the numbers.

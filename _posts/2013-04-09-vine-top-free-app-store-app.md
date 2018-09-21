@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twitter's Vine is now App Store's new #1 free app
+title: Twitters Vine is now App Stores new #1 free app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/Vine-top-free-App-Store-app.jpg)
 * Here’s a reminder that Vine still exists: just six months after being acquired by Twitter and about two and a half months following its iOS debut, the Vine app is now the number one free software on the App Store. By comparison, Twitter’s own iOS client sits at No. 35.

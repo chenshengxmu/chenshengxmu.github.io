@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Extensify soft launches, lets you install 'tweaks' without a jailbreak
+title: Extensify soft launches, lets you install tweaks without a jailbreak
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/02/image-2-2.png)
 * Last August, we showed you a really cool project known as Extensify, which is a third-party extension store that allows you to install ‘tweaks’ for App Store apps on your device without a jailbreak.

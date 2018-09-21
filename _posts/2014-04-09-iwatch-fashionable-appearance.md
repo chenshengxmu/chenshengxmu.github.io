@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iWatch to come in two sizes, feature wireless charging and be 'fashionable'
+title: iWatch to come in two sizes, feature wireless charging and be fashionable
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/iWatch-concept-teaser-001.png)
 * Since we first began seeing ‘iWatch’ rumors back in early 2013, I’ve been wondering what the smartwatch will look like. Will it look like a traditional watch, similar to those from Samsung and Motorola? Or will it look more like a fitness band, like Nike’s FuelBand? What kind of features will it have?

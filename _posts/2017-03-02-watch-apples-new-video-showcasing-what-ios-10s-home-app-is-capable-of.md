@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Watch Apple's new video showcasing what iOS 10's Home app is capable of
+title: Watch Apples new video showcasing what iOS 10s Home app is capable of
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/03/Apple-HomeKit-webpage-web-screenshot-001.jpg)
 * Apple has updated its webpage dedicated to HomeKit with refreshed design and a new 45-second video showcasing what the tock Home app on iOS 10 is capable of. While not yet available on Apple’s official YouTube channel, we have embedded it in this article so give it a quick watch and let us know how you liked it in the comments.

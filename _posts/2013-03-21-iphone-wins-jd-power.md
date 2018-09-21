@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The iPhone tops JD Power's satisfaction rankings for ninth consecutive study
+title: The iPhone tops JD Powers satisfaction rankings for ninth consecutive study
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/JD-Power-logo.jpg)
 * The iPhone 5, Apple’s “disappointing” handset upgrade, has helped the iconic brand top the J.D. Power & Associates user satisfaction rankings for smartphones – and for the ninth consecutive time, too!

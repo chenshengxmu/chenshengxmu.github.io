@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sharp slows production of Apple's new iPhone screen
+title: Sharp slows production of Apples new iPhone screen
 ---
 * Apple may need to give a cash infusion to one of its iPhone display suppliers, whose production has slowed due to high costs, Reuters reports Friday. Screens for the new iPhone expected on Sept. 12 have embedded touch sensors, eliminating the need for an additional touch-screen layer.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/iPhone-4S-vs-four-inch-iPhone-vs-iPhone-widescreen-The-Next-Web-mockup-001.jpg)

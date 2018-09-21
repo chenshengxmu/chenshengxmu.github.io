@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple updates Trailers app for Retina iPad, Netflix promises high-def streaming "soon"
+title: Apple updates Trailers app for Retina iPad, Netflix promises high-def streaming soon
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/iTunes-Movie-Trailers-for-iOS-iPad-3-screenshot-001.jpg)
 * Ahead of the original iPad introduction in the April of 2010, the blogosphere had been abuzz over an unnamed Hollywood exec who allegedly saw a prototype in person and claimed the product would be awesome for watching movies. It ended up being quite enjoyable for this purpose, but hardly awesome due its modest 1024-by-768 pixel resolution.

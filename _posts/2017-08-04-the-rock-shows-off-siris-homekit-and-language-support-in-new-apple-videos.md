@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Rock shows off Siri's HomeKit and language support in new Apple videos
+title: The Rock shows off Siris HomeKit and language support in new Apple videos
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/Siri-The-Rock-language-support.jpg)
 * Apple on Friday released a pair of new Siri mini-ads featuring Dwayne Johnson aka The Rock.

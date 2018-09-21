@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple kicks off its '12 Days of Gifts' event with Justin Timberlake EP
+title: Apple kicks off its 12 Days of Gifts event with Justin Timberlake EP
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/12-days-1.png)
 * Christmas may be over now, but that doesn’t mean you have to be done getting presents. Apple has kicked off its ’12 Days of Gifts’ event this morning with a free gift for its faithful users, and will continue to give one each day for the next week and a half.

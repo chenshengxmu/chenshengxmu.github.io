@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iDB's Favorite App Store and Jailbreak Apps of 2011
+title: iDBs Favorite App Store and Jailbreak Apps of 2011
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/iDownloadBlog_Logo_final-e1310494357166.png)
 * The year is almost over, so we thought that it would be a good idea to take a look back at our favorite apps of 2011. The iDB staff has chosen its favorite App Store and jailbreak apps from this year and compiled the picks into a little retrospective.

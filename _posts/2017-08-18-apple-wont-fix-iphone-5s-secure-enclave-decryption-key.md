@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple won't release a fix for Secure Enclave's exposed decryption key
+title: Apple wont release a fix for Secure Enclaves exposed decryption key
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/Apple-A7-chip-Secure-Enclave-001.jpg)
 * Following the exposure of the decryption key protecting the firmware software running on the iPhone 5s’s Secure Enclave coprocessor that was posted on GitHub yesterday, an Apple source has reportedly said that any customer data securely stored in the cryptography coprocessor remains protected and that the company does not intend to roll out a fix at this time.

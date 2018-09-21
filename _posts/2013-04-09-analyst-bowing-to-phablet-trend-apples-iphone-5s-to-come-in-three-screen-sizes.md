@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Analyst- bowing to phablet trend, Apple's iPhone 5S to come in three screen sizes
+title: Analyst- bowing to phablet trend, Apples iPhone 5S to come in three screen sizes
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/iPhone-6-mockup-Martin-Hajek-001.jpg)
 * Apple’s rumored S-upgrade to its iPhone, the iPhone 5S, is assumed to arrive some time during summer, possibly shortly after Apple presumably announces it at its annual developers conference in June or July (the company hasn’t yet set the date for WWDC 2013). One analyst in a note issued to clients Tuesday wrote that supply chatter points to multiple screen sizes for the iPhone 5S in order to appeal to consumers who dig jumbo-sized handsets and improve its standing in the market…

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digital music sales drop for the first time since the iTunes Store's inception
+title: Digital music sales drop for the first time since the iTunes Stores inception
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/iTunes-11-expanded-music-view.jpg)
 * Proponents of digital music are in for a surprise as sales of digital albums and individual songs nosedived last year, for the first time since Apple revolutionized the music business with its iTunes Music Store back in 2003. According to a report by Billboard, industry executives are once again oblivious to the fact that consumers’ tastes are changing and are blaming streaming music services such as Pandora and iTunes Radio for the drop. The full breakdown is after the break…

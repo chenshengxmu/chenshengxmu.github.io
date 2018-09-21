@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New 'Jobs' clips hit the web ahead of Friday release
+title: New Jobs clips hit the web ahead of Friday release
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/Ashton-Kutcher-and-Josh-Gad-USA-Today-001-e1376599170363.jpg)
 * It’s been a long road for ‘Jobs,’ the film about Apple’s leader and co-founder starring Ashton Kutcher. We first found out about the movie project back in early 2012, and there’s been non-stop reports, photos, trailers and interviews ever since.

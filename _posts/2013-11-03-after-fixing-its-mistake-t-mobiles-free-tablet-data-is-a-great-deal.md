@@ -1,6 +1,6 @@
 ---
 layout: post
-title: After fixing its mistake, T-Mobile's free tablet data is a great deal
+title: After fixing its mistake, T-Mobiles free tablet data is a great deal
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/image1.jpg)
 * Yesterday I wrote a post going at T-Mobile pretty hard after it appeared to do the ‘ol bait and switch on its free 200MB/month data claims. I wasn’t alone. Numerous customers complained that T-Mobile reps were insisting that they sign up for a monthly plan in order to take advantage of the free data offer.

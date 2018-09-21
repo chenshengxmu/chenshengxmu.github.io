@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mirmir' multitasking tweak for iOS 8.4 now available on Cydia
+title: Mirmir multitasking tweak for iOS 8.4 now available on Cydia
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/Mimir-demo.png)
 * Yesterday, we brought you a full review of a hot new jailbreak tweak called Mirmir (formerly Mimir). This is a new tweak that allows you to have true side-by-side windowed multitasking on jailbroken iPhones and iPads running iOS 8.3 or iOS 8.4.

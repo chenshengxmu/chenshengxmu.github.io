@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's design guru Jony Ive lends his touch to Sotheby's charity auction products
+title: Apples design guru Jony Ive lends his touch to Sothebys charity auction products
 ---
 * Apple’s senior vice president for design, Jony Ive, has joined a designer friend to contribute special creations for a charity auction at Sotheby’s benefitting Bono’s PRODUCT (RED) campaign. Among the items is a pair of rose gold Apple EarPod headphones.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/apple-gold-earpods.png)

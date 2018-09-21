@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Priority Hub' brings the Blackberry 10 priority hub feature to iOS 7
+title: Priority Hub brings the Blackberry 10 priority hub feature to iOS 7
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/Priority-Hub.jpg)
 * Looking for a better way to sort your Lock screen notifications on iOS 7? Then try out Priority Hub, a new Blackberry 10 inspired jailbreak tweak that just landed on Cydia’s BigBoss repo.

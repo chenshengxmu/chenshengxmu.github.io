@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile to start selling the iPhone in 'three to four' months
+title: T-Mobile to start selling the iPhone in three to four months
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/T-Mobile-iPhone-5.jpg)
 * Good news for T-Mobile subscribers looking to get their hands on the iPhone. In a new interview, the carrier’s CEO John Legere says it will begin offering Apple’s popular handset sooner rather than later.

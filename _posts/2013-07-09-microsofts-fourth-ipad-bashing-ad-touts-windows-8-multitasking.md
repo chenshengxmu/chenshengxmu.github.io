@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft's fourth iPad-bashing ad touts Windows 8 multitasking
+title: Microsofts fourth iPad-bashing ad touts Windows 8 multitasking
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/Windows-8-ad-Baseball.jpg)
 * iPad-bashing is becoming the recurring theme for Microsoft as the once dominant force in computing struggles to reclaim its relevancy in the post-PC world. Nowhere is this more evident that in Microsoft’s inability to hit the ground running with Windows 8 on tablets.

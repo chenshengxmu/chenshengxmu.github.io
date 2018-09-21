@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple granted patent for iOS app folders, 'jiggle' interface
+title: Apple granted patent for iOS app folders, jiggle interface
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/Apple-patent-iOS-jiggle-drawing-003.jpg)
 * Apple Tuesday was granted a patent for how it manages folders on the company’s iOS devices, including the familiar “jiggle” user interface. The patent, awarded by the U.S. Patent and Trademark Office, describes a “device, method, and graphical user interface for managing folders.” In the 2010 application, Apple said the interface relieves the “significant cognitive burden” and wasted energy traditionally required for moving files and icons on a computer desktop…

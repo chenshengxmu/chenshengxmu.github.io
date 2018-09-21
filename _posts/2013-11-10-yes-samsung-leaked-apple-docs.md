@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung ordered to explain why it shouldn't be sanctioned for leaking Apple docs
+title: Samsung ordered to explain why it shouldnt be sanctioned for leaking Apple docs
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/top_secret3-e1342605446409.jpeg)
 * Last month, Apple filed a motion against Samsung in a California court for sharing confidential information. In the filing, the iPad-maker accused the Korean tech giant of disclosing details regarding its Nokia patent licensing agreement.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LockWatch adds Apple Watch-inspired clocks to your iPhone's Lock screen
+title: LockWatch adds Apple Watch-inspired clocks to your iPhones Lock screen
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/LockWatch-Main.jpg)
 * As an avid Apple Watch user, I was excited to learn about a jailbreak tweak dubbed LockWatch by iOS developer Sniper_GER, which ports several of the Apple Watch’s watch faces to the Lock screen of jailbroken devices.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Be a virtual tourist- take scripted 3D tours of world's major metropolises on Apple Maps
+title: Be a virtual tourist- take scripted 3D tours of worlds major metropolises on Apple Maps
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/iOS-9-Apple-Maps-3D-Flyover-Tour-San-Diego-iPhone-screenshot-001.jpg)
 * You knew about three-dimensional buildings and landmarks on Apple Maps—a feature they’re calling Flyover mode. But did you know that Apple’s mapping service includes virtual tours of more than a hundred major metropolises worldwide? If not, that’s because Apple hasn’t exactly gone to great lengths to advertise it front and center in the Maps interface.

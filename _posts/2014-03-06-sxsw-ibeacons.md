@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Upcoming SXSW festival to use Apple's iBeacons
+title: Upcoming SXSW festival to use Apples iBeacons
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/SXSW-5.2-for-iOS-iPhone-screenshot-001.jpeg)
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/SXSW-5.2-for-iOS-iPhone-screenshot-002.jpeg)

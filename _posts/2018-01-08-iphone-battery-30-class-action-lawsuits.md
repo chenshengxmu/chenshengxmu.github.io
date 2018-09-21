@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We're now approaching 30th class action lawsuit over the iPhone throttling debacle
+title: Were now approaching 30th class action lawsuit over the iPhone throttling debacle
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/iPhone-7-iPhone-7-Plus-Battery-Graphic.jpg)
 * In less than two weeks since admitting to deliberately slowing down older iPhone models with worn-out batteries, nearly 30 class action lawsuits have so far been filed against Apple, highlighting just how badly the company has handled the whole situation.

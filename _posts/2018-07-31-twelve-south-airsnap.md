@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Protect and carry your AirPods in Twelve South's chic leather case featuring a carabiner clip
+title: Protect and carry your AirPods in Twelve Souths chic leather case featuring a carabiner clip
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/Twelve-South-AirSnap-001.jpg)
 * Premium Apple accessory maker Twelve South today announced its latest product, a leather carrying case for your plastic AirPods charging case.

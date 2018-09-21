@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ad execs disparage iAds over Apple's 'slow, cocky and downright stingy' approach
+title: Ad execs disparage iAds over Apples slow, cocky and downright stingy approach
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/iad-land-rover-ss.png)
 * iAd, Apple’s advertising platform, continues to struggle to gain traction and retain big name advertisers. A new report by industry publication Advertising Age claims that Madison Avenue media buyers are unimpressed by the performance of iAds, which they contributed to Apple’s “slow, cocky and downright stingy” approach to ad sales.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Forrester- iOS is shoppers' platform of choice
+title: Forrester- iOS is shoppers platform of choice
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/iOS-7-Messages-003.jpg)
 * Owners of mobile gadgets running on Apple’s iOS operating system are more likely to make purchases from their iPhone, iPod touch or iPad and use their iDevices for product research. According to research firm Forrester, iOS owners are nearly one-third, or thirty percent, more likely to make purchases using their smartphone or tablet and fifteen percent more likely to research products, compared to Android users.

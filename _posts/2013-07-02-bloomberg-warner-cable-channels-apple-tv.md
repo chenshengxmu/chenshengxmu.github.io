@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bloomberg- Time Warner Cable channels coming to Apple TV 'in a few months'
+title: Bloomberg- Time Warner Cable channels coming to Apple TV in a few months
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/Apple-TV-teaser-001.jpg)
 * Hot on the heels of releasing the Apple TV 5.3 software which enabled access to Disney’s WatchESPN and HBO Go through the $99 set-top box, Bloomberg now reports that the iPhone maker is on the cusp of announcing a major agreement with Time Warner Cable.

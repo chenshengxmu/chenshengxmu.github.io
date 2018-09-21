@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Completely rebuilt, "blazing fast" Facebook for iPhone coming next month
+title: Completely rebuilt, blazing fast Facebook for iPhone coming next month
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/facebook-for-ipad-screenshot-004-e1318277847551.jpeg)
 * Don’t you just hate Facebook’s iOS app, a glorified HTML5 web app wrapped with an Objective-C shell? We do: it’s sluggish for a native apps and unresponsive more often than not. Facebook feels your pain and they’re about to do something about it, allegedly re-writing the program from the ground up with speed in mind…

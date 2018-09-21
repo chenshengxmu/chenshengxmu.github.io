@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Activation Lock in iOS 7 is Apple's response to mobile phone thefts
+title: Activation Lock in iOS 7 is Apples response to mobile phone thefts
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/iOS-7-activation-lock.jpg)
 * For months we’ve been hearing reports of the US government calling on Apple to do something about the growing number of mobile phone thefts (particularly iPhones) in the country. And it has. Introducing one of the more interesting new features in iOS 7, Activation Lock…

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What to do if your iPhone won't turn back on
+title: What to do if your iPhone wont turn back on
 ---
 * If you’re trying to use an iPhone, iPod touch, or iPad, only to find that the display is black and the device won’t power back on, it could be happening because of a variety of different reasons. The only way to know why it’s happening for sure is to troubleshoot.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/iPhone-black-screen-wont-turn-on.jpg)

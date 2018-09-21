@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yahoo's new Screen iOS app is a remote control for web video
+title: Yahoos new Screen iOS app is a remote control for web video
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/Yahoo-Screen-1.0-for-iOS-iPad-screenshot-001.jpeg)
 * The struggling Internet giant – once synonymous for anything remotely dealing with online content – on Monday issued a brand new app called Yahoo Screen.

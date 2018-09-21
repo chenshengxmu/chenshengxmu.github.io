@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T's LTE is the fastest, Verizon rules coverage
+title: AT&Ts LTE is the fastest, Verizon rules coverage
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/ATT-Chicago-store-interior-001.jpg)
 * Aren’t you sick and tired of top U.S. carriers advertising their 4G LTE service as the nation’s fastest and most reliable? This mostly false advertising has been ticking me off for quite some time, especially how T-Mobile promotes its 3G HSPA+ network as 4G. Time for a reality check.

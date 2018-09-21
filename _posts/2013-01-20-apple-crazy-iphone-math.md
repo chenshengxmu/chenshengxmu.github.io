@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple rumored to unveil 'iPhone Math' with 4.8-inch display in June
+title: Apple rumored to unveil iPhone Math with 4.8-inch display in June
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/iPhone-5-LTE.png)
 * Despite the fact that Apple just launched the iPhone 5 in September of last year, talk of the next iteration of the handset has already started to accumulate. It seems like we hear rumors regarding the next-gen iPhone on a weekly basis.

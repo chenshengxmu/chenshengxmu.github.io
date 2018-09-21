@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Everything you need to know about Apple's WWDC keynote
+title: Everything you need to know about Apples WWDC keynote
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/WWDC-2013-iOS-7.png)
 * Well, that’s all folks. Apple’s highly anticipated WWDC keynote has come, and gone. All announcements have been made, all new software and products have been unveiled, and now the day is coming to a close.

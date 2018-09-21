@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Q3 2018- 41.3M iPhones, 11.5M iPads, $53.3B revenue
+title: Apples Q3 2018- 41.3M iPhones, 11.5M iPads, $53.3B revenue
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/06/Apple-store-Palo-Alto-old-1.jpg)
 * Apple this afternoon disclosed its [fiscal] Q3 2018 earnings report, offering a look at its performance over the past 3 months. During the period, the company beat both its own and Wall Street’s expectations by selling 41.3M iPhones and earning $53.3B in revenue. Here’s a full breakdown of the numbers.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New report says Foxconn's robots will play more of a supporting role in factories
+title: New report says Foxconns robots will play more of a supporting role in factories
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/Foxconn-robot.jpg)
 * Earlier this week, word got out that Foxconn is preparing to deploy sophisticated robots to help assemble devices in its factories. The so-called ‘Foxbots’ have been in testing for years now, and CEO Terry Gou says the first units will help manufacture Apple’s iPhones.

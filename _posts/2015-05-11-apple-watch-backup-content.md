@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is included in your Apple Watch backup, where it's kept and more
+title: What is included in your Apple Watch backup, where its kept and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/04/Apple-Watch-Activity-teaser-002.jpg)
 * Whether you’ve just purchased your second or third Apple Watch, or have wiped your existing device clean, at some point you’ll probably want to restore it from a backup to continue right where you left off, especially if personalizing the device’s many settings all over again isn’t your definition of fun.

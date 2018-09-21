@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rumor claims ultra-slim 12" Retina MacBook Air coming in 2015 in Silver, Space Gray and Gold
+title: Rumor claims ultra-slim 12 Retina MacBook Air coming in 2015 in Silver, Space Gray and Gold
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/MacBook-Air-20141.png)
 * File this one under the ‘We Shall See’ drawer: Apple’s long-rumored MacBook Air with a 12-inch Retina display is reportedly launching next year in Space Gray and Gold, in addition to the usual aluminum silver look, A Tech Website said Friday citing sources “familiar with Apple’s plans”.

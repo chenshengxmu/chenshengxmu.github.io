@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple "completely blown away" by customer response to the iPhone 5
+title: Apple completely blown away by customer response to the iPhone 5
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iPhone-5-black-Retina-display-001.jpg)
 * Unless you’ve been sleeping under a rock the whole day, you probably know that iPhone 5 shipping times have dramatically been pushed back to up to 2-3 weeks, both on the online Apple store and at most carriers – just a mere hour or two after Cupertino with its partners began processing orders. Commenting on the situation, a spokesperson for the company acknowledged pent-up demand for the device, choosing interesting wording from the company’s familiarly colloquial yet effective vocabulary…

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pokémon GO's new AR+ mode uses Apple's ARKit to make it appear hyper realistic
+title: Pokémon GOs new AR+ mode uses Apples ARKit to make it appear hyper realistic
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/Pokemon-GO-AR-Plus-mode-teaser.jpg)
 * Pokémon GO, the popular augmented reality game, is scheduled to gain a brand new AR+ mode powered by Apple’s ARKit as soon as later today.

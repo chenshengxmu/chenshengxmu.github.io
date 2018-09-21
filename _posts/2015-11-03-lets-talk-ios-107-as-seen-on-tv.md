@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's Talk iOS 107- As seen on TV
+title: Lets Talk iOS 107- As seen on TV
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/Lets-Talk-iOS-banner.png)
 * Episode 107: Sebastien tries a couple of knock-off Hermès‎ bands for Apple Watch. The crew discusses their initial impressions of the new Apple TV, including the initial setup process, Siri Remote, revamped interface, favorite apps and games. We also talk about our overall outlook for the future of the device.

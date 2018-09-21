@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ugreen's Magnetic Charger for Apple Watch is slim enough to keep in your pocket
+title: Ugreens Magnetic Charger for Apple Watch is slim enough to keep in your pocket
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/12/Ugreen-Magnetic-Charger-Whole-Unit.png)
 * Most people experience all-day battery life with the Apple Watch, whether it’s the single core first generation model, or the dual core Series 1 or 2 versions that were launched just this year. While this is true for most people who use their Apple Watch regularly, new apps like Pokémon GO for the Apple Watch threaten to deplete your Apple Watch’s tiny battery much faster.

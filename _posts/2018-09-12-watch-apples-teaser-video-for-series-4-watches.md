@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Watch Apple's teaser videos highlighting the biggest features of Apple Watch Series 4
+title: Watch Apples teaser videos highlighting the biggest features of Apple Watch Series 4
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/09/Apple-WAtch-Series-4-teaser-001.jpg)
 * Apple today unveiled Apple Watch Series 4 with a bigger, rounder display, a smarter Digital Crown with built-in ECG and haptic feedback, plus a bunch of other cool features. And now, it’s published a first-look video focusing on the device and other promotional footage.

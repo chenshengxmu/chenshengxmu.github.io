@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Optimus G fuels LG's return to No. 2 in the U.S., bumps Apple to No. 3
+title: Optimus G fuels LGs return to No. 2 in the U.S., bumps Apple to No. 3
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/LG-Optimus-G-two-up-portrait-landscape.jpg)
 * Competition to see who is the No. 2 cellphone maker in the U.S. has become a horse race. After losing it to Apple in 2011, LG for the first time since the iPhone 4S launch reportedly has retaken the spot behind industry-leader Samsung. But how did Apple, which produces only smartphones, for so long hold off the South Korean maker of both smart and feature phones?

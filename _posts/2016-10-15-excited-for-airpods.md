@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why I'm excited for AirPods
+title: Why Im excited for AirPods
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/Unknown-1.jpeg)
 * There has been a lot of takes on Apple’s new wireless headphones, the AirPods. Some people brush them off as just expensive and unnecessary. Others insist you’re going to lose them instantly. However, after Apple’s keynote, the AirPods may be what I am looking forward to most.

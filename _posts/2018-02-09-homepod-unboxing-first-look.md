@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video- unboxing and first look at Apple's HomePod
+title: Video- unboxing and first look at Apples HomePod
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/02/HomePod-Unboxing.jpg)
 * We got our hands on Apple’s new HomePod today and were quick to unbox it, and gather our first impressions in our short and sweet hands-on video walkthrough.

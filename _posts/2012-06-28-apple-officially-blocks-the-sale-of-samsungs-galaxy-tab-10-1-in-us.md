@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple officially moves to block the sale of Samsung's Galaxy Tab 10.1 in US
+title: Apple officially moves to block the sale of Samsungs Galaxy Tab 10.1 in US
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/galaxy-tab-10-1-vs-ipad-2-2-e1313507692994.jpeg)
 * Just two days after it won a devastating preliminary injunction on the sale of Samsung’s Galaxy Tab 10.1 tablet in the United States, based on a ruling that Samsung infringed on the design and patents of Apple’s iPad, Cupertino has posted the necessary $2.6 million bond, thus formalizing its blockage of U.S. imports of the infringing tablet…

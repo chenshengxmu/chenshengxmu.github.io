@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Watch 'Steve Jobs' scene with Woz confronting Steve over impending launch of NeXT Computer
+title: Watch Steve Jobs scene with Woz confronting Steve over impending launch of NeXT Computer
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/07/Steve-Jobs-movie-full-trailer-image-001.jpg)
 * The high-profile ‘Steve Jobs’ biopic, based on Walter Isaacson authorized biography of Apple’s mercurial co-founder, released today in select theaters across the United States and Universal posted a full scene on its YouTube channel to celebrate the launch.

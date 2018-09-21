@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Both the iPhone 5s and 5c support China Mobile's TD-LTE band
+title: Both the iPhone 5s and 5c support China Mobiles TD-LTE band
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/iPhone-5s-gold-three-up-back-front-profile.jpg)
 * Surprisingly, Apple didn’t make any mention of a China Mobile deal at its event today. The Cupertino company had reportedly inked a deal with world’s largest carrier earlier this month to carry its popular handset.

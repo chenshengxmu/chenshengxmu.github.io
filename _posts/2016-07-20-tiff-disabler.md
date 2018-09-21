@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This tweak fixes a big security hole in your jailbroken device's TIFF image handling
+title: This tweak fixes a big security hole in your jailbroken devices TIFF image handling
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/ComputerSecurity_m_0907.jpg)
 * An exploit recently uncovered in iOS versions 9.3.2 and earlier could allow a hacker to compromise the security of a device by having the user open an unsuspecting TIFF image file.

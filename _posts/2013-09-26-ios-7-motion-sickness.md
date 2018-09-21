@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 7 motion sickness is real. What's Apple going to do about it?
+title: iOS 7 motion sickness is real. Whats Apple going to do about it?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/iOS-7-teaser-iPhone-5c-ad-002.jpg)
 * In pitching iOS 7, Apple makes note of the fact that the revamped mobile operating system relies on “cinematic animations” and “new approaches to animation and motion to make even the simplest tasks more engaging”. Most would agree with the sentiment, but not a number of people with certain conditions who’ve flocked to Apple’s Support forums to complain how iOS 7 makes their life difficult.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Photos of Apple's NC campus show solar farm and new tactical data center
+title: Photos of Apples NC campus show solar farm and new tactical data center
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/apple_infographic-e1343932449934.jpg)
 * The sneaky folks over at Wired just flew a 1949 Piper PA-11 (Cub Special) aircraft over Apple’s Maiden, North Carolina campus to see what the old Cupertino company was up to. And apparently, it’s building stuff.

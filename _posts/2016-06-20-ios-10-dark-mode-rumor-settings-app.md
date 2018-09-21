@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 10's elusive Dark Mode shown in Settings app
+title: iOS 10s elusive Dark Mode shown in Settings app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/iOS-10-Settings-Dark-Mode-rumor-iPhone-screenshot-001.png)
 * Five days ago, iDownloadBlog’s own Andrew O’Hara first wrote about jailbreak developer Andy Wiik‘s discovery of Dark Mode resources buried deep within iOS 10’s Messages app.

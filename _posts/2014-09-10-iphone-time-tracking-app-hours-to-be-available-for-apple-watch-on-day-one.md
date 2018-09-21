@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone time-tracking app Hours to be available for Apple Watch 'on day one'
+title: iPhone time-tracking app Hours to be available for Apple Watch on day one
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/Hours-for-Apple-Watch-mockup-001.png)
 * Apple Design Award winner Tapity announced that its popular time-tracking application, Hours for iPhone, will be available for the new Apple Watch “on day one”. While telling time is the core function of any watch, time tracking could easily become the killer feature of Apple’s device.

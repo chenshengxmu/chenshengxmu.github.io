@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to force the iPhone's calculator into landscape mode
+title: How to force the iPhones calculator into landscape mode
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/LandscapeCalc.png)
 * Do you always use the scientific functions on iOS’ Calculator app? Do you find the standard calculator to be worthless without scientific functions? If so, then try LandscapeCalc.

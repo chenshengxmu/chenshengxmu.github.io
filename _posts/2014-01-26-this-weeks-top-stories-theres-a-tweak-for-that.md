@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This week on iDB- there's a tweak for that
+title: This week on iDB- theres a tweak for that
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/iDB-Top-Stories-of-the-Week-banner.png)
 * Like every Sunday, we bring you the stories that were the most popular on iDB during this past week. Whether it is a news piece, an editorial, a tutorial, a new jailbreak tweak, or an accessory review, we sum it all up in one convenient place.

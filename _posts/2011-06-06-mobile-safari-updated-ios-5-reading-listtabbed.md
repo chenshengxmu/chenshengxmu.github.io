@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mobile Safari Updated in iOS 5, Brings 'Reading List' and Tabbed Browsing
+title: Mobile Safari Updated in iOS 5, Brings Reading List and Tabbed Browsing
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/features_safari_overview.png)
 * iOS 5 will have a new and improved version of Mobile Safari that sports tabbed browsing across all iDevices. Alongside that, Safari also has a new feature called “Reading List” that acts as an Instapaper or Read It Later replacement.

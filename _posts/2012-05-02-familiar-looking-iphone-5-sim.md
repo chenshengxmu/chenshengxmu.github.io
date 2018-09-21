@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rumor- familiar-looking 'iPhone 5' SIM tray surfaces
+title: Rumor- familiar-looking iPhone 5 SIM tray surfaces
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/SIM-tray-iphone-5.jpg)
 * For the second time in the last two weeks, a parts vendor has leaked a purported ‘iPhone 5’ component. Last Tuesday we saw some Home buttons surface that reportedly belonged to Apple’s next-generation handset, and now we’ve come across a SIM card tray.

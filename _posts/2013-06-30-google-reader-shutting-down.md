@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Reader shuts down tomorrow, here's everything you need to know
+title: Google Reader shuts down tomorrow, heres everything you need to know
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/Feedly-Cloud-web-screenshot-001.png)
 * In case it’s somehow skipped your mind, Google is going to be turning off Google Reader, it’s popular RSS aggregating service, on July 1st. That’s tomorrow. And if you haven’t taken the proper steps, such as backing up your feeds or syncing them with a suitable replacement, you’re going to lose them.

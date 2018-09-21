@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Close Push Notifications Straight from the iPhone's Lockscreen with LockAlert
+title: Close Push Notifications Straight from the iPhones Lockscreen with LockAlert
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/lockalert.png)
 * LockAlert is a new jailbreak tweak that allows you to easily close a push notification preview straight on your iPhone’s lockscreen. Instead of having to slide to unlock your iPhone, the notification can be dismissed by tapping an “X” that LockAlert adds to the top corner of the preview dialog.

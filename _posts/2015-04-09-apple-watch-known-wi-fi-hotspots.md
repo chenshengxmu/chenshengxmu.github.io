@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Watch can tap into known Wi-Fi hotspots when your iPhone's at home
+title: Apple Watch can tap into known Wi-Fi hotspots when your iPhones at home
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/04/Apple-Watch-faces-CNET-001.jpg)
 * From the onset, Apple’s been telling us its Watch uses Wi-Fi (along with GPS) in your iPhone, but omitted that the gizmo can also take advantage of known Wi-Fi hotspots for limited functions when the paired iPhone isn’t nearby or connected to the cellular network.

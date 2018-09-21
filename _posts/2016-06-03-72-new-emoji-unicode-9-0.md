@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here are the 72 new emojis you'll be able to use soon
+title: Here are the 72 new emojis youll be able to use soon
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/Unicode-9-emoji-image-001.jpg)
 * The Unicode Consortium has settled on a batch of new emoji characters that will become part of the Unicode 9.0 standard, to be released formally on June 21. The final emoji candidates for inclusion in Unicode 9.0 include such emoji as a man in tuxedo, lying face, clown face, drooling face, nauseated face, rolling on the floor laughing, selfie, face palm, pregnant woman, first place medal, shopping trolley, deer, shark, owl, potato, croissant, pancakes, bacon, judo uniform and more.

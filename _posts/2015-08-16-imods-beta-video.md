@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's a video walkthrough of the latest iMods beta, an upcoming Cydia alternative
+title: Heres a video walkthrough of the latest iMods beta, an upcoming Cydia alternative
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/08/iMods.png)
 * iMods has posted a new video walkthrough of its long-in-the-works app, and it’s made lots of progress. Unlike the Extensify app that we previewed last week, iMods is a true Cydia alternative that aims to provide users with a prettier UI, ratings, video previews, and more.

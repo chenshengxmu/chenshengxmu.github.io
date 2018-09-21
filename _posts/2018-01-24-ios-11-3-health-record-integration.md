@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A closer look at expanded health record integration coming to iOS 11.3's Health app
+title: A closer look at expanded health record integration coming to iOS 11.3s Health app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/iOS-11.3-health-record-integration-004.jpg)
 * As part of the iOS 11.3 preview, Apple today announced it’s enhancing the Health app’s fairly limited Health Records feature, which debuted in iOS 10, to make it easier for patients to access and control detailed medical information from the palm of their hand.

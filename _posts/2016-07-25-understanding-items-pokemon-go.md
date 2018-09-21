@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Understanding the various items you'll come across in Pokémon GO
+title: Understanding the various items youll come across in Pokémon GO
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/07/Pokemon-Go-teaser-005.jpg)
 * As you play Pokémon GO, you’re going to find yourself collecting a ton of items from PokéStops and from simply leveling up your character as you progress through the game.

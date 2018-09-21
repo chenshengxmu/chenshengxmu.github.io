@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's award-winning PCalc scientific calculator app in augmented reality, because why not?
+title: Heres award-winning PCalc scientific calculator app in augmented reality, because why not?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/PCalc-ARKit-demo.jpg)
 * If the awesome ARKit-powered measuring tape hasn’t knocked your socks off, how about PCalc, the best scientific calculator available on App Store, in augmented reality?

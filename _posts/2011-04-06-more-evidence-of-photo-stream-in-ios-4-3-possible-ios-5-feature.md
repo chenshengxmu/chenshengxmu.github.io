@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More Evidence of "Photo Stream" in iOS 4.3, Possible iOS 5 Feature?
+title: More Evidence of Photo Stream in iOS 4.3, Possible iOS 5 Feature?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/12/Copy-Photos-to-email.png)
 * With an official demo still 2 months away, we can only rely on rumors and speculation to paint a picture of what iOS 5 might look like. Clues hidden inside iOS 4 can also help us predict future iOS characteristics. Some are found through hours of code searching, others are found by pure dumb luck.

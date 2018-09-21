@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mark Zuckerberg has pointedly dismissed Tim Cook's ideas about Facebook
+title: Mark Zuckerberg has pointedly dismissed Tim Cooks ideas about Facebook
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/FAcebook-F8-2017-Mark-Zuckerberg-roadmap.jpg)
 * Facebook’s chief executive took issue with recent comments by Apple CEO Tim Cook, who criticized Facebook’s privacy practices amid a scandal around its data practices and the social network’s role in political campaigns.

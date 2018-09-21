@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Deal- Alto's Adventure is 66 percent off today only
+title: Deal- Altos Adventure is 66 percent off today only
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/Altos-ADvernture-Spring-sale-teaser-001.png)
 * Alto’s Adventure, an endless snowboarding odyssey, is currently available at a deep 66 percent discount as part of a Spring sale developer Snowman has been having since five days ago. The game is currently available for just 99 cents on the App Store, down from its usual asking price of $2.99 a pop. Alto’s Adventure is a universal app so that’s 99 cents to play this remarkable well executed triple-A on your iPhone, iPod touch, iPad and Apple TV.

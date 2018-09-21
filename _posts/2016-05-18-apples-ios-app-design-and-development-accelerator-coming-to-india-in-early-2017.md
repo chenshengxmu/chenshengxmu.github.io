@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's iOS app design and development accelerator coming to India in early 2017
+title: Apples iOS app design and development accelerator coming to India in early 2017
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/india-120120.jpg)
 * As was rumored yesterday, Apple CEO Tim Cook during his India trip announced an accelerator program for iOS developers. The facility is expected to open in early 2017.

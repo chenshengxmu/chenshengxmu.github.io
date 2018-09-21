@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung's killing it, announces 20 million Galaxy S III sales in 100 days
+title: Samsungs killing it, announces 20 million Galaxy S III sales in 100 days
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Samsung-Galaxy-SIII-commercial.jpg)
 * Apple’s biggest components supplier and the fiercest competitor in smartphones and tablets, South Korea-based Samsung, today announces that it has sold a whopping 20 million units of its flagship Galaxy S III handset, unveiled on May 3 and backed by a massive advertising campaign.

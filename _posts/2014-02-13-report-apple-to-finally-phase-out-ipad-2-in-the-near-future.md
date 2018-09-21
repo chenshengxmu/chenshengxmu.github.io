@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Report- Apple to finally phase out iPad 2 'in the near future'
+title: Report- Apple to finally phase out iPad 2 in the near future
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/iPad-2-teaser.jpg)
 * Nearly three years following its March 2011 debut, Apple is finally set to discontinue its second-generation iPad. The iPad 2 was arguably the most important iPad refresh in history, bringing a major redesign from the original iPad, VGA front-facing and 720p rear-facing cameras designed for FaceTime video calling and image capture, magnetic Smart Covers and substantial speed increases courtesy of the Apple-designed dual-core A5 processor.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Konami's popular trading card game Yu-Gi-Oh! Duel Links hitting iOS this winter
+title: Konamis popular trading card game Yu-Gi-Oh! Duel Links hitting iOS this winter
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/Yu-Gi-Oh-Duel-Links-1.0-for-iOS-iPhone-screenshot-002.jpg)
 * Konami today announced that its popular card trading game, Yu-Gi-Oh! Duel Links, will be launching on the iPhone and iPad this winter.

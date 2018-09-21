@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I'm Waiting For the "Next Big Thing" From the Jailbreak Community
+title: Im Waiting For the Next Big Thing From the Jailbreak Community
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/Screen-Shot-2011-11-25-at-8.11.12-PM-e1322270002425.jpg)
 * Do I really need to jailbreak anymore? I’ve been thinking about that question since I got my iPhone 4S about two months ago. I know this sounds sacrilegious on iDB, but think about it: do we really need an untethered iOS 5 jailbreak?

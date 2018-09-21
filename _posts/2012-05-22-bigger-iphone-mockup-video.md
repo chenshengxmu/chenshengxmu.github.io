@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mockup time- here's a nice 3.95-inch iPhone 5 concept video
+title: Mockup time- heres a nice 3.95-inch iPhone 5 concept video
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Taller-iPhone-vs-iPhone-4S-Safari-Niilo-Autio.jpg)
 * With the Wall Street Journal having lent its aura of credibility to the bigger iPhone meme, it’s mockup time ladies and gentlemen.

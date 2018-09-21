@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple said to be readying 4-inch 'iPhone 5se' for spring launch
+title: Apple said to be readying 4-inch iPhone 5se for spring launch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/iphone-5s-edge-space-gray.jpg)
 * Apple is preparing to launch a new 4-inch iPhone this spring, reports 9to5Mac. The oft-accurate Mark Gurman claims he has it on good authority that the device, codenamed N69, will publicly be called the “iPhone 5se,” and should begin shipping by March or April.

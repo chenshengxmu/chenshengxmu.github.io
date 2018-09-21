@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LockInfo- iOS 5's Notification Center inspiration stands the test of time
+title: LockInfo- iOS 5s Notification Center inspiration stands the test of time
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/LockInfo-Screenshot.jpg)
 * LockInfo is one of the few jailbreak apps that could single-handedly convinced people to jailbreak their iDevices over the past few years.

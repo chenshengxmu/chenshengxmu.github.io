@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Siri to pronounce Barbra Streisand's name correctly with “next update on September 30”
+title: Siri to pronounce Barbra Streisands name correctly with “next update on September 30”
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/08/Barbra-STreissand-headsdhot.jpeg)
 * Will iOS 10 hit on September 30? We don’t know, but that’s what well-known singer, actress, songwriter and filmmaker Barbra Streisand seems to have alluded in an interview with NPR, saying she picked up the phone and called Tim Cook after becoming frustrated with how Siri pronounced her name.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nikkei- all iPhone 8 models to have all-glass design, new 5" model in the works
+title: Nikkei- all iPhone 8 models to have all-glass design, new 5 model in the works
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/iPhone-7-Plus-Piano-and-Dark-Black-AppleArab-concept-001.jpg)
 * According to Nikkei Asian Review today, Apple’s 2017 iPhone family (which may be called “iPhone 8” rather than “iPhone 7s”) will include three models, adding a brand new five-inch form factor to the mix. All three models of the iPhone 8 should boast refreshed industrial design.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review- Vevo's revamped iOS app is a lot cleaner and more fun to use than Apple's Music
+title: Review- Vevos revamped iOS app is a lot cleaner and more fun to use than Apples Music
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/11/Vevo-5.0-for-iOS-iPhone-screenshot-002.jpg)
 * In case you missed it, Vevo has completely redesigned its lagging iPhone and iPad application in the App Store. I watch music videos from Vevo artists on YouTube on my desktop. On mobile, not so much and I blame Vevo’s hopelessly outdated design, inconsistencies and complicated features for that.

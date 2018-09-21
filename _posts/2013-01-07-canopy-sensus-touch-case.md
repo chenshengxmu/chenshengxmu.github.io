@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CES 2013- Canopy's Sensus case adds touch controls to the back of your iPhone
+title: CES 2013- Canopys Sensus case adds touch controls to the back of your iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/canopy-sensus.jpg)
 * As CES marches on, it’s getting tougher and tougher to keep up with all of the different iOS accessory announcements. But we’re trying. Earlier today we saw the Hapifork from Hapilabs, and Griffin’s PowerDock, and now we’ve got an interesting case to show you.

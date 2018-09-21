@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2048oard brings the popular puzzle game to the iPhone's Home screen
+title: 2048oard brings the popular puzzle game to the iPhones Home screen
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/04/2048oard-Home-screen.jpg)
 * 2048oard is a jailbreak tweak that allows users to play a version os 2048 directly on the iPhone’s Home screen. 2048, as you’re likely aware of, is the popular Sudoku-inspired game that involves combining like numbers of tiles to eventually add up to 2048.

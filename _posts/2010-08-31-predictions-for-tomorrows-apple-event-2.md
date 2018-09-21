@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Predictions for Tomorrow's Apple Event
+title: Predictions for Tomorrows Apple Event
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/08/Apple-Special-Event-Sept-1-2010.png)
 * Unless you’ve been underneath a rock for a few weeks you’re aware that Apple will be holding their annual September event this Wednesday. With such an event so close, you can pretty much find a rumor for any wild idea you could think of. We figured here at iDB we’d toss around some ideas and let you add your own.

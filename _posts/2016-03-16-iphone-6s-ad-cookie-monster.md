@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple posts new 'Timer' iPhone 6s ad starring Cookie Monster
+title: Apple posts new Timer iPhone 6s ad starring Cookie Monster
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/cookie-monster.png)
 * Apple on Wednesday shared a new iPhone 6s ad on its YouTube page called ‘Timer.’ The spot stars the popular Sesame Street character Cookie Monster, and is set in a kitchen where he is baking—you guessed it—cookies.

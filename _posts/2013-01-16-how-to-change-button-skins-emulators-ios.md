@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to change button skins in Robert Broglia's Emulators on iOS
+title: How to change button skins in Robert Broglias Emulators on iOS
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/green-snes-overlays.jpg)
 * In the comments section of our article on Snes9x EX+’s release, one of our readers asked if there was a way to swap out the overlays for the on-screen buttons. I thought the question was interesting enough to answer in a full tutorial.

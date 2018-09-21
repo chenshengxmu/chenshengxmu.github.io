@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's new 21.5" iMac with 4K Retina screen has user replaceable RAM and modular CPU
+title: Apples new 21.5 iMac with 4K Retina screen has user replaceable RAM and modular CPU
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/Teardown-21.5-inch-iMac-with-4K-Retina-display-iFixit-003.jpg)
 * Apple during the Worldwide Developers Conference refreshed the iMac lineup with faster Intel chips and updated internal architecture. Good folks over at iFixit have now taken Apple’s new $1,299 21.5-inch iMac model that has a 4K Retina display, discovering something really interesting.

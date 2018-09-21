@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Black Friday kicks off with iTunes Gift Card deals on qualifying purchases
+title: Apples Black Friday kicks off with iTunes Gift Card deals on qualifying purchases
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/11/Apple-2014-Black-Friday-teaser-001.png)
 * Apple this morning kicked off its Black Friday sale with $25-$100 (PRODUCT)RED iTunes Gift Cards on qualifying Mac, iPhone, iPad, iPod, Apple TV and Beats by Dr. Dre purchases. Once your iTunes Gift Card has been redeemed, you can use your iTunes credit toward any purchase on the iTunes Store, including media and apps.

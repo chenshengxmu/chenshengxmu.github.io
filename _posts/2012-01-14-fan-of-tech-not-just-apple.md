@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why I'm a Fan of Technology, Not Just Apple
+title: Why Im a Fan of Technology, Not Just Apple
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/apple-haircut.jpeg)
 * This year’s CES seems to have raised an interesting question, and it’s one that I’ve pondered myself on occasion. It’s an issue that often comes around whenever there is a trade show that Apple does not attend, so that’s basically all of them these days.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Everything You Need to Know About Today's iPhone 4S Event
+title: Everything You Need to Know About Todays iPhone 4S Event
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/Screen-Shot-2011-10-04-at-5.45.05-PM-e1317764795734.png)
 * Today is a big day for Apple news. If you’ve gotten lost in the growing pile of announcements, here’s a helpful recap of the main highlights from Apple’s “Let’s Talk iPhone” event.

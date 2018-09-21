@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iTunes Radio is getting NPR's streaming news channel today
+title: iTunes Radio is getting NPRs streaming news channel today
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/iTunes-Radio-teaser-iPod-touch-iPad-MacBook-Air-Apple-TV-e1375750882393.jpg)
 * National Public Radio (NPR) is adding the first streaming news channel to Apple’s free iTunes Radio service, Re/code just reported.

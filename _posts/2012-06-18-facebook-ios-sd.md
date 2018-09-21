@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A major update to the Facebook SDK for iOS "coming soon"
+title: A major update to the Facebook SDK for iOS coming soon
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/iOS-6-twitter-facebook-siri.jpg)
 * The social networking behemoth Facebook just announced in a post over at its Facebook Developers blog that it is working on a major update to the Facebook SDK for iOS that will launch “soon”.

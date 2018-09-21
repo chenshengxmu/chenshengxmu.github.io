@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft recaps its 'milestones' in 2012
+title: Microsoft recaps its milestones in 2012
 ---
 * Microsoft, once the mighty Apple archival, in ways more than one is now directly or indirectly supporting Apple’s war on Android. With that in mind, let’s check out Microsoft’s recap video highlighting its milestones in 2012, one for each month. I’d call only two Microsoft products milestones: Halo 4, which raked in $220 million in sales in the first 24 hours, and the Xbox console with Kinect, which got Windows support in February.
 * As much as I like Windows Phone’s originality, it’s failed to make a dent and clings to a single-digit market share. The Surface is a flop (even the CEO agrees) and major software launches like Windows 8 and server products have not met the management’s internal expectations. Besides, Apple’s iPhone biz recently became worth more than all of Microsoft. How’s that for a milestone?

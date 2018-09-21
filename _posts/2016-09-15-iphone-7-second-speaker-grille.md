@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 7's second grille at the bottom is for the mic, not a second speaker
+title: iPhone 7s second grille at the bottom is for the mic, not a second speaker
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/iPhone-7-now-in-stereo-image-001.jpg)
 * One of the smaller but no less important features included in both new iPhone 7 models is an entirely new and “immersive” stereo speaker system that Apples claims provides twice the sound. Risking to be chastised in comments for bringing this up, I do feel we need to clear up the confusion and reiterate that a second speaker grille at the bottom of the phone does not actually house a speaker and is there purely for cosmetic reasons.

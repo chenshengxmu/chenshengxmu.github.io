@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Alto's Adventure creator teams up with LA studio on a game about building a house of cards
+title: Altos Adventure creator teams up with LA studio on a game about building a house of cards
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/Where-Cards-Fall-teaser-001.png)
 * Snowman, the makers of Alto’s Adventure, the award-winning endless snowboarding odyssey, has teamed up with the folks over at The Game Band, a Los Angeles-based studio, on a brand new project—Where Cards Fall, a “dreamlike journey through youthful uncertainty.”

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pebble announces it's surpassed 275,000 watch pre-orders
+title: Pebble announces its surpassed 275,000 watch pre-orders
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/pebble.jpg)
 * Folks still skeptical on whether or not there’s a real market for smartwatches should checkout Pebble’s latest blog post. The company says they’ve received over 190,000 smartwatch pre-orders since their Kickstarter project ended last year, giving them 275,000 total.

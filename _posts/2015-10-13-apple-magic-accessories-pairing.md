@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's refreshed Magic accessories have introduced a new Bluetooth pairing process
+title: Apples refreshed Magic accessories have introduced a new Bluetooth pairing process
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/10/Magic-Trackpad-2-image-001.jpg)
 * Apple’s just announced Magic accessories—the $99 Magic Keyboard, $79 Magic Mouse 2 and $129 Magic Trackpad 2—don’t just feature a refreshed design with an integrated litium-ion battery, Bluetooth 4.0 and a built-Lightning port for recharging, but a new way to pair them with your computer.

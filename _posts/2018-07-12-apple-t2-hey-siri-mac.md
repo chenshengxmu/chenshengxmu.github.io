@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's enhanced T2 silicon brings “Hey Siri” to the Mac platform for the first time
+title: Apples enhanced T2 silicon brings “Hey Siri” to the Mac platform for the first time
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/Apple-T2-chip-002.jpg)
 * Apple today refreshed its MacBook Pro notebook lineup with the latest Intel chips, twice the RAM and other goodies, including an enhanced version of the company’s second-generation T2 coprocessor that now brings “Hey Siri” to the Mac platform for the first time.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Court dismisses Apple's 'App Store' lawsuit against Amazon
+title: Court dismisses Apples App Store lawsuit against Amazon
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/Amazon-Appstore-Old1.png)
 * Apple’s been involved in some pretty silly legal tiffs, but this one has to be at the top of the list. In 2012, the Cupertino company filed a lawsuit against Amazon for using the term ‘App Store’ to describe its app portal, calling it “false advertising.”

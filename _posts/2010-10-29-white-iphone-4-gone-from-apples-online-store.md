@@ -1,6 +1,6 @@
 ---
 layout: post
-title: White iPhone 4 Gone From Apple's Online Store
+title: White iPhone 4 Gone From Apples Online Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/10/White-iPhone-4-Gone-From-Apple-Store-e1288326582271.png)
 * We heard this might happen, but seeing is believing. Apple has totally removed any trace of the white iPhone 4 from the online store. No more “coming soon,” it’s just gone.

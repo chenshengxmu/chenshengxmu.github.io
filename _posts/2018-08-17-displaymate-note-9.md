@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Note 9's Infinity Display earns highest-ever A+ grade in DisplayMate testing
+title: Note 9s Infinity Display earns highest-ever A+ grade in DisplayMate testing
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/Samsung-Galaxy-Note-9-005.jpg)
 * An extensive barrage of tests conducted by experts over at DisplayMate has shown that Samsung’s recently unveiled Note 9 flagship smartphone rocks the best mobile display.

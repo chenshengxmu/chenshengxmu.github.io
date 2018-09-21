@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Joy of Tech on the 'disappointing' iPhone 5
+title: Joy of Tech on the disappointing iPhone 5
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iPhone-5-black-camera-closeup-001.jpg)
 * As expected, Apple’s “boring” iPhone 5 has shattered previous sales record, selling two million pre-orders in just 24 hours. Cupertino’s rivals were quick to point out how the updated hardware “only” boasts a slightly larger display (versus jumbo-sized Android phones), 4G LTE and a faster chip – ignoring numerous little hardware tweaks under the hood.

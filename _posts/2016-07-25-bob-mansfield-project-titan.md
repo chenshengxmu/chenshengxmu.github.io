@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WSJ- Apple's retired hardware chief Bob Mansfield to oversee development of Project Titan
+title: WSJ- Apples retired hardware chief Bob Mansfield to oversee development of Project Titan
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/Apple-Car-concept-Aristomenis-Tsirbas-image-001.jpg)
 * Following a report last week alleging that Apple’s rumored electric vehicle project was internally delayed after its lead Steve Zadesky left in January 2016 for personal reasons, The Wall Street Journal is reporting today that Apple’s enlisted help of its retired hardware chief Bob Mansfield, who will now oversee development of Project Titan.

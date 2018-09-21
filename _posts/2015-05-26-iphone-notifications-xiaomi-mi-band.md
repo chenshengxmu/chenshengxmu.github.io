@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New tweak brings iOS notifications to Xiaomi's Mi Band
+title: New tweak brings iOS notifications to Xiaomis Mi Band
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/05/Xiaomi-Mi-Band.png)
 * XiaoMi’s recently launched US online store doesn’t carry any actual smartphone hardware yet, but you can buy hardware like headphones, battery packs, and a fitness device called the Mi Band.

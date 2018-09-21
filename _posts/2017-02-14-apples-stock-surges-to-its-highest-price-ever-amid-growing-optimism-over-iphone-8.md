@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's stock surges to its highest price ever amid growing optimism over iPhone 8
+title: Apples stock surges to its highest price ever amid growing optimism over iPhone 8
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/Apple-stock-price-20170214.png)
 * Apple is breaking records—the company’s stock price has surged to an all-time intraday high, trading as high as $134.88 today and having surpassed the previous all-time intraday high of $134.54 set on April 28, 2015. The current stock price gives the Cupertino company a market capitalization of nearly $710 billion, the largest market valuation for a publicly traded American company.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shrink Siri's Interface Window With TinyAssistant
+title: Shrink Siris Interface Window With TinyAssistant
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/tinyassistant.jpg)
 * Folks who believe that Siri’s initial interface window takes up way more space than it needs will be happy to hear about this new jailbreak tweak.

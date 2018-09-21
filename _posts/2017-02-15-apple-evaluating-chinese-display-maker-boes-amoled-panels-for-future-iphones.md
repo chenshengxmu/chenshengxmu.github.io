@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple evaluating Chinese display maker BOE's AMOLED panels for future iPhones
+title: Apple evaluating Chinese display maker BOEs AMOLED panels for future iPhones
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/iPhone-8-iOS-11-ConceptsiPhone-001-e1486658756234.png)
 * Samsung Display is said to be the lone supplier of organic light-emitting diode (OLED) panels for future iPhones, at least until Foxconn-owned Sharp, Japan Display and LG Display ramp up production of the sophisticated foldable display panels. That said, Apple is looking to address a global shortage of OLEDs by negotiating a deal with yet anther supplier.

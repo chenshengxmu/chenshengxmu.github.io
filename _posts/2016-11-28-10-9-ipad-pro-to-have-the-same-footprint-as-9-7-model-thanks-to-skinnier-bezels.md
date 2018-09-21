@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 10.9" iPad Pro to have the same footprint as 9.7" model thanks to skinnier bezels
+title: 10.9 iPad Pro to have the same footprint as 9.7 model thanks to skinnier bezels
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/Both-iPad-Pro.jpg)
 * A new report Monday from the fairly reliable Japanese outlet Mac Otakara claims that Apple’s rumored 10.9-inch iPad Pro model (10.1/10.5-inch, depending on a source) will have the same footprint as the current 9.7-inch models thanks to a lot skinnier bezel on the left and right side.

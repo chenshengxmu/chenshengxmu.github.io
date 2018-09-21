@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Griffin's multi-device charging station now shipping
+title: Griffins multi-device charging station now shipping
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/Griffin-PowerDock-5.jpg)
 * The accessory maker Griffin at this year’s CES in January 2013 took the wraps off the PowerDock 5, an intriguing charging station capable of charging and syncing up to five devices at once. Each of its five bays features an individual 10-watt, 2.1-amp power supply.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Star Wars- The Digital Movie Collection' coming to iTunes on April 10
+title: Star Wars- The Digital Movie Collection coming to iTunes on April 10
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/04/star-wars.jpg)
 * While we’re sure you Star Wars fans have every copy in your man cave, you’ll soon be able to add the George Lucas-made films to your iTunes.

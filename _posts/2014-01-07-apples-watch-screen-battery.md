@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's iWatch project reportedly plagued by screen, battery problems
+title: Apples iWatch project reportedly plagued by screen, battery problems
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/Apple-iWatch-02.png)
 * A new report is out this afternoon claiming that Apple is experiencing multiple problems with its long-rumored ‘iWatch’ project. The company is said to be troubled by challenges related to the device’s screen technology, battery life, and manufacturing.

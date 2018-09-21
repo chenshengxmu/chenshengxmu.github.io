@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DoJ says Steve Jobs email proves Apple's guilt in e-book scandal
+title: DoJ says Steve Jobs email proves Apples guilt in e-book scandal
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/ipad_ibooks_bookshelf1-e1325614255840.jpg)
 * Things are really starting to heat up between Apple and the US Department of Justice over this e-book price fixing scandal. The DoJ filed an antitrust lawsuit against Apple last year for allegedly conspiring with major book publishers to raise e-book prices.

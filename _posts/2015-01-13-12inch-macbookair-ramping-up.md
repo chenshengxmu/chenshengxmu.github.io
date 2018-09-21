@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DigiTimes- 12" MacBook Air with Retina screen ramping up for Q1 launch, replacing 11-incher
+title: DigiTimes- 12 MacBook Air with Retina screen ramping up for Q1 launch, replacing 11-incher
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/Twelve-inch-MacBook-Air-Martin-Hajek-008.jpg)
 * Contract fabricator Quanta Computer is ramping up production of the highly anticipated MacBook Air model with a twelve-inch screen as Apple preps to launch the forthcoming ultra-portable during the first quarter of this year, if a new report by DigiTimes, a Taiwanese trade publication, is an indication.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More proof that Apple's premium iWork/iLife iOS suite could go free
+title: More proof that Apples premium iWork/iLife iOS suite could go free
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/iWork-Mac-iOS-iCloud.jpg)
 * Apple for years offered iPhoto, iMovie and GarageBand iOS apps as a $4.99 download each.

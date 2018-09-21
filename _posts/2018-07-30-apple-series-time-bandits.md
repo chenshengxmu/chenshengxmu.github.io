@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1980s film 'Time Bandits' could become new Apple series
+title: 1980s film Time Bandits could become new Apple series
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/TimeBandits-1600x900-c-default.jpg)
 * Apple’s likely to turn the 1981 Terry Gilliam-directed fantasy film Time Bandits into a TV series. If approved, the series would be co-produced by Anonymous Content, Paramount Television, and Media Rights Capital, with Gilliam as a non-writing executive producer, according to Deadline.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 10 now powers 79% of active devices, Android Nougat's adoption barely 1%
+title: iOS 10 now powers 79% of active devices, Android Nougats adoption barely 1%
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/iOS-10-adoption-79-percent.png)
 * iOS 10 now powers nearly eight out of ten active devices—less than six months since officially releasing to the public in September of last year, as measured by App Store on February 20, 2017.

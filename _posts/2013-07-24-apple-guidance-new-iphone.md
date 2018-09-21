@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Q4 guidance suggests we'll see a new iPhone in September
+title: Apples Q4 guidance suggests well see a new iPhone in September
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Apple-event-20111004-iPhone-4S-unveiling-Tim-Cook-closeup-001.jpg)
 * During Apple’s quarterly earnings call yesterday afternoon, Tim Cook said something along the lines of “Apple has some great stuff coming in the fall.” While the comment is vague, Apple’s Q4 guidance may shine some light on when exactly we can expect to see new products.

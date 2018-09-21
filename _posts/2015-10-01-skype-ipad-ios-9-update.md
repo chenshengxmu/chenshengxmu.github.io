@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Skype's iPad and Mac apps now support new multitasking features in iOS 9 and El Capitan
+title: Skypes iPad and Mac apps now support new multitasking features in iOS 9 and El Capitan
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/Skype-6.0-for-iOS-teaser-001.jpg)
 * Microsoft-owned Skype for iPad was refreshed in the App Store earlier this morning with support for new multitasking features provided by iOS 9. It’s now easier to chat with friends on Skype while surfing the web, reading your email or running other apps in side-by-side Split View multitasking mode (requires iPad Air 2 or iPad mini 4).

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 8 Plus was Taiwan's best-selling smartphone last month, Apple #1 brand
+title: iPhone 8 Plus was Taiwans best-selling smartphone last month, Apple #1 brand
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/iPhone-8-Plus-iPhone-8-water.jpg)
 * 64GB and 256GB editions of Apple’s iPhone 8 Plus filed as the best-selling smartphones in Taiwan in September, according to a new supply chain report.

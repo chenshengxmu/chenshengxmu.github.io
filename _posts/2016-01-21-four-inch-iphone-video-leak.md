@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Did this video just show us Apple's upcoming four-inch iPhone refresh?
+title: Did this video just show us Apples upcoming four-inch iPhone refresh?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/Four-inch-iPhone-leak-MIC-Gadget-001.png)
 * M.I.C. Gadget, which in the past supplied genuine pictures and clips of unreleased Apple devices, today published a video which they claim shows off Apple’s forthcoming four-inch iPhone obtained from a source at Foxconn.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Real-life footage shows what it's like wearing Google Glass
+title: Real-life footage shows what its like wearing Google Glass
 ---
 * http://www.youtube.com/watch?v=v1uyQZNg2vE
 * With speculation of Apple’s growing interest in wearable computing and a smartwatch-like gadget the company’s reportedly working on, it’s worth remembering Google entered the space in a big way with last year’s astonishing on-stage demonstration of its Android-driven augmented-reality eyewear, Google Glass. One of CEO Larry Page’s moonshot projects, the Glass is still in its infancy, but watchers predict it will become the next big thing in wearable computing.

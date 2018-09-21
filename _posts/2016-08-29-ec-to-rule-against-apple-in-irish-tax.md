@@ -1,6 +1,6 @@
 ---
 layout: post
-title: European Commission to reportedly rule against Apple's sweetheart tax deal with Ireland
+title: European Commission to reportedly rule against Apples sweetheart tax deal with Ireland
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/Apple-Ireland-tax-scheme.png)
 * According to a 130-page judgment seen by The Financial Times, the European Commission (EC) is set to rule Tuesday against Apple’s sweetheart tax deal it struck with the government of Ireland back in 1999.

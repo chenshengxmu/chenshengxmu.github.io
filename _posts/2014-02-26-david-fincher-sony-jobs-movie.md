@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Social Network' director David Fincher in talks to lead Sony's Jobs biopic
+title: Social Network director David Fincher in talks to lead Sonys Jobs biopic
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/david-fincher.jpg)
 * If you fancy yourself any kind of Apple fan, or movie fan, you have to be excited about Sony’s upcoming biopic of Steve Jobs. Not only is it being written by Academy Award-winner Aaron Sorkin, but it’s now being rumored that David Fincher has signed on to direct the film.

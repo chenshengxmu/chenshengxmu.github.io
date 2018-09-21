@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HapticTwitter brings haptic feedback to iOS' official Twitter app
+title: HapticTwitter brings haptic feedback to iOS official Twitter app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/TwitterHaptic.jpg)
 * I give credit where credit is due, and I’d have to say Twitter’s official app is a solid way to use Twitter on the iOS platform. Nonetheless, there are still a few ways it could be enhanced, and jailbreak developers are continuously exploring ways to do just that.

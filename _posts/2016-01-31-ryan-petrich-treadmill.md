@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ryan Petrich's Treadmill tweak logs how much scrolling you do
+title: Ryan Petrichs Treadmill tweak logs how much scrolling you do
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/treadmill-review-banner.png)
 * Have you ever wondered just how much scrolling you do on your iPhone, iPod touch or iPad? Chances are, you do a whole lot more scrolling than you think.

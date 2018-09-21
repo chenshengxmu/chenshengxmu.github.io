@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft's Edge browser launches on iPhone
+title: Microsofts Edge browser launches on iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/Edge-Browser.jpg)
 * Microsoft has released their new Edge browser on iOS after a significant beta testing period. It allows you to easily pick up and leave off from your Windows 10 PC, similar to Apple’s Handoff.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amazon's TV box apparently arriving next month
+title: Amazons TV box apparently arriving next month
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/Amazon-smile-box-logo-001.jpg)
 * We’re expecting a major Apple TV update in March said to bring refreshed hardware that should support iOS 7 controllers and downloadable games. And now, word on the street is that the online retail giant Amazon is about to counter Apple’s announcement with a set-top box of its own.

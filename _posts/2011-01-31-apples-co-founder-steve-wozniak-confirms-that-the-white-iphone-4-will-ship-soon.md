@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Co-founder, Steve Wozniak, Confirms That the White iPhone 4 Will Ship Soon
+title: Apples Co-founder, Steve Wozniak, Confirms That the White iPhone 4 Will Ship Soon
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/01/Steve-Woz-and-White-iPhone-e1296494946208.jpeg)
 * Apple’s co-founder, Steve Wozniak, recently confirmed that issues with the infamous white iPhone 4 are fixed and that the product would be ready to ship in the near future. In an interview with Engadget, Woz addressed some of the mysterious problems that have been preventing the white iPhone 4 from shipping.

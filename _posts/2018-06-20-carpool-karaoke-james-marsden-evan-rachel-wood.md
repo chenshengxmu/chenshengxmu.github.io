@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Carpool Karaoke” episode to star Westworld's James Marsden and Evan Rachel Wood
+title: “Carpool Karaoke” episode to star Westworlds James Marsden and Evan Rachel Wood
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/06/Carpool-Karaoke-James-Marsden-and-Evan-Rachel-Wood.jpg)
 * James Marsden and Evan Rachel Wood, who play two of the main protagonists in HBO’s “Westworld” series will be featured in an upcoming episode of Apple’s “Carpool Karaoke” show.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's massive tablet gets its killer app- djay Pro for iPad Pro is here
+title: Apples massive tablet gets its killer app- djay Pro for iPad Pro is here
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/12/djay-Pro-1.0-for-iOS-teaser-001.jpg)
 * The iPad Pro has just received what could be described as a killer app in the form of German developer Algoriddim’s djay Pro, a brand new iPad-exclusive apps for both pro and aspiring DJs which launched this morning in the App Store.

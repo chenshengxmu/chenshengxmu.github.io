@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook- Apple has 'zero issue' coming up with new ideas
+title: Tim Cook- Apple has zero issue coming up with new ideas
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Apple-headquarters-Cupertino-Clifornia-exterior-001.jpg)
 * Continuing our coverage on Apple’s earnings call from yesterday afternoon, we have an interesting comment made by Tim Cook in response to a question asked by an analyst during the Q&A portion. The question was in regards to Apple entering new product categories this year.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interesting points from Apple's Q2 earnings call
+title: Interesting points from Apples Q2 earnings call
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/Apple-Store-Front-logo-San-Francisco.jpg)
 * Apple earlier today announced the financial results for its fiscal second quarter of 2018, and the numbers for the 3-month period are outstanding. The company beat Wall Street expectations across the board, and grew in almost every category year-over-year.

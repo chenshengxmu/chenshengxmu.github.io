@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's Nexus 7 beats iPad 3 on repairability
+title: Googles Nexus 7 beats iPad 3 on repairability
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/Google-Nexus-7-iFixit-teardown-001.jpg)
 * Despite being only one millimeter thicker, Google’s upcoming Nexus 7 slate is more repairable than the new iPad, a teardown analysis by iFixit has concluded. Its components are assembled using standard tools, unlike the new iPad’s innards which are glued together.

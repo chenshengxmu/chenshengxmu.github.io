@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Roku announces new $50 Apple TV, Chromecast competitor 'Streaming Stick'
+title: Roku announces new $50 Apple TV, Chromecast competitor Streaming Stick
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/roku-streaming.jpg)
 * As the race for the living room heats up, and rumors of an upcoming Apple TV refresh continue to swirl, Roku has announced its latest entry into the space called the Streaming Stick. The $50 accessory plugs into the HDMI port of your TV and streams a variety of content.

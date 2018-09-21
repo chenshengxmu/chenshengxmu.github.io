@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CES 2014- Withings unveils new 'Aura' smart sleep tracking system
+title: CES 2014- Withings unveils new Aura smart sleep tracking system
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/withings-aura1.jpg)
 * Continuing on with our day one coverage of CES, we have Withings. The France-based consumer electronics company, which made a name for itself with its Wi-Fi body scale, announced a new connected device today called the Aura.

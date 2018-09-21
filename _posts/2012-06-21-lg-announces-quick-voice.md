@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LG announces new Siri competitor 'Quick Voice'
+title: LG announces new Siri competitor Quick Voice
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/lg-quick-voice.jpeg)
 * Since it debuted back in 2007, the iPhone has become somewhat of a point of reference for other smartphones. It seems that every time a new handset is released, we hear: “is this the iPhone killer?”

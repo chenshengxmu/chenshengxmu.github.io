@@ -1,11 +1,9 @@
 ---
 layout: post
-title: How to create, edit & use Memoji and put a smile on someone's face
+title: How to create, edit & use Memoji and put a smile on someones face
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/06/memoji-ios-12.jpg)
-* One of the more creative new features in iOS 12 is the ability to create so-called Memoji. These customizable Animoji allow you to create alter egos of yourself and others that you can use in Messages and FaceTime. They arrive this fall on iPhone X and 2018 iOS devices that support Apple’s True Depth camera system. Here’s a step-by-step guide on how to create, edit, and use Memoji in iOS 12. 
-* Earlier this year, Samsung introduced Personalized Emoji on the Galaxy S9 and Galaxy S9 Plus. On the surface, Apple’s Memoji look similar. However, they really aren’t. With Samsung’s product, you take a selfie that’s used to build your emoji. Apple doesn’t offer that option for Memoji. Instead, you must start from scratch to build your character.
-* With that being said, creating Memoji is a fun process as you’ll see below.
+* One of the more creative features in iOS 12 is the ability to create so-called Memoji. These customizable Animoji allow you to create alter egos of yourself and others that you can use in Messages and FaceTime. These Memoji are exclusive to Apple devices with a TrueDepth camera system. Here’s a step-by-step guide on how to create, edit, and use Memoji in iOS 12. 
 * To create a Memoji on your iOS device follow these directions:
 * 1) Go into the Messages app and open an existing message thread or begin a new one.
 * 2) Tap on the Animoji app on the bar at the bottom of the screen. The app is denoted by a monkey icon.
@@ -50,6 +48,5 @@ title: How to create, edit & use Memoji and put a smile on someone's face
 * 3) Choose the Animoji you’d like to use. In this case, you’re selecting a Memoji.
 * 4) Notice that during FaceTime, your face has been replaced by your living and breathing Memoji.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/06/memoji-its-alive.jpeg)
-* There’s no doubt iOS 12 Memoji will find an audience and it will be interesting to see how the tool improves over the coming months and years.
-* Memoji, like the rest of iOS 12, remains a work in progress during the iOS 12 beta period. Between now and when iOS 12 is released to the public this fall, details may change. As they do, we’ll update and expand this post.
+* There’s no doubt Memoji will find a quick audience and it will be interesting to see how the tool improves in the future. What do you think of Memoji?
 

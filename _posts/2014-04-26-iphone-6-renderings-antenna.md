@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Case maker's iPhone 6 renderings show thin design, rear antenna cutouts
+title: Case makers iPhone 6 renderings show thin design, rear antenna cutouts
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/iphone6casingrender.jpg)
 * A new set of alleged ‘iPhone 6’ renderings surfaced online yesterday. The images come from Ukrainian website UkrainianiPhone, and the device depicted in them matches up with most everything we’ve seen thus far on the handset, including its relocated Sleep/Week button and circular iSight flash.

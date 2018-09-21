@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's legal chief joins ski resort board
+title: Apples legal chief joins ski resort board
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/sewell.png)
 * Who knew Apple’s legal honcho was also a ski bum? Bruce Sewell, the iPhone maker’s General Counsel and Senior Vice President, becomes the latest Apple executive to join an outside board of directors.

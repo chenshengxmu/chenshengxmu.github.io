@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dr. Dre seemingly confirms Apple's Beats deal
+title: Dr. Dre seemingly confirms Apples Beats deal
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/Dr-Dre-Beats-001.jpeg)
 * The Financial Times newspaper yesterday reported that Apple is in the final stages of negotiating a $3.2 billion acquisition of Beats Electronics, a startup behind the recently unveiled Beats Music streaming service and the maker of premium headphones and assorted audio accessories.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Incipio's Cashwrap NFC iPhone case now available to Verizon customers
+title: Incipios Cashwrap NFC iPhone case now available to Verizon customers
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/Incipio-Cashwrap-Mobile-Walllet-Now-Available-at-Verizon.png)
 * Case maker Incipio two weeks ago announced its new iPhone case, the Cashwrap. It brings mobile wallet functionality to the iPhone 4/4s/5/5s by incorporating NFC technology. The case is compatible with the carrier-backed Isis Mobile Wallet app which makes it possible to pay with your device at participating retailers, mass transit systems and more, using an Iris account.

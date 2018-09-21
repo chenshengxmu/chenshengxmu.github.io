@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Qualcomm backtracks on '64-bit A7 is a marketing gimmick' claims
+title: Qualcomm backtracks on 64-bit A7 is a marketing gimmick claims
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/Apple-A7-chip-Secure-Enclave-001.jpg)
 * Last week, Qualcomm’s CMO Anand Chandrasekher made headlines for comments he made during an interview regarding Apple’s new A7 processor. He called the chip a ‘marketing gimmick,’ and said 64-bit holds no real benefit for users.

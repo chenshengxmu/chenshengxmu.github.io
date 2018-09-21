@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bloomberg says iTunes will receive major makeover by year's end
+title: Bloomberg says iTunes will receive major makeover by years end
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/07/iTunes-Graphite_512x512.png)
 * Late last year, we reported that Apple was preparing to give iTunes its first major overhaul in 10 years. The update would come in the form of iTunes 11, and feature a revamped UI and deeper iCloud integration.

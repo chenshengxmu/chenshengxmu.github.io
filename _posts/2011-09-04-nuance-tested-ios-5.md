@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nuance's Speech-to-Text Functionality Currently Being Tested in iOS 5
+title: Nuances Speech-to-Text Functionality Currently Being Tested in iOS 5
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/thisnuance.png)
 * Remember that Nuance speech-to-text feature that everyone’s been so excited about ? A new photo sent to 9t05Mac by a claimed Apple employee appears to confirm its existence, and more importantly, that it’s being tested right now as part of iOS 5.

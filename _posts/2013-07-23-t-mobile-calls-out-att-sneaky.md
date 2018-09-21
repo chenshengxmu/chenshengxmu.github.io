@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile calls out AT&T for being 'sneaky and underhanded'
+title: T-Mobile calls out AT&T for being sneaky and underhanded
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/T-Mobile-sign-web.jpg)
 * It seems like it’s ‘pick on AT&T week,’ because shortly after a report surfaced that Verizon was running an ad in The Wall Street Journal calling the carrier out for its ‘most reliable network’ claims, comes word that T-Mobile is going to run a similar print spot.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: From bendgate to botched iOS 8.0.1 update- everything about Apple's rough week
+title: From bendgate to botched iOS 8.0.1 update- everything about Apples rough week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/iDB-Top-Stories-of-the-Week-banner.png)
 * Like every Sunday, we get to take a look at some of the most popular posts that were published on iDB during the week that just ended. Whether it is a news item, a new jailbreak tweak, a tutorial, or an app review, we sum it all up in one convenient place for you.

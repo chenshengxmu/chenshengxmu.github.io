@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPad mini 3's 'hastily glued' Touch ID Home button makes screen repairs difficult
+title: iPad mini 3s hastily glued Touch ID Home button makes screen repairs difficult
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/iPad-mini-3-iFixit-teardown-important-bits.jpeg)
 * Following their analysis of the iPad Air 2’s innards, repair experts over at iFixIt have now perfumed their ritual teardown dance with Apple’s iPad mini 3. As you know, the iPad mini 3 is basically the iPad mini 2 with the addition of Touch ID and a gold color option so there isn’t much to be analyzed here.

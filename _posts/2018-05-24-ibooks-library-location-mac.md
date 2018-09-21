@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Where are iBooks stored on your Mac? Here's your iBooks library location.
+title: Where are iBooks stored on your Mac? Heres your iBooks library location.
 ---
 * iTunes makes it a cinch to select a custom path for your music library and browse the media files, but finding the iBooks library location is a different story. So, where exactly are your electronic iBooks stored on your Mac?
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/05/iBooks_library_location_mac_004.jpg)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Angela Ahrendts was highest-paid female executive in the US last year
+title: Apples Angela Ahrendts was highest-paid female executive in the US last year
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/Angela_Ahrendts_2.jpeg)
 * Angela Ahrendts, Apple’s recently-hired senior vice president of retail and online stores, was the highest-paid female executive in the United States last year. According to data compiled by Bloomberg, Ahrendts was awarded $82.6 million in 2014, including a sign-on bonus and a make-whole grant for money she left on the table at Burberry.

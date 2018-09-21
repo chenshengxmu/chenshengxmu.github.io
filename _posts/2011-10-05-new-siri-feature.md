@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's New Siri Feature is Much More Than Simple Voice Commands
+title: Apples New Siri Feature is Much More Than Simple Voice Commands
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/siri_tap.jpg)
 * As expected, one of the stars of Apple’s iPhone event yesterday was its new Siri feature. The project, which the rumor mill dubbed Assistant, materialized on stage as a digital personal assistant for future iPhone users.

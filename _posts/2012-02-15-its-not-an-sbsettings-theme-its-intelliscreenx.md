@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This is not an SBSettings theme, it's IntelliScreenX
+title: This is not an SBSettings theme, its IntelliScreenX
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/Its-Not-SBSettings-Its-IntelliScreenX-Screenshot.jpg)
 * Everyone seems to love my SBSettings theme, hence I get around the neighborhood of 100 inquiries per day asking how to acquire it.

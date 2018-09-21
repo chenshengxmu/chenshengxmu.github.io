@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple working with Sesame Workshop to develop kids' programming
+title: Apple working with Sesame Workshop to develop kids programming
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/06/sesame.png)
 * Apple is getting into children’s programming, reports Variety. The outlet says that the company has inked a multi-series deal with Sesame Workshop, the nonprofit educational organization behind “Sesame Street” that has won countless awards over its 50-year history.

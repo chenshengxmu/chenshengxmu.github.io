@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple prevails in UK's Samsung 3G suit
+title: Apple prevails in UKs Samsung 3G suit
 ---
 * Apple scored another legal victory against rival Samsung. In a UK court, a judge Wednesday ruled that the iPhone maker does not infringe patents held by the South Korean-based Android smartphone manufacturer. The court’s decision marks more than two-dozen failed attempts by Samsung to claim it is owed royalties on standard-essential patents.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/apple-samsung.jpg)

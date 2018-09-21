@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple under pressure to enable iPhone's FM radio [U- Apple says new iPhones lack FM chips]
+title: Apple under pressure to enable iPhones FM radio [U- Apple says new iPhones lack FM chips]
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/iPhone-8-Glass-Body.jpg)
 * The fact that the wireless modem found in every iPhone features built-in FM radio capabilities that are intentionally disabled in software is getting some renewed attention following the strong hurricane season in the United States.

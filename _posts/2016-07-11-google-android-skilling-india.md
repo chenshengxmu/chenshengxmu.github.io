@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google wants to beat Apple to attracting India's developer talent
+title: Google wants to beat Apple to attracting Indias developer talent
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/07/Google-Android-Skilling-India-map.png)
 * Apple is opening a new facility in India early next year, aimed at improving the skills and success of Indian developers building iOS applications, and now Google hopes to do the same for Android. In introducing a new initiative this morning, called Android Skilling, Google hopes to beat Apple to attracting India’s developer talent to Android.

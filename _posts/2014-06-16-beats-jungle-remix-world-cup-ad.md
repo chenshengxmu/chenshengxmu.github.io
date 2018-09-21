@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beats airs "Jungle" remix of World Cup ad
+title: Beats airs Jungle remix of World Cup ad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/Beats-World-Cup-ad-Neymar-002.png)
 * After posting a five-minute World Cup commercial – basically an ode to soccer, its headphones and the iPhone 5s – Beats on Monday released a shorter version of the “The Game Before The Game” ad.

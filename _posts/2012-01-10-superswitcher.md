@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SuperSwitcher- Supercharge Your iPhone's App Switcher
+title: SuperSwitcher- Supercharge Your iPhones App Switcher
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/SuperSwitcher-e1326210684588.jpg)
 * Apple’s App Switcher is a bit on the anemic side when it comes to features. Proof of that comes from the wasted real estate that sits above of your App Switcher just dying to be utilized.

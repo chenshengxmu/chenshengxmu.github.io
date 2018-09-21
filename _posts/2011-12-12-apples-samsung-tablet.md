@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Apple Thinks Samsung's Tablet Should Have Looked Like
+title: What Apple Thinks Samsungs Tablet Should Have Looked Like
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/ipad-galaxy-tab.jpg)
 * A little over a week ago, court documents surfaced regarding the ongoing patent war between Apple and Samsung. The two companies have been locked in courtroom battles all over the world since Apple filed its trademark infringement suit earlier this year.

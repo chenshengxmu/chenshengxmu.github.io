@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What's that mystery chip in your iPhone X?
+title: Whats that mystery chip in your iPhone X?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/iPhone_X_mystery_chip_iFixit_002.jpg)
 * Your iPhone X has a “mystery chip” under its hood, according to repair experts at iFixit.

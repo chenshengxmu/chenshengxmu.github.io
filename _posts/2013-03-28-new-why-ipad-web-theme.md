@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple rolls out new 'Why iPad' web campaign
+title: Apple rolls out new Why iPad web campaign
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/why-ipad-banner.png)
 * Hot on the heels of its recently launched ‘Why iPhone’ web campaign, Apple has rolled out a similar advertising theme for its iPad. And as before, it showcases a number of reasons why the tablet has been so popular.

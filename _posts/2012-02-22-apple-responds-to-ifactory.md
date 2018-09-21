@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple responds to ABC's iFactory documentary
+title: Apple responds to ABCs iFactory documentary
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/factory.jpg)
 * In a special edition of ABC’s Nightline program last night, correspondent Bill Weir traveled to Apple’s main manufacture, Foxconn, to get an inside look at working conditions inside of the plant. During the program, Weir showed workers working on the assembly line, the dormitories they live in, and more.

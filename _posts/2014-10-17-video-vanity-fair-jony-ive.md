@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You can now watch Jony Ive's full Vanity Fair interview online
+title: You can now watch Jony Ives full Vanity Fair interview online
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/ive-interview.png)
 * Earlier this month, Apple SVP Jony Ive participated in a brilliant on stage interview at Vanity Fair’s New Establishment Summit in San Francisco. The design chief talked about a wide range of topics, including Apple’s design process and his thoughts on copycats.

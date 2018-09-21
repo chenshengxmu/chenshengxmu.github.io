@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blizzard's upcoming Hearthstone- Heroes of Warcraft has entered open beta, download now
+title: Blizzards upcoming Hearthstone- Heroes of Warcraft has entered open beta, download now
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/Hearthstone-teaser-003.jpg)
 * Games maker Blizzard Entertainment, currently a subsidiary of Activision Blizzard, has just posted a downloadable beta of its upcoming Warcraft-themed free-to-play strategy card game, titled Hearthstone: Heroes of Warcraft. It’s been in closed beta since August of last year.

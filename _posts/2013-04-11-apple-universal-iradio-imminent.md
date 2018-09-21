@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple to sign Universal on iRadio next week, agrees to rates 'neck and neck' with Pandora
+title: Apple to sign Universal on iRadio next week, agrees to rates neck and neck with Pandora
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iTunes-11-three-up-MacBook-iPhone-iPad.jpg)
 * Another piece of the puzzle has fallen into place as a new report sourced from multiple people familiar with the matter claims that an agreement between Apple and Universal Music on iRadio is “imminent.” History teaches us it only takes one major record until others others eventually back Apple’s rumored Pandora-like streaming music service. Besides, Universal Music is the largest record label in the world. Warner Music is “right behind,” though negotiations with Sony reportedly are not as far along…

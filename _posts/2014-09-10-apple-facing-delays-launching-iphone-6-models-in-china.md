@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple facing delays launching iPhone 6 models in China, still hasn't gained approval
+title: Apple facing delays launching iPhone 6 models in China, still hasnt gained approval
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/Screen-Shot-2014-09-10-at-10.41.57-PM.png)
 * Apple informed the top-three carriers in China on Wednesday it would not be offering the iPhone 6 and iPhone 6 Plus on September 19, leaving them caught off-guard, the New York Times reported. China is seen as the company’s fastest growing market, so it’s definitely an odd move, as China Mobile, China Unicom, China Telecom and customers in the area are eagerly awaiting the launch alongside the US and other countries worldwide.

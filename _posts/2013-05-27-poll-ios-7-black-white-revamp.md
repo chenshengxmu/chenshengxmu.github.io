@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Poll- who's excited about black & white iOS 7 facelift?
+title: Poll- whos excited about black & white iOS 7 facelift?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/Winterboard-theme-iOS-86-Anton-Repponen-002.jpg)
 * If you’ve been following Apple stories lately, chances are you came across a news piece last week that calls for a black and white iOS 7 redesign.

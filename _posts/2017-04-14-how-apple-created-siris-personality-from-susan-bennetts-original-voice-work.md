@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Apple created Siri's personality from Susan Bennett's original voice work
+title: How Apple created Siris personality from Susan Bennetts original voice work
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/Siri-Waveform.png)
 * Voice actress Susan Bennett revealed tidbits about becoming the voice of Siri in an interview with CNN back in October 2013.

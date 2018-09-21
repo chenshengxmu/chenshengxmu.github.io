@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Law firm moving forward with class action lawsuit over 'Error 53' iPhone bricking
+title: Law firm moving forward with class action lawsuit over Error 53 iPhone bricking
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/iPhone-6-space-gray-Touch-ID.png)
 * Seattle-based law firm Pfau Cochran Vertexes Amala (PCVA) has decided to follow through with plans to drag Apple to court over software safeguards in iOS which have been specifically designed to render iPhone 6 and iPhone 6 Plus handsets inoperable after unauthorized Touch ID and Home button repairs.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Suppliers ramping up hiring ahead of iPhone 7, which has 'more complex' design
+title: Suppliers ramping up hiring ahead of iPhone 7, which has more complex design
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/05/foxconn.jpg)
 * Apple’s Taiwanese suppliers have kicked off the recruiting process in preparation for an ‘iPhone 7’, CNBC reported Tuesday citing Economic Daily News. The mass-hirings have started earlier than usual because the iPhone 7 design is said to be “more complex than previous models,” which meant that Apple’s suppliers needed to start work on iPhone 7 parts earlier than on previous iterations.

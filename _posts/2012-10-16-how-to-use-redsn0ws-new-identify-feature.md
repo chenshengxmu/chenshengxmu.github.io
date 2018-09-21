@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to use RedSn0w's new Identify feature
+title: How to use RedSn0ws new Identify feature
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/Identify-RedSn0w.jpg)
 * As you know, RedSn0w 0.9.15b1 was a pretty significant upgrade over its predecessor. One of the new features that has sort of flown under the radar is the new Identify feature, which is buried in the Extras > Even more options.

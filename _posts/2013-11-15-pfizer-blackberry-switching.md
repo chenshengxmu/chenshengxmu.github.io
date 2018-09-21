@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Due to 'volatile state,' Pfizer tells staff to ditch BlackBerry for iPhone and Android
+title: Due to volatile state, Pfizer tells staff to ditch BlackBerry for iPhone and Android
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/pfizer_logo_detail.gif)
 * Earlier this month, BlackBerry announced plans to receive an investment worth over $1 billion in the form of a debt sale and to fire its CEO Thorsten Heins. Instead of sell out, the company has decided to try and rebuild.

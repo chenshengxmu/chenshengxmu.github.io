@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MacID's 'Tap to Unlock' makes logging into your Mac even faster
+title: MacIDs Tap to Unlock makes logging into your Mac even faster
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/LWScreenShot-2016-01-08-at-2.39.58-AM.png)
 * Probably one of my most-used applications on my Mac is MacID, which I use on a daily basis to unlock my Mac without ever using the keyboard to enter a password. The application works in two ways – these include allowing you to use your iPhone or iPad’s Touch ID sensor to log into your Mac, or using a secret ‘Tap to Unlock’ gesture on the multi-touch trackpad (or Magic Trackpad/Magic Trackpad 2) to log into your Mac.

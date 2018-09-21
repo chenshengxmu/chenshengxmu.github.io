@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Former VP calls iTV an 'enduring fantasy'
+title: Former VP calls iTV an enduring fantasy
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/iTV-on-wall-mockup.jpeg)
 * As big shot analysts and Hollywood execs continue to argue whether or not Apple might ever build a standalone television set, people privy to the inner workings of Silicon Valley’s technology darling are not as convinced as the general public appears to be. Former Apple vice president Jean-Louis Gassée took to his blog to offer his take on Tim Cook’s recent comments in an NBC interview about television being an “area of intense interest” for Apple. He calls the mythical iTV an “enduring fantasy” and opines why the Apple TV set-top box is the only Apple television you’ll ever need…

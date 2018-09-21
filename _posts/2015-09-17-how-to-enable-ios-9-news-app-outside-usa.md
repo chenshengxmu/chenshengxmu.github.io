@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to enable iOS 9 News app if you're outside US
+title: How to enable iOS 9 News app if youre outside US
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/07/apple-news-2.png)
 * Among other things, iOS 9 adds four new non-removable apps to your Home screen, one of them called News and the other three being iCloud Drive, Find My iPhone and Find My Friends.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DisabledNC Switch' disables Notification Center in full screen apps
+title: DisabledNC Switch disables Notification Center in full screen apps
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/DisableNC-Switch.jpg)
 * Don’t you just hate it when you’re in the middle of playing a game and you accidentally invoke Notification Center?

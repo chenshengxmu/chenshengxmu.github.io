@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Federighi allegedly confirms there will be no Mac event in October
+title: Apples Federighi allegedly confirms there will be no Mac event in October
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/WWDC-2017-imac-pro.jpg)
 * Apple has no plans whatsoever to hold a media event this month to introduce new products or update existing ones, shooting down speculation that the company might be holding a Mac-centric product event in October as it did in years past.

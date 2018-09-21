@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Consumer Reports- We Can't Recommend the iPhone 4
+title: Consumer Reports- We Cant Recommend the iPhone 4
 ---
 * We knew the iPhone 4 had some serious antenna issues. The reason? We’re holding it wrong, or at least that’s what Apple is telling us.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/07/Consumer-Reports-Cant-Recommend-iPhone-4.jpg)

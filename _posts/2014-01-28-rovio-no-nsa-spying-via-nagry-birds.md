@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rovio denies wrongdoing in NSA's snooping of Angry Birds players, but...
+title: Rovio denies wrongdoing in NSAs snooping of Angry Birds players, but...
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/Rovio-teaser-001.jpg)
 * A report yesterday by The New York Times and other news organizations has provided yet another unsettling glimpse into the NSA’s wide-ranging surveillance practices.

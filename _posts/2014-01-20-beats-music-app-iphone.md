@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beats launches 'Music' streaming service for $10 a month, iPhone app now available
+title: Beats launches Music streaming service for $10 a month, iPhone app now available
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/beats.jpg)
 * As promised, Beats launched its highly anticipated ‘Music’ service this morning, bringing the headphone-maker into the highly competitive world of streaming audio. And with a library of around 20 million songs available for on-demand play, it’s certainly built to take on the competition.

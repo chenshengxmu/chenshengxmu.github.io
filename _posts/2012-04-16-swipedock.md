@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to hide your dock with 'SwipeDock'
+title: How to hide your dock with SwipeDock
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/SwipeDock-Screenshot.jpg)
 * SwipeDock is a new jailbreak tweak available on Cydia’s BigBoss repo that allows you to hide your dock with a swipe.

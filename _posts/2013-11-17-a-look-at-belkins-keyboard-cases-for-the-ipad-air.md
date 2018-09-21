@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A look at Belkin's Keyboard Cases for the iPad Air
+title: A look at Belkins Keyboard Cases for the iPad Air
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/Belkin-Ultimate-Keyboard-Case-iPad-Air.png)
 * A few days ago, two of Belkin’s flagship iPad accessories arrived at my office — the soft touch QODE Slim Style Keyboard Case, and the anodized aluminum coated QODE Ultimate Keyboard Case.

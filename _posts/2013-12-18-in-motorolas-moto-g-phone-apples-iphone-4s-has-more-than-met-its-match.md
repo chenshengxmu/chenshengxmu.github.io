@@ -1,6 +1,6 @@
 ---
 layout: post
-title: In Motorola's Moto G phone, Apple's iPhone 4S has more than met its match
+title: In Motorolas Moto G phone, Apples iPhone 4S has more than met its match
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/white-iPhone-4s.jpg)
 * Apple has a problem. It’s not a problem that pertains to its high-end iPhone 5s, and it’s not even a problem with the mid-range, somewhat superfluous iPhone 5c. It’s actually the iPhone 4S that is an issue for Apple. Sitting at the bottom of the company’s smartphone range and being offered for peanuts if not free, the iPhone 4S was previously thought of as a rather capable budget handset. And it still is.

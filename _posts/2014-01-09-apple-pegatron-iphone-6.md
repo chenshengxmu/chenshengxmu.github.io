@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pegatron expected to land half of Apple's iPhone 6 orders
+title: Pegatron expected to land half of Apples iPhone 6 orders
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/pegatron.jpeg)
 * For it only being January, there sure has been a lot of information tossed about regarding the next-gen iPhone. Insiders claim to know what size the display will be, what kind of camera it’ll have, and even who is going to make it.

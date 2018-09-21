@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's iOS is the 3rd Most Popular Internet Platform
+title: Apples iOS is the 3rd Most Popular Internet Platform
 ---
 * Have you ever wondered how popular iOS devices are amongst internet plaforms? Well you can stop wondering because Computer World has the details that show Apple’s operating system is currently 3rd amongst all platforms.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/09/ios1.jpg)

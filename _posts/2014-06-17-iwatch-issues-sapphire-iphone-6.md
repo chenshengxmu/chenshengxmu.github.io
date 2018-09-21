@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rumors- power draw issues plaguing iWatch, sapphire screen exclusive to 5.5" iPhone 6
+title: Rumors- power draw issues plaguing iWatch, sapphire screen exclusive to 5.5 iPhone 6
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/iwatch-rolex-2.jpg)
 * It was just yesterday that analyst Matt Margolis speculated that Apple and its manufacturing partner GT Advanced – which operates a sophisticated sapphire plant in Arizona – can produce enough sapphire glass for both iPhone 6 models and now comes word that’s not really the case.

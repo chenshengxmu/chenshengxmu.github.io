@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Intertubes respond to Apple's imminent keynote with parody videos
+title: Intertubes respond to Apples imminent keynote with parody videos
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/iPhone-5S-keynote-trailer-001.jpg)
 * As we count the remaining minutes until Apple’s iPhone 5S/5C keynote (85 minutes left and counting), the blogosphere has spent the last 48 hours putting together some downright amusing parody videos (not mentioning a few in really bad taste).

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook reportedly in talks with Google's Larry Page over patents
+title: Tim Cook reportedly in talks with Googles Larry Page over patents
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/cook-and-page-e1346353763431.png)
 * If you’re getting as tired of all of the patent lawsuits as we are, then you’ll happy to hear that Google and Apple have opened the lines of communications regarding intellectual property matters.

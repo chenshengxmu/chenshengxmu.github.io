@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HapticScroll gives you haptic feedback when you scroll beyond iOS' scrolling limits
+title: HapticScroll gives you haptic feedback when you scroll beyond iOS scrolling limits
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/HapticScroll-Header.png)
 * Some of the more visually appealing parts of iOS that I have always liked are those fluid bouncy animations you get when you over-scroll and end up hitting the bottom of a pane. This is particularly noticeable in apps like Safari or Settings, where scrolling too far gives you the bounce effect.

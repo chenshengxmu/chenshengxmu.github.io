@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Phil Schiller comments on Apple's rejection of Valve's Steam Link app
+title: Phil Schiller comments on Apples rejection of Valves Steam Link app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/steam.jpg)
 * Just days after Apple rejected Valve’s Steam app for iOS, Phil Schiller has responded to a customer’s email on the subject. In his message, Apple’s senior vice president of Worldwide Marketing provides insight on why the app wasn’t accepted while also suggesting the decision could be reversed.

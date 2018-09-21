@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hands-on with Libratone's AirPlay 2 speaker and Track+ wireless headphones at CES 2018
+title: Hands-on with Libratones AirPlay 2 speaker and Track+ wireless headphones at CES 2018
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/Libratone-Zipp-AirPlay-2-Speaker.jpg)
 * Libratone was on hand at CES 2018 showing off their flagship speaker that will be gaining support for Alexa and AirPlay 2, as well as their new pair of wireless headphones, the Track+.

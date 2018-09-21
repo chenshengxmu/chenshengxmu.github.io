@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Translate's augmented reality feature, Word Lens, now works with Japanese
+title: Google Translates augmented reality feature, Word Lens, now works with Japanese
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/01/Google-Translate-for-iOS-Japanese-Word-Lens.png)
 * In addition to updating the Popular Times feature in Google Maps for iPhone and iPad with real-time data, the search giant also issued another noteworthy update, this one concerning its dedicated Translate app on App Store. Bumped to version 5.5, the free download can now translate photos of signs, menus and similar items from Japanese to English, and vice versa. That’s because its augmented reality feature, called Word Lens, has been updated to recognize Japanese content on photos and video.

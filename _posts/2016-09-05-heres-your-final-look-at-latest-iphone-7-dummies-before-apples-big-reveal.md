@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's your final look at latest iPhone 7 dummies before Apple's big reveal
+title: Heres your final look at latest iPhone 7 dummies before Apples big reveal
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/iPhone-7-dummies-DetroidBORG-leak-003.jpg)
 * Tech reviewer Michael Kukielka aka DetroidBORG recently published a quick preview of what the iPhone 7 and iPhone 7 Plus are probably going to look like when they’re announced this Wednesday. The video on his YouTube channel actually compares high-quality iPhone 7 dummies that are mostly based on rumor-mill reporting. Now, I know we’ve posted our fair share of these mockups in past months.

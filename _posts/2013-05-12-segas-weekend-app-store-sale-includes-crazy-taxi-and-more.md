@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SEGA's weekend App Store sale includes Crazy Taxi and more
+title: SEGAs weekend App Store sale includes Crazy Taxi and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/sega-logo.jpg)
 * SEGA has been known to put its iOS apps on sale every once in a while, and this weekend is one such occasion, with three of the Japanese company’s games having a couple of dollars slashed from their App Store price.

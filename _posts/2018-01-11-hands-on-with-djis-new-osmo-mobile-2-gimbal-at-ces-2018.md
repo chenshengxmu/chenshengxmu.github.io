@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hands-on with DJI's new Osmo Mobile 2 gimbal at CES 2018
+title: Hands-on with DJIs new Osmo Mobile 2 gimbal at CES 2018
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/DJI-Osmo-Mobile-2-1.jpg)
 * DJI has given a major upgrade to their popular Osmo Mobile gimbal, fixing many (if not all) of the pain points from the first generation. We went hands-on to see how it held up.

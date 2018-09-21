@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Infinity Blade III video posts ahead of next week's release
+title: New Infinity Blade III video posts ahead of next weeks release
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/infinity_blade_3.0_cinema_640.0-e1379104268642.jpg)
 * Chair has today posted a new video teasing its upcoming Infinity Blade III title, the third installment in the developer’s popular hack-and-slash series. The game first debuted during Apple’s iPhone event on Tuesday, where it demonstrated the power of the A7.

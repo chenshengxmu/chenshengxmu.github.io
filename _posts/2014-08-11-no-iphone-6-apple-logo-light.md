@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No, iPhone 6's embedded Apple logo won't serve as notification light (bonus- new leaked parts)
+title: No, iPhone 6s embedded Apple logo wont serve as notification light (bonus- new leaked parts)
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/iPhone-6-Apple-logos-001.jpg)
 * Several photographs of claimed iPhone 6 parts have led Apple bloggers to frantically speculate that a logo cutout on the rear would allow for a MacBook-style illumination serving as a notification light of sorts for missed calls, important messages and what not.

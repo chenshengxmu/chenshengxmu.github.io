@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amazon's Apple TV app may not be finished in time for September event
+title: Amazons Apple TV app may not be finished in time for September event
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/10/Apple-TV-Siri-Remote-in-hand-image-004.jpg)
 * Amazon’s upcoming Prime Video streaming app for the fourth-generation Apple TV was announced at WWDC as coming later this year, but it’s now looking increasingly unlikely that the software will be ready in time for Apple’s expected September 12 media event.

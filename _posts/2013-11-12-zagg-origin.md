@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ZAGG's Origin wireless speaker combo [review and giveaway]
+title: ZAGGs Origin wireless speaker combo [review and giveaway]
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/ZAGG_28_NOV_098-Edit.jpg)
 * The Bluetooth speaker is making its way as a universal speaker for all mobile devices. As I mentioned in a previous Bluetooth speaker round up just last week, it appears more companies are entering the Bluetooth speaker marketplace. Also, it seems fewer companies are producing dock based speakers. After Apple turned the iPhone dedicated aftermarket upside down by eliminating the 30 pin cable, fewer companies want to continue chancing a Lightning pin specific option. With the universal Bluetooth standard, not only does the company future proof their design, but all mobile devices will work effortlessly, thus preventing costly dedicated iPhone models.

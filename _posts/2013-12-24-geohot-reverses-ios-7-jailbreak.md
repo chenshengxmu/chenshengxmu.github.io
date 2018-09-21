@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Geohot says 'nothing sketchy' found in reversing evasi0n7 jailbreak
+title: Geohot says nothing sketchy found in reversing evasi0n7 jailbreak
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/geohot-xiaomi.jpg)
 * It’s been an interesting couple of days in the jailbreak world. Not only did the evad3rs surprise everyone with an iOS 7 jailbreak early Sunday morning, but there was all this drama surrounding the release which included a new app store and the resurfacing of Geohot.

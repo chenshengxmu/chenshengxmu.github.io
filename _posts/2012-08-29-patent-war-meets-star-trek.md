@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's patent war meets Star Trek in this parody video
+title: Apples patent war meets Star Trek in this parody video
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/star-trek-enterprise.png)
 * Despite Apple’s clear court victory last week, ultimately proving its theory that Samsung crossed the line with its iPhone and iPad copying, the Cupertino company is still taking heat from critics.

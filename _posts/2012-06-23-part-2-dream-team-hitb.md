@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Watch part 2 of the Dream Team's HITB talk
+title: Watch part 2 of the Dream Teams HITB talk
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/dream-team.jpg)
 * Yesterday, we showed you part one of the Dream Team’s talk at this year’s Hack In The Box conference. The section covered the exploits that were used in Corona, and other A4 jailbreak details.

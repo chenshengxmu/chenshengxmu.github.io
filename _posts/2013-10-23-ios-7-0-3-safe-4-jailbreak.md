@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yes, it's safe for jailbreak hopefuls to update to iOS 7.0.3
+title: Yes, its safe for jailbreak hopefuls to update to iOS 7.0.3
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/ios-7-cydia.png)
 * Following its big iPad event yesterday, Apple seeded iOS 7.0.3 to the public. While there are no major new features in the update, it does include several fixes for issues like iMessage, inaccurate sensor data, and more.

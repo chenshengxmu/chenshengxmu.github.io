@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pegatron allegedly landed orders to build Apple's rumored ARM MacBook
+title: Pegatron allegedly landed orders to build Apples rumored ARM MacBook
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/04/iMac-MacBook-Pro-Air-family-image-001.jpg)
 * Contract manufacturer Pegatron has been allegedly tipped to land orders from Apple to produce its rumored hybrid ARM-based MacBook model, according to industry sources mentioned today in a report by Taiwanese trade publication DigiTimes.

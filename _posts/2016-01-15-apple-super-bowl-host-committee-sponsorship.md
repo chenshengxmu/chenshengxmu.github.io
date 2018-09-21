@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple confirms it's become official sponsor of Super Bowl Host Committee
+title: Apple confirms its become official sponsor of Super Bowl Host Committee
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/Apple-ad-1984.png)
 * Friday, Apple confirmed to Daniel Roberts at Yahoo Finance that it’s signed up for the first time to become a sponsor of the Super Bowl Host Committee.

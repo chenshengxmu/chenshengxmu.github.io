@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Warner's new iOS app streams paid TV shows the day after airing in the US
+title: Warners new iOS app streams paid TV shows the day after airing in the US
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/Day-After-US-for-iOS-iPad-screenshot-001.jpg)
 * Aptly named Day After US, a new mobile application for iPhones and iPads by Warner Bros. brings you the goodness of the studio’s prime television shows, provided you can wait 24 hours after the episodes aired on television. A free download from the App Store, it works natively on any iPhone, iPod touch and iPad with iOS 4.3 or later. You can download individual episodes directly to your device over Wi-Fi for offline viewing. Warner Bros. is throwing in the first episode of each show free of charge. Want more? Have your credit card handy…

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Store goes offline ahead of today's “Hello again” Mac event
+title: Apple Store goes offline ahead of todays “Hello again” Mac event
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/Apple-Event-October-2016-online-store-down-web-screenshot-001.png)
 * Like clockwork, Apple has taken its online stores around the world offline ahead of today’s “Hello again” Mac event, which kicks off with a keynote at 10am PT / 1pm ET at Town Hall on the Cupertino campus. iDownloadBlog will be providing remote live coverage of the announcements as they happen.

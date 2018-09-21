@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 11's Camera app could finally let you pause and resume video recording
+title: iOS 11s Camera app could finally let you pause and resume video recording
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/iPhone-7-plus-back-large-camera.jpg)
 * It irks me a lot to think that Apple’s Camera app for iPhone and iPad still lacks the Pause and Resume features when shooting video. That being said, Apple could address this glaring omission in the coming weeks, as first noted by iOS developer Daniel Niyazov.

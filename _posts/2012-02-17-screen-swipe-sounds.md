@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Screen Swipe Sounds' adds sound effects when swiping between pages
+title: Screen Swipe Sounds adds sound effects when swiping between pages
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/Screen-Swipe-Sounds.jpg)
 * It’s sure to be a battery drainer, but for those looking for sound effects while swiping between screens, Screen Swipe Sounds is an interesting solution.

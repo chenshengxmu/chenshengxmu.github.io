@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yoobao's Executive Smart Cover for iPad Air 2 has an elegant look
+title: Yoobaos Executive Smart Cover for iPad Air 2 has an elegant look
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/07/Yoobao-Executive-Smart-Cover-iPad-Air-2.jpg)
 * When stepping out with your iPad Air 2, you may want to go natural and show off the beautiful design that Apple is known for. Or, you may want to protect your investment while still keeping a classy look.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You'll soon be able to download a copy of your Apple ID data
+title: Youll soon be able to download a copy of your Apple ID data
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/04/Screen-Shot-2016-04-19-at-1.19.48-AM-e1522356693204.png)
 * Apple is revamping its privacy controls to comply with new European law, as per Bloomberg.

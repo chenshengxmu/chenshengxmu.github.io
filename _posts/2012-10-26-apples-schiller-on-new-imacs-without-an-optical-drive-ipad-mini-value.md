@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Schiller on new iMacs without an optical drive, iPad mini value
+title: Apples Schiller on new iMacs without an optical drive, iPad mini value
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/Phil-Schiller-iPad-mini-keynote-iMac-on-pedestal-001.jpg)
 * Like his boss Tim Cook, Apple’s head honcho of worldwide marketing Phil Schiller is doing some explaining these days. After the iPad mini arrived and surprised folks who’ve been holding their breath for a $199 iPad, he sat with Reuters to explain that Apple doesn’t know how to make a $199 tablet that isn’t a piece of junk.

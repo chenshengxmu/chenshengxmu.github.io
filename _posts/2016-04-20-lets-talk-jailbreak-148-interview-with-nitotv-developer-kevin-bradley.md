@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's Talk Jailbreak 148- Interview with nitoTV developer Kevin Bradley
+title: Lets Talk Jailbreak 148- Interview with nitoTV developer Kevin Bradley
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/Lets-Talk-Jailbreak-banner.png)
 * Today we have a slightly different show for you with a slightly different format. We actually have Kevin Bradley also known as nitoTV on the show. I sat down for a few minutes with Kevin and chatted a little bit about the recent Apple TV jailbreak and the release of nitoTV. I want to warn you that the sound quality is not that great. It’s actually pretty bad at times, but I hope you will enjoy this episode of LTJ nonetheless. And now, without further ado, Kevin Bradley.

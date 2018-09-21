@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's rescheduled earnings call could hint at unveiling of new Macs around October 27
+title: Apples rescheduled earnings call could hint at unveiling of new Macs around October 27
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/macbook-pro-oled-1.jpg)
 * Apple originally told investors it would be publicizing its quarterly earnings report on Thursday, October 27.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Watch ABC's documentary "A Trip to The iFactory"
+title: Watch ABCs documentary A Trip to The iFactory
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/Foxconn-Workers.jpg)
 * Yesterday ABC aired a documentary called “A Trip to The iFactory” where they tried to depict the conditions Chinese workers at Foxconn have to live in.

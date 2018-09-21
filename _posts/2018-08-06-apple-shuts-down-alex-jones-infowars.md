@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple scrubs nearly all of Alex Jones' Infowars shows over hate speech, others follow suit
+title: Apple scrubs nearly all of Alex Jones Infowars shows over hate speech, others follow suit
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/Alex-Jones-screaming.jpg)
 * Apple has scrubbed nearly all of the “Infowars“ podcasts by Alex Jones from both desktop iTunes and the Podcast app for iPhone and iPad, prompting the likes of Facebook, Spotify and YouTube to also take action against the popular conspiracy theorist.

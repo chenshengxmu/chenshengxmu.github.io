@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Woz speaks up on Microsoft's Surface tablet
+title: The Woz speaks up on Microsofts Surface tablet
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/Steve-Wozniak-holds-white-iPhone-4.jpg)
 * The outspoken Apple co-founder Steve Wozniak usually has an opinion on many things, be it Siri and her reliance on a network connection, Facebook IPO (he said he’d invest regardless of opening price), patent war fallout, the iPhone 4S battery life and Android march and what not.

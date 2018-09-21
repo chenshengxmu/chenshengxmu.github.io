@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Saurik releases Cydia Impactor to "unjailbreak" your iPhone without updating iOS
+title: Saurik releases Cydia Impactor to unjailbreak your iPhone without updating iOS
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/07/Cydia-Impactor-Icon.png)
 * A powerful new tool has just been released for jailbreakers to “unjailbreak”. It’s called Cydia Impactor, and it’s an on-device tool that lets you remove and revert all changes made to a device to return it to its stock configuration.

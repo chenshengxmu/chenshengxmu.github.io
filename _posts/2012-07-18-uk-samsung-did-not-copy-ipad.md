@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UK judge forces Apple to publicly state Samsung didn't copy iPad design
+title: UK judge forces Apple to publicly state Samsung didnt copy iPad design
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/iPad-3-white-flat-finger-on-Safari.jpg)
 * What goes around comes around. Following a ruling by a United Kingdom court earlier in the month stating that Samsung’s Galaxy tablets did not rip off the iPad’s design because “they are not as cool” (yeah, it’s exactly how the court put it), Judge Colin Birss today ordered that Apple publicize Samsung did not copy the iPad’s design for its Galaxy Tab tablet.

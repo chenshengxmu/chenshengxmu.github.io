@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Asphalt 8- Airborne' free for the weekend
+title: Asphalt 8- Airborne free for the weekend
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/Asphalt-8-Airborne-screenshot-007.jpg)
 * Great news gamers! Gameloft has made its recently-released ‘Asphalt 8: Airborne’ game free for a limited time. The developer made the announcement yesterday via its Twitter account, saying that the title would be free through the weekend.

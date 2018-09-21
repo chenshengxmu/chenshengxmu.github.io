@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hacked AT&T carrier update could improve your device's network performance
+title: Hacked AT&T carrier update could improve your devices network performance
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/iphone-lte1.png)
 * Last week, a hacked carrier update surfaced for T-Mobile subscribers that promises to increase the cellular data speeds of the iPhone 5. It claims to pull this off by increasing the handset’s bandwidth supply, allowing for “better throughput of data.”

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's VP of iPad and Mac operations retires
+title: Apples VP of iPad and Mac operations retires
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/Apple-Rita-Lane-LinkedIn-retired.png)
 * Apple has lost one of its key iPad and Mac executives, Rita Lane, who has retired from the company, according to her public LinkedIn profile highlighted by Mark Gurman of 9to5Mac. Her role at Apple as Vice President of Operations was a significant one.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Popular golf arcade game 'Golden Tee' coming to iOS this summer
+title: Popular golf arcade game Golden Tee coming to iOS this summer
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/golden-tee.jpg)
 * Golden Tee fans rejoice, Incredible Technologies is bringing the popular arcade golf game to iOS this year. As noted by TouchArcade, the team has been quietly showing off a demo version of the game at this year’s Game Developers Conference (or GDC).

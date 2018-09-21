@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New assistant app 'Donna' promises you'll never be late again
+title: New assistant app Donna promises youll never be late again
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/donna-1.png)
 * Watch out Siri, there’s a new digital assistant on iOS and she is causing quite a bit of commotion. Her name is Donna, and she is billed as a virtual secretary that helps you manage your day with smart notifications, an anticipatory calendar, and in-app directions.

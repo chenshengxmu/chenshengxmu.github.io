@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rumor- iPhone 6 to adopt Sony's 13-megapixel Exmor IMX220 camera sensor
+title: Rumor- iPhone 6 to adopt Sonys 13-megapixel Exmor IMX220 camera sensor
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/Sony-Exmor-IMX220-sensor-image-001.jpg)
 * Most of the iPhone 6 rumors floating around the blogosphere seem to point to Apple passing on the megapixel race. The firm instead appears to focus on advancing mobile photography using a number of hardware and software techniques to produce better-looking images.

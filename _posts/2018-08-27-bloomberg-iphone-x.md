@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's upcoming handsets will embrace the iPhone X design in 'S year'
+title: Apples upcoming handsets will embrace the iPhone X design in S year
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/2018-iphone-cover-glass-benjamin-geskin-002.jpeg)
 * Apple is expected to retire the tenth anniversary iPhone X next month after the handset spent less than a year on the market. Nonetheless, the iPhone X design will live on in the release of three new Apple handsets for 2018.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rhythm-fantasy game 'Deemo' goes free as Apple's App of the Week
+title: Rhythm-fantasy game Deemo goes free as Apples App of the Week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/deemo-2.jpeg)
 * Apple has just named Deemo, by Rayark, its App of the Week for this week. This means that from now through next Thursday, you’ll be able to pick up the popular game for both iPhone and iPad, for free—a decent savings of $2.

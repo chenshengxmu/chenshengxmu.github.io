@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Netatmo's Urban Weather Station is for the weather guru
+title: Netatmos Urban Weather Station is for the weather guru
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/Netatmo.png)
 * I love the weather. No real reason in particular, but fascination started as a young child when I would rush home from school to track Hurricanes on the Weather Channel, despite living nowhere near the coast. When I first read about the first iOS specific Netatmo Urban Weather Station a month back, I was fascinated with the ability to monitor the temperature, both in and outside my house. A weather nerd at heart, I think this is an awesome piece of hardware. To the weather novice, it is still a great addition for your connected home. Below, we take a look at the personal weather station that just received CES Innovations 2013 Design and Engineering Award honoree in three categories…

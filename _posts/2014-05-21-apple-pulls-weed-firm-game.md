@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple pulls popular 'Weed Firm' game from the App Store
+title: Apple pulls popular Weed Firm game from the App Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/weed-firm-header.jpg)
 * Apple has pulled the popular, and somewhat controversial, game ‘Weed Firm’ from the App Store this week. The game landed on iOS just a few weeks ago, and had climbed its way to the top of the App Store’s ‘Top Free’ list in several countries.

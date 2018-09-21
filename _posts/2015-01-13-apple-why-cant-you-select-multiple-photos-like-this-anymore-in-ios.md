@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple, why can't you select multiple photos in iOS by tapping and dragging anymore?
+title: Apple, why cant you select multiple photos in iOS by tapping and dragging anymore?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/iOS-4-selecting-multiple-photos.png)
 * On today’s episode of Let’s Talk Jailbreak, Sebastien, Cody, and I were talking about the lack of a decent way to select multiple photos in the iOS 8 photos app. That conversation reminded me of how you could select multiple photos on earlier iOS versions back in the day by tapping and dragging.

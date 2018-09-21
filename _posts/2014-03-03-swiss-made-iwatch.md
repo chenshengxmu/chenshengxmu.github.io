@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rumor- could iWatch be 'Swiss Made'?
+title: Rumor- could iWatch be Swiss Made?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/iWatch-cocept-Martin-Hajek-MacUser-April-2013-issue-011.jpg)
 * A high-profile source in the watch-making biz has stepped forward with a rather surprising assertion that Apple may be looking to build its rumored iWatch in Switzerland, the home to world’s finest watchsmiths.

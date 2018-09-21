@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amazon's Instant Video for iOS can now stream content in HD and over cellular
+title: Amazons Instant Video for iOS can now stream content in HD and over cellular
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/instant-video.png)
 * Amazon’s Instant Video client for the iPhone and iPad has received an update Thursday, bumping version number to 3.0 and bringing out several improvements to streaming video quality.

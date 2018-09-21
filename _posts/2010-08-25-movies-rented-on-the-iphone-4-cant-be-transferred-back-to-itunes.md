@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Movies Rented on The iPhone 4 Can't Be Transferred Back to iTunes
+title: Movies Rented on The iPhone 4 Cant Be Transferred Back to iTunes
 ---
 * iLounge reveals a bit of discerning information that took a mysterious amount of time to surface. It turns out that the iPhone 4 shares the same limitations as the iPad and the Apple TV in regards to being unable to transfer rented movies back to your iTunes library.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/08/iphone-4-itunes.jpg)

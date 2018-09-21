@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's Talk iOS 083- Slap that bass
+title: Lets Talk iOS 083- Slap that bass
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/Lets-Talk-iOS-banner.png)
 * Episode 83: A discussion of upcoming Apple hardware, Jeff tries out a new Android phone, new details on iOS 9, and Cody finally gets his Apple Watch.

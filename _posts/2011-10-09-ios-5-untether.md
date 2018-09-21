@@ -1,6 +1,6 @@
 ---
 layout: post
-title: i0n1c Confirms iOS 5 Untether is "Covered"
+title: i0n1c Confirms iOS 5 Untether is Covered
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/Screen-Shot-2011-10-09-at-8.33.34-PM-e1318217644688.png)
 * With iOS 5 scheduled to drop this Wednesday, the question in the back of everyone’s mind (at least here at iDB anyways) is when will it be fully jailbroken? A tethered jailbreak is already available for the new software, but it’s just not the same.

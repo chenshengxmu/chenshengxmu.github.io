@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bicolor goes free as Apple's App of the Week
+title: Bicolor goes free as Apples App of the Week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/Bicolor.jpeg)
 * Folks who missed the opportunity to grab Bicolor when it was offered for free in the Apple Store app will be happy to hear that it’s gone on sale again. Apple is offering the popular game for free from now through next Thursday as part of its App of the Week promotion.

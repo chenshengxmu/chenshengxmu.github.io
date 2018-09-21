@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Universal Music Joins Apple's iCloud Gang
+title: Universal Music Joins Apples iCloud Gang
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/universal-music-logo-e1307045901864.jpeg)
 * Well, that makes four, folks! Apple has now secured a deal with Universal Music Group that grants access to the company’s music through Apple’s upcoming iCloud service. Universal is the last of the four major labels to sign up, with EMI, Sony and Warner joining the gang over the last few weeks.

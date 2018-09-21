@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple is 'looking' into reports of iOS 9.3.2 bricking some 9.7-inch iPad Pros
+title: Apple is looking into reports of iOS 9.3.2 bricking some 9.7-inch iPad Pros
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/iOS-9.3.2-bricking-some-9.7-inch-iPad-Pro-models-image-001.jpeg)
 * Following multiple complaints that the iOS 9.3.2 software update, which released two days ago, has bricked some 9.7-inch iPad Pro models with ‘Error 56’, Apple today acknowledged that it’s aware of these reports and is “looking” into them.

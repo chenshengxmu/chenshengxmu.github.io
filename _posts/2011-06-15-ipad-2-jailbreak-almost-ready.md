@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPad 2 Jailbreak is "Almost Ready?"
+title: iPad 2 Jailbreak is Almost Ready?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/comex-i-pad-2-jailbreak-almost-ready.jpeg)
 * Last week we broke the news about a teaser Comex had released on the JailbreakMe website, which consisted in a cryptic image suggesting that he might have found a new exploit. At the time, we speculated that it could be related to an iPad 2 jailbreak.

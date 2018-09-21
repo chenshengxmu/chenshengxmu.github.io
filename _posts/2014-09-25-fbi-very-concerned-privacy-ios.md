@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FBI director says he's 'very concerned' about new privacy features in iOS 8
+title: FBI director says hes very concerned about new privacy features in iOS 8
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/Resized-PasscodeTime.jpg)
 * The FBI is very concerned with the new privacy features Apple is touting in iOS 8, the organization’s director James Comey told The Huffington Post on Thursday. In particular, he’s concerned the company is marketing something “expressly to allow people to place themselves above the law.”

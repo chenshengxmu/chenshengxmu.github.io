@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Lightning to 30-pin adapters now shipping
+title: Apples Lightning to 30-pin adapters now shipping
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/Lightning-adapter.jpg)
 * Good news today for folks who ordered, or were thinking about ordering, a Lightning to 30-pin adapter from Apple. Reports are coming in that the first round orders began shipping yesterday.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple to issue new Activity challenge for Mother's Day
+title: Apple to issue new Activity challenge for Mothers Day
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/05/Apple-Mothers-Day-2017-Activity-challenge.jpg)
 * Apple is about to issue a new challenge to its users in the United States this Friday ahead of Mother’s Day, via a notification on Apple Watch and in the Activity app on iPhone.

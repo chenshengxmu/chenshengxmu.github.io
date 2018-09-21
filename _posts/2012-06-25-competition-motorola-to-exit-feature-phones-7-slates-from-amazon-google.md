@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Competition- Motorola exiting feature phones, 7" slates from Amazon, Google loom
+title: Competition- Motorola exiting feature phones, 7 slates from Amazon, Google loom
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/Google-Nexus-tablet-Gizmodo-Australia.jpg)
 * Several reports this morning sourced from Taiwanese supply chain indicate some pretty interesting reshuffling going on in the mobile space outside Apple. Samsung is shooting to cumulatively sell ten million Galaxy S III units by early July while Motorola Mobility is mulling exiting the feature phones business in order to focus all their energies on “innovative products”.

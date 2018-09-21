@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's why Siri on Apple TV only supports eight countries so far
+title: Heres why Siri on Apple TV only supports eight countries so far
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/11/Apple-TV-Siri-Show-me-something-new.jpg)
 * The new Apple TV ships with the same remote everywhere but Siri on the set-top box is only supported in these eight languages and countries: English (Australia, Canada, the United Kingdom and the United States, German (Germany), French (France), Spanish (Spain) and Japanese (Japan).

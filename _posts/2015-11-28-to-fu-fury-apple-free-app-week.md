@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Puzzle platformer To-Fu Fury is Apple's new Free App of the Week
+title: Puzzle platformer To-Fu Fury is Apples new Free App of the Week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/11/To-Fu-Fury-1.0-for-iOS-iPhone-screenshot-001.jpeg)
 * To-Fu Fury from Amazon Game Studios, regularly $1.99, is available at no charge until next Thursday as Apple’s new Free App of the Week via the App Store’s weekly promotion.

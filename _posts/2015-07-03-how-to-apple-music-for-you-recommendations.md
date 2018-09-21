@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to master Apple Music liking system to influence 'For You' recommendations
+title: How to master Apple Music liking system to influence For You recommendations
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/Apple-Music-teaser-001.jpg)
 * Apple Music offers a section called For You which provides a personalized selection of music based on your listening habits. On the surface, it sounds great until a song you can’t stand listening to anymore or an artist you really aren’t a big fan of gets injected into the For You feed.

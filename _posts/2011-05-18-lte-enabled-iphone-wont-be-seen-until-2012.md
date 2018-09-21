@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LTE-Enabled iPhone Won't Be Seen Until 2012
+title: LTE-Enabled iPhone Wont Be Seen Until 2012
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/05/Flash-the-iPhone.jpeg)
 * Following other reports that Apple won’t introduce an LTE-enabled iPhone until at least 2012, Digitimes has chimed in to affirm that there won’t be an iPhone introduced with 4G speeds this year.

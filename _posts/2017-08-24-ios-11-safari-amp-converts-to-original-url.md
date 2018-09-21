@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 11 Safari converts Google's AMP garbage back to original URLs when shared
+title: iOS 11 Safari converts Googles AMP garbage back to original URLs when shared
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/iOS_11_Safari_converting_AMP_to_original_URL_iPhone_screenshot_002.jpg)
 * MacStories founder and editor-in-chief Federico Viticci has discovered an awesome little new feature in iOS 11’s Safari which automatically converts Google’s cryptic accelerated mobile pages (AMP) links back to the canonical URLs.

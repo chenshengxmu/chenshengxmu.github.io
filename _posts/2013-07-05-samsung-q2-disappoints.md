@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tasting Apple's bitter pill- Samsung's smartphone growth story running its course
+title: Tasting Apples bitter pill- Samsungs smartphone growth story running its course
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/Samsung-anti-iPhone-ad-it-doesnt-take-a-genius.jpg)
 * In an age of demand for simple, inexpensive smartphones, big is not always better. The latest example is Samsung, viewed until recently as the Asian Apple, it’s Galaxy smartphones keeping Android from sinking into mediocrity. After snickering at the iPhone maker’s spate of bad luck on Wall Street, Samsung Friday lost 3.6 percent of its stock value amid a disappointing quarterly forecast.

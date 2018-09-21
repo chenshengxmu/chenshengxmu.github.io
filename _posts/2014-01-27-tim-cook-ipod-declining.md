@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook- we've known for some time that 'iPod is a declining business'
+title: Tim Cook- weve known for some time that iPod is a declining business
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/new-space-gray-ipod-touch.png)
 * Apple posted some huge sales numbers for the holiday quarter earlier today. During the 3-month period, the company sold 51 million iPhones, 26 million iPads—both records—and a surprisingly high 4.8 million Macs. But not all of its device sales were impressive.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Analyst's Crystal Ball Says Redesigned iPhone and All New iPad Lineup to Come in 2012
+title: Analysts Crystal Ball Says Redesigned iPhone and All New iPad Lineup to Come in 2012
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/apple-crystal-ball-e1324506655897.jpg)
 * Apple is not going to rest on its laurels next year and will drive sales by introducing new, redesigned iPhone 5 alongside a whole new lineup of iPads, according to Piper Jaffray’s Gene Munster.

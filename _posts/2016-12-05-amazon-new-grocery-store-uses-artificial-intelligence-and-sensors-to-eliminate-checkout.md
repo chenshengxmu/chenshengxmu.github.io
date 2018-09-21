@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amazon's new grocery store uses artificial intelligence and sensors to eliminate checkout
+title: Amazons new grocery store uses artificial intelligence and sensors to eliminate checkout
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/12/Amazon-GO-Seattle-teaser-001.jpg)
 * Online retail giant Amazon is testing a new type of brick-and-mortar convenience store where you simply walk in, pick up your items and walk out, no clerk or a cash register required whatsoever because everything you’ve put in the shopping basket is automatically charged to your Prime account as soon as you leave the store. Located at 2131 7th Ave in Seattle, the futuristic grocery store, dubbed Amazon Go, has been four years in the making.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sony/ATV reportedly nixed Apple's music-streaming plan
+title: Sony/ATV reportedly nixed Apples music-streaming plan
 ---
 * It isn’t news that Apple wanted to create a streaming-music service that would compete against Pandora. But now we are learning the back-story of why the idea was nixed – and it is a familiar refrain. According to a Friday morning news report, music publisher Sony/ATV wanted larger royalties for its songs…
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/itunes-music.png)

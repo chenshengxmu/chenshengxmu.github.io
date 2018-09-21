@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's Talk Jailbreak 55- Take a breather
+title: Lets Talk Jailbreak 55- Take a breather
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/Lets_Talk_Jailbreak_Podcast.png)
 * Episode 55: It’s been a big week for jailbreakers, and it shows in this episode. We discuss a ton of jailbreak tweaks, including Convergance, Stride 2, Slices, Timely, Snooze, and more. It’s a jam-packed tweak tour that shouldn’t be missed.

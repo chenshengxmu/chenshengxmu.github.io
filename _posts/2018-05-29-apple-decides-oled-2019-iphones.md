@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's reportedly decided to adopt OLED in all three 2019 iPhone models
+title: Apples reportedly decided to adopt OLED in all three 2019 iPhone models
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/Super-Retina-Display-1.jpg)
 * A report alleged Apple had decided to adopt OLED display panels across all three new iPhone models due next year even though several analysts said such a transition wasn’t likely.

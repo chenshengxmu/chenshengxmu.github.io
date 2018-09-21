@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung's smart speaker could undercut HomePod with a price point around $200
+title: Samsungs smart speaker could undercut HomePod with a price point around $200
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/WWDC-2017-homepod-new-siri-questions.jpg)
 * Samsung’s smart home speaker is in the works and should release during the first half of 2018.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: David Fincher may no longer be directing Sony's anticipated Steve Jobs biopic
+title: David Fincher may no longer be directing Sonys anticipated Steve Jobs biopic
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/471855-david-fincher.jpg)
 * David Fincher, of The Social Network directing fame, is no longer being tapped to direct Sony Pictures’ highly anticipated Steve Jobs movie, according to The Hollywood Reporter.

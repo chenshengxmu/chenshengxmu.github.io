@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Experiencing Wi-Fi problems in iOS 6? We've got a fix
+title: Experiencing Wi-Fi problems in iOS 6? Weve got a fix
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/iOS-6-icon.png)
 * Like other sites, we’ve been getting a lot of tips this evening that Wi-Fi in iOS 6 is acting up. Several of our readers have informed us that their Wi-Fi quit working after attempting to connect to a faulty Apple page shortly after updating to the latest version of iOS.

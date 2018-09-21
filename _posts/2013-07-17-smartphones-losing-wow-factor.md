@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The problem with smartphones- they're losing their cool and wow factor
+title: The problem with smartphones- theyre losing their cool and wow factor
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/smartphones1.jpeg)
 * It has been six years since Apple introduced the original iPhone. The event was likened to a seismic shift that ignited the push to adopt smartphones in the United States. Now with up to 70 percent of subscribers owning smartphones, the big three carriers are searching for ways to encourage upgrades.

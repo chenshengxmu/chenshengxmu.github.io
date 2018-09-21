@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Watch's 28nm application processor is fabbed by Samsung, S1 chip is full of surprises
+title: Apple Watchs 28nm application processor is fabbed by Samsung, S1 chip is full of surprises
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/05/Apple-Watch-S1-teardown-Chipworks-002.jpg)
 * At the heart of the Apple Watch is Apple’s in-house designed ‘S1’ component that literally puts an entire computer architecture onto a single chip — an industry term you’re looking for is system-in-package (SiP) design.

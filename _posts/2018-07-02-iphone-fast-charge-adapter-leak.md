@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is this Apple's rumored 18W USB-C adapter headed to new iPhones?
+title: Is this Apples rumored 18W USB-C adapter headed to new iPhones?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/Apple-18-watt-iPhpone-adapter-leak.jpg)
 * Sources said Apple might bundle fast-charging adapters and USB-C cables with 2018’s iPhones and today a rumored 18-watt USB-C adapter was shown off in a new set of alleged photos.

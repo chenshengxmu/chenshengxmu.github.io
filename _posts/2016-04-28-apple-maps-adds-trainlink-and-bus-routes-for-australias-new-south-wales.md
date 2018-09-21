@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Maps adds TrainLink and bus routes for Australia's New South Wales
+title: Apple Maps adds TrainLink and bus routes for Australias New South Wales
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/04/Apple-Maps-Transit-TrainLink-Australia-screenshot-001.jpg)
 * After previously introducing limited transit support for Sydney Trains in Australia, Apple’s now expanded transit directions in the country with the addition of TrainLink and bus routes for both Sydney and New South Wales, Mac Prices Australia discovered.

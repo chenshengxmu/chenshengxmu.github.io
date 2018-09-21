@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to enable iPhone's power-charging chime on your Mac
+title: How to enable iPhones power-charging chime on your Mac
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/Twelve-inch-MacBook-Silver-closeup-001.jpg)
 * When you plug in your iPhone, iPod touch or iPad into a power outlet, a brief auditory confirmation is played to indicate that a cable is attached and the device is getting power.

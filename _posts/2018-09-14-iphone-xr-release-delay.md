@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Apple isn't releasing the iPhone Xr until October
+title: Why Apple isnt releasing the iPhone Xr until October
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/09/iPhone-Xr-colors.jpg)
 * Have you wondered why the iPhone Xr won’t be arriving in stores until Oct. 26? Although Apple isn’t giving the reason (and probably won’t), others have. It seems the device’s new Liquid Retina LCD display could be to blame, according to The Verge.

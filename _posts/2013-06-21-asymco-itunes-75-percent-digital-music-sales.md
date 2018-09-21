@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's iTunes owns 75% of digital music sales
+title: Apples iTunes owns 75% of digital music sales
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/apple-itunes-revenue.png)
 * Apple’s iTunes is one of those happy ironies. Begun as a way to boost sales of Macs and other hardware and content with breaking even, the service now rakes in $20 billion per year selling digital warez such as video, books, apps and music – a whole lot of music. In fact, Apple now sells 75 percent of all digital music, according to a new analysis.

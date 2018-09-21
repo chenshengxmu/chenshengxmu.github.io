@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's gift card only Black Friday deals launch in Australia
+title: Apples gift card only Black Friday deals launch in Australia
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/Apple-Black-Friday-Australian-store.png)
 * Just as we suspected yesterday, Apple’s Black Friday promotion may disappoint even the most ardent of fans as this year Tim Cook & Co. have opted to treat shoppers to Apple Store gift cards instead of actual discounts on products. Apple’s deals are now live on its Australian web store and we’re expecting the U.S. Apple Store to come online with the promotion later in the day. The problem with Apple’s gift card-only approach is that these things are redeemable against future purchases only.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Android's Software Fragmentation
+title: On Androids Software Fragmentation
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/android-broken-e1315669275342.jpg)
 * We’ve expressed our opinions on Android software multiple times here on iDB. You can imagine that, as an iPhone blog, we are a little biased towards the iOS platform, but our issues with Android don’t come unwarranted.

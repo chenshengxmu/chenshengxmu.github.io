@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Remove the New "Quick Bar" in Twitter for iPhone
+title: How to Remove the New Quick Bar in Twitter for iPhone
 ---
 * The official Twitter for iPhone app has been updated with several new features. Unlike previous minor updates, Twitter 3.3 packs some significant changes to the app’s interface.
 * While there are some definite improvements in the app, many users have been complaining that the update does more harm than good…

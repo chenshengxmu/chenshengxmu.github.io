@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft doesn't want to take billions from Office for iPad?
+title: Microsoft doesnt want to take billions from Office for iPad?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/Surface-e1374862692584.jpeg)
 * Picture Microsoft in one of those V8 commercials, where the actor whacks himself in the head after he could be drinking a healthy vegetable drink rather than a can of diet cola.

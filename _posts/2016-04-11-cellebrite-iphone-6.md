@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mobile forensics firm that unlocked terrorist's iPhone 5c thinks it can hack iPhone 6
+title: Mobile forensics firm that unlocked terrorists iPhone 5c thinks it can hack iPhone 6
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/iOS-9-6-digit-Passcode-Lock-screen-teaser-001.jpg)
 * Mobile forensics firm Cellebrite that helped the United States Federal Bureau of Investigation bypass the passcode protection on the San Bernardino shooter’s iPhone 5c is adamant that it can also work around Apple’s security protections and hack into an iPhone 6, CNN reports.

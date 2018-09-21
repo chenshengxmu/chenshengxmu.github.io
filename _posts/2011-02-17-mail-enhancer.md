@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mail Enhancer' for iPhone Gives You a Crazy Amount of Email Customization Options
+title: Mail Enhancer for iPhone Gives You a Crazy Amount of Email Customization Options
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/02/Mail-Enhancer-01.png)
 * In itself, the iPhone’s email works fairly well. It’s simple, and reliable. In fact it’s almost too simple, being devoid of many customization options that you think would be a no-brainer.

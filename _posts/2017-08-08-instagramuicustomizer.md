@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Colorize your Instagram app's user interface with InstagramUICustomizer
+title: Colorize your Instagram apps user interface with InstagramUICustomizer
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/InstagramUICustomizer-Before-and-After.jpg)
 * If you want to colorize your Instagram app’s UI to something other than the bland white it comes with out of the box, then we’d recommend trying a new free jailbreak tweak called InstagramUICustomizer by iOS developer Wylliam Altman.

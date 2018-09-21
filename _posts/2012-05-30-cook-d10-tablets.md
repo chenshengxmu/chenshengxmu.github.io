@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cook at D10- Why I'm not big on marrying iPad with MacBook
+title: Cook at D10- Why Im not big on marrying iPad with MacBook
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Tim-Cook-at-D10-image-005.jpg)
 * One of the inevitable subjects technology columnists Walt Mossberg and Kara Swisher pressed Apple’s Cook on during yesterday’s D10: All Things Digital opening-night talk touches upon the post-PC world and the convergence dilemma. As you know, Cook’s predecessor Steve Jobs was a huge proponent of tablet computing.

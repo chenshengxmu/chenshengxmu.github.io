@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't Stop the Party! keeps your music playing during resprings
+title: Dont Stop the Party! keeps your music playing during resprings
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/04/Music-Play-After-Respring-GIF-1.gif)
 * One of my pet peeves in terms of having a jailbroken device is how any music I’m listening to while installing tweaks on my device gets silenced with every respring. Anyone who peruses Cydia and installs tweaks a lot will find this to be a buzzkill.

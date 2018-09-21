@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple launches 21.5" iMac with Retina 4K display, all 27" models now have Retina 5K display
+title: Apple launches 21.5 iMac with Retina 4K display, all 27 models now have Retina 5K display
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/10/iMac-late-2015-family-002.jpg)
 * As suspected, Apple today announced a refresh to its all-in-one desktop, refreshing the 21.5-inch model with a brand spanking new screen with 4K resolution versus a 1080p screen on the previous-generation model.

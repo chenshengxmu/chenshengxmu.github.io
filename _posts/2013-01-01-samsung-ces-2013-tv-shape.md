@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung's upcoming TV has 'an unprecedented new shape'. Is it translucent? Frameless? Retina?
+title: Samsungs upcoming TV has an unprecedented new shape. Is it translucent? Frameless? Retina?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/Samsung-TV-teaser-CES-2013-TV-behind-white-sheet.jpg)
 * Say what you will about Samsung of South Korea, but the company is leading the Smart TV revolution at a time when the once mighty Japanese consumer electronics giants like Sony, Panasonic and Sharp are struggling to stay afloat. Last week the firm teased an upcoming TV launch with a charming video suggesting that “all the TVs are rushing to see Samsung’s new TV” at CES.

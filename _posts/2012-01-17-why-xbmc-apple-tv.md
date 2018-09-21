@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's Why You Should Install XBMC on Your Apple TV
+title: Heres Why You Should Install XBMC on Your Apple TV
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/XBMC-on-Apple-TV-e1326828175203.jpg)
 * If you haven’t noticed by now, we’re pretty big fans of the Apple TV here at iDownloadBlog, and for good reason.

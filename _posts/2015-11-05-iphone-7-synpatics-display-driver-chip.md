@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 7 to run Synaptics's display driver chips as Apple delays own in-house single-chip solution
+title: iPhone 7 to run Synapticss display driver chips as Apple delays own in-house single-chip solution
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/iPhone-6-Retina-HD.png)
 * Taiwanese trade publication DigiTimes is reporting that Apple has placed orders for display driver chips from supplier Synaptics for 2016 iPhones. This is interesting because rumors were swirling back in 2014 that Apple was buying Renesas SP Drivers, a division of Renesas Electronics and a sole supplier of LCD driver chips for iPhones.

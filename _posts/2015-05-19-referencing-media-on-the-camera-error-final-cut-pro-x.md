@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to fix a "referencing media on the camera" error in Final Cut Pro X
+title: How to fix a referencing media on the camera error in Final Cut Pro X
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/05/FCP-Referencing-media-error.png)
 * Every now and then, you may run into an issue with Final Cut Pro X where a file doesn’t successfully import. Due to this, the media that you’re working with in your project is still referencing the location where the file originally was (i.e. SD Card, Camera HDD, etc.).

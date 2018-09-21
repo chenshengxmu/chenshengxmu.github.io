@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The importance of your Mac's battery condition and how to check it
+title: The importance of your Macs battery condition and how to check it
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/Macbook-Pro-Battery-Level.jpg)
 * Apple’s portable Mac notebooks like the MacBook, MacBook Air, and MacBook Pro are all powered by Lithium-Ion batteries, and these batteries don’t last forever. They go through cycles as they’re charged up and used over and over. After a number of cycles, batteries tend to lose their effectiveness at storing power, and will eventually need to be replaced.

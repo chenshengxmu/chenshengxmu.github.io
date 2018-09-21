@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple posts new iTunes Festival video 'Moments'
+title: Apple posts new iTunes Festival video Moments
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/itunes-festival.png)
 * There’s only a few days left in the month, and that means that Apple’s iTunes Festival is winding down. In fact, the show will come to a close on Monday, September 30 with a performance from Katy Perry.

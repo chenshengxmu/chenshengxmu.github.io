@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Qualcomm's new anti-Apple suit targets new iPhones, A10 chip, dual-lens cameras & more
+title: Qualcomms new anti-Apple suit targets new iPhones, A10 chip, dual-lens cameras & more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/iPhone-8-iPhone-8-Plus-iPhone-X-image-001.jpg)
 * Less than 24 hours following Apple’s lawsuit against Qualcomm claiming the latter’s Snapdragon processors infringe upon its patents, the chip maker has now retaliated by lodging another patent lawsuit against the Cupertino giant.

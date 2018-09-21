@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New app uses iPhone's vibrate motor to take hands-free 360-degree video
+title: New app uses iPhones vibrate motor to take hands-free 360-degree video
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/Cycloramic-ss.png)
 * Up until now, if you wanted to shoot 360-degree video with your iPhone, you’d either need a snap-on accessory, like the GoPano, or a pair of steady hands and some patience. But a clever new app is looking to change that.

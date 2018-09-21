@@ -1,6 +1,6 @@
 ---
 layout: post
-title: China Mobile isn't an iPhone partner, but it still has 15 million iPhone users
+title: China Mobile isnt an iPhone partner, but it still has 15 million iPhone users
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/china-mobile-e1330969893625.jpg)
 * China Mobile is the world’s largest wireless carrier, by almost any measurement, with over 650 million mobile subscribers. Its sheer size has made the operator a prime target for Apple partnership rumors, but the two companies have yet to ink out a deal.

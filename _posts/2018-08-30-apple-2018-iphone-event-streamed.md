@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's 'Gather round' iPhone event will be live-streamed
+title: Apples Gather round iPhone event will be live-streamed
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/Apple-September-2018-event-invitation.jpg)
 * Apple plans on offering a live stream to next month’s “Gather round” iPhone event. As with past events, the stream will be available across multiple devices and platforms.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook 'incredibly optimistic' about China Mobile deal
+title: Tim Cook incredibly optimistic about China Mobile deal
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/Tim-Cook-Palo-Alto-iPhone-5s5c-launch-CNET-001.jpg)
 * Hot on the heels of a report claiming that Apple had shipped 1.4 million iPhone 5s units to China Mobile for its big launch this Friday comes word from the carrier’s Chairman Xi Guohua that the total number of iPhone orders is in the ‘multi-millions.’

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: London’s iconic Battersea Power Station will be Apple's new UK headquarters
+title: London’s iconic Battersea Power Station will be Apples new UK headquarters
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/Battersea-Power-Station-image-001.jpg)
 * The British newspaper Evening Standard reports that Apple will be opening a “stunning new” campus in London’s iconic Battersea Power Station. The $11.7 billion project will create a new home for 1,400 employees in the brick “cathedral of power,” which had been powering and lighting London up to 1983.

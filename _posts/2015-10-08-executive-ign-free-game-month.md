@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gonzo action game The Executive is IGN's Free Game of the Month
+title: Gonzo action game The Executive is IGNs Free Game of the Month
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/10/The-Executive-1.0-for-iOS-teaser-001.jpg)
 * So you want to be the CEO of a trillion dollar mining company that has been infiltrated by werewolves? Look no further than The Executive by Riverman Media, a title unlike any other mobile game on the market.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Carriers to Nokia- Lumia cannot match the iPhone's sexyness
+title: Carriers to Nokia- Lumia cannot match the iPhones sexyness
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/Nokia-Lumia-900-iPhone-4S.jpg)
 * You may have heard that some analysts consider Windows Phone a legitimate iPhone contender and have probably read nice things about the new Lumia smartphone brand from Nokia that debuted last October. Lumia is the ailing cellphone giant’s inaugural Windows Phone lineup born out of their partnership with Microsoft.

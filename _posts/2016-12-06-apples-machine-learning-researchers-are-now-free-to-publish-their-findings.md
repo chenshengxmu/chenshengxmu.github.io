@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's machine learning researchers are now free to publish their findings
+title: Apples machine learning researchers are now free to publish their findings
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/08/iBrain-Tom-Gruber-Alex-Acero-Eddy-Cue-Craig-Federighi-Backchannel-image-001.jpg)
 * Apple demands that its machine learning (ML) experts and artificial intelligence (AI) researchers do no publish their findings in research papers or share results of their work with fellow ML/AI experts, which scientists think is preventing the company from recruiting the brightest minds in the field. Realizing its mistake, Apple is changing its stance.

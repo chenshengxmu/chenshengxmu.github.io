@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cellular Apple Watch saved this guy's life
+title: Cellular Apple Watch saved this guys life
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/Apple-Watch-LTE-Phone.jpg)
 * The Series 3 Apple Watch hasn’t been out for long but it is already potentially saving people’s lives. The latest is a kitesurfer who crashed and became stranded a mile off the coast of Ventura, California. If that wasn’t enough, it also happened to be great white shark infested waters. Luckily, the Apple Watch’s cellular connectivity allowed him to call for help.

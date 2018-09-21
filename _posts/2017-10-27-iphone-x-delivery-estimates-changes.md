@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's when iPhone X delivery estimates changed throughout the early hours
+title: Heres when iPhone X delivery estimates changed throughout the early hours
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/iPhone-X-US-preorder-day-lead-times-Loup-Ventures-table-001.jpeg)
 * Predictably, shipping time estimates for iPhone X began slipping in a matter of first few minutes of preorders going live. New preorders for the device are scheduled to ship out in December as early customer demand remains, in Apple’s own words, “off the charts”.

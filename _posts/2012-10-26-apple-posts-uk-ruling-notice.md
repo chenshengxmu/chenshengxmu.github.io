@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple posts "Samsung didn't copy the iPad" notice on UK site
+title: Apple posts Samsung didnt copy the iPad notice on UK site
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/samsung-galaxy-tab-101-1.jpeg)
 * A week ago, Apple tried appealing a recent ruling by the High Court in London that Samsung’s Galaxy Tab didn’t infringe on its design patents. As you may recall, this is the same case where the presiding Judge ordered Apple to run advertisements stating that Samsung didn’t copy the iPad.

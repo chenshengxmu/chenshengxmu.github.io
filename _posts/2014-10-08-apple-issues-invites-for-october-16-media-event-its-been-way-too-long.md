@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple issues invites for October 16 media event- 'it's been way too long'
+title: Apple issues invites for October 16 media event- its been way too long
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/Apple-invite-October-2014.jpg)
 * Following claims by ReCode’s well-informed John Paczkowski that Apple’s been prepping to hold an iPad-focused media event on October 16, the Cupertino company on Wednesday morning confirmed the report by issuing invites to select members of the press, The Loop first reported.

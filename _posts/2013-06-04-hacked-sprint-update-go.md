@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hacked Sprint carrier update could improve your device's network performance
+title: Hacked Sprint carrier update could improve your devices network performance
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/sprint-iphone-feature.jpg)
 * Over the past month or so, we’ve seen hacked carrier updates released for iOS devices on T-Mobile, AT&T and Verizon. The modded files were posted with the promise of improving data speeds in iPhones, and iPads with built-in cellular capabilities.

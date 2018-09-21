@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Minecraft Set for Release in the App Store "Before the End of the Year"
+title: Minecraft Set for Release in the App Store Before the End of the Year
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/minecraftmay-25.jpg)
 * Minecraft, the block-based building phenomenon that has been sweeping the planet for quite some time now, is set to get its very own iOS release.

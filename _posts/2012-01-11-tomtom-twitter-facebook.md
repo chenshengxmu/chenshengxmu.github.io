@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TomTom's New App Uses Twitter and Facebook to Help You Navigate
+title: TomToms New App Uses Twitter and Facebook to Help You Navigate
 ---
 * TomTom is obviously one of the biggest players in the navigation business, and with standalone devices selling alongside the company’s mobile apps, it’s also one of the most dominant.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/tomtom-update.jpg)

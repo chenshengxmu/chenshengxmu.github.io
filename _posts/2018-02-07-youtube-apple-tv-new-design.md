@@ -1,6 +1,6 @@
 ---
 layout: post
-title: YouTube's Apple TV app refresh with Material Design look is a terrible experience
+title: YouTubes Apple TV app refresh with Material Design look is a terrible experience
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/02/YouTube-for-Apple-TV-004.jpg)
 * Google today rolled out a thoroughly rethought YouTube app for Apple TV.

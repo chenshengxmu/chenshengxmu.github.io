@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fitbit buys Pebble's software assets, but cancels new hardware
+title: Fitbit buys Pebbles software assets, but cancels new hardware
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/12/Pebble-2016-family-image-001.jpg)
 * Fitbit, the maker of popular activity and fitness trackers, has officially acquired Pebble. The deal was finalized this morning, both companies have said.

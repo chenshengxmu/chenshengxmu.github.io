@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Eric Schmidt on Google Now for iOS- the ball is now in Apple's court
+title: Eric Schmidt on Google Now for iOS- the ball is now in Apples court
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/google-now-ios-banner.jpeg)
 * An alleged promo video thought to show off an unreleased build of Google Now for the iPhone and iPad has piqued our interest, as you could imagine. It was pulled from YouTube soon after, posing questions about the state of the official Google Now software for Apple’s mobile platform.

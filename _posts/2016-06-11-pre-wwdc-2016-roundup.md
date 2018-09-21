@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our pre-WWDC roundup is here, now tell us what's on your wish list
+title: Our pre-WWDC roundup is here, now tell us whats on your wish list
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/04/AR72014-WWDC-Wallpaper-2016-e1465067331379.jpg)
 * Worldwide Developers Conference, Apple’s annual event for people who write apps for its platforms, kicks off with a keynote presentation on Monday, June 13. iDownloadBlog will be providing you with detailed around-the-clock coverage of everything that Apple will present at WWDC.

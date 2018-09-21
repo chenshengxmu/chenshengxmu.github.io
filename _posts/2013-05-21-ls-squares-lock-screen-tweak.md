@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Add handy information tiles to your device's Lock screen with LS Squares
+title: Add handy information tiles to your devices Lock screen with LS Squares
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/ls-squares-1.png)
 * Folks looking to spice up their device’s Lock screen will be happy to hear that there’s a new jailbreak theme out that can help with that. It’s called LS Squares, and it adds 4 tiles to the empty space that each provide you with useful information at a glance.

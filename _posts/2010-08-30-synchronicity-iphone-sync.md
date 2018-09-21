@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jailbreak App Lets You Use Your iPhone While It's Syncing With iTunes
+title: Jailbreak App Lets You Use Your iPhone While Its Syncing With iTunes
 ---
 * The jailbreak community is always exciting. There’s always a new application in development soon to be released to an unsuspecting public. Today, Synchronicity takes the throne. It allows you to use your iPhone while it’s currently synchronizing with iTunes. I’m not sure why Apple disables us by disallowing usage of devices during a sync. Personally, I think Apple should allow this function by default.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/08/synchronicity.jpeg)

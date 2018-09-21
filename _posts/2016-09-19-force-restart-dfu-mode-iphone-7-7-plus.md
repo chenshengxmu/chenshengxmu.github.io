@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's how to force restart and enter DFU mode on the new iPhone 7 & 7 Plus
+title: Heres how to force restart and enter DFU mode on the new iPhone 7 & 7 Plus
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/iPhone-Rebooting.png)
 * Every so often, iPhones have a brain fart and you may have to force them to restart or use DFU mode to restore because they either stop responding or start behaving sporadically.

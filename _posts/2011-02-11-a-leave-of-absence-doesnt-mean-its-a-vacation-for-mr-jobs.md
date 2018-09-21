@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Leave of Absence Doesn't Mean It's a Vacation for Mr. Jobs
+title: A Leave of Absence Doesnt Mean Its a Vacation for Mr. Jobs
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/01/Steve-Jobs-e1295280588460.jpg)
 * It’s hard to believe, but it was almost a month ago when Steve Jobs announced he was taking a leave of absence from Apple due to undisclosed medical issues.

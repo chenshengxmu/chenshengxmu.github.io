@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to watch Apple's 'Let us loop you in' event live
+title: How to watch Apples Let us loop you in event live
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/Apple-Mach-21-event.png)
 * Apple will be streaming its ‘Let us loop you in’ media event live on the company’s website. The Cupertino-based company is expected to unveil a number of new products related to iPhone, iPad, and the Apple Watch, but we’ll have to wait and see to know for sure.

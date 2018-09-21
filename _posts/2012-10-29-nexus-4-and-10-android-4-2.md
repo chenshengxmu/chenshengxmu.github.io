@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Roundup of Google's new Nexus phone and tablet, Android 4.2 Jelly Bean
+title: Roundup of Googles new Nexus phone and tablet, Android 4.2 Jelly Bean
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/Nexus-devices-stack-Nexus-4-Nexus-7-Nexus-10.jpg)
 * It doesn’t hurt to keep tabs on what competition is doing. Hurricane Sandy may have spoiled Google’s media event planned for today, but that didn’t stop the search giant from launching two new Nexus devices today along an Android software update. The company announced a new four-inch Nexus smartphone, made by LG, that provides pure Android experience free of carrier junkware and user interface skins.

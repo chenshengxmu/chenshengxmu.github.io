@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BGR- iOS 8.0.1 with 'further enhancements' in the works
+title: BGR- iOS 8.0.1 with further enhancements in the works
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/iOS-8-Messages.png)
 * With four days until Apple’s big reveal and the impending public launch of iOS 8, the Cupertino firm is already preparing the first iOS 8.0.1 update, BGR reported Friday. The software contains unspecified “further improvements” and Apple is going to seed it to its carrier and testing partners shortly. Note that BGR has a pretty solid track record in predicting carrier-related news.

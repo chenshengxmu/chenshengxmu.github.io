@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ColorFill' makes the Reachability background color match the current app
+title: ColorFill makes the Reachability background color match the current app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/Reachability-ColorFill.png)
 * Tired of the dark Reachability background color? Looking for something that matches the look and feel of the app you’re currently using? You may want to open Cydia and download a new jailbreak tweak called ColorFill. It purposes to color the empty Reachability view space with colors based on the dominant hue of the current screen.

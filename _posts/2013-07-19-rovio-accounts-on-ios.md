@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rovio's game-syncing 'Account' now available worldwide on iOS
+title: Rovios game-syncing Account now available worldwide on iOS
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/Rovio-ID.png)
 * Back in May, Rovio began rolling out ‘Account,’ a cloud-based service that allows users to save their progress in games across various devices. And today, the Finnish game-maker announced that it’s now available to all iOS and Android users worldwide.

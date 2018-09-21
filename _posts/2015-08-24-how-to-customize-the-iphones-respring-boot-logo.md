@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to customize the iPhone's respring boot logo
+title: How to customize the iPhones respring boot logo
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/08/BootLogoCustomizer.jpg)
 * BootLogoCustomizer is a brand new tweak that lets users customize the colors of the respring Apple boot logo. Customization is achieved by means of a simple preference panel found in the stock Settings app.

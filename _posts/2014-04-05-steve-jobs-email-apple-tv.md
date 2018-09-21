@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Steve Jobs email reveals past Apple TV ideas- apps, 'magic wand' remote and more
+title: Steve Jobs email reveals past Apple TV ideas- apps, magic wand remote and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/Apple-TV-Standing.jpg)
 * We’re only a few days in, but we’ve already learned a lot from the Apple-Samsung patent trial. With it being a legal proceeding, the public is given access to information it wasn’t previously privi’ed to by way of executive testimonies, corporate emails and other evidence.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twitter looking to roll out photo filters by year's end
+title: Twitter looking to roll out photo filters by years end
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/2012-Twitter-logo.jpg)
 * Back in November, The New York Times reported that Twitter was looking to add Instagram-like photo filters to its official web and mobile clients. The move would allow, if not encourage, users to bypass the popular photo-sharing service.

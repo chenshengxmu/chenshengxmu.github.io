@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It's now technically possible to embed a fingerprint scanner beneath a smartphone display
+title: Its now technically possible to embed a fingerprint scanner beneath a smartphone display
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/LG-Innotek-In-screen-fingerprint-scanner-image-001.jpg)
 * Apple’s ‘iPhone 7’ hasn’t arrived yet but that hasn’t stopped analysts from predicting that an ‘iPhone 8’ will ditch the iconic Home button. Conventional wisdom has it that 3D Touch will simulate Home button presses while fingerprint recognition should be realized by incorporating the Touch ID sensor into the display itself.

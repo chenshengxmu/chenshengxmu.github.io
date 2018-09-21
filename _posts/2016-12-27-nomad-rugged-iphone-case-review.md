@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nomad's Rugged iPhone case makes plastic look classy
+title: Nomads Rugged iPhone case makes plastic look classy
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/12/Nomad-Rugged-iPhone-Case-Rear.png)
 * The new Nomad Rugged case has been my daily driver case for close to a month now, and having had the opportunity to go hands-on with it for that long, I have to say I think I’ll probably continue using it for a while longer.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Maps to integrate Russian Yandex's data in iOS 6, report says
+title: Apple Maps to integrate Russian Yandexs data in iOS 6, report says
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/Yandex-maps.jpg)
 * Google’s relationship with Apple may be on borrowed time. Apple Maps, set to appear soon in iOS 6, will reportedly use a local company’s data Yandex to provide location-search details in Russia. A developer version of iOS 6 will send users to Yandex.Maps for further information regarding locations.

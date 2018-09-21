@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook praises 'American manufacturing expertise' and AppleCare staff
+title: Tim Cook praises American manufacturing expertise and AppleCare staff
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/Tim-Cook-Texas-plant-tour.jpeg)
 * Apple’s boss Tim Cook was photographed looking over the shoulder of a factory worker helping assemble a Mac Pro at Apple’s manufacturing plant in Austin, Texas. The CEO tweeted out the image on his Twitter account as part of Apple’s ongoing effort to promote bringing back (some) manufacturing jobs to the United States.

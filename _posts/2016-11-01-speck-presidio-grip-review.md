@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Speck's Presidio Grip iPhone 7 cases handle everyday clumsiness with ease
+title: Specks Presidio Grip iPhone 7 cases handle everyday clumsiness with ease
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/Speck-Presidio-Grip-Front-Face.png)
 * Anyone who knows me personally knows I’m a huge fan of Speck’s cases because they keep a slim form factor, and yet they pack a lot of drop protection and a superior anti-slip feel in your hand into that compact package.

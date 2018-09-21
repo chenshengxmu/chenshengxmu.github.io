@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's how much Apple is demanding in damages per each Samsung device
+title: Heres how much Apple is demanding in damages per each Samsung device
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/apple-vs-samsung.jpeg)
 * It was recently suggested that Apple wanted Samsung to pay as much as $2.5 billion in damages for allegedly copying its iOS devices: $500 million in lost profits, $25 million in royalty damages and a whopping $2 billion for the profits Samsung “unjustly received” using Apple’s intellectual property.

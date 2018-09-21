@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple 'actively investigating' alleged iCloud hack that led to celeb photo leak
+title: Apple actively investigating alleged iCloud hack that led to celeb photo leak
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/icloud-ios-7-1.png)
 * After nearly 24 hours of silence, Apple has finally commented on the alleged iCloud hack that led to a massive leak yesterday of nude celebrity photos. The Cupertino-based company says that it is aware of the reports and is “actively investigating” the claim.

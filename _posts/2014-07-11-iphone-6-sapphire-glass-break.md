@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video- ultimate torture test reveals what it takes to shatter iPhone 6's sapphire cover glass
+title: Video- ultimate torture test reveals what it takes to shatter iPhone 6s sapphire cover glass
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/iPhone-6-sapphire-cover-glas-shattered.png)
 * Earlier in the week, a scratch test captured on video had us marveling at the virtually indestructible sapphire-strengthened cover glass purportedly making its way to Apple’s forthcoming new iPhones.

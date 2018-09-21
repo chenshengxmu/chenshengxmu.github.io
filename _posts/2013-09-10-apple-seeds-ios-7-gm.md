@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple seeds iOS 7 GM to developers- this is what's new
+title: Apple seeds iOS 7 GM to developers- this is whats new
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/ios-7-gm.png)
 * In a not-so-surprising move, Apple has released iOS 7 GM to developers this afternoon. The release follows Apple’s big iPhone event this morning, where it went over major features from the software and unveiled two new handsets.

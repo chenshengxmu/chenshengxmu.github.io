@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Steve Jobs originally didn't want to enter the e-book market
+title: Steve Jobs originally didnt want to enter the e-book market
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/ibooks-3.0-ss.jpg)
 * In a dose of irony that shouldn’t be lost on anyone and at a time when Apple’s Eddy Cue is being hauled before the U.S. Department of Justice in Manahattan, Apple’s Senior Vice President of Internet Software and Services has admitted that Apple co-founder and then CEO Steve Jobs didn’t even want to sell e-books in the first place.

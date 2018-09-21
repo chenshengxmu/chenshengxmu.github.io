@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's latest 'Your Verse' story is about iPad in Bollywood
+title: Apples latest Your Verse story is about iPad in Bollywood
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/Apple-Your-Verse-Bollywood-002.jpg)
 * You’ve seen how world-class mountaineers use iPad for their extraordinary climbs and how coaches use the device to help diagnose athletes’ concussions so how about some more testimonials?

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sprint names a hundred cities getting 4G LTE in "coming months"
+title: Sprint names a hundred cities getting 4G LTE in coming months
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/sprint-4G-LTE-unlimited-thumb-550xauto-87975.jpeg)
 * Sprint two weeks ago added four more United States cities to its 4G LTE network deployment efforts and today the company announced that it will deploy the speedy network technology across a hundred major cities in “coming months”, including New York, Chicago and Los Angeles.

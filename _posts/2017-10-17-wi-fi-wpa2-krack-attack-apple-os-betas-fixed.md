@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “KRACK Attack” Wi-Fi exploit fixed in Apple's OS betas, AirPort hardware not vulnerable
+title: “KRACK Attack” Wi-Fi exploit fixed in Apples OS betas, AirPort hardware not vulnerable
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/AirPort-Time-Capsule-mid-2013-image-004.jpg)
 * The new “KRACK Attack” hack that completely opens up some routers and all Android 6.0 and later devices while impacting iOS and macOS has been patched in the developer and public betas for iOS, watch OS, macOS and tvOS, Apple has confirmed to iMore’s Rene Ritchie.

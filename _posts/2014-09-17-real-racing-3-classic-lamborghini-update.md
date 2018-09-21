@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Real Racing 3 'Classic Lamborghini' update brings racing school, 8-player multiplayer and more
+title: Real Racing 3 Classic Lamborghini update brings racing school, 8-player multiplayer and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/Real-Racing-3-2.5-for-iOS-iPhone-screenshot-001.jpeg)
 * Wednesday morning, Electronic Arts’ Real Racing 3 for the iPhone and iPad has received another Lamborghini-themed update bringing out several new features, cars, tracks and other content, including classic Lamborghinis such as the limited-edition Miura and the legendary Countach.

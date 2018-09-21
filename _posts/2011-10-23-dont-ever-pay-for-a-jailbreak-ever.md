@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't Ever Pay For a Jailbreak, Ever
+title: Dont Ever Pay For a Jailbreak, Ever
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/Screen-Shot-2011-10-23-at-12.02.08-AM-e1319342647796.png)
 * Sometimes you write a post and you think, “Does this really need to be said?” In this case, it unfortunately does.

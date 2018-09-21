@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Improve your iPhone's low light camera focusing with Torch on Focus
+title: Improve your iPhones low light camera focusing with Torch on Focus
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/Torch-on-Focus-Before-and-After.jpg)
 * Torch on Focus is a new free jailbreak tweak by iOS developer Guy Kaplan that improves your iPhone photography in low-light conditions, which make it more difficult to focus on your subject.

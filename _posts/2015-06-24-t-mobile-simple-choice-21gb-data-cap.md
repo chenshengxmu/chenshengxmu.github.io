@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile enforces 21GB soft cap on Simple Choice plans ahead of tomorrow's Un-Carrier Amped event
+title: T-Mobile enforces 21GB soft cap on Simple Choice plans ahead of tomorrows Un-Carrier Amped event
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/John-Legere-Uncarrier-001.jpg)
 * As reported by the TMoNews blog, Deutsche Telekom-owned T-Mobile, the nation’s fourth-largest wireless carrier, has introduced a soft cap on data usage for its Simple Choice customers in the form of 21 gigabytes of high-speed 4G LTE cellular data. Exceeding this monthly allotment won’t incur additional charges, but your speed may be throttled during periods of network congestion.

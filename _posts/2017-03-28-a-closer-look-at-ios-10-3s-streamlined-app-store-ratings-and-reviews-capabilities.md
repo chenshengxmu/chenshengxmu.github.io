@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A closer look at iOS 10.3's streamlined App Store ratings and reviews capabilities
+title: A closer look at iOS 10.3s streamlined App Store ratings and reviews capabilities
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/App-Store-Feaetured-tab-teaser-001.jpg)
 * Following yesterday’s OS update bonanza, Apple shared some additional details pertaining to iOS 10.3’s new ratings and reviews capabilities that are available to developers.

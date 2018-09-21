@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Customizing the toolbar in your Mac's Preview app
+title: Customizing the toolbar in your Macs Preview app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/Preview-app1.jpg)
 * Every Mac has the Preview app installed on it from the factory, and it’s the default app for opening many kinds of image file types, including PDF files.

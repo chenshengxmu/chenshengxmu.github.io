@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's 2013 product roadmap said to include multiple iPhones, Retina iPad mini and more
+title: Apples 2013 product roadmap said to include multiple iPhones, Retina iPad mini and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/kuo_2013_apple_roadmap.jpg)
 * With all of the bad publicity Apple’s been getting lately, and its stock down 30%, the company could sure use some fresh new products. And according to a new report, it has a number of them in the pipeline for 2013.

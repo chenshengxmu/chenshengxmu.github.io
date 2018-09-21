@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's rumored 4-inch iPhone 6c apparently won't run A9 chip after all
+title: Apples rumored 4-inch iPhone 6c apparently wont run A9 chip after all
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/iPhone-6s-a9.png)
 * Reliable analyst who have been calling for a refresh to the now discontinued four-inch iPhone 5c may have gotten one detail wrong: it sounds like the device, expected to be branded under the ‘iPhone 6c’ moniker, will run Apple’s A8 processor used in last year’s iPhone 6 rather than the latest A9 chip powering the new iPhone 6s.

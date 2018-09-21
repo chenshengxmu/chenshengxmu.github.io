@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bill Gates- you're frustrated because your iPad lacks real keyboard and real Office
+title: Bill Gates- youre frustrated because your iPad lacks real keyboard and real Office
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/bill-gates-energy.jpeg)
 * Microsoft Chairman Bill Gates thinks Apple’s iPad is “frustrating” to use because it lacks a physical keyboard and doesn’t run Office. The Surface, he says, brings the “portability of the tablet but the richness of the PC” to mobile productivity.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: In his own words- Steve Jobs was surprised by App Store's early success
+title: In his own words- Steve Jobs was surprised by App Stores early success
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/stevejobs.jpg)
 * Soon after the opening of the App Store in 2008, The Wall Street Journal sat down with the late Apple CEO Steve Jobs to discuss the store and future of the company. To celebrate the 10th anniversary of the online store, it recently published (along with The Information) both the audio and transcript of the interview with Jobs. The historical record shows even Jobs was surprised by the App Store’s immediate success. Here are some key highlights from the interview, which was held on Aug. 7, 2008.

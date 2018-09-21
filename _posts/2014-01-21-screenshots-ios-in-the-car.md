@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Purported screenshots of 'iOS in the Car' surface
+title: Purported screenshots of iOS in the Car surface
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/in-the-car-3.png)
 * Developer Steven Troughton-Smith posted several images on Twitter this afternoon of what looks like Apple’s iOS in the Car project. The screenshots don’t show the entirety of the feature, but if legit, they do offer some insight on what the Maps app will look like when in use.

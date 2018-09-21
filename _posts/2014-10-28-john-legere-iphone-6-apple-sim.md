@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile's John Legere on iPhone 6 demand, Apple SIM, and more
+title: T-Mobiles John Legere on iPhone 6 demand, Apple SIM, and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/t-mobile-legere.jpg)
 * While Tim Cook was speaking over at The Wall Street Journal’s inaugural WSJ.D Live conference, T-Mobile CEO John Legere joined Ina Fried on stage at Recode’s Code/Mobile event earlier this evening. During the interview, the outspoken executive covered a range of interesting topics.

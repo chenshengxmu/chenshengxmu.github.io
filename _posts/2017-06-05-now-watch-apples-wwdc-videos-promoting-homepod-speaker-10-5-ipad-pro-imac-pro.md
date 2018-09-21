@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Now watch Apple's WWDC videos promoting HomePod speaker, 10.5" iPad Pro & iMac Pro
+title: Now watch Apples WWDC videos promoting HomePod speaker, 10.5 iPad Pro & iMac Pro
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/WWDC-2017-Apocalypse-video.jpg)
 * With the WWDC keynote wrapped up, Apple has now posted latest product introduction videos to its official YouTube channel, including one aptly titled “Apocalypse” that highlights the importance of mobile apps (it was played as an opening intro for WWDC attendees).

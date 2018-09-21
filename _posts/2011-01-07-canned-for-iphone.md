@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Create and Send Pre-Made Texts With 'Canned' for iPhone
+title: Create and Send Pre-Made Texts With Canned for iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/01/Canned-e1294285991782.png)
 * Let’s be real, your time is precious. Sometimes you just don’t have time to shoot off a quick text. You could be in a meeting, driving, at work, or just plain lazy. Wouldn’t it be nice to have a list of pre-made, generic messages you could easily send in a text message?

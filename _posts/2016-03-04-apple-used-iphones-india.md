@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's next move in India- selling used iPhones
+title: Apples next move in India- selling used iPhones
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/iOS-7-teaser-iPhone-5c-ad-006.jpg)
 * It is no secret that Apple is working feverishly to get more iPhones into customers’ hands in India and one of the ways to accomplish this goal will be selling used handsets in the populous country, according to a new report from The Times of India on Friday.

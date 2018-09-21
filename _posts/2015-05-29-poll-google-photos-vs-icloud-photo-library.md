@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Poll- how does Google Photos compare to Apple's Photos app + iCloud Photo Library combo?
+title: Poll- how does Google Photos compare to Apples Photos app + iCloud Photo Library combo?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/05/google-photos-e1432906021758.png)
 * Among a flurry of yesterday’s announcements at the Google I/O developer conference, the Internet giant launched Google Photos, its brand spanking new photography service available across iOS, Android and on the web. It offers unlimited storage (with a  few caveats) and has many other compelling features that give Apple’s iCloud Photo Library a fairly good run for its money.

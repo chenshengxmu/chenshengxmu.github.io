@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Launched Music Beta Without Label's Consent, All Eyes on Apple
+title: Google Launched Music Beta Without Labels Consent, All Eyes on Apple
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/05/google-music.jpg)
 * When we reported yesterday that Google unveiled its cloud service, we mentioned why it was such a shocker. Earlier rumors suggested that Google’s talks with major record labels had come to a halt, so it was certainly strange to see them launch so quickly.

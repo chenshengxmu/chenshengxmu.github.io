@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple rolls out new 'Read Them Here First' section in Newsstand
+title: Apple rolls out new Read Them Here First section in Newsstand
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/here-first-newsstand.png)
 * Today has actually been a pretty big day for Newsstand. Earlier we learned that long-time holdout Rolling Stone Magazine finally landed on the iPad. And this afternoon, Apple rolled out a new section to the store.

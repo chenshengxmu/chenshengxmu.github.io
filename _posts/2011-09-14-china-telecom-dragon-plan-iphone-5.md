@@ -1,6 +1,6 @@
 ---
 layout: post
-title: China Telecom Announces "Dragon Plan" to Sell iPhone 5 in October
+title: China Telecom Announces Dragon Plan to Sell iPhone 5 in October
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/chinatelecom.jpeg)
 * China’s third largest wireless provider has initiated a $234.5 million iPhone 5 promotion called the “Dragon Plan.” China Telecom is already training employees and setting up in-store advertising. One store has even set up a large LCD panel promoting the unreleased iPhone 5.

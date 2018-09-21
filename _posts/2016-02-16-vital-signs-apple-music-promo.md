@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Report- Dr. Dre's Apple-backed TV show 'Vital Signs' will be a vehicle for Apple Music promotion
+title: Report- Dr. Dres Apple-backed TV show Vital Signs will be a vehicle for Apple Music promotion
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/Dr-Dre-Beats-001.jpeg)
 * The rumored Apple-backed television show “Vital Signs” will feature some notable Apple Music product placement, as per sources who spoke to Re/code’s Peter Kafka.

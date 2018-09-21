@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's looking to create custom chips for healthcare purposes
+title: Apples looking to create custom chips for healthcare purposes
 ---
 * Apple hopes to develop a custom processor that it will use for health tracking purposes. In doing so, the company expects to add new features and improve the efficiency of its hardware while also protecting its intellectual property, according to CNBC.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/apple-watch-health.jpg)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 7.1 beta 3 doesn't patch evasi0n7 jailbreak
+title: iOS 7.1 beta 3 doesnt patch evasi0n7 jailbreak
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/iOS-7.1-beta-3-evasi0n7.png)
 * With today’s release of iOS 7.1 beta 3, many people feared that exploits used in the evasi0n7 jailbreak would be patched. As it appears, and even though evasi0n7 cannot jailbreak iOS 7.1 beta 3 as is, Apple didn’t patch evasi0n7.

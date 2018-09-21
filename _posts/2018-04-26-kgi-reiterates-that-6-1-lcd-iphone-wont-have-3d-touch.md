@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KGI reiterates that the upcoming 6.1-inch LCD iPhone won't have 3D Touch
+title: KGI reiterates that the upcoming 6.1-inch LCD iPhone wont have 3D Touch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/How-to-use-the-3D-Touch-App-Switcher-in-iOS-11.1.jpg)
 * Revered KGI Securities analyst Ming-Chi Kuo has reiterated his view that one of Apple’s 2018 iPhone models will skip the 3D Touch feature which made a splash more than two years ago.

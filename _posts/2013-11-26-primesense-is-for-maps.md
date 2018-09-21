@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How PrimeSense's 3D sensing technology could improve Apple Maps
+title: How PrimeSenses 3D sensing technology could improve Apple Maps
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/Apple-Maps-Flyover-Disneyalnd-Paris.jpg)
 * Apple recently dropped a cool $350 million on the PrimeSense acqui-hire. An Apple spokeswoman has officially confirmed the deal last week, but refused to discuss her employer’s purpose or plans (as is the company’s wont). Unless you’ve been sleeping under a rock for the past few years, you must be familiar with PrimeSense, a Tel Aviv-based startup that licenses its 3D sensing hardware designs and chips to third-parties.

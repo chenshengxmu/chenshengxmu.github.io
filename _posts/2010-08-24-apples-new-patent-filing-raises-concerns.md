@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's New Patent Filing Raises Concerns
+title: Apples New Patent Filing Raises Concerns
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/08/unauthorized_user_detection.jpg)
 * Last week iDB reported that Apple had filed for a patent that would grant them the ability to remotely wipe and disable your iPhone. According to Mac Rumors the concerns surrounding this ability continue to grow.

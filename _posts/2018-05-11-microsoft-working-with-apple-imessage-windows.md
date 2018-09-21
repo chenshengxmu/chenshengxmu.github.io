@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft says it's willing to work with Apple on bringing iMessage to Windows users
+title: Microsoft says its willing to work with Apple on bringing iMessage to Windows users
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/Messages-in-iCloud-iPhone-MacBook-Pro-teaser-001.jpg)
 * Microsoft wants to bring iMessage to Windows.

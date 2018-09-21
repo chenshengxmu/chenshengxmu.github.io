@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile's iPhone-friendly HSPA+ goes live in Atlanta, Seattle and Minneapolis
+title: T-Mobiles iPhone-friendly HSPA+ goes live in Atlanta, Seattle and Minneapolis
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/T-Mobile-iPhone-5.jpg)
 * Not to be outdone by AT&T which today rolled out LTE in three new markets, Deutsche Telekom-owned T-Mobile USA just flipped the switch on its iPhone-friendly HSPA+ network in Atlanta, Seattle and Minneapolis. With today’s roll-out, T-Mobile’s 3G HSPA+ service (incorrectly advertised as “4G”) is available in a total of 18 metropolitan areas.

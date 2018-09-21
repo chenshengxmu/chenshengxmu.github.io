@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple- 'great new features' coming to iWork for iCloud 'in just a few short hours'
+title: Apple- great new features coming to iWork for iCloud in just a few short hours
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/iWork-for-iCloud-beta-launching-soon.png)
 * It was two months ago that Apple opened iWork for iCloud to everyone and now it seems the company is getting ready to launch Pages, Keynote and Numbers web apps for public consumption. While visiting beta.icloud.com and logging in with your Apple ID doesn’t give it away, try clicking on, say, the Pages icon and you’ll be greeted with a message saying “we’re updating Pages for iCloud” and a typical Apple tease, “In just a few short hours, you’ll be able to create and edit documents, and enjoy great new features”…

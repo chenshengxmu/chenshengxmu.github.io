@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple airs new 'Parenthood' iPhone 5s ad
+title: Apple airs new Parenthood iPhone 5s ad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/5s-parenthood-ad.png)
 * Apple has this evening posted a new TV commercial for the iPhone 5s to its YouTube channel. The ad is entitled ‘Parenthood,’ and it touts the handset’s ability to morph into a useful tool for parents.

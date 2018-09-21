@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Internally Leaked AT&T Employee Memo for Tomorrow's White iPhone 4 Launch
+title: Internally Leaked AT&T Employee Memo for Tomorrows White iPhone 4 Launch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/white-iphone-4g-2.jpeg)
 * The folks at ModMyi have gotten their hands on an internally leaked memo from AT&T that outlines the protocol for tomorrow’s white iPhone 4 announcement. Apple confirmed that the white iPhone was finally launching on AT&T and Verizon tomorrow, and demand is expected to be substantial for the device.

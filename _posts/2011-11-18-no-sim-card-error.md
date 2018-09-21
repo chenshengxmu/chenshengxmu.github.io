@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "No SIM Card" Error Plaguing Some iPhone 4S Users
+title: No SIM Card Error Plaguing Some iPhone 4S Users
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/01/No-SIM-Card.png)
 * Apple has had its hands full with iPhone 4S issues over the past month. There’s been reports of poor battery performance (associated with iOS 5), audio echoing during phone calls, and connection issues with both Wi-Fi and 3G networks.

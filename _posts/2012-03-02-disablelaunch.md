@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DisableLaunch' prevents launching apps from the SpringBoard
+title: DisableLaunch prevents launching apps from the SpringBoard
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/DisableLaunch-Screenshot.jpg)
 * DisableLaunch is a free jailbreak tweak that adds a security element to your iPhone’s Home screen.

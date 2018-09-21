@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is Apple's magic wand 'the simplest interface' for iTV that Steve Jobs envisioned?
+title: Is Apples magic wand the simplest interface for iTV that Steve Jobs envisioned?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/iTV-on-wall-mockup.jpeg)
 * As Tim Cook & Co. continue “pulling the string” on the TV space, readers with a keen interest in Apple’s many patent applications are aware of a 2009 filing involving a wand remote of sorts that may include a motion detection component meant for the television interface.

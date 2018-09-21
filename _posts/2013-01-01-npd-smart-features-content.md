@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NPD- consumers find current 'smart' TVs a little too smart
+title: NPD- consumers find current smart TVs a little too smart
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/apple-tv.png)
 * The year is now 2013, and according to Piper Jaffray analyst Gene Munster, Apple is going to release a new television product in the next 6 months. Of course, you can’t always believe what analysts say. But you can’t always ignore them either.

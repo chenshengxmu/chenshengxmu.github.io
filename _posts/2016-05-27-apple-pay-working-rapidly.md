@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple- we're "working rapidly" to bring Apple Pay to "every significant market"
+title: Apple- were working rapidly to bring Apple Pay to every significant market
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/Apple-Pay-SIngapore-teaser-001.jpg)
 * Earlier in the week, Apple Pay launched fully in Singapore with five major local banks on board, marking the sixth country where the company’s service is currently accepted as a form of payment.

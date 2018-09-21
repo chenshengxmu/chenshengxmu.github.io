@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Foursquare's new Swarm app now available
+title: Foursquares new Swarm app now available
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/Swarm-1.0-for-iOS-iPhone-screenshot-002.png)
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/Swarm-1.0-for-iOS-iPhone-screenshot-001.png)

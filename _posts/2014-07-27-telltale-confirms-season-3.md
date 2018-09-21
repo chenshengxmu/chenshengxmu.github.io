@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Telltale confirms third season of 'The Walking Dead'
+title: Telltale confirms third season of The Walking Dead
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/The-Walking-Dead-2.jpeg)
 * Folks worried that the final episode of The Walking Dead: Season Two will be the end of the series can rest easy. Developer Telltale Games has confirmed this weekend that the story of the dead will live on in season 3.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unlockize brings six high quality animations to your iPhone's Lock screen
+title: Unlockize brings six high quality animations to your iPhones Lock screen
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Unlockize-Screenshot.jpg)
 * Anton Kudin’s “fold to unlock” concept didn’t stop short at just inspiring one Cydia developer to turn the concept a reality, it inspired two.

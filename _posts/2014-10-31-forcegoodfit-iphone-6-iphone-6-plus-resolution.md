@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ForceGoodFit' is reason enough alone to jailbreak the iPhone 6 and iPhone 6 Plus
+title: ForceGoodFit is reason enough alone to jailbreak the iPhone 6 and iPhone 6 Plus
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/ForceGoodFit-Settings.png)
 * It’s been well over a month since the iPhone 6 and 6 Plus officially touched down in retail stores, and even longer since iOS 8 became available. Still, as seems to be the case with each new major iPhone and iOS release, there are developers who take a while when it comes to updating their apps.

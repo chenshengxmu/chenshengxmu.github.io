@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wikipad introduces new 'Gamevice' controller for iPad mini
+title: Wikipad introduces new Gamevice controller for iPad mini
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/gamevice.png)
 * Wikipad, the company behind last year’s interesting-but-not-very-successful Android gaming tablet, has announced a new accessory for iOS devices today. It’s called the Gamevice, and it’s a decked out MFi game controller made specifically for the iPad mini.

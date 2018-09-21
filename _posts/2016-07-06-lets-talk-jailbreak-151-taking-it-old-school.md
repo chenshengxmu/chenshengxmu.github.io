@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's Talk Jailbreak 151- Taking it old school
+title: Lets Talk Jailbreak 151- Taking it old school
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/Lets-Talk-Jailbreak-banner.png)
 * Following the recent release of the first iOS 10 beta, the guys discuss some of the tweaks that might have been killed by Apple’s latest software update. The discussion then drifts to Pangu’s recent demo of an iOS 10 jailbreak, sketchy iOS 9.3.2 jailbreak rumors, and a couple tweaks.

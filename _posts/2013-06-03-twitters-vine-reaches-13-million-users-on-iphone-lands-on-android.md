@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twitter's Vine reaches 13 million users on iPhone, lands on Android
+title: Twitters Vine reaches 13 million users on iPhone, lands on Android
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/Vine-1.0.7-for-iOS-iPhone-screenshot-001.jpg)
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/Vine-1.0.7-for-iOS-iPhone-screenshot-002.jpg)

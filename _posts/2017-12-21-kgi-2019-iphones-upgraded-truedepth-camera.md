@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KGI- 2019 iPhones will have upgraded TrueDepth camera that'll draw more power
+title: KGI- 2019 iPhones will have upgraded TrueDepth camera thatll draw more power
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/Apple-Event-September-2017-TrueDepth-camera-003.jpg)
 * While iPhones introduced next year are expected to feature basically the same TrueDepth camera as one found on the new iPhone X, models coming in 2019 will be outfitted with an upgraded TrueDepth system that’ll consume more power and require larger-capacity batteries.

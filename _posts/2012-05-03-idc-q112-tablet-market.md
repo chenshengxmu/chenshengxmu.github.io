@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPad gulps more than two-thirds of market as Amazon's Fire falls from grace
+title: iPad gulps more than two-thirds of market as Amazons Fire falls from grace
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/iPad-3-iPhoto-teaser.jpg)
 * A whopping 91 percent of tech moms want it for Mother’s Day instead of flowers, teachers deem it the future of education (though DoJ disagrees), it’s used everywhere for work, has managed to break Amazon’s monopolistic grip on the publishing industry – and yet it shows no sign of slowing down.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple may finally replace MacBook Air this year with a new 13" MacBook model
+title: Apple may finally replace MacBook Air this year with a new 13 MacBook model
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/macbook-air.png)
 * Apple might replace its aging MacBook Air lineup, which only received minor CPU updates in the past few years, with an all-new MacBook model outfitted with a thirteen-inch screen.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's record Q1 2017 earnings- 78.3M iPhones, 13.1M iPads, $78.4B revenue
+title: Apples record Q1 2017 earnings- 78.3M iPhones, 13.1M iPads, $78.4B revenue
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/apple-hq-headquarters.jpg)
 * Apple on Tuesday reported its [fiscal] Q1 2017 earnings,  offering a look at its performance over the all-important 3-month holiday quarter. To the surprise of many analysts, the company beat Wall Street’s expectations by posting a record 78.3 million iPhone sales and $78.4 billion in revenue.

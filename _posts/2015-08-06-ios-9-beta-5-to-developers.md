@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple seeds iOS 9 beta 5 to developers, beta 3 to public testers- here's what's new
+title: Apple seeds iOS 9 beta 5 to developers, beta 3 to public testers- heres whats new
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/08/ios-9-header.png)
 * Apple on Thursday seeded the fifth beta of iOS 9 to developers. The update is available to registered developers as an over-the-air download via the Settings app for those on beta 4, or as a standalone download from Apple’s developer portal.

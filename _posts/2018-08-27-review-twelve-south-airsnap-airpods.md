@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twelve South's AirSnap is a protectice case for your AirPods charging case
+title: Twelve Souths AirSnap is a protectice case for your AirPods charging case
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/Twelve-South-AirSnap-004.jpg)
 * My AirPods have served me great thus far and I don’t think I ever left home once without them in the past year or so of owning a pair of these. AirPods have proved especially valuable for making phone calls, using Siri and enjoying my music just about anywhere, hands-free. My only quibble is the slippery charging case prone to accidental drops. Because it’s so tiny, the charging case can be lost quite easily—I misplaced mine several times in a glove compartment of my car and even forgot it on a local bar stool and a restaurant table recently.

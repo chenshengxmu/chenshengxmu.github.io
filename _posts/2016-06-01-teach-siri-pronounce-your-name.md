@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What to do when Siri doesn't pronounce your name right
+title: What to do when Siri doesnt pronounce your name right
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/Siri-Pronounces-My-Name-Wrong.png)
 * Siri is an amazing piece of software and Apple has tried so hard to make it capable of pronouncing everyone’s names right, but there are just too many names in the world for Siri to be perfect and pronouncing all of them.

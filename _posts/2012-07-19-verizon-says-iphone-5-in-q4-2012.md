@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Verizon's finance chief says the next iPhone could drop in the fourth quarter
+title: Verizons finance chief says the next iPhone could drop in the fourth quarter
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/iphone-5-concept.jpg)
 * Verizon’s finance chief Fran Shammo dropped a hint concerning the next iPhone’s availability during today’s earnings call. Discussing the company’s second-quarter results that saw Verizon activate 2.7 million iPhones for a 45 share of all smartphones sold on their network, Shammo hinted that the iPhone 5 (or whatever you prefer to call it) will arrive during the fourth quarter of this year.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Supply cuts a result of Apple's adoption of IGZO screens for upcoming iDevices?
+title: Supply cuts a result of Apples adoption of IGZO screens for upcoming iDevices?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/Sharp-IGZO-chart.jpg)
 * The reduction in orders of iPhone 5 displays and other components isn’t a sign of weak demand as sober analysts paint demand as robust. Nevertheless, the rumor has opened door for more speculation that the Cupertino, California company is winding down production of the iPhone 5 ahead of the iPhone 5S release in June or July.

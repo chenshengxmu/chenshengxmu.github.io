@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Korean authorities raided Apple's offices prior to iPhone X launch
+title: Korean authorities raided Apples offices prior to iPhone X launch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/iPhone-X-Display.jpg)
 * South Korean authorities have allegedly conducted a raid of Apple’s offices in Seoul earlier this week ahead of the scheduled iPhone X launch on Samsung’s home turf tomorrow.

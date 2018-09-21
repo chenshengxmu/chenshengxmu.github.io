@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Magnasonic's pocket-sized LED Pico projector lets you take the big screen anywhere
+title: Magnasonics pocket-sized LED Pico projector lets you take the big screen anywhere
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/04/Magnasonic-LED-Pico-Projector-Main.jpg)
 * Magnasonic’s new LED Pico Projector is just what you need if you’re an on-the-go business person, want to watch movies on your wall, or need a quick way to show off a presentation at work or in class. But the uses don’t stop there.

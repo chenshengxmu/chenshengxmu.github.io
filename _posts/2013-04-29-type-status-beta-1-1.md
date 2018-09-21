@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TypeStatus 1.1 supercharges the 'now typing' indicator in your status bar
+title: TypeStatus 1.1 supercharges the now typing indicator in your status bar
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/TypeStatus-Featured.png)
 * TypeStatus will always have a special spot in my heart, because it’s one of the few tweaks that I can say I envisioned. Brought to fruition by Hashbang productions’ @thekirbylover, it’s a tweak that allows you to see when a person is replying to an iMessage by means of an ellipses icon in the status bar.

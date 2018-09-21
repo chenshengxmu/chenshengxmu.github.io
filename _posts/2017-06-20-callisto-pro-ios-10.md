@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spice up your Lock screen's passcode capabilities with Callisto Pro
+title: Spice up your Lock screens passcode capabilities with Callisto Pro
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/Callisto-Pro-iOS-10.jpg)
 * Whether you’re using Touch ID or a passcode to secure your device, a new jailbreak tweak dubbed Callisto Pro (iOS 10) by iOS developer ijapija00 provides a host of new features for customizing the passcode-entry experience.

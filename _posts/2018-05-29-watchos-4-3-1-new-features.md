@@ -1,6 +1,6 @@
 ---
 layout: post
-title: watchOS 4.3.1 released- here is what's new
+title: watchOS 4.3.1 released- here is whats new
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/05/apple-watchos4-3-1.jpg)
 * Apple has released watchOS 4.3.1 to the public. The Apple Watch software update is minor, at best, and available now for download over the air (OTA). Here’s everything new in watchOS 4.3.1. 

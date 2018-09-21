@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's the first emulator built for the new Apple TV
+title: Heres the first emulator built for the new Apple TV
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/Provenance-Apple-TV.png)
 * One of the new Apple TV’s biggest upsides is its game playing ability. Indeed, Apple’s next generation Apple TV will focus heavily on gaming, and even comes equipped with a Wii-inspired motion remote/controller with a touchpad.

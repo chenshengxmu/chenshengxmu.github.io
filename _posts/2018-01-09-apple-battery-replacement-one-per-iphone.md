@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's discounted $29 battery replacement service is limited to one repair per iPhone
+title: Apples discounted $29 battery replacement service is limited to one repair per iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/iPhone-7-teardown-iFixit-008.jpeg)
 * Apple has slashed its iPhone battery replacement service fee to $29 from $79 after admitting to slowing down older models with worn-out batteries, but those looking to take advantage of the offer should know that the discounted pricing is limited to one repair per device.

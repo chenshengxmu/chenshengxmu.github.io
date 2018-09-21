@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Does Apple's SDK for iOS Kill Creativity?
+title: Does Apples SDK for iOS Kill Creativity?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/09/sdklogo.jpg)
 * I can’t imagine owning an iPhone or other Apple handheld without the addition of the App Store. I’ve said before that I believe it to be the greatest asset to the iOS platform. So what’s the problem?

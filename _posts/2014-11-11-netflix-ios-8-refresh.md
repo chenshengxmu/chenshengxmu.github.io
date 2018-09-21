@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Netflix's iOS 8 refresh adds 1080p playback on iPhone 6 Plus and support for iPhone 6 screens
+title: Netflixs iOS 8 refresh adds 1080p playback on iPhone 6 Plus and support for iPhone 6 screens
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/11/Netflix-7.0-for-iOS-iPhone-screenshot-001.jpeg)
 * Netflix, a $7.99 per month over-the-top streaming video service, at last has gotten around updating its iPhone and iPad application for Apple’s latest mobile operating system.

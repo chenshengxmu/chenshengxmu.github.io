@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Set Up 'Find My iPhone' on Your iPhone
+title: How to Set Up Find My iPhone on Your iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/11/Set-Up-Find-My-iPhone-e1290441776999.png)
 * The news just fell that iOS 4.2 will be available later today iOS 4.2 is available for download. One of the big news about iOS 4.2 for iPhone is that it’s coming with a free access to the Find My iPhone feature, which was previously part of the $99/year MobileMe.

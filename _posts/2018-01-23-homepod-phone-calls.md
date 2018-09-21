@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's how HomePod will handle phone calls
+title: Heres how HomePod will handle phone calls
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/HomePod-Waveform.jpg)
 * One of the tidbits about HomePod that can be gleaned easily from Apple’s refreshed website and today’s press release announcing the device’s February 9 availability is the fact that the Siri-driven smart speaker won’t take phone calls at launch.

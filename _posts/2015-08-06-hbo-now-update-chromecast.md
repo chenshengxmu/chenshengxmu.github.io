@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HBO NOW updated with support for Google's Chromecast
+title: HBO NOW updated with support for Googles Chromecast
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/08/chrome-hbo.png)
 * HBO pushed out an update for its NOW mobile app this morning, brining the iOS client to version 1.2. According to the change log, the release includes performance improvements, and support for push notifications and Chromecast devices.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Tim Cook loses top CEO ranking to Facebook in Glassdoor survey
+title: Apples Tim Cook loses top CEO ranking to Facebook in Glassdoor survey
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/Tim_cook_by_Adam_Tow1-e1316605688303.png)
 * It’s uncertain what caused it, but the first cracks are appearing in the honeymoon between Apple CEO Tim Cook and company employees.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twitter's iOS app gains Peek and Pop previews
+title: Twitters iOS app gains Peek and Pop previews
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/Twitter-for-iOS-Peek-and-Pop-3D-Touch-iPhone-6s-screenshot-001.jpg)
 * Although you couldn’t tell it by looking at official release notes for Twitter’s version 6.54 update, which make a passing mention of “a few minor updates that you didn’t even know you needed”, the app has finally gained additional 3D Touch goodies in the form of Peek and Pop previews within the app. Before today, Twitter for the iPhone and iPad only supported Quick Actions on the Home screen. Grab Twitter for iOS for free on the App Store.

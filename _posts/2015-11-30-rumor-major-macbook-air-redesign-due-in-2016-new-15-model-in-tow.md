@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rumor- major MacBook Air redesign due in 2016, new 15" model in tow
+title: Rumor- major MacBook Air redesign due in 2016, new 15 model in tow
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/MacBook-Air-stickers-ad-001.jpg)
 * Apple’s MacBook Air notebook is rumored to receive a thorough redesign next year alongside a brand new fifteen-inch model introduction, according to a report Monday by Economic Daily News.

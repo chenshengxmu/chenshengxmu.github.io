@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile- We're Not Getting the iPhone 5 This Year
+title: T-Mobile- Were Not Getting the iPhone 5 This Year
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/screen-shot-2011-09-20-at-8-43-45-amwtmk.jpeg)
 * A leaked internal document from T-Mobile says that the carrier will not offer the iPhone 5 on its network this year. Previous rumors have suggested that Apple would open up iPhone availability on all US carriers with the iPhone 5 launch this Fall, but that doesn’t seem to be the case.

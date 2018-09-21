@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple denies claims that it's threatening artists to force Apple Music deals
+title: Apple denies claims that its threatening artists to force Apple Music deals
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/Apple-Music-all-devices-teaser-001.jpg)
 * Apple denies claims made by some artists that it’s threatening to remove their songs from iTunes if they don’t sign up for Apple Music, reports Rolling Stone. A company spokesperson told the outlet that music “will not be taken off” as a result of license negotiations.

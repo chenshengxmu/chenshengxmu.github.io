@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video- Apple's top-heavy, self-driving Lexus SUV
+title: Video- Apples top-heavy, self-driving Lexus SUV
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/Apple-self-driving-Lexus-SUV.jpeg)
 * Here’s your closer look at Apple’s autonomous Lexus vehicle, courtesy of self-driving startup Voyage co-founder MacCallister Higgins who captured a video of the SUV and posted it to Twitter last night.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Satechi's 75W USB-C charger can power your MacBook Pro and 3 additional devices
+title: Satechis 75W USB-C charger can power your MacBook Pro and 3 additional devices
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/Satechi-75W-USB-C-Charger-CES-2018.jpg)
 * Satechi has previewed their upcoming 75W USB-C multi-charger at CES 2018. We went hands on to check it out, as well as to get a preview of their upcoming Bluetooth keyboard.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: References to Office iOS apps spotted on Microsoft's support site
+title: References to Office iOS apps spotted on Microsofts support site
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/Microsotft-Office-for-iOS-apps-English-support-site.jpg)
 * Microsoft’s long-rumored Office suite for iOS and Android is like a unicorn: everybody’s talking about it and yet no one but a rare few have seen it. The Redmond-based Windows maker may have just “inadvertently” (conspiracy theorists, rejoice!) leaked another solid proof that Excel, PowerPoint and Word apps are coming to both the iPhone and iPad.

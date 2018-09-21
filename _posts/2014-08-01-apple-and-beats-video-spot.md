@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Siri joins Beats Pill mascots in new 'Apple and Beats' spot
+title: Siri joins Beats Pill mascots in new Apple and Beats spot
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/beats-pills.png)
 * Beats Electronics posted a new video to its Twitter account this evening called ‘Apple and Beats.’ The ad appears to be a continuation of today’s celebration festivities, but oddly enough, no one in the spot actually gets to celebrate.

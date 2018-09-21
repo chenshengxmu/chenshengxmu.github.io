@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's vision of a streamlined clarification process for when Auto-Correction makes mistakes
+title: Apples vision of a streamlined clarification process for when Auto-Correction makes mistakes
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/04/iOS-Auto-Correction-what-the-duck-iPhone-screenshot-001.png)
 * There probably isn’t a single iPhone user on this planet that hasn’t experienced the “joys” of the Auto-Correction feature interfering with their messaging. Auto-Correction mistakes often produce hilarious miscommunications (there’s a website for that).

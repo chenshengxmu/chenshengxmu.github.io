@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review- Apple's $149 leather sleeve for 12" MacBook
+title: Review- Apples $149 leather sleeve for 12 MacBook
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/Apple-Macbook-leather-sleeve-stacked.jpg)
 * Launched under the radar during the iPhone X pre-order spree, the leather sleeve for MacBook is the first case Apple has released for one of its portable computers.

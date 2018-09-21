@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Instagram responds- 'your photos are your photos'
+title: Instagram responds- your photos are your photos
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/Instagram-web-profile-screenshot-001.jpg)
 * There has been a whole lot of hoopla surrounding Instagram’s newly updated terms of services, with commenters warning the new rules might give the popular Facebook-owned photography service the right to share your data with third-parties and – worse – sell your Instagram photos without compensating you. Does Facebook really intend to turn Instagram into a stock photo service that doesn’t pay a dime to photographers?

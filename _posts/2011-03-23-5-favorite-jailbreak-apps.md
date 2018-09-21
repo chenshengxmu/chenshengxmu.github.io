@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jailbreakers' Choice- Your 5 Picks, Vote for the Best
+title: Jailbreakers Choice- Your 5 Picks, Vote for the Best
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/03/Jailbreakers-Choice1.png)
 * On Friday we asked you for your top five favorite paid products from Cydia. We received a large amount of responses, tallied up every vote, and determined what the five most popular paid packages are from our readers.

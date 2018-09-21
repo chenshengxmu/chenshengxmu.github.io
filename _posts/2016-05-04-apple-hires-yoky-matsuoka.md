@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple hires Google X Lab co-founder and Nest's former tech boss for health projects
+title: Apple hires Google X Lab co-founder and Nests former tech boss for health projects
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/Yoky-Matsuoka-LinkedIn-profile-web-screenshot-001.png)
 * Apple has hired famed robotics expert Yoky Matsuoka, a former head of technology at the smart thermostat maker Nest before it was acquired by Google and one of the co-founders of the search giant’s X Lab, a research and development unit tasked with conceiving moonshot projects.

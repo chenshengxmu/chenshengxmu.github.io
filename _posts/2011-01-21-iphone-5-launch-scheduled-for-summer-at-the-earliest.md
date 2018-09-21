@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 5 Launch Scheduled for "Summer At The Earliest"
+title: iPhone 5 Launch Scheduled for Summer At The Earliest
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/01/iPhone-Parts.png)
 * Rumors about the iPhone 5 and iOS 4.3 have been running rampant lately. While a lot of “leaks” and speculation has been made about Apple’s major upcoming version of iOS, not much has been said about the iPhone 5’s hardware. All we’ve heard is a report from Engadget that the iPhone 5 will be a “total redesign” of the current version.

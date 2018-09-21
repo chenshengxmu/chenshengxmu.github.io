@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bloomberg- Apple's iAd team gearing up for new iRadio service
+title: Bloomberg- Apples iAd team gearing up for new iRadio service
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/iTunes-11-Albums.jpg)
 * This weekend was chock-full of iRadio news, with multiple reports claiming that Apple reached a deal with the Warner Music Group on Sunday in an effort to wrap up negotiations involving its Pandora-like music service in time for WWDC next week.

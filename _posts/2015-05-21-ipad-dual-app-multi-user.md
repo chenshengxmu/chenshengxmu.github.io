@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New report details 12" iPad with dual-app viewing mode and iOS 9 multi-user support
+title: New report details 12 iPad with dual-app viewing mode and iOS 9 multi-user support
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/iPad-Air-2-touch-id-gold.png)
 * Apple is developing not one, but two new twelve-inch iPad models, codenamed “J98” and “J99”. Also, the firm’s doubled down on advancing productivity aspects of iOS with a much-needed dual-app multitasking mode and support for multiple users in iOS 9, a report Thursday by 9to5Mac alleged.

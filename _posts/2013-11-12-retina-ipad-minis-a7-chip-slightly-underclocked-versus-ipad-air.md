@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Retina iPad mini's A7 chip slightly underclocked versus iPad Air
+title: Retina iPad minis A7 chip slightly underclocked versus iPad Air
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/four-iPad-mini-retina-display.jpg)
 * In a surprise non-announcement, Apple’s iPad mini with Retina display has unexpectedly gone on sale this morning. For the time being, the device is available online for shipping or with in-store pick-up.

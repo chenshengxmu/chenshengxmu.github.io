@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sprint unveils new 1Gb 'Spark' wireless service
+title: Sprint unveils new 1Gb Spark wireless service
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/sprint-store.jpg)
 * Sprint today revealed that it has developed a new wireless technology that could allow it to surpass the data speeds of its competitors. Dubbed ‘Sprint Spark,’ the ultra-fast LTE service is currently capable of delivering peak speeds of up to 60Mbp .

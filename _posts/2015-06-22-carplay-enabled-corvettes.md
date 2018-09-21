@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chevy's first CarPlay-enabled vehicles heading to dealers
+title: Chevys first CarPlay-enabled vehicles heading to dealers
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/corvette.jpg)
 * Chevrolet’s first CarPlay-enabled vehicles have begun shipping from production facilities, reports TechCrunch. The automaker shared the above image of the cars rolling off the assembly line, and says that they are on their way to dealers and consumers.

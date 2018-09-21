@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Expert laughs off Microsoft's pre-emptive claim of Surface beating iPad 3 on screen sharpness
+title: Expert laughs off Microsofts pre-emptive claim of Surface beating iPad 3 on screen sharpness
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/iPad-3-Retina-Display-type-example.jpg)
 * A Microsoft engineer in a Reddit thread made a bold claim that a 1,366-by-768 pixel resolution display on the Surface tablet is way sharper than the 2,048-by-1,536 pixel resolution Retina display on the iPad 3. The comment left some scratching their head, wondering if Microsoft found a way to bypass the laws of physics.

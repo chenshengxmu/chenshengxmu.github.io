@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book Reveals New Details on Eddy Cue's Role at Apple
+title: Book Reveals New Details on Eddy Cues Role at Apple
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/eddy-cue.jpg)
 * Fortune Editor Adam Lashinsky is releasing a book next week entitled Inside Apple. The book is expected to contain several secrets regarding the Mac-making company that aren’t currently considered public knowledge.

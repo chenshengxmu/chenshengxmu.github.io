@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Snapchat's new $150 Spectacles are water resistant, less bulky than the original
+title: Snapchats new $150 Spectacles are water resistant, less bulky than the original
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/04/Snapchat-Spectacles-waater-resistance.jpg)
 * Snap Inc’s newest Spectacles camera sunglasses are made for the summer.

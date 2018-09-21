@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple could slash prices of next year's 4.7" and 5.5" iPhones with legacy LCD technology
+title: Apple could slash prices of next years 4.7 and 5.5 iPhones with legacy LCD technology
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/iPhone-6-inside-view-retina-hd-display.png)
 * KGI Securities analyst Ming-Chi Kuo is on a roll this morning with a litany of reports pertaining to Apple’s next-generation 2017 iPhone refresh. According to another note issued to clients this morning, a copy of which was obtained by AppleInsider, Kuo says he expects the Cupertino firm to slash prices of both 4.7 and 5.5-inch iPhone models next year.

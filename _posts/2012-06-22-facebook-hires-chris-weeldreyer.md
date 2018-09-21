@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Facebook hires Apple's UI Design Manager, possibly for a phone project?
+title: Facebook hires Apples UI Design Manager, possibly for a phone project?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/chris-weeldreyer1.png)
 * According to a new report by InsideFacebook, Facebook has recently hired Apple’s former Product Design Manager Chris Weeldreyer, as indicated by his Facebook profile. Weeldreyer, who has 8+ year experience as user interface design manager, started his new role at Facebook on June 18, 2012.

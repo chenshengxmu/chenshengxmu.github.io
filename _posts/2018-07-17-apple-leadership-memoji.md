@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Leadership page receives an awesome Memoji overhaul for World Emoji Day
+title: Apples Leadership page receives an awesome Memoji overhaul for World Emoji Day
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/Apple-LEadership-World-Emoji-Day-2018.jpg)
 * Memoji, one of the headline new features of iOS 12, is at the heart of an amusing overhaul of Apple’s Leadership webpage, with a custom three-dimensional Animoji character overlaid on top of the headshot of each key executive listed on the page.

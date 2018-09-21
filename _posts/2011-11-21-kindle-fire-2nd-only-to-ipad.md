@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amazon's Kindle Fire All Set to be 2nd Only to the iPad
+title: Amazons Kindle Fire All Set to be 2nd Only to the iPad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/kindle_fire.jpg)
 * The iPad may have had it all its own way since its initial inception last year, but if a new survey is to be believed, then it may finally have some real competition in the form of Amazon’s Kindle Fire.

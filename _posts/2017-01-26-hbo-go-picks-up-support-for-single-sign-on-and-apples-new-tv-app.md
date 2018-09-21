@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HBO GO picks up support for Single sign-on and Apple's new TV app
+title: HBO GO picks up support for Single sign-on and Apples new TV app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/05/HBO-GO-3.0.1-for-iOS-iPhone-screenshot-001.jpeg)
 * Apple today put HBO GO on the list of video apps supported in its new TV app via the Single-sign on feature that recently launched in iOS 10 and tvOS 10.

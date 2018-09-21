@@ -1,6 +1,6 @@
 ---
 layout: post
-title: YouTube for iOS gains support for live streaming via Apple's ReplayKit
+title: YouTube for iOS gains support for live streaming via Apples ReplayKit
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/Modern-Combat-5-live-streaming-replaykit-youtube-iPad-screenshot-001.jpg)
 * Google today updated its mobile YouTube app for iPhone and iPad with support for live streaming via ReplayKit, Apple’s framework introduced in iOS 9 and tvOS 10 that lets you record or stream video from supported apps and games and audio from the microphone.

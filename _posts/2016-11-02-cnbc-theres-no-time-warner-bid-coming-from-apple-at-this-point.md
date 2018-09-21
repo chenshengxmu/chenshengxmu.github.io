@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CNBC- there's no Time Warner bid coming from Apple “at this point”
+title: CNBC- theres no Time Warner bid coming from Apple “at this point”
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/Time-Warner-exterior-CNBC-image-001.jpg)
 * U.S. wireless carrier AT&T recently announced it had agreed to buy Time Warner in a blockbuster deal valued at more than $85 billion.

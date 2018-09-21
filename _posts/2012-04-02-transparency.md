@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Transparency' will make your app icons invisible
+title: Transparency will make your app icons invisible
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/Transparency-Screenshot.jpg)
 * Transparency is one of those tweaks that allows you to do all sorts of things with respect to the look of your Home screen app icons. As its name suggests, the primary purpose is to make your icons transparent, or in many cases outright invisible.

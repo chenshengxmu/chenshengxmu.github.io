@@ -1,6 +1,6 @@
 ---
 layout: post
-title: U2 rumored to be on hand for Apple's iPhone 6 event
+title: U2 rumored to be on hand for Apples iPhone 6 event
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/u2-bono.jpg)
 * Some interesting rumors began bouncing around the tech world earlier today regarding popular Irish rock band U2 and Apple’s big media event next week. The chatter has ranged from the iPhone 6 coming preloaded with the band’s new album, to it performing live after the keynote.

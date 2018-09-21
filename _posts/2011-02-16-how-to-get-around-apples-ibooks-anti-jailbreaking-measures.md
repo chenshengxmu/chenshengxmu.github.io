@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Get Around Apple's iBooks Anti-Jailbreaking Measures
+title: How to Get Around Apples iBooks Anti-Jailbreaking Measures
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/02/iBooks-Blocked-for-Jailbreakers.png)
 * Yesterday I told you about Apple’s efforts to thwart jailbreakers by blocking them from opening DRM enabled books in iBooks. Safe to say, that didn’t go over well with you, or the rest of the jailbreak community.

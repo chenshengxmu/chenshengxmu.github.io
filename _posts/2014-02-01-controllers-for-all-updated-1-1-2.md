@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Controllers for All' updated with improved game detection and fixes for disconnect issues
+title: Controllers for All updated with improved game detection and fixes for disconnect issues
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/Resized-Controllers-for-All.png)
 * Good news for those of you who wish to use PS3 or PS4 controllers with games that include iOS 7 controller support: the Controllers for All tweak has been updated with lots of improvements and fixes.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T says it's no longer tracking subscribers using perma-cookies
+title: AT&T says its no longer tracking subscribers using perma-cookies
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/ATT-Chicago-store-interior-001.jpg)
 * AT&T told the Associated Press on Friday that it is no longer using permanent cookies to track its subscribers. In late October, security researchers discovered that the carrier, along with its competitor Verizon, were using unique identifying numbers or “perma-cookies” to track their customers online habits.

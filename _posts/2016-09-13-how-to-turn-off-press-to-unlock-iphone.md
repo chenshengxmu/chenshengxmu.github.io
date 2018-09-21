@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to disable 'Press Home to Unlock' on iOS 10
+title: How to disable Press Home to Unlock on iOS 10
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/iOS-10-Lock-screen-Press-home-to-unlock-image-003.png)
 * iOS 10 has introduced a new way of unlocking Touch ID-capable devices, now requiring you to press the Home button to unlock the device and get to the Home screen. This, coupled with the new Raise to Wake feature can make for a nicer experience, but like every new interaction, it can be confusing, annoying, or just hard to break the habit.

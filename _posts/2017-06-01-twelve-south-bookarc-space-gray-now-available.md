@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twelve South's BookArc stand for Apple notebooks now available in Space Gray
+title: Twelve Souths BookArc stand for Apple notebooks now available in Space Gray
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/BookArc-Scenery-Space-Gray.jpg)
 * Twelve South just launched a new Space Gray color option for its popular BookArc stand for MacBook, MacBook Air, and MacBook Pro on Thursday.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Battery Health feature on iPhone has lots its beta tag
+title: Apples Battery Health feature on iPhone has lots its beta tag
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/iOS-12-Settings-Battery-Battery-Health-001.png)
 * Apple’s Battery Health feature has exited beta.

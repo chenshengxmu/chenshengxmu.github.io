@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Martin Hajek's new concept pictures budget iPhone running revamped iOS 7
+title: Martin Hajeks new concept pictures budget iPhone running revamped iOS 7
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/Budget-iPhone-concept-iOS-7-Martin-Hajek-003.jpg)
 * The renderings use Hajek’s past budget iPhone concepts as the basis for the hardware. As for the software, he incorporated a round of nice concepts by 3D artist Dámaso Benítez, picturing a flattened iOS 7 user interface that Apple’s design head Jony Ive and his team are widely believed to be working on.

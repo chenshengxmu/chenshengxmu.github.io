@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing the iDB 'Themes' Page
+title: Introducing the iDB Themes Page
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/idb_themes_hero1.png)
 * Judging by the popularity of pasts posts regarding themes, we understand that there’s a very strong theming interest in the jailbreak community.

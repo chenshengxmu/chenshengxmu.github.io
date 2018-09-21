@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Where's my iOS Wi-Fi Plus Cellular toggle?
+title: Wheres my iOS Wi-Fi Plus Cellular toggle?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/Wi-Fi-Plus-Cellular-Hero.jpg)
 * Apple in early-August seeded iOS 6 Beta 4 to its registered developers. With it came a new feature in Settings, called Wi-Fi Plus Cellular. As Jeff explained in a lengthy post the following day, this toggle basically ensures that apps having trouble with WiFi can automatically switch over to cellular data. But why go implement and then remove this handy capability from iOS 6?

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple shares a pair of slow-motion videos as part of 'Shot on iPhone 6’ campaign
+title: Apple shares a pair of slow-motion videos as part of Shot on iPhone 6’ campaign
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/Apple-Shon-on-iPhone-6-teaser-002.png)
 * Apple’s ‘Shot on iPhone 6’ campaign continues with a pair of new videos shared last evening on the company’s YouTube channel. Highlighting iPhone photography skills by Apple dans Willian P. and Jirasak P., the 15-second clips focus on the capabilities of the iPhone 6 camera’s Slow-Mo video capture.

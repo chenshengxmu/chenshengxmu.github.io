@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why you shouldn't count Apple's Maps out just yet
+title: Why you shouldnt count Apples Maps out just yet
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/iOS-6-Maps-turn-by-turn-teaser.jpg)
 * The iOS 6 portion of Apple’s WWDC keynote last week was headlined by its all new mapping software. As predicted, the company unveiled a completely rebuilt Maps application with 3D city views and other features.

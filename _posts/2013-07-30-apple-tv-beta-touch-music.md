@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Latest Apple TV beta adds music purchasing and 'touch to setup'
+title: Latest Apple TV beta adds music purchasing and touch to setup
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/Apple-TV-teaser-001.jpg)
 * Yesterday, Apple seeded beta 3 of Apple TV 5.4 software. And looking at the change log, it initially appeared that the update was little more than a maintenance update, as there were no new notable features. But a couple of cool things have since been discovered in the release.

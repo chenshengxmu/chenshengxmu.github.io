@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sega's Sonic the Hedgehog speeds on to Apple TV
+title: Segas Sonic the Hedgehog speeds on to Apple TV
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/Sonic-the-Hedgehog-for-Apple-TV-screenshot-001.jpg)
 * Japanese gaming giant Sega is making its long-expected move to bring some of its most popular mobile games to the living room. Fans can now play some of their favorite Sonic titles on the fourth-generation Apple TV for the very first time.

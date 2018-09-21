@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Phil Schiller says iPhone was a 'bet the company' product
+title: Phil Schiller says iPhone was a bet the company product
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/schiller.png)
 * As the Apple v. Samsung trial to recalculate the damages Samsung owes continues, Phil Schiller took the stand yesterday. Apple’s senior vice president of worldwide marketing was called up to speak with just 11 minutes left in the session.

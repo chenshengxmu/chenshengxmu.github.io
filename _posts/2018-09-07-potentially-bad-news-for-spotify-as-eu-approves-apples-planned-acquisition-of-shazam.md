@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Potentially bad news for Spotify as EU approves Apple's planned acquisition of Shazam
+title: Potentially bad news for Spotify as EU approves Apples planned acquisition of Shazam
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/Shazam-offline-mode.jpg)
 * As expected, the European Union antitrust regulators have officially approved Apple’s planned acquisition of Shazam, the British music discovery app, for a reported $400 million.

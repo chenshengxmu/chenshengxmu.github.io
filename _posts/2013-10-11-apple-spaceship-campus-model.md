@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple unveils detailed model of upcoming 'Spaceship' campus
+title: Apple unveils detailed model of upcoming Spaceship campus
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/spaceship-model-1.jpg)
 * Last week, Apple cleared another hurdle in its effort to land its ‘Spaceship’ campus in Cupertino by 2016, garnering a thumbs up from the city’s planning commission. Now it just has to win the approval of city council, and it’s home free.

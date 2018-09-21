@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple litigation won't cripple Android, Samsung lawyer insists
+title: Apple litigation wont cripple Android, Samsung lawyer insists
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/apple-samsung-california-copyright.si_.jpg)
 * The Great Apple-Samsung Legal War has been raging on for years now, and on a scale almost unprecedented in business history. The latest in the saga involves a California court awarding Apple $119.6 million in damages over Samsung patent infringement, a far cry from the $2 billion the iPhone maker was shooting for.

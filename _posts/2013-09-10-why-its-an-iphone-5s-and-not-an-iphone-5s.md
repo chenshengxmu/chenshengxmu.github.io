@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why it's an iPhone 5s and not an iPhone 5S
+title: Why its an iPhone 5s and not an iPhone 5S
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/white-iPhone-5s-camera.png)
 * Apple has again changed the way the iPhone’s name is spelled out on paper. If you can remember, back when the first incremental upgrade to the iPhone line was released, Apple typed it out like this on paper: iPhone 3G S. Yes, there was a space between the “3G” and the “S” — Thankfully, Apple eventually caved in, or just didn’t care enough to make a big deal out of it when we refused to spell it that way. The iPhone 4S lacked the space between the number and letter, and all was well with the world.

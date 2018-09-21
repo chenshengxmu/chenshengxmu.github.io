@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's Waze app updated with voice search, event reporting and more
+title: Googles Waze app updated with voice search, event reporting and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/waze-ios-7.png)
 * After months of speculation, Google bought popular social mapping startup Waze in June of this year. And following the purchase, Google’s VP of Geo said the company was looking forward to bringing its search capabilities to the app.

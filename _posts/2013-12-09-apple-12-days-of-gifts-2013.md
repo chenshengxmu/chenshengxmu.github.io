@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple updates '12 Days of Gifts' app for 2013 holiday season, opens it to US users
+title: Apple updates 12 Days of Gifts app for 2013 holiday season, opens it to US users
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/12-days-1.png)
 * You know it’s getting close to Christmas time when outlets start publishing gift guides, and Apple updates its ’12 Days of Gifts’ application. The 2013 version of Apple’s free-download-a-day app went live this evening, ahead of its December 26 kickoff.

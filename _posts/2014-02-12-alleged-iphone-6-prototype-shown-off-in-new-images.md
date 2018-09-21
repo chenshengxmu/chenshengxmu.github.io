@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Alleged iPhone 6 prototype shown off in new images [update- it's fake]
+title: Alleged iPhone 6 prototype shown off in new images [update- its fake]
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/iphone-6-proto-3.jpg)
 * A batch of new images surfaced online this afternoon, purportedly showing an authentic iPhone 6 prototype. The photos are believed to have originated from China, and they show the front and back of what appears to be a larger handset designed by the Cupertino company.

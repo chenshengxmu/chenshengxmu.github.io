@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IneffectivePower and Unicode Suppressor will protect jailbroken devices from the "effective power" Messages bug
+title: IneffectivePower and Unicode Suppressor will protect jailbroken devices from the effective power Messages bug
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/05/iOS-Messages-Arabic-string-bug-iPhone-screenshot-002.png)
 * There is a new bug in iOS that resprings most peoples phones due to a low memory crash. It is caused by iOS’s inability to render certain strings of Arabic characters which overloads the memory, causing resprings and reboots or safe mode on a jailbroken device. Simply explained, when someone messages you those characters and you get a banner notification, your phone starts kicking the bucket.

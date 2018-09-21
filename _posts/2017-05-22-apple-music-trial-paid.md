@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Music's 3 month trial has gone from free to paid in some countries
+title: Apple Musics 3 month trial has gone from free to paid in some countries
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/05/Apple_Music_free_trial_Australia.jpg)
 * If you live in Australia, Spain or Switzerland, you can no longer try out Apple Music for three months for free. In those countries, Apple Music’s three-month trial now requires a small payment. In Australia, three months of Apple Music is now AUD 0.99. In Spain, Apple Music trial is now a € 0,99 value and in Switzerland it comes in at SFR 0.99.

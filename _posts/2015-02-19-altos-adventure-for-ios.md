@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review- Alto's Adventure, an endless snowboarding odyssey unlike any other
+title: Review- Altos Adventure, an endless snowboarding odyssey unlike any other
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/Altos-Adventure-1.0-for-iOS-iPhone-screenshot-004.jpg)
 * As promised, developer Snow’s much anticipated game called Alto’s Adventure has backflipped into the App Store. Two years in the making, Alto’s Adventure challenges you to embark on an endless snowboarding odyssey across procedurally generated alpine hills and breathtaking scenery.

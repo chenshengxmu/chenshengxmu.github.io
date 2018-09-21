@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What the "Trust This Computer" alert on your iPhone means
+title: What the Trust This Computer alert on your iPhone means
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/04/iphone6-ios9-trust-this-computer.jpg)
 * Occasionally, you will be asked on your iPhone, iPod touch, or iPad whether or not you want to “Trust This Computer” when you attach it to a computer with a USB connection either to charge or sync.

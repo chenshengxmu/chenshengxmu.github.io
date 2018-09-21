@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Didn't Tell Carriers About iMessage, Watch Out SMS?
+title: Apple Didnt Tell Carriers About iMessage, Watch Out SMS?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/iMessage.jpeg)
 * Apple’s wireless carrier partners were apparently just as surprised as we were when Apple unveiled its new messaging client, iMessage, at yesterday’s WWDC keynote. Reportedly, Apple didn’t bother to give carriers a heads up that they were introducing a new, media-rich messaging client before the actual presentation to the public.

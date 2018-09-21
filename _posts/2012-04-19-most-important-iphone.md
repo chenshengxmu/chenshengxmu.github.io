@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Apple's next iPhone launch is so important
+title: Why Apples next iPhone launch is so important
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/iphone5_concept6.jpg)
 * A week from now, Apple will be announcing its sales figures for the past three months on its quarterly earnings call. Analysts think the company sold in upwards of 12 million iPads and 33 million iPhones, thanks to the continuous momentum of the new 4S.

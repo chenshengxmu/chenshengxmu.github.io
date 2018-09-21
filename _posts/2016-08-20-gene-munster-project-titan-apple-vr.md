@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here are Gene Munster's latest musings on Project Titan & Apple VR headset
+title: Here are Gene Munsters latest musings on Project Titan & Apple VR headset
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/08/AirVR-by-Metatecture-002.jpg)
 * Piper Jaffray’s Gene Munster had been infamously predicting an Apple-branded HDTV set for years before eventually giving up on that dream. Last we heard from him was when he called for an S-upgrade to the Apple Watch in February 2016 (he may have gotten that one right; the timing, not so much).

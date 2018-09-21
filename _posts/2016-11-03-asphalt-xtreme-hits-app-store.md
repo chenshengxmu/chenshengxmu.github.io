@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gameloft's Asphalt Xtreme screeches its way into App Store
+title: Gamelofts Asphalt Xtreme screeches its way into App Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/11/Asphalt-Xtreme-1.0-for-iOS-iPhone-screenshot-001.jpg)
 * French games developer and publisher Gameloft today released Asphalt Xtreme, the latest installment in its popular Asphalt mobile racing franchise. If Asphalt 8: Airborne was too boring for your tastes, this new racer should get your adrenaline going and juices flowing.

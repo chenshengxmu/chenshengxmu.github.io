@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oculus Rift's Mac development 'paused' as team focuses on 2016 Windows launch
+title: Oculus Rifts Mac development paused as team focuses on 2016 Windows launch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/Oculus-Rift-Crystal-Cove-image-003.jpg)
 * Both OS X and Linux development of the Oculus Rift virtual reality headset has been put on hold as the team focuses on a strong launch of the Windows version of the product, the company has confirmed in a blog post today.

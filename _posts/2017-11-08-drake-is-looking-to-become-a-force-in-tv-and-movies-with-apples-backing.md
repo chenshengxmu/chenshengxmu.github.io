@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Canadian rapper Drake is looking to become a force in TV and movies, with Apple's blessing
+title: Canadian rapper Drake is looking to become a force in TV and movies, with Apples blessing
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/Drake-Eddy-Cue-Apple-Music-introduction.jpg)
 * Canadian hip-hop artist Drake is looking to produce and perhaps star in TV shows and movies and has at least one powerful backer in his corner: Apple, which is said to be spending $1 billion on original video production in the next twelve months.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's a recap of what Tim Cook said about the FBI and iPhone hacking on ABC News
+title: Heres a recap of what Tim Cook said about the FBI and iPhone hacking on ABC News
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/02/Tim-Cook-FBI-on-ABC-News-image-001.jpg)
 * Apple CEO Tim Cook was on ABC News last night, spending some time with reporter David Muir in his minimalist Cupertino, California office discussing the FBI case and how the government’s demands risk undermining every iPhone owner’s security.

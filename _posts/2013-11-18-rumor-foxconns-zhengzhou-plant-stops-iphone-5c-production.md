@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rumor- Foxconn's Zhengzhou plant stops iPhone 5c production
+title: Rumor- Foxconns Zhengzhou plant stops iPhone 5c production
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/iPhone-5c-Manufacturing-001.jpg)
 * The world’s top contract manufacturer, Taiwan-based Foxconn, is responsible for approximately one-third of total iPhone 5c volume and now the company is allegedly winding down handset production at its factory in Zhengzhou, northern China, and shifting capacity to the flagship iPhone 5s, according to “industry sources” who spoke to DigiTimes, an industry publication with a mixed track record.

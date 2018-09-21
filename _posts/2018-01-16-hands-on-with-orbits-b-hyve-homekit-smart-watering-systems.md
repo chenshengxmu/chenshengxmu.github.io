@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hands-on with Orbit's B-Hyve HomeKit smart watering systems
+title: Hands-on with Orbits B-Hyve HomeKit smart watering systems
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/Orbit-B-hyve-faucet-HomeKit-watering-system-.jpg)
 * We got to go hands-on with Orbit’s new HomeKit equipped smart watering system that allow you to control your watering schedules with HomeKit and Siri.

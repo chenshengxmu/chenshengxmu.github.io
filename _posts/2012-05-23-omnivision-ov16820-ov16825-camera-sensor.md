@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hey Apple, here's your 16MP camera with 4K video capture for 2013 iPhone
+title: Hey Apple, heres your 16MP camera with 4K video capture for 2013 iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/iPhone-4S-white-front-and-back-camera.jpeg)
 * OmniVision Technologies yesterday announced two new camera sensors for smartphones and tablets and guess what? Both could be a perfect fit for a 2013 iPhone, if not for the next one.

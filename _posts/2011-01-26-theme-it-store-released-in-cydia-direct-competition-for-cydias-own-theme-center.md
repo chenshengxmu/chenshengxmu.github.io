@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Theme It" Store Released in Cydia, Direct Competition for Cydia's Own Theme Center
+title: Theme It Store Released in Cydia, Direct Competition for Cydias Own Theme Center
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/01/Theme-It.png)
 * Finding good themes for a jailbroken iPhone has never been that easy. Themes are usually posted by designers on forums and portfolio websites, and it can be difficult for the average jailbreaker to discover all of the great themes that are out there.

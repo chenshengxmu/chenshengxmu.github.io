@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The "Next iPhone" Debacle- How It All Happened
+title: The Next iPhone Debacle- How It All Happened
 ---
 * Are you feeling a little confused about how and when this whole lost next iPhone story happened? Yeah, me too… Here is a short and sweet wrapup for you:
 * February 21: A kid posts on TwitPic what seems to be leaked pictures of the next iPhone. He says: “I found this photo while doing a twitter search for “iPhone 4G”, and found this pic and saved this photo from a pic uploaded by a chinese tweeter.” No one will really see or hear about these pictures until they were confirmed real by Gizmodo a couple months later.

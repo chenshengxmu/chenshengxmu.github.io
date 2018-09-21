@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Renowned designer Marc Newson joining Apple's design team
+title: Renowned designer Marc Newson joining Apples design team
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/newson-and-ive.jpg)
 * Vanity Fair is reporting this afternoon that world-famous designer Marc Newson will be joining Apple’s design team. His exact role is unknown at this time, but he will be working closely with long-time friend Jony Ive, and his design team, to help shape future products.

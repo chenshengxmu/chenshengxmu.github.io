@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Skype gains iOS 8's interactive notifications
+title: Skype gains iOS 8s interactive notifications
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/Skype-5.4-for-iPhone-screenshot-003.png)
 * Microsoft on Monday refreshed its Skype software for the iPhone with support for the enhanced notifications on iOS 8 that can be interacted with on the Lock screen, within the Notification Center and from the banners.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google covering some of Samsung's legal fees, liabilities in Apple trial
+title: Google covering some of Samsungs legal fees, liabilities in Apple trial
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/google-building-44.jpg)
 * We’ve known pretty much all along that Google was going to be more involved this time around in the Apple-Samsung trial. Many of the features Apple claims infringe on its software patents are baked right into Android, so of course it would be in the Mountain View company’s best interest to become much more involved.

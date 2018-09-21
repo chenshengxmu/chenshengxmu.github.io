@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What you need to know about Apple's tweaked A1428 iPhone 5
+title: What you need to know about Apples tweaked A1428 iPhone 5
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/T-Mobile-iPhone-coming-soon-teaser.png)
 * Earlier today, the nation’s fourth-largest wireless carrier T-Mobile USA annuounced it will start officially selling Apple’s iPhone on April 12. And in dropping annual contracts in favor of monthly installments, the telco unveiled the new Simple Choice Plan and LTE coverage in seven major U.S. cities.

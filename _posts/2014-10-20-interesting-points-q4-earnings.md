@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 15 interesting points from today's earnings call
+title: 15 interesting points from todays earnings call
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/Apple-Store-Front-logo-San-Francisco.jpg)
 * Apple announced its financial results for Q4 2014 this afternoon, and for the most part it beat the Street’s expectations. The company sold 39.3 million iPhones and pulled in $42.1 billion in revenue during the three month period, and iPad sales fell short at just 12.3 million.

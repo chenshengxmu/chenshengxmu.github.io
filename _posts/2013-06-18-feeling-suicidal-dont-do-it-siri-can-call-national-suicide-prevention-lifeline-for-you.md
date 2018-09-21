@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Feeling suicidal? Don't do it, Siri can call National Suicide Prevention Lifeline for you
+title: Feeling suicidal? Dont do it, Siri can call National Suicide Prevention Lifeline for you
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/Siri-National-Suicide-Prevention-Lifeline.png)
 * Sometimes, one just feels like life isn’t worth living anymore. Maybe you’ve been trying too hard for too long or life hasn’t been treating you fairly?

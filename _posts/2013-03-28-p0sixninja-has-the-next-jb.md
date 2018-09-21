@@ -1,6 +1,6 @@
 ---
 layout: post
-title: P0sixninja says he's discovered exploits for next jailbreak
+title: P0sixninja says hes discovered exploits for next jailbreak
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/jailbroken-iphone-4s.jpg)
 * This is kind of interesting. Well-known iOS hacker and (former?) Chronic Dev Team member p0sixninja says that he has discovered enough exploits in iOS 6 to build a new jailbreak. The previous one, as most of you know, was recently shut down by Apple.

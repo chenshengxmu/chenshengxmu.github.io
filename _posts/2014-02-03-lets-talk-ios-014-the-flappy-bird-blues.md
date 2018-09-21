@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's Talk iOS 014- The Flappy Bird blues
+title: Lets Talk iOS 014- The Flappy Bird blues
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/Lets-Talk-iOS-podcast-cover-no-matrix-effect.png)
 * Episode 14: We talk about Apple’s record breaking fiscal quarter, the health & fitness tracking features rumored to headline iOS 8, the possible use of solar and motion charging to extend battery life for the long-rumored iWatch, and tons more. We also discuss some of our favorite app downloads from the past week, including Facebook’s new Paper app, and, of course, Flappy Bird.

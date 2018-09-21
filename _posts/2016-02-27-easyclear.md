@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EasyClear- the only 3D Touch notification clearing tweak you'll ever need
+title: EasyClear- the only 3D Touch notification clearing tweak youll ever need
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/02/easyclear-notification-clearer-via-3D-Touch-examples.jpg)
 * Those rocking a jailbreak that have been looking for the perfect all-in-one 3D Touch notification-clearing tweak for their iOS device(s) need not look any further than a new jailbreak tweak release called EasyClear, which is now available in Cydia’s BigBoss repository for $1.49.

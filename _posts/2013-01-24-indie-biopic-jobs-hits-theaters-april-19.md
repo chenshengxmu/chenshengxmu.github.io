@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Indie biopic 'jOBS' hits theaters April 19 (video)
+title: Indie biopic jOBS hits theaters April 19 (video)
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/Ashton-Kutcher-and-Josh-Gad-USA-Today-001.jpg)
 * As previously reported, ‘jOBS’ biopic will debut tomorrow as the closing-night film of the Sundance Film Festival in Part City and now word has reached us that the flick, which depicts Steve in his early years (1971-2000), will be premiering in theaters nationwide on Friday, April 19. The indie project stars Ashton Kutcher, who portrays Apple’s late co-founder Steve Jobs, and his fellow actor Josh Gad, who plays another Apple co-founder, Steve Wozniak. An exclusive clip from the movie can be seen right after the break…

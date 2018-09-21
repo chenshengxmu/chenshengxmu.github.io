@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple pulls 'Genius' commercials from its website and YouTube
+title: Apple pulls Genius commercials from its website and YouTube
 ---
 * >
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/Apple-Mac-Genius-TV-Ad.png)

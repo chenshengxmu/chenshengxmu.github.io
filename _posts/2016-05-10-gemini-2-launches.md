@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review- freeing up your Mac's storage with Gemini 2, a smart duplicate file finder
+title: Review- freeing up your Macs storage with Gemini 2, a smart duplicate file finder
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/Gemini-2-for-OS-X-teaser-001.png)
 * Ukrainian developer MacPaw, the makers of the versatile and powerful CleanMyMac and CleanMyDrive apps, today pushed a major new update for Gemini as a brand new app. For those unfamiliar with it, Gemini is an intelligent duplicate file finder that can help recover tons of storage space on your Mac wasted to duplicate files.

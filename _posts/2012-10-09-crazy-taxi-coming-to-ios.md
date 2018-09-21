@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sega announces it's bringing Crazy Taxi to iOS
+title: Sega announces its bringing Crazy Taxi to iOS
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/crazy-taxi-ss.jpg)
 * In a blog post yesterday, Sega announced that it was going to be bringing its popular Crazy Taxi game to iOS this month. The title, which was the first in the Crazy Taxi series, started out as an arcade game, and has since been ported to several different consoles.

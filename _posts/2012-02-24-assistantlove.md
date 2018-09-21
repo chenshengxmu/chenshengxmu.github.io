@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AssistantLove' integrates Spotify with Siri, GPS, and more
+title: AssistantLove integrates Spotify with Siri, GPS, and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/AssistantLove-Screenshot.jpg)
 * If you know me, you know I’ve been waiting on a way to integrate Spotify with Siri’s voice search for a long time.

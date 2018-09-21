@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This is Facebook's upcoming Reader feature
+title: This is Facebooks upcoming Reader feature
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/Saved-Apps-SideBar.png)
 * With so much great content being posted online on a daily basis and so little precious time to spare (talk about information overload), we as a technological society have grown dependent on various apps to scrap news articles and store them in pure text form for later reading. And boy are these services plentiful!

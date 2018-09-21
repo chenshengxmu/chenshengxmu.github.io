@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some thoughts on Ashton Kutcher's 'Jobs' biopic
+title: Some thoughts on Ashton Kutchers Jobs biopic
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/Ashton-Kutcher-Jobs-movie-poster-teaser.jpg)
 * The long-awaited ‘Jobs’ biopic, starring Ashton Kutcher as Steve Jobs, opened in theaters this weekend, and by all counts it’s been a bit of a flop. According to Deadline Hollywood, it’s sitting at the #7 spot, pulling in just $6.7 million domestically.

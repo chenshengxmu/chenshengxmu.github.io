@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Can't redeem Yosemite beta code? Here's a fix.
+title: Cant redeem Yosemite beta code? Heres a fix.
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/OS-X-Yosemite-dark-mode-Hamza-Sood-001.jpeg)
 * Apple today opened the floodgate by posting the public beta of its upcoming OS X 10.10 Yosemite software, which launches officially sometime this Fall, and already a bunch of people took to Twitter over an error message saying the redemption code has already been used.

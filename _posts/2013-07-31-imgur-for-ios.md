@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Imgur iOS app- all the web's memes, right in your pocket
+title: Imgur iOS app- all the webs memes, right in your pocket
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/Imgur-1.0-for-iOS-iPhone-screenshot-002.jpeg)
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/Imgur-1.0-for-iOS-iPhone-screenshot-003.jpeg)

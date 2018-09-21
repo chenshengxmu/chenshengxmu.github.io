@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Speeds and feeds- Apple's new iPhone X ad highlights the power of the A11 Bionic chip
+title: Speeds and feeds- Apples new iPhone X ad highlights the power of the A11 Bionic chip
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/iPhone-X-ad-Unleash.jpg)
 * Everyone knows how speedy iPhones are thanks to the power of in-house designed processors, and Apple’s marketing isn’t shying away from highlighting speeds and feeds.

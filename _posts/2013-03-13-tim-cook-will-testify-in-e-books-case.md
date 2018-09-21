@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Official- Apple's boss Tim Cook to testify for four hours in e-books trial
+title: Official- Apples boss Tim Cook to testify for four hours in e-books trial
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/Tim-Cook-holds-iPad-with-Katie-Cotton-Jacqui-Cheng.jpg)
 * This past Sunday, Bloomberg reported that Apple CEO Tim Cook may be required to testify in an antitrust lawsuit the United States Department of Justice filed against it and major e-book publishers over an alleged price fixing of e-books. Reuters confirms today that U.S. District Judge Denise Cote in Manhattan granted the Justice Department’s request to compel Cook to sit for a deposition.

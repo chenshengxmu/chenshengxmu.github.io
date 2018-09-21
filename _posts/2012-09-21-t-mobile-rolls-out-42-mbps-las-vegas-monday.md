@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile's iPhone-friendly 42 Mbps HSPA+ coming to Las Vegas on Monday
+title: T-Mobiles iPhone-friendly 42 Mbps HSPA+ coming to Las Vegas on Monday
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/Cell-tower-Flickr-user-forklift.jpeg)
 * T-Mobile USA, the nation’s fourth-largest carrier and the sole major U.S. telco without Apple’s iPhone, announced at the GigaOm Mobilize conference that it will be rolling out its iPhone-compatible HSPA+ network in Las Vegas on Monday, September 24, 2012.

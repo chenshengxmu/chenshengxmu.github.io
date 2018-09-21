@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's USB charger trade-in program coming to UK, Canada, Australia, France and Germany
+title: Apples USB charger trade-in program coming to UK, Canada, Australia, France and Germany
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/iPhone-charger.png)
 * Earlier this month Apple launched Takeback Program, a trade-in initiative encouraging buyers to dispose of third-party (especially knock-off) USB power adapters and buy Apple’s chargers at a discount.

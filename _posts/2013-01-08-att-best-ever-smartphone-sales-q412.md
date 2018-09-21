@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T confirms 'best-ever' sales of iPhone and Android smartphones
+title: AT&T confirms best-ever sales of iPhone and Android smartphones
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/ATT-Chicago-store-interior-001.jpg)
 * Ahead of its earnings call pertaining to calendar 2012 fourth-quarter results scheduled for January 24, carrier AT&T just announced, reporting ‘best-ever’ sales of Apple and Android smartphones. The Dallas, Texas wireless company sold a record ten million smartphones powered by Apple’s and Google’s platform during the holiday quarter of 2012 as Android and iPhone sales hit all-time highs. The figure beats the year-ago quarter when AT&T moved 9.4 million smartphones, 7.6 million of them being iPhones.

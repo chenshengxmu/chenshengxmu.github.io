@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Capture, organize and share real-world objects with Microsoft's experimental Thinga.Me app
+title: Capture, organize and share real-world objects with Microsofts experimental Thinga.Me app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/07/Microsoft-Thinga-Me-app-teaser.jpg)
 * Coming straight from Microsoft Garage, which “turns fresh ideas into real projects”, Thinga.Me for iPhone allows you to capture, organize and share real-world objects. Currently available as an invite-only closed beta, the app uses object recognition algorithm to detect and separate various objects on your photos.

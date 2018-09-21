@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This beautiful coffee table book showcases Apple's industrial design prowess
+title: This beautiful coffee table book showcases Apples industrial design prowess
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/Iconic-book-001.jpg)
 * Much ink has been spilt about Apple’s industrial design skills and the polarizing look and feel of its unapologetically sexy gadgets. Jonathan Zufi’s photographic shrine of Apple’s design work is taking it all to the next level. The 42-year-old Australian native has managed to put together a massive 326-page coffee table sized book containing detailed photographs he’s meticulously taken over the years.

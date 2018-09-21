@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meet EarPods, Apple's new in-ear headphones
+title: Meet EarPods, Apples new in-ear headphones
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iPHone-presser-20120912-slide-010.jpg)
 * It is no secret that Apple’s in-ear headphones that ship with iPhones and iPods leave a lot to be desired. Sound quality is average, at best, bass is non-existent and highs sound a little too robotic. Of course, we knew Apple would be introducing a brand new headset today. What we haven’t known is that the company spent three years designing the new headphones, dubbed EarPods. Yes, three years…

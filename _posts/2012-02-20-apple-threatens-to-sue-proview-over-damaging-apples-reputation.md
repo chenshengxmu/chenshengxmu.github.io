@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple threatens to sue Proview over "damaging Apple's reputation"
+title: Apple threatens to sue Proview over damaging Apples reputation
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/iPad-2-review.png)
 * Apple and Proview have been in the news a lot lately for their ongoing legal battle over Proview’s trademark of the term ‘Ipad’. Many China cities have already banned the tablet, while Mainland China has yet to rule on the case. In an interesting turn of events, Apple asked Amazon China to remove the tablet from their store last week.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft's Hub Keyboard now available on iPhone
+title: Microsofts Hub Keyboard now available on iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/04/hub-1.png)
 * Microsoft’s Hub Keyboard is now available for the iPhone. No, it’s not the Windows Phone keyboard that’s being ported to Apple’s handset. It’s an iOS version of the Hub Keyboard that landed on Android in February.

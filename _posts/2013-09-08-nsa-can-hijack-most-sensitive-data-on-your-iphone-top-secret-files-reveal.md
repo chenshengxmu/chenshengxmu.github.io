@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NSA can hijack 'most sensitive data' on your iPhone, top secret files reveal
+title: NSA can hijack most sensitive data on your iPhone, top secret files reveal
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/iOS-7-slide-to-unlock-teaser-001.jpg)
 * The U.S. National Security Agency (NSA) has pretty much compromised every online user’s security through a previously unknown ten-year program against encryption technologies that made “vast amounts” of collected data “exploitable.”

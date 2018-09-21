@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Reason We Still Don't Have a Facebook iPad App
+title: The Reason We Still Dont Have a Facebook iPad App
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/07/Facebook-for-iPad-Log-In-Screen-e1311602992266.png)
 * Mashable posted an article yesterday that tells an interesting story about the relationship between Apple and Facebook. Although the two companies are expected to make a joint announcement next Tuesday, things haven’t always been peachy.

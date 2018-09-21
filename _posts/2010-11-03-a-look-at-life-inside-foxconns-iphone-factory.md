@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Look at Life Inside Foxconn's iPhone Factory
+title: A Look at Life Inside Foxconns iPhone Factory
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/11/Where-The-Workers-Who-Made-Your-iPhone-Sleep-At-Night.jpeg)
 * Consumers rarely have the opportunity to see what life is like for the people that work in large factories around the world. However, some light has been shed as of late on what life is like behind the smoke stacks of certain industrial giants.

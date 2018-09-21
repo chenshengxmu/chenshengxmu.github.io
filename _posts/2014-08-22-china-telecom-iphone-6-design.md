@@ -1,6 +1,6 @@
 ---
 layout: post
-title: China Telecom says single iPhone 6 will support China's major wireless standards
+title: China Telecom says single iPhone 6 will support Chinas major wireless standards
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/China-Telecom-iPhone-6-001.jpg)
 * China Telecom has made the claim in a Weibo post which was accompanied by a pair of images based on the familiar iPhone 6 renderings created by Tomas Moyano and Nicolàs Aichino and posted on Bēhance.

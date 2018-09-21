@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple to Stream iPhone Event At London's Covent Garden Retail Store
+title: Apple to Stream iPhone Event At Londons Covent Garden Retail Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/Covent-garden.png)
 * With Apple holding an iPhone event next Tuesday, 4th of October, the world’s tech press is gearing up for a busy week of announcements and reactions. Apple will be holding its event at its main campus in Cupertino, California, meaning that members of the press living outside the United States are out of luck.

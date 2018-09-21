@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Snapchat's new tools let brands see how well geofilter ads are performing among users
+title: Snapchats new tools let brands see how well geofilter ads are performing among users
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/Snapchat-banner.png)
 * The Wall Street Journal reported Thursday that Snapchat has rolled out new tools for marketers, called Snap to Store, allowing brands to see how well geofilter ads are performing among users. They’ve been testing it with a handful of brands since last year, including Paramount Pictures and 7-Eleven. The firm is now looking to expand Snap to Store to a wider range of brands from the retail, fast food, movie and automobile sectors.

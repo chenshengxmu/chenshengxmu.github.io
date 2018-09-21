@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You Won't Be Able to Buy an Unlocked iPhone 4S in the US Until November
+title: You Wont Be Able to Buy an Unlocked iPhone 4S in the US Until November
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/features_connectivity1.png)
 * If you’ve already pre-ordered your iPhone 4S, chances are you’ve noticed that the option to buy an unlocked 4S in the US won’t be available until November.

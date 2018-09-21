@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's what Apple's chief lawyer will tell Congress tomorrow regarding FBI's controversial request
+title: Heres what Apples chief lawyer will tell Congress tomorrow regarding FBIs controversial request
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/iPhone-5c-Blue-summer-wall-splash.png)
 * As you know, the Federal Bureau of Investigation has obtained a court order demanding that Apple produce a special version of iOS with decreased security to help government spooks brute-force their way into an iPhone 5c which belonged to San Bernardino shooter Syed Farook.

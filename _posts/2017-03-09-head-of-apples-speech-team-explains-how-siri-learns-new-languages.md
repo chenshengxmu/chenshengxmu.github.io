@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Head of Apple's speech team explains how Siri learns new languages
+title: Head of Apples speech team explains how Siri learns new languages
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/iOS-10-Siri-waveform-image-001.png)
 * Just how exactly does Siri learn a new language? In today’s interview with Reuters, Apple’s speech team head Alex Acero offered a behind-the-scenes look at how Siri is being taught new languages, a process that involves script-writing, capturing voices in multiple accents and dialects and using machine learning and artificial intelligence to build and evolve new language models over time. The system requires a team of people tasked with reading passages of manually transcribed text.

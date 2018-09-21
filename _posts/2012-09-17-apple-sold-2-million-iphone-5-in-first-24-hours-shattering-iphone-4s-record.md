@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple sold 2 million iPhone 5 in first 24 hours, 'shattering' iPhone 4S record
+title: Apple sold 2 million iPhone 5 in first 24 hours, shattering iPhone 4S record
 ---
 * Another confirmation this morning just how fast the new iPhone 5 is selling: Apple says it sold 2 million of the new handsets in just the first 24 hours of availability with demand outstripping supply. Preorders for the slimmer, faster iPhone “have shattered the previous record held by iPhone 4S,” Apple’s marketing head Philip Schiller announced.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/crowded-apple-store.jpg)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung's cash pile triples, but still no match for Apple's $145B hoard
+title: Samsungs cash pile triples, but still no match for Apples $145B hoard
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/Samsung-girl-001.jpeg)
 * Much is being made of Samsung’s hoard of cash, estimated at $28.5 billion once the South Korean conglomerate’s debt is taken into consideration. At any rate, the Galaxy maker has watched its net cash almost triple in the past year, thanks to double-digit profits fueled by the rising sales of its mobile division which makes smartphones and tablets.

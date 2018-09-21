@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jony Ive on Apple's design and business principles
+title: Jony Ive on Apples design and business principles
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/jony-ive.jpg)
 * “Apple’s goal is not to make money, but to make good products”, is the key quote from Wired’s exclusive one-on-one with Jonathan Ive, Apple’s senior vice president of industrial design. The article touches upon several interesting topics dealing with Apple’s design acumen, its business philosophy and some of the inner processes that guide decision-making at the world’s most-valued public corporation.

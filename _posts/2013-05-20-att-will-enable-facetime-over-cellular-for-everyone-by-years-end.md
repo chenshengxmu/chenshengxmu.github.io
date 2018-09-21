@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T will enable FaceTime over cellular for everyone by year's end
+title: AT&T will enable FaceTime over cellular for everyone by years end
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/ATT-FaceTime-Cellular-e1345540610382.jpg)
 * In a surprising move, telco AT&T is backtracking from its nonsensical policy of restricting FaceTime to its customers who subscribed to a Mobile Share data plan.

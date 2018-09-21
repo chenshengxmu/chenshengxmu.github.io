@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 8's new 3D sensors can reportedly sense a face within millionths of a second
+title: iPhone 8s new 3D sensors can reportedly sense a face within millionths of a second
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/Deepface-facebook.0.jpg)
 * According to a new report Monday from the Korea Herald, those 3D sensors said to be coming to iPhone 8 will be capable of scanning a user’s face within the millionths of a second.

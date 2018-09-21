@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung's own Touch ID is at least a year away
+title: Samsungs own Touch ID is at least a year away
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/iOS-7-teaser-iPhone-5s-ad-018.jpg)
 * Despite its unreal size, Samsung of South Korea is an extremely agile company, one that moves at a blistering pace. The conglomerate has been called many things and is perhaps best-known as a fast-follower. The press attached that nickname to the Samsung brand due to the company’s ability to swiftly apply what others are doing to its own lineup and flood the market with countless products with small variations to them.

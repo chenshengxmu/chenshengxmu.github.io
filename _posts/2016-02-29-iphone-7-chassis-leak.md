@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Purported iPhone 7 frame has leaked, but it's 5.2 inches and has a hole for the headphone jack
+title: Purported iPhone 7 frame has leaked, but its 5.2 inches and has a hole for the headphone jack
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/02/iPhone-7-chassis-NowhereElse-leak-001.jpg)
 * A batch of images have been leaked on the web by an Apple supplier, potentially giving us a look at a purported chassis for Apple’s upcoming iPhone 7.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Houdini 'semi-jailbreak' tool demoed on iOS 11.4 beta
+title: Houdini semi-jailbreak tool demoed on iOS 11.4 beta
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/05/Houdini-iOS-11.4-beta.png)
 * If you’re up to speed on everything happening in the jailbreak community as of late, then you might be familiar with the Houdini semi-jailbreak created by Abraham Masri (@cheesecakeufo) many months ago.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Closer Look at iPhone's Location-Tracking Database
+title: Closer Look at iPhones Location-Tracking Database
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/Location-Services-e1303395466168.jpeg)
 * A couple days ago, we told you about a discovery made by two researchers concerning location data collection on the iPhone. Apparently, the iPhone logs your GPS coordinates for an unspecified amount of time and saves that data to a system-level consolidated.db file that is then synced over to iTunes upon backup.

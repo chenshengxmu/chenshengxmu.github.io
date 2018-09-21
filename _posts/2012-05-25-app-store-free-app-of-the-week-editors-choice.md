@@ -1,6 +1,6 @@
 ---
 layout: post
-title: App Store launches Free App of the Week and Editors' Choice promos
+title: App Store launches Free App of the Week and Editors Choice promos
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/App-Store-App-of-the-Week-banner-Cut-the-Rope-Experiments.jpg)
 * Not to be outdone by indie devs’ massive game sale, Apple has launched a pair of prominently advertised promotions on both the App Store and the Mac App Store, in time for your extended Memorial Day weekend. The new Editors’ Choice section offers great apps for both iOS and Mac platforms cherry-picked by Apple’s iTunes team.

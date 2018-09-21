@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple readying tracking tools for app developers that won't require UDIDs
+title: Apple readying tracking tools for app developers that wont require UDIDs
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/03/itunesUDID-e1299091277464.jpg)
 * In addition to allegedly working on a brand new app to enable on-the-go payments on iOS devices, called Organize, Apple is said to appease to developers by rolling out new tracking tools that will strengthen developers’ privacy by not requiring UDIDs to gather usage data on their apps…

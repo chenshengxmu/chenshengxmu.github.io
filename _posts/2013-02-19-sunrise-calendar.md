@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Make room on your home screen for Sunrise Calendar (it's that good)
+title: Make room on your home screen for Sunrise Calendar (its that good)
 ---
 * If the stock iOS Calendar app is too boring and you wish Fantastical, a nice iOS/OS X calendar alternative from Flexibits, had a raft of social features, don’t miss out on Sunrise Calendar, a free iPhone calendar alternative by Sunrise Atelier, Inc.
 * The program pulls your appointments from multiple Google Calendars and Facebook Events and retrieves your weather forecast. Frankly, I was wondering why there was no app to combine weather data with my appointments, so I could make changes to upcoming meetings in case my weather forecast takes a turn for the worse. The only downside: Sunrise Calendar is made with Google Calendar users in mind (for now)…

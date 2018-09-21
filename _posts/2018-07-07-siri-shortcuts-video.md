@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hands-on video walthrough- Apple's new Siri Shortcuts app in iOS 12
+title: Hands-on video walthrough- Apples new Siri Shortcuts app in iOS 12
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/Siri-Shortcuts-teaser.jpg)
 * Officially unveiled at the 2018 Worldwide Developers Conference, Apple yesterday released an upcoming Shortcuts app for developer testing, and iDownloadBlog took it for a spin.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Battle for App Store Trademark Continues
+title: Apples Battle for App Store Trademark Continues
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/image.png)
 * One thing is certain in the tech industry: If you ever become more successful than others feel you should be, you become an instant target for a lawsuit. And with the way some companies are performing right now, patent and trademark law seems to be a safe bet for a business.

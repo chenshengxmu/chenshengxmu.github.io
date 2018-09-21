@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Watch 2's larger battery shouldn't make the device any thicker
+title: Apple Watch 2s larger battery shouldnt make the device any thicker
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/Apple-Watch-2-components-battery-Byte-001.jpg)
 * Byte, a UK-based retailer that sells Apple-certified accessories and parts, recently posted a video in which they showed off a few supposedly genuine parts for a second-generation Apple Watch, including a thinner OLED Force Touch display and a significantly thicker battery potentially giving the wearable device a few more hours of run time.

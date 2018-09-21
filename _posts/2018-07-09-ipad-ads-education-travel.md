@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Apple ads illustrate iPad's portability for education and travel
+title: New Apple ads illustrate iPads portability for education and travel
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/iPad-ad-travel-notebook-replacement.jpg)
 * Apple on Monday released four new videos through its official YouTube channels in local markets, highlighting the education and travel-focused features of the iPad tablet series.

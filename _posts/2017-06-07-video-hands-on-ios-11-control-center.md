@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hands-on with iOS 11's highly customizable Control Center
+title: Hands-on with iOS 11s highly customizable Control Center
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/control-center-shot.png)
 * A completely redesigned Control Center is one of the hallmarks of iOS 11. Having ditched card-based layout spanning multiple pages, Control Center has adopted a single-page design. Control Center on iOS 11 is realized as a full-screen scrollable overlay, a design that has allowed Apple to put many more useful controls at your fingertips than ever before.

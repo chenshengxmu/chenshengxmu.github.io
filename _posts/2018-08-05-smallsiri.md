@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SmallSiri shrinks the iPhone's Siri interface
+title: SmallSiri shrinks the iPhones Siri interface
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/SmallSiri.jpg)
 * Siri makes for a useful hands-free voice assistant on the iPhone and iPad, but the full-screen interface that appears after calling upon her assistance tends to be somewhat intrusive.

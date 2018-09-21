@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Working on "Find My Friends" Social Network
+title: Apple Working on Find My Friends Social Network
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/20110906-jmqjqfweu84ycahaq9qs761yt.jpeg)
 * Apple hasn’t been successful at the social network scene. There was Game Center (Do people still use that?). And there was the diaster known as Ping.

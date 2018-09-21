@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fortune ranks Tim Cook 33rd in list of world's top 50 greatest leaders
+title: Fortune ranks Tim Cook 33rd in list of worlds top 50 greatest leaders
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/Tim-Cook-holds-iPad-with-Katie-Cotton-Jacqui-Cheng.jpg)
 * Although a number of pundits pushing the popular ‘Apple is doomed‘ narrative these days might disagree with me, I think Tim Cook has done a solid job at Apple thus far. Sure, its stock is currently way down from its peak, but the company is still turning a large profit.

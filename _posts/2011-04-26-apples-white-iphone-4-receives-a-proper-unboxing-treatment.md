@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's White iPhone 4 Receives a Proper Unboxing Treatment
+title: Apples White iPhone 4 Receives a Proper Unboxing Treatment
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/White-iPhone-4-Unboxing.jpg)
 * True, the iPhone 4 has been out for like, forever, so it normally wouldn’t warrant an unboxing video.

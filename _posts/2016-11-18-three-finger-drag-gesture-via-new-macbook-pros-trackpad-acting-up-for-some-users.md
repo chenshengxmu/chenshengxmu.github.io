@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Three finger drag gesture via new MacBook Pro's trackpad acting up for some users
+title: Three finger drag gesture via new MacBook Pros trackpad acting up for some users
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/11/13-inch-MacBook-Pro-with-Touch-Bar-iFixit-teardown-003.jpg)
 * Three finger drag, a productivity-boosting multi-touch trackpad gesture in macOS, isn’t working properly for some owners of Apple’s new MacBook Pro. Both 13 and 15-inch MacBook Pros have larger trackpads than their predecessors, but for many people the gesture doesn’t work at all.

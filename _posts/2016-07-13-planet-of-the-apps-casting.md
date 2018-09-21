@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Developer casting call posted for Apple's 'Planet of the Apps' TV show
+title: Developer casting call posted for Apples Planet of the Apps TV show
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/07/planet-of-apps.png)
 * Television production company Propagate on Tuesday posted an open casting call for its upcoming ‘Planet of the Apps’ TV show, which it is co-producing with Apple. Developers working on an iOS, macOS, tvOS or watchOS app can apply via the show’s website through August 26.

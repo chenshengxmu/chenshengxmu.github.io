@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Inside Apple's A7- dual-core CPU, quad-core GPU, Secure Enclave has 3MB SRAM
+title: Inside Apples A7- dual-core CPU, quad-core GPU, Secure Enclave has 3MB SRAM
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/A7-floorplan-Chipworks-001.jpg)
 * Following their initial analysis of the iPhone 5s’s innards, silicon experts at Chipworks have now taken a closer look at the handset’s 64-bit A7 processor to reveal a number of interesting tidbits in their initial low-level chip analysis. Based on transistor-level images of the Apple-designed, Samsung-built package, Chipworks was able to determine that the A7 consists of a dual-core processing core and quad-core graphics, tentatively identified as the four cluster version of Imagination Technologies’s PowerVR Series 6, the G6430.

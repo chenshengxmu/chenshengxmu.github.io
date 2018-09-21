@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Shot on iPhone' campaign is back with beautiful portraits taken on iPhone 6s
+title: Shot on iPhone campaign is back with beautiful portraits taken on iPhone 6s
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/02/Shot-on-iPhone-6s.jpg)
 * Apple has rebooted its successful ‘Shot on iPhone’ advertising campaign, which now highlights photographs that users have taken on their iPhone 6s and iPhone 6s Plus.

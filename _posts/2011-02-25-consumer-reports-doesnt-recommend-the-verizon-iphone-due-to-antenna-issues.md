@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Consumer Reports Doesn't Recommend the Verizon iPhone Due to Antenna Issues
+title: Consumer Reports Doesnt Recommend the Verizon iPhone Due to Antenna Issues
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/02/Consumer-Reports-mad-e1298670335213.png)
 * Proving that they do have something against Apple, the fine folks at Consumer Reports have refused to give the Verizon iPhone their official recommendation. After testing the Verizon iPhone for antenna issues, Consumer Reports determined that the same “antennagate” issue that plagued the original iPhone 4 on AT&T also plagues the CDMA version of the iPhone.

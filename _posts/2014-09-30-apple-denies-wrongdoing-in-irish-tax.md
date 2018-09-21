@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple’s Irish tax woes deepen as European watchdog finds 'illegal state aid' unacceptable
+title: Apple’s Irish tax woes deepen as European watchdog finds illegal state aid unacceptable
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/apple-store-logo-shadow-man.jpg)
 * The European Commission publicized its ruling that Apple benefited from a favorable Irish tax rate, arguing that Apple’s funneling of revenues and earnings to Ireland, where the Cupertino firm cut a favorable tax deal with the Irish government in the late 1980s and early 1990s, constitutes illegal state aid, The Wall Street Journal reported Tuesday.

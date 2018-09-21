@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's marketing honcho Schiller stops using Instagram because it went to Android
+title: Apples marketing honcho Schiller stops using Instagram because it went to Android
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/Phil-Schiller-on-Instagram-quitting.jpg)
 * If you couldn’t believe those hipsters who stopped using Instagram just because it sold out to Facebook for a staggering $1 billion, wait ’till you hear this.

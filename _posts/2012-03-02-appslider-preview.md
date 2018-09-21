@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Upcoming 'AppSlider' tweak places two app shortcuts on your Lock screen
+title: Upcoming AppSlider tweak places two app shortcuts on your Lock screen
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/AppSlider-Screenshot.jpg)
 * Do you have a couple of apps that you just can’t live without? Do you find yourself wishing for a way to launch them directly without hitting your Home screen?

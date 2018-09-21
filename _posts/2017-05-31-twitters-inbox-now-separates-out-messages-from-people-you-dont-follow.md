@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twitter's inbox now separates out messages from people you don't follow
+title: Twitters inbox now separates out messages from people you dont follow
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/11/Twitter-bird-logo-medium.png)
 * Twitter is rolling out a new inbox section which it says is designed to separate direct messages from people you do and don’t follow, making it easier to accept or delete unsolicited chats.

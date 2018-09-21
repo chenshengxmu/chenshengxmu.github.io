@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SwitcherLoader- Rearrange Your iDevice's App Switcher
+title: SwitcherLoader- Rearrange Your iDevices App Switcher
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/SwitcherLoader.jpg)
 * Interested in customizing your App Switcher? What about completely removing certain stock features, like AirPlay and music controls?

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple credits "2012 iOS Jailbreak Dream Team" for kernel exploit
+title: Apple credits 2012 iOS Jailbreak Dream Team for kernel exploit
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/Dream-Team.jpg)
 * For those of you wondering whether or not Apple keeps close tabs on the jailbreak community, well, you can stop wondering. The company directly refers to jailbreakers on its new iOS 5.1 security content page.

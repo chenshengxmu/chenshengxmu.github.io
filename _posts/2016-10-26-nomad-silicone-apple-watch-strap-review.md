@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nomad's Silicone Strap for Apple Watch is both durable and comfortable
+title: Nomads Silicone Strap for Apple Watch is both durable and comfortable
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/Nomad-Silicone-Strap-for-Apple-Watch-2.jpg)
 * If you’ve been tuning into iDB lately, then you probably know we’re big fans of Nomad’s Apple Watch wrist straps here. My colleague Sebastien recently shared his own opinion on the leather strap they offer, but the company also has a rugged silicone option as well.

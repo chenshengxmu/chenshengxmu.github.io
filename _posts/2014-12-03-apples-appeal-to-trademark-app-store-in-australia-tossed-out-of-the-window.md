@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple’s appeal to trademark 'App Store' in Australia tossed out of the window
+title: Apple’s appeal to trademark App Store in Australia tossed out of the window
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/iOS-7-App-Store-teaser-002.jpg)
 * It looks like Apple has been unsuccessfully in its appeal to trademark the term ‘App Store’ in Australia on basis that its application does not distinguish the applicant on its own, the Sydney Morning Herald newspaper reported.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 9's Low Power Mode can significantly increase your iPhone's battery life
+title: iOS 9s Low Power Mode can significantly increase your iPhones battery life
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/Low-Power-Mode.jpg)
 * What if you ran Low Power Mode on your iPhone all of the time? That’s the question that Matt Birchler asked, and he was curious enough to try the experiment for himself. The results are quite eye opening. Low Power Mode doesn’t necessarily have to be a feature that you only use to eek by on a small percentage of remaining battery…

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Viber rolls out Public Chats with the ability to 'like' messages, photos, videos, links and more
+title: Viber rolls out Public Chats with the ability to like messages, photos, videos, links and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/Viber-5.0-for-iOS-iPhone-screenshot-001.jpeg)
 * After receiving an iOS 8 focused update earlier this month bringing a nice Share menu extension, Interactive Notifications and other improvements, Viber on Tuesday pushed a small update adding the Public Chats feature.

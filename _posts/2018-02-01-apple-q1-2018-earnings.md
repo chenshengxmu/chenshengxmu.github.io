@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Q1 2018- 77.3M iPhones, 13.2M iPads, $88.3B revenue
+title: Apples Q1 2018- 77.3M iPhones, 13.2M iPads, $88.3B revenue
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/apple-hq-headquarters.jpg)
 * Apple on Thursday reported its [fiscal] Q1 2018 earnings, offering a look at its performance over the last 3 months. The company beat expectations in revenue, earning $88.3 billion, but fell short on iPhone sales at 77.3 million. Here’s a full breakdown of the numbers.

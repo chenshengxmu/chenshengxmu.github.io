@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FCC questions Verizon's plan to throttle select data customers
+title: FCC questions Verizons plan to throttle select data customers
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/Verizon-Wireless-store-interior-001.jpg)
 * Last week Verizon announced a new ‘network optimization’ initiative to start throttling data users. Beginning in October, the carrier is going to start slowing the speeds of the top 5% of its unlimited LTE customers when they’re connected to a busy cell site.

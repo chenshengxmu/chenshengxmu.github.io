@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T's 4G LTE goes live in Wilkes-Barre, Nashua and Grand Rapids
+title: AT&Ts 4G LTE goes live in Wilkes-Barre, Nashua and Grand Rapids
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/ATT-building-logo-001.jpg)
 * Carrier AT&T this morning announced an expansion of its fourth-generation Long-Term Evolution (LTE) radio technology to three new markets. Beginning today, customers in Wilkes-Barre, Pennsylvania; Nashua, New Hampshire; and Grand Rapids, Michigan should start seeing greater download and upload speeds when using LTE-enabled smartphones, tablets and other devices on AT&T’s network.

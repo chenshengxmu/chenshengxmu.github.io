@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Give your Retina Mac's screen more real estate with scaling options
+title: Give your Retina Macs screen more real estate with scaling options
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/retina-display-mac-screen-space-based-on-zoom.png)
 * Macs that comes with retina displays allow the user to configure their own resolution scaling options.

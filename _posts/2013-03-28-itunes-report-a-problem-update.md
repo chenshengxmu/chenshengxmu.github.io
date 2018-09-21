@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple launching redesigned 'Report a Problem' tool for iTunes purchases
+title: Apple launching redesigned Report a Problem tool for iTunes purchases
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/report-a-problem.png)
 * Earlier this month, Apple started rolling out a new ‘Report a Problem’ tool to a select group of customers. The feature, for those who haven’t used it before, allows iTunes users to report a problem with a recent purchase of an app, song or other iTunes content.

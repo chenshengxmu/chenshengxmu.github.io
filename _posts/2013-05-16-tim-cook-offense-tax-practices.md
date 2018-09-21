@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook defends Apple's offshore tax practices ahead of senate hearing
+title: Tim Cook defends Apples offshore tax practices ahead of senate hearing
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Apple-event-20111004-iPhone-4S-unveiling-Tim-Cook-closeup-001.jpg)
 * Yesterday, word got out that Tim Cook would be testifying at a senate hearing next week over Apple’s tax practices. The hearing was called after the iPad-maker took on billions in debt to fund its shareholder return plan, rather than paying taxes on its offshore cash.

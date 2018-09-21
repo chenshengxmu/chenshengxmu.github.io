@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's perfectionism could delay iSpaceship further as budget balloons to $5 billion
+title: Apples perfectionism could delay iSpaceship further as budget balloons to $5 billion
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/Apple-Campus-2-Rendering-001-Retina-optimized.jpg)
 * Apple’s upcoming 2.8 million square foot circular glass structure, officially called Campus 2 and also known as iSpaceship, could face further delays because it is now reportedly $2 billion over budget. Originally estimated to cost a whopping $3 billion to build, the budget for the new home to about 12,000 employees has now skyrocketed to nearly five billion dollars, Bloomberg Businessweek reports. Because of the risings construction costs, Apple’s Campus 2 could easily become an investor relations nightmare, the publication observes…

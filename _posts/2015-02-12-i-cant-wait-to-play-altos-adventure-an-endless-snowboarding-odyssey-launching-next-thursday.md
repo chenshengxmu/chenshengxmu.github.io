@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Alto's Adventure is launching next Thursday and I can't wait to play it!
+title: Altos Adventure is launching next Thursday and I cant wait to play it!
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/Altos-Adventure-for-iOS-1.0-iPhone-screenshot-002.png)
 * I don’t have a clue about skiing and snowboarding, but that doesn’t mean I’m not a sucker for winter games in the App Store. Especially if they’re based on an endless running concept, incorporate artistic backdrops, have a somber soundtrack and delight with buttery-smooth execution.

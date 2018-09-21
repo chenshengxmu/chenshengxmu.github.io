@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Watch 'San Francisco' font reportedly making its way into iOS 9 and OS X 10.11
+title: Apple Watch San Francisco font reportedly making its way into iOS 9 and OS X 10.11
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/05/Apple-Watch-MacBook-Air-iPad-Air-iPhone-6-image-001.jpg)
 * The San Francisco font used throughout the Apple Watch’s operating system is expected to replace Helvetica Neue as the new default font in iOS 9 code-named “Monarch” and OS X 10.11 code-named “Gala,” according to sources with knowledge of the preparations who spoke to 9to5Mac.

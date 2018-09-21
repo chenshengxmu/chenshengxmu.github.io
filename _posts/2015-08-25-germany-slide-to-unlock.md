@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Germany’s highest appeals court invalidates Apple's slide-to-unlock patents
+title: Germany’s highest appeals court invalidates Apples slide-to-unlock patents
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/08/Slide-to-unlock-image-001.jpg)
 * Germany’s highest appeals court has ruled that Apple’s famous slide-to-unlock patents are invalid, VentureBeat reported Tuesday.

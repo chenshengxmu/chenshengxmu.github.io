@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How did this movie streaming app get approved in the App Store? [update- it's gone]
+title: How did this movie streaming app get approved in the App Store? [update- its gone]
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/Cinema-SG.png)
 * We’ve seen our fair share of oddities when it comes to approval of apps in the App Store, but this one probably takes the cake for the most obvious reason: it lets you stream  movies directly from your iPhone or iPad at no cost. We’re not talking old movies that are in the public domain either. We’re talking recent movies, some of them still being played in theaters.

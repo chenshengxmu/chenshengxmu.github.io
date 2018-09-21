@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review- Nokia's new HERE for iPhone mapping app gives Apple and Google a run for their money
+title: Review- Nokias new HERE for iPhone mapping app gives Apple and Google a run for their money
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/Nokia-HERE-1.0-for-iOS-iPhone-screenshot-005.jpg)
 * After launching its HERE mapping service on iOS only to pull it in December 2013 over unfavorable reception (it was based on HTML5, had limited features and wasn’t optimized for iOS), Nokia last September and again in December promised to deliver a mapping experience the iPhone deserves.

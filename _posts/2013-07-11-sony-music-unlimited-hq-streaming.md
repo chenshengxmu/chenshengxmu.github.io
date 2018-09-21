@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sony's Music Unlimited iOS client enables offline mode and 320kbps streaming
+title: Sonys Music Unlimited iOS client enables offline mode and 320kbps streaming
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/Music-Unlimited-1.3.1-for-iOS-iPhone-screenshot-004.jpg)
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/Music-Unlimited-1.3.1-for-iOS-iPhone-screenshot-002.jpg)

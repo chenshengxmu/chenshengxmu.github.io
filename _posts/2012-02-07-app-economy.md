@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The 'App Economy' Has Led to 466,000 New Jobs in the US in Four Years
+title: The App Economy Has Led to 466,000 New Jobs in the US in Four Years
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/App-Economy.jpg)
 * We all know developers are hard at work to create our favorite apps. With over 500,000 apps currently on the iTunes App Store alone, there is sure to be a ton of developers that need to create these apps, and make a living in doing so.

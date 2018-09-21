@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digg's Google Reader replacement launching June 26 on iPhone first
+title: Diggs Google Reader replacement launching June 26 on iPhone first
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/Digg-Reader-iPhone-teaser-001.jpg)
 * In spite of die-hard users screaming and crying foul, Google quite unapologetically remains on track to shut down its popular news aggregation service dubbed Reader come July 1. But don’t worry, there are plenty of alternatives to Google Reader such as the popular Mac/iOS app Reeder, the unavoidable Flipboard and many other apps.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 4 becomes China's budget iPhone
+title: iPhone 4 becomes Chinas budget iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/iphone-4-corner.jpg)
 * Remember the concern over the higher-than-expected price of the newly-introduced iPhone 5c?

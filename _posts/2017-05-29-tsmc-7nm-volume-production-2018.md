@@ -1,6 +1,6 @@
 ---
 layout: post
-title: In time for iPhone 9, TSMC's 7nm tech moving to volume production in 2018
+title: In time for iPhone 9, TSMCs 7nm tech moving to volume production in 2018
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/TSMC-logo-medium-e1494509782172.jpg)
 * Chip foundry Taiwan Semiconductor Manufacturing Company (TSMC), which counts Apple as its biggest client, is ready to move its cutting-edge seven-nanometer process technology to volume production in 2018.

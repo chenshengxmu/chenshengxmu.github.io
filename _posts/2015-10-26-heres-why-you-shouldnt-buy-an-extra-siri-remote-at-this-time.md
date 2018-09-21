@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's why you shouldn't buy an extra Siri Remote at this time
+title: Heres why you shouldnt buy an extra Siri Remote at this time
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/10/Siri-Remote-Sale1.png)
 * The new Apple TV went on sale today, and Apple is pushing several accessories to go along with the launch. We outlined some of the more interesting accessories in this post, but I wanted to talk a bit more about the Siri Remote.

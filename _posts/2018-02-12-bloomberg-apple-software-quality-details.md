@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bloomberg shares details on Apple's renewed focus on software quality
+title: Bloomberg shares details on Apples renewed focus on software quality
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/iOS-11-teaser-iPhone-iPad-MacBook-Apple-Watch-Home-app.jpg)
 * Apple is reportedly delaying several planned iPhone and iPad features in iOS 12 in order to focus on reliability and performance and now Bloomberg has shared additional details pertaining to the Cupertino tech giant’s renewed focus on software quality.

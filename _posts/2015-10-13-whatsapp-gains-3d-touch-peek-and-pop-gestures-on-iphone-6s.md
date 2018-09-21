@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WhatsApp gains 3D Touch 'Peek' and 'Pop' gestures on iPhone 6s
+title: WhatsApp gains 3D Touch Peek and Pop gestures on iPhone 6s
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/10/WhatsApp-2.12.8-for-iOS-iPhone-screenshot-001.jpg)
 * Facebook-owned WhatsApp messaging platform has received an update today, bringing support for 3D Touch gestures on new iPhones to the popular software.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Get Your iPhone Back on AT&T's Unlimited Data Plan
+title: How to Get Your iPhone Back on AT&Ts Unlimited Data Plan
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/10/ATT-Logo.jpg)
 * When AT&T changed its data plans a few months ago, it put an end the unlimited data plans for new iPhone customers. Existing customers were however offered the possibility to stay on those unlimited plan. Others decided to go to a cheaper capped data plan. The trick is once you give up your unlimited plan, you cannot go back to it.

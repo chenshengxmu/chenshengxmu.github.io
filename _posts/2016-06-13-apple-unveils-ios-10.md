@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's iOS 10's revamped Lock screen with widgets, Raise to Wake, rich notifications and more
+title: Heres iOS 10s revamped Lock screen with widgets, Raise to Wake, rich notifications and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/wwdc-2016-ios-10-lock-screen-widgets.jpg)
 * Apple is holding its anticipated keynote presentation at the Bill Graham Civic Auditorium in San Francisco this morning, which has kicked off the five-day WWDC 2016 developers conference, and they just announced iOS 10, the tenth major version of the mobile operation system powering the iPhone, iPod touch and iPad.

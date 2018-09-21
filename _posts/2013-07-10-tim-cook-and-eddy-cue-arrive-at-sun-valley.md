@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's content king Eddy Cue also attending 2013 Sun Valley retreat
+title: Apples content king Eddy Cue also attending 2013 Sun Valley retreat
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/Tim-Cook-and-Eddy-Cue-arrive-at-Sun-Valley-Jon-Erlichman-001.jpeg)
 * The Sun Valley tech and media conference is kicking off today. Apple’s CEO Tim Cook arrived to Idaho-based Sun Valley Resort earlier today and was unexpectedly accompanied by Senior Vice President of Internet Software and Services, Eddy Cue.

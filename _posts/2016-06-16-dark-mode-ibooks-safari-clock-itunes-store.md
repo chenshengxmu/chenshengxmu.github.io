@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Opinion- Dark Mode? Apple's been testing dark interfaces on iOS for years now
+title: Opinion- Dark Mode? Apples been testing dark interfaces on iOS for years now
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/iOS-10-dark-mode-iTunes-Safari-Clock-iBooks.jpg)
 * My colleague Andrew first broke news yesterday that Dark Mode resources have been found within iOS 10’s Messages app. Now, Dark Mode was expected to make an official appearance in iOS 10, but the WWDC keynote came and went without any mention of this feature.

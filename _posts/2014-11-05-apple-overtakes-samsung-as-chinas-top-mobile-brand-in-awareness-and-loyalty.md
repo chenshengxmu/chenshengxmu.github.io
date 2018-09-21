@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple overtakes Samsung as China's top mobile brand in awareness and loyalty
+title: Apple overtakes Samsung as Chinas top mobile brand in awareness and loyalty
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/iphone_6_6plus_primary-100413338-primary.idge_.jpg)
 * Zooming past its biggest rival Samsung, Apple has officially emerged as China’s #1 mobile brand in both awareness and loyalty, according to the latest consumer survey conducted by the China Brand Research Center’s.

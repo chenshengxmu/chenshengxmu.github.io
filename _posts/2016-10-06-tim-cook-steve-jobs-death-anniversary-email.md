@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Read Tim Cook's email to Apple employees about fifth anniversary of Steve Jobs's death
+title: Read Tim Cooks email to Apple employees about fifth anniversary of Steve Jobss death
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/Steve-Jobs-headshot-001.jpeg)
 * Yesterday marked fifth anniversary of Steve Jobs’s passing. The legendary Apple co-founder died on October 5, 2011 of respiratory arrest related to the pancreatic neuroendocrine tumor he was diagnosed with back in 2003. As we reported, Apple’s boss Tim Cook paid tribute to Jobs by sharing one of his famous quotes on Twitter.

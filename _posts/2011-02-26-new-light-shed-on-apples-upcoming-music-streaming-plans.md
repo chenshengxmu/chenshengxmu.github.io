@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Light Shed on Apple's Upcoming Music Streaming Plans
+title: New Light Shed on Apples Upcoming Music Streaming Plans
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/11/itunes-logo.jpg)
 * I have to admit, I was quite upset when Apple bought Lala.com, bringing an abrupt end to what was an awesome music streaming service. But the prospect of Apple introducing their own streaming service using Lala’s technology quickly put my pain at ease.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fire breaks out at Samsung's battery plant, caused by faulty batteries
+title: Fire breaks out at Samsungs battery plant, caused by faulty batteries
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/Fire-extinguisher.jpg)
 * You can’t make this stuff up: Reuters is reporting that a minor fire broke out at a Samsung SDI factory in the northern Chinese city of Tianjin on Wednesday. What makes this story newsworthy is the fact that the fire was reportedly caused by waste products, including faulty batteries, inside the facility.

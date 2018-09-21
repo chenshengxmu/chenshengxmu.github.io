@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Forbes Ranks Apple as World's Fifth Most Innovative Company
+title: Forbes Ranks Apple as Worlds Fifth Most Innovative Company
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/Apple-Think-Different1.jpg)
 * Apple has received numerous awards throughout the years for its incredible success in the tech industry, and now Apple has received recognition once again from Forbes.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple posts new 'Alive' and 'Together' iPad TV ads
+title: Apple posts new Alive and Together iPad TV ads
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/ipad-alive-tv-spot.png)
 * Apple has posted two new TV ads for the iPad and iPad mini on its YouTube channel this evening. The two spots, entitled ‘Alive’ and ‘Together,’ showcase some of the 300,000+ apps made specifically for Apple’s tablet.

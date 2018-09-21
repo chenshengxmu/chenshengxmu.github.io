@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple previews Beijing's massive new store, the largest in Asia
+title: Apple previews Beijings massive new store, the largest in Asia
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/Apple-Store-Wangfujung-Beijing-exterior-003.jpg)
 * Apple is set to launch a grandiose new store in Beijing this coming Saturday, as we told you earlier. Both Western and local press had a chance to attend a media preview today and boy does the upcoming retail outlet impress. It files as the company’s sixth brick-and-mortar store in China and Apple’s SVP of Retail John Browett was on hand, taking advantage of the opportunity to confirm that the iPhone maker is also working to open another store in Shenzhen, China, where its contract manufacturer operates plants where Apple products are being assembled…

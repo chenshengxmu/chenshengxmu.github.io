@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This is Rupert Murdoch's iPad killer for education
+title: This is Rupert Murdochs iPad killer for education
 ---
 * http://www.youtube.com/watch?v=uT8s66oXP_A
 * Media tycoon Rupert Murdoch and his publishing empire, News Corp, used to be strong believers in Apple’s iPad and its digital publishing prowess, so much so that he greenlit a substantial investment in The Daily, an iPad-exclusive magazine.

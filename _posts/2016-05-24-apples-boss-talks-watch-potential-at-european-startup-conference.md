@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's boss talks Watch potential at European startup conference
+title: Apples boss talks Watch potential at European startup conference
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/Apple-Watch-heart.jpg)
 * Tim Cook is at the Startup Fest Europe conference in Amsterdam, Netherlands today. In an on-stage interview with Nellie Kroes, who is a retired European Commissioner for Digital Agenda, Cook waved off any suggestion that the Cupertino firm might enter the telecommunications business by becoming an MVNO (Mobile Virtual Network Operator).

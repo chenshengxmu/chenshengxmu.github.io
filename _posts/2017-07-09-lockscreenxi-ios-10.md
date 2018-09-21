@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LockscreenXI brings iOS 11's Lock screen interface to iOS 10
+title: LockscreenXI brings iOS 11s Lock screen interface to iOS 10
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/07/LockScreenXI.jpg)
 * Some jailbreakers are already drooling over the host of interface changes that come with iOS 11, but we encourage these folks to hold onto their seats. A jailbreak tweak collection dubbed Eleven is nearing full release that will bring many of iOS 11’s new interface experiences to jailbroken iOS 10 devices.

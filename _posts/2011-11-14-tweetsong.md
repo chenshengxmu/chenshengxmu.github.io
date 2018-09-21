@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Tweet Your Current Song Using iOS 5's Built in Twitter Integration
+title: How to Tweet Your Current Song Using iOS 5s Built in Twitter Integration
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/TweetSong.png)
 * TweetSong is a jailbreak tweak for iOS 5 that makes it easy to tweet out your #nowplaying song using iOS 5’s built in Twitter integration.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's embarrassing “i → A [?]” autocorrect bug could be a machine learning problem
+title: Apples embarrassing “i → A [?]” autocorrect bug could be a machine learning problem
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/iOS-11.1-autocorrect-bug.jpg)
 * Apple’s QuickType keyboard bug in iOS where typing the letter “i” can replace it with the uppercase letter “A” and a question mark symbol could be a machine learning problem, according to Daring Fireball’s John Gruber.

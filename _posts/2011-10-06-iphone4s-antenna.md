@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What's Different About the iPhone 4S Antenna?
+title: Whats Different About the iPhone 4S Antenna?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/Screen-Shot-2011-10-05-at-11.23.15-AM-e1317828239945.png)
 * One part of Apple’s iPhone 4S announcement that perhaps isn’t getting all that much talk time (see what I did there?) is the new, redesigned antenna system. That’s particularly interesting considering how eager everyone was so talk about it, back when the iPhone 4 was suffering from the good ol’ AntennaGate debacle!

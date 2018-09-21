@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sony releases 'Ratchet & Clank- BTN' game for iOS
+title: Sony releases Ratchet & Clank- BTN game for iOS
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/clank-2.jpeg)
 * In a bit of a surprise move today, Sony has released a new game for the iPhone and iPad called ‘Ratchet & Clank: BTN.’ It’s an Infinite runner, much like Temple Run, with familiar elements from Sony’s popular franchise.

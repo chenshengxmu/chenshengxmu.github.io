@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung to take on iPhone 8 with 6.2" Galaxy S8+ with eye scanner, Quad HD+ screen & more
+title: Samsung to take on iPhone 8 with 6.2 Galaxy S8+ with eye scanner, Quad HD+ screen & more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/Galaxy-S8-Plus-specs-Evan-Blass-leak-001.jpeg)
 * Samsung is looking to pre-empt Apple’s expected monster upgrade cycle stemming from pent-up demand for a cutting-edge iPhone with a new Plus-branded Galaxy smartphone, as was previously rumored. Likely named Galaxy S8+, it should have an iris scanner and a 6.2-inch AMOLED screen with a Quad HD+ 3,200-by-1,800 pixel resolution.

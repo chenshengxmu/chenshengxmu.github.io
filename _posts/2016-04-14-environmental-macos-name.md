@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's environmental webpage hints at 'MacOS' name change
+title: Apples environmental webpage hints at MacOS name change
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/04/macos-apple-site.jpg)
 * More evidence that Apple is planning to rebrand OS X to MacOS in the near future has been discovered on Apple’s environmental webpage. First spotted by 9to5Mac, the recently updated page specifically refers to “MacOS” devices.

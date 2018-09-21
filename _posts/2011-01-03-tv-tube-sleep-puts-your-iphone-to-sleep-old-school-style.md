@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'TV Tube Sleep' Puts Your iPhone to Sleep Old School Style
+title: TV Tube Sleep Puts Your iPhone to Sleep Old School Style
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/01/TV-Tube-Sleep-01.png)
 * This has to be one of the coolest jailbreak tweaks I’ve seen, from a purely eye-pleasing perspective: it puts your iPhone to sleep in the style of an old TV tube.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CNET reviews iPhone X camera by photographing California's wildfire devastation
+title: CNET reviews iPhone X camera by photographing Californias wildfire devastation
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/iPhone-X-camera-review-CNET-003.jpeg)
 * Senior CNET photographer James Martin has decided to test the iPhone X camera by documenting the most devastating wildfire in California’s history.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Store app updated with new design and 'For You' recommendations
+title: Apple Store app updated with new design and For You recommendations
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/08/apple-store-app-1.png)
 * As expected, Apple on Thursday released an update for its Apple Store app, bringing the online shopping client to version 4.0. Fulfilling previous reports, the update includes a redesigned interface, and a new ‘For You’ recommendation feature that offers you suggestions on products to buy based on your previous purchases.

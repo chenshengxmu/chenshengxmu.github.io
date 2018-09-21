@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook views Android litigation as "a necessary evil", not a thermonuclear option
+title: Tim Cook views Android litigation as a necessary evil, not a thermonuclear option
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/Bloomberg-cover-Apple-war-on-Android.jpg)
 * Remember how Steve Jobs told his biographer Walter Isaacson that he is willing to wage a “thermonuclear war” on Android because it’s “a stolen product”? Having already spent an estimated 100+ million dollars on war on Android, Apple certainly means business. Sadly, the larger contest between Apple and Google is nowhere near resolution.

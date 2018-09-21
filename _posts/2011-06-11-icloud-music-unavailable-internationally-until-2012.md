@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's iCloud Music Service Not Likely Available Internationally Until 2012
+title: Apples iCloud Music Service Not Likely Available Internationally Until 2012
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/iCloud-iTunes-Syncing.png)
 * One of Apple’s big announcements at WWDC 2011’s keynote was the iCloud music service. Offering cross-device syncing as well as iTunes Match for checking your non-iTunes bought music and adding it to the cloud, iTunes in the Cloud is just one aspect of the very exciting iCloud. While users in the United States can expect the service to go live in the Fall when iOS 5 ships, those living outside the US could be waiting until at least early 2012, according to business insiders.

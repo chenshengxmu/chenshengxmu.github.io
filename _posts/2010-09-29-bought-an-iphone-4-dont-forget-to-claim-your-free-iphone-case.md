@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bought an iPhone 4? Don't Forget to Claim Your Free iPhone Case
+title: Bought an iPhone 4? Dont Forget to Claim Your Free iPhone Case
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/09/iPhone-4-Case-Program2.jpg)
 * If you bought an iPhone 4 between its launch date and September 30th, you are entitled to receiving a free iPhone case from Apple. The company had decided to give away case to iPhone 4 owners after complaints started erupting about the iPhone 4 antenna issue.

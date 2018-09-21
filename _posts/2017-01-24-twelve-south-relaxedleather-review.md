@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twelve South's RelaxedLeather case is a luxurious iPhone case for minimalists
+title: Twelve Souths RelaxedLeather case is a luxurious iPhone case for minimalists
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/01/Twelve-South-RelaxedLeather-Colors-1.png)
 * Twelve South is already at it again, having just this month launched a new lineup of snap-on leather cases dubbed RelaxedLeather. They come in two flavors: slotted and non-slotted, depending on whether or not you like to use your iPhone case to carry credit and ID cards. More importantly, they also come in a variety of different colors, giving you a lot to choose from.

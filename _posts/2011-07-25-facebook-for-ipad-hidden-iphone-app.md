@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Facebook for iPad Hidden Within iPhone App, Here's How to Get it Right Now
+title: Facebook for iPad Hidden Within iPhone App, Heres How to Get it Right Now
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/07/Facebook-for-iPad-Launch-Screen-e1311601791879.png)
 * TechCrunch has reported that the rumored Facebook for iPad app is hidden within the iPhone app. How so?

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple confirms a fix for iOS 9.3's misbehaving web links is in the works and coming soon
+title: Apple confirms a fix for iOS 9.3s misbehaving web links is in the works and coming soon
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/iOS-9.3-Health-News-teaser-001.jpg)
 * Apple is aware that some folks are seeing unexpected behavior when tapping web links on iOS 9.3 and is working on a fix which will be deployed to users in the form of a minor software update, a company spokesperson has confirmed to TechCrunch.

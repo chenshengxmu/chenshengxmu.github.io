@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Temple Run- Oz slides its way into App Store ahead of Friday's flick release
+title: Temple Run- Oz slides its way into App Store ahead of Fridays flick release
 ---
 * Imangi Studios, the brains behind the popular endless-runner game Temple Run, is no stranger to movie tie-ins. Just last June, they released Temple Run: Brave which uses content from Disney’s Pixar animated feature film, ‘Brave’. A much-improved sequel to Temple Run hit the App Store in January 2013, quickly becoming the fastest downloaded mobile game in history.
 * Today Imangi’s second Hollywood tie-in is available for download as a universal build for iPhones and iPads. As the name suggests, Temple Run: Oz ties nicely with ‘Oz the Great and Powerful’, an upcoming fantasy adventure film directed by Sam Raimi and due to hit theaters this coming Friday, March 8…

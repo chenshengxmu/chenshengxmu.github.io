@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KGI- LG to break Samsung's exclusivity on iPhone OLEDs in 2018
+title: KGI- LG to break Samsungs exclusivity on iPhone OLEDs in 2018
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/07/LG-Display-Paju-plant.jpg)
 * As Apple is said to be bankrolling its supplier LG Display’s OLED expansion, analyst Ming-Chi Kuo of KGI Securities yesterday shared his thoughts on the matter.

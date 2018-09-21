@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iMac Pro's RAM is upgradeable only by Apple or Authorized Service Providers
+title: iMac Pros RAM is upgradeable only by Apple or Authorized Service Providers
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/iMAc-Pro-RAM.jpg)
 * Although it was initially believed that iMac Pro cannot be upgraded post-purchase due to its completely sealed design, we’ve learned that the machine’s 2,666 MHz ECC RAM is actually upgradeable by Apple itself or one of their Authorized Service Providers.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's New Remote iDevice Diagnostic Tool Detailed, Arriving Soon
+title: Apples New Remote iDevice Diagnostic Tool Detailed, Arriving Soon
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/ios-diagnostic.png)
 * We’ve been hearing little tidbits here and there that point to a new way for Apple to diagnose issues with iPhones, iPads and iPod touches. First, we reported on internal messages being sent to Apple dealers that mention a tool for remote retrieval of logs and error files from devices, and then a patent popped up that ran along very similar lines.

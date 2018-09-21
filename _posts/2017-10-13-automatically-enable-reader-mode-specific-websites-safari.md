@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to automatically invoke Safari's Reader mode for specific websites
+title: How to automatically invoke Safaris Reader mode for specific websites
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/Reader-Mode-Automatically-Safari-iOS-11-2.jpg)
 * Safari is the default web browser in both iOS and macOS, but did you know the latest iOS 11 and macOS High Sierra updates supercharge Safari’s Reader mode capabilities?

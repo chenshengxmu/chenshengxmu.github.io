@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This tweak prevents Spotify radio stations from playing songs you've Liked in the past
+title: This tweak prevents Spotify radio stations from playing songs youve Liked in the past
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/latest.jpg)
 * Anyone who uses Spotify to listen to their favorite music might be able to benefit from a new free jailbreak tweak called SpotStationNoLikedSongsPlz by HiDaN, as it helps to diversify what you hear on a regular basis from Spotify-based radio stations.

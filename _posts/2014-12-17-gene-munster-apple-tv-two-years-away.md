@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gene Munster just won't give up on Apple TV set, says it's now two years away
+title: Gene Munster just wont give up on Apple TV set, says its now two years away
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/mf_apple16__01__630x420.jpg)
 * Famed Piper Jaffray analyst Gene Munster is known for his incorrect predictions on Apple’s long-awaited television set. He’s previously guessed 2012, late-2012, and holiday 2013 as the incorrect launch dates for the new Apple product category. In 2014 he’s remained completely silent on the subject, until his latest appearance at the Business Insider conference.

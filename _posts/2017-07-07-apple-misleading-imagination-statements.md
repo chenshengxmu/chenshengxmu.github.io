@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple calls shenanigans on former GPU supplier's “inaccurate and misleading” statements
+title: Apple calls shenanigans on former GPU suppliers “inaccurate and misleading” statements
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/Imagination-Technologies-PowerVR-GX6650-image-002.jpg)
 * Apple has hit hard at the accusations that its former mobile GPU supplier Imagination Technologies leveled at the Cupertino tech giant. According to the iPhone maker, Imagination’s “unsubstantiated allegations” made recently in their annual report to investors are “inaccurate and misleading,” Bloomberg reported Friday.

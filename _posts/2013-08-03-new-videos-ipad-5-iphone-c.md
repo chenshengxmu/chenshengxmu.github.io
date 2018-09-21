@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New videos of alleged iPad 5 and low-cost 'iPhone 5C' surface
+title: New videos of alleged iPad 5 and low-cost iPhone 5C surface
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/new-ipad-5-video.png)
 * During Apple’s quarterly earnings call last month, Tim Cook said that the company had some “amazing new hardware” coming this fall. It’s something he’s mention several times over the past few months, and we’ve seen plenty of evidence to back it up.

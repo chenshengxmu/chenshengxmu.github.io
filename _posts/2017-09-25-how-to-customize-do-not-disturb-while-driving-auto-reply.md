@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to customize 'Do Not Disturb While Driving' response on iPhone
+title: How to customize Do Not Disturb While Driving response on iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/do-not-disturb-while-driving-header-.png)
 * Apple’s latest ‘Do Not Disturb While Driving’ mode is another important step towards minimizing interaction with your iPhone behind the wheel and, more widely, an asset for road safety.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cook- Apple television is an 'area of intense interest'
+title: Cook- Apple television is an area of intense interest
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/WWDC-2012-keynote-Tim-Cook-001.jpg)
 * NBC’s much hyped interview with Tim Cook is scheduled to air today at 10pm Eastern, 7pm Pacific time. The network has posted a preview of the show containing Cook’s interesting comment on the state of the elusive and long-rumored Apple television set. In it, Apple’s chief executive likened the Apple TV project and the living room to an “area of intense interest”, but refused to provide any more details.

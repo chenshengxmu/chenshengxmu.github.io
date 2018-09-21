@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KGI- 6.5" iPhone X Plus & 6.1" LCD model on tap for launch in the second half of 2018
+title: KGI- 6.5 iPhone X Plus & 6.1 LCD model on tap for launch in the second half of 2018
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/iPhone-X-Plus-concept-Martin-Hajek-007.jpg)
 * Apple is predicted to release a Plus version of iPhone X next year featuring an OLED panel measuring 6.5 inches diagonally versus the current 5.8-inch iPhone X model.

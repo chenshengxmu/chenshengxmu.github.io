@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Look at Yahoo's New Livestand iPad App
+title: A Look at Yahoos New Livestand iPad App
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/livestand-ss.jpg)
 * Yahoo was once the most visited web portal on the internet, but it has had a rough last couple of years. In an industry where companies are transitioning into the mobile arena at breakneck speeds, Yahoo has struggled to stay relevant.

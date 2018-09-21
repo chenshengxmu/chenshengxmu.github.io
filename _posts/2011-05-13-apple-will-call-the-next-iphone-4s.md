@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Will Call the Next iPhone "4S?"
+title: Apple Will Call the Next iPhone 4S?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/CDMA-iPhone-4.jpg)
 * We’ve heard iPhone 5, 4G, 4GS, and 4S as possible names for Apple’s next gen iPhone. Recently, select develepors started receiving iPhone ‘4S’ prototypes for testing purposes. There’s even been some leaked images of what is an alleged iPhone 4S with a slightly larger screen than the iPhone 4.

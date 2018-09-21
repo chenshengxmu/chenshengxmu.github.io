@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft's incoming iOS keyboard to feature special one-handed mode
+title: Microsofts incoming iOS keyboard to feature special one-handed mode
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/microsoft-flow.png)
 * The Windows Phone keyboard Microsoft is bringing to iOS will feature a special one-handed mode, reports The Verge. Speaking with sources familiar with the company’s plans, the site says that an early version of the keyboard is currently in internal beta, and it will soon be available to public testers.

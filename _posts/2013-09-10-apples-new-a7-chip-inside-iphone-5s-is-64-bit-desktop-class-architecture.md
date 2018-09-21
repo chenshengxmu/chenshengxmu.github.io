@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's new A7 chip inside iPhone 5s is 64-bit, 'desktop-class architecture'
+title: Apples new A7 chip inside iPhone 5s is 64-bit, desktop-class architecture
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/A7-Chip.jpg)
 * In revealing the new top-line iPhone 5s smartphone, Apple spent some air time talking about the all-new A7 chip. Contrary to previous reports and the somewhat mixed rumors, the new chip is 64-bit. This is huge. It’s the first time Apple’s made a jump to the modern 64-bit mobile architecture.

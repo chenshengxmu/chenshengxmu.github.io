@@ -1,6 +1,6 @@
 ---
 layout: post
-title: US Patent Office turns down Apple's iPad mini trademark application
+title: US Patent Office turns down Apples iPad mini trademark application
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/iPad-mini-box.jpg)
 * Apple’s been having some pretty bad luck on the patent and trademark front lately. It recently lost a trademark battle in Mexico for its world-renown ‘iPhone’ moniker, and it’s fighting a similar battle in Brazil.

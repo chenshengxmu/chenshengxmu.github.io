@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple to live stream this year's WWDC keynote
+title: Apple to live stream this years WWDC keynote
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/wwdc-15-apple-tv.jpg)
 * It looks like Apple is going to once again be providing a live stream of its WWDC keynote this year. On Monday the company updated its Events channel on Apple TV with a new program labeled “WWDC 2015 Keynote – LIVE.”

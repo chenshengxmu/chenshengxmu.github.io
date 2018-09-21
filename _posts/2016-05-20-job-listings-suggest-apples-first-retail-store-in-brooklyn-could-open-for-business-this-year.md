@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Job listings suggest Apple's first retail store in Brooklyn could open for business this year
+title: Job listings suggest Apples first retail store in Brooklyn could open for business this year
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/Apple-Store-Brooklyn-The-REal-deal-concept-001.jpg)
 * Following setbacks, Apple’s first retail store in Brooklyn, New York City’s most populous borough, could open some time this year.

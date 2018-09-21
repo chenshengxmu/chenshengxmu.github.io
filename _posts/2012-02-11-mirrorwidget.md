@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Add a mirror to Notification Center with 'MirrorWidget'
+title: Add a mirror to Notification Center with MirrorWidget
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/MirrorWidget-Screenshot.jpg)
 * MirrorWidget is a jailbreak tweak that places a mirror in iOS 5’s Notification Center. The “mirror” is just an image from either the front or rear facing camera; you can switch between the two, and you have the ability to snap a photo in the process.

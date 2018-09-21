@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Obama, Boehner turn to Apple's boss for financial advice
+title: Obama, Boehner turn to Apples boss for financial advice
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/6394742843_6f355e83e6_b-e1322680664714.jpg)
 * Apple CEO Tim Cook should consider becoming a financial consultant, if this iPhone thing fizzles out. Apparently, he is on speed-dial for both ends of Pennsylvania Avenue. U.S. President Barack Obama called Cook seeking comment on the looming “fiscal cliff” crisis, according to Monday reports. Although it’s not known what advice the Apple leader gave Obama, Cook was among a number of CEOs the White House contacted. Other business leaders included JPMorgan Chase’s Jamie Dimon, Jim McNerney of Boeing and Craig Jelinek of Costco…

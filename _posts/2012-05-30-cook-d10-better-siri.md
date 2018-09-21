@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cook at D10- "you'll be pleased" with where your best friend Siri is going
+title: Cook at D10- youll be pleased with where your best friend Siri is going
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Tim-Cook-at-D10-image-004.jpg)
 * Be careful how you call Siri. Apple’s boss Tim Cook says the controversial digital secretary is “your best friend”, teasing “you’ll be really pleased with some of the things” the company has in store. We also have a cool vid with Cook fielding questions from Walt Mossberg and Kara Swisher at yesterday’s D10: All Things Digital talk.

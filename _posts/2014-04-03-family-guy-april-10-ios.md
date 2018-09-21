@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Family Guy- The Quest for Stuff' landing on iOS April 10
+title: Family Guy- The Quest for Stuff landing on iOS April 10
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/familyguy1.jpg)
 * It looks like the highly anticipated Family Guy project from Fox and TinyCo is set to be released next week. At a launch event in Los Angeles last night, the two firms announced that ‘Family Guy: The Quest for Stuff’ will be landing on iOS on April 10.

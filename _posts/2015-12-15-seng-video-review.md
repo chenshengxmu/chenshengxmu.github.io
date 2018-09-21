@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Seng- even in beta, it's the best App Switcher tweak for jailbroken iOS 9 devices [video]
+title: Seng- even in beta, its the best App Switcher tweak for jailbroken iOS 9 devices [video]
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/12/Seng-beta-iOS-9-03.jpg)
 * If you’re looking for an App Switcher replacement for iOS 9, then look no further than Seng, the currently in-beta Auxo-inspired tweak from developer Charlie Hewitt. We first told you about Seng’s recent beta a few days ago, but since then, I’ve been able to go hands-on with the tweak.

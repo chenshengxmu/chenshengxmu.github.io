@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Leaderboards and more added to Foursquare's location check-in app Swarm
+title: Leaderboards and more added to Foursquares location check-in app Swarm
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/Swarm-1.0-for-iOS-iPhone-screenshot-003.gif)
 * Foursquare’s dedicated check-in app, Swarm, has been adding missing features ever since the startup split the main mobile app’s functionality into dedicated place discovery and check-in apps.

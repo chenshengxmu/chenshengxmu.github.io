@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hands-on with Apple's new leather case for Apple Pencil that prevents rolling and broken tips
+title: Hands-on with Apples new leather case for Apple Pencil that prevents rolling and broken tips
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/Apple-Pencil-case-image-002.jpg)
 * You know how Apple Pencil is weighted to prevent rolling and how it always stops rolling with the word “Pencil” facing upward on its metal band? Well, Apple’s attention attention to detail doesn’t stop at the stylus.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Obama Administration vetoes ITC's US sales ban on Apple products
+title: Obama Administration vetoes ITCs US sales ban on Apple products
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/obama_ipad.jpg)
 * Huge news out of Washington this afternoon, as reports are coming in that President Obama has stepped in and vetoed the ITC’s decision to place a US import ban on a handful of Apple’s older iOS devices. The ban came after the International Trade Commission found some of Apple’s products infringed on 2 Samsung cellular patents.

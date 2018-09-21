@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We're giving away 10 copies of TwitkaFly
+title: Were giving away 10 copies of TwitkaFly
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/twitkafly_sample.png)
 * In case you haven’t figured it out by now, we love giveaways here at iDB. It’s our way of saying thanks to you, our awesome readers, by giving you a chance to win something cool.

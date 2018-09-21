@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This is Fire Phone, Amazon's first smartphone
+title: This is Fire Phone, Amazons first smartphone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/Fire-Phone-Front.jpg)
 * Amazon today unveiled the Fire Phone, its first smartphone. The device features a 4.7-inch screen, 2.2 GHz quad-core processor, 2 GB of RAM, 13-megapixel rear-facing camera, Adreno 330 graphics and more. It runs a custom version of Android called Fire OS 3.5. The smartphone also has several other interesting features, including a 3D adaptive perspective mode, Firefly, ASAP predictive caching, MayDay support, screen mirroring and more.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Apple's next-generation file system will make your data more secure across platforms
+title: How Apples next-generation file system will make your data more secure across platforms
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/Apple-file-System-WWDC-2016-teaser-001.png)
 * Apple’s efforts on adding even stronger security to its software platforms is coming to light with news that the company is introducing a brand new file system with “encryption as a primary feature”. Called the Apple File System (APFS), the new feature is optimized for flash-based storage and engineered to “scale from an Apple Watch to a Mac Pro”.

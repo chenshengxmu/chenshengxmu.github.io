@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple asks 'Neato' to remove keyboard in ongoing war on widgets
+title: Apple asks Neato to remove keyboard in ongoing war on widgets
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/11/Neato-notes-extension.jpg)
 * Apple is once again going after a Notification Center widget for overstepping its bounds. Neato, a popular note-taking widget with a built-in keyboard and share controls, says the Cupertino firm has threatened to remove the app for violating its App Review Guidelines.

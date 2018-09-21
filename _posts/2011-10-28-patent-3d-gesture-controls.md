@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Patent Shows Apple's Interest in 3D Gesture Controls
+title: Patent Shows Apples Interest in 3D Gesture Controls
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/hand-gestures-minority-report-e1319760305118.jpg)
 * Apple has spent the last several years revolutionizing the way we interact with our mobile gadgets. Sure, there were touchscreen devices before the iPhone. But none of them worked as well Apple’s handset. And the same can be said about Siri and voice control.

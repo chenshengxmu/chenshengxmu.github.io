@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Facebook's new Paper app lands in the App Store
+title: Facebooks new Paper app lands in the App Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/Facebook-Paper-teaser-002.jpg)
 * Facebook’s new Paper for iPhone app has just landed in the App Store, download it free. The news-reading application, which employs beautiful edge-to-edge design and Flipboard-like gestures, serves both stories surfaced from your News Feed and cherry-picked items from big name publications curated by Facebook editors. The app can be customized with a choice of more than a dozen topics ranging photography and sports to food, science and design, with each section including “a rich mix of content from emerging voices and well-known publications”…

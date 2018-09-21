@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Candy Crush Saga creator trademarks 'candy', goes after App Store devs
+title: Candy Crush Saga creator trademarks candy, goes after App Store devs
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/candy-crush-logo.jpg)
 * Social games developer King, perhaps best-known for its wildly popular Candy Crush Saga match-three game (free in the App Store, currently #9 on the free apps chart), has filed an application with the United States Patent and Trademark Office (USPTO) seeking to trademark the word ‘candy’.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beats Music posts video celebrating Spike Lee's 'Do the Right Thing' film
+title: Beats Music posts video celebrating Spike Lees Do the Right Thing film
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/beats-right-thing.png)
 * Apple’s recently acquired Beats Music has posted a new video on its YouTube channel this evening. The 22-minute-long clip is called ‘Do The Right Thing 25 Year Anniversary: A Beats Music Experience,’ and it’s a documentary that revisits the cast and location of Spike Lee’s popular film.

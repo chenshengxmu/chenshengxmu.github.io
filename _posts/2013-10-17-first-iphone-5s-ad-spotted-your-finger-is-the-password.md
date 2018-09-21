@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First iPhone 5s ad- 'your finger is the password'
+title: First iPhone 5s ad- your finger is the password
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/Gold-iPhone-5s-side-and-back.png)
 * Since announcing a pair of new iPhones on September 10, Apple has not aired a single television commercial or published a newspaper ad to promote the flagship iPhone 5s.

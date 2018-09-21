@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple advertising engraved and gift-wrapped iPads for Valentine's Day
+title: Apple advertising engraved and gift-wrapped iPads for Valentines Day
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/valentines-day-ad.png)
 * Now that Christmas is just a tiny spec in our rear-view mirrors, it’s time to start looking ahead to the next gift-giving holiday: Valentine’s Day. And this morning, Apple started doing just that, highlighting the affair on its web store with a new “There’s more than one way to say I love you” iPad advertisement…

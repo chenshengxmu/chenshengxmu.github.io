@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Saurik's latest Reddit comment discusses Electra, Cydia, and Mobile Substrate
+title: Sauriks latest Reddit comment discusses Electra, Cydia, and Mobile Substrate
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/Cydia-iOS-11.jpg)
 * With everything that’s going on lately in the jailbreak community as of late, it’d be an understatement to say that people want to know what’s happening with Saurik and the iOS 11 update for Cydia and Mobile Substrate that he talked about on Reddit several weeks ago.

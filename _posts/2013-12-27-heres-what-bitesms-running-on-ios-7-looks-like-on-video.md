@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's what biteSMS running on iOS 7 looks like on video
+title: Heres what biteSMS running on iOS 7 looks like on video
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/biteSMS-repo.png)
 * biteSMS is without a doubt one of the biggest jailbreak apps of all time. I mean, even Sebastien raves about it, and we all know how picky he is when it comes to installing things on his iPhone.

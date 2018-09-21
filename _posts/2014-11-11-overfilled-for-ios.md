@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Say 'hello' to Overglide, a tiny game playable from the Lock screen and Notification Center
+title: Say hello to Overglide, a tiny game playable from the Lock screen and Notification Center
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/11/Overglide-1.0-for-iOS-iPhone-screenshot-001.jpeg)
 * I should have suffixed the headline with “no jailbreak required” for added punch. Yes, Overglide for the iPhone and iPad indeed is a tiny game that you play within iOS 8’s Notification Center and right on the Lock screen, even while your iOS device is locked.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Carpe Diem' brings Notification Center widgets to Reachability view
+title: Carpe Diem brings Notification Center widgets to Reachability view
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/Carpe-Diem-Settings.jpg)
 * It seems like more and more tweaks are beginning to take advantage of the available real estate present when invoking Reachability. Case in point: Carpe Diem—a new jailbreak tweak that allows you to place iOS Today View widgets directly in the space that becomes available when using Reachability.

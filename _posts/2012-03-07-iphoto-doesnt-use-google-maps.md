@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New iPhoto app doesn't use Google Maps
+title: New iPhoto app doesnt use Google Maps
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/iphoto-maps.jpg)
 * Earlier today, Apple unveiled a new iPhoto application for iOS during its iPad 3 event. The app is essentially a mobile version of its popular photo editing and management software for the Mac.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's How iOS 5's Speech Recognition Might Work
+title: Heres How iOS 5s Speech Recognition Might Work
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/05/iOS-5-Speech-Recognition-Concept-e1305551778125.png)
 * Speech recognition is a hot topic right now, and for good reason. It’s evident that iOS 5 is going to feature a heavy mix of speech recognition tech, and this is the way that mobile phones are headed as a whole.

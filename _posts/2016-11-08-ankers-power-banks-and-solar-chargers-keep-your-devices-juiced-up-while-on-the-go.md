@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Anker's power banks and solar chargers keep your devices juiced up while on the go
+title: Ankers power banks and solar chargers keep your devices juiced up while on the go
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/07/Anker-PowerCore-Carrying-Bags.png)
 * If you do a lot of traveling and like to stay connected with your friends and family via your smartphone or tablet, then you probably need as much battery life as you can get. Out and about, you won’t always have access to a plug in the wall, so it’s a good idea to have a backup plan for keeping your devices charged.

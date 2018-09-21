@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Moga knocks 20% off price of 'Ace Power' iOS 7 controller
+title: Moga knocks 20% off price of Ace Power iOS 7 controller
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/mogaacepower.jpg)
 * MOGA has dropped the price of its ‘Ace Power’ iOS 7 gaming controller by 20%, bringing it down to $80 from $100. The move follows similar price drops by both Logitech and Strata on their respective MFi controllers, signaling a trend in the space.

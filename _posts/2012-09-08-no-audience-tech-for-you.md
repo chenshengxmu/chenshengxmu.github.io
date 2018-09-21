@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 5 unlikely to feature Audience's noise reduction tech
+title: iPhone 5 unlikely to feature Audiences noise reduction tech
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/audience_earsmart.jpg)
 * File this one under “odd.” A theory started floating around earlier this year regarding why Siri was limited to the iPhone 4S. It had something to do with a noise reduction technology from Audience, called “EarSmart,” which allowed the phone to pickup sound from a couple of feet away.

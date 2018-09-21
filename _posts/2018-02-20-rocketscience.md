@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RocketScience gives the App Switcher's Home screen card its own icon and label
+title: RocketScience gives the App Switchers Home screen card its own icon and label
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/02/RocketScience-Before-and-After.jpg)
 * Whenever you use the App Switcher on your iPhone or iPad, every card that you can swipe between sports an icon and label, except for the one that represents your Home screen.

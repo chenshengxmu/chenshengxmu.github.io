@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Textbooks are coming to Google's Play Books in early August
+title: Textbooks are coming to Googles Play Books in early August
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/Google-Play-Books-textbooks-001.jpg)
 * Taking a page from Apple’s book (pun intended), Google’s Play Books service will start carrying textbooks in August, giving students the choice of renting (for six months) or buying electronic textbooks, available on iOS or Android devices.

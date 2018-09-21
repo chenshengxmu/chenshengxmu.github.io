@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Valve app for streaming games to iOS/tvOS devices isn't coming after all
+title: Valve app for streaming games to iOS/tvOS devices isnt coming after all
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/steam.png)
 * Apple’s seemingly blocked Valve’s plan to extend Steam video games to iPhone, iPad and Apple TV by rejecting the forthcoming Steam Link app for iOS and tvOS over “business conflicts.”

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to recycle your old tech with Apple's Recycling Program
+title: How to recycle your old tech with Apples Recycling Program
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-08-at-7.41.01-PM.png)
 * If you have old tech sitting in your closet or attic that you don’t use anymore because you’ve got something better, Apple will gladly make sure that tech is recycled properly free of cost via the Apple Recycling Program. In some instances, the company will even give you an Apple Store gift card as credit towards a new Apple device or accessories.

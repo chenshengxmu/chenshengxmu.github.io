@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Deutsche Telekom opens online reservations for upcoming iPhones ahead of September's unveiling
+title: Deutsche Telekom opens online reservations for upcoming iPhones ahead of Septembers unveiling
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/iPhone-6-gray-silver-gold-back-camera-e1422282932304.jpg)
 * German wireless carrier and one of the largest telecommunications companies in the world, Deutsche Telekom, has opened an online reservations system for customers looking to buy unreleased next-generation iPhones, likely to be marketed under the ‘iPhone 6s’ and ‘iPhone 6s Plus’ monikers.

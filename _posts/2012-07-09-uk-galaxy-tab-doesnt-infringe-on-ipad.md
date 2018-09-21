@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UK Judge rules Galaxy Tab doesn't infringe on iPad because it's "not as cool"
+title: UK Judge rules Galaxy Tab doesnt infringe on iPad because its not as cool
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/samsung-galaxy-tab-101-1.jpeg)
 * Samsung’s Galaxy Tab tablet doesn’t infringe on the iPad because it lacks the coolness factor of Apple’s device, Judge Colin Birss wrote in a ruling today in London. Put simply, Samsung’s Galaxy tablets “are not as cool”, and this is the official explanation from court documents. Jony Ive won’t like this…

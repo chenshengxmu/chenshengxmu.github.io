@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's in-house designed T2 chip in iMac Pro enables a new level of integration and security
+title: Apples in-house designed T2 chip in iMac Pro enables a new level of integration and security
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/WWDC-2017-imac-pro.jpg)
 * iMac Pro, which launched today, uses Apple’s in-house designed chip to boost your security.

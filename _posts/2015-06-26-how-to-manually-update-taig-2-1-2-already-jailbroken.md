@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to manually update to TaiG 2.1.2 if you're already jailbroken
+title: How to manually update to TaiG 2.1.2 if youre already jailbroken
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/TaiG-2.1.2-Untether-Upgrade-Cydia-Tutorial.png)
 * If you’re already jailbroken, and let’s face it, a lot of you are, then you may be wondering how to update your jailbreak to the latest version of TaiG—version 2.1.2. Should you start from scratch, or try to use the TaiG jailbreak tool again? No.

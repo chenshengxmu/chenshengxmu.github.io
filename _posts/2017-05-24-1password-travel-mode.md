@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1Password's Travel Mode protects your private data from unwarranted searches
+title: 1Passwords Travel Mode protects your private data from unwarranted searches
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/05/1password-travel-mode-teaser-e1495633410199.png)
 * Developer AgileBits announced yesterday a new Travel Mode feature in 1Password, its password manager for iPhone, iPad, Mac, Windows and the web. Designed to protect your sensitive data from unwarranted searches when crossing borders, Travel Mode removes all vaults from your devices except for the ones marked “safe for travel.”

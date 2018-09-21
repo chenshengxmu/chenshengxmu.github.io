@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Latest Samsung ads take swipes at iPhone's screen size and iPad's multitasking
+title: Latest Samsung ads take swipes at iPhones screen size and iPads multitasking
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/Galaxy-Tab-10.1-ad-teaser-002.jpg)
 * Samsung is taking a page from Microsoft’s book with the release of a new ad featuring side-by-side comparison of its 10.1-inch Galaxy Tab Pro and Apple’s iPad. Not only that, Samsung has actually borrowed the concept of Apple’s inaugural iPad Air commercial dubbed ‘Pencil’ and applied it to its ad.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Insanely Simple', new book on Apple, makes its iBookstore debut
+title: Insanely Simple, new book on Apple, makes its iBookstore debut
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/Insanely-Simple-by-Ken-Segall-book-cover.png)
 * If neither Walter Isaacson’s authorized bio book on Steve Jobs nor Fortune Editor-at-large Adam Lashinsky’s Inside Apple didn’t satisfy your hunger for Apple’s dirty little secrets and the inner workings of the world’s most powerful corporation, it’ll be a case of third time lucky with this one.

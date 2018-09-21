@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Join Microsoft's Skype Insider initiative to beta-test upcoming features
+title: Join Microsofts Skype Insider initiative to beta-test upcoming features
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/11/Skype-Insider-logo.jpg)
 * Microsoft is launching a new Skype Insider initiative which invites users to download pre-release builds and test upcoming features before they’re rolled out to everyone.

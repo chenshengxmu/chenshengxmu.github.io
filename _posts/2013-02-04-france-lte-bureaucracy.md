@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bureaucracy preventing French from getting LTE on their iDevices until year's end
+title: Bureaucracy preventing French from getting LTE on their iDevices until years end
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/LTE-chip.jpg)
 * Owners of LTE-enabled Apple devices in France won’t get to enjoy the benefits of speedy cellular downloads before the end of 2013 amid lobbying between the country’s wireless carriers and the agency for telecommunications ARCEP.

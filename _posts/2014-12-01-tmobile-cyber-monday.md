@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile's Cyber Monday- $100 off 64GB iPhone 6, more iPhone discounts
+title: T-Mobiles Cyber Monday- $100 off 64GB iPhone 6, more iPhone discounts
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/T-Mobile-Cyber-Monday-iPhone-6.jpg)
 * T-Mobile, the nation’s fourth-largest carrier, is taking a cool hundred bucks off the iPhone 6 model with sixty-four gigabytes of storage. That’s basically giving you the 64GB iPhone 6 for the price of the 16GB version, a savings of $100 dollars.

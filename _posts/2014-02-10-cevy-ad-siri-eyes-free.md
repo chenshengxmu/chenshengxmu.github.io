@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chevy's new Equinox ad stars Siri Eyes Free and it's funny
+title: Chevys new Equinox ad stars Siri Eyes Free and its funny
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/Chevy-Equinox-ad.jpg)
 * General Motors a few days ago started airing a new television commercial for its brand now 2014 vehicle, the Chevrolet Equinox. The car features integration with Siri Eyes Free, an Apple-made voice-activated system which debuted in 2012 allowing drivers to interact with Siri on an iPhone, iPod touch or iPad using their voice, without taking their hands off the steering wheel.

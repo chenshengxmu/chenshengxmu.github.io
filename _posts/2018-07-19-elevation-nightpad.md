@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ElevationLab's new NightPad wireless charging mat supports faster 7.5W and 10W standards
+title: ElevationLabs new NightPad wireless charging mat supports faster 7.5W and 10W standards
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/Elevation-Labs-NightPad-001.png)
 * ElevationLab, the makers of some of the most innovative iPhone docks on the market like the ultra-compact CordDock, today announced a minimal charging dock. Dubbed NightPad, it supports the faster 7.5-watt standard as well as the 10-watt Qi wireless charging capability.

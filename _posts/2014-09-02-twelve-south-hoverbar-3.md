@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twelve South's HoverBar 3 expands compatibility to work with any iPad
+title: Twelve Souths HoverBar 3 expands compatibility to work with any iPad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/HoverBar-3-Twelve-South-splash.png)
 * Way back in September of 2012, I wrote a fairly lengthy review of the HoverBar by Twelve South. The device is a mounting mechanism for iPad. It is not a new contender to the mountable space, certainly not two years later, but it is a well designed product. Twelve South, a South Carolina based company, limits their product development to a low number each year, ensuring proper care is spent on each device they launch.

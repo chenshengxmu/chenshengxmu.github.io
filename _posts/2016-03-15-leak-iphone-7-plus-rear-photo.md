@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 7 Plus to get iPad Pro's Smart Connector?
+title: iPhone 7 Plus to get iPad Pros Smart Connector?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/iphone-7-leak-bastille-001.jpg)
 * Chinese website Bastille Post on Tuesday published a purported image of Apple’s forthcoming iPhone 7 Plus that it swears is the real deal.

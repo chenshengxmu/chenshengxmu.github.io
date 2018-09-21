@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Verizon CFO Says that iPhone 5 Will Be GSM + CDMA "Global Device"
+title: Verizon CFO Says that iPhone 5 Will Be GSM + CDMA Global Device
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/Verizon-ATT-iphone-4-dual-logo-header.jpeg)
 * The iPhone 5 will be a dual-baseband device that operates on both GSM and CDMA networks. According to comments made by Verizon CFO Fran Shammo in the company’s last quarterly earnings call, Apple’s next iPhone will be a “global device” compatible with all carriers.

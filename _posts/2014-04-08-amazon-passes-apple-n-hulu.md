@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amazon announces it's passed Apple and Hulu in streaming video usage
+title: Amazon announces its passed Apple and Hulu in streaming video usage
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/Amazon-Fire-TV-Homescreen-002.jpg)
 * Following the unveiling of its new Fire TV box last week, Amazon announced today that video streams on Instant Video nearly tripled over the past year. And according to a report from tracking firm Qwilt, the e-commerce giant has surpassed Apple and Hulu in streaming video usage.

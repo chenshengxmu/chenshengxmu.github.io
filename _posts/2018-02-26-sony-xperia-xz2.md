@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sony's new Xperia XZ2 is the first phone to offer 4K HDR video recording
+title: Sonys new Xperia XZ2 is the first phone to offer 4K HDR video recording
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/02/Sony_Xperia_XZ2-teaser.jpg)
 * Monday, Japanese consumer electronics giant Sony officially unveiled its new Xperia XZ2 and Xperia XZ2 Compact smartphones at Mobile World Congress in Barcelona, Spain.

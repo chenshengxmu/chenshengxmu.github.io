@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hulu drops prices for those who subscribed to the "No Commercials" plan through iTunes
+title: Hulu drops prices for those who subscribed to the No Commercials plan through iTunes
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/01/hulu.jpg)
 * If you subscribed to Hulu’s “No Commercials” plan through your iOS device, or Apple TV, you should see a price reduction on your next bill, as the plan dropped by two dollars, from $13.99 to $11.99.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Will the Next iPhone Be Called '4G'?
+title: Will the Next iPhone Be Called 4G?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/iPhone-4G.png)
 * Will Apple call the next gen iPhone the 4G? Most have been calling the unannounced device the iPhone 5, but recent reports speculate that Apple could end up calling it the 4s (like the 3GS).

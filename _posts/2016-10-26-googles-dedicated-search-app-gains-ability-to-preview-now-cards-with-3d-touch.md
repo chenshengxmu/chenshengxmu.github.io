@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's dedicated search app gains ability to preview Now cards with 3D Touch
+title: Googles dedicated search app gains ability to preview Now cards with 3D Touch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/Google-20.3-for-iOS-3D-Touch-Now-cards-iPhone-screenshot-001.png)
 * Google today issue a small update to its dedicated search app for the iPhone, iPad and iPod touch. Bumped to version 20.3, the free of charge app has gained the ability to preview Google Now cards with 3D Touch on the iPhone 6s, iPhone 6s Plus, iPhone 7 and iPhone 7 Plus.

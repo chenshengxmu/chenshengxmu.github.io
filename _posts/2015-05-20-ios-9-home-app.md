@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 9 reportedly includes new 'Home' app for controlling HomeKit smart devices
+title: iOS 9 reportedly includes new Home app for controlling HomeKit smart devices
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/homekit-slide.png)
 * Enhancements to Apple’s HomeKit are expected to be among a flurry of software and platform advances in tow for the Worldwide Developers Conference next month. According to sources, the Cupertino company is thought to be announcing a new app in iOS 9 called Home for managing and controlling HomeKit-certified accessories for the connected home, 9to5Mac learned Wednesday.

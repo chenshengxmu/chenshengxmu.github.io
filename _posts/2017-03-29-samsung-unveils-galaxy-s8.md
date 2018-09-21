@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's everything Samsung unveiled today
+title: Heres everything Samsung unveiled today
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/03/Samsung-Galaxy-S8-Infinity-Display.jpg)
 * Wednesday, Samsung fired the first salvo against Apple’s upcoming iPhone 8 with the official introduction of its Galaxy S8 and Galaxy S8+ smartphones at media events in New York’s Lincoln Center and London’s Olympic Park.

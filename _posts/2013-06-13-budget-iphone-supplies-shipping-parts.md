@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Intensive delivery' of budget iPhone parts reportedly underway, August availability
+title: Intensive delivery of budget iPhone parts reportedly underway, August availability
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/Budget-iPhone-concept-iOS-7-Martin-Hajek-004.jpg)
 * There’s no escaping budget iPhone talk today. Reuters opened the morning discussion with a write-up calling for two large-screen iPhones in 2014 and citing sources insisting that an elusive less-pricey iPhone will get released later this year at a somewhat unbelievable price point of just $99.

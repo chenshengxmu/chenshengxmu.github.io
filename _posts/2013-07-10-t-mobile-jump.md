@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile unveils Jump, 'the best upgrade program in America'
+title: T-Mobile unveils Jump, the best upgrade program in America
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/T-Mobile-Jump-teaser-001.jpg)
 * So, both AT&T and Verizon are now making you wait longer to upgrade to a brand spanking new smartphone, going from 20 to 24 months?

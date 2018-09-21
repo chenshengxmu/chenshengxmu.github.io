@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Summon dragons, smash strongholds and leave nothing but rubble behind in Gameloft's Siegefall
+title: Summon dragons, smash strongholds and leave nothing but rubble behind in Gamelofts Siegefall
 ---
 * Originally teased earlier in the month, Siegefall, a brand new multiplayer strategy game involving heroes, dragons and magic, is now available in the App Store for your iPhone and iPad at no charge.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/Siegefall-teaser-001.jpg)

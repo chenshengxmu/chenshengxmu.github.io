@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iFixit tears down Apple's new EarPods
+title: iFixit tears down Apples new EarPods
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/ifixit-earpods.jpeg)
 * In addition to a new iPhone, and iPods, Apple also unveiled a new set of headphones last week. Dubbed “EarPods,” the company said that it spent more than three years developing the accessory.

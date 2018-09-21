@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to toggle the iPhone's flashlight using the mute switch [jailbreak]
+title: How to toggle the iPhones flashlight using the mute switch [jailbreak]
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/FlashRing.jpg)
 * Using the iPhone as a flashlight is something we’re all pretty much accustomed to by now. In fact, Apple makes it easy to toggle the LED flashlight via a handy Control Center shortcut.

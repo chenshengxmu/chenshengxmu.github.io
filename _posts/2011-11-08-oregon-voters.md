@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some Oregon Voters to Use iPads For Today's Election
+title: Some Oregon Voters to Use iPads For Todays Election
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/voting-ipad.jpeg)
 * Not even Apple could have foreseen the impact its tablet would have across multiple industries. Health, education, enterprise, music — they’ve all been affected in one way or another by the popular slate. In fact, iPads are slowly replacing computers in public schools.

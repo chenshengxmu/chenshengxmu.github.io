@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jony Ive's iOS 7 remake- black, white, flat all over
+title: Jony Ives iOS 7 remake- black, white, flat all over
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/iOS-7-teaser-002.jpeg)
 * When Apple’s former iOS honcho Scott Forstall was dumped, stories were told of he and design guru Jonathan Ive nearly coming to blows over the prevailing use of realistic shapes and textures within the mobile software. Now comes a claim the design change of the upcoming iOS 7 will be “black, white, and flat all over.”

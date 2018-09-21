@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unofficial iPhone 8 rendering used in McDonald's PR stunt
+title: Unofficial iPhone 8 rendering used in McDonalds PR stunt
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/McDonalds-ad-iPHone-8-mockup-002.jpg)
 * Fast food giant McDonald’s lit up social media around the world today with an interesting email campaign promoting its mobile-ordering app in Australia that wouldn’t be worth a mention if it weren’t for the fact that the ad is based on an iPhone 8 mockup image.

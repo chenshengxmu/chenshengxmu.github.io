@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sega's Crazy Taxi now available in the App Store
+title: Segas Crazy Taxi now available in the App Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/crazy-taxi-ss.jpg)
 * A few days ago, Sega announced that it would be bringing its popular Crazy Taxi title to the iOS platform. It posted a short video of gameplay footage, and said that its release date would be sometime in October.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sprint- We're Taking the iPhone Data Speed Issue Seriously
+title: Sprint- Were Taking the iPhone Data Speed Issue Seriously
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/SprintiPhone4S.jpg)
 * When the iPhone 4S released a couple of weeks ago, many Sprint users reported very slow 3G data speeds. In a a recent interview with Sprint’s Fared Adib some light was shed on the data speed issue that seems to be plaguing so many iPhone 4S owners.

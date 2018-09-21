@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple pulls controversial 'Bang With Friends' app from App Store
+title: Apple pulls controversial Bang With Friends app from App Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/bang-with-friends.png)
 * Apple has decided to pull Bang With Friends, a controversial app that lets users anonymously pick which of their Facebook friends they’d like to hook up with, and then notifies them when there’s a match, from its App Store this afternoon.

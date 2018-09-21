@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung's new Galaxy Watch set to take on Apple Watch
+title: Samsungs new Galaxy Watch set to take on Apple Watch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/samsung-galaxy-watch.jpg)
 * On Thursday, Samsung introduced its new Note 9 smartphone. At the same time, it announced the upcoming launch of the Galaxy Watch. The new wearable device, which is available beginning on Aug. 24 alongside the Note 9, replaces the Gear S3 watch which was introduced by the company two years ago. 

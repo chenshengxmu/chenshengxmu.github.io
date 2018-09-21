@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple dramatically increases the number of self-driving SUVs it's testing
+title: Apple dramatically increases the number of self-driving SUVs its testing
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/Apple-self-driving-Lexus-SUV.jpeg)
 * Having obtained a California permit a year ago to test three self-driving cars on the road, Apple has now dramatically increased the number of SUVs in its self-driving test fleet.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Semiconductor analysis confirms iPhone 6s 'A9' chip manufactured by Samsung and TSMC
+title: Semiconductor analysis confirms iPhone 6s A9 chip manufactured by Samsung and TSMC
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/iPhone-6s-a9.png)
 * An initial analysis of the Apple-designed A9 system-on-a-chip powering the new iPhone 6s and iPhone 6s Plus, conducted by semiconductor experts over at Chipworks, has identified both Samsung and rival Taiwan Semiconductor Manufacturing Company as manufacturers of the package.

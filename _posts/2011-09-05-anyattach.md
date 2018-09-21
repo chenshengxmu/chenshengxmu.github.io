@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AnyAttach- Attach Any Type of File to Your iPhone's Email
+title: AnyAttach- Attach Any Type of File to Your iPhones Email
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/AnyAttach-e1315192310598.png)
 * The concept of attaching a file to a file to an email is practically as old as email itself. With the iPhone, you can attach photos and videos to your email, but that’s pretty much where the fun ends.

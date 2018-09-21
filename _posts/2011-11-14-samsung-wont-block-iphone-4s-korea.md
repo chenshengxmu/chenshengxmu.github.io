@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung Won't Try to Block iPhone 4S Sales in Korea
+title: Samsung Wont Try to Block iPhone 4S Sales in Korea
 ---
 * Looks like Samsung changed their mind about trying to block sales of the iPhone 4S in Korea.
 * Samsung Electronics has decided not to seek an injunction against the sale of Apple’s iPhone 4S in the domestic market. The new iPhone went on sale here last Friday. Samsung had debated until the last moment whether to file the motion after making similar applications in France, Italy, Australia, and Japan.

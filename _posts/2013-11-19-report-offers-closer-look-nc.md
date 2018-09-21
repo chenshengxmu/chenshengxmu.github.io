@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Report offers closer look at Apple's renewable energy plant in North Carolina
+title: Report offers closer look at Apples renewable energy plant in North Carolina
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/applecleanpower61.jpg)
 * Apple is one of the of the largest [non-utility] clean energy generating companies in the country. According to a report from March of this year, it’s achieved 100% renewable energy in all of its data centers, and 75% in corporate buildings.

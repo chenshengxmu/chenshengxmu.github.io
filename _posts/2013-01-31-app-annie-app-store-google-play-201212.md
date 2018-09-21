@@ -1,6 +1,6 @@
 ---
 layout: post
-title: App Store income 3.5x Google Play's in December
+title: App Store income 3.5x Google Plays in December
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/App-Store-teaser-001.jpg)
 * Examples keep appearing of how Apple is able to squeeze more revenue from its iPhone and iPad than rival Android. The latest data shows Apple’s App Store earned  3.5 times more  than Android’s Google Play in December. Did I mention this happened despite Google Play doubling its quarterly revenue? The reason, according to App Annie, is the iPhone 5 and iPad mini – both popular holiday gifts and natural driver of App Store sales…

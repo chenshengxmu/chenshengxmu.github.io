@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung posts new 'Screen Envy' ad in response to iPhone 6 rumors
+title: Samsung posts new Screen Envy ad in response to iPhone 6 rumors
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/galaxy-s5-screen-envy.png)
 * Samsung has posted a new ad to its YouTube channel this afternoon entitled ‘Screen Envy.’ The spot addresses rumors that the iPhone 6 will come with a larger display, saying that Samsung’s Galaxy smartphones have had 5-inch screens for years.

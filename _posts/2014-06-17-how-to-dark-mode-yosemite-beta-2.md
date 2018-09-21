@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to enable Yosemite's somewhat functional dark mode
+title: How to enable Yosemites somewhat functional dark mode
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/WWDC-2014-keynote-Yosemite-light-mode-001.jpg)
 * There were lots of oohs and aahs in response to Apple’s software engineering chief Craig Federighi showing off a new dark UI mode in OS X Yosemite at WWDC two weeks ago. It basically alters the appearance of the menus, sliders, buttons, windows and other UI elements.

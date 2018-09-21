@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple launches 'CarPlay,' a smarter, safer way to use your iPhone in the car
+title: Apple launches CarPlay, a smarter, safer way to use your iPhone in the car
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/CarPlay-1.png)
 * As expected, Apple has launched its iOS in the Car initiative today at the Geneva Motor Show. It’s officially calling the offering ‘CarPlay,’ and is advertising the feature as a smarter, safer and more fun way to use your iPhone while in the car.

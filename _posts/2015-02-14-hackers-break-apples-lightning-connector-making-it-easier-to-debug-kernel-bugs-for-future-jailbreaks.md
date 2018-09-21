@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hackers break Apple's Lightning connector making it easier to debug kernel bugs for future jailbreaks
+title: Hackers break Apples Lightning connector making it easier to debug kernel bugs for future jailbreaks
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/Lightning-Hacked.png)
 * Big news for the hacking community, and by extension, iPhone jailbreakers. Apple’s Lightning connector—a proprietary bus and power connector found in all modern iPhones, iPads and iPod touches—has had its security compromised by a team of resourceful hackers. What does this mean for the jailbreak community?

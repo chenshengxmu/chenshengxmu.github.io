@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review- Sylvania's affordable Smart+ HomeKit white bulb & LED light strip
+title: Review- Sylvanias affordable Smart+ HomeKit white bulb & LED light strip
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/02/Sylvania-Smart-Light-Strip-stairs.jpg)
 * Sylvania has been on a roll expanding their HomeKit lineup with several different products. Recently, I took some time to test out their multi-color LED light strip, as well as their affordable white LED bulb.

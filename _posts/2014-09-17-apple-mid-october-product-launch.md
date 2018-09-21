@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's next product unveiling expected to take place around mid-to-late October
+title: Apples next product unveiling expected to take place around mid-to-late October
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/tim-cook-on-stage.jpg)
 * Apple isn’t done refreshing its products this year. According to the same source who shared reliable information on product introduction and timing in the past, AppleInsider has learned that the Cupertino firm is about to unleash another wave of new products during the second half of next month.

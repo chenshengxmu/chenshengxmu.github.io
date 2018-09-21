@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's March 27 education event won't be live streamed
+title: Apples March 27 education event wont be live streamed
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/03/Apple-MAch-2018-event-chicago-invite-graphics.png)
 * Apple on Friday confirmed that it will not be live-streaming its education-focused event on Tuesday, March 27. The company has updated the Events app on Apple TV to show information about the presentation, but notes that a video of the event will not be available until after it concludes.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft on the defensive- Apple's free iWork productivity suite is 'no big deal'
+title: Microsoft on the defensive- Apples free iWork productivity suite is no big deal
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/iWork-app-icons.png)
 * There’s nothing like a good dogfight between two tech titans to get your blood flowing. After a hiatus from its sniping at Apple, Microsoft is back, calling the decision to offer iWork and iLife software free “no big deal”. Sure Microsoft, whatever you say.

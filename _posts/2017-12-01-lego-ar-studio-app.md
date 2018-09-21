@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lego's new ARKit powered app combines virtual and physical blocks
+title: Legos new ARKit powered app combines virtual and physical blocks
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/Lego-AR-Studio-app.jpeg)
 * Lego is launching a new augmented reality kid-focused app later today that combines virtual and physical blocks and brick sets, allowing children to fly virtual models around the room.

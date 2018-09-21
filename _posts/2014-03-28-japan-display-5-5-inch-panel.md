@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Could Apple be using Japan Display's new 5.5-inch Quad HD panel in the iPhone 6?
+title: Could Apple be using Japan Displays new 5.5-inch Quad HD panel in the iPhone 6?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/japan-display-sign.jpeg)
 * Apple is currently putting the finishing touches on its next-generation iPhone. And if the flurry of rumors and so-called insider reports are to be believed, the handset is going to feature an Ultra Retina display that will come in two sizes: 4.7-inch and 5.5-inch, among other improvements.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple and others face questioning over stolen smartphone 'epidemic'
+title: Apple and others face questioning over stolen smartphone epidemic
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/stolen-iphone.png)
 * First Apple and Samsung were sent an angry letter by New York’s Attorney General over efforts to curb growing thefts of smartphones.

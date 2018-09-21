@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tweetbot for Mac refreshed with conversation icon, 'Save Image As' option
+title: Tweetbot for Mac refreshed with conversation icon, Save Image As option
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/Tweetbot-for-Mac-1.4.2-screenshot-001.png)
 * Tapbots has just issued a maintenance update to Tweetbot for Mac which added a pair of feature tweaks and some bug fixes. Tweetbot version 1.4.2, now available as a free update in the Mac App Store, finally allows you to save images from tweets to folders other than the default Downloads folder.

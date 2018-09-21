@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Events app launches on tvOS App Store ahead of Monday's 'Let us loop you in' media event
+title: Apple Events app launches on tvOS App Store ahead of Mondays Let us loop you in media event
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/tvOS-App-Store-Events-app-Apple-TV-screenshot-001.jpg)
 * Apple has scheduled its ‘Let us loop you in’ media event on Monday, March 21. Ahead of the invite-only press conference, the company has released a native application, aptly named Apple Events, for the fourth-generation Apple TV in the tvOS App Store.

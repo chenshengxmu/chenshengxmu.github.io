@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Watch's scratch-resistant sapphire coating is sourced from Russia
+title: Apple Watchs scratch-resistant sapphire coating is sourced from Russia
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/Apple-Watch-Retina-display-001.jpg)
 * Apple’s partnership with the now bankrupt GT Advanced Technologies has crashed spectacularly, but that didn’t stop the Cupertino firm from seeking out alternative sapphire suppliers for the coating on the stainless steel Apple Watch’s screen. And it’s found out in Russia, the country’s Sputnik News newspaper reported Wednesday.

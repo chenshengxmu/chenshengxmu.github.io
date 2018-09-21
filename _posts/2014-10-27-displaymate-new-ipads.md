@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPad Air 2's anti-reflective screen reduces ambient light reflections dramatically
+title: iPad Air 2s anti-reflective screen reduces ambient light reflections dramatically
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/iPad-Air-2-Lock-screen-Silver-Gold-Space-Gray-001.jpg)
 * DisplayMate Technologies has put the screens of the new iPad Air 2 and iPad mini 3 through a barrage of tests concluding that the former’s anti-reflective screen reduces ambient light reflections dramatically compared to any other tablet display out there.

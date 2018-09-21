@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Watch Tim Cook's full interview with ABC’s David Muir
+title: Watch Tim Cooks full interview with ABC’s David Muir
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/Tim-Cook-ABC-intervew-teaser-003.jpg)
 * Rounding out Apple’s celebration of the Mac’s 30th anniversary on Friday, ABC aired an interview between its own David Muir and CEO Tim Cook. Senior VP Craig Federighi and VP Bud Tribble were also on hand, but Cook did most of the talking.

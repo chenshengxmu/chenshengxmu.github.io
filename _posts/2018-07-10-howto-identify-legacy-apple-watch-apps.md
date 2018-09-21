@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to see if you have older apps on Apple Watch that won't run on watchOS 5
+title: How to see if you have older apps on Apple Watch that wont run on watchOS 5
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/Apple-Watch-Series-3-Nike-Plus-edition-teaser-004.jpg)
 * Old Apple Watch apps built with legacy watchOS SDKs produce a warning when launched in watchOS 4.3.1. On watchOS 5 and later, such apps refuse to open at all.

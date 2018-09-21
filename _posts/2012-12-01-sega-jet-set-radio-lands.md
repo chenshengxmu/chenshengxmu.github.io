@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sega's Jet Set Radio lands in the App Store
+title: Segas Jet Set Radio lands in the App Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/jet-set-radio-ss.png)
 * Jet Set Radio first popped up back in 2000 for the Dreamcast console. I didn’t play it then, but when its sequel, Jet Set Radio Future, came bundled with my original Xbox, I got hooked. So I was actually pretty excited to hear that Sega had ported the game to iOS this week…

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple is opening an imaging R&D lab in the center of France's Grenoble
+title: Apple is opening an imaging R&D lab in the center of Frances Grenoble
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/02/iPhone-6s-Camera-lifestyle-image-001.jpg)
 * In addition to celebrating Bastille Day with ‘Shot on iPhone’ imagery in blue/white/red tones representing the country’s national flag appearing on the company’s French website and billboards across the country, the Cupertino firm has also signed a lease with the city of Grenoble to open a research and development center at the heart of the town.

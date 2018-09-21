@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FreedomPop's new SIM gives you unlimited WhatsApp usage, 200MB data and more
+title: FreedomPops new SIM gives you unlimited WhatsApp usage, 200MB data and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/08/FreedomPop-WhatsApp-SIM-teaser.png)
 * FreedomPop today announced a new SIM aimed at fans of the popular messaging app WhatsApp. The new SIM gives you unlimited WhatsApp usage in the United States and more than thirty countries worldwide, plus 200 megabytes of additional cellular data and 100 voice minutes. You can also earn additional free data every month by adding friends and completing partner offers.

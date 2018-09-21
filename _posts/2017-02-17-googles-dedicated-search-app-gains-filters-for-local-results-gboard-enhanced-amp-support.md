@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's dedicated search app gains filters for local results, Gboard & enhanced AMP support
+title: Googles dedicated search app gains filters for local results, Gboard & enhanced AMP support
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/Google-23.0-for-iOS-teaser-001.jpg)
 * Google’s dedicated search app was updated this morning on App Store with a trio of nice-to-haves. For starters, you can now easily filter your local search results for museums, coffee shops, restaurants and other places of interest. With an expanded support for Google’s Accelerated Mobile Pages (AMP), more webpages will now load instantly within the app. AMP-optimized webpages are denoted on search results with a lightning bolt icon. Lastly, you can now use Google’s gesture-driven Gboard keyboard in the mobile search app.

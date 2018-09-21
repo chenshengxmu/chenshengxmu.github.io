@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Instagram announces new 'Fade' and 'Color' tools
+title: Instagram announces new Fade and Color tools
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/04/instagram.png)
 * Instagram on Tuesday announced that it would be adding two new options to the suite of tools in its photo editing app. Those tools are ‘Fade’ and ‘Color,’ and they will allow users to further tweak the appearance of their photos before sharing them on the social network.

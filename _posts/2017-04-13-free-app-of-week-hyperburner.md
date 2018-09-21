@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's free app of the week- Hyperburner
+title: Apples free app of the week- Hyperburner
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/04/hype-1.png)
 * Apple on Thursday updated its App of the Week promotion with the game Hyperburner. For the next 7 days you can pick up the hit arcade racer for free on both iPhone and iPad—a solid savings of $3.

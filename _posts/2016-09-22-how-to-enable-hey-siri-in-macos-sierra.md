@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to enable "Hey Siri" on Mac
+title: How to enable Hey Siri on Mac
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/07/macOS-Sierra-Siri-teaser-003-e1468361540976.jpg)
 * Five years after its introduction in 2011, Siri finally made its debut on Mac with the release of macOS Sierra. Featuring much of the functionality that Siri contains on iOS, such as being able to check the weather forecast or set a reminder, Siri for macOS also has some exclusive abilities, such as handling documents in the file system and being able to pin results to Notification Center.

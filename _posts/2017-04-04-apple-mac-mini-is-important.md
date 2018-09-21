@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mac mini is “important” and shall remain a product in Apple's lineup for the time being
+title: Mac mini is “important” and shall remain a product in Apples lineup for the time being
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/new-Mac-Mini-specs.png)
 * Mac mini is an “important” model in Apple’s family of computers and will remain a product in the company’s lineup for the time being, said Apple’s Senior Vice President of Worldwide Marketing Phil Schiller when BuzzFeed’s reporter John Paczkowski asked him about the state of the most affordable Mac desktop. He did not say, however, when the small computer might receive a hardware refresh.

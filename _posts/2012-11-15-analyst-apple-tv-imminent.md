@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Analyst says Apple TV product is 'imminent'
+title: Analyst says Apple TV product is imminent
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/apple-tv-ui-e1353013067169.png)
 * Apple TV talk has really died down over the past few months, but the rumors of the device have been pretty persistent over the past few years. Analysts and tech pundits continue to believe that we’ll see something in the not-so-distant future.

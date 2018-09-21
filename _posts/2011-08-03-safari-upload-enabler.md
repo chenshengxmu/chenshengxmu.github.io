@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Safari Upload Enabler' Lets You Upload Files from Your iPhone
+title: Safari Upload Enabler Lets You Upload Files from Your iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/Photo-Aug-03-12-40-33-PM-e1312393579765.png)
 * With jailbreak utilities like iFile and Safari Download Manager, your iDevice can seem more like an actual computer than a phone or MP3 player. The two apps allow you to manually download files, edit them, and move them around from folder to folder.

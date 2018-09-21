@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The next Mac mini won't be so mini anymore
+title: The next Mac mini wont be so mini anymore
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/04/Mac-mini-teaser-001.jpg)
 * Apple’s most affordable Mac starts at just $499. Described as a BYODKM desktop computer (Bring Your Own Display, Keyboard and Mouse), it’s just an inch and a half tall and weighs 2.6 pounds.

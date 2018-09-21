@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's the crazy machine Apple uses to replace iPhone 5 screens
+title: Heres the crazy machine Apple uses to replace iPhone 5 screens
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iPhone-5-black-Retina-display-001.jpg)
 * Last month, it was reported that Apple held a town hall meeting to discuss upcoming changes to its AppleCare service. One of the bigger changes noted was that it was going to be doing more in-store repairs on iPhones.

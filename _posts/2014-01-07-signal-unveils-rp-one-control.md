@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CES 2014- Signal unveils 'RP One' wireless gaming controller for iOS 7
+title: CES 2014- Signal unveils RP One wireless gaming controller for iOS 7
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/rp-one-controller.jpg)
 * We were hoping that this year’s CES would see the introduction of new iOS 7 gaming controllers, given how dismal the options are right now, and so far it hasn’t disappointed. Yesterday, SteelSeries introduced its new Stratus controller, and today we’re adding another option to the list.

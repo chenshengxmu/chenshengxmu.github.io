@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ashton Kutcher's 'Jobs' biopic is a box office flop
+title: Ashton Kutchers Jobs biopic is a box office flop
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/Ashton-Kutcher-promo-screening-of-Jobs-movie.jpg)
 * The Jobs movie starring Ashton Kutcher as Apple’s legendary co-founder Steve Jobs has opened with disappointing revenues and bombed at the box office this weekend. Specifically, the flick pulled in just shy of seven million dollars domestically, earning it the seventh place at the box office. This is one of Kutcher’s lowest openings ever and hardly a success knowing the figure fell short of the $8-9 million distributor Open Road Films was hoping to rake in.

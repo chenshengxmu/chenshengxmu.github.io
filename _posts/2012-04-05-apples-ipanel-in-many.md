@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rumor- Apple to start "iPanel" HDTV production in May
+title: Rumor- Apple to start iPanel HDTV production in May
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/itv1.jpg)
 * Barron’s, a financial arm of The Wall Street Journal’s web network, passes on an interesting report today from Jefferies & Co.’s Peter Misek. The analyst has upped his stock price target for Apple to $800 per share on the back of new information regarding a TV set.

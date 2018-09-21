@@ -1,6 +1,6 @@
 ---
 layout: post
-title: gMusic updated with support for Google's new All Access music service
+title: gMusic updated with support for Googles new All Access music service
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/gmusic-ss.png)
 * I’ve been keeping an eye on the gMusic Twitter account all week. Last year the app was first to iOS with support for Google’s cloud-based Music storage, and I knew it’d be the same way this year with support for Google’s new All Access subscription service.

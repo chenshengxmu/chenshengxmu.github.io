@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to use the new iPad's hotspot tethering
+title: How to use the new iPads hotspot tethering
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/Verizon-Personal-Hotspot-iPad.jpg)
 * One of the best things about choosing a Verizon flavored iPad over its AT&T counterpart is the fact that Verizon makes tethering your data free.

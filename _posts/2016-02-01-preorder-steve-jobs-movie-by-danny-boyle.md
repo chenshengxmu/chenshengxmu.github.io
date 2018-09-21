@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pre-order Danny Boyle's 'Steve Jobs' ahead of tomorrow's release on iTunes
+title: Pre-order Danny Boyles Steve Jobs ahead of tomorrows release on iTunes
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/02/Steve-Jobs-by-Danny-Boyle-movie-poster.jpg)
 * If the mixed reviews of Danny Boyle’s ‘Steve Jobs’ movie have discouraged you from seeing it in a local theater near you, you’ll soon be able to check out what all the kerfuffle was about as the flick is now available for pre-order in the iTunes Store.

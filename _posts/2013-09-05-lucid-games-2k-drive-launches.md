@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lucid Games' 2K Drive now available for download
+title: Lucid Games 2K Drive now available for download
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/2k-icon.png)
 * Last month, 2K Games announced a new iOS exclusive racing title called ‘2K Drive.’ The game features a number of real world vehicles, more than 25 tracks, 100+ unique events, and what the developers call “the most precise driving on iOS.”

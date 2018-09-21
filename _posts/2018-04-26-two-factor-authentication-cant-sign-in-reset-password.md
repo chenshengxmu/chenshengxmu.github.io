@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What to do if you use two-factor authentication and can't sign in or reset your password
+title: What to do if you use two-factor authentication and cant sign in or reset your password
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/04/iPhone-hand-security-privacy-001.jpg)
 * In today’s day and age, there are chances that your various passwords can be compromised. This can happen even if you have taken just about every precaution possible.

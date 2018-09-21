@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Wins Sweeping Patent on iPhone's Multi-Touch User Interface
+title: Apple Wins Sweeping Patent on iPhones Multi-Touch User Interface
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/Huge-iPhone-patent.gif)
 * Apple has been awarded a patent filed in 2007 regarding the iPhone’s multi-touch user interface. As reported by PCMag, this patent is so broad that it could give Apple unprecedented ability to pressure other smartphone makers in the U.S.

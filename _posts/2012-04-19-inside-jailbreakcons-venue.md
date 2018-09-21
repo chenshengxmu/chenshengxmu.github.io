@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Inside JailbreakCon's massive 13,500 square foot venue
+title: Inside JailbreakCons massive 13,500 square foot venue
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/south-san-fran-conference.jpg)
 * As most of you know, JailbreakCon, the world’s largest jailbreak conference, will be taking place in the USA later this year. Hackers, developers and enthusiasts will all gather in San Francisco on September 29th to talk about, what else, jailbreaking.

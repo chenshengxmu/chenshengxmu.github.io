@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple may outfit this year's 6.5" iPhone X Plus with three rear cameras
+title: Apple may outfit this years 6.5 iPhone X Plus with three rear cameras
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/iPhone-X-Plus-concept-Martin-Hajek-004.jpg)
 * While most of the rumors pertaining to Apple’s supposed triple-lens iPhone have so far pointed to a late 2019 release at the earliest, a new report alleges that this year’s flagship iPhone—the 6.5-inch iPhone X Plus—would also come outfitted with three rear-facing cameras.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's plans for TV growing less ambitious with Time Warner deal
+title: Apples plans for TV growing less ambitious with Time Warner deal
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/Apple-TV-teaser-001.jpg)
 * As we’ve heard a few times over the past month, Apple and Time Warner Cable appear to be very close to inking a deal that would bring a TWC app to the Apple TV’s Home screen. It would mark the first time that the set-top box would be capable of streaming live TV.

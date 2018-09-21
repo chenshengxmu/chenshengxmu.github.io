@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Details of Telltale’s upcoming game based on HBO's Game of Thrones series leak
+title: Details of Telltale’s upcoming game based on HBOs Game of Thrones series leak
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/11/Telltale-Games-Game-of-Thrones-teaser-001.jpg)
 * Before revealing the first story details and premier trailer of “Tales from the Borderlands”, its upcoming adventure game based on on Gearbox and 2K’s Borderlands 2, Telltale yesterday offered a glimpse into an upcoming “Game of Thrones” game based on HBO’s award-winning fantasy drama television series, itself adapted from of “A Song of Ice and Fire”, George R. R. Martin’s series of fantasy novels.

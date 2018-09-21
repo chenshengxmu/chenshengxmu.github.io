@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple caught up with iPhone 6 demand, now 'in stock' on US online store
+title: Apple caught up with iPhone 6 demand, now in stock on US online store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/iphone_6_6plus_primary-100413338-primary.idge_.jpg)
 * Apple updated its Apple Store in the US on Friday morning with good news for potential iPhone 6 buyers: it’s finally caught up with demand close to four months after the smartphone’s release.

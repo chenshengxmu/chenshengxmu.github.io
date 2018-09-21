@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to access iOS 8's new 'Flyover City Tours' feature in Maps
+title: How to access iOS 8s new Flyover City Tours feature in Maps
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/seo-for-apple-map.jpg)
 * A few days ago it was reported that a new Maps feature was discovered in the just-released beta (2) of iOS 8 called ‘City Tours.’ Hidden within secret debug menus of the software, the feature takes users on virtual 3D Flyover tours over major cities.

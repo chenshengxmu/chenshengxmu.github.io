@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flickr's refreshed iOS app goes beyond 3D Touch with 3D Touch Extended
+title: Flickrs refreshed iOS app goes beyond 3D Touch with 3D Touch Extended
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/11/Flickr-4.0.6-for-iOS-iPhone-screenshot-001.jpg)
 * Flickr today updated its free iPhone and iPad application in the App Store with full support for iOS 9’s Spotlight Search, Universal links and 3D Touch on the iPhone 6s and iPhone 6s Plus smartphones.

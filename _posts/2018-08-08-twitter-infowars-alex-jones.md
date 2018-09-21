@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twitter CEO Jack Dorsey says he won't ban InfoWars or Alex Jones
+title: Twitter CEO Jack Dorsey says he wont ban InfoWars or Alex Jones
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/TwitterHaptic.jpg)
 * Twitter’s Jack Dorsey is defending his company’s decision not to ban Alex Jones and his InfoWars media platform from the social networking site. In explaining the move, the CEO said Jones hasn’t broken the site’s rules that would justify a ban. In recent days, Facebook, Apple, and Google removed content associated with the controversial figure saying it violated their policies.

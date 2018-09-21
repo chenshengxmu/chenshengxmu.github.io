@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New photos offer clear look at Apple's upcoming iPad 5
+title: New photos offer clear look at Apples upcoming iPad 5
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/Apple-iPad-5-Space-Grey-01.jpg)
 * I would say ‘spoiler alert,’ but I’m sure it’s far too late for that. Photos of shells and components belonging to Apple’s fifth-generation tablet have been bouncing around the web since January of this year.

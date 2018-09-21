@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Siri Isn't Technically Limited to the iPhone 4S
+title: Siri Isnt Technically Limited to the iPhone 4S
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/11-e1318390051588.jpeg)
 * Why Apple has limited its new Siri personal assistant feature to the iPhone 4S is anyone’s guess. At first it was believed that a lot of the backend of Siri took place on the handset, so it needed the A5’s extra power. But that didn’t prove to be the case.

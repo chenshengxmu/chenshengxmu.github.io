@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 7 icons and other details leak ahead of Apple's WWDC keynote
+title: iOS 7 icons and other details leak ahead of Apples WWDC keynote
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/ios-7-concept-icons-9to5mac.png)
 * Spoiler alert! For folks who don’t want to ruin the surprises Apple has in store for us tomorrow, I recommend you stop reading now. The folks over at 9to5Mac say they’ve just been given a sneak peek at an early beta of iOS 7, and have described it in detail.

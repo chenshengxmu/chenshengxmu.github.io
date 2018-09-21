@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft's Pix Camera gains Photosynth mode & comic strips with speech bubbles
+title: Microsofts Pix Camera gains Photosynth mode & comic strips with speech bubbles
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/Microsoft-Pix-Camera-Photosynth-mode.jpg)
 * Microsoft on Wednesday pushed a noteworthy update to its Pix Camera app for iPhone and iPad, which made its App Store debut in July of this year, bringing out two new shooting modes.

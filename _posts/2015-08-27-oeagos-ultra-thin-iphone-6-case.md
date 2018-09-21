@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Oeago's Ultra Thin iPhone 6 case is just 0.3mm thick
+title: Oeagos Ultra Thin iPhone 6 case is just 0.3mm thick
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/08/Oeago.jpg)
 * One of the best features of the iPhone 6 is the ultra slim design. It is so thin, it could hide behind a CD case. You may want to protect your high tech device but not want to add any bulk at all.

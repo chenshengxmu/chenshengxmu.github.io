@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's why Beta 5 may be the final iOS 8 build seeded to devs ahead of Gold Master
+title: Heres why Beta 5 may be the final iOS 8 build seeded to devs ahead of Gold Master
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/iOS-8-Health-teaser-001.jpg)
 * Yesterday’s release of OS X Yosemite Developer Preview 6 with an additional five gorgeous wallpapers and a bunch of refinements has left many eagle-eyed watchers scratching their head over the fact that the assumed iOS 8 Beta 6 wouldn’t materialize.

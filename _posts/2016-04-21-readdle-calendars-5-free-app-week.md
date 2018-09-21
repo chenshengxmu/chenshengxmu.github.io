@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Readdle’s Calendars 5 slashed to $0 as Apple's new Free App of the Week
+title: Readdle’s Calendars 5 slashed to $0 as Apples new Free App of the Week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/04/Calendars-5-for-iOS-teaser-001.jpg)
 * Calendars 5, one of the best iOS calendar applications out there with a built-in event and task manager and native Google Calendar sync, has been slashed to zero bucks as Apple’s new Free App of the Week. The $6.99 universal productivity app is now available at no charge on the App Store until next Thursday. This marks the first time Calendars 5 has gone free in years following Readdle’s two-day promotion back in May 2014.

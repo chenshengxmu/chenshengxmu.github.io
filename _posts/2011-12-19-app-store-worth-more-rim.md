@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's App Store is Worth More Than All of RIM
+title: Apples App Store is Worth More Than All of RIM
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/IMG_0357-e1324321808145.jpg)
 * Things aren’t looking good for Research in Motion. The Blackberry makers have failed to produce a viable smartphone competitor for the market year after year, and stock has continued tanking to new lows.

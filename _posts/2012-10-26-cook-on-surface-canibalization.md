@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cook on iPad mini canibalization, Microsoft's Surface and Apple's position on tweener tablets
+title: Cook on iPad mini canibalization, Microsofts Surface and Apples position on tweener tablets
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/iPad-mini-three-up-front-back-profile.jpg)
 * Apple CEO Tim Cook during yesterday’s conference call with Wall Street analysts briefly touched on Microsoft’s Surface tablet, which hit store shelves today, canibalization of its own products by the iPad mini and more. He also addressed his predecessor’s public dissing of smaller tablets two years ago, insisting that Apple’s position on the matter remains unchanged and stressing that the iPad mini, which has a 7.9-inch display, is “in a whole different league” than other seven inchers. Apple in fact, he said, “would never make” a seven-inch iPad…

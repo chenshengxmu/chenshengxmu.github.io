@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Change Package Settings" - An Overlooked Feature in Cydia
+title: Change Package Settings - An Overlooked Feature in Cydia
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/Change-Package-Settings-Show-All-Changes.jpg)
 * Have you ever uninstalled a tweak from Cydia, but still found yourself interested in any updates it might receive in the future? Perhaps it’s a tweak that has potential, but it’s just not finished baking yet.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video- Samsung's stretchable AMOLED prototype display in action
+title: Video- Samsungs stretchable AMOLED prototype display in action
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/05/Samsung-Display-stretchable-AMOLED.jpg)
 * Samsung showed off a prototype of its stretchable 4K AMOLED display with glasses-free 3D, measuring 9.1 inches diagonally, at last week’s Display Week 2017 conference. Today, Samsung Display’s official YouTube channel shared a video of the stretchable display in action.

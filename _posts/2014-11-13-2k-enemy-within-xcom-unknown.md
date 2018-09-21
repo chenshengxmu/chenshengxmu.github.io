@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2K releases 'XCOM- Enemy Within' expansion as standalone game
+title: 2K releases XCOM- Enemy Within expansion as standalone game
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/11/within-2.jpeg)
 * 2K games this morning released XCOM: Enemy Within for iOS, an expansion for its popular turn-based military sim XCOM: Enemy Unknown. Fans of the franchise will recognize the title, as it was released to PCs and consoles around this time last year.

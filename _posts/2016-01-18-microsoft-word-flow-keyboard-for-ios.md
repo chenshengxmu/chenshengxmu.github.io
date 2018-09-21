@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft's Word Flow keyboard is coming to iOS
+title: Microsofts Word Flow keyboard is coming to iOS
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/Windows-Phone-Word-Flow-keyboard-001.jpg)
 * Windows giant Microsoft is porting its excellent predictive text keyboard for Windows Phone, dubbed Word Flow, over to the iPhone, iPod touch and iPad.

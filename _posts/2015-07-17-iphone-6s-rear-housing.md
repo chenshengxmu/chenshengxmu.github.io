@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Claimed photos of iPhone 6s rear housing picture small internal changes, 'stronger body' and more
+title: Claimed photos of iPhone 6s rear housing picture small internal changes, stronger body and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/07/iPhone-6s-rear-housing-Future-Supplier-001.jpg)
 * A batch of photos of a purported ‘iPhone 6s’ rear housing in gold, obtained by Future Supplier and reposted today by French blog NowhereElse.fr, serve as our best indication yet that Apple’s upcoming smartphone refresh will re-use the exterior design of the current-generation (shocker!).

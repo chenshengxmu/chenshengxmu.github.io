@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tip- save storage space on your iPhone and iPad by clearing Periscope's stored data
+title: Tip- save storage space on your iPhone and iPad by clearing Periscopes stored data
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/10/Periscope-teaser-001.jpeg)
 * Clearing caches in your favorite apps is one of the many ways of saving storage space on your iPhone, iPad or iPod touch that may be lost to the cruft accumulated on your devices. We’ve already shown you how to clear Twitter’s web and media storage as well as delete Dropbox’s caches.

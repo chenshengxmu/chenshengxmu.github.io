@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PowerSaver- Execute Actions Based on Your iPhone's Battery Percentage
+title: PowerSaver- Execute Actions Based on Your iPhones Battery Percentage
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/PowerSaver.png)
 * PowerSaver is a new jailbreak tweak, which lends your iPhone the ability to execute specific actions based on the amount of battery power you have remaining.

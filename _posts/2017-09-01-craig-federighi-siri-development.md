@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's software chief Craig Federighi takes over Siri development from Eddy Cue
+title: Apples software chief Craig Federighi takes over Siri development from Eddy Cue
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/Apple_Leadership_Craig_Federighi_Siri_development_bio_page_web_screenshot_001.jpg)
 * Apple has officially moved Siri development leadership from Eddy Cue, its Senior Vice President of Internet Software and Services, to Craig Federighi, who is the company’s Senior Vice President of Software Engineering.

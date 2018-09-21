@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Daimler CEO- Apple's made more progress on automotive project than previously assumed
+title: Daimler CEO- Apples made more progress on automotive project than previously assumed
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/Dieter-Zetsche-image-001.jpg)
 * During a recent trip to Silicon Valley, Daimler CEO Dieter Zetsche told German weekly Welt am Sonntag that Apple and Google have made more progress on automotive projects than he had assumed, Reuters reported Monday.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's new video calling app Duo hits App Store
+title: Googles new video calling app Duo hits App Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/08/Google-Duo-teaser-005.jpg)
 * Duo, a video calling app announced at Google I/O 2016, released today in the App Store as a free download. A one-to-one video calling app “for everyone,” Duo allows iPhone users to call their Android-toting friends, and vice versa. After signing up with your mobile phone number, you can place video calls to contacts who also have Duo installed on their device. According to Google, Duo for Android and iOS began rolling out today and will be live worldwide in the next few days.

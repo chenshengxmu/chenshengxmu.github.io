@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SnapOldStory reverts your Snapchat apps' Stories page to the older design
+title: SnapOldStory reverts your Snapchat apps Stories page to the older design
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/SnapOldStory-Jailbreak-Tweak-for-Snapchat-2.png)
 * Not long ago, Snapchat released an app update for iOS that changed the way users interact with the Stories section of their app.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Labor watchdog says Foxconn sweatshops haven't improved much
+title: Labor watchdog says Foxconn sweatshops havent improved much
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/foxconn-factory.jpg)
 * Labor watchdog Student & Scholars Against Corporate Misbehaviour (SACOM) today criticized Apple (again), arguing that conditions in Foxconn’s manufacturing facilities in China haven’t really improved following the FLA audits. In fact, they claim higher-ups continue to impose “humiliating disciplinary measures on workers”, audits be damned…

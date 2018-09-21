@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cannot activate iOS 8's Text Message Forwarding and iPhone Cellular Calls? Here's a fix.
+title: Cannot activate iOS 8s Text Message Forwarding and iPhone Cellular Calls? Heres a fix.
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/iOS-8-SMS-Relay-iPhone-and-iPad-001.png)
 * As soon as iOS 8.1 hit two days ago, I immediately went about checking out a pair of new features I care about the most, Text Message Forwarding and iPhone Cellular Calls.

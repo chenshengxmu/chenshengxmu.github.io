@@ -1,6 +1,6 @@
 ---
 layout: post
-title: March 21 Apple event wallpapers- "Let us loop you in"
+title: March 21 Apple event wallpapers- Let us loop you in
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/Apple-Media-Event-March-21-iPhone-Wallpaper-Splash.jpg)
 * On Thursday, March 10, Apple sent invitations for their media event, “Let us loop you in,” to be held on Monday, March 21. The event is said to reveal a completely new handset, dubbed the iPhone SE. In addition, a refresh of the iPad Air is expected to bring the device more in-line with iPad Pro. Finally, there is a potential for new Apple Watch accessories, specifically bands, and updates to the operating systems for OS X, iOS, and Watch OS.

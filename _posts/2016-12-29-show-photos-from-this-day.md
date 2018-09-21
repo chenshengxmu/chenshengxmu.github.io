@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reminisce more efficiently with 'Show Photos from this Day' in iOS
+title: Reminisce more efficiently with Show Photos from this Day in iOS
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/iPhone-6s-camera-4K-video-image-001.jpg)
 * The holidays are a natural time to sit down with friends or loved ones and flip through all of your photos ad nauseam. iDB features help and guides aplenty for confident navigation of the Camera and Photos app, however one little trick has managed to fly under the radar for many, albeit its capability to save you valuable time when browsing your compendium of years and years of photos.

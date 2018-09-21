@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FBI nabs 'Dumbfella' in $1.9 million iPad mini heist
+title: FBI nabs Dumbfella in $1.9 million iPad mini heist
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/iPad-mini-front-white-hand.jpg)
 * It took investigators working on Thursday’s snatch-and-grab – one that saw crooks drive away with two pallets of iPad minis worth $1.9 million – less than 24 hours to nab a suspect, a JFK Airport worker.

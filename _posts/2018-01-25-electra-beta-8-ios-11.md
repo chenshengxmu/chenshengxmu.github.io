@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CoolStar's Electra jailbreak tool for iOS 11.0-11.1.2 gets updated to beta 8
+title: CoolStars Electra jailbreak tool for iOS 11.0-11.1.2 gets updated to beta 8
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/Electra-by-CoolStar-Jailbreak.jpg)
 * CoolStar’s Electra jailbreak tool for iOS 11.0-11.1.2 devices received an update on Thursday, bringing it up to beta 8. The new version comes only a few days after the announcement of beta 7.

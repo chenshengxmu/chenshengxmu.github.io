@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T's Q1 iPhone Sales Up 33%, Unaffected by Verizon iPhone
+title: AT&Ts Q1 iPhone Sales Up 33%, Unaffected by Verizon iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/att-with-logo.jpeg)
 * AT&T posted its first-quarter earnings this morning, and the U.S. carrier saw a 33% increase in iPhone activations during the first quarter of 2011. A grand total of 3.6 million iPhones were activated on AT&T, helping to give the carrier a 10.2% overall increase in wireless revenue.

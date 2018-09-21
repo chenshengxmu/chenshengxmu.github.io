@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's new set-top box rumored to feature cloud DVR, social integration and more
+title: Apples new set-top box rumored to feature cloud DVR, social integration and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/apple-tv-ui.png)
 * Yesterday, a scoop from The Wall Street Journal sent shockwaves through the Apple community, claiming that the fruit company is now focused on building a cable receiver of sorts, rather than the long-rumored TV set.

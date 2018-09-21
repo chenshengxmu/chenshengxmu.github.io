@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iCloud.com's Photos web app gets image zoom function and sharing via email
+title: iCloud.coms Photos web app gets image zoom function and sharing via email
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/11/iCloud-Photos-Beta-upload-functionality-001.jpg)
 * German enthusiast blog iFun.de has spotted a pair of useful additions concerning the Photos web app on iCloud.com.

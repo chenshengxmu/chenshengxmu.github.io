@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to get ready for tomorrow's iOS 7 release
+title: How to get ready for tomorrows iOS 7 release
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/ios-7-promo.png)
 * Last week, Apple announced that it would be releasing the latest version of its mobile operating system on Wednesday, September 18th. That’s tomorrow. And honestly, we couldn’t be more excited.

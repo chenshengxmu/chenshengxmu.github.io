@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Try a New Kind of Task Management With 'Time Flies' for iPhone
+title: Try a New Kind of Task Management With Time Flies for iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/02/Time-Flies-Super-Simple-Event-Tracking-e1297386479583.png)
 * Creating a good task manager app is not an easy feat. I’m fascinated by innovative productivity apps (check out our roundup of 5 awesome task managers for the iPhone), and I get excited when I hear about a new, unique task management app.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's (PRODUCT)RED contributions have surpassed $160 million
+title: Apples (PRODUCT)RED contributions have surpassed $160 million
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/04/Apple-product_red-teaser.jpg)
 * Apple’s (PRODUCT)RED contributions have topped $160 million.

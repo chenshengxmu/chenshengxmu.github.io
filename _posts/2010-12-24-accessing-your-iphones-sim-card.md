@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Accessing Your iPhone's SIM Card
+title: Accessing Your iPhones SIM Card
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/12/iPhone-Basics.jpg)
 * The presence of a SIM card slot is one of the things that differentiates the iPhone from your run of the mill iPod Touch. How do you access the SIM card inside, and why would you even need to replace the SIM card?

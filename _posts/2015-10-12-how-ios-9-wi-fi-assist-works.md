@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 9's Wi-Fi Assist, fully explained and demystified
+title: iOS 9s Wi-Fi Assist, fully explained and demystified
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/iPhone-6-Wi-Fi-settings.png)
 * Wi-Fi Assist, a new feature in iOS 9, was initially met with some skepticism as Apple did a lousy job detailing how it works beyond stating that Wi-Fi Assist automatically uses cellular data when Wi-Fi connectivity is poor.

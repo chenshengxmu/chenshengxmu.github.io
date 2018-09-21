@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Will the "quieter" 2018 MacBook Pro keyboard be a better typing experience?
+title: Will the quieter 2018 MacBook Pro keyboard be a better typing experience?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/2018-MacBook-PRo-image-001.jpg)
 * Earlier today, July 12, Apple introduced an all-new MacBook Pro. In addition to offering a better processor and up to 32GB of RAM, the new tablet also comes with a “quieter” keyboard. Whether this is a better keyboard remains to be seen.

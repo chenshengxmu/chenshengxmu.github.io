@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KGI- Apple's AR tech could end up in autonomous driving system
+title: KGI- Apples AR tech could end up in autonomous driving system
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/Tim-Cook-karaoke.jpg)
 * KGI Securities’ Ming-Chi Kuo issued a new research note to investors on Wednesday regarding his vision for Apple’s augmented reality efforts. In the letter, the noted analyst says that we likely won’t see these efforts for 1-2 years, but when we do they will redefine Apple’s current products and open up new categories.

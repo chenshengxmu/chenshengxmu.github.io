@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to check your iPhone's battery percentage from Apple Watch
+title: How to check your iPhones battery percentage from Apple Watch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/05/Apple-Watch-iPhone-Battery-Life-MacID.jpg)
 * Although there are quite a few complications that come bundled with the various watch faces on Watch OS 1.0, there a still many features that I’d enjoy that aren’t yet there. One that I would like to see in particular is a readout of your iPhone’s current battery life.

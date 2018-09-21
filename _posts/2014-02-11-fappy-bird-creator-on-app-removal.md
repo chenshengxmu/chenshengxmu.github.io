@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flappy Bird creator- it's become 'an addictive product' so I killed it
+title: Flappy Bird creator- its become an addictive product so I killed it
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/flappy_bird_screens.png)
 * If you can’t get enough of Flappy Bird news, the app’s creator has come clean on the reasons behind the app’s sudden removal. Speaking out for the first time since he pulled his sleeper hit of a game from Apple’s App Store and Google’s Play store, Vietnam-born Flappy Bird creator Dong Nguyen said in an exclusive interview with Forbes that he made the decision to kill the game because it has become “an addictive product”.

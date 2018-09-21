@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's tablet lead over Android could be shrinking faster than earlier thought
+title: Apples tablet lead over Android could be shrinking faster than earlier thought
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/iPad-mini-ad-Photos-image-0010.jpg)
 * Remember the days when analysts and Wall Street observers believed the iPad would continue to lead tablet sales for years, and Android competitors still needed work? Funny how time flies. Although Apple isn’t laughing, there is talk Google could overtake Apple in 2013. The problem is the iPad’s lead over a pack of Android alternatives is shrinking to that when the Apple tablet was introduced in 2010.

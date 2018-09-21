@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's invisible antenna patent sets stage for all-aluminum iPhone case
+title: Apples invisible antenna patent sets stage for all-aluminum iPhone case
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/Kim-Kardashian-AnoStyle-gold-iPhone-5.png)
 * A new patent granted to Apple today could signal a huge advance in a trimmer, slimmer iPhone perhaps made from a single block of aluminum. The U.S. patent describes “microslot antennas” cut into the smartphone body, eliminating the need for exposing hardware required for communications.

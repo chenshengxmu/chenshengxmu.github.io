@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Survey- the iPad mini becomes 'kid's tablet' for holiday gifts
+title: Survey- the iPad mini becomes kids tablet for holiday gifts
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/iPad-mini-promo-users-006.png)
 * We’re still gaining insights from holiday sales of Apple products. The latest finding: the iPad mini is now dubbed the “kid’s tablet” after one survey found post-Christmas usage of Apple’s smaller tablet rose 270 percent among families with young children. The new data comes from the makers of Kindertown.

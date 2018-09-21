@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to stop Background App Refresh for a single app until it's reopened
+title: How to stop Background App Refresh for a single app until its reopened
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/Background-App-Refresh.png)
 * Introduced with iOS 7, Background App Refresh lets suspended apps (those that you quit or run in the background) check for new data so that they always present you with up-to-date content.

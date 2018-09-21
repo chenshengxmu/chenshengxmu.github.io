@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Daily" iPad Newspaper Only Has 120,000 Readers
+title: The Daily iPad Newspaper Only Has 120,000 Readers
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/02/The-Daily-e1296833392696.png)
 * Poor old Rupert Murdoch really isn’t having the best of times is he? First there was the whole phone hacking debacle that is still rumbling along in the UK, then the same accusations found their way across the pond to the United States, and now it appears his pet project is a dysmal failure.

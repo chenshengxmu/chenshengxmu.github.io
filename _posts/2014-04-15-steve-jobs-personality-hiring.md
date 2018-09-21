@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tech companies ask court to keep Steve Jobs' personality out of hiring trial
+title: Tech companies ask court to keep Steve Jobs personality out of hiring trial
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/courtroom-gavel.jpg)
 * Although the patent battle with Samsung is far from over in northern California, Apple’s legal team has to start preparing for another high profile trial coming up next month. The iPad-maker, along with Google and others, is being sued over no-hire agreements in Silicon Valley.

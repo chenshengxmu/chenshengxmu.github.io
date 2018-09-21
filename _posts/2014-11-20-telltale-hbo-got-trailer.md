@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Telltale posts first trailer of upcoming 'Game of Thrones' game
+title: Telltale posts first trailer of upcoming Game of Thrones game
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/11/Telltale-Games-Game-of-Thrones-teaser-002.jpg)
 * After dropping some details regarding its upcoming ‘Game of Thrones’ game last week, Telltale Games today released its first trailer. The video sets the stage for what could be Telltale’s biggest releases, given how popular HBO’s GOT franchise has become.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kindle ad praises the iPad's Retina display, but...
+title: Kindle ad praises the iPads Retina display, but...
 ---
 * http://www.youtube.com/watch?v=XtJBQHLdcM4
 * Amazon’s advertising strategy took on an interesting twist indeed. Even though this commercial surprisingly praises both tablets, it paints the iPad as an overpriced choice versus the Kindle Fire HD, which starts at $199 for the seven-inch version.

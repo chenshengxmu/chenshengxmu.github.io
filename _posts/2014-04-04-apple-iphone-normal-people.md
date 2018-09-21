@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple engineer explains how the iPhone was designed for 'normal people'
+title: Apple engineer explains how the iPhone was designed for normal people
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/first-iphone.jpg)
 * The Samsung trial marched on today, with Apple’s Greg Christie taking the stand. You might remember Christie, the senior software engineer, from this WSJ article last month, where he detailed some of the early stages of original iPhone development. And this afternoon, he did the same thing in court.

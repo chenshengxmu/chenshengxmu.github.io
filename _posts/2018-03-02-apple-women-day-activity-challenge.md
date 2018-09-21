@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's new Activity challenge is due next week on International Women's Day
+title: Apples new Activity challenge is due next week on International Womens Day
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/03/Apple-Watch-Mothers-Day-activity-challenge-sticker.png)
 * Apple’s next Activity challenge is happening on International Women’s Day, March 8, 2018.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rumor- Apple's secret partnership with Intelligent Energy to boost iPhone battery performance
+title: Rumor- Apples secret partnership with Intelligent Energy to boost iPhone battery performance
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/iOS-7-battery-empty-001.png)
 * Rumor has it that Apple has secretly partnered with a British fuel-cell firm called Intelligent Energy on deploying its fuel cells in electronic devices such as MacBooks, iPhones and iPads within a few years.

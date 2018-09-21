@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beats buy and iTunes Radio limitations blamed on Apple's 'arrogance' and incompetent managers
+title: Beats buy and iTunes Radio limitations blamed on Apples arrogance and incompetent managers
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/Apple-Beats-deal-Tim-Cook-Jimmy-Iovine-Eddy-Cue-and-Dr-Dre-001.jpeg)
 * According to two Apple sources familiar with the development of iTunes Radio, current limitations of the free service and the $3 billion acquisition of Jimmy Iovine and Dr. Dre’s Beats talent, brand, headphone business and streaming service is all the result of the firm’s “arrogance” and shortsightedness of its managers.

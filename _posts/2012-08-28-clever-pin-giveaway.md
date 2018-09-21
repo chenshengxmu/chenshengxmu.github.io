@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We're giving away 5 copies of CleverPin
+title: Were giving away 5 copies of CleverPin
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/CleverPin-Giveaway.png)
 * Filippo Bigarella recently pushed out an update to CleverPin — the jailbreak tweak that automatically unlocks an iOS device when it detects that it’s connected to a friendly WiFi network.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook signs iPhones at China Mobile launch, says 'great things' coming
+title: Tim Cook signs iPhones at China Mobile launch, says great things coming
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/tim-cook-china-mobile.jpg)
 * China Mobile‘s highly anticipated iPhone launch is now in full swing over in Beijing. After years of failed negotiations, Apple finally inked a deal with the carrier last month, giving it access to the worlds-largest subscriber base of 750+ million people.

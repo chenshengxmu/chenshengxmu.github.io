@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's another hint that Siri is coming to the Mac
+title: Heres another hint that Siri is coming to the Mac
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/Siri-WWDC-2016-Finder-response.png)
 * Siri is rumored to be coming to the Mac and third-party apps with an official Siri software development kit (SDK). In addition to teasing a dark mode in iOS 10, Siri seems to be also trolling Apple fans worldwide with an unusual reference to OS X Finder when asked to “open settings in the window.”

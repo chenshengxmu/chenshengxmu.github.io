@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's a new “Meet the new Home Button” step in iOS 10 installer on iPhone 7
+title: Heres a new “Meet the new Home Button” step in iOS 10 installer on iPhone 7
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/iPhone-7-Black-Jet-Black-unboxing-Marques-Brownlee-image-000.jpg)
 * With less than 24 hours left until first iPhone 7 shipments start hitting customers’ doorsteps, YouTuber Marques Brownlee has put together a nice unboxing video featuring both new black options for the device, a supper glossy variant called Jet Black and its matte counterpart, referred to by Apple as simply Black.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple website leaks gorgeous new Space Black color option for Apple Watch's Milanese Loop band
+title: Apple website leaks gorgeous new Space Black color option for Apple Watchs Milanese Loop band
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/Apple-Watch-Space-Black-Milanese-Loop-image-001.jpg)
 * You will soon be able to buy a Milanese Loop band in gorgeous Space Black finish to complement your Space Black stainless steel Apple Watch case. As spotted by 9to5Mac, the company’s Czech Online Store briefly published a new page for the Space Black Milanese Loop band, but it’s since been pulled indicating the company probably leaked this band option for Apple Watch buyers prematurely.

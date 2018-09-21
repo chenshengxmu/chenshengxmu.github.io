@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple reveals new 'Half Court' iPhone 6s ad to show off Live Photos
+title: Apple reveals new Half Court iPhone 6s ad to show off Live Photos
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/10/Live-Photos-on-iPhone-6s-Steph-Curry.png)
 * Apple has posted a brand new ad to its YouTube channel to bring attention to the iPhone 6s’ Live Photos feature. The 15 second spot, entitled Half Court, features NBA star Stephen Curry of the World Champion Golden State Warriors.

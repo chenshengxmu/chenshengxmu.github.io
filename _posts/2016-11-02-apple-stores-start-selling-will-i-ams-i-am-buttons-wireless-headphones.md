@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Stores start selling Will.i.am's i.am+ Buttons wireless headphones
+title: Apple Stores start selling Will.i.ams i.am+ Buttons wireless headphones
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/11/iam-plus-wireless-earphones-jenner.png)
 * Opening their doors this Wednesday morning, Apple Stores across the US will be stocking a new pair of wireless earphones named i.am+ Buttons, conceived by musician and part-time tech enthusiast Will.i.am. The full product name of the earphones is i.am+ Buttons and they will reportedly be offered in four colors, matching Apple’s black, silver, gold and rose gold iPhone range.

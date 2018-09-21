@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's iPad Pro goes on sale Wednesday and arrives in stores later this week
+title: Apples iPad Pro goes on sale Wednesday and arrives in stores later this week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/iPad-Pro-gaming-lifestyle-003.jpg)
 * Apple just posted an early morning press release announcing the arrival of the iPad Pro. Apple states that the iPad Pro will be available to purchase online starting on Wednesday, November 11, and will arrive in Apple retail stores, select carrier stores, and authorized resellers later this week.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jony Ive reportedly had Apple's marketing team design iOS 7 icons
+title: Jony Ive reportedly had Apples marketing team design iOS 7 icons
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/iOS-7-Home-screen.png)
 * Since the moment Apple unveiled its completely redesigned mobile OS on Monday, the comments regarding its UI, and particularly the new icons, have been flowing nonstop. Some folks like the changes, and others refuse to believe it’s the product of Apple designers.

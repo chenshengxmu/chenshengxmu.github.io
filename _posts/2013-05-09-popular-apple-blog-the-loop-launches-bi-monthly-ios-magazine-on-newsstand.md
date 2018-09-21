@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Popular Apple blog 'The Loop' launches bi-monthly iOS magazine on Newsstand
+title: Popular Apple blog The Loop launches bi-monthly iOS magazine on Newsstand
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/The-Loop-Magazine-for-iOS-iPhone-screenshot-001.jpg)
 * I’m a big fan of veteran Apple blogger Jim Dalrymple and his insightful, unapologetic writing over at The Loop, where he’s Editor-In-Chief. You could say Jim is something of a personal hero to me, at least when it comes to blogging about Apple.

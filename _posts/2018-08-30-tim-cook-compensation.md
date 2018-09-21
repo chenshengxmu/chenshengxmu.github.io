@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook has made $650 million in stock since becoming Apple's CEO
+title: Tim Cook has made $650 million in stock since becoming Apples CEO
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/02/Tim-Cook.jpg)
 * These are good times for Apple CEO Tim Cook. Just a few weeks ago, Apple became the first publicly traded company to surpass $1 trillion in valuation. Since then, the company’s share price has hit record levels. Through it all, the CEO has received a boatload of Apple stock.

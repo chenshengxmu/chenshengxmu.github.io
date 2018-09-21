@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rovio's Bad Piggies hit iOS, Mac and Android
+title: Rovios Bad Piggies hit iOS, Mac and Android
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/Bad-Piggies-teaser-0041.jpg)
 * As promised, Angry Birds maker Rovio today released a new physics-based game that turns the famous formula upside down in that it focuses on the green piggies who must protect the eggs grabbed from the birds. After a string of content updates and sequels, some feel the Angry Birds series has run its course.

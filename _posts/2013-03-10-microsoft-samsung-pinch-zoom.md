@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft and Samsung try to patent Apple's already patented pinch-zooming
+title: Microsoft and Samsung try to patent Apples already patented pinch-zooming
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/iphone-pinch-to-zoom-e1320260117662.jpg)
 * In a ‘how low can they go’ moment, both software giant Microsoft and the South Korean conglomerate Samsung have moved to patent the pinch-zoom concept that Apple popularized (and patented) on mobile devices with the introduction of the iPhone six years ago, as if Apple’s technology never existed.

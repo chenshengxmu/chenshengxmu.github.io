@@ -1,6 +1,6 @@
 ---
 layout: post
-title: StatusBarX brings the iPhone X's Status Bar to other iDevices
+title: StatusBarX brings the iPhone Xs Status Bar to other iDevices
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/06/StatusBarX.jpg)
 * Love it or hate it, the iPhone X Status Bar looks different from the one on traditional rectangular-display iPhones. Its unique aesthetic accommodates the ‘notch’ at the top of the handset’s display.

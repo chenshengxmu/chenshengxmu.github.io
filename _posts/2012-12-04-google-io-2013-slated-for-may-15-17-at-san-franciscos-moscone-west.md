@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google I/O 2013 slated for May 15-17 at San Francisco's Moscone West
+title: Google I/O 2013 slated for May 15-17 at San Franciscos Moscone West
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/Google-IO-2013-logo-medium.png)
 * Save the date for Google I/O 2013: today, the search giant confirmed its upcoming annual developer conference will run in San Francisco from May 15 through May 17, 2013. The three-day pilgrimage, just 162 days away, is bound to garner media interest with updates to Google’s key consumer products, namely Android, Nexus gadgets and the Chrome browser.

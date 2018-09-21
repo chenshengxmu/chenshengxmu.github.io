@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HBO to launch 'HBO Now' standalone service in April, may have Apple TV as launch partner
+title: HBO to launch HBO Now standalone service in April, may have Apple TV as launch partner
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/Jailbreak-the-Apple-TV-2-With-Seas0nPass.png)
 * HBO is looking to hop onto the Internet TV craze with the launch of a standalone service called “HBO Now” in April, according to the International Business Times.

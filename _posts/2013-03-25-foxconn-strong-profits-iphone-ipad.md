@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Foxconn posts record profits on Apple's aggressive product refreshes
+title: Foxconn posts record profits on Apples aggressive product refreshes
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/tim-cook-foxconn.jpg)
 * Hon Hai Precision Industry, better known in the Western world as Foxconn, is Apple’s favorite manufacturer that assembles a lot of its products, with Pegatron taking care of the rest. Foxconn also helps a number of other tech giants build and assemble their gadgets.

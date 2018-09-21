@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IDC- China's iPad market share slashed by strong home-grown competition
+title: IDC- Chinas iPad market share slashed by strong home-grown competition
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/apple-store-china-line.jpg)
 * In every analysis listing market share, there is that mysterious ‘Other’ category which lumps together all the lesser-known players. Now comes word ‘Other’ is making a name for itself, as the Apple iPad’s share of the increasingly important China market was almost cut in half during the second quarter.

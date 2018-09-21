@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple temporarily closes Florida's Waterside Shops store for renovations starting next month
+title: Apple temporarily closes Floridas Waterside Shops store for renovations starting next month
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/Apple-Store-Waterside-Shops-old.jpg)
 * Apple announced Monday that its retail store located in the Waterside Shops mall in Napa, Florida will be closed temporarily for renovations beginning September 2.

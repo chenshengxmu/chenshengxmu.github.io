@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sharp setting up OLED production line at Foxconn's iPhone manufacturing plant
+title: Sharp setting up OLED production line at Foxconns iPhone manufacturing plant
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/12/Foxconn-iPhone-City-Zhengzhou-image-001.jpeg)
 * Apple’s contract manufacturer Foxconn is taking advantage of its acquisition of Sharp as the Japanese giant plans to set up an OLED production line in Zhengzhou, a city of six million people in an impoverished region of northern China, according to a report by Japan-based Nikkei that was cited Monday by trade publication DigiTimes.

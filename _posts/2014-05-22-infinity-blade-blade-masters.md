@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Infinity Blade III goes on sale as 'Blade Masters' update arrives
+title: Infinity Blade III goes on sale as Blade Masters update arrives
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/Infinity-Blade-3.jpg)
 * Chair has just released a monstrous update for its popular Infinity Blade III game this morning. The so-called ‘Blade Masters’ update brings the app to version 1.3, and offers up a number of new features and characters, as well as other improvements.

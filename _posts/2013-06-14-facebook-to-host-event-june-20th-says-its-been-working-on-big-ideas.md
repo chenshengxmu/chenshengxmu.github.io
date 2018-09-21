@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Facebook to host event June 20th, says it's been working on 'big ideas'
+title: Facebook to host event June 20th, says its been working on big ideas
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/facebook.jpg)
 * It’s just June now, and the Facebook team has already had a big year. It’s launched major new search tool, rolled out a completely revamped version of its Timeline feature, and oh yeah, it developed its own Android launcher.

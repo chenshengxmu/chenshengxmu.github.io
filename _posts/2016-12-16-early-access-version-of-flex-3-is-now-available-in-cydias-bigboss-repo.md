@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Early access version of Flex 3 is now available in Cydia's BigBoss repo
+title: Early access version of Flex 3 is now available in Cydias BigBoss repo
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/12/Flex-3-Releaed-in-Cydia.jpg)
 * Those who are deeply involved with the jailbreak community are likely to know a lot about Flex, a platform that allows users to download patches and modifications to their jailbroken iPhones or iPads. They can create and then share their own patches with the rest of the Flex community so everyone else can enjoy the features as well.

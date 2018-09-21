@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Activator' gains collapsible menus, multiple actions
+title: Activator gains collapsible menus, multiple actions
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/Activator-beta-9-Featured.jpg)
 * Activator beta updates are becoming like a weekly ritual around here, and we love it. The latest update, Activator 1.7.5 beta 9, was released just three days after the previous beta release. Beta 9 adds four new bullet points to the fray, and two of them are readily noticeable.

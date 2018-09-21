@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 7 code reveals Apple's upcoming A7 chip has Samsung components
+title: iOS 7 code reveals Apples upcoming A7 chip has Samsung components
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/iPhone-5-teardown-iFixIt-001.jpg)
 * As iOS 7 gets closer and closer to release, developers digging through the depths of the firmware continue to find more and more hidden gems. Thus far, the coding has revealed fingerprint sensor support, an A6 iPad mini without a Retina display, and now this.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Verizon unveils 3G-only prepaid plans for 'budget-minded consumers'
+title: Verizon unveils 3G-only prepaid plans for budget-minded consumers
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/verizon-wireless.jpg)
 * The nation’s top carrier, Verizon Wireless, on Friday launched new wireless plans that are only aimed at owners of 3G-enabled smartphones and tablets. New prepaid plans expand options for “budget-minded consumers”, Verizon said.

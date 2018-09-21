@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why developers aren't worried about rumored 4-inch iPhone
+title: Why developers arent worried about rumored 4-inch iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/4-inch-iphone-1.jpg)
 * After three major news outlets confirmed that Apple was ordering larger smartphone displays last week, the 4-inch iPhone theory is quickly going from rumor to fact. It seems like everyone is giving into the idea, including developers.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Woz- "A lot of people say Siri. I say poo-poo"
+title: Woz- A lot of people say Siri. I say poo-poo
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/Steve-Wozniak-holds-white-iPhone-4S-Siri.jpg)
 * The other Steve never shied away from criticizing the company he co-founded with Steve Jobs in his parents’ garage back in 1976. The Times Union chatted briefly with everyone’s favorite geek during his visit to a New York farm of rescued horses and of course the inevitable question of Siri criticism came up. Here’s what came out of him…

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Henri Lamiraux, Apple's VP of iOS engineering, has left the company
+title: Henri Lamiraux, Apples VP of iOS engineering, has left the company
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/henri_lamiraux_linkedin.jpg)
 * Henri Lamiraux, Apple’s top VP of engineering for the iOS platform has left the company after 23 years. Lamiraux started as a Mac software engineer in the early 90’s, and joined Scott Forstall’s iPhone OS team in 2005.

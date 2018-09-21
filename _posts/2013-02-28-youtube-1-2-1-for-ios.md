@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google adds 'send to TV' and video recording features to YouTube iOS client
+title: Google adds send to TV and video recording features to YouTube iOS client
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/YouTube-1.1.0.4136-for-iOS-iPad-screenshot-002.jpg)
 * Google last updated its official YouTube iOS client on December 4, adding native iPad and iPhone 5 support, the ability to beam clips to your Apple TV via AirPlay, a brand spanking new icon and other under-the-hood goodies.

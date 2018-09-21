@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to enable the hidden Topography view in Google's Maps app
+title: How to enable the hidden Topography view in Googles Maps app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/Topography-for-Google-Maps.jpg)
 * Ryan Petrich is back at it again, this time with a new jailbreak tweak that enables a hidden Topography mode found in the recently released Google Maps app. The tweak, available via Cydia on his beta repo, adds a fourth option to the sidebar featured within Google maps to easily enable Topography.

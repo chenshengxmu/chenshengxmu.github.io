@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple airs two new iPhone 5 ads, 'Turkey' and 'Orchestra'
+title: Apple airs two new iPhone 5 ads, Turkey and Orchestra
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/iphone-5-ad1.jpg)
 * With the holidays rapidly approaching, it’s no surprise that Apple has started to ramp up marketing for its iOS products. Yesterday, new iPod ads started popping up around the web. And tonight, two new iPhone 5 commercials began airing on television: ‘Turkey’ and ‘Orchestra.’ As always, we have both of the spots for you after the break…

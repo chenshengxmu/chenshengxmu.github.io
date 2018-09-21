@@ -1,6 +1,6 @@
 ---
 layout: post
-title: In emotional interview, Ashton Kutcher reflects on Steve Jobs' legacy
+title: In emotional interview, Ashton Kutcher reflects on Steve Jobs legacy
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/kutcher-steve-jobs-wow.png)
 * It seems like the tech world collectively chuckled and rolled its eyes when it found out that Ashton Kutcher—the stoner star from That 70’s Show and Hollywood’s go-to guy for b-rated romantic comedies—was going to be playing Steve Jobs in a feature film.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple publishes 'A Decade Of iTunes' interactive anniversary timeline
+title: Apple publishes A Decade Of iTunes interactive anniversary timeline
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/Decade-of-iTunes.png)
 * Hot on the heels of announcing its quarterly earnings yesterday and promising this morning to show off the next major versions of iOS and OS X at WWDC 2013, Apple has posted a new web page in celebration of ten years of the iTunes Store.

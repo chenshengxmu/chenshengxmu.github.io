@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nearly 50% of Verizon's data traffic travels over LTE
+title: Nearly 50% of Verizons data traffic travels over LTE
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/iPhone-4S-Verizon-LTE.jpg)
 * Although LTE may not be available in some corners around the world yet, it’s certainly taken the US by storm. Three out of our four largest carriers have live LTE networks, and the fourth one, T-Mobile, will have one up shortly.

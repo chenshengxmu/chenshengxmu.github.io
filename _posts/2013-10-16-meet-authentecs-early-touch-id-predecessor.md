@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meet FingerLoc, AuthenTec's bulky and unreliable Touch ID predecessor
+title: Meet FingerLoc, AuthenTecs bulky and unreliable Touch ID predecessor
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/Early-Touch-ID-AuthenTec-prototype.jpg)
 * After Apple had snapped up AuthenTec, an Israel-based NFC and smart sensor maker, for about $400 million in the summer of 2012, speculation abounded as puzzled pundits couldn’t envision Touch ID coming. Shortly after, Apple told AuthenTec’s clients such as Samsung to buy their sensors elsewhere.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This is what the iPhone's interface could have looked like
+title: This is what the iPhones interface could have looked like
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/01/acorn-1.png)
 * New photos and a video have surfaced online showing an early-stage prototype of the original iPhone with a click wheel interface. Noted tipster Sonny Dickson is behind the leak, who says Apple called the operating system “Acorn OS.”

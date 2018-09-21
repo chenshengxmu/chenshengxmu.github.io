@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Latest El Capitan beta has fixed Safari's mishandling of shortened Twitter “t.co” links
+title: Latest El Capitan beta has fixed Safaris mishandling of shortened Twitter “t.co” links
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/Safari-broken-Twitter-links.jpg)
 * An annoying issue pertaining to broken Twitter links, which has persisted in Safari for Mac since November 2015, has been fixed in the third beta of the forthcoming OS X 10.11.4 El Capitan software update, according to user reports on the Apple Support Communities forums.

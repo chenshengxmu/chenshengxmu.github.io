@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Jury Foreman- Judge 'probably' will ban Samsung phones
+title: Apple Jury Foreman- Judge probably will ban Samsung phones
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/apple_jury_foreman.jpg)
 * Some U.S. sales of Samsung smartphones will “probably be” banned, said Vel Hogan, the Foreman of the California jury in Apple’s successful patent-infringement lawsuit against its South Korean rival. On Friday, the U.S. District Court awarded $1.05 billion in damages.

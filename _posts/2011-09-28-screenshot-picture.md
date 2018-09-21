@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Screenshot Picture- Add Photos to Your iPhone's Screenshot Flash
+title: Screenshot Picture- Add Photos to Your iPhones Screenshot Flash
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/Screenshot-Picture.png)
 * You know that boring old white flash that appears on your iPhone’s screen when you’re taking a screenshot? Wouldn’t it be nice if there was an option to spruce that up a bit?

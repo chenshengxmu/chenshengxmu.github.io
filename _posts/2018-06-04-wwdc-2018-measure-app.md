@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple unveils new AR measuring app 'Measure'
+title: Apple unveils new AR measuring app Measure
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/06/measure.png)
 * During its ARKit 2.0 introduction at its WWDC 2018 keynote, Apple unveiled a new augmented reality app it’s created called Measure. As you’d expect, the software was designed to help you digitally measure things using your iOS device’s camera.

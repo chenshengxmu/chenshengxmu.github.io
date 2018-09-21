@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to add 'TypographyTime' to Notification Center
+title: How to add TypographyTime to Notification Center
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/TypographyTime-for-Notification-Center-Featured.jpg)
 * If you’re a fan of the legendary TypographyTime lock screen add-on for LockInfo, then perhaps you’ll be interested in adding a TypographyTime clone to Notification Center? That’s the exact premise behind TypographyTime for Notification Center, a jailbreak widget that adds a stylized clock to iOS’ pull down information panel.

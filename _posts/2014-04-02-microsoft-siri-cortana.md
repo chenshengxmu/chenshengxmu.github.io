@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft finally unveils its Siri competitor 'Cortana'
+title: Microsoft finally unveils its Siri competitor Cortana
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/cortana.png)
 * It’s been nearly three years since Apple unveiled Siri on its iPhone 4s, and Microsoft finally has its answer to the digital assistant: Cortana. Named after a virtual character in the company’s popular Halo gaming franchise, the feature is powered by Bing and offers a mix of Google Now-ish and Siri-like characteristics.

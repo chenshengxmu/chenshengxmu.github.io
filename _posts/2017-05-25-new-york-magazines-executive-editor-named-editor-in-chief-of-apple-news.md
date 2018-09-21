@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New York Magazine's Executive Editor named Editor in Chief of Apple News
+title: New York Magazines Executive Editor named Editor in Chief of Apple News
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/apple-news-october-13.png)
 * Apple has created a new Editor-in-Chief position for Apple News, naming Lauren Kern, Executive Editor at New York Magazine, to the position. It’s unclear what exactly Kern’s new role will entail, Politico said.

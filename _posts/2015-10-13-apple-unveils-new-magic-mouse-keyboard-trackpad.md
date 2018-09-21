@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meet Apple's new Magic Mouse 2, Magic Trackpad 2 and Magic Keyboard
+title: Meet Apples new Magic Mouse 2, Magic Trackpad 2 and Magic Keyboard
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/10/Apple-Magic-accessories-family-001-.jpg)
 * In addition to refreshing its iMac lineup with enhanced screen technology and faster chips across all models, giving the 21.5-inch iMac a brand new Retina 4K display and removing non-5K Retina models from the 27-inch lineup, Apple has also introduced a trio of new accessories today.

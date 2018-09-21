@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple and Tim Cook getting sued over NSA's PRISM intelligence program
+title: Apple and Tim Cook getting sued over NSAs PRISM intelligence program
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/NSA-Prism-logo.jpg)
 * The controversy over National Security Agency data mining isn’t going away anytime soon. As you know, the scandal blew up when it was discovered that the government issued a secret order to Verizon Business Network Services to provide the NSA with logs for millions of calls on an ongoing daily basis.

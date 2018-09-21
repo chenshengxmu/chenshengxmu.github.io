@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile preparing "Bring your iPhone to T-Mobile" campaign
+title: T-Mobile preparing Bring your iPhone to T-Mobile campaign
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/tmobile-iphone-flyer.jpg)
 * It’s starting to look more and more likely that T-Mobile will once again not be receiving an iPhone nod from Apple this year, making it the last major carrier in the US without the handset.

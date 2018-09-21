@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It's Official, Verizon Will Not Have the iPhone Anytime Soon
+title: Its Official, Verizon Will Not Have the iPhone Anytime Soon
 ---
 * How many times did I tell you that Verizon wouldn’t have the iPhone this year? One? Two? Actually more than that but I’m not going to link to every article about it.
 * Verizon spokesperson John Johnson told Beet.tv that there is no plan for Verizon to support the Apple mobile devices, in the “immediate future”.

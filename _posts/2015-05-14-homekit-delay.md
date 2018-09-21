@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Software hiccups delay Apple's HomeKit launch until late August or early September
+title: Software hiccups delay Apples HomeKit launch until late August or early September
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/HomeKit-diagram-001.png)
 * Apple was forced to delay its planned launch of HomeKit, a Siri-assisted platform for the connected home, as its software teams continue working around the clock to shrink down the code base to run efficiently on small devices, according to a report Thursday by Fortune.

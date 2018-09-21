@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pages+' adds customizable backgrounds to each Home screen page, boasts Barrel compatibility
+title: Pages+ adds customizable backgrounds to each Home screen page, boasts Barrel compatibility
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/Pages-Plus.jpg)
 * Evasi0n, the much anticipated jailbreak tool for iOS 6 compatible devices, will be available in the very near future. With that in mind, many jailbreak developers are updating their tweaks and apps, and even establishing brand new creations to prepare for the new jailbreak.

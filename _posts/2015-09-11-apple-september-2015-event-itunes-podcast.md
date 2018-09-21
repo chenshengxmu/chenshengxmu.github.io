@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple posts 'Hey Siri' downloadable video to iTunes
+title: Apple posts Hey Siri downloadable video to iTunes
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/Apple-September-2105-event-Tim-Cook-opening-004.jpg)
 * If you want to relive new iPhone, iPad and Apple TV announcements and watch Apple’s keynote presentation in the comfort of your home, on your own time and without streaming, now you can as the full event video has surfaced as a downloadable high-definition video podcast on iTunes.

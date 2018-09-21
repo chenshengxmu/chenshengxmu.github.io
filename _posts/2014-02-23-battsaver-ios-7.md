@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BattSaver for iOS 7- manage your iPhone's radios to increase battery life
+title: BattSaver for iOS 7- manage your iPhones radios to increase battery life
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/BattSaver.png)
 * BattSaver, a battery saving jailbreak app that we reviewed in-depth a couple of years ago, has been updated for iOS 7 compatibility. It’s basically the same jailbreak release that we reviewed before, except this time around it works for iOS 7 and arm64 devices like the iPhone 5s.

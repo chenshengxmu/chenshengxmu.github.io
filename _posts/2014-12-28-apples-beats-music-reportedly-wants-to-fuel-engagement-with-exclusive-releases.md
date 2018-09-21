@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Beats Music reportedly wants to fuel engagement with exclusive album releases
+title: Apples Beats Music reportedly wants to fuel engagement with exclusive album releases
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/beats.jpg)
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/beats.jpg)

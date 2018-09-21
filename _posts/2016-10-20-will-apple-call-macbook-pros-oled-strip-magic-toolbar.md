@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Will Apple call next-gen MacBook Pro's rumored OLED strip “Magic Toolbar”?
+title: Will Apple call next-gen MacBook Pros rumored OLED strip “Magic Toolbar”?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/macbook-pro-oled-4.jpg)
 * Apple is holding a media event on October 27 to unveil new Macs. Everyone is expecting the company to announce a next-generation MacBook Pro with a rumored OLED strip that would replace the physical function keys at the top of the keyboard with programmable shortcuts which would change from one app to another. But what could Apple call that rumored OLED touch bar?

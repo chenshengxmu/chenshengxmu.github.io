@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple promotes Top Valentine's Gifts, says iPad is the way to your valentine's heart
+title: Apple promotes Top Valentines Gifts, says iPad is the way to your valentines heart
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/Apple-2014-Valentine-Day-web-screenshot-001.png)
 * It’s end of January which can only mean one thing: retailers are gearing up for the upcoming Valentine’s Day and Apple is no exception. Now available on the Online Apple Store and through the Apple Store shopping app for the iPhone and iPad (free in the App Store), the new ‘Top Valentine’s Gifts’ section has just launched sporting an Apple-currated selection of both its own products and third-party accessories for your significant other…

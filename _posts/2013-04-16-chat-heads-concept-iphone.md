@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's what Chat Heads could look like on a jailbroken iPhone
+title: Heres what Chat Heads could look like on a jailbroken iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/Chat-head-iphone.jpg)
 * This is admittedly, a very rough demo, but it does give us a rough idea as to how Chat Heads might look on iOS. I’d say it’s only a matter of time before a jailbreak developer implements Facebook’s Chat Heads in some way, shape, or form throughout iOS.

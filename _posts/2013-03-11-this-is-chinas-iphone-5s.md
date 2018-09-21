@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This is China's iPhone 5S
+title: This is Chinas iPhone 5S
 ---
 * With the iPhone 5S reportedly a few months away, ardent copycat vendors in Shenzen, China took it upon themselves to come up with an iPhone 5S of their own. Meet the GooPhone i5S, a total rip-off based on Android Jelly Bean 4.1.2 which sells for just $149 contract-free.
 * Now, imagine if Apple actually made a sub-$200 budget iPhone – or offered a $149 off-contract iPhone 5 for that matter (its cheapest contract-free handset is the $450 iPhone 4). GooPhone’s cheap iPhone lookalike – and I’m using the term loosely here – goes on sale tomorrow and the first 1,000 buyers will pay only $99 for it…

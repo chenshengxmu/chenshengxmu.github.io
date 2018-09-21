@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We're giving away 10 copies of iRealSMS 3.0
+title: Were giving away 10 copies of iRealSMS 3.0
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/irealsms-ss.jpg)
 * That’s right folks, it’s time for another iDB giveaway! Last week we handed out 10 free Cydia download licenses for PhotoAlbums+, and this week we’re back with another popular tweak from the SpiritofLogic crew: iRealSMS 3.0.

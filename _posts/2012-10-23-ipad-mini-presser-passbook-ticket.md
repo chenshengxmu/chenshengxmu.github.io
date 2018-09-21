@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Get your Passbook ticket for today's iPad mini event
+title: Get your Passbook ticket for todays iPad mini event
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/iOS-Passbook-icon-small.jpg)
 * With three and a half hours left to go, why not get your Passbook vanity ticket for today’s iPad mini event? I first checked with digital ticketing company Flon Solutions because they already provide some nice novelty Passbook passes from historic events.

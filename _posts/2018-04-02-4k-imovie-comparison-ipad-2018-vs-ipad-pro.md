@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4K video editing shootout- 9.7" iPad (2018) vs 9.7" iPad Pro (2016)
+title: 4K video editing shootout- 9.7 iPad (2018) vs 9.7 iPad Pro (2016)
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/04/iPAd-2018-vs-iPAd-Pro-2016.jpg)
 * With the recently unveiled sixth-generation iPad in customers’ hands, we put the new Apple tablet through its paces and compare its video processing prowess to the 9.7-inch iPad Pro.

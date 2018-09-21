@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung's woes continue with yet another disappointing quarterly earnings
+title: Samsungs woes continue with yet another disappointing quarterly earnings
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/04/Galaxy-s6-edge.png)
 * Surging iPhone demand on the high-end and plummeting sales of its feature phones that are getting squeezed out of the market by Chinese upstarts like Xiaomi are largely blamed for yet another disappointing quarterly earnings that Samsung posted Thursday.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T to launch 'All In One' prepaid plan June 15
+title: AT&T to launch All In One prepaid plan June 15
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/ATT-Chicago-store-interior-001.jpg)
 * The nation’s second-largest wireless carrier, AT&T, is planning on introducing a new prepaid brand called ‘All In One’ in June, according to FierceWireless.

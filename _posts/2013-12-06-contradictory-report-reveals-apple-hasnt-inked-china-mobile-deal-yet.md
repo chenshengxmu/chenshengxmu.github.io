@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Contradictory report reveals Apple hasn't inked China Mobile deal yet
+title: Contradictory report reveals Apple hasnt inked China Mobile deal yet
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/china-mobile-e1375299063364.jpg)
 * After the Wall Street Journal on Wednesday said that anonymous sources claimed Apple and China Mobile have finally inked an iPhone distribution agreement, most outlets, including us, reported it as a fact.

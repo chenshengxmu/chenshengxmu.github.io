@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 10 things I dislike about Apple's new Magic gadgets
+title: 10 things I dislike about Apples new Magic gadgets
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/10/Magic-Trackpad-2-image-001.jpg)
 * I’m a huge fan of Apple’s wireless keyboard, mouse and trackpad. My daily driver is a 2014 MacBook Air model and I also own a 27-inch Apple Thunderbolt Display which gets hooked up to the Air when I’m tied to my desk.

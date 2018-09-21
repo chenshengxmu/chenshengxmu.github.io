@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CBS chief again says the network intends to sign up for Apple's TV service
+title: CBS chief again says the network intends to sign up for Apples TV service
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/10/cbs-moonves.png)
 * CBS’s Les Moonves on Wednesday reiterated that the network intends to sign up for Apple’s upcoming TV service. During an interview with Bloomberg, the CEO again indicated that recent discussions with the Cupertino company will probably lead to a content deal.

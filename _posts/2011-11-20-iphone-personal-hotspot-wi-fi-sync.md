@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Use Your iPhone's Personal Hotspot to Wi-Fi Sync Your iDevices On the Go
+title: Use Your iPhones Personal Hotspot to Wi-Fi Sync Your iDevices On the Go
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/personal-hotspot.jpg)
 * While iOS 5 brought many new features that we had all been wanting, Wi-Fi syncing is probably one of the most desired features on the list. Using a white USB cable to sync an iDevice to iTunes is without a doubt one of the most irritating things of the pre-iOS 5 world.

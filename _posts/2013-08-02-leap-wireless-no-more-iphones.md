@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Leap Wireless says it won't have to purchase unsold iPhones following strong sales
+title: Leap Wireless says it wont have to purchase unsold iPhones following strong sales
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/iphone-5-boxes.jpg)
 * Leap Wireless held its quarterly earnings call yesterday. And aside from losing some 360,000 subscribers to ‘increased competition,’ and droopy revenues, its numbers actually look pretty good. Smartphone sales are up, ARPU is up, and churn is down.

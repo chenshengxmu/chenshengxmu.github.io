@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The iPad is becoming ad industry's darling
+title: The iPad is becoming ad industrys darling
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/iPads.png)
 * Here’s one of those news stories that only confirm what we already suspected: Advertisers are in love with the iPad. Not only is the iPad preferred over its Android equivalents, but also the iPhone.

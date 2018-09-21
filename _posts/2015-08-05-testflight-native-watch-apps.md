@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's TestFlight app receives support for native Watch apps and iOS 9's App Thinning technologies
+title: Apples TestFlight app receives support for native Watch apps and iOS 9s App Thinning technologies
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/08/TestFlight-2.2-for-iOS-teaser-001.png)
 * TestFlight, an online service for over-the-air installation and testing of mobile applications that was purchased by Apple last year, in its most recent version 1.2 update has introduced support for testing upcoming iOS 9 features, including native Apple Watch applications with watchOS 2.

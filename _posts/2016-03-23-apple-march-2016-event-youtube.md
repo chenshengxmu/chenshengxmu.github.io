@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's 'Let us loop you in' keynote hits YouTube
+title: Apples Let us loop you in keynote hits YouTube
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/Apple-Mach-21-event.png)
 * Apple held its ‘Let us loop you in’ media event on Monday to unveil the new four-inch iPhone SE, 9.7-inch iPad Pro, Apple Watch bands and accessories and more. A replay of the live video broadcast has since been added to the Apple Special Events webpage and published as a downloadable podcasts on iTunes. And now, the entire presentation is available for streaming via Apple’s YouTube channel.

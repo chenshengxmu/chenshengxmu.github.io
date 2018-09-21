@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Galaxy S4 not hurting 'resilient' US iPhone sales
+title: Galaxy S4 not hurting resilient US iPhone sales
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/Size-comparison-Galaxy-S4-vs-iPhone-5-Martin-Hajek-003.jpg)
 * Listening to much of the tech press, you might get the impression Samsung’s new Galaxy S4 would further erode Apple’s share of the smartphone market. One Wall Street firm ended the week on a contrary note, telling investors iPhone sales in North America “remain resilient” and Samsung’s Galaxy S4 is only selling slightly better than its predecessor.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MacBook Air now comes with a faster Intel chip, but that's about it
+title: MacBook Air now comes with a faster Intel chip, but thats about it
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/MacBook-Air-stickers-ad-001.jpg)
 * It is now definitely clear that MacBook Air is, sadly, on its way out. First and foremost, Apple hasn’t really updated its design following the 2010 debut. And while Apple continues to update MacBook Air with faster Intel chips and graphics, the latest hardware refresh to the popular notebook leaves a a lot to be desired.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The government of Ireland will back Apple in its fight against EU's tax bill from hell
+title: The government of Ireland will back Apple in its fight against EUs tax bill from hell
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/08/EU-Ireland-Apple-ruling-infographic-001.jpg)
 * Following news earlier this week that the European Commission had ruled that Apple must pay €13 billion ($14.5 billion) in back taxes to the government of Ireland because its sweetheart deal with Dublin that lets it be subjected to a lower tax rate constitutes “illegal state aid,” the Irish government said today it would join Apple in its fight against the ruling.

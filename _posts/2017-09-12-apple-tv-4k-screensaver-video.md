@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First look- Apple's amazing new 4K screensaver for the upcoming Apple TV
+title: First look- Apples amazing new 4K screensaver for the upcoming Apple TV
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/Apple-TV-4K-default-screensaver.jpg)
 * Apple is expected to debut a fifth-generation Apple TV with support for the native 4K resolution and streaming, Dolby Vision, HDR10 and more. As you can imagine, the box will come preloaded with Apple’s new default Aerial screensaver shot in the glorious 4K resolution.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IFTTT's 'Do' apps now available on Apple Watch
+title: IFTTTs Do apps now available on Apple Watch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/04/IFTTT-Apple-Watch-teaser-001.png)
 * A trio of dedicated task-automation apps for the iPhone released on the App Store back in February by the IFTTT (If This Than That) service are available on the Apple Watch as of today.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Popular 'Flappy Bird' game earning $50k per day in ad revenue
+title: Popular Flappy Bird game earning $50k per day in ad revenue
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/flappy_bird_screens.png)
 * While discussing the latest mobile gaming craze that is Flappy Bird on our recent Let’s Talk iOS podcast, I wondered out loud how much money the developer was making from his newfound success. The game, which is free with ads, has enjoyed a spontaneous reign at the top of the App Store.

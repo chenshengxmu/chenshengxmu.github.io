@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Microsoft ad pits Lenovo's Yoga 3 Pro convertible to MacBook Air
+title: New Microsoft ad pits Lenovos Yoga 3 Pro convertible to MacBook Air
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/11/Microsoft-ad-Lenovo-Yoga-3-Pro-vs-MacBook-Air.jpg)
 * Microsoft’s Windows channel on YouTube yesterday released a new commercial painting Lenovo’s Yoga Pro 3 convertible laptop as a better portable computer overall than Apple’s ultra-thin MacBook Air.

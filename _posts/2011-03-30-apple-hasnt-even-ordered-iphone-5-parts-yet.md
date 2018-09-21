@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Hasn't Even Ordered iPhone 5 Parts Yet
+title: Apple Hasnt Even Ordered iPhone 5 Parts Yet
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/03/iphone-5-cad.jpg)
 * The latest in iPhone 5 rumors comes from a Chinese supply chain. Macotakara.jp has claimed that Apple hasn’t even started ordering components for its next gen iPhone.

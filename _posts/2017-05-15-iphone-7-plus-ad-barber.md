@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's latest iPhone 7 Plus ad takes place in a barbershop
+title: Apples latest iPhone 7 Plus ad takes place in a barbershop
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/05/iPhone-7-Plus-ad-Barber.jpg)
 * A brand new television commercial for iPhone 7 Plus’s dual-lens camera surfaced Monday on Apple’s official YouTube channel. Titled “Barber,” the ad showcases Apple’s Portrait camera mode made possible by the dual-lens system found on the back of the company’s latest Plus smartphone.

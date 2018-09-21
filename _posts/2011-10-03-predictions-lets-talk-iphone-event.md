@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our Predictions for Tomorrow's "Let's Talk iPhone" Event
+title: Our Predictions for Tomorrows Lets Talk iPhone Event
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/Screen-Shot-2011-09-27-at-5.08.png)
 * Apple’s “Let’s Talk iPhone” event is happening tomorrow. It’s been 14 months since the iPhone 4 launch, and we’ve all been itching to hear what Apple has planned next for its incredible smartphone.

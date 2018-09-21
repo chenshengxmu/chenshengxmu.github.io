@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thunderbolt Display won't be refreshed at WWDC
+title: Thunderbolt Display wont be refreshed at WWDC
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/Thunderbolt-Display-two-up-MacBook-Pro.jpg)
 * Without naming a specific source, iMore’s Rene Ritchie has reportedly heard that Apple is not planning to refresh the aging 27-inch Thunderbolt Display at WWDC this month after all. “I asked around, and it’s not happening at the keynote or any time in the immediate future,” he wrote.

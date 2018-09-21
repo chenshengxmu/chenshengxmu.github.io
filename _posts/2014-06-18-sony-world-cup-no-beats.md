@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sony's World Cup sponsorship bars players from wearing Beats in stadiums
+title: Sonys World Cup sponsorship bars players from wearing Beats in stadiums
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/Beats-World-Cup-ad-Neymar-002.png)
 * Watching this epic Beats ad featuring several high-profile football stars, you would’ve thought that Apple’s newly-acquired headphone line was going to be a staple at this year’s World Cup, but that hasn’t been the case at all. The iconic accessory has been noticeably absent from players’ necks since the tournament began last week.

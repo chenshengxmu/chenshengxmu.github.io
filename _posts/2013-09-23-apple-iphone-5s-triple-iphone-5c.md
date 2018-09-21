@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pricier iPhone 5s's popularity triple that of iPhone 5c
+title: Pricier iPhone 5ss popularity triple that of iPhone 5c
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/apple-5s-adoption.png)
 * We’ve already heard field reports suggesting the iPhone 5s was outselling the colorful iPhone 5c. Now comes hard after the first weekend of sales for Apple’s two new iPhones. The new flagship 5s smartphone is more than three times as popular as the less expensive 5c, according to one analytics firm Monday.

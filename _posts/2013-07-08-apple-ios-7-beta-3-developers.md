@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple seeds iOS 7 beta 3 to developers- this is what's new
+title: Apple seeds iOS 7 beta 3 to developers- this is whats new
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/beta-3-ios-7.png)
 * As predicted by a report late last month, Apple has seeded iOS 7 beta 3 to developers this morning. The update comes two weeks after Apple posted the second beta to its next-generation mobile operating system, and nearly a month after it released the initial version following its WWDC keynote.

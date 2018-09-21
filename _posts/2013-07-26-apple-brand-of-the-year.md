@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple wins 'Brand of the Year' for computers, smartphones and tablets
+title: Apple wins Brand of the Year for computers, smartphones and tablets
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/iBooks-three-up-MacBook-iPad-iPhone-e1374839022648.jpg)
 * Apple may be losing smartphone and tablet marketshare, but it’s still the top brand in those categories. This, according to data from a recent US-based study on consumer brand perception by Marketing research firm Harris Interactive.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple launches new 'iTunes Pass' service in Japan for refilling iTunes credit
+title: Apple launches new iTunes Pass service in Japan for refilling iTunes credit
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/passbook-ios-8.png)
 * Apple has launched a new service in Japan called iTunes Pass. The program is actually quite interesting, as it appears to allow customers to purchase iTunes Store credit from an Apple retail store, using Passbook instead of physical gift cards.

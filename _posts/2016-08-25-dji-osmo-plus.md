@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DJI's new iPhone-friendly Osmo+ gimbal camera has 7x zoom and shoots 4K video
+title: DJIs new iPhone-friendly Osmo+ gimbal camera has 7x zoom and shoots 4K video
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/08/DJI-Osmo-Plus-image-001.jpg)
 * The other day, whilst browsing an array of incredibly cool gadgets from Chinese drone maker DJI, it only took me like five minutes to decide to put their Osmo gimbal camera on my “wants” list. Good thing I didn’t buy the thing right there and then as DJI today announced an upgraded versions, the Osmo+, with up to 7x zoom and 4K video capture.

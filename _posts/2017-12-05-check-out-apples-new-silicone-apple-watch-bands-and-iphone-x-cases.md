@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Check out Apple's new silicone Apple Watch bands and iPhone X cases
+title: Check out Apples new silicone Apple Watch bands and iPhone X cases
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/New-Apple-Watch-Silicone-Band-Dark-Teal-Spicy-Orange-Flash.jpg)
 * Apple slipped a minor update under the radar with a few new additions to their Apple Watch band and iPhone X case lineups. It includes three new silicone band colors, and three new silicone iPhone X cases.

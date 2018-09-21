@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WSJ- Apple's $10 per month on-demand music streaming service launching at WWDC next week
+title: WSJ- Apples $10 per month on-demand music streaming service launching at WWDC next week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/Best-music-app-2014.jpg)
 * Contradicting a February 2015 report which asserted that Beats Music would get folded into a new on-demand streaming music subscription service, The Wall Street Journal said Monday that Beats Music will be maintained as a standalone service once Apple launches its new music $10 per month offering at WWDC next week.

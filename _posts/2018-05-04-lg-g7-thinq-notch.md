@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LG's new G7 ThinQ has a notch, but it's not doing quite as much
+title: LGs new G7 ThinQ has a notch, but its not doing quite as much
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/05/LG-G7-ThinkQ-002.jpg)
 * Raise your hands if you thought a high-profile vendor like LG would know better than to blindly copy Apple’s notch design. Not so fast, because LG does suffer from Notch Copycat Syndrome.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fox and TinyCo reveal first images of upcoming 'Family Guy' game
+title: Fox and TinyCo reveal first images of upcoming Family Guy game
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/familyguy1.jpg)
 * Back in December, Fox and San Francisco-based mobile gaming studio TinyCo announced that they were partnering up to build a Family Guy game. They didn’t offer up many details about the title, but they did say that it would launch sometime in 2014.

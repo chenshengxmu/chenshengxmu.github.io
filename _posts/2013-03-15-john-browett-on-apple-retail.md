@@ -1,6 +1,6 @@
 ---
 layout: post
-title: John Browett tells why he sucked as Apple's short-lived retail boss
+title: John Browett tells why he sucked as Apples short-lived retail boss
 ---
 * John Browett became Apple’s head of retail in January 2012, two months after the Apple Store father Ron Johnson had left the company for a CEO position at JC Penney. His stint at Apple was a brief one: Browett would last on the job a little over six months.
 * Partly responsible for the silly Apple Store campaign, Browett single-handily alienated retail staff after proposing layoffs in a bid to prove his worth to the bosses. “We messed up,” he admitted, but it was already too late for apologies.

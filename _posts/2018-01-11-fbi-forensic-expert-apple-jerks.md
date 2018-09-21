@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Forensic expert calls Apple “jerks” and “evil geniuses” for making FBI's work harder
+title: Forensic expert calls Apple “jerks” and “evil geniuses” for making FBIs work harder
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/02/apple_vs_fbi.jpg)
 * FBI forensic expert Stephen Flatley has lashed out at Apple during yesterday’s International Conference on Cyber Security in Manhattan, calling its engineers “jerks” and “evil geniuses” for making the bureau’s investigative work harder with strong encryption on iOS devices.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DigiTimes- minor iPad mini refresh this year, 'almost bezel-free' Retina version in 2014
+title: DigiTimes- minor iPad mini refresh this year, almost bezel-free Retina version in 2014
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/iPad-two-up-iPad-iPad-mini-hand.jpg)
 * We’ve already heard from multiple sources that Apple is still ‘adjusting’  new iPad mini, with alleged panel shortages pushing a Retina iPad mini 2 into 2014 and prompting Apple to ready a minor update this year until the Retina version with a faster chip is ready next year. A new report out this morning from Taiwan adds more color to these rumors.

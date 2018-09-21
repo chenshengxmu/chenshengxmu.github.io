@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Apple TV interface will be available for existing Apple TV's via software update
+title: New Apple TV interface will be available for existing Apple TVs via software update
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/Nee-Apple-TV-interface.jpg)
 * Feeling a little blue about the Apple TV refresh now that you see it got a nice new interface along with 1080p? Don’t fret, current Apple TV owners will be able to bask in the glory of that new interface as well via a software update later today.

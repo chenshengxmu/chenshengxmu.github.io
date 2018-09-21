@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KGI- all 2017 iPhones to have wireless charging, iPhone 8's 3D Touch pricier to build
+title: KGI- all 2017 iPhones to have wireless charging, iPhone 8s 3D Touch pricier to build
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/iPhone-8-iOS-11-ConceptsiPhone-001-e1486658756234.png)
 * KGI Securities analyst Ming-Chi Kuo predicted in a new note to clients, obtained by MacRumors, that all new models of iPhone introduced this year would feature wireless charging. In addition, the report cautions that production costs of iPhone 8’s enhanced 3D Touch module might rise between 30 and 50 percent.

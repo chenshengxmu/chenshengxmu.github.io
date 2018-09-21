@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KGI- iPhone 8's FaceTime camera to support 3D sensing, AR, biometric authentication & more
+title: KGI- iPhone 8s FaceTime camera to support 3D sensing, AR, biometric authentication & more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/iPhone-7-7MP-hd-facetime-camera.jpg)
 * We heard before that Apple might integrate augmented reality features into iPhone 8’s Camera app and now KGI Securities analyst Ming-Chi Kuo has provided fresh details about a “revolutionary” front-facing camera system that will “bring an innovative user experience” to Apple’s first OLED iPhone.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Analysts- curved-screened iPhone 8 to come in 5" and 5.8" varieties with bezel-free design
+title: Analysts- curved-screened iPhone 8 to come in 5 and 5.8 varieties with bezel-free design
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/iPhone-6-inside-view-retina-hd-display.png)
 * After analyzing the latest chatter in Apple’s supply chain following a trip to Asia this week, Barclays Research analysts predicted the Cupertino firm will offer a next-generation ‘iPhone 8’ in 2017 in two sizes, one with a screen measuring five inches and the other featuring a 5.8-inch display.

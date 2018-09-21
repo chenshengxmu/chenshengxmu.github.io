@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sprint Image on Apple's Website 100% Confirms Sprint is a New iPhone Carrier
+title: Sprint Image on Apples Website 100% Confirms Sprint is a New iPhone Carrier
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/07/sprint-logo.jpg)
 * Welcome, Sprint. It’s been a long and arduous journey, but you made it to the promise land; you finally scored the iPhone.

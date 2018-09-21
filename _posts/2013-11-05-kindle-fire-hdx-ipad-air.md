@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amazon's Kindle Fire HDX tops iPad Air in display shootout
+title: Amazons Kindle Fire HDX tops iPad Air in display shootout
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/iPad-Air-The-power-of-lightness-001.jpg)
 * With the recent releases of both the iPad Air and Amazon’s Kindle Fire HDX, the folks over at DisplayMate thought it was time to pit the two new tablets against each other (and against Google’s Nexus 10 tablet) in one of its signature display shootouts.

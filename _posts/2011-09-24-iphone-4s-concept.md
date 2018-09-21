@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's What the iPhone 4S Could Look Like
+title: Heres What the iPhone 4S Could Look Like
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/iphone-4s-e1316888659876.jpeg)
 * Between all the reports and case leaks we’ve seen over the last several months, we have a pretty good idea of what the iPhone 5 looks like. The tear drop design, with the capacitive home button, has been documented by several sources.

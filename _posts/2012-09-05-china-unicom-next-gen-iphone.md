@@ -1,6 +1,6 @@
 ---
 layout: post
-title: China Unicom rumored to get next-gen iPhone by year's end
+title: China Unicom rumored to get next-gen iPhone by years end
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/china-unicom.jpg)
 * Since previous reports seemingly nailed the next-gen iPhone event date, it’s safe to assume the predicted launch date is also accurate. Apple’s next smartphone is expected to go on sale in the US on September 21st. When the handset will launch elsewhere, however, is still unknown.

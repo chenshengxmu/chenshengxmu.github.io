@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPad and iPhone Top Kids' Wish Lists This Holiday Season
+title: iPad and iPhone Top Kids Wish Lists This Holiday Season
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/christmas-ipads-e1321593069422.jpg)
 * Where has this year gone? Thanksgiving is next week, and after that you’ll have less than a month to finish up your holiday shopping. For those of you who are still looking for gift ideas for the little ones in your life, you might want to go with something from Apple.

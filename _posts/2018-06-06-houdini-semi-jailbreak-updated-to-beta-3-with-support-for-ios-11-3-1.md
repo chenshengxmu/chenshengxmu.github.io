@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Houdini 'semi-jailbreak' updated to beta 3 with support for iOS 11.3.1
+title: Houdini semi-jailbreak updated to beta 3 with support for iOS 11.3.1
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/06/Screen-Shot-2018-06-06-at-10.58.55-PM.png)
 * If you follow Abraham Masri (@cheesecakeufo)’s Houdini semi-jailbreak project, then you might be excited to hear that beta 3 has been released this week with support for iOS 11.3.1, all thanks to Ian Bear’s newly-released tfp0 exploit.

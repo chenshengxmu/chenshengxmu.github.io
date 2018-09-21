@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DOJ unlocks San Bernardino shooter's iPhone, withdraws case against Apple
+title: DOJ unlocks San Bernardino shooters iPhone, withdraws case against Apple
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/02/apple_vs_fbi.jpg)
 * The Department of Justice filed a request on Monday, asking the court to vacate its order to compel Apple to assist agents in unlocking an iPhone. As expected, the FBI was able to crack the handset without the company’s assistance.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Craig Federighi- creating iPhone backdoor would be 'a serious mistake'
+title: Apples Craig Federighi- creating iPhone backdoor would be a serious mistake
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/WWDC-2015-Keynote-Craig-Federighi-teaser-002.jpg)
 * Craig Federighi, Apple’s Senior Vice President of Software Engineering who oversees the development of iOS, OS X and Apple’s common operating system engineering team, has written an op-ed piece in The Washington Post in which he reiterates Apple’s position that the FBI’s demand that Apple create a version of iOS with decreased security would be “a serious mistake,” saying the FBI wants to “turn back the clock to a less-secure time”.

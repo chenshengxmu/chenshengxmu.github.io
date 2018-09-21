@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Munster pops Apple hype balloon- no new gizmos until June's iPhone 5S launch
+title: Munster pops Apple hype balloon- no new gizmos until Junes iPhone 5S launch
 ---
 * We’ve chided Piper Jaffray’s well-known resident Apple analyst Gene Munster for his repeated predictions of a standalone Apple television set being just around the corner. However, this time we’re giving Munster credit for trying to deflate the hype balloon which has taken Apple stock and consumers for a ride fueled by unreal expectations. The analyst is just the latest Wall Street figure hoping to inject reality into a belief that the Cupertino, Calif. iPhone maker was immune to the vagaries of mortal businesses – such as down periods.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/apple-stock.jpg)

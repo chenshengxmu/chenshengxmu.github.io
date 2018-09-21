@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to keep your free OneDrive space before Microsoft's storage reductions take place
+title: How to keep your free OneDrive space before Microsofts storage reductions take place
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/OneDrive-Apple.jpg)
 * Has Microsoft’s unilateral decision to reduce free OneDrive accounts from fifteen to just five gigabytes of cloud storage left you totally flabbergasted? If so, you’re not alone. An online petition at the OneDrive feedback website has received more than 70,000 votes already. Feeling the heat, the Windows maker today announced an opt-in offer that will permit all affected OneDrive customers to keep their fifteen gigabytes of free storage space, as well as their fifteen-gigabyte camera roll bonus.

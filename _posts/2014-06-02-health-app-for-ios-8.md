@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple unveils new 'Health' app for iOS 8
+title: Apple unveils new Health app for iOS 8
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/Health-iPhone-.png)
 * As several reports predicted, Apple is getting into the Healthcare industry with iOS 8 by introducing a new app called ‘Health.’ Health provides an easy-to-access hub where iPhone owners can store and monitor important fitness and health-related metrics.

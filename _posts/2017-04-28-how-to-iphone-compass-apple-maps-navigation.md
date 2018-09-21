@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to use your iPhone's compass with Apple Maps
+title: How to use your iPhones compass with Apple Maps
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/Apple-Maps-Icon-and-Landscape.jpg)
 * iPhone includes a magnetometer sensor, also known as digital compass. With it, your iPhone can tell the direction it’s pointed at. Along with built-in GPS and iOS’s Location Services, this allows for some cool navigation capabilities. If you’re wondering how to use iPhone compass with Apple Maps, you’ve come to the right place.

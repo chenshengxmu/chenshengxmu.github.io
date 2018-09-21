@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple reportedly planning Force Touch for 2015 'iPhone 6s' lineup
+title: Apple reportedly planning Force Touch for 2015 iPhone 6s lineup
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/iphone6-inline.jpg)
 * The 2015 line of iPhones that are expected to launch this fall will feature the Force Touch input that is found on the Apple Watch, according to AppleInsider.

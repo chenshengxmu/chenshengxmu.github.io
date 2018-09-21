@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Will Steve Jobs Attend Tomorrow's iPhone Event?
+title: Will Steve Jobs Attend Tomorrows iPhone Event?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/Steve-Jobs-in-front-iPhone-4-e1312563860767.png)
 * Given the importance of tomorrow’s iPhone event, many have been wondering if former Apple CEO Steve Jobs will make an appearance. Mixed reports have surfaced that consider the possibility of Jobs attending tomorrow’s event.

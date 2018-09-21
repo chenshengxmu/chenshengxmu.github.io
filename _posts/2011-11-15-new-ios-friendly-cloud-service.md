@@ -1,6 +1,6 @@
 ---
 layout: post
-title: There's a New iOS-Friendly Cloud Service on the Block
+title: Theres a New iOS-Friendly Cloud Service on the Block
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/Photo-Nov-15-12-53-59-AM-e1321347405384.png)
 * The consumer cloud storage market is getting pretty crowded. There’s SugarSync, Amazon’s CloudDrive, and the ever-popular Dropbox. Not to mention that one of the biggest names in tech, Apple, just joined the game with iCloud.

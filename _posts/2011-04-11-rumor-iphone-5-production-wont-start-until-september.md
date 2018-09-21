@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rumor- iPhone 5 Production Won't Start Until September
+title: Rumor- iPhone 5 Production Wont Start Until September
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/02/iPhone-5-e1297996917772.jpeg)
 * The latest in iPhone 5 rumors claims that Apple won’t be starting mass production of the iPhone 5 until September, which corroborates previous reports that Apple won’t be unveiling the device at WWDC this summer.

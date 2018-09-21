@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Angry Birds Epic soft-launches in Australia, New Zealand and Canada, here's gameplay vid
+title: Angry Birds Epic soft-launches in Australia, New Zealand and Canada, heres gameplay vid
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/angry-birds-epic.png)
 * As promised, Rovio’s RPG-style Angry Birds game, Angry Birds Epic, is soft-launching today in Canada, Australia and New Zealand and its creator Rovio has shared a few screenshots and the official list of features, as well as posted a nice video showing off the actual gameplay.

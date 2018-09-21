@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Q1 2016 earnings- 74.8M iPhones, 16.1M iPads, $75.9B revenue
+title: Apples Q1 2016 earnings- 74.8M iPhones, 16.1M iPads, $75.9B revenue
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/apple-hq-headquarters.jpg)
 * Apple on Tuesday released its earnings report for the first [fiscal] quarter of 2016. As most of you know, this was the iPhone-maker’s holiday quarter, where most consumer electronic companies—particularly Apple—tend to put up monster numbers. And of course Tim Cook and his team did not disappoint.

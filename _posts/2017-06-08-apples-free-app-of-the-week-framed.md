@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's free app of the week- Framed
+title: Apples free app of the week- Framed
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/frame.png)
 * Apple on Thursday updated its App of the Week promotion with the game Framed. For the next 7 days, you can pick up the popular puzzler for free on both iPhone and iPad—a solid savings of $4.

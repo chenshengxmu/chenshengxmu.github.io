@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Phil Schiller re-iterates Apple doesn't ask consumers what they want
+title: Phil Schiller re-iterates Apple doesnt ask consumers what they want
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/Phil-Schiller-headshot.jpg)
 * It’s day two of the monster Apple vs. Samsung trial and Apple’s senior vice president of worldwide marketing Phil Schiller testified, but only briefly as the jury was dismissed for the day. What came out of him reflects Steve Jobs’ notion that it is Apple’s rather than the consumers’ job to know what they want.

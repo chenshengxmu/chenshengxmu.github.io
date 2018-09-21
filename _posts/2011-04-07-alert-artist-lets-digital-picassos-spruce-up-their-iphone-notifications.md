@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AlertArtist' Lets Digital Picassos Spruce Up Their iPhone Notifications
+title: AlertArtist Lets Digital Picassos Spruce Up Their iPhone Notifications
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/AlertArtist-12.png)
 * I’ve never been a big themer; in fact, even though it’s jailbroken I take pride in the fact that my iPhone looks pretty much stock most of the time.

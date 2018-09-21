@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile- We're Sorry We Don't Have the iPhone
+title: T-Mobile- Were Sorry We Dont Have the iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/03/T-Mobile-iPhone-e1300657282690.jpeg)
 * T-Mobile is sad that it doesn’t have the iPhone. With Sprint rumored to get the iPhone 5 next month, T-Mobile will be the only main carrier left out in the cold.

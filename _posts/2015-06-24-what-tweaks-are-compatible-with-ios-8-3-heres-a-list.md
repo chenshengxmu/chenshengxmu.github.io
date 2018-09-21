@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What tweaks are compatible with iOS 8.3? Here's a list
+title: What tweaks are compatible with iOS 8.3? Heres a list
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/Cydia-Redesign.png)
 * Our friends over at r/jailbreak have compiled a list of compatible jailbreak tweaks for iOS 8.3. Unsurprsingly, most of the tweaks on the list have problems or don’t work at all. This is due to the fact that a fix needs to be implemented by the TaiG team to ensure Cydia Substrate compatibility.

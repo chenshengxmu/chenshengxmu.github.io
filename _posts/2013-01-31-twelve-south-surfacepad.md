@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Loathe iPhone cases? Twelve South's SurfacePad will change your mind
+title: Loathe iPhone cases? Twelve Souths SurfacePad will change your mind
 ---
 * I generally dislike cases because they add bulk to my Apple devices and hide their beautiful design. Twelve South hears your pain: today, the premium accessory maker launched the SurfacePad, a cover for the iPhone 5/4/4S that’s less than 1/10th of an inch thick. It’s made from premium Napa leather and attaches with the same special adhesive used on our SurfacePad for MacBook.
 * It has the microfiber lining which helps protect your devices’ glass from scratches and dings, a built-in stand so you can prop up your device for FaceTime, to enjoy videos or to simply turn your iPhone into an alarm clock. The clever design gives you access to all buttons and ports – and you can charge the device with the case on.

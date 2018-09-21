@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's self-driving technology testbed spotted driving on Silicon Valley roads
+title: Apples self-driving technology testbed spotted driving on Silicon Valley roads
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/04/Apple-selfdriving-Lexus-RX450h-SUV.jpg)
 * After obtaining a permit from the California Department of Motor Vehicles two weeks ago, first real-world images of the vehicle Apple’s using to test its rumored autonomous driving software have now surfaced. Bloomberg was able to obtain photos of a sensor-laden white Lexus R450h SUV as it emerged from an Apple facility.

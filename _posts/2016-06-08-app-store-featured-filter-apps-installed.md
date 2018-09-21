@@ -1,6 +1,6 @@
 ---
 layout: post
-title: App Store's Featured section will soon stop showing apps you already have installed
+title: App Stores Featured section will soon stop showing apps you already have installed
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/App-Store-Feaetured-tab-teaser-001.jpg)
 * Beyond Search Ads and a bunch of new options for In-App Subscriptions, Apple is making  a few subtler changes to how the App Store’s storefront apps function in the hope of improving app discovery.

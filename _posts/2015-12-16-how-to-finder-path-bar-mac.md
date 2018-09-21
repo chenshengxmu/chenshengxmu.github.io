@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to use Finder's interactive Path Bar on Mac
+title: How to use Finders interactive Path Bar on Mac
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/OS-X-Yosemite-design-promo-Finder-icon-001.jpg)
 * In addition to showing the full path to a file or folder within the Finder windows’ titlebars and copying a file’s path as text via contextual menus in the latest versions of macOS, your Mac has other cool tricks up its sleeve for a more efficient file system browsing.

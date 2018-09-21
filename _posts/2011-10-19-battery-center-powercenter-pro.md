@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BatteryCenter' And 'PowerCenter Pro' Juice Up Notification Center
+title: BatteryCenter And PowerCenter Pro Juice Up Notification Center
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/BatteryCenter-PowerCenter-Pro.png)
 * Normally, I don’t like to combine coverage of multiple jailbreak tweaks in a single post, but this go ’round, it was definitely appropriate.

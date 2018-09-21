@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BlackBerry's global market share tanks to zero percent nearly ten years after iPhone launched
+title: BlackBerrys global market share tanks to zero percent nearly ten years after iPhone launched
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/iphone-vs-blackberry-fight.jpg)
 * According to the latest quarterly data from research firm Gartner, BlackBerry’s share of the global smartphone market is now 0.0 percent versus its peak market share of approximately 20 percent in 2009. To be precise, the Canadian company’s global market share in the fourth quarter of 2016 stood at a rather measly 0.0481 percent, Gartner said yesterday.

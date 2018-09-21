@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's budget-minded iPhone 5C will fit T-Mobile 'like a glove'
+title: Apples budget-minded iPhone 5C will fit T-Mobile like a glove
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/T-Mobile-sign-web.jpg)
 * Apple’s much-expected iPhone 5C, noted for its multi-colored plastic body and inexpensive price, could become known for something more: mortally wounding cellular contracts. The test could come this month as Apple unveils the less-expensive iPhone at around what analysts believe will be $400-$500, unsubsidized. For the first time, US carrier T-Mobile – which doesn’t require subscribers sign a two-year contract – will go head-to-head against traditional carriers AT&T and Verizon.

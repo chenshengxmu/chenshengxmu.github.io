@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A closer look at Apple Watch's Activity companion app for iPhone
+title: A closer look at Apple Watchs Activity companion app for iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/Actvitiy-1.0-for-iOS-iPhone-screenshot-001.jpg)
 * After sitting through Apple’s “Spring Forward” media presentation from start to finish, I couldn’t help but notice a slide tim Cook briefly put up, depicting an iOS version of the Apple Watch’s Activity app. I immediately took to Twitter, wondering when users could expect to see the software on their iPhones.

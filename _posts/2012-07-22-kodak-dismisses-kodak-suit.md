@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ITC dismisses Kodak's patent case against Apple
+title: ITC dismisses Kodaks patent case against Apple
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/kodak-logo.jpg)
 * In its heyday, Kodak controlled more than 90% of the US film market, and 85% of all camera sales. But a lot can change in 35 years, and unfortunately, time has not been kind to the Rochester, New York company.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's Hangouts app is now iPhone 6-ready
+title: Googles Hangouts app is now iPhone 6-ready
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/google-hangouts.png)
 * Continuing its string of app updates adding native support for the iPhone 6 and iPhone 6 Plus screen sizes, Google on Wednesday issued a small update to its Hangouts messaging software for the iPhone and iPad, which now looks as you’d expect on the 4.7 and 5.5-inch iPhone 6 screens.

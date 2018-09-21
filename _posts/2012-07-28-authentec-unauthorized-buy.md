@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's AuthenTec acquisition already under investigation
+title: Apples AuthenTec acquisition already under investigation
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/authentec-logo-0727.jpg)
 * It hasn’t been 24 hours since the news broke that Apple acquired AuthenTec, and there’s already talk of foul play. It seems that two law firms are investigating the acquisition to see if AuthenTec’s Board intentionally undervalued the company to reach a deal with Apple.

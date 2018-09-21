@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple TV to be "the biggest thing in consumer electronics since the smartphone"
+title: Apple TV to be the biggest thing in consumer electronics since the smartphone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/itv.jpg)
 * Even though we have a pretty good feeling that Apple is going to unveil its third ATV set top box next week, gossip is still bouncing around about Apple’s full-scale television. We’ve been hearing rumors of an Apple TV set for several months now.

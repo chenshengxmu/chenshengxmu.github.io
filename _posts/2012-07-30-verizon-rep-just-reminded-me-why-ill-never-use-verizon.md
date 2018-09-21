@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Verizon rep just reminded me why I'll never use Verizon
+title: Verizon rep just reminded me why Ill never use Verizon
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/Verizon-Sucks.jpg)
 * A couple of years ago, my wife fiancée Tina had a terrible experience dealing with a Verizon rep over the phone. The whole conversation happened on speakerphone and I could hear every part of it. I specifically remember the rep insinuating Tina was a liar and that she didn’t know what she was talking about. That was the end of her with Verizon. We canceled her plan that day and got her on AT&T.

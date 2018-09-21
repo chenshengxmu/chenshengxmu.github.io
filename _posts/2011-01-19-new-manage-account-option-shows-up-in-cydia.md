@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New 'Manage Account' Option Shows Up in Cydia
+title: New Manage Account Option Shows Up in Cydia
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/01/Cydia-Manage-Account-01.png)
 * When it comes to polish, there simply is no comparison between Apple’s official App Store, and Cydia, the store used by those in the jailbreak community. The lack of polish is something that Cydia’s creator, Saurik, is aiming to address in 2011, and this latest update gives us a nice preview of what’s coming.

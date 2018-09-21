@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chronic Dev Team- We've Already Received Over 10 Million Crash Reports From Jailbreak Supporters
+title: Chronic Dev Team- Weve Already Received Over 10 Million Crash Reports From Jailbreak Supporters
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/chronic-dev-team.jpg)
 * Front man for the Chronic Dev Team, Joshua Hill (also known as p0sixninja), has announced a landmark number of crash reports that have already been submitted to his team. The Chronic Dev Team recently released an app that collects iOS crash reports in iTunes and sends them to the team’s private servers to help find exploits for the future iOS 5 untethered jailbreak.

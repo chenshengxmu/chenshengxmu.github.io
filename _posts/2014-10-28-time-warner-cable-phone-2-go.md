@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Time Warner Cable's new app lets you use their home phone service on iPhone at no additional cost
+title: Time Warner Cables new app lets you use their home phone service on iPhone at no additional cost
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/Phone-2-Go-1.0-for-iOS-iPhone-screenshot-001.png)
 * Your Home Phone service from Time Warner Cable is no longer limited by physical location as the nation’s second largest cable company behind Comcast revealed a new iPhone application Tuesday.

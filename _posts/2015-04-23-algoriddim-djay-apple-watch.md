@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Algoriddim's djay hits your wrist with a powerful Apple Watch app
+title: Algoriddims djay hits your wrist with a powerful Apple Watch app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/04/Algoriddim-djay-family-teaser.jpg)
 * The vast majority of Apple Watch apps that have been appearing on the App Store ahead of the wearable’s Friday launch are for the most part relegated to Glances and notifications, and that’s just fine.

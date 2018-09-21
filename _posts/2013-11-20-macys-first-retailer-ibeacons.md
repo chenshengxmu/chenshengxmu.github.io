@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Macy's becomes first retailer to implement iBeacon tech
+title: Macys becomes first retailer to implement iBeacon tech
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/ibeacon-tech.png)
 * Following reports that Apple is working to implement iBeacon tech in its retail stores comes word that Shopkick has beat it to the punch. The shopping app has teamed up with Macy’s to deliver the first major retail iBeacon system.

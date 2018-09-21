@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Book Provides Insight on Apple's Commitment to Secrecy
+title: New Book Provides Insight on Apples Commitment to Secrecy
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/apple1.jpg)
 * We’re still a week away from the release of Adam Lashinksy’s Inside Apple, but we feel like we’ve already read a third of it. Multiple excerpts from the book have been popping up online over the last few days.

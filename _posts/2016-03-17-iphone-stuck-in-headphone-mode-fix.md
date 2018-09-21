@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone stuck in headphone mode? Here's a fix
+title: iPhone stuck in headphone mode? Heres a fix
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/iPhone-6-headphone-jack.jpg)
 * Have you ever unplugged your headphones or speakers from the 3.5mm jack or Lightning port on your iPhone, iPod touch, or iPad just to find that it was stuck in headphone mode? The most common symptom is that sound won’t come from your iPhone speakers anymore, and in some cases, you may even see the Headphones HUD stuck on your Home screen. It can be frustrating, but it’s usually pretty easy to fix.

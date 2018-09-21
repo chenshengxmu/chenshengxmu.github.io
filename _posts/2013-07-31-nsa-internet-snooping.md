@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NSA's Internet snooping covers 'nearly everything' done online via XKeyscore app
+title: NSAs Internet snooping covers nearly everything done online via XKeyscore app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/NSA-X-Keyscore-slide-002.jpg)
 * The men and women of the U.S. National Security Agency are very interested in your Internet activity. Indeed, a program within the NSA allows intelligence analysts to sift through billions of online records, revealing “nearly everything a typical user does on the Internet.”

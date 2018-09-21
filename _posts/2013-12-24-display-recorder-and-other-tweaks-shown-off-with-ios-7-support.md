@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Display Recorder' and other tweaks shown off with iOS 7 support
+title: Display Recorder and other tweaks shown off with iOS 7 support
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/Ryan-petrich-FlipControlCenter-Toggles.png)
 * Prolific jailbreak developer Ryan Petrich teased some of the highly anticipated updates to his popular jailbreak releases early this morning. Petrich, who created the frequently used Display Recorder app, Activator, and a whole host of other important Cydia releases, seems to be fairly far along in the update process if his video teaser is anything to go by.

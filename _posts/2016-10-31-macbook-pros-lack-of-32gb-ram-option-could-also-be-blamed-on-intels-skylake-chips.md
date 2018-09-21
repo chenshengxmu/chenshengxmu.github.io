@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MacBook Pro's lack of 32GB RAM option could also be blamed on Intel's Skylake chips
+title: MacBook Pros lack of 32GB RAM option could also be blamed on Intels Skylake chips
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/MacBook-Pro-Touch-Bar-007.jpg)
 * As you know, Apple’s limited the new MacBook Pro to a maximum of sixteen gigabytes of RAM. Truth be told, no Mac notebook thus far has permitted customers to double the system RAM to a whopping thirty-two gigabytes though many MacBook Pro fans seem to have expected just that as an option.

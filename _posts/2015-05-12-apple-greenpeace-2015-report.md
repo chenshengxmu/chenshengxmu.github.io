@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple again leads the pack in Greenpeace's 2015 Clicking Clean report
+title: Apple again leads the pack in Greenpeaces 2015 Clicking Clean report
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/Apple-solar-farm-image-001.jpg)
 * Greenpeace released a 2015 update for its ‘Clicking Clean’ report this morning, and Apple is once again leading the pack. The report gives tech companies a Clean Energy Index score based on factors like commitment to clean energy and energy transparency, and the Cupertino firm received a perfect score.

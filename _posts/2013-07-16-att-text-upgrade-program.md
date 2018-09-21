@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T introduces new 'AT&T Next' device upgrade program
+title: AT&T introduces new AT&T Next device upgrade program
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/ATT-building-logo-001.jpg)
 * Well that didn’t take very long. Just hours after a report surfaced regarding Verizon’s plan for a new device upgrade program, AT&T announced a new upgrade plan of its own. It’s called ‘AT&T Next,’ and its description sounds awfully familiar.

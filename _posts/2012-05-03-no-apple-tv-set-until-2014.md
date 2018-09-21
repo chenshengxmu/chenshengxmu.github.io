@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Analyst believes we won't see an Apple television until 2014
+title: Analyst believes we wont see an Apple television until 2014
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/hdtv-111025.jpg)
 * Despite the fact that Apple hasn’t given any indication that it’s working on a TV set, and a glaring lack of any concrete evidence, the Apple-branded television is one of the most highly anticipated products of 2012. It seems like everyone thinks it’s coming.

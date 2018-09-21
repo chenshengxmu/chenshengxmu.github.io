@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TSMC contracted to fab a cutting-edge chip for a 'breakthrough' Apple device
+title: TSMC contracted to fab a cutting-edge chip for a breakthrough Apple device
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/iPad-mini-keynote-Phil-Schiller-A6x-slide-001.jpg)
 * Samsung for the time being remains an exclusive maker of the Apple-designed engine that powers iPhones, iPads and iPods. Apple’s chips are being fabbed on Samsung’s High-κ metal gate 32 nanometer process at its $14 billion semiconductor plant in Austin, Texas. But not for any much longer.

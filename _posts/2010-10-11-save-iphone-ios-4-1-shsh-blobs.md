@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't Forget to Save Your iPhone iOS 4.1 SHSH Blobs
+title: Dont Forget to Save Your iPhone iOS 4.1 SHSH Blobs
 ---
 * With the release of iOS 4.1.1 or even 4.2 right around the corner, it would be a wise thing to do to save your iPhone iOS 4.1 SHSH blobs either on Cydia, or locally with TinyUmbrella. Saving your SHSH blobs will be helpful if you ever want to downgrade your iPhone to previous firmware version.
 * Usually, Cydia does this automatically for you, but to be on the safe side, you can always run TinyUmbrella, which is what I just did. Here is how to use TinyUmbrella to save your SHSH blobs…

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twitter says its ending legacy APIs, not 'killing' third-party clients
+title: Twitter says its ending legacy APIs, not killing third-party clients
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/twitter.jpg)
 * Twitter’s long-awaited AI changes have now been activated after first being announced earlier this year. In doing so, key features are currently being disabled for third-party Twitter clients such as Tweetbot and Twitterific.  We’re now hearing more from Twitter on why these changes have been implemented and why it’s essential for the company going forward. The comments came through in a company-wide email sent to employees just as the changes went live.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New in iTunes 11- redeem giftcards with your Mac's FaceTime camera
+title: New in iTunes 11- redeem giftcards with your Macs FaceTime camera
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/iTunes-11-camera-redeem.jpg)
 * As we’re sorting through all of the major changes in iTunes 11, the Interwebs is starting to light up with reports of the little things and nice-to-haves that Apple did not include in the full changelog for iTunes 11. One of such features that I know will be hugely popular with parents and people who buy iTunes Gift Cards is the ability to redeem any such card with your Mac’s camera, without typing in a single character, just like that. It’s just one of those little things that make life more easier and enjoyable. Here’s how it works…

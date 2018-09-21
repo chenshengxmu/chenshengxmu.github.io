@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Netflix says offline viewing is 'never going to happen'
+title: Netflix says offline viewing is never going to happen
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/10/Apple-TV-Netflix-Error-112.png)
 * Potentially crushing hopes and dreams, a Netflix executive confirmed on Wednesday the company has no plans to bring offline viewing, aka the ability to watch shows and movies without a network or Wi-Fi connection, to its customers.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: German carmakers Daimler and BMW won't be collaborating with Apple on electric car project
+title: German carmakers Daimler and BMW wont be collaborating with Apple on electric car project
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/Apple-Car-rendering-001.jpg)
 * German newspaper Handelsblatt is reporting that German carmakers Daimler and BMW won’t be collaborating with Apple on its rumored electric car, code-named Project Titan.

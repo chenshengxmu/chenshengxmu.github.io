@@ -1,6 +1,6 @@
 ---
 layout: post
-title: With few weeks until iOS 10's fall release, iOS 9 adoption hits 87 percent of devices
+title: With few weeks until iOS 10s fall release, iOS 9 adoption hits 87 percent of devices
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/08/iOS-9-adoption-rates-August-18.jpg)
 * Various editions of iOS 9 are currently installed on 87 percent of iPhone, iPad and iPod touch devices, a one-point gain versus a month ago. During the same period, iOS 8 has dropped from eleven to ten percent of devices, suggesting much of iOS 9’s growth could be owed to upgrades. Earlier editions of iOS continue to comprise about three percent of devices.

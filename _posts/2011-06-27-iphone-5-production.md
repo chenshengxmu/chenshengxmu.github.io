@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 5 Will Enter Production "in Mid to Late August," Ready for September Launch
+title: iPhone 5 Will Enter Production in Mid to Late August, Ready for September Launch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/05/iPhone-5-concept.jpg)
 * Following the iPhone 4’s first birthday earlier this month, we’re now sitting patiently awaiting the release (or at least the announcement) of Apple’s iPhone 5. The device is rumored to land this September, and backing up those rumors is some new “intelligence” obtained by one investment banker on a recent trip to Taiwan.

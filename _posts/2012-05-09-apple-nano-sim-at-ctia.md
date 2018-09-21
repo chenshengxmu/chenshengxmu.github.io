@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's modified Nano SIM gets a showing off ahead of the final vote
+title: Apples modified Nano SIM gets a showing off ahead of the final vote
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Apple-Nano-SIM-at-CTIA-image-001.jpeg)
 * An Apple-proposed variant of the upcoming Nano SIM card standard is being shown off at the International CTIA Wireless show. Apple modified the design around Nokia’s concerns and ahead of the final vote tally, which is mere days away. Voting for members of The European Telecommunications Standards Institute (ETSI) began last month and wraps up in mid-May.

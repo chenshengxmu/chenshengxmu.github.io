@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's head mobile chip designer leaves for AMD
+title: Apples head mobile chip designer leaves for AMD
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/jim-keller.png)
 * Back in June we learned that Bob Mansfield, Apple’s Senior Vice President of Hardware, would be retiring. Bob has been a familiar face on Apple’s executive team for several years, and an integral part of the success of the iPhone and iPad.

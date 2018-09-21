@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iDB 2012 holiday gift guide- Jim's budget saver picks
+title: iDB 2012 holiday gift guide- Jims budget saver picks
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/Screen-Shot-2011-12-24-at-10.31.25-PM-e1324783928454.jpg)
 * As we barrel into the holiday season at an alarming rate, I am assuming that you, like I, have not finished purchasing gifts. As an iDB reader, you know that tech gifts are the best gifts and we are hoping to make choosing a little easier. When I was little, I always preferred something cool and new under the Christmas tree. Thanks to iOS devices, there are many new ways to pick up a new innovative or interactive gift for the kids or kids-at-heart.

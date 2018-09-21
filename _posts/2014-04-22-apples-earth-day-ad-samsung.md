@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Earth Day print ad pokes fun at Samsung
+title: Apples Earth Day print ad pokes fun at Samsung
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/greenpeace-blimp.png)
 * Apple continued its Earth Day PR push this morning, taking out print ads in UK newspapers. The company has thus far painted the leaves on many of its Apple Store logos green, released a video with Tim Cook and announced a new recycling program, and today it took out full page ads to tout its environmental efforts.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Announces "Education Event" in New York City on January 19th
+title: Apple Announces Education Event in New York City on January 19th
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/apple-education.png)
 * Apple has officially announced its upcoming media event for January 19th. The previously-rumored event will focus on education and take place at the Guggenheim Museum in New York City.

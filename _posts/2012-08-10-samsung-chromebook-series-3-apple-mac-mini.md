@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung now copies Apple's Mac mini?
+title: Samsung now copies Apples Mac mini?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/Samsung-Chromebook-Series-3.jpg)
 * Amid the epic Apple v. Samsung legal fight over mobile devices, it’s easy to overlook other cases where an argument could be made that Samsung looked to Apple’s design language perhaps too closely in order to make its gear more pleasing to the eye. Enter Samsung’s Chromebox Series 3, a $300 computer running Google’s Chrome OS.

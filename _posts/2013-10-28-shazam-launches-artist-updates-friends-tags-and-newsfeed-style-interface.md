@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shazam launches artist updates, friends' tags and newsfeed-style interface
+title: Shazam launches artist updates, friends tags and newsfeed-style interface
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/Shazam-7.1-for-iOS-iPhone-screenshot-001.png)
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/Shazam-7.1-for-iOS-iPhone-screenshot-002.png)

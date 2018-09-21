@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jailbreak iOS 5 Beta 6 With RedSn0w "Jetblue Edition"
+title: Jailbreak iOS 5 Beta 6 With RedSn0w Jetblue Edition
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/05/RedSn0w-logo-e1311448227785.png)
 * Apple released iOS 5 Beta 6 to developers last Friday, and the latest beta software has already been jailbroken with Sn0wBreeze. The Dev Team has now released RedSn0w 0.9.8b6 “Jetblue Edition” for a tethered jailbreak on iOS 5 Beta 6.

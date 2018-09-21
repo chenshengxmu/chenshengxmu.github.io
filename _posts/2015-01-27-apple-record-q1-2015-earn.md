@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's record-smashing Q1 2015 earnings- 74.5M iPhones, 21.4M iPads, $74.6B revenue
+title: Apples record-smashing Q1 2015 earnings- 74.5M iPhones, 21.4M iPads, $74.6B revenue
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/apple-hq-headquarters.jpg)
 * Apple has posted its [fiscal] first quarter earnings report for 2015 this afternoon and they are incredible. The company says it sold a staggering 74.5 million iPhones and recorded $74.6 billion in revenue during the holiday-driven 3-month period.

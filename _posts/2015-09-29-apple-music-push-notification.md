@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Music free trials expiring tomorrow, here's how to disable auto-renewals
+title: Apple Music free trials expiring tomorrow, heres how to disable auto-renewals
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/Apple-Music-Likes.jpg)
 * Apple faces a big day tomorrow as free three-month Apple Music trials are set to expire on Wednesday, September 30. Just yesterday, the firm posted a series of guided tour videos to help new and existing users understand the various features of the service.

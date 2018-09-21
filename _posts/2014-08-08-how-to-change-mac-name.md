@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to change your Mac computer's name
+title: How to change your Mac computers name
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/Mac-OS-X-Tips.png)
 * While working on a series of post about Find My iPhone recently, I realized that my iMac didn’t have a specific name attached to it. When in Find My iPhone, it would just show up saying “Unknown.”. I wasn’t sure how that happened, but I knew I wanted to have a proper name for it, just so I could recognize it when looking for it on the local network.

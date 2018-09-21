@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple reveals new 'Move to iOS' app for Android switchers
+title: Apple reveals new Move to iOS app for Android switchers
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/Move-to-iOS-app-teaser-001.jpg)
 * To make life easier for people looking to switch to an iPhone and iOS 9 over from an Android device, Apple will be providing a dedicated iPhone and iPad application called ‘Move to iOS’.

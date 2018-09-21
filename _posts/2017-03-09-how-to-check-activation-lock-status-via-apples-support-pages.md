@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to check Activation Lock status via Apple's support pages
+title: How to check Activation Lock status via Apples support pages
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/activation-lock-on.jpg)
 * In January, Apple took down a web tool that allowed anyone to check status of the theft-deterrent Activation Lock feature. While the link to the iCloud Activation Lock webpage is now dead and the associated support document detailing Activation Lock no longer references the tool, UnlockBoot has discovered that potential buyers in the market for a secondhand iOS device can still check Activation Lock status by IMEI through Apple’s Support website.

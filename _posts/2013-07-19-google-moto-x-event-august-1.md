@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google to take Apple's iPhone head on- August 1 Moto X media event is a go
+title: Google to take Apples iPhone head on- August 1 Moto X media event is a go
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/eric-schmidt-moto-x-640x426.jpg)
 * Several big media reporters and technology blog editors confirmed receiving invitations from Google concerning the long awaited Moto X announcement.

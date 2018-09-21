@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DigiTimes- iPad 5 with optimized battery in September, Apple 'still adjusting' new iPad mini
+title: DigiTimes- iPad 5 with optimized battery in September, Apple still adjusting new iPad mini
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/iPad-in-hands-two-up-iPad-iPad-mini.jpg)
 * According to the supply chain sources who spoke to DigiTimes, the Taiwanese trade publication infamous for its mixed track record, Apple will release a fifth-generation 9.7-inch iPad in September. As for the second-generation iPad mini, the company is “still adjusting” that device.

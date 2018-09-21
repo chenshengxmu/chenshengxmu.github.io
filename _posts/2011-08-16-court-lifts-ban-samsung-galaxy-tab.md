@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Court Lifts Ban on Samsung Galaxy Tab Sales in Europe Due to Falsified Evidence in Apple's Case
+title: Court Lifts Ban on Samsung Galaxy Tab Sales in Europe Due to Falsified Evidence in Apples Case
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/galaxy-tab-10-1-vs-ipad-2-2-e1313507692994.jpeg)
 * Apple recently won a preliminary injunction case in Europe banning the sales of Samsung’s Galaxy Tab 10.1. Based on a case of infringed intellectual property, Apple was able to convince the court that Samsung’s tablet copied the design of the iPad too closely, and Apple requested a block of all sales in the European Union until the case could be further investigated.

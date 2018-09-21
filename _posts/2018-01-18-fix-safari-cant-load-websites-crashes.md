@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fix- Safari can't load websites or crashes
+title: Fix- Safari cant load websites or crashes
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/Safari-white-page-cant-load.jpg)
 * There are a few things you can do to troubleshoot issues with Safari when the browser can’t load a website, displays a blank page, or just unexpectedly crashes on your iPhone, iPad, or Mac. We’re going to go over these steps and hopefully fix this problem.

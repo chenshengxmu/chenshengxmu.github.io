@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AMC teases new mobile game 'The Walking Dead- No Man's Land'
+title: AMC teases new mobile game The Walking Dead- No Mans Land
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/walking-dead-amc.png)
 * AMC and Finland-based Next Games have announced an upcoming mobile title called ‘The Walking Dead: No Man’s Land.’  The partners say the game will feature gameplay exclusively developed for smartphones and tablet devices.

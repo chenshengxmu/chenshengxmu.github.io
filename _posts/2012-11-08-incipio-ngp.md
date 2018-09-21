@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Incipio's NGP case hugs the iPad mini
+title: Incipios NGP case hugs the iPad mini
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/Incipio-NGP.png)
 * Incipio, as one of the largest world-wide accessory retailers, continues its line with fresh offerings for the iPad mini. Concurrently with the launch of the mini, Incipio hit the ground running with a few of their staple cases specifically tailored for Apple’s newest iPad addition.

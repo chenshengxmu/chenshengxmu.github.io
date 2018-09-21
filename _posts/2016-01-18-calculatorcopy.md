@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mimic iOS 9.3's new Calculator app Quick Action with this tweak
+title: Mimic iOS 9.3s new Calculator app Quick Action with this tweak
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/calculatorcopy-review.png)
 * iOS 9.3 beta includes a new Quick Action feature for the Calculator app, allowing those with a 3D Touch display to press firmly on the Calculator app icon to reveal a new option: Copy Last Result.

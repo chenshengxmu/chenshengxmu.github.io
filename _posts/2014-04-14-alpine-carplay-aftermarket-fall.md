@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Alpine's upcoming $500-$700 CarPlay aftermarket kits arriving this Fall
+title: Alpines upcoming $500-$700 CarPlay aftermarket kits arriving this Fall
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/Apple-CarPlay-Honda-Music-001.jpg)
 * CarPlay, Apple’s in-car system formerly known as iOS in the Car, launched last month requiring an iPhone running iOS 7.1 and one of the compatible 2014 cars from Mercedes-Benz, Ferrari and Volvo. A bunch of other car vendors have promised to bring support for CarPlay to their vehicles throughout 2014, but not everyone is rich enough to buy a brand new car just to enjoy CarPlay.

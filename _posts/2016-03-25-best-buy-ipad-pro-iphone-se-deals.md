@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Deal- Best Buy has sweet discounts on iPhone SE, iPhone 6s, 9.7" iPad Pro and Apple Watch
+title: Deal- Best Buy has sweet discounts on iPhone SE, iPhone 6s, 9.7 iPad Pro and Apple Watch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/Best-Buy-iPhone-SE-deal-web-screenshot-001.png)
 * If you’re thinking about getting an iPhone SE or Apple’s new 9.7-inch iPad Pro, you might want to check out the new promotions over at Best Buy. The electronics retailer is currently offering notable discounts and deals on both devices, as well as on the iPhone 6s and Apple Watch.

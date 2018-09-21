@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No major labels onboard yet for Apple's radio service
+title: No major labels onboard yet for Apples radio service
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/itunes-music-e1354708397977.png)
 * Rumors have been floating around since September that Apple is working on a new Pandora-like streaming radio service. In fact, the word is that it’s almost finished, and it should be ready for launch by early 2013.

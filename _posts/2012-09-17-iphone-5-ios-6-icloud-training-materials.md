@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exclusive- Apple's iPhone 5 and iOS 6 training docs
+title: Exclusive- Apples iPhone 5 and iOS 6 training docs
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iPhone-5-teaser-the-biggest-thing-to-happen-to-iPhone-since-iPhone.jpg)
 * We’re counting down the remaining days until the official iPhone 5 launch and if analysts’ estimates and pre-orders are anything to go by, we’re looking to a massive release that should/will easily dwarf any other consumer electronics announcement in 2012.

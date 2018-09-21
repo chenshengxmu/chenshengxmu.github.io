@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'FavoriteContacts' Adds Your Favorites to Notification Center
+title: FavoriteContacts Adds Your Favorites to Notification Center
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/FavoriteContacts.png)
 * The Notification Center jailbreak widgets are really starting to pick up steam as of late, and that means that there’s a ton of new and innovative tweaks for us to cover.

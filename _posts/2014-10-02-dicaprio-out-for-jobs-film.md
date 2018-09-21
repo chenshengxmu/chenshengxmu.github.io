@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Leonardo DiCaprio out, director Danny Boyle in for Sony's Steve Jobs biopic
+title: Leonardo DiCaprio out, director Danny Boyle in for Sonys Steve Jobs biopic
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/DiCaprio-2.jpg)
 * Oscar-nominated actor Leonardo DiCaprio has withdrawn from negotiations to play Steve Jobs in Sony’s upcoming movie on the Apple founder, according to The Hollywood Reporter. The actor was slated to begin work on the film after wrapping up The Revenant, but he has instead decided to take an extended hiatus.

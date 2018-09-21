@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LivelyClock replaces the Clock app's icon label with a digital time display
+title: LivelyClock replaces the Clock apps icon label with a digital time display
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/LivelyClock-Before-and-After.jpg)
 * Looking for a way to spice up the Home screen on your jailbroken device with supplementary information? You’re in luck!

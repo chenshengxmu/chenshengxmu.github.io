@@ -1,6 +1,6 @@
 ---
 layout: post
-title: More details surface on Siri's Eyes Free feature
+title: More details surface on Siris Eyes Free feature
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/eyes-free-siri.jpg)
 * As Scott Forstall rattled off a list of Siri’s new capabilities in iOS 6, there was one particular feature that really stood out: Eyes Free. Apple will be teaming up with auto-makers to take its digital assistant act on the road.

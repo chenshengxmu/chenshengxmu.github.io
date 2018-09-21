@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video shows how 5.5" iPhone 6 would stack up against jumbo-sized Android phones
+title: Video shows how 5.5 iPhone 6 would stack up against jumbo-sized Android phones
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/5.5-inch-iPhone-6-dummy-Danny-Winget-002.jpg)
 * I wish Apple put me out of my misery and released the iPhone 6 already because an influx of videos comparing those questionable dummy units to just about anything is overwhelming me. Just this morning, for example, I pointed you to a video which shows off the supposed minor changes in the next iPad’s design.

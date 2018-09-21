@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 5 won't support concurrent voice and data on Verizon or Sprint
+title: iPhone 5 wont support concurrent voice and data on Verizon or Sprint
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iPhone-5-white-camera-closeup-001.jpg)
 * Remember back when Verizon first launched the iPhone 4? AT&T, whose network was struggling at the time, launched a campaign highlighting the fact that AT&T users could talk and browse the web at the same time, and Verizon users couldn’t.

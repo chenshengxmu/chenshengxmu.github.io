@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SoftBank completes Sprint buyout, drops the 'Nextel' name
+title: SoftBank completes Sprint buyout, drops the Nextel name
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/Softbank-logo-full-size.jpg)
 * It’s official. Sprint Nextel is now simply Sprint Corporation, as SoftBank completes its high-profile buyout of the wireless provider. Japan’s third-largest carrier now owns a controlling stake in the United States’ third-largest carrier. Fitting, isn’t it?

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Revisit the places you've been with Foursquare's new history feature (bonus- Photos extension)
+title: Revisit the places youve been with Foursquares new history feature (bonus- Photos extension)
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/04/Foursquare-9.16-for-iOS-History-tab-iPhone-screenshot-002.png)
 * Since launching in 2009, there have been over nine billion check-ins on Foursquare across the globe. Celebrating its seventh anniversary, the startup pushed an update to its mobile application on the App Store which includes a handy new history features.

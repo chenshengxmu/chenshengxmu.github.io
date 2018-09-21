@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple 'more in tune' with TVs than set-top box biz
+title: Apple more in tune with TVs than set-top box biz
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/Apple-TV-UI-Concept-image-007.jpg)
 * Wall Street investors are among those intensely interested in Apple CEO Tim Cook’s remark that the iPad maker has “intense interest” in doing something about television. One observer believes Apple wants its logo on the king of the hill, top of the heap when it comes to consumer electronics: the television set. The company has never been one to work around the edges of an industry.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's iSpaceship campus clears another Cupertino hurdle toward 2016 landing
+title: Apples iSpaceship campus clears another Cupertino hurdle toward 2016 landing
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/iSpaceship.png)
 * Apple’s over-budget and behind-schedule proposed ‘spaceship’ campus took another step closer to reality Wednesday night. The plan first outlined in 2011 by Steve Jobs cleared the planning commission of Cupertino, Calif., Apple’s homebase.

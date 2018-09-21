@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brilliant Marketing- Apple's $1 Billion Data Center Magically Appears on Google Maps
+title: Brilliant Marketing- Apples $1 Billion Data Center Magically Appears on Google Maps
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/Apple-Data-Center-Google-Maps.png)
 * Up until today, if you looked for Apple’s billion dollar data center in North Carolina on Google Maps, you could not find it. The location was there but it just showed some farmlands and nothing much around.

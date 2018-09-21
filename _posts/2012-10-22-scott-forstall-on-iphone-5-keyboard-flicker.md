@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Forstall says iPhone 5 keyboard flickering is a software glitch, promises fix
+title: Apples Forstall says iPhone 5 keyboard flickering is a software glitch, promises fix
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/iPhone-5-keyboard-flickering.jpg)
 * If a growing thread on Apple’s discussion forum is anything to go by, a bunch of iPhone 5 owners continue to complain about an annoying flickering thing which apparently manifests itself when the software keyboard pops up on the App Store password entry dialog box.

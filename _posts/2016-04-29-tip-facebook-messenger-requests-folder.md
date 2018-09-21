@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tip- find tons of messages you didn't know existed inside Messenger's secret folder
+title: Tip- find tons of messages you didnt know existed inside Messengers secret folder
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/04/Facebook-Messenger-teaser-001.jpg)
 * What if I told you that you most likely have tons of messages you didn’t even know existed, stowed away in a little-known folder on Facebook?

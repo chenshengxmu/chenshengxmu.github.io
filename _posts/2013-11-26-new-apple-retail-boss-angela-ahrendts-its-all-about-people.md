@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Apple retail boss Angela Ahrendts- 'it's all about people'
+title: New Apple retail boss Angela Ahrendts- its all about people
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/Angela-Ahrendts1.gif)
 * Angela Ahrendts, the outgoing chief executive officer of Burberry Group Plc and Apple’s incoming head of Retail and online Apple Stores, has penned a rather interesting little post over at LinkedIn. The article deals with following one’s gut instinct and hints at what we might expect from her after she joins Apple a few months from today.

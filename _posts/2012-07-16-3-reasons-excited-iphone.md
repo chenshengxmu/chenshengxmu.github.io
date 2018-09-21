@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 reasons to get excited about this year's iPhone
+title: 3 reasons to get excited about this years iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/iphone-5-render.png)
 * It’s October 4th, 2011, and Apple is hosting its highly anticipated iPhone event. SVP of Marketing Phil Schiller is on stage, and after about 5 minutes of discussing changes to the iPod line, he utters the words that everyone has been waiting to hear: “Next, iPhone.”

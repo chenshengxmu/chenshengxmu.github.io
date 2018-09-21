@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Verizon wins approval for $130 billion purchase of Vodafone's stake in VZW
+title: Verizon wins approval for $130 billion purchase of Vodafones stake in VZW
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/Verizon-Wireless-store-interior-001.jpg)
 * Back in September, Verizon announced that it had reached an agreement with Vodafone to purchase its 45% stake in Verizon Wireless. The carrier, which was founded in April of 2000, has thus far been a joint venture between the two companies.

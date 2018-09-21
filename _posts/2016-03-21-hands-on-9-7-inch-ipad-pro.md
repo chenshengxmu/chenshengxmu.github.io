@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Roundup- first impressions of Apple's new 9.7-inch iPad Pro
+title: Roundup- first impressions of Apples new 9.7-inch iPad Pro
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/9.7-ipad-pro-with-pencil.jpg)
 * Apple announced its new 9.7-inch iPad Pro on Monday at the ‘Let us loop you in’ event, and although the tablet is already gaining a lot of hype for its on-par hardware and lower price from its bigger brother, you’re still probably wondering just how powerful the little brother of the most powerful iPad ever made actually is.

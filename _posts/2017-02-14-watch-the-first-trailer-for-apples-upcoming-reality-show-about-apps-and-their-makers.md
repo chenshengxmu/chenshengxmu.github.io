@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Watch the first trailer for Apple's upcoming reality show about apps and their makers
+title: Watch the first trailer for Apples upcoming reality show about apps and their makers
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/07/planet-of-apps.png)
 * Eddy Cue, Apple’s Senior Vice President in charge of Internet software, services and major content deals, was joined onstage during last night’s Code Media conference by Propagate CEO Ben Silverman, who took the opportunity to play the first official trailer and share a few previously unknown tidbits regarding “Planet of the Apps”.

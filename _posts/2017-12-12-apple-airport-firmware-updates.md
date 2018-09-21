@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's released firmware updates for AirPort base stations fixing KRACK Wi-Fi vulnerability
+title: Apples released firmware updates for AirPort base stations fixing KRACK Wi-Fi vulnerability
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/AirPort-Time-Capsule-mid-2013-image-004.jpg)
 * Apple may have stopped developing its AirPort-branded wireless base station devices, but it certainly continues to support users with timely software updates. Just today, they released new firmwares for the AirPort Express, Extreme and Time Capsule base stations.

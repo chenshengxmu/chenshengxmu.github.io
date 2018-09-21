@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The real impact of Apple's iOS 7 controller support
+title: The real impact of Apples iOS 7 controller support
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/gaming.jpg)
 * Before I started blogging about Apple, I used to work on a number of different gaming websites back in the late 90’s and early 2000’s. The E3 gaming conference was one the highlights of my year, and I regularly ventured out to Los Angeles to cover all of the new releases that were revealed at this touchstone of an event. I even made sure to fly out to Tokyo to cover the Tokyo Games Show before it turned into the shell of its former self that it is today.

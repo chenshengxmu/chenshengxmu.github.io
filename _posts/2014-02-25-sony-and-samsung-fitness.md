@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung introduces new 'Gear Fit' fitness tracker
+title: Samsung introduces new Gear Fit fitness tracker
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/gear-fit-2.jpg)
 * As Apple and Google prepare their entries into the rising wearables space, Samsung introduced 3 new products into its already-seasoned line of smartwatches at Mobile World Congress this week. There’s the Gear 2 and the Gear 2 Neo, and now we have the Gear Fit.

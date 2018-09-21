@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPad mini reportedly accounted for over 60% of Apple's tablet sales last quarter
+title: iPad mini reportedly accounted for over 60% of Apples tablet sales last quarter
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/iPad-mini-box.jpg)
 * The iPad mini has been extremely successful for Apple since it launched late last year. How successful? Well according to a new report, it accounted for more than 60% of the 19.5 million tablets the company sold last quarter.

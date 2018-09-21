@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to hide iPhone X's notch on the Lock and Home screen with Notch Remover
+title: How to hide iPhone Xs notch on the Lock and Home screen with Notch Remover
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/iPhone-X-Notch-e1507905012852.png)
 * Can’t stand that notch at the very top of the iPhone X display? I don’t mind it at all. In fact, I find the notch to be a rather cute design element. Understandably, some folks may deem it visually distracting. If you’d like to conceal the notch, there’s now an app for that, too!

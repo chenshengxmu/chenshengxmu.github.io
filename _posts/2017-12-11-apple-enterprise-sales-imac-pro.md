@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple asking enterprise clients about custom iMac Pro configurations they'd like to order
+title: Apple asking enterprise clients about custom iMac Pro configurations theyd like to order
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/new_2017_imac_pro_accessories.jpg)
 * Apple’s sales channels have reportedly been contacting the company’s enterprise customers as part of preparations for the upcoming iMac Pro launch later this month, inquiring about specific configurations that clients would like to order.

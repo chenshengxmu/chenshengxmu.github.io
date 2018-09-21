@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Says "We Love Our Users". I Say They Hate Bad Publicity
+title: Apple Says We Love Our Users. I Say They Hate Bad Publicity
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/07/We-Love-Our-Users.jpg)
 * At the conference about the iPhone 4 antenna issue today, Apple announced that it will be giving away free cases to iPhone 4 owners. Even though they don’t admit that the iPhone 4 has a problem with the antenna, Apple said they do all this because they love their users.

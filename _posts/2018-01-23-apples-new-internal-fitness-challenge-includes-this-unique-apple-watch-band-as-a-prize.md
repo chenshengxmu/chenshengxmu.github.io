@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's new internal fitness challenge includes this unique Apple Watch band as a prize
+title: Apples new internal fitness challenge includes this unique Apple Watch band as a prize
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/Apple-Watch-Activity-Challenge-Special-Edition-Band.jpg)
 * For Apple’s second annual internal Activity challenge, a new prize will be included for those who earn the gold. A custom black nylon strap with an activity ring-themed loop that won’t be available for purchase.

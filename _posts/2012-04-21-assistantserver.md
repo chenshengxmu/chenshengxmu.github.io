@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AssistantServer Installer' brings half baked Siri experience to older iOS devices
+title: AssistantServer Installer brings half baked Siri experience to older iOS devices
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/AssistantServer-Installer_1.jpg)
 * If you don’t have an iPhone 4S, but still want to experience Siri, chances are you’ve already done so through one of a variety of existing methods.

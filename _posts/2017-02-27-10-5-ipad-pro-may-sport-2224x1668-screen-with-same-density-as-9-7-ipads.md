@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 10.5" iPad Pro may sport 2,224×1,668 screen with same density as 9.7" iPads
+title: 10.5 iPad Pro may sport 2,224×1,668 screen with same density as 9.7 iPads
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/Both-iPad-Pro.jpg)
 * Rhoda Alexander, IHS Markit’s director in charge of tablets and PCs, shared some interesting observations with Forbes over the weekend regarding Apple’s rumored new bezel-less iPad Pro model which, according to other analysts, would house a display measuring 10.5 inches inside a body the same size as 9.7-inch iPads.

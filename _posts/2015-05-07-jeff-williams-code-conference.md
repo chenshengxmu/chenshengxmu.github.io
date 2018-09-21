@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's op-chief Jeff Williams confirmed to speak at second Code Conference
+title: Apples op-chief Jeff Williams confirmed to speak at second Code Conference
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/jeff-williams.png)
 * Jeff Williams, Apple’s Senior Vice President of Operations and the guy in charge of the development of the Apple Watch, is scheduled to speak at Re/code’s Code Conference later this month, the publication confirmed Thursday morning.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: High iPhone 5 repair costs blamed on Apple's tight components control
+title: High iPhone 5 repair costs blamed on Apples tight components control
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iPhone-5-introduction-video-parts-002.jpg)
 * Eight months into its September 2012 launch, Apple’s iPhone 5 is still a pricey gadget to service.

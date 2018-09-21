@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Taiwanese pop idol claims he's been photographed using dual-lens 5.5" iPhone 7 Plus
+title: Taiwanese pop idol claims hes been photographed using dual-lens 5.5 iPhone 7 Plus
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/08/Jimmy-Lin-iPhone-7-Plus.png)
 * Taiwanese pop singer, actor and race car driver Jimmy Lin is certainly no stranger to publicity stunts involving Apple leaks. In September 2012, for instance, Chinese social media lit up as he posted photos of himself using a then-unreleased iPhone 5.

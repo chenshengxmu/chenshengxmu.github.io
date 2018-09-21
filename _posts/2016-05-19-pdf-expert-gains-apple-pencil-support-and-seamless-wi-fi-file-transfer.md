@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Readdle's PDF Expert 5 gains Apple Pencil support and seamless Wi-Fi file transfer
+title: Readdles PDF Expert 5 gains Apple Pencil support and seamless Wi-Fi file transfer
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/PDF-Expert-for-iOS-Apple-Pencil-support-003.jpg)
 * Now you can take the most from your Apple Pencil and iPad Pro with a new version of Readdle’s PDF Expert for iPhone, iPod touch and iPad, which was pushed to the App Store this morning.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple announces iOS 6, the world's most advanced mobile operating system
+title: Apple announces iOS 6, the worlds most advanced mobile operating system
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/ios_6_banner-5.jpg)
 * Here we are monitoring the WWDC keynote where Apple’s iOS chief SCott Forstall just announced iOS 6, as previously confirmed on WWDC banners. It comes with over 200 new features, including some Siri-ous advancement to Apple’s digital secretary which can now tell you sports scores, for example…

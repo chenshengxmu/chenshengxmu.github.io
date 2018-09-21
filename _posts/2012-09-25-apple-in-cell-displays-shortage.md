@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Report- Apple's in-cell displays causing iPhone 5 delays
+title: Report- Apples in-cell displays causing iPhone 5 delays
 ---
 * The answer to the question ‘where’s my iPhone 5?’ may have an answer. The smartphone’s advanced display technology is so complex that one supplier was slowed by defective screens, one Wall Street analyst said Tuesday.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/apple-thumbs-ad.png)

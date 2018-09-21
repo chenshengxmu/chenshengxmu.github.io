@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review- Moment's wide angle V2 lens take mobile photography to the next level
+title: Review- Moments wide angle V2 lens take mobile photography to the next level
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/Moment-Wide-Angle-Lens-on-Photo-Case.jpg)
 * Moment has updated their stunning and vastly popular wide angle lens with several important changes that greatly improve its performance, especially on the iPhone 7 Plus.

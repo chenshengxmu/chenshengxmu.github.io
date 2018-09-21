@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New in iOS 5- 'Find on Page' Search from iPad Keyboard
+title: New in iOS 5- Find on Page Search from iPad Keyboard
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/iOS-5-Find-on-iPad.png)
 * The “Find on Page” feature in Safari isn’t new, as it was introduced with iOS 4.2. Up until iOS 5, to use this feature, you had to tap the “Google” search bar at the top right and start typing. As Google gave you suggestions, you also had the “on this page” option appearing at the bottom.

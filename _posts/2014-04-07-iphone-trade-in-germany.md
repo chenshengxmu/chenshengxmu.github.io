@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's iPhone trade-in program extends to Germany
+title: Apples iPhone trade-in program extends to Germany
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/iPhone-trade-in-Germany-001.png)
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/iPhone-trade-in-Germany-002.png)

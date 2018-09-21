@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Claimed photos of 4.7" iPhone 6 front panel and batteries surface
+title: Claimed photos of 4.7 iPhone 6 front panel and batteries surface
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/iPhone-6-batteries-on-production-tray-NowhereElse.fr-001.jpg)
 * Another day, another iPhone 6 leak. Two separate reports Tuesday claim to show what seem to be iPhone 6 components in a production setting. The first set shows off a genuine looking front panel part, depicting the size difference between the current four-inch form factor and the upcoming iPhone 6, said to come in 4.7 and 5.5-inch flavors.

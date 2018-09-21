@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Where exactly is 2018 MacBook Pro's True Tone sensor located?
+title: Where exactly is 2018 MacBook Pros True Tone sensor located?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/macOS-Mojave-System-Preferences-Display-True-Tone.jpg)
 * Apple’s True Tone technology debuted in 2016’s 9.7-inch iPad Pro before it got subsequently added to the latest iPhones and pro notebooks. True Tone on 2018’s MacBook Pros takes advantage of a multi-channel ambient light sensor found next to the built-in FaceTime camera.

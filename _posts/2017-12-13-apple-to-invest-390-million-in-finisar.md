@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple to invest $390 million in the supplier of VCSEL lasers for iPhone X's TrueDepth camera
+title: Apple to invest $390 million in the supplier of VCSEL lasers for iPhone Xs TrueDepth camera
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/Finisar-Corp-005.jpg)
 * The United States-based supplier Finisar Corp will receive a cool $390 million investment from Apple’s Advanced Manufacturing Fund which was set up back in the summer to help create manufacturing jobs in the country.

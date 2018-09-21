@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung dissing Apple's Maps in Sidney
+title: Samsung dissing Apples Maps in Sidney
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/Samsung-anti-Apple-Maps-street-sign-image-001.jpg)
 * You can’t blame Samsung’s marketing team for pouncing on Apple’s every misstep. Remember the Apple Maps snafu in Australia that led to the police issuing a public warning advising against using the mapping product because it incorrectly placed the town of Mildura in the middle of Australia’s Murray Sunset National Park? Seen at the top is a new display banner found on Sydney’s George Street.

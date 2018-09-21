@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This tweak removes the "Share This App" option from 3D Touch app shortcuts
+title: This tweak removes the Share This App option from 3D Touch app shortcuts
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/NoSharePlz.png)
 * When Apple initially started adding support for 3D Touch to apps on the Home screen in iOS 9, there were some that supported the feature, and some that didn’t. Then came iOS 10, where Apple attempted to make the feature more ‘useful’ for apps that didn’t utilize 3D Touch in creative ways by adding the “Share This App” menu option to those apps.

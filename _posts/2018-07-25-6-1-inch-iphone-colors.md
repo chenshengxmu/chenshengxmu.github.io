@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New report claims 6.1" LCD iPhone will be offered in colors similar to Apple's leather cases
+title: New report claims 6.1 LCD iPhone will be offered in colors similar to Apples leather cases
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/iPhone-X-leather-case-001.jpg)
 * The rumored budget iPhone with a 6.1-inch LCD screen is expected to launch in multiple colors, according to influential analyst Ming-Chi Kuo, and now a new report offers additional info.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Case maker's iPhone 6 model hints at a larger display, thinner design
+title: Case makers iPhone 6 model hints at a larger display, thinner design
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/elamiphone6case.jpg)
 * Most of the reports we’ve seen thus far regarding the iPhone 6 point to a larger display and much thinner profile. And earlier today, our friends over at Nowhereelse.fr posted new evidence to support that theory: a case maker’s model for the handset from Chinese case manufacturer Elam.

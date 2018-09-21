@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's latest machine learning articles detail Siri's new synthetic voices
+title: Apples latest machine learning articles detail Siris new synthetic voices
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/Apple-Machine-Learning-Journal-web-screenshot-002.jpg)
 * Apple on Wednesday published three new articles detailing the deep learning techniques used for the creation of Siri’s new synthetic voices. The write-ups also cover other machine learning topics it’ll be sharing later this week at the Interspeech 2017 conference in Stockholm, Sweden.

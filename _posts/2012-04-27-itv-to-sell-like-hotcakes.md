@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Analyst- iTV to be "a big seismic shift" in TV biz, gonna sell like hotcakes
+title: Analyst- iTV to be a big seismic shift in TV biz, gonna sell like hotcakes
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/itv.jpg)
 * The first quarter of 2012 saw Apple sell more than 50 million iOS devices, 11.8 million of which were iPads. But even at a high-price of an estimated $2,000, a rumored full-blown television set from Apple is projected to sell faster than the popular iPad, which begins at $499 for the third-gen model, or $399 in the case of the discounted WiFi-only iPad 2.

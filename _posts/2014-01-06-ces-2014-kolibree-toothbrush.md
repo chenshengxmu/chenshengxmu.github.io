@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CES 2014- Kolibree unveils world's first app-enabled wireless toothbrush
+title: CES 2014- Kolibree unveils worlds first app-enabled wireless toothbrush
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/Kolibree-Toothbrush-image-001.jpg)
 * Last year’s CES brought us the Hapifork smart fork from Hapilabs and this time around the French startup Kolibree is bringing what appears to be the world’s first app-connected sonic electric toothbrush. Yup, you read that right.

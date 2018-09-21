@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Infuse's first 2018 update brings iPhone X black mode & customizable home screen favorites
+title: Infuses first 2018 update brings iPhone X black mode & customizable home screen favorites
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/Infuse-for-iOS-dark-mode-001.jpg)
 * Earlier in the morning, aTV Flash Black developers FireCore released Infuse 5.6.7, their versatile media player app for iPhone, iPad and Apple TV, with new features like a true black mode for iPhone X, customizable home screen favorites and other improvements.

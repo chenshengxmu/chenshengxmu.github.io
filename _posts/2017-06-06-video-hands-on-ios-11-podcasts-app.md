@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hands-on with iOS 11's overhauled Podcasts app
+title: Hands-on with iOS 11s overhauled Podcasts app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/iOS-11-Podcasts-app-iPhone-screenshot-001.jpg)
 * Apple’s stock Podcasts app has undergone some visual changes in iOS 11. Functionally, a few things have moved around and some new features have been added.

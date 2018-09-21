@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to find your HomePod's serial number and iOS software version
+title: How to find your HomePods serial number and iOS software version
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/02/HomePod-teardown-iFixit-009.jpg)
 * HomePod runs a custom-made version of the iOS mobile operating system.

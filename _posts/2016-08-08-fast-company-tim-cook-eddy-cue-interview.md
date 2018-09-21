@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You'll be surprised to learn why Apple provides public iOS betas
+title: Youll be surprised to learn why Apple provides public iOS betas
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/08/Tim-Cook-Joao-Canziani-photo-Fast-Company.jpg)
 * Fast Company today published a wide ranging interview with Apple’s boss Tim Cook, software boss Craig Federighi and Eddy Cue, who is in charge of Internet software and services, that touches upon a number of interesting topics, including competition, iPhone sales slowdown, why public iOS betas exist (the real reason is now what you think) and more.

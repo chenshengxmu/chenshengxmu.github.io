@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NYT- Apple's car ambitions scaled back to in-house campus shuttle service
+title: NYT- Apples car ambitions scaled back to in-house campus shuttle service
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/04/Apple-Car-concept-DriversMagazine-001.jpg)
 * Project Titan, Apple’s secretive automotive initiative, switched gear a year ago to re-focus from building actual car hardware to designing autonomous driving technology.

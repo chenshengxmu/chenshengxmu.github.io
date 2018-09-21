@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CES 2014- NueVue's new cases claim to remove 99% of bacteria on iDevice screens
+title: CES 2014- NueVues new cases claim to remove 99% of bacteria on iDevice screens
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/NueVue-antimicrobial-cases-teaser-001.png)
 * Case maker NueVue at CES 2014 unveiled a new line of cases which it claims have been designed to remove up to 99 percent of bacteria residing on the surface of your iPhone and iPad’s screen. The cases clean the screen and offer antimicrobial protection every time you remove the device.

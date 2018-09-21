@@ -1,6 +1,6 @@
 ---
 layout: post
-title: These leadership tips explain why Steve Jobs was the world's best CEO
+title: These leadership tips explain why Steve Jobs was the worlds best CEO
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/sjobs1.jpg)
 * Steve Jobs used to be frequently named the world’s best CEO – and for a number of reasons, too. Apple’s co-founder was (in)famous for his unique corporate style that flies against just about every conventional management lesson taught at universities. Indeed, one could learn a lot about business and life in general from Steve.

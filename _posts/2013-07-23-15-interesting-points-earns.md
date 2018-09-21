@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 15 interesting points from today's earnings call
+title: 15 interesting points from todays earnings call
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/Apple-Store-Side-logo-San-Francisco.jpg)
 * Apple just announced its earnings for its June quarter, and despite all of the ‘doom’ talk and lowball analyst predictions, the numbers are actually pretty good. In fact, the company set a record for iPhone sales during the 3-month period.

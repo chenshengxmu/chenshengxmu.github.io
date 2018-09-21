@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Montblanc debuts new 'e-Strap' smart band for traditional watches
+title: Montblanc debuts new e-Strap smart band for traditional watches
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/montblanc-e1420239107415.jpeg)
 * Luxury brand Montblanc has announced its first foray into the booming wearables market with the ‘e-Strap’. The German company, which is known for making fine pens, watches and other jewelry, hopes the accessory will allow traditional mechanical watches and wearable tech to co-exist.

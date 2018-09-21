@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google unveils new unified 'Hangouts' messaging service for iOS, Android
+title: Google unveils new unified Hangouts messaging service for iOS, Android
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/google-hangouts.png)
 * Google’s I/O keynote is still ongoing, and the company just unveiled a major new service: Hangouts. Originally rumored to be called ‘Babel,’ Hangouts is a cross-platform messaging system that will take the place of Google Talk, Google+ Messenger, Google+ Hangout video chat, and pretty much everything else.

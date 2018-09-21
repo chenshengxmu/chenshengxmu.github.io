@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Evernote launches 'Scannable' iOS app for automatic document scanning
+title: Evernote launches Scannable iOS app for automatic document scanning
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/scannable-1.png)
 * Evernote today released a new app for scanning various types of documents called Evernote Scannable. The app, which has been in beta for several months, is capable of scanning and managing contracts, receipts, business cards, and virtually any other kind of paper item you can think of.

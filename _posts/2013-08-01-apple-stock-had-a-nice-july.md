@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's stock had a nice little July, but why?
+title: Apples stock had a nice little July, but why?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/aapl-july.png)
 * At the time of this writing, Apple’s stock is hovering around $456 per share. While that’s still painfully lower than its peak of $702 back in September of last year, it’s a major improvement over the $398 per share low it hit last month. So what happened?

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New snoozing and attachment options go live in Readdle's Spark email app
+title: New snoozing and attachment options go live in Readdles Spark email app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/12/Spark-1.4-for-iOS-Snooze-options-001.png)
 * Just a few days after adding support for Microsoft Exchange accounts for work-related emails, Readdle’s popular Spark email app for the iPhone received another major update in the App Store last evening.

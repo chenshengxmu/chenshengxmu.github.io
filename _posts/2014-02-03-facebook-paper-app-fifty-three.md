@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Facebook refuses to change Paper app's name following FiftyThree's objection
+title: Facebook refuses to change Paper apps name following FiftyThrees objection
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/Facebook-Paper-1.0-for-iOS-iPhone-screenshot-002.jpeg)
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/Facebook-Paper-1.0-for-iOS-iPhone-screenshot-003.jpeg)

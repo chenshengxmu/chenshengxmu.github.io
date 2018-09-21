@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tweetbot 3 updated with support for new 'Quote Tweet' feature
+title: Tweetbot 3 updated with support for new Quote Tweet feature
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/05/tweet-2.png)
 * The Tapbots issued an update for their iPhone Twitter client Tweetbot 3 today, bringing the app to version 3.6. The release includes a number of bug fixes, and it adds support for the new ‘Quote Tweet’ feature Twitter rolled out last month.

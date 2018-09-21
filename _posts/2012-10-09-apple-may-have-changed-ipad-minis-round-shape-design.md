@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple may have changed the iPad mini's round shape design
+title: Apple may have changed the iPad minis round shape design
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/iPad-mini-mockup-wretch.cc-002.jpg)
 * Apple tomorrow is allegedly expected to invite select members of the press to an iPad mini-focused media event, likely to be held at some point next week. With part leaks, dummies, schematics, mockups, gorgeous renders and news of manufacturing ramp up all leaking on a daily basis, you’d be forgiven for thinking that the iPad mini design has been set in stone weeks ago.

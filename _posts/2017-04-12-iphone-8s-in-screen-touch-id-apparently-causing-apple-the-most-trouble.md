@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 8's in-screen Touch ID apparently causing Apple the most trouble
+title: iPhone 8s in-screen Touch ID apparently causing Apple the most trouble
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/04/iPhone-8-concept-Martin-Hajek-for-Computer-Bild-image-003.jpg)
 * We heard before that iPhone 8 could get delayed due to various technical issues stemming from a new augmented-reality 3D camera system, the lamination process of curved organic light-emitting diode (OLED) panels and a new thin-film 3D Touch system.

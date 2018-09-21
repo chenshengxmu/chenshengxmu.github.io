@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On clueless analysts and iTV being such a "terrible use of retail space"
+title: On clueless analysts and iTV being such a terrible use of retail space
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Apple-television-mockup-Dan-Draper-002.jpeg)
 * Pacific Crest’s Andy Hargreaves wins the coveted title for this week’s Most Idiotic Analysis concerning a rumored HD TV television set from Apple, aptly dubbed by the press the iTV.

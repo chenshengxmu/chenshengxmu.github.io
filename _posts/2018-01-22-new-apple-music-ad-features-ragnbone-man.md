@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Apple Music ad features Rag'n'Bone Man
+title: New Apple Music ad features RagnBone Man
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/Apple-Music-rag-n-bone-man-video.jpg)
 * Apple United Kingdom on Monday posted a new promotional video for Apple Music to its YouTube channel. Running thirty seconds long, the video features Rag’n’Bone Man aka Rory Charles Graham, a UK-born singer and songwriter known for his deep, soulful, bluesy vocals.

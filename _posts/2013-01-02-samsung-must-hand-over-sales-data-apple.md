@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Court won't seal Samsung sales data
+title: Court wont seal Samsung sales data
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/Apple-v-Samsung-trial-sign.jpg)
 * Samsung of South Korea has lost its bid to keep court records sealed indicating how many products were sold. The ruling by a San Jose, California federal judge denied the request, writing the information required by the court does not reveal product pricing or profit information. However, U.S. District Judge Lucy Koh, still deliberating whether Apple should receive additional damages to the $1.05 billion awarded in August, did seal a document showing Samsung operating profit for two phones, according to a report from yesterday…

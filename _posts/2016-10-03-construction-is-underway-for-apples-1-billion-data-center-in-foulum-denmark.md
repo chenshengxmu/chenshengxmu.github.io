@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Construction is underway for Apple's $1 billion data center in Foulum, Denmark
+title: Construction is underway for Apples $1 billion data center in Foulum, Denmark
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/Apple-data-center-Denmark.png)
 * In February of last year, the Cupertino firm announced that it will be spending to the tune of two billion dollars on the construction of two huge data centers in Ireland and Denmark that will make iCloud and other services more performant and reliable for European customers. As per The Copenhagen Post, the Denmark facility is located in Foulum.

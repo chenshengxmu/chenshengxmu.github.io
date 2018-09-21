@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I'm Listening- Share your now playing track from anywhere
+title: Im Listening- Share your now playing track from anywhere
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/Im-Listening-Featured.jpg)
 * Are you finding that iOS’ options are a bit limited when it comes sharing information about the music you’re currently listening to? If so, then I’m Listening might be the jailbreak tweak for you.

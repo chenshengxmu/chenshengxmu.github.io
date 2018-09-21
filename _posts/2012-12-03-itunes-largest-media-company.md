@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iTunes ranks among the world's largest media companies
+title: iTunes ranks among the worlds largest media companies
 ---
 * Apple revolutionized the music industry when it first introduced the iTunes Music Store back in 2003. At the time, people were either spending $10-$15 for a CD, or pirating their music from a p2p service like BearShare. And iTunes came in and changed all that.
 * Since then, Apple has really turned the Store into a media empire. It added TV shows in 2005, movies in 2006, apps in 2008 and then books and magazines shortly after. Today, Apple’s iTunes business ranks among some of the world’s largest media companies…

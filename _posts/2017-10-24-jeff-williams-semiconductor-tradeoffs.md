@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's op-chief says tradeoff between speed and battery life no longer necessary
+title: Apples op-chief says tradeoff between speed and battery life no longer necessary
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/Jeff-Williams.png)
 * Jeff Williams, Apple’s Chief Operating Officer under CEO Tim Cook since December 2015, made some interesting comments during his trip to Taipei for the 30th anniversary of Taiwan Semiconductor Manufacturing Company (TSMC), Apple’s key chip-making partner.

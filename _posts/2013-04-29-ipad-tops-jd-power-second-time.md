@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPad tops JD Power's satisfaction scores for second time
+title: iPad tops JD Powers satisfaction scores for second time
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/iPad-finger-touching-e1313459827308.jpeg)
 * After topping J.D. Power and Associates’ customer satisfaction rankings for smartphones for the ninth consecutive study, Apple’s iPad has now emerged victorious in JD Power’s February 2013 tablet rankings. Specifically, the iPad recorded a score of 836 on JD Power’s overall TabletIndex Rankings.

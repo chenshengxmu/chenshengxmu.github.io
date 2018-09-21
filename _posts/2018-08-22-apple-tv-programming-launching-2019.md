@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Another confirmation that Apple's original TV programming is launching in 2019
+title: Another confirmation that Apples original TV programming is launching in 2019
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/10/Apple-TV-4-watching-movies-lifestyle-001.jpg)
 * Apple is working on more than two-dozen television shows that The New York Times has learned are going to launch as part of the tech giant’s upcoming television offering some time in 2019, setting the Cupertino company squarely against the streaming leader Netflix.

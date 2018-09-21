@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thieving Christmas Scrooge Gets Caught By Stealing Neighbor's iPad
+title: Thieving Christmas Scrooge Gets Caught By Stealing Neighbors iPad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/find-my-ipad1.jpg)
 * This isn’t the first time that Apple’s Find my iPhone service has helped to recover a lost device, but with Christmas involved in this particular story (as well as a resoundingly happy ending) we thought we would share it.

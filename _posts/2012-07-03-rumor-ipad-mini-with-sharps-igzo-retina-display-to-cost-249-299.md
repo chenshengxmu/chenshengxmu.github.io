@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rumor- iPad mini with Sharp's IGZO Retina display to cost $249-$299
+title: Rumor- iPad mini with Sharps IGZO Retina display to cost $249-$299
 ---
 * If you believe the rumor-mill, smaller iPads have been spotted at Apple. And if you believe the usually  cred§ible Wall Street Journal, Apple’s in fact been developing a shrunken iPad to address the low-to-mid range of the market. And with Amazon’s Kindle Fire and now Google’s Nexus 7 tablet fighting for these customers, no wonder the iPad mini rumors are beginning to surface all over again…
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/ipad-mini-update.jpg)

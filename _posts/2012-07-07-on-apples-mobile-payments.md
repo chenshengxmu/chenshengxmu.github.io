@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Apple's plans for a mobile payment system
+title: On Apples plans for a mobile payment system
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/iphone-5-white-3.jpg)
 * There have been a few rumors bouncing around the Apple community for the last two years that just won’t die out. Among them is the iPhone-embedded, iTunes-based mobile payment system. Pundits believe that Apple, and its 400 million iTunes accounts, has the ability to kickstart the struggling mobile payment industry.

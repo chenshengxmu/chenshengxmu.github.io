@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's Talk Jailbreak- 2015 jailbreak awards, new jailbreak teased on video, new Activator beta, and more
+title: Lets Talk Jailbreak- 2015 jailbreak awards, new jailbreak teased on video, new Activator beta, and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/Lets-Talk-Jailbreak-banner.png)
 * Episode 141: The 2015 jailbreak award winners are discussed, a new jailbreak is shown off on video, the App Admin downgrade tweak is updated with new features, how to access your iPhone’s flashlight with your mute switch, and a new Activator beta adds Apple Watch-specific features.

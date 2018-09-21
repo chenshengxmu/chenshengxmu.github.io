@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Working On Siri Clone Codenamed "Majel"
+title: Google Working On Siri Clone Codenamed Majel
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/android-jetpack_616-e1323892260629.jpg)
 * Google is reportedly working on its own version of Siri for upcoming Android devices. The project has been given the internal codename of “Majel” (a reference to Majel Barrett-Roddenberry, the Federation Computer from Star Trek) and is meant to be an evolution of the current voice recognition technology in Android, Voice Actions.

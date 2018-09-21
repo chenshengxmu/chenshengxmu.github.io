@@ -1,6 +1,6 @@
 ---
 layout: post
-title: European Commission green-lights Apple's $3B Beats buy
+title: European Commission green-lights Apples $3B Beats buy
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/Beats-Music-Windows-Phone-Android-iOS-001.png)
 * The European Commission has okayed Apple’s purchase of the Beats Music streaming-music service and Beats Electronics’ premium headphone business, concluding that the agreement would not be detrimental to consumers across Europe. This is an important though expected development as Apple hopes to complete the $3 billion transaction by the end of the September quarter, pending regulatory approval in the United States…

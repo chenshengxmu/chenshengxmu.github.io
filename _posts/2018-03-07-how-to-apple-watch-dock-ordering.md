@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to organize apps in your Apple Watch's Dock by recents or favorites
+title: How to organize apps in your Apple Watchs Dock by recents or favorites
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/Apple-Watch-Series-3-Nike-Plus-edition-teaser-001.jpg)
 * By default, the Dock on your Apple Watch shows your most recently used apps.

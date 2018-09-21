@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple pushing to open Arizona sapphire plant to start producing 'critical' component
+title: Apple pushing to open Arizona sapphire plant to start producing critical component
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/GT-Advanced-furnaces-Pocketnow-001.jpg)
 * By now, most of you have probably heard that Apple has teamed up with manufacturing partner GT Advanced Technologies to open up a plant in Mesa, Arizona for producing sapphire. The plant is nearly ready to open, and Apple has already begun hiring engineers.

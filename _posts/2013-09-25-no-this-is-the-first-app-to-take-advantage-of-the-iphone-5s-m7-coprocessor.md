@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No, THIS is the first app to take advantage of the iPhone 5s' M7 coprocessor
+title: No, THIS is the first app to take advantage of the iPhone 5s M7 coprocessor
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/Argus-Motion-Activity-setting.png)
 * Earlier today we ran a story about Strava Run, a fitness tracking app that tracks your runs and analyses your performances. Like many other media outlet, we believed Strava was the first app available in the App Store to take full advantage of the iPhone 5s new M7 coprocessor.

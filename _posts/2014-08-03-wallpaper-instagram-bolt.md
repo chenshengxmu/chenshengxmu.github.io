@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Instagram's Bolt wallpapers
+title: Instagrams Bolt wallpapers
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/bolt_app_wallpaper_elegance_series_by_jason_zigrino-splash.jpg)
 * As with previous Wallpaper of the Week editions, there is a desire to populate relevant media to the section. Typically, the section is completed with wallpapers by theme or genre. Alternatively, when there are time related walls, we like to make sure they spot light on the Sunday afternoon post.

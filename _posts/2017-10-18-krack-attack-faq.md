@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's what you need to know about the KRACK Wi-Fi vulnerability
+title: Heres what you need to know about the KRACK Wi-Fi vulnerability
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/Unsecure-iPhone.jpg)
 * If you’ve been reading the news this week, then you’ve probably caught wind of the KRACK (Key Reinstallation AttaCK) vulnerability, which implies some serious security concerns for almost anyone utilizing Wi-Fi networks at home or work.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chrome's share of total iOS web traffic doubles since last year
+title: Chromes share of total iOS web traffic doubles since last year
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/Chrome-Share-of-iOS-Web-Traffic-Chitika-001.png)
 * Google’s Chrome went from zero market share to becoming the world’s most popular desktop web browser in just five years. And since its release on Apple’s iOS platform in June 2012, Chrome’s been consistently the top third-party browser on the App Store (free download), making its way on a lot of people’s Home screens. Research firm Chitika estimates that Chrome’s share of web traffic coming from the iPhone, iPod touch and iPad devices has doubled since June 2012 launch.

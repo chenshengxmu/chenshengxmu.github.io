@@ -1,6 +1,6 @@
 ---
 layout: post
-title: tvOS App Store gains 'Not on This Apple TV' listing in Purchased section
+title: tvOS App Store gains Not on This Apple TV listing in Purchased section
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/02/tvOS-App-Store-Not-on-This-section-Apple-TV-screenshot-001.jpg)
 * Apple has quietly issued a backend update to the tvOS App Store, adding a new ‘Not on This Apple TV’ option to the Purchased section, making it easier to spot apps that users previously purchased on their iPhone and iPad which have since been updated to support the fourth-generation Apple TV.

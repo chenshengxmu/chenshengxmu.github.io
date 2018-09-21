@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tip- save space on your iPhone by clearing Twitter's web and media storage
+title: Tip- save space on your iPhone by clearing Twitters web and media storage
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/11/Twitter-bird-logo-medium.png)
 * Are you a fan of Twitter for iPhone? If so, keep in mind that all those photos, videos and other media files you encounter while browsing the timeline get cached on your device for faster access in the future.

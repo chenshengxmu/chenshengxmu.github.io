@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Saurik's latest Reddit comment details Cydia and Mobile Substrate for iOS 11
+title: Sauriks latest Reddit comment details Cydia and Mobile Substrate for iOS 11
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/Cydia-iOS-11.jpg)
 * Saurik revealed a couple of weeks ago that he was working on iOS 11 support for Cydia and Mobile Substrate, but a new comment posted on Reddit by the father of jailbreaking himself highlights that there’s a lot more going on under the hood than meets the eye.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hands-on- First Alert's OneLink combines a smoke detector, AirPlay 2 Speaker, & Alexa
+title: Hands-on- First Alerts OneLink combines a smoke detector, AirPlay 2 Speaker, & Alexa
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/First-Alert-OneLink-AirPlay-2-Speaker-Smoke-Detector.jpg)
 * We got to go hands-on with First Alert’s upcoming smoke and carbon monoxide detector, the OneLink Safe & Sound. It integrates not only a HomeKit smoke and carbon monoxide sensor, but a premium AirPlay 2 speaker, and Amazon Alexa voice control.

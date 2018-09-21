@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple makes 'clear improvements' to iDevice crime prevention, SF DA says
+title: Apple makes clear improvements to iDevice crime prevention, SF DA says
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/Activation-Lock-iPhone-screenshot-001.jpg)
 * At least one critic is satisfied by Apple’s efforts to slow a growing number of iPhone crimes. San Francisco’s District Attorney, who earlier called on the iPhone maker to install a so-called kill switch in its handsets, now believes a feature in the company’s upcoming iOS 7 shows “clear improvements” by the tech giant.

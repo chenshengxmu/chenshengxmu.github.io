@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SpeakEvents' makes boring push notifications come alive with voice
+title: SpeakEvents makes boring push notifications come alive with voice
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/SpeakEvents-Screenshot.jpg)
 * SpeakEvents is a jailbreak tweak that audibly speaks the contents of new messages, tweets, emails, etc.

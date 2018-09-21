@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung's product chief dumbs down litigation with Apple to rectangles
+title: Samsungs product chief dumbs down litigation with Apple to rectangles
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/Purple-iPhone-prototype-image-003.png)
 * Wired sat down with Apple’s Jony Ive to talk design ahead of the trial of the century which kicked off in northern California today and the publication is now extending the courtesy to Samsung, interviewing its product person to hear the other side.

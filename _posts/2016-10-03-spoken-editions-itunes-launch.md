@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple launches new 'Spoken Editions' content section in iTunes
+title: Apple launches new Spoken Editions content section in iTunes
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/spoken-itunes.png)
 * Apple on Monday launched a new section in iTunes called ‘Spoken Editions.’ The section can be found under Podcasts in iTunes, or in the official Podcasts app, with the tagline “Too busy to read your favorite websites? Just listen! These audio versions give you tons of great narrated stories.”

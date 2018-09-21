@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Popular VNC client 'Screens' updated with AirPlay Mirroring and more
+title: Popular VNC client Screens updated with AirPlay Mirroring and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/screens-ss.png)
 * Popular iOS VNC client ‘Screens’ has received a huge update this weekend, bringing the app to version 3.1. For those unfamiliar with it, the app allows you to connect to your Mac or Windows PC from your iOS device.

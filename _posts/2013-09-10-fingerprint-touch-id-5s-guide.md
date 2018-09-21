@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fingerprint sensor called 'Touch ID' in alleged iPhone 5S user guide
+title: Fingerprint sensor called Touch ID in alleged iPhone 5S user guide
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/iPhone-5S-user-guide.jpg)
 * You have to love last-minute leaks. Shortly after The Wall Street Journal published a report confirming that the iPhone 5S would indeed sport a built-in fingerprint sensor, another bit of evidence surfaced in favor of the feature.

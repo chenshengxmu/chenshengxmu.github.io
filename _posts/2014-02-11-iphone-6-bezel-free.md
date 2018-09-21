@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 6 to feature 'bezel-free' display, rumor has it
+title: iPhone 6 to feature bezel-free display, rumor has it
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/iPhone-6-concept-ConceptsPhone-004.jpg)
 * Analysts and high-profile outlets like The Wall Street Journal are expecting not one, but two new iPhones this year, each outfitted with a display significantly larger than the current four-inch iPhone 5/5s/5c. The Japanese magazine Mac Fan claimed in a report last October that the iPhone 6 will be the first phablet on the market optimized for one-hand operation.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rumor- 7-inch 'iPad mini' launching in Q3
+title: Rumor- 7-inch iPad mini launching in Q3
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/iPad-Mini-comparison-e1324657472602.jpg)
 * A 7-inch iPad has been in the rumor-mill for quite awhile, but has yet to see the light of day. Many have said Apple will never choose to go with a 7-inch display and will continue to opt with its 10-inch iPad — which is currently the top selling tablet. However, many reports indicate a 7-inch (or 8-inch) version of the iPad will launch later this year.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FTC also probing Apple's upcoming music service over deals with record labels
+title: FTC also probing Apples upcoming music service over deals with record labels
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/beats-music-android.png)
 * Increasingly, Apple is finding itself in hot water with regulators over its rumored subscription-based music service. Citing people familiar with the matter, Bloomberg reported that the United States Federal Trade Commission is now probing Apple’s efforts to line up deals with record labels.

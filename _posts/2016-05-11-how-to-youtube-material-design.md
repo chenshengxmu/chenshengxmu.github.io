@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to enable YouTube's upcoming Material Design face lift ahead of release
+title: How to enable YouTubes upcoming Material Design face lift ahead of release
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/Chrome-for-OS-X-Material-Design-Mac-screenshot-007.png)
 * YouTube is getting Google’s Material Design refresh pretty soon and it looks pretty neat. Aside from the Upload button being replaced by the upload arrow graphics consistently used across Google’s mobile apps, you’ll notice a Material Design-inspired search field in the center.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google confirms it's working on iPhone X compatibility for the Inbox by Gmail app
+title: Google confirms its working on iPhone X compatibility for the Inbox by Gmail app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/03/Inbox-by-Gmail-not-optimiezd-iphone-x.png)
 * In the past three moths, Google has added iPhone X support to its most important iOS apps.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook hits the one year mark as Apple's CEO
+title: Tim Cook hits the one year mark as Apples CEO
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/tim-cook.jpg)
 * It was a year ago today that Steve Jobs stepped down as CEO of Apple Inc. Feeling unable to fulfill his duties and expectations at the position, he sent a heartfelt resignation letter out to the Apple Community.

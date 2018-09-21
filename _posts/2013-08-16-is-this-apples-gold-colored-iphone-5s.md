@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is this Apple's gold-colored iPhone 5S rear shell?
+title: Is this Apples gold-colored iPhone 5S rear shell?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/Gold-iPhone-5S-MacBoutic-001.jpg)
 * We first heard whispers of the iPhone 5S possibly including a bunch of color choices back in January. In the weeks and months leading up to Apple’s upcoming September 10 announcement, the colorized iPhone 5S rumors intensified. Yesterday, KGI Securities analyst Ming-Chi Kuo analyst wrote in a note to clients that he has reasons to believe one of the several color choices includes a brand new golden colorway.

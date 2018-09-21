@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Add Spotify controls to your Mac's Menu Bar with SpotMenu
+title: Add Spotify controls to your Macs Menu Bar with SpotMenu
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/07/SpotMenu.jpg)
 * Mac users with a preference for streaming their favorite music tracks via Spotify instead of Apple Music are going to love an extension for macOS dubbed SpotMenu.

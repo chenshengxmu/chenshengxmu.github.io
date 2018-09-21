@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Korea orders its telcos 'not to give excessive subsidies' for the iPhone 5
+title: Korea orders its telcos not to give excessive subsidies for the iPhone 5
 ---
 * >
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/korean-flag.jpeg)

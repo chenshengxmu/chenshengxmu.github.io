@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DismissMyKeyboard allows you to quickly hide the iPhone's keyboard
+title: DismissMyKeyboard allows you to quickly hide the iPhones keyboard
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/DismissMyKeyboard-Screenshot.png)
 * DismissMyKeyboard is a recently released jailbreak tweak for jailbroken iPhones that allows you to easily dismiss the software keyboard. While the iPad already benefits from such a feature due to the device’s larger area of real estate, the iPhone’s keyboard has no room for a dedicated dismiss keyboard button like you see on its larger brethren.

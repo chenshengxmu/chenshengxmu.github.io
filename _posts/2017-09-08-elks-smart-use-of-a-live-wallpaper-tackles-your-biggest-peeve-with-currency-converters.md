@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Elk's smart use of a Live Wallpaper tackles your biggest peeve with currency converters
+title: Elks smart use of a Live Wallpaper tackles your biggest peeve with currency converters
 ---
 * Anyone having the pleasure (or obligation) of travelling overseas has likely had their share of exposure to currency converters on iPhone. Whether you have selected your travel companion on the basis of features, price or mindlessly downloaded the first search result, in my experience the common denominator across the board is an off-putting level of self importance. More often that not, currency converters lack an understanding of their role on your phone.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/elk-currency-converter-header.jpg)

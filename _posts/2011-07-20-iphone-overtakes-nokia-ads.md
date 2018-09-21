@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone Overtakes Nokia, Eats into Android's Lead in Mobile Ad Traffic
+title: iPhone Overtakes Nokia, Eats into Androids Lead in Mobile Ad Traffic
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/07/Nokia-5800-vs-iphone-e1311132247539.jpeg)
 * Apple’s iPhone is continuing its assault on the smartphone world, with the relative newcomer slapping down another mobile giant when it comes to ad impressions in Europe.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to stop people you're not friends with from showing up in your Facebook chat
+title: How to stop people youre not friends with from showing up in your Facebook chat
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/12-messenger-app-icon-android.jpg)
 * If you use Facebook, then you might have noticed there are people you aren’t friends with in your Facebook Messenger sidebar when using the desktop website or mobile app. Although this is meant to be a way for you and your potential friends to connect on Facebook, some people find this overbearing and an invasion of privacy.

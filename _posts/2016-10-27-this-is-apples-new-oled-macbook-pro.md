@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This is Apple's new MacBook Pro with Touch Bar, Touch ID & more
+title: This is Apples new MacBook Pro with Touch Bar, Touch ID & more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/hello-again-event-macbook-pro-compare.jpg)
 * “The Mac is more than a product to us. It’s a testament to everything we do and create at Apple,” said Apple CEO Tim Cook at today’s “Hello again” Mac event as he unveiled long-expected updates to Pro notebooks. The new MacBook Pro has, as rumored, a programmable OLED touch bar substituting the function key row, called Touch Bar.

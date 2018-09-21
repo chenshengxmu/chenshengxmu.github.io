@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Snugg's iPhone 6s leather pouch looks good while protecting
+title: Snuggs iPhone 6s leather pouch looks good while protecting
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/12/Snugg-Leather-Pouch.jpg)
 * Recently, a friend of mine pulled this slim leather pouch out of his pocket. I didn’t know what it was, but I knew I liked the way it looked. Turns out, it was a case for his iPhone 6s.

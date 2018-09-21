@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft's latest Skype ad promotes Apple gear
+title: Microsofts latest Skype ad promotes Apple gear
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/11/Microsoft-Skype-ad-WiFi-orchestra-001.jpg)
 * Microsoft Canada on Friday published an interesting commercial on its Facebook Page depicting “the world’s first wireless orchestra” comprised of New York City’s celebrated subway musicians kept in sync with a remote conductor thanks to Skype.

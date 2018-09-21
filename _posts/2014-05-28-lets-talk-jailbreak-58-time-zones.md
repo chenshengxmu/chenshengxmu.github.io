@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's Talk Jailbreak 58- Time zones
+title: Lets Talk Jailbreak 58- Time zones
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/Lets_Talk_Jailbreak_Podcast.png)
 * Episode 58: Jeff, Cody, and Sebastien return to talk about all things jailbreak. Topics of discussion include the iOS 7.1.1 jailbreak, AltKeyboard 2, ActiveBoard, Apex 2, LockInfo7, TypeRead, and LockScreen Informer.

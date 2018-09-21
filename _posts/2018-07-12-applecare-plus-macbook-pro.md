@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The crucial reason you'd be wise to get AppleCare+ for your MacBook Pro
+title: The crucial reason youd be wise to get AppleCare+ for your MacBook Pro
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/AppleCare-plus-for-MAc-teaser-001.png)
 * If you’re planning on purchasing a brand spanking new MacBook Pro notebook anytime soon, especially that fully-loaded $6,699 configuration, you’re wholeheartedly recommended to get the extended AppleCare+ hardware repair coverage, and here’s why.

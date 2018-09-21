@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rumor- Apple seeding first iOS 10.3 beta on January 10 with new 'Theatre' mode
+title: Rumor- Apple seeding first iOS 10.3 beta on January 10 with new Theatre mode
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/iPhone-7-plus-back-large-camera.jpg)
 * Apple is going to begin seeding iOS 10.3 betas next week, reports Sonny Dickson. The noted tipster tweeted out over the weekend that iOS 10.3 beta 1 is currently scheduled to be released to developers on January 10 with an all-new ‘Theatre’ mode.

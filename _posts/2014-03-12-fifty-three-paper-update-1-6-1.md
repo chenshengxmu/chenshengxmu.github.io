@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FiftyThree's Paper updated with new iOS 7 design, improved zoom and more
+title: FiftyThrees Paper updated with new iOS 7 design, improved zoom and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/paper-update.png)
 * FiftyThree announced a significant update for its popular Paper for iPad drawing app this afternoon, bringing the app to version 1.6.1. The update brings about an iOS 7-inspired redesign with new fonts, buttons and toggles, as well as a handful of other improvements.

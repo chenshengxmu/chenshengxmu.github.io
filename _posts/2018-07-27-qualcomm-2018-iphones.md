@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Qualcomm admits Apple's only using Intel modems in 2018 iPhones
+title: Qualcomm admits Apples only using Intel modems in 2018 iPhones
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/qualcomm-x20.jpg)
 * The upcoming 2018 iPhone lineup might only use Intel-based modems. This news comes from Qualcomm’s financial chief who confirmed that his company’s modems wouldn’t be included in this year’s lineup. If correct, this would represent a significant change on Apple’s part. 

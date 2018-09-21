@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Deeper Look at Apple's App Store Guidelines Revisions
+title: A Deeper Look at Apples App Store Guidelines Revisions
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/09/app-store-policy1.jpg)
 * We were all dancing in the street while holding up our posters of the Apple hierarchy when the announcement that the rules and regulations had been altered to allow just about anything into the App Store, right? Certainly there is no reason to believe that apps from the past that were once denounced will likely be gracing the store soon. But is that all of it?

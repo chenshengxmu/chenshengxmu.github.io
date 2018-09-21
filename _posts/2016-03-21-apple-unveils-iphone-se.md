@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This is Apple's new four-inch iPhone SE
+title: This is Apples new four-inch iPhone SE
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/iPhone-SE-big-step.jpg)
 * At today’s invite-only media event at the Town Hall on its Cupertino, California headquarters, Apple has officially unveiled its latest four-inch smartphone, the iPhone SE. With one-third of iPhone buyers still preferring four inch phones and two and a half years having passed since the introduction of the iPhone 5s, its last four-inch phone and the world’s first smartphone with a 64-bit processor, the iPhone SE picks up right where its predecessor left off.

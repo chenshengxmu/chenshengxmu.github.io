@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 6s Plus teardown reveals a 165 mAh battery downgrade versus last year's iPhone 6 Plus
+title: iPhone 6s Plus teardown reveals a 165 mAh battery downgrade versus last years iPhone 6 Plus
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/iPhone-6s-Plus-iFixit-teardown-image-003.jpg)
 * After taking apart the 4.7-inch iPhone 6s, repair wizards over at iFixit have now disassembled its bigger brethren, the 5.5-inch iPhone 6s Plus (model A1687/A1634) After popping the handset open, the iFixit team immediately discovered a largely unchanged layout from the iPhone 6 and a slightly smaller battery versus last year’s iPhone 6 Plus.

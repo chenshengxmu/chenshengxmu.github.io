@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's aggressive iPhone trade-ins in India could include try-and-buy
+title: Apples aggressive iPhone trade-ins in India could include try-and-buy
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/iOS-7-teaser-iPhone-5c-ad-006.jpg)
 * India Today on Monday said Apple has partnered with India’s local distributors (Apple Stores don’t operate in the country) on a smartphone trade-in program against new iPhone 5c and iPhone 4s purchases in an attempt to boost sales of the colorful new iPhone that has largely failed to attract buyers compared to the flagship iPhone 5s.

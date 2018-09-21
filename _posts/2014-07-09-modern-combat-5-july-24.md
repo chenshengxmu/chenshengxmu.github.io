@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gameloft's 'Modern Combat 5- Blackout' set to be released July 24th
+title: Gamelofts Modern Combat 5- Blackout set to be released July 24th
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/Modern-Combat-5-Blackout-classes-001.jpg)
 * After more than a year of waiting, and months of teasing, Gameloft has finally confirmed a release date for ‘Modern Combat 5: Blackout.’ The highly anticipated title is going to be landing on iOS and Android devices on Thursday, July 24th.

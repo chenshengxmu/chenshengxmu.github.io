@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Expert in ear-worn vital signs monitoring joins Apple's iWatch team
+title: Expert in ear-worn vital signs monitoring joins Apples iWatch team
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/Eric-Winokur-image-001.jpg)
 * According to a source who spoke to MacRumors, Eric Winokur who does research at MIT’s Medical Electronic Devices Realization Center will be joining Apple’s wearables team in the coming weeks.

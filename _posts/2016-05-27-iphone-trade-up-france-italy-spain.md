@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Trade Up with Installments" iPhone program expands to France, Italy and Spain
+title: Trade Up with Installments iPhone program expands to France, Italy and Spain
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/iPhone-trade-up-program-France-web-screenshot-001.png)
 * MacRumors is reporting that Apple’s trade-up program for the iPhone, dubbed “Trade Up with Installments”, has expanded to an additional three countries today: France, Italy and Spain.

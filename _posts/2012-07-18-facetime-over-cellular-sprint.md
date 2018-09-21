@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sprint says it won't charge for FaceTime over cellular
+title: Sprint says it wont charge for FaceTime over cellular
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/sprint-store.jpg)
 * There’s been a lot of talk over the past few days regarding AT&T and the new FaceTime over cellular feature in  iOS 6. The carrier has yet to deny accusations that it will charge customers extra for Apple’s video calling service.

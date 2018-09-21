@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bloomberg- iPad Air 2 to be offered in Gold, 12.9" 'iPad Pro' due next year
+title: Bloomberg- iPad Air 2 to be offered in Gold, 12.9 iPad Pro due next year
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/Apple-shiny-gold_ipad_retina_parallax.jpg)
 * Apple’s second-generation iPad Air will be offered in Gold, in addition to Space Gray and Silver colorways, according to a Bloomberg report Wednesday corroborating earlier rumors. Adding a gold color option is one way to “goose sales,” according to people familiar with the plans.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How iPhone 8's rumored biometric facial scanning could supplant Touch ID
+title: How iPhone 8s rumored biometric facial scanning could supplant Touch ID
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/iPhone-8-Concept-iDrop-News-001-e1486739538543.jpg)
 * Renowned Apple analyst Ming-Chi Kuo of KGI Securities predicted that iPhone 8 would supplant Touch ID with advanced sensors capable of recognizing one’s face with very high accuracy. JPMorgan analyst Rod Hall corroborated Kuo’s report, speculating that facial recognition would utilize a front-facing 3D sensor.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: After Less Than a Day in Charge, Apple CEO Tim Cook- "I'm Thinking Printers"
+title: After Less Than a Day in Charge, Apple CEO Tim Cook- Im Thinking Printers
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/Tim-Cook-in-action-e1314296791981.jpeg)
 * What will people always need? Printers, of course.

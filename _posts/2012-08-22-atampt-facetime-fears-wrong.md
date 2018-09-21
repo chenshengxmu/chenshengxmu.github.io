@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T- FaceTime fears are 'wrong'
+title: AT&T- FaceTime fears are wrong
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/ATT-FaceTime-Cellular-e1345540610382.jpg)
 * AT&T Wednesday tried to clarify its position on limiting the iOS 6 FaceTime over Cellular feature to its Mobile Share data plan customers. The carrier called concerns that last week’s move might require subscribers change data plans “wrong” and “another knee jerk reaction” about net neutrality.

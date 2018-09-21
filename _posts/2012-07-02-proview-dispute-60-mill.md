@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple settles 'iPad' trademark dispute with Proview for $60 million
+title: Apple settles iPad trademark dispute with Proview for $60 million
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/proview-plant.jpg)
 * A new report is out tonight, claiming that Proview and Apple have finally reached a settlement in their ‘iPad’ trademark dispute. The two companies have been in and out of courtrooms for over a year, fighting over the moniker.

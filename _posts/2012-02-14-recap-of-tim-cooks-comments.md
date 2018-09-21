@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Recap of Tim Cook's comments at the Goldman Sachs Conference
+title: Recap of Tim Cooks comments at the Goldman Sachs Conference
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/tim-cook.jpg)
 * We listened in on the Goldman Sachs Technology and Internet Conference today as Tim Cook fielded some questions about the current state of Apple. Cook has spoken at the conference in the past, but this is his first time doing so as Apple’s CEO.

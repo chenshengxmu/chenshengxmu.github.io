@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sequences shortened- Another lawsuit targets Apple over "false and deceptive" Siri advertising
+title: Sequences shortened- Another lawsuit targets Apple over false and deceptive Siri advertising
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/iPhone-4S-advert-Siri-African-American-woman-asks-for-the-fastest-way-to-hospital.jpg)
 * Two weeks ago, a guy from New York filed a class-action lawsuit in a California court, accusing Apple for “misleading” customers with Siri features set. Expect more of the same as another dude files a complaint, specifically mentioning “false and deceptive representations” of Siri’s capabilities in nationwide advertising.

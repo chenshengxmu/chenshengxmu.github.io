@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RunKeeper is now optimized for Apple's M7 motion-tracking chip
+title: RunKeeper is now optimized for Apples M7 motion-tracking chip
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/Run-Keeper-4.1-for-iOS-iPhone-screenshot-001.jpeg)
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/Run-Keeper-4.1-for-iOS-iPhone-screenshot-002.jpeg)

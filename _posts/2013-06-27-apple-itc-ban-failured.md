@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple- ITC ban has 'much broader ramifications' than iPhone 4 and iPad 2 sales
+title: Apple- ITC ban has much broader ramifications than iPhone 4 and iPad 2 sales
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/Apple-versus-Samsung-Joy-of-Tech-001.png)
 * A limited import ban by the ITC on some Apple devices is under scrutiny and Apple believes the order could have far-reaching consequences, according to papers filed with reviewers. At issue is whether the courtroom win by Samsung may prompt other governments to limit imports of American made electronics and other goods.

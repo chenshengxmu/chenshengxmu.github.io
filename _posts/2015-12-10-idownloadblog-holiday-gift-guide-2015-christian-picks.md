@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iDB holiday gift guide- Christian's picks
+title: iDB holiday gift guide- Christians picks
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/Holiday-Gift-Guide.jpg)
 * Is it that time of year again? Gosh, time surely flies, doesn’t it? And what an action-packed year it has been in terms of exciting Apple product releases and upgrades, new-category product launches, interesting new accessories, novel new apps and games and what not.

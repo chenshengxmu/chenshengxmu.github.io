@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's IP chief leaves for patent troll Technicolor
+title: Apples IP chief leaves for patent troll Technicolor
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/Boris-Teksler-headshot-001.jpg)
 * After sparking its long-running patent war with Samsung, Apple’s intellectual property chief has left to head a similar job at a French media company. Boris Teksler, who in 2012 testified Samsung was copying iPhone technology, left his job of four years Wednesday.

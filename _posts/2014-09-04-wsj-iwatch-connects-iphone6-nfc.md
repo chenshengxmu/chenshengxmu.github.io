@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WSJ- NFC-enabled iWatch has 'a role in mobile payments', features curved OLED screen
+title: WSJ- NFC-enabled iWatch has a role in mobile payments, features curved OLED screen
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/iWatch-and-iPhone-6-mockup-Martin-Hajek-001.jpg)
 * Adding up to the ongoing conversation about Apple’s purported wearable project dubbed by the media the ‘iWatch’, The Wall Street Journal affirmed Thursday that the fashionable gizmo will connect to the upcoming iPhone 6 via NFC and come in two sizes to appeal to both gender’s preferences.

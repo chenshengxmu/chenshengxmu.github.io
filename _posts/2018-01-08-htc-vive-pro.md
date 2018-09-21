@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HTC's new Vive Pro boosts graphics, integrates headphones, dual mics & front cameras
+title: HTCs new Vive Pro boosts graphics, integrates headphones, dual mics & front cameras
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/HTC-Vive-PRO-teaser.png)
 * Taiwanese handset maker HTC today at CES 2018 unveiled an upgraded edition of its Vive virtual reality headset that Apple recommends for VR content development on macOS.

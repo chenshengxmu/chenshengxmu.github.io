@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Path, The Personally "Personal" Social Network
+title: Path, The Personally Personal Social Network
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/11/Path-Web-Banner-e1289960637721.png)
 * A new social network startup has been getting lots of attention over the past few days. I say “social network” with hesitation. Path is a San Franciso-based startup with some high profile employees from the tech industry. Dave Morin, the former senior platform manager at Facebook, is the company’s CEO. Shawn Fanning, the co-founder of Napster, is also heavily involved in the project. Kevin Rose, of Digg fame, is an investor.

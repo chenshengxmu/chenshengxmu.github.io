@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WWDC 2017 attendees receive custom Levi's trucker jacket and collectible Apple-themed pins
+title: WWDC 2017 attendees receive custom Levis trucker jacket and collectible Apple-themed pins
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/WWDC-2017-jacket.jpeg)
 * Apple’s annual developers conference is set to kick off with a live-streamed keynote at 10am Pacific Time and several developers have now shared images of the swag they’ve received at this year’s conference. As reported by AppleInsider and MacRumors, the company is giving out custom Levi’s jean jacket and an assortment of collectible Apple-themed pins.

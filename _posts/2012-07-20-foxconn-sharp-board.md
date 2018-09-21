@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Foxconn wants a seat on Sharp's board
+title: Foxconn wants a seat on Sharps board
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/Foxconn-Workers.jpg)
 * The world’s largest contract manufacturer Foxconn is allegedly aiming to acquire board seat at Sharp, a report out from Asia claims.

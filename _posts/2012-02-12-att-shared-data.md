@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T's shared data plan close to launching?
+title: AT&Ts shared data plan close to launching?
 ---
 * >
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/att-shared-data.jpg)

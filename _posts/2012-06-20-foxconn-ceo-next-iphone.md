@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Foxconn CEO says next iPhone will put Samsung's Galaxy S III to shame
+title: Foxconn CEO says next iPhone will put Samsungs Galaxy S III to shame
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/terry-gou-e1340222269471.jpg)
 * So this is rather interesting: Apparently Foxconn’s CEO Terry Gou has been sharing some of his famous words of wisdom lately, advising consumers to wait a bit before making their next smartphone purchase.

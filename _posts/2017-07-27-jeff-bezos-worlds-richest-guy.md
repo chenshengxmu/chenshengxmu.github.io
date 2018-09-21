@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amazon's Bezos dethrones Bill Gates as world's richest guy
+title: Amazons Bezos dethrones Bill Gates as worlds richest guy
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/07/Jeff-Bezos-vs-Bill-Gates.png)
 * Jeff Bezos, co-founder and CEO of Amazon, has managed to surpass Bill Gates on Thursday morning to become the world’s richest person in terms of net worth.

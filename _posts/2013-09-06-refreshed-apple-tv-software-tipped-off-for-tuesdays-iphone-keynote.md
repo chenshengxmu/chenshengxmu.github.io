@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Updated Apple TV software with improved AirPlay tipped off for Tuesday's iPhone keynote
+title: Updated Apple TV software with improved AirPlay tipped off for Tuesdays iPhone keynote
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/Apple-TV-Vevo-app.png)
 * Contrary to previous reports, Apple won’t update the $99 Apple TV set-top box hardware just yet, currently in its third generation. As we reported recently, some rather inconclusive shipping records tracked to the global trade intelligence platform Panjiva suggested that a fourth-gen Apple TV or even a standalone TV product was imminent.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's created mockups of iMessage for Android, including one with pure Material Design
+title: Apples created mockups of iMessage for Android, including one with pure Material Design
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/iOS-10-Messages-teaser-001.jpg)
 * I was just reading a post titled “On iMessage’s Stickiness” from Apple pundit John Gruber, published last evening on his Daring Fireball blog, and stumbled upon an interesting passage alleging that Apple’s created several mockups of iMessage for Android.

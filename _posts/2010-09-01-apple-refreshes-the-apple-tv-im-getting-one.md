@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Refreshes the Apple TV [I'm Getting One]
+title: Apple Refreshes the Apple TV [Im Getting One]
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/09/Apple-TV-Event.jpg)
 * Steve Jobs just unveiled the new Apple TV, a little tiny box a quarter the size of its predecessor. It’s now all about renting. No more buying things.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is Siri's magic wearing off?
+title: Is Siris magic wearing off?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/Photo-Nov-01-8-31-44-PM-730x480.jpg)
 * When Apple unveiled Siri last fall, the tech world seemed genuinely excited. Sure, other platforms like Android and Windows Phone already had voice control, but Apple’s assistant seemed to be on another level.

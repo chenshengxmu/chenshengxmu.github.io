@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Flash' automatically displays a Lock screen flashlight shortcut when in a dark environment
+title: Flash automatically displays a Lock screen flashlight shortcut when in a dark environment
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/12/Flash.jpg)
 * From time to time I’ve been known to question the idea of jailbreaking my iOS device. I tend to waffle back in forth between loving it and being a little ho-hum on the idea.

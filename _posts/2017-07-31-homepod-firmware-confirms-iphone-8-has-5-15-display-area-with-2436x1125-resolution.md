@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 8's 5.15-inch app canvas allegedly has 2,436 by 1,125 pixels
+title: iPhone 8s 5.15-inch app canvas allegedly has 2,436 by 1,125 pixels
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/kgi-iphone-8-mockup.jpg)
 * Digging deeper into the HomePod firmware code, Steven Troughton-Smith has seemingly confirmed that iPhone 8 will boast a three-times resolution screen at 2,436 by 1,125 pixels.

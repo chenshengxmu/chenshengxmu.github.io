@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How many daily downloads does it take to make the App Store's Top 25?
+title: How many daily downloads does it take to make the App Stores Top 25?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/iPad-app-store-update.jpg)
 * Until Apple gives the App Store a much-needed redesign, its lists of the top 25 most downloaded paid and free apps are going to remain the most popular ways users use to discover new titles.

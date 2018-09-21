@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft's Remote Desktop app coming to App Store later this month
+title: Microsofts Remote Desktop app coming to App Store later this month
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/windows8_remote_desktop-800x526.png)
 * Just as Microsoft’s exiting CEO Steve Ballmer yesterday officially confirmed that Redmond won’t release Office for iPad until after a touch-optimized edition hits Windows devices, we’re hearing that the Windows maker will release its Remote Desktop software for iOS and Android devices later in October.

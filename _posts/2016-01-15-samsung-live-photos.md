@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung jumping into Live Photos bandwagon- 'Vivid Photos' reportedly coming to Galaxy S7
+title: Samsung jumping into Live Photos bandwagon- Vivid Photos reportedly coming to Galaxy S7
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/Live-Photos-iPhone-6s.png)
 * Live Photos, a feature of the iPhone 6s and iPhone 6s Plus which optionally captures 1.5 seconds of video before and after a picture is taken, is reportedly going to be replicated by Samsung’s next-generation Galaxy S7 smartphones when it debuts later this year, according to sources who spoke with Marius Maria over at Android Geeks.

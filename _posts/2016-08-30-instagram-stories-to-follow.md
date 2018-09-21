@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Instagram's popular Explore tab now recommends Stories from people you could follow
+title: Instagrams popular Explore tab now recommends Stories from people you could follow
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/08/Instagram-Stories-recommendations-001.jpg)
 * Today, Instagram’s Explore tab will start showing some users a bar of Stories from accounts they could follow, TechCrunch reported yesterday, saying these algorithmically personalized suggestions will roll out to everyone soon. Stories recommendations are based on who you follow and the topics you care about, making it easy to add someone new to your Home feed’s Stories section.

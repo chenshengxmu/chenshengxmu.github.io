@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GoogolPlex will 'unleash the power of Siri' with Nest, Philips Hue, Spotify commands
+title: GoogolPlex will unleash the power of Siri with Nest, Philips Hue, Spotify commands
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/siri-ios-7.jpg)
 * Siri within iOS 7 can be limited sometimes, thanks to Apple’s “walled garden”, but a new tool called GoogolPlex wants to change that by opening the voice assistant to new commands.

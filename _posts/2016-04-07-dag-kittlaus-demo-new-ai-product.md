@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Siri co-founder to demo Viv, 'the global brain' that provides an intelligent interface to everything
+title: Siri co-founder to demo Viv, the global brain that provides an intelligent interface to everything
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/04/Viv-teaser-001.png)
 * Dag Kittlaus, a brilliant artificial intelligence engineer who helped create an advanced personal digital assistant that Apple bought and marketed as Siri, is about to show his brand new artificial intelligence product to the world at TechCrunch’s Disrupt NY 2016 conference later this week.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The onE Puck coaster let's you charge your iPhone with a cup of coffee
+title: The onE Puck coaster lets you charge your iPhone with a cup of coffee
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/kickstarter-onE-puck.jpg)
 * I’ve covered a lot of Kickstarter projects in my day, but I have to say that this is one of the most interesting I’ve ever come across. The Epiphany onE Puck, by Epiphany Labs, is a drink coaster that can actually charge up your iPhone (or other device) using ‘heat disparities’ from a hot or cold beverage.

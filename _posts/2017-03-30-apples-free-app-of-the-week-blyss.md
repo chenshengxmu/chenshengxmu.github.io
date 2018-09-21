@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's free app of the week- Blyss
+title: Apples free app of the week- Blyss
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/03/blyss-3.png)
 * Apple on Thursday updated its App of the Week promotion with the game Blyss. For the next 7 days you’ll be able to pick up the popular puzzler for free on both iPhone and iPad—saving you a solid buck.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple admits some iPhone 5s units exhibit battery woes due to 'manufacturing issue'
+title: Apple admits some iPhone 5s units exhibit battery woes due to manufacturing issue
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/iPhone-5s-battery-life.jpg)
 * In a rare but not entirely unprecedented response, Apple’s gone on the record Tuesday with The New York Times (of all publications) to admit that a fairly limited number of iPhone 5s units may be plagued with lower than expected battery life and slow charging issues due to what the company attributed to an unspecified “manufacturing issue”.

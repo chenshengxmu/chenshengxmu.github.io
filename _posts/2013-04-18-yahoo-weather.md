@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yahoo's new Weather iOS app looks terrific
+title: Yahoos new Weather iOS app looks terrific
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/Yahoo-Weather-1.0-for-iOS-iPhone-screenshot-001.jpg)
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/Yahoo-Weather-1.0-for-iOS-iPhone-screenshot-002.jpg)

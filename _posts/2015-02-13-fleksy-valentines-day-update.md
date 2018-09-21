@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fleksy's Valentine's Day update brings Hotkey extensions, animated themes and more
+title: Fleksys Valentines Day update brings Hotkey extensions, animated themes and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/Fleksy-Keyboard-Valentines-Day-2015-promo.jpg)
 * Yesterday, Fleksy announced a major Valentine’s Day themed update to its record-smashing software keyboard for the iPhone and iPad.

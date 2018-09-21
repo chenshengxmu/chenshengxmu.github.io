@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Best Buy sells almost as many iPhones as Apple's retail stores
+title: Best Buy sells almost as many iPhones as Apples retail stores
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/iphone-purchases-by-outlet.jpg)
 * Back in 2008, Apple made the decision to allow Best Buy to carry and sell its beloved handset. And that choice is proving to be a fantastic one today as reports are coming in regarding the retailers’ iPhone sales.

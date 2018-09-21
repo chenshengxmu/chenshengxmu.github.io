@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Android grabs 90 percent of China's smartphone market
+title: Android grabs 90 percent of Chinas smartphone market
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/iPhone-4-China.jpg)
 * The world is full of ironies. The latest comes from China, whose government frequently blocks most of Google’s properties. Yet, inside the country, more than 90 percent of smartphones run Android. Not laughing is Apple, with just a single-digit share of this enormous market. Specifically, Android’s share hit 90.1 percent mark in Q3 2012.

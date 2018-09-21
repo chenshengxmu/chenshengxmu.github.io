@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CES 2014- Orbotix announces new 'Sphero 2B' connected toy
+title: CES 2014- Orbotix announces new Sphero 2B connected toy
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/Sphero_2B_Black_Tires.jpg)
 * I hope you’re ready to see a flurry of new products and accessories this week. The PR train known as the Consumer Electronics Show is now in full swing, and a number of companies have already made some big announcements.

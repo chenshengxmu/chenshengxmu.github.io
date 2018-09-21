@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Former Android executive Hugo Barra to head Facebook's Oculus and virtual reality teams
+title: Former Android executive Hugo Barra to head Facebooks Oculus and virtual reality teams
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/01/Mark-Zuckerberg-Hugo-Barra.jpg)
 * When former Android executive Hugo Barra announced three days ago he was leaving Chinese handset maker Xiaomi, he provided standard boilerplate explanation: he wanted to spend more time with his family because living and working abroad has taken a toll on his health and life.

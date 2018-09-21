@@ -1,6 +1,6 @@
 ---
 layout: post
-title: China's BOE spares no expense in a bid to supply OLEDs for iPhones
+title: Chinas BOE spares no expense in a bid to supply OLEDs for iPhones
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/Super-Retina-Display-1.jpg)
 * The Wall Street Journal reported yesterday that China-based BOE Technology Group is seeking to supply Apple with advanced OLED smartphone panels for future iPhones.

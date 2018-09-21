@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Verizon says it won't throttle LTE for unlimited data customers after all
+title: Verizon says it wont throttle LTE for unlimited data customers after all
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/verizon-wireless.jpg)
 * It looks like Verizon Wireless won’t be throttling the LTE speeds of remaining unlimited data customers after all. In a statement to The Verge this afternoon, the carrier says it has “decided not to move forward with the planned implementation of network optimization for 4G LTE customers on unlimited plans.”

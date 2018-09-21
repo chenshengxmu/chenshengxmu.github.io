@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 15 interesting points from Tim Cook's D11 interview
+title: 15 interesting points from Tim Cooks D11 interview
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/timcook-allthingsd.png)
 * Earlier this evening, Apple’s CEO Tim Cook took the stage at AllThingsD’s D11 conference to talk about all things Apple. Cook rarely does interviews, but he looked like a pro fielding questions from tech veterans Walt Mossberg and Kara Swisher.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's wireless service will reportedly switch between carriers for best connection
+title: Googles wireless service will reportedly switch between carriers for best connection
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/ios.jpg)
 * The Wall Street Journal reports Google’s upcoming and rumored wireless service won’t rely on one single carrier, and instead will switch between networks to give customers the best wireless signal.

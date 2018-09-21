@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's gift card-only Black Friday deals now live in North America, cash discounts in Europe
+title: Apples gift card-only Black Friday deals now live in North America, cash discounts in Europe
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/Apple-Black-Friday-Australian-store.png)
 * Following Apple’s Black Friday deals that went live yesterday on the Australian web store, the company this morning refreshed its United States and Canadian outlets with 2013 Black Friday promotion.

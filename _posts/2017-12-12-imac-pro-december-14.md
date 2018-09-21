@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's $4,999 iMac Pro is officially launching this Thursday, December 14
+title: Apples $4,999 iMac Pro is officially launching this Thursday, December 14
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/WWDC-2017-imac-pro-starting-config.jpg)
 * iMac Pro, the most powerful Mac system ever created, is officially going on sale this Thursday, December 14, Apple officially announced this morning via a website update.

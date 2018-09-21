@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cannot Get Mail" errors on your iPhone? Try this
+title: Cannot Get Mail errors on your iPhone? Try this
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/cannot-get-mail-error-message-mail-app-in-ios.png)
 * Every so often when you go to refresh your emails from the Mail app in iOS, you may get an error message like the one shown above that reads, “Cannot Get Mail. The mail server imap.gmail.com is not responding. Verify that you have entered the correct account info in Mail settings.”

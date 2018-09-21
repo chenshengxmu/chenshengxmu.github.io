@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Cue confirmed as a featured speaker at Pollstar Live! conference in February 2018
+title: Apples Cue confirmed as a featured speaker at Pollstar Live! conference in February 2018
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/07/Eddy-Cue-Hollywood-Reporter-001.jpg)
 * Eddy Cue, Apple’s Senior Vice President of Internet Software and Services, has been confirmed as one of the featured speakers at the forthcoming Pollstar Live! conference which will take place February 6-8 of next year at the Intercontinental Downtown LA.

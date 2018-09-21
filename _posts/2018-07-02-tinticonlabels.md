@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TintIconLabels lets you colorize your Home screen's app icon labels
+title: TintIconLabels lets you colorize your Home screens app icon labels
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/TintIconLabel-Examples.jpg)
 * Apple designed the Home screen’s icon labels to be legible against most wallpapers out of the box, but some exceptions exist, especially when using third-party alternatives to the stock offerings. In other situations, users simply want something more expressive than just plain-Jane black or white.

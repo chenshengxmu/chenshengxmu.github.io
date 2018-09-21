@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Maps app updated with new 'faster route' feature
+title: Google Maps app updated with new faster route feature
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/google-maps.png)
 * Despite being kicked off iOS in the fall of 2012, Google Maps has managed to maintain a high profile on Apple’s platform. Released as a standalone app that same year, Google’s Maps app offers a solid alternative to the stock application.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Planning Private Celebration of Steve Jobs' Life on October 19th
+title: Apple Planning Private Celebration of Steve Jobs Life on October 19th
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/steve-and-apple.png)
 * Apple CEO Tim Cook just sent an email to his employees to let them know that the company is planning a celebration in memory of Steve Jobs, who passed away last week.

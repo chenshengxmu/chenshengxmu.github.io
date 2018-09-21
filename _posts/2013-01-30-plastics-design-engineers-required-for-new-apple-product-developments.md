@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Plastics design engineers required for 'new Apple product developments'
+title: Plastics design engineers required for new Apple product developments
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/3gs-up-close.jpg)
 * Talk about timely news. Just as I ran a story about a patent Apple was granted yesterday which describes what looks to be the rumored less-pricey iPhone that could be made from “transparent materials such as clear plastic”, news broke that the Cupertino, California gadget designer posted a new job listing for Manufacturing Design Engineer with a focus in Advanced Plastic Tooling and Process.

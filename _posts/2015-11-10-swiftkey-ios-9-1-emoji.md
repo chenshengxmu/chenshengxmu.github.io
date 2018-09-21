@@ -1,6 +1,6 @@
 ---
 layout: post
-title: All of iOS 9.1's new emoji are now available on SwiftKey for iPhone and iPad
+title: All of iOS 9.1s new emoji are now available on SwiftKey for iPhone and iPad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/11/SwiftKey-emoji-image-001.png)
 * All those burritos, tacos, middle fingers and other emoji characters enabled by the iOS 9.1 software update are now available on SwiftKey’s keyboard for your iPhone, iPod touch and iPad.

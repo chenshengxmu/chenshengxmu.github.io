@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tokyo court finds Samsung guilty of infringing on Apple's 'rubber banding' patent
+title: Tokyo court finds Samsung guilty of infringing on Apples rubber banding patent
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/courtroom-gavel.jpg)
 * On Friday, a Tokyo court found a number of Samsung’s legacy smartphone models to be guilty of infringing on one of Apple’s patents. More specifically, it’s the infamous ‘rubber banding’ patent, which Apple has used in a number of courtroom battles.

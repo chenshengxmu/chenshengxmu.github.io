@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meet Swiftmoji, SwiftKey's new emoji-predicting keyboard
+title: Meet Swiftmoji, SwiftKeys new emoji-predicting keyboard
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/07/Swiftmoji-1.0-for-iOS-iPhone-screenshot-001.png)
 * A new emoji-predicting keyboard from Microsoft-owned SwiftKey, called Swiftmoji, launched on the App Store.

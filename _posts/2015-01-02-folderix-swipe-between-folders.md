@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Upcoming tweak 'Folderix' lets you quickly swipe between multiple folders
+title: Upcoming tweak Folderix lets you quickly swipe between multiple folders
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/Folderix.jpg)
 * Folderix is an upcoming jailbreak tweak that lets you quickly swipe between all of the folders that you have on your iPhone without exiting the folder interface. If you have lots of folders created on your device, this is one of the fastest ways to navigate between them.

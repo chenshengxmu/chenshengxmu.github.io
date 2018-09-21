@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This Jailbreak App Let's You Easily Decline Phone Calls
+title: This Jailbreak App Lets You Easily Decline Phone Calls
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/10/EZDecline.png)
 * EZDecline is a new jailbreak app that let’s you easily decline phone calls. If your phone is locked and you receive a phone call, the only thing that will show on your screen is the “Slide to Answer” option. EZDecline tweaks that a bit by adding the buttons to “Decline” or “Answer”.

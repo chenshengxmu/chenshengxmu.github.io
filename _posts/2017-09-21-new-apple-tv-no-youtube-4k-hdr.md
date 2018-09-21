@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The new Apple TV doesn't support YouTube in 4K HDR
+title: The new Apple TV doesnt support YouTube in 4K HDR
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/iPhone-X-event-Apple-TV-4k.jpg)
 * While support for the object-based Dolby Atmos surround sound technology is “on the roadmap”, it’s unclear when Google’s YouTube app for tvOS might serve 4K HDR video on Apple’s upcoming 4K-enabled media streamer.

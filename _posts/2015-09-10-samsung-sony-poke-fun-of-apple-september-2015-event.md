@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung and Sony take swipes at Apple's 'Hey Siri' event announcements
+title: Samsung and Sony take swipes at Apples Hey Siri event announcements
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/08/Apple-September-2015-event-invite-graphics-e1441446944295.jpg)
 * Following Apple’s action-packed media event yesterday which saw introductions of the iPhone 6s and iPhone 6s Plus smartphones with 3D Display technology, the new iPad Pro with Apple Pencil, the much improved Apple TV and more, both Sony and Samsung took to social media to poke fun of Apple’s latest innovation.

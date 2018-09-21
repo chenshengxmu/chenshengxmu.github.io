@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Full video of Apple VP Greg Joswiak's Code Mobile interview now available
+title: Full video of Apple VP Greg Joswiaks Code Mobile interview now available
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/joswiak-code-mobile.png)
 * In October, Apple’s VP of iPhone marketing Greg Joswiak participated in an on-stage interview at Recode’s inaugural Code/Mobile conference. During the 30-minute discussion, Joswiak talked about several topics including the iOS 8.0.1 debacle, Apple Pay and more.

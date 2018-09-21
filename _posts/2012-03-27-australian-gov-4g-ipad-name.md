@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Australian Government to sue Apple over "misleading" 4G iPad name
+title: Australian Government to sue Apple over misleading 4G iPad name
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/new-ipad-4G.jpg)
 * Well this isn’t too surprising. TheNextWeb is reporting that the Australian Competition and Consumer Commission (ACCC) has announced plans to file a lawsuit against Apple in the next 48 hours regarding its “misleading” iPad WiFi + 4G advertising.

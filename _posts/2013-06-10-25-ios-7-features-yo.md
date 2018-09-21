@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 24 iOS 7 features Apple didn't talk about today
+title: 24 iOS 7 features Apple didnt talk about today
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/new-iOS-7-features.png)
 * Apple showed off a lot of cool new features in iOS 7 this morning. There’s the anti-theft measure, called Activation Lock, and ‘iOS in the Car,’ which lets users mirror their iPhone screens on in-car displays. And don’t forget about the new iTunes Radio.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Music offering extra free month to trial users who didn't become paying subscribers
+title: Apple Music offering extra free month to trial users who didnt become paying subscribers
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/04/Apple-Music-free-extra-month-trial.jpg)
 * Apple is giving away an extra free month of service to the original Apple Music trial customers who didn’t become paying subscribers following the expiration of their 3-month free trial.

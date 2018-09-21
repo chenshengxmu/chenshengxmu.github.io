@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple calls DoJ e-books settlement proposal 'draconian' and 'punitive'
+title: Apple calls DoJ e-books settlement proposal draconian and punitive
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/ipad-ibooks.jpeg)
 * Earlier today, the Department of Justice filed new court documents, offering Apple a settlement for its e-book price fixing case. The iPad-maker was found guilty last month of conspiring with 5 major book publishers to raise e-book prices.

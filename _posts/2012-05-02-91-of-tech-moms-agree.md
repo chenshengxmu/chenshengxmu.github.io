@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 91% of tech moms want an iPad for Mother's Day instead of flowers
+title: 91% of tech moms want an iPad for Mothers Day instead of flowers
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/flowers-for-ipads.jpg)
 * Still trying to figure out what to get your mom for Mother’s Day? Well you could always opt for the traditional bouquet of flowers. But a recent survey shows that it’s not blossoms moms are after — it’s iPads.

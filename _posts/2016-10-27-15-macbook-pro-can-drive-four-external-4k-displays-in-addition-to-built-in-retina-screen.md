@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 15" MacBook Pro can drive four external 4K displays in addition to built-in Retina screen
+title: 15 MacBook Pro can drive four external 4K displays in addition to built-in Retina screen
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/hello-again-event-macbook-pro-2.jpg)
 * If you’re a creative type and need a laptop that transforms into a powerful desktop, the new MacBook Pro is for you. Having read Tech Specs page for the 15-inch MacBook Pro, one thing stood out for me—the machine can drive not one, not two, not three, but four high-resolution external displays.

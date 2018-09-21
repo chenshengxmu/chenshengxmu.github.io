@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SMSmileys' automatically converts text smiley faces into Emoji icons
+title: SMSmileys automatically converts text smiley faces into Emoji icons
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/SMSSmileys-Screenshot.jpg)
 * Isn’t it weird that the stock Messages app doesn’t automatically convert ASCII smiley faces into Emoji icons?

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to get ready for tomorrow's iOS 6 release
+title: How to get ready for tomorrows iOS 6 release
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/iOS-6-Siri-Restaurants.jpg)
 * Last week, Apple announced that it would be releasing the latest version of its mobile operating system, iOS 6, on September 19th. And for those of you without a calendar in front of you, that’s tomorrow.

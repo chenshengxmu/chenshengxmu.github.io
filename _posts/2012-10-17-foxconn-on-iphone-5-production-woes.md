@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Foxconn's comment on iPhone 5 production woes- "practice makes perfect"
+title: Foxconns comment on iPhone 5 production woes- practice makes perfect
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iPhone-5-manufacturing-process-008.jpg)
 * Media reports about Scuffgate related to the widely reported quality-control issues with iPhone 5 manufacturing have subdued a bit as we head into the iPad mini press conference next Tuesday. That said, it’s a tad surprising Apple’s favorite contract manufacturer Foxconn would agitate spirits by explaining to The Wall Street Journal why the iPhone 5 is so difficult to manufacture.

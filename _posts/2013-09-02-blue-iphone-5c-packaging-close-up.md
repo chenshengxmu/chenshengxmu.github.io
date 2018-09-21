@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blue iPhone 5C packaging surfaces online, gets removed at the request of a 'relevant party'
+title: Blue iPhone 5C packaging surfaces online, gets removed at the request of a relevant party
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/iPhone-5C-packaged-blue-white-yellow.jpg)
 * After sharing blurry photographs of the supposed plastic iPhone 5C showing the devices’s packaging and printed manual, the same Chinese source is back at it and now has posted a pair of new images. The photos appear to picture the blue, white and yellow iPhone 5C units in their boxes and a close-up shot of the blue iPhone 5C.

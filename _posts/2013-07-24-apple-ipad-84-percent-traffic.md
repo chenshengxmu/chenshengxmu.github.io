@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's iPad grabs 84 percent of tablet web traffic
+title: Apples iPad grabs 84 percent of tablet web traffic
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/apple-tablet-share.png)
 * It is pretty well understood that Apple’s iPad is a major player in tablet traffic online. However, new numbers only emphasize the iPad’s dominance as the device has accelerated further and now accounts for 84 percent of web traffic. Specifically, more than eight out of ten online ads were served to tablet devices carrying the Apple logo, a web analytics firm announced yesterday.

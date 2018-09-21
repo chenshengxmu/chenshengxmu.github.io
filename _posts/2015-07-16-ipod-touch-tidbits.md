@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here are some interesting tidbits about Apple's 'best iPod touch yet'
+title: Here are some interesting tidbits about Apples best iPod touch yet
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/07/iPod-touch-sixth-generation-lineup-001.jpg)
 * Apple yesterday refreshed its aging lineup of iPod-branded music players. By and large, the iPod touch has received its most substantial upgrade yet as Apple really went all out with upgrades on the hardware front.

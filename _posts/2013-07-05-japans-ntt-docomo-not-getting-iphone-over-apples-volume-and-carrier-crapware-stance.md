@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Japan's NTT DoCoMo not getting iPhone over Apple's volume and carrier crapware stance
+title: Japans NTT DoCoMo not getting iPhone over Apples volume and carrier crapware stance
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iPhone-5-black-front-EarPods.jpg)
 * Japan’s top wireless carrier NTT DoCoMo still doesn’t carry the iPhone, a decision its executive Katzuto Tsubouhi defended in an interview with the Wall Street Journal by arguing that Apple’s device is no longer “the god of all smartphones.”

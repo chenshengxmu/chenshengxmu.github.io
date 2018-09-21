@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New images try to prove that Samsung copied Apple's icons
+title: New images try to prove that Samsung copied Apples icons
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/Samsung-Phone.jpg)
 * As we begin week two of the high-profile patent trial between Apple and Samsung, we’re starting to see a lot more evidence submitted by both companies. And this next bit, filed by Apple, is particularly interesting.

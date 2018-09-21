@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RIM's Co-CEOs Step Down, Former COO Takes the Helm
+title: RIMs Co-CEOs Step Down, Former COO Takes the Helm
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/blackberry-e1327295119928.jpg)
 * Breaking news out of Waterloo, Canada tonight. Research In Motion’s Mike Lazaridis and Jim Balsillie have stepped down from their co-CEO roles. The company’s former COO, Thorsten Heins, has been tapped as their replacement.

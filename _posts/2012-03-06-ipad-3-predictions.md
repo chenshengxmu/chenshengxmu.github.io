@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our predictions for tomorrow's iPad 3 event
+title: Our predictions for tomorrows iPad 3 event
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/iPhone-predictions.jpg)
 * Apple’s hosting its iPad 3 event tomorrow morning at the Yerba Buena Center in San Francisco. Yesterday we told you what announcements to expect from the event, and now we’re going to give you our last minute predictions.

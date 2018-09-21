@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LinkedIn retires CardMunch in favor of Evernote's biz card scanning
+title: LinkedIn retires CardMunch in favor of Evernotes biz card scanning
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/LinkedIn-Evernote-image-001.png)
 * LinkedIn, the world’s top social network for professionals, is retiring its standalone iPhone business card reader app CardMunch it released back in November 2011. As it fell on deaf ears with consumers, CardMunch has been phased out in favor of LinkedIn’s newly announced partnership with the note-taking and productivity giant Evernote…

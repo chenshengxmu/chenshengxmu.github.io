@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FiftyThree's Pencil stylus comes to an Apple Store near you
+title: FiftyThrees Pencil stylus comes to an Apple Store near you
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/FiftyThree-Pencil-available-at-Apple-Store.jpeg)
 * FiftyThree’s Pencil, a Bluetooth enabled stylus that pairs with the iPad and is activated by pressing on the Pencil icon in the Paper app, is now available at an Apple Store near you. The accessory ships in an all-new packaging created by their in-house designer Becky Brown.

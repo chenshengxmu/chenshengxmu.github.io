@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple posts new 'Voice Text' iPhone 6 ad
+title: Apple posts new Voice Text iPhone 6 ad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/11/Picture-1.png)
 * Apple tonight posted a new commercial to its YouTube channel showcasing the recently-launched iPhone 6 and 6 Plus. The ad is entitled ‘Voice Text’ and it highlights the new voice messaging feature found on iOS 8 and of course the new iPhones.

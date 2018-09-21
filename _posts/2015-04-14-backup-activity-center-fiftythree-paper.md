@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FiftyThree's Paper gains cloud journals, centralized social interactions and more
+title: FiftyThrees Paper gains cloud journals, centralized social interactions and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/04/FiftyThree-Paper-Activity-Center.png)
 * FiftyThree’s iPad drawing app, Paper, has been refreshed Tuesday with a pair of new features (among other enhancements) — Backup and Activity Center.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Forgetting about Surface disaster, Microsoft's ad people take another jab at iPad
+title: Forgetting about Surface disaster, Microsofts ad people take another jab at iPad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/apple-surface2.png)
 * Microsoft just doesn’t skip a beat when it comes to its fantasy that the Surface rivals Apple’s iPad. Never mind the software giant had to reduce prices on its tablet because no one is buying the device. Never mind Thursday the company took a $900M writedown on those cheaper Surfaces that no one wants.

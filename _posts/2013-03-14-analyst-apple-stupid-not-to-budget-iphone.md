@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Analyst- Apple would be 'stupid' not to release budget iPhone
+title: Analyst- Apple would be stupid not to release budget iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/iPhone-5-presser-Phil-Schiller-iPhone-family-prices.jpg)
 * Many analysts have voiced their support for a rumored less-pricey iPhone which  they hope will help Apple recover from market share losses in emerging markets, namely China, India, Brazil and Russia – all huge markets for handsets. BTIG’s Walter Piecyk goes further, calling Apple “stupid” if it doesn’t release said device before year’s end.

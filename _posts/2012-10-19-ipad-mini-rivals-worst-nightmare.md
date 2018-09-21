@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Smaller iPad may be competition's worst nightmare, analysts agree
+title: Smaller iPad may be competitions worst nightmare, analysts agree
 ---
 * Analysts are almost busting their buttons to tell investors just how big a deal they expect is a smaller iPad, widely thought to be up for an introduction next Tuesday. One well-known Apple watcher foresees huge headaches from rival seven-inch tablet makers, describing the so-called iPad mini as “competition’s worst nightmare.”
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/iPad-mini-by-Martin-Utrecht.png)

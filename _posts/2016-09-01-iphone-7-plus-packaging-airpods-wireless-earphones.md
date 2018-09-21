@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 7 Plus could come bundled with Apple's new AirPods Wireless Earphones
+title: iPhone 7 Plus could come bundled with Apples new AirPods Wireless Earphones
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/AirPods-mockup-001.jpeg)
 * Another day, another iPhone 7 leak. A high-resolution photograph of an alleged iPhone 7 Plus packaging that surfaced this morning would have us believe that a 5.5-inch iPhone 7 model could ship with Apple’s new wireless earbuds in the box.

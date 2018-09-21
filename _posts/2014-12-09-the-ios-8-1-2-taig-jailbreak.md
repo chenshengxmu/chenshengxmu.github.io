@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The iOS 8.1.2 update shouldn't affect the TaiG jailbreak
+title: The iOS 8.1.2 update shouldnt affect the TaiG jailbreak
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/TaiG-Jailbreak-icon.png)
 * According to several reliable sources within the jailbreak community, it looks like the TaiG jailbreak will remain working after the iOS 8.1.2 update. Although the TaiG tool will need to be updated to include iOS 8.1.2 support, it shouldn’t take any new exploits or re-enginering on the developer end to include support for iOS 8.1.2.

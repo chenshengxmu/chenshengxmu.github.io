@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quick tip- how to get a screenshot of your Mac's Lock screen
+title: Quick tip- how to get a screenshot of your Macs Lock screen
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/Mac-Lock-Screen-Screenshot-Guide.png)
 * Have you ever tried using the screenshot keyboard shortcut on your Mac’s Lock screen and noticed nothing happened? Getting a screenshot of your Mac’s Lock screen isn’t as straight-forward as you may have hoped, but it is certainly possible.

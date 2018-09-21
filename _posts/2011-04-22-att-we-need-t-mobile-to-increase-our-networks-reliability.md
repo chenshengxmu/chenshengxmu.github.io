@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T- We Need T-Mobile to Increase Our Network's Reliability
+title: AT&T- We Need T-Mobile to Increase Our Networks Reliability
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/ATT-And-TMobile-CEO-e1303476459267.jpg)
 * Since the news surfaced about AT&T’s potential acquisition of T-Mobile, many have concerned themselves with AT&T’s motivation behind the move.

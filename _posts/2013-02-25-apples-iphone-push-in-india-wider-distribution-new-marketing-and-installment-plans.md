@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's iPhone push in India- wider distribution, new marketing and installment plans
+title: Apples iPhone push in India- wider distribution, new marketing and installment plans
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/Apple-Retail-India.jpg)
 * After describing India as having less potential than China, Apple is increasing efforts to compete in the world’s second-largest cellphone market. The iPhone maker is now hoping installment payments, coupled with increased marketing can turn single-digit market penetration into a weapon against low-cost Androids.

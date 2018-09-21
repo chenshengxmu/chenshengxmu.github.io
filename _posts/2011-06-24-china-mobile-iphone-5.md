@@ -1,6 +1,6 @@
 ---
 layout: post
-title: China Mobile Worker Confirms iPhone 5's September Launch
+title: China Mobile Worker Confirms iPhone 5s September Launch
 ---
 ![img](http://www.idownloadblog.com/wp-content/uploads/2011/04/The-iPhone-5-“Basically-A-Better-iPhone-4″-–-Source-e1303303236887.png)
 * Still wondering why Apple COO Tim Cook was wandering around China Mobile HQ earlier this week? Well, it may have something to do with the company’s upcoming iPhone 5.

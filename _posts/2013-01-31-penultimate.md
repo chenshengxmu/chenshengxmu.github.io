@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Evernote's Penultimate handwriting app goes free, Hello gains business card scanning
+title: Evernotes Penultimate handwriting app goes free, Hello gains business card scanning
 ---
 * Acquired last year, Evernote’s Penultimate iPad app helps you jot down notes and draw sketches using your finger. It’s like having a Galaxy Note just without, you know, a pen. Penultimate 4.0 was launched this morning and Evernote kindly decided to offer it free of charge (it used to be a paid download). It’s tightly integrated with Evernote and your handwritten notes now sync fully via the cloud with your other Evernote content.
 * In fact, you can now open handwritten notes on any device that has the Evernote app. Plus, Evernote search is fully baked in and it’s quite clever, too: the cloud is able to parse your digital ink notes and turn them into easily searchable text. The new version also comes with more sharing options and support for eleven languages. Did I mention that Penultimate now doesn’t cost a dime?

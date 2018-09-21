@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Popular jailbreak tweak 'Barrel' updated with two new modes
+title: Popular jailbreak tweak Barrel updated with two new modes
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/04/Barrel-Update-Swirl.jpg)
 * If you’re a fan of Barrel, the well-known jailbreak tweak that brings animated transitions to the iOS SpringBoard, then you’ll be happy about this news. Today, it received an update that brings two new modes to the table. Introducing: Swirl and Whirlpool.

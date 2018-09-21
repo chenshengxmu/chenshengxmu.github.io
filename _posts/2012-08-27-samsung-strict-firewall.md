@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung hopes 'strict firewall' keeps Apple a customer
+title: Samsung hopes strict firewall keeps Apple a customer
 ---
 * In one of the most bizarre moments following its loss to Apple, Samsung executives met this weekend to discuss ways to keep its largest customer: Apple. At the heart of their strategy, the South Korean firm reportedly will rely on a “strict internal firewall” keeping separate its handset and chip units.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/crocodile-plover.jpg)

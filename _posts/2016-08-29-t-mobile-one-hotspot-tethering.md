@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile's new ONE add-ons bring unlimited LTE tethering, daily HD passes & more
+title: T-Mobiles new ONE add-ons bring unlimited LTE tethering, daily HD passes & more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/08/T-Mobile-One-logo.jpg)
 * When T-Mobile announced its upcoming ONE service that’ll give all customers “unlimited” 4G LTE data, eagled-eyed readers discovered in the fine print that mobile tethering is limited to sluggish 2G speeds, with 5GB of 4G LTE tethering sold as a $15 add-on. Today, the carrier clarified that ONE would include unlimited tethering at 3G speeds at no additional cost after all while unveiling ONE Plus upgrades with unlimited 4G LTE tethering, daily HD passes and more.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Current Apple Music subscribers can benefit from Verizon's new 6-month free promotion
+title: Current Apple Music subscribers can benefit from Verizons new 6-month free promotion
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/verizon-apple-music.jpg)
 * Beginning today, Aug. 16, Verizon Wireless is offering its Unlimited cellular customers a free six-month subscription to Apple Music. The promotion, which was announced earlier this month, isn’t just for new Apple Music users. Those who already subscribe to the service will also benefit. Here’s how to sign up, regardless of your status.

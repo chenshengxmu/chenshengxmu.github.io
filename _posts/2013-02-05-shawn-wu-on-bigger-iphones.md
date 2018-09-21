@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Analyst- Apple is 'leaving money on the table' by not pursuing phablets
+title: Analyst- Apple is leaving money on the table by not pursuing phablets
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/iphoneplus-all-models-extrawide.png)
 * With half the respondents voting for an Apple phablet in our non-scientific poll and the growing number of pundits making the case for a 5+ inch form-factor iOS device, little wonder that analyst are joining the fray and calling for a jumbo-sized iPhone. A good example is Sterne Agee’s Shaw Wu, who opines that Apple is losing out by not pursuing a phablet of its own.

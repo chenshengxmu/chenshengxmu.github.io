@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Siri creators to introduce new AI assistant 'Viv' next week
+title: Siri creators to introduce new AI assistant Viv next week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/og-viv-earth-c3184a16.jpg)
 * The creators of Siri are preparing to introduce a new AI assistant on Monday, reports The Washington Post. It’s called ‘Viv,’ and it’s far more advanced than Siri, capable of handling complex tasks like purchasing movie tickets or ordering pizza, without the need to switch between apps or other human interaction.

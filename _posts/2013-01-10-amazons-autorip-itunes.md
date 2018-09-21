@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Can AutoRip, Amazon's answer to iTunes, also revive the music CD?
+title: Can AutoRip, Amazons answer to iTunes, also revive the music CD?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/Music-CDs.jpg)
 * Amazon is taking another run at Apple, this time targeting iTunes. The online retail giant is hoping to increase its digital music market share by offering consumers free digital copies of purchased CDs. Hoping for a trifecta of sorts, the company looks to improve the fate of its Amazon MP3 service, increase exposure of it Cloud Player, while also chipping away at iTunes’ 50 percent marke tshare.

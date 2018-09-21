@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's iPhone 7 Lightning headphone adapter packs in a surprising amount of circuitry
+title: Apples iPhone 7 Lightning headphone adapter packs in a surprising amount of circuitry
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/iPhone-7-Lightning-headphone-adapter-X-ray-iFixit-001.png)
 * Repair wizards over at iFixit along with their pals at Creative Electron gave Apple’s new $9 iPhone 7 Lightning headphone adapter a thorough X-ray treatment. The analysis has revealed a surprising amount of circuitry inside of the dongle.

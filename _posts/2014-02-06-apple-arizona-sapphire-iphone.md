@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Arizona sapphire plant said to be gearing up to build 5" iPhone displays
+title: Apples Arizona sapphire plant said to be gearing up to build 5 iPhone displays
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/GT-Advanced-furnaces-Pocketnow-001.jpg)
 * We’ve known since last fall that Apple was teaming up with GT Advanced to open up a sapphire crystal manufacturing plant in Mesa, Arizona. But up until now, it’s been unclear exactly what components it would be making. Camera lenses? Touch ID covers?

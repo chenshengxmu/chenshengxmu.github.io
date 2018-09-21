@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple is doomed- iPhone's US share hits record 53%, Android down to 42%
+title: Apple is doomed- iPhones US share hits record 53%, Android down to 42%
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/iPhone-5-three-up-profile-front-back-black-and-white.jpg)
 * If you skimmed recent headlines, you could think Google’s Android was clearly in charge of the smartphone arms race. Yet, there are these pesky indicators that Apple’s impending collapse ranks right up there with the Mayan Calendar crazy talk.

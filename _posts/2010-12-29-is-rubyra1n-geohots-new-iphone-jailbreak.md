@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is RubyRa1n GeoHot's New iPhone Jailbreak?
+title: Is RubyRa1n GeoHots New iPhone Jailbreak?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/12/RubyRa1n.jpg)
 * When it rains in the jailbreak scene, that’s a good thing. Now it looks like there might be some scattered showers in our forecast in the form of RubyRa1n, which is reportedly iPhone liberator GeoHot’s lastest and greatest jailbreak tool.

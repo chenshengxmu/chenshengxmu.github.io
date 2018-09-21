@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CarPlay Activator rebranded as 'Ignition' launches for free on Cydia
+title: CarPlay Activator rebranded as Ignition launches for free on Cydia
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/Ignition-CarPlay.jpg)
 * CarPlay Activator, a tweak that we reviewed in depth a few weeks ago, is now available for download on Cydia as Ignition. The tweak, which is remarkably free of charge, is from well-respected developer Adam Bell. If you’re not interested in dropping north of $500 on a CarPlay head unit with a terrible resistive touch screen, then Ignition may be the answer to your CarPlay desires.

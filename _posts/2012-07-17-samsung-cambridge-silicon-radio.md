@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung snaps up UK's fabless chip maker CSR to better compete with Apple
+title: Samsung snaps up UKs fabless chip maker CSR to better compete with Apple
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/Samsung-Corporate-HQ-image-001.jpg)
 * Adamant to strengthen its portfolio of wireless patents (that seem to be all the rage these days) and help differentiate its smartphone and mobile chip businesses, Samsung ponied up $310 million for the mobile business of Cambridge Silicon Radio (CSR) PLC, based out in Cambridge, United Kingdom.

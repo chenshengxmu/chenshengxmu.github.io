@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Podcasts app updated with iOS 6 support, and iCloud subscription syncing
+title: Apples Podcasts app updated with iOS 6 support, and iCloud subscription syncing
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/Podcasts-iCloud-Sync.png)
 * Finally, Apple’s Podcast app is usable. I lamented over the fact that there was no iCloud subscription syncing included with the initial release, but it looks like Apple has acknowledged this glaring hole, and fixed it up just in time for iOS 6.

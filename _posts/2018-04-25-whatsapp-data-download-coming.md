@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WhatsApp's next update to bring account info download feature to all users globally
+title: WhatsApps next update to bring account info download feature to all users globally
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/11/WhatsApp-video-calling-teaser-001.jpg)
 * Following yesterday’s launch of Instagram’s data-download tool, WhatsApp has now announced that its next update due in the coming weeks will bring a similar feature of its own.

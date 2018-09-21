@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iWallet is indeed coming, Apple's newly published transaction patent suggests
+title: iWallet is indeed coming, Apples newly published transaction patent suggests
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/Apple-iWallet-patent-Transactions-icon.jpg)
 * Apple thus far has filed for a number of patents related to mobile payments, all seemingly pointing to a unified mobile payments solution dubbed iWallet. The most recent filing details a new transaction patent which goes to great lengths highlighting methods for conducting and managing financial transactions on smartphones such as the iPhone, giving hope that Apple engineers could in fact be secretly developing an on-the-go financial transactions service aimed at owners of iOS devices.

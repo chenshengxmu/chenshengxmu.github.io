@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Phil Schiller explains why the iPhone 5 doesn't have NFC
+title: Phil Schiller explains why the iPhone 5 doesnt have NFC
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iPhone-5-lightning-e1347471745189.jpg)
 * This year, similar to years past, a lot of folks expected to see Apple add NFC to its new smartphone. And even after previous reports all but ruled out the tech, a last minute scoop made it a possibility again.

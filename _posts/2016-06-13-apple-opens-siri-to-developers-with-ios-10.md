@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple opens Siri to developers with iOS 10's new SiriKit API
+title: Apple opens Siri to developers with iOS 10s new SiriKit API
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/Siri-Waveform.png)
 * iOS 10, which was unveiled at Apple’s WWDC 2016 Keynote on Monday, will provide users with the most in-depth Siri experience of any iOS release in history.

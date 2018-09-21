@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's anti-Big Brother patent could help with de-Googlification of iOS
+title: Apples anti-Big Brother patent could help with de-Googlification of iOS
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/Apple-1984-advert-Big-Brother-on-screen.jpg)
 * It’s virtually impossible to find a business that doesn’t mine data on its users, be it your local grocery store or an online-only outlet which carries digital warez. And it doesn’t matter whether you’re a prospective buyer browsing a collection of books on Amazon or a repeat customer using your credit card to purchase intangibles.

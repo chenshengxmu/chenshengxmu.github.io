@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Economics Behind Apple's Digital Textbook Initiative
+title: The Economics Behind Apples Digital Textbook Initiative
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/intro-to-textbooks.jpg)
 * During its New York-based media event this morning, Apple announced its plans to get into the digital textbook publishing business. We have a good recap of the event in case you missed it, but the gist of it all is fairly straight-forward.

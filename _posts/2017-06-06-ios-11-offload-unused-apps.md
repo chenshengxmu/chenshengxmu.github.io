@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 11 can automatically uninstall apps that haven't been used in a while
+title: iOS 11 can automatically uninstall apps that havent been used in a while
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/iOS-11-Home-screen-iPhone-iPad.jpg)
 * iOS 11 includes many new features and enhancements, big and small alike.

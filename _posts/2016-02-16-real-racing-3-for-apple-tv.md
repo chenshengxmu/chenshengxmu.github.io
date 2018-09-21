@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Real Racing 3 finally arrives on the new Apple TV in new 'Daytona 500' update
+title: Real Racing 3 finally arrives on the new Apple TV in new Daytona 500 update
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/02/Real-Racing-3-teaser-001.jpeg)
 * Electronic Arts’ and Firemonkeys’ Real Racing 3 has amassed over a hundred million downloads across iOS and Android platforms thus far. Yet, up until today this premium game was not available as a native app for the new Apple TV—despite the fact that rival Gameloft’s Asphalt 8 is one of the most downloaded Apple TV games. A new update to the free-to-play racing game, now available in the App Store, changes all that with native support for the Apple TV.

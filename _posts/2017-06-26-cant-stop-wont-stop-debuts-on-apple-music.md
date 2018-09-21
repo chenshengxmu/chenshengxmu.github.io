@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sean Combs' documentary “Can't Stop Won't Stop” debuts exclusively on Apple Music
+title: Sean Combs documentary “Cant Stop Wont Stop” debuts exclusively on Apple Music
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/04/Puff-Daddy-documentary-poster.jpg)
 * As promised back in April, the hip-hop documentary “Can’t Stop Won’t Stop: A Bad Boy Story” has made its exclusive debut on Apple’s music-stremaing service.

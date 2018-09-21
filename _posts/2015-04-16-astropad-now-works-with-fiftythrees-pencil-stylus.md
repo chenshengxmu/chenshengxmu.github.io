@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Astropad now works with FiftyThree's Pencil stylus
+title: Astropad now works with FiftyThrees Pencil stylus
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/Astropad-image-001.jpg)
 * Astropad, an awesome iPad application which turns your Apple tablet into a professional-grade graphics tablet for your Mac, now works with the Pencil stylus by FiftyThree.

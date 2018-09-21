@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile buys airwaves from Verizon, John Legere crashes AT&T's CES 2014 party
+title: T-Mobile buys airwaves from Verizon, John Legere crashes AT&Ts CES 2014 party
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/John-Legere-Uncarrier-001.jpg)
 * As first hinted back in November, Deutsche Telekom-owned Un-carrier, T-Mobile USA, just bought $3.3 billion worth of spectrum from Verizon Wireless, the nation’s top wireless carrier announced yesterday. The newly gained 700MHz spectrum licenses from Verizon should allow T-Mobile to take advantage of the low-band airwaves in nine of the top ten U.S. markets and 21 of the top 30.

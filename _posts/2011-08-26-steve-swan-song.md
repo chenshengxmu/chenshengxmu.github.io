@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 5 Announcement to be Steve's Swan Song?
+title: iPhone 5 Announcement to be Steves Swan Song?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/10967-steve-jobs-demonstrates-the-facetime-feature-on-the-iphone-4-e1314311363543.jpg)
 * We know, you get it, the man resigned. But what you may not see are all of the ramifications of his early exit. There’s a lot of people in the world with a lot riding on Apple’s success, and their world just got a whole lot scarrier.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's iBooks and iTunes U apps finally receive iOS 7 makeover
+title: Apples iBooks and iTunes U apps finally receive iOS 7 makeover
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/iBooks-3.2-for-iOS-iPhone-screenshot-001.jpeg)
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/iBooks-3.2-for-iOS-iPhone-screenshot-002.jpeg)

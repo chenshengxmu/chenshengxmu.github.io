@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Apple ad shows off iPad Pro's versatility as a computer replacement
+title: New Apple ad shows off iPad Pros versatility as a computer replacement
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/Apple-ad-iPAd-Pro-November-2017-image-002.jpg)
 * Apple on Thursday published a new commercial for iPad Pro via its official YouTube channel.

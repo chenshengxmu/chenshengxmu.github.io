@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Inside Apple's 2013 Annual Report- rising R&D costs, retail, ad expenses and more
+title: Inside Apples 2013 Annual Report- rising R&D costs, retail, ad expenses and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/iSpaceship-teaser-005.jpg)
 * Apple’s annual 10-K report to the SEC always includes interesting tidbits. This year, the tech giant said it spent $4.5 billion on research and development, a move the iPhone maker describes as “critical” to remaining competitive.

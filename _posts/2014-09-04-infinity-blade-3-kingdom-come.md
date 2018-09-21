@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Infinity Blade III 'Kingdom Come' update is out with new maps, enemies and more
+title: Infinity Blade III Kingdom Come update is out with new maps, enemies and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/Ininifty-Blade-III-Kingdom-Come-update-002.jpg)
 * The highly anticipated Infinity Blade III ‘Kingdom Come’ update is now available in the App Store. This is not only the final content update for the popular game, but ChAIR says that it includes everything needed to bring the entire Infinity Blade trilogy to an end.

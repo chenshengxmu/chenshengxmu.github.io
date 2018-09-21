@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to quickly join a Wi-Fi network using your iPhone's Camera app
+title: How to quickly join a Wi-Fi network using your iPhones Camera app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/iOS-11-router-QR-Code-scanning.jpg)
 * New in iOS 11, you can quickly connect to a Wi-Fi network by scanning a router’s QR code in Apple’s Camera app on your iPhone or iPad, no password typing required whatsoever.

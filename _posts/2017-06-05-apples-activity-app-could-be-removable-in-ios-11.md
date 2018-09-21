@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Activity app could be removable in iOS 11
+title: Apples Activity app could be removable in iOS 11
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/07/iOS-10-Watch-app-Activity-sharing-space-gray-iPhone-screenshot-001.png)
 * Aside from spotting interesting references to a drag-and-drop feature for iPad and an all-new dedicated Files app, developer Troughton-Smith also noticed a placeholder listing for Apple’s stock Activity app on App Store.

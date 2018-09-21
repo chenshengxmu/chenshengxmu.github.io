@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I'm Trying to Put a CD Into the iPad 2"
+title: Im Trying to Put a CD Into the iPad 2
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/07/trying-to-fit-cd-into-ipad-1-e1311732736609.png)
 * No, we can’t make this stuff up. A guy named Michael has been sharing his dilemma in a discussion thread on the Apple support forums, and he’s been slowly reaching the conclusion that the iPad 2 does not double as a CD player. 

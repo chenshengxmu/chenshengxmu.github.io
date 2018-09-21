@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's YouTube TV over-the-top video service is now available on Apple TV
+title: Googles YouTube TV over-the-top video service is now available on Apple TV
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/02/YouTube-TV-for-Apple-TV.jpg)
 * As promised earlier today, Google’s over-the-top video streaming app YouTube TV is now available on your fourth-generation Apple TV and Apple TV 4K.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Strong sales of older iPhones hurting Apple's astronomic profit margins
+title: Strong sales of older iPhones hurting Apples astronomic profit margins
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/01-4-Apple-stock-18062012.jpg)
 * Apple might need to rethink its decision to roll-out older iPhones at cheaper prices at the same time it introduces its latest version.

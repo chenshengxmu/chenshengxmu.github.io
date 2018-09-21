@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's Talk Jailbreak 167- Honorable mentions
+title: Lets Talk Jailbreak 167- Honorable mentions
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/Lets-Talk-Jailbreak-banner.png)
 * There is a new jailbreak in town, and it’s called Saigon. Joaquim gives us the low down on this new jailbreak as well as an update about the current jailbreak situation depending on devices and iOS version. The two co-hosts then discuss tweaks that make your iOS 10 device look like iOS 11, and other jailbreak tweaks. Side note: apologies about the poor sound quality. This shall not happen again.

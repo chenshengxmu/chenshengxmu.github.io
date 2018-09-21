@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung delays Bixby's English rollout over lack of big data
+title: Samsung delays Bixbys English rollout over lack of big data
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/03/Samsung-Galaxy-S8-Bixby-003.jpg)
 * Samsung’s personal digital assistant Bixby is currently available in Korean, but its English version won’t launch by the end of this month as company executives originally promised.

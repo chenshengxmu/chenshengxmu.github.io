@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VoIP-Based Services Like iMessage Reportedly Eating Carriers' Lunches
+title: VoIP-Based Services Like iMessage Reportedly Eating Carriers Lunches
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/imessage.jpg)
 * With third-party instant messaging apps, Apple’s own iMessage, and VoIP services becoming more prevalent, it is to be expected that at some point mobile networks will see a reduction in revenue as people move away from using SMS and voice calling.

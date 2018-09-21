@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple releases iOS 12 beta 2- see what's new
+title: Apple releases iOS 12 beta 2- see whats new
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/06/ios-12-beta-2.jpg)
 * As expected, Apple has released iOS 12 beta 2 for developers. The software update arrives 15 days after the first beta was released soon after this year’s Worldwide Developers Conference (WWDC) keynote. Developers can get the update from Apple’s site or over-the-air (OTA).

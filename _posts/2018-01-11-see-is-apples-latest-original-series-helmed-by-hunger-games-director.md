@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "See" is Apple's latest original series, helmed by Hunger Games director
+title: See is Apples latest original series, helmed by Hunger Games director
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/Apple-TV-app-teaser-004.jpg)
 * Apple continues its ingress to the world of original content with their latest straight-to-series order for See. An “epic, world building drama” from director of The Hunger Games: Catching Fire, Francis Lawrence

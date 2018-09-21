@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twitter Can't Wait for iOS 5 Public Release
+title: Twitter Cant Wait for iOS 5 Public Release
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/Screen-Shot-2011-09-28-at-8.41.38-PM.png)
 * The folks at Twitter are just as excited for iOS 5 as we are, with Apple set to unveil the final version of the software to the public alongside a new iPhone on Tuesday.

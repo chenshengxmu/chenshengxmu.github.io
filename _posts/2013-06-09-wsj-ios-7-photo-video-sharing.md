@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WSJ- 'new ways' to share photos, videos in iOS 7
+title: WSJ- new ways to share photos, videos in iOS 7
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/os-x-integration.png)
 * Throwing its proverbial credibility behind a recent rumor of iOS 7 having native Flickr and Vimeo integration, the credulous Wall Street Journal has just published a write-up which asserts that Apple’s upcoming iOS revision will feature photo-sharing enhancements alongside new look. iOS 7 will include “new ways to share photos and videos” with other users, people who are reportedly involved in its development said…

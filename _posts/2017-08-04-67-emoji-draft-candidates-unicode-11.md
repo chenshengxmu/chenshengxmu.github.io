@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Frowning pile of poo and other new emojis added for inclusion in 2018's Unicode 11
+title: Frowning pile of poo and other new emojis added for inclusion in 2018s Unicode 11
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/Frowning-poo-emoji-001.jpg)
 * Unicode 11 is coming in 2018 and the Unicode Consortium’s president Mark Davis yesterday announced that a total of 67 new emoji characters have been declared as draft candidates for potential inclusion in a release some time next year.

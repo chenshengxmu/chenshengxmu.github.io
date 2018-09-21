@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AndroidLock XT' Ice Cream Sandwich Theme Brings Android 4.0 Lock Screen to the iPhone
+title: AndroidLock XT Ice Cream Sandwich Theme Brings Android 4.0 Lock Screen to the iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/AndroidLock-XT-Ice-Cream-Sandwich.png)
 * AndroidLock XT has been out for a very long time, but for some strange reason I never got around to trying it. Recently, an Ice Cream Sandwich aka Android 4.0 theme was released for AndroidLock XT, so I was compelled to give it a go.

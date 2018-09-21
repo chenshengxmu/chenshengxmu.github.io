@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Supplies of iPhone 5 is 'extremely limited' amid unprecedented demand
+title: Supplies of iPhone 5 is extremely limited amid unprecedented demand
 ---
 * Remember the cliffhanger scene in movies: a damsel in distress is tied to railroad tracks ahead of an oncoming train. Will the hero arrive in time to rescue her? That’s a bit like the situation we have with the iPhone 5.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/supply-chain.jpg)

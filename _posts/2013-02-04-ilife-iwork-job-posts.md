@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple wants to 're-imagine' iLife and iWork apps
+title: Apple wants to re-imagine iLife and iWork apps
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/iPad-3-iPhoto-teaser.jpg)
 * Apple is looking for some fresh blood to join its iLife and iWork development teams and “re-imagine how user interfaces should be built and work”, a series of job ads posted on its web site indicates. In addition to engineers in the iLife Frameworks QA department, Apple is also seeking a QA engineer to help test new features in iPhoto, a Senior User Interface Designer for iWork and two Senior Software Engineer positions which explicitly mention improving the user interface of iLife apps…

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple off the hook as Chinese media approves of Tim Cook's apology
+title: Apple off the hook as Chinese media approves of Tim Cooks apology
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/iPhone-5-launch-in-China-001.jpg)
 * Pressured by the relentless crusade of state-owned media in China which have been dissing Apple in headlines for days over its warranty practices, Tim Cook yesterday issued an open letter.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TypeStatus adds an iMessage 'now typing' indicator to the status bar
+title: TypeStatus adds an iMessage now typing indicator to the status bar
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/Type-Status-Screenshot.png)
 * TypeStatus is a new jailbreak tweak that has a special place in my heart. Why? Well, it’s because for once I can claim some sort of credit for its creation. A couple of weeks ago, I suggested, just on a whim, that someone create a tweak that allows you to see the “now typing” indicator for iMessages in the status bar.

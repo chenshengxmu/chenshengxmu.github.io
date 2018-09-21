@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple confirms it's shipping Apple Watch orders ahead of schedule
+title: Apple confirms its shipping Apple Watch orders ahead of schedule
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/04/Apple-Watch-pre-orders1.png)
 * Apple confirmed this afternoon that the reports are true, Apple Watches are shipping ahead of schedule. A spokesperson for the company told BuzzFeed that “[Apple] is happy to be updating many customers today with the news that their Apple Watch will arrive sooner than expected.”

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Did iPhone 7's touch-sensitive Home button just leak?
+title: Did iPhone 7s touch-sensitive Home button just leak?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/iPhone-7-Home-button-MobiPicker-002.jpg)
 * Many sources are adamant that we’ll have to wait until a tenth anniversary iPhone next year for a bezel-less device with an integrated Touch ID sensor and no Home button. As for the upcoming iPhone 7 revision, the most recent leak from MobiPicker suggests that the iPhone 7 might come outfitted with a touch-sensitive Home button that sits flush with the surrounding bezel, requiring users to perform tapping actions due to the absence of any moving parts.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Breaking Bad's Bryan Cranston is the voice behind new iPad Air ad
+title: Breaking Bads Bryan Cranston is the voice behind new iPad Air ad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/bryan-cranston.jpg)
 * Apple introduced a new iPad mini and full-sized iPad yesterday to a packed audience at San Francisco’s Yerba Buena Center. The former is now sporting a crisp Retina display, and the latter has been redesigned as the ‘iPad Air.’

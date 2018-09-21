@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nokia, Samsung countering iPhone 5 with 'iconic' Windows Phone 8 devices
+title: Nokia, Samsung countering iPhone 5 with iconic Windows Phone 8 devices
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/Lumia-800.jpg)
 * The next iPhone is upon us (think September 21-ish) and Apple’s rivals are scrambling to conveniently time their upcoming ‘hero’ device announcements around the same timeframe. That’s brave tactics, trying to divert spotlight away from the mother of all upgrades, as analyst Gene Munster dubbed the iPhone 5 release.

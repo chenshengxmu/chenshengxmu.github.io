@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Former Apple ad man says iPhone could have been called the 'Telepod'
+title: Former Apple ad man says iPhone could have been called the Telepod
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/iPhone-5-Apple-Store-window-UTC-la-jolla.jpg)
 * Former Apple ad man and creator of the famous ‘Think Different’ campaign Ken Segall has been garnering a lot of headlines in the Cupertino blogosphere lately. Last week, he published a blog post on why Samsung’s anti-Apple marketing has been so effective.

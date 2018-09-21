@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple hiring software engineers to help 'overhaul' Maps backend
+title: Apple hiring software engineers to help overhaul Maps backend
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/carplay-5.png)
 * According to a pair of new job listings, Apple is looking for folks to help with a major rewrite of its Maps app programming interface. The listings, which were posted yesterday, call for software engineers to aid the company in a major overhaul of its Maps API.

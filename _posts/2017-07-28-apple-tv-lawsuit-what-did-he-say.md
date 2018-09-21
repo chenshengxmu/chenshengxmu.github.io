@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple sued over 'What Did He/She Say?' feature in tvOS
+title: Apple sued over What Did He/She Say? feature in tvOS
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/10/Apple-TV-4-watching-movies-lifestyle-001.jpg)
 * A Florida company named CustomPlay yesterday filed a patent infringement lawsuit against Apple with the U.S. District Court for the Southern District of Florida over the Siri-powered ‘What Did He/She Say?’ feature used in tvOS on the fourth-generation Apple TV.

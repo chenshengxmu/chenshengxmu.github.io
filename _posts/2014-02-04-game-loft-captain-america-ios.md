@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Captain America- The Winter Soldier' coming to iOS this spring
+title: Captain America- The Winter Soldier coming to iOS this spring
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/captain-america.png)
 * Gameloft and Marvel announced the official tie-in game for the upcoming Captain America sequel this morning. It’s called ‘Captain America: The Winter Soldier’ and it will be arriving on iOS, Android and Windows Phone platforms this spring.

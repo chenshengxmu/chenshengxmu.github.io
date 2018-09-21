@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It's possible to upgrade your iPhone's storage to 128GB for $60
+title: Its possible to upgrade your iPhones storage to 128GB for $60
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/02/Screen-Shot-2016-02-03-at-1.55.12-PM.png)
 * When deciding what iPhone to buy so you end up with the right amount of storage capacity, you can get the bare-bones $16GB model, or you can end up with an upgraded 64GB, or 128GB model, which are probably your best bets with the new video cameras capable of recording at 4K quality.

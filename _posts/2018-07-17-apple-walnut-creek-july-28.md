@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Grand opening of Apple's relocated Walnut Creek store set on July 28
+title: Grand opening of Apples relocated Walnut Creek store set on July 28
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/Apple-Wallnut-Creek-new-store.jpg)
 * Apple has scheduled grand opening of their new store at the heart of the bustling Broadway Plaza outdoor shopping mall in Walnut Creek, California, on Saturday, July 28 at 10am.

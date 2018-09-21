@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Use 'ClipboardEdit' to edit your clipboard from Notification Center
+title: Use ClipboardEdit to edit your clipboard from Notification Center
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/ClipboardEdit-for-Notification-Center.jpeg)
 * Sometimes original ideas are hard to come by, whether you’re a jailbreak developer, or an App Store developer.

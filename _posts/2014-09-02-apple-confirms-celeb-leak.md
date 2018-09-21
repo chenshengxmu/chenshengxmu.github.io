@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple confirms celeb photo leak was the result of a "very targeted attack," not an iCloud breach
+title: Apple confirms celeb photo leak was the result of a very targeted attack, not an iCloud breach
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/apple-hq-headquarters.jpg)
 * In a statement this afternoon, Apple provided an update for its ongoing investigation into the alleged iCloud hack that resulted in a massive leak of hundreds of revealing celebrity photos. The company says it has determined the scandal was not the result of a breach in iCloud or any subsequent services.

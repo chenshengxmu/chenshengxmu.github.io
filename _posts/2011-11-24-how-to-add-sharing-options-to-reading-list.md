@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Add Sharing Options to Safari's Reading List
+title: How to Add Sharing Options to Safaris Reading List
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/ActionList.png)
 * Reading List, the Instapaper-like feature included with iOS 5, is a great way to save web pages for reading later. But what if you want to share some of the content that you’ve saved to your reading list? What then?

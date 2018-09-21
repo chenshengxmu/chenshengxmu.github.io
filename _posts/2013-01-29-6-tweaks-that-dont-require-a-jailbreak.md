@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 6 tweaks that don't require a jailbreak
+title: 6 tweaks that dont require a jailbreak
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/Non-Jailbreak.png)
 * Yes, the iOS 6.1 untethered jailbreak is almost here, and from the looks of things it will support nearly every recent iOS device. But until that time, why not take a look at some of the cool “non-jailbreak” that have been recognized over the last few weeks and months.

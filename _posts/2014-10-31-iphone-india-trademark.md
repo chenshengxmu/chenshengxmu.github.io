@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's 'iPhone' trademark is being challenged in India
+title: Apples iPhone trademark is being challenged in India
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/iphone_6_6plus_primary-100413338-primary.idge_.jpg)
 * Tamil Nadu-based company iVoice Enterprise is moving forward with its challenge to Apple’s ‘iPhone’ trademark in India, reports PatentlyApple. The firm has asked the country’s Intellectual Property Appellate Board (IPAB) to remove the trademark from their registry.

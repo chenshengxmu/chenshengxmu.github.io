@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twelve South's Fermata charging stand keeps your wireless headphones organized
+title: Twelve Souths Fermata charging stand keeps your wireless headphones organized
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/11/Twelve-South-Fermata-Headphone-Stand.png)
 * With the removal of the 3.5mm headphone jack on the iPhone 7 & 7 Plus, it doesn’t take a rocket scientist to predict that many people will be moving to wireless Bluetooth headphones instead of wired ones.

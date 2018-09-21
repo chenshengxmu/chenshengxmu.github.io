@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Look at Apple's Future Grand Central Terminal Store
+title: A Look at Apples Future Grand Central Terminal Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/07/Apple-Store-Grand-Terminal-Preview.jpg)
 * Apple just inked a deal with the Metropolitan Transportation Authority, the organization that manages Grand Central Terminal, New York’s world renowned train station.

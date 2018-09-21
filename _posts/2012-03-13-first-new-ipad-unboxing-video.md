@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's the first unboxing video of the new iPad
+title: Heres the first unboxing video of the new iPad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/new-ipad-unbox.jpg)
 * While the rest of the world has to wait until later this week to see Apple’s new tablet up close, the folks over at Tinhte.vn appear to have already gotten their hands on one.

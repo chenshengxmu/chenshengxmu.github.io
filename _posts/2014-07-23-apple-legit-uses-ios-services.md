@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple outlines diagnostic capabilities in response to iOS 'backdoor' concerns
+title: Apple outlines diagnostic capabilities in response to iOS backdoor concerns
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/iOS-7-teaser-iPhone-5s-ad-009.jpg)
 * Forensic expert, and former jailbreak hacker, Jonathan Zdziarski caused quite a stir earlier this week when he published a report accusing Apple of building backdoors into iOS that could be used for government surveillance.

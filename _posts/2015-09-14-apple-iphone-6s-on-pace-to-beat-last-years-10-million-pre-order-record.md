@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple- iPhone 6s on pace to beat last year's 10 million pre-order record
+title: Apple- iPhone 6s on pace to beat last years 10 million pre-order record
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/iPhone-6s-4K-video.jpg)
 * Apple this morning confirmed in a statement issued to CNBC that its iPhone 6s and iPhone 6s Plus are “on pace” to beat the ten million pre-order record established during last year’s first-weekend sales of the iPhone 6 and iPhone 6 Plus. The number flies in the face of many clueless analysts who said Apple wouldn’t be able to hit that number this time around because the iPhone has peaked.

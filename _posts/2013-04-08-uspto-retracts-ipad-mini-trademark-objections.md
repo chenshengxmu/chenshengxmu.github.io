@@ -1,6 +1,6 @@
 ---
 layout: post
-title: USPTO withdraws its objections to Apple's 'iPad mini' trademark
+title: USPTO withdraws its objections to Apples iPad mini trademark
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/iPad-in-hands-two-up-iPad-iPad-mini.jpg)
 * We told you how the United States Patent and Trademark Office (USPTO) recently turned down Apple’s trademark application for the iPad mini because its review team deemed the moniker as ”merely describing” the product. They also mentioned that other identities have applied for the ‘iPad’ trademark, meaning there’s a “likelihood of confusion between the marks.”

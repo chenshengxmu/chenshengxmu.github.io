@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple building the nation's largest end user owned solar energy farm
+title: Apple building the nations largest end user owned solar energy farm
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/Solar_Farm-web.jpg)
 * Last Fall, word got out that Apple was planning to build a solar energy farm to power its newly-built data center in North Carolina. The facility, which hosts a bulk of Apple’s iCloud service, went live during the Summer of last year.

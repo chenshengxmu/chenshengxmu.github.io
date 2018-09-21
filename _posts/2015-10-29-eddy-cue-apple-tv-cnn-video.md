@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Watch Apple's Cue explaining Apple TV benefits
+title: Watch Apples Cue explaining Apple TV benefits
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/10/Apple-TV-Eddy-Cue-image-001.jpg)
 * Eddy Cue, Apple’s Senior Vice President of Internet Software and Services, gave CNN a tour of the new Apple TV, which hits Apple’s retail stores tomorrow.

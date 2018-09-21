@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Join iDB for tomorrow's Apple event
+title: Join iDB for tomorrows Apple event
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/apple-graham-event.jpg)
 * Apple’s ‘Hey Siri’ event is now less than a day away, and anticipation couldn’t be higher. We’re expecting a jam-packed keynote tomorrow with new iPhones, the first Apple TV update in more than 3 years, new Apple Watch bands, and possibly even the long-rumored iPad Pro.

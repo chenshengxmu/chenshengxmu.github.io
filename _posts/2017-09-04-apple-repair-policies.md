@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Leaked guide provides rare insight into how Apple's repair policies work
+title: Leaked guide provides rare insight into how Apples repair policies work
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/Apple-repair-guide-for-service-technicians-image-002.jpg)
 * Business Insider last Friday obtained Apple’s 22-page document for internal distribution, titled “Visual/Mechanical Inspection Guide,” that explains how iPhone service eligibility is determined while specifically highlighting what is and isn’t covered in warranty repairs.

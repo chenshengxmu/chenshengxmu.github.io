@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple wins Outdoor Lions Grand Prix at Cannes for 'Shot on iPhone 6' campaign
+title: Apple wins Outdoor Lions Grand Prix at Cannes for Shot on iPhone 6 campaign
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/shot-on-iphone-61.png)
 * Apple picked up the top prize in the Outdoor Lions category at the Cannes Lions International Festival of Creativity this week for its recent “Shot on iPhone 6” ad campaign. The annual event, often referred to as the world’s biggest ad festival, features thousands of ads from around the world to be showcased and judged.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WebOffline for Chrome brings offline web page reading to Google's iOS browser
+title: WebOffline for Chrome brings offline web page reading to Googles iOS browser
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/WebOffline-for-Chrome.jpg)
 * WebOffline for Chrome is a new jailbreak tweak that integrates offline reading capability directly into the Google Chrome browser for iOS. As someone who does a lot of offline reading, and as someone who’s a huge Google Chrome proponent, this sounded like the perfect tweak for me. Sadly, the tweak falls short due to its bugs.

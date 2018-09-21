@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft's OneNote hits Mac App Store, available free for a limited time
+title: Microsofts OneNote hits Mac App Store, available free for a limited time
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/Microsoft-OneNote-1.0-for-Mac-screenshot-001.jpeg)
 * The rumors were true: Windows giant Microsoft has just released its note-taking app, OneNote, for the Mac.

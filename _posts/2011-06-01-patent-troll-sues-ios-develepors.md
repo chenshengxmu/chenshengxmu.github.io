@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Patent Troll Won't Stay In Its Cave, Lodsys Continues to Sue iOS Develepors
+title: Patent Troll Wont Stay In Its Cave, Lodsys Continues to Sue iOS Develepors
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/05/lodsys1-e1306893739336.png)
 * In case you haven’t heard, a patent troll by the name of “Lodsys” threatened to sue App Store developers for allegedly infringing on the Lodsys patent of in-app upgrades. Apple responded by saying that Lodsys had no right to prosecute based on this patent that Apple licensed years ago.

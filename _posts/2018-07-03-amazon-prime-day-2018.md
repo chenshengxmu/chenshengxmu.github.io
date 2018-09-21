@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Although it doesn't start until July 16, Amazon Prime Day has already kicked off
+title: Although it doesnt start until July 16, Amazon Prime Day has already kicked off
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/prime-day-2018.jpg)
 * This year’s Amazon Prime Day doesn’t kick off until Monday, July 16 beginning at 12:01 p.m. PDT. But let’s be honest here, the event has already started as some deals are now online with many more coming between now and the event’s official start. 

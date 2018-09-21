@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's new Mac Pro is now available for order
+title: Apples new Mac Pro is now available for order
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/order-mac-pro.png)
 * As promised yesterday, Apple’s all-new Mac Pro desktop computer is now available for order via the company’s website. Ready-made models are shipping right now by December 30 and upgraded versions are showing ‘available to ship’ dates in January.

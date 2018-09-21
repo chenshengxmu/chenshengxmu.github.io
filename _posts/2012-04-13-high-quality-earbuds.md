@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple working on high quality "unibody" earbuds
+title: Apple working on high quality unibody earbuds
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/up-close-apple-earbud.jpg)
 * Imagine that, another patent application has popped up in the United States Patent and Trademark Office database this week with Apple’s name on it. The filing is entitled Ultrasonically Welded Structures and Methods for Making the Same.

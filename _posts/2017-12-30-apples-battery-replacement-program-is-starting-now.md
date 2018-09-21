@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's battery replacement program is starting now
+title: Apples battery replacement program is starting now
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/iOS-11-Battery-Issues.jpg)
 * Along with its apology for miscommunicating about the throttling of performance of iPhones with degraded battery, Apple lowered the price of battery replacements for qualifying devices and said this program would be available starting in early 2018. 

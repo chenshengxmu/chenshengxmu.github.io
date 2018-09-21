@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple is turning NYT's interactive feature on climate change into a non-fiction TV series
+title: Apple is turning NYTs interactive feature on climate change into a non-fiction TV series
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/04/Google-Earth-teaser-001.jpg)
 * Apple has reportedly scored rights to turn “Losing Earth: The Decade We Almost Stopped Climate Change,” an interactive feature that filled an entire recent issue of The New York Times Magazine, into a nonfiction TV show about climate change.

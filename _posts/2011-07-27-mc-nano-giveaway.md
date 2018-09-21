@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mobile Cloth "MC Nano" Giveaway [Winners Announced]
+title: Mobile Cloth MC Nano Giveaway [Winners Announced]
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/07/MC-nano-e1311783587293.jpeg)
 * Sebastien reviewed the Mobile Cloth last year, and he was right in calling it a “no-brainer” for iPhone and iPad users. The Mobile Cloth is the most effective and affordable screen cleaning cloth out there, and we at iDB use Mobile Cloths to clean our own tech.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The New Yorker profiles infamous hacker George "GeoHot" Hotz
+title: The New Yorker profiles infamous hacker George GeoHot Hotz
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/geohot-2007-iphone-unlock.jpg)
 * George “GeoHot” Hotz has been described as one of the most famous hackers of our generation. Most of us know him for his work in the jailbreak community, and his original iPhone unlock that launched him into the public eye.

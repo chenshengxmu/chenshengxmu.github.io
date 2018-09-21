@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's why we think AT&T might begin charging for FaceTime over cellular [Video]
+title: Heres why we think AT&T might begin charging for FaceTime over cellular [Video]
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/face-time-over-cellular-att-e1342502364769.jpg)
 * This video showcases the new pop-up dialogue box that interrupts you when trying to enable FaceTime over cellular in iOS 6 beta 3.

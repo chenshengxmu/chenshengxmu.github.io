@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple in 2012 topped Japan's mobile phone market
+title: Apple in 2012 topped Japans mobile phone market
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iPhone-5-Japan.png)
 * Apple may have a slight market share problem in BRIC markets (Brazil, Russia, India and China), but over in Japan the company has moved the needle in a big way. According to Hong Kong-based market research firm Counterpoint Research, Apple for the first time ended Sharp’s six-year run at the top to became the first non-Japanese company to rule the Japanese mobile phone market with a fifteen percent share in 2012, a notable increase from its ten percent market share in 2011…

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chronic-Dev Team "Actively Working" on the iOS 5 Untethered Jailbreak
+title: Chronic-Dev Team Actively Working on the iOS 5 Untethered Jailbreak
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/iOS-5-jailbreak.jpeg)
 * As we near the public launch of iOS 5, many jailbreakers are wondering what the future holds. It was originally thought that Apple was out to kill jailbreaking in iOS 5, and many became even more worried when famed hacker Comex announced that he had been hired by Apple. Was the end drawing near?

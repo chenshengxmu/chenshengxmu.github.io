@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple denies knowledge of NSA's iPhone program
+title: Apple denies knowledge of NSAs iPhone program
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/Touch-ID-success.png)
 * Yesterday, a trove of secret documents was released regarding the NSA and its ongoing spying on citizens both abroad and here in the US. One of the programs mentioned, called DROPOUTJEEP, is particularly scary as it can give the Agency complete control of any iPhone.

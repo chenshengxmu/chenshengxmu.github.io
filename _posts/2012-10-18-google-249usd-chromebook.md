@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nope, Google's $249 Chromebook totally didn't rip off MacBook Air wholesale
+title: Nope, Googles $249 Chromebook totally didnt rip off MacBook Air wholesale
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/Google-Chromebook-11.6-inch.jpg)
 * I kinda like the concept of an Internet-only notebook which boots in a few seconds, is always on and runs smoothly. I wanted to like Google-branded Chromebooks and almost bought one before realizing that Apple has already ticked all the right boxes with its iPad computer. But if a portable computing device with a physical keyboard which runs a browser-based OS and runs only web apps is your thing, this new Chromebook surely will pique your interest.

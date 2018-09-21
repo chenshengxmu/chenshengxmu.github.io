@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile can't afford to keep going, parent company says
+title: T-Mobile cant afford to keep going, parent company says
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/t-mobile-legere.jpg)
 * While T-Mobile and its UnCarrier strategy are great for customers like you and me, apparently it’s not the best for business.

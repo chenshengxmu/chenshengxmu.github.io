@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is this iPhone 6's A8 processor?
+title: Is this iPhone 6s A8 processor?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/Apple-A8-GeekBar-002.jpg)
 * If this image published on Weibo is genuine, the Apple-designed A8 processor said to power the iPhone 6 and new iPads may have been finally photographed. Serving as the engine powering the next wave of iPhone and iPad device, the in-house designed A8 processor is said to be clocked at two or more GHz per core, if Chinese media is to be believed.

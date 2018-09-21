@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Can't activate your iPhone? Here's why and how to fix it
+title: Cant activate your iPhone? Heres why and how to fix it
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/activate-iPhone.jpg)
 * It would be really nice if every single time you went to activate your new or restored iPhone, everything worked without any flaws, but that’s just not how man-made things work.

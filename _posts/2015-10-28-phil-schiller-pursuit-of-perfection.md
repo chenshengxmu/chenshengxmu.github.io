@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's marketing honcho discusses pursuit of perfection, intense team collaboration and more
+title: Apples marketing honcho discusses pursuit of perfection, intense team collaboration and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/10/Phil-Schiller-Lance-Ulanoff-campus-walk.jpg)
 * Phil Schiller, 55, is a man of many superlatives, not least of which is the famous ‘can’t innovate anymore, my ass’ message to Apple haters during the unveiling of the radically revamped Mac Pro workstation.

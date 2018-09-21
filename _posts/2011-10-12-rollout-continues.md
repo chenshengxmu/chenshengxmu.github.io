@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iCloud.com Updated, No Longer Marked "Beta"
+title: iCloud.com Updated, No Longer Marked Beta
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/Screen-Shot-2011-10-11-at-11.48.06-PM-e1318403881806.png)
 * Apple is in the middle of one of its busiest weeks in recent memory. It’s releasing multiple major software updates, including iOS 5, and it’s launching a major sync and storage service. Oh, and it has to deliver a million iPhone 4S orders by Friday.

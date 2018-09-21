@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Following user backlash, Realmac Software reinstates original 'Clear' app
+title: Following user backlash, Realmac Software reinstates original Clear app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/clear-ios-7.png)
 * Realmac Software has decided to reverse course, and reinstate its original ‘Clear’ todo list app to sell alongside its all-new universal app it released for iOS 7. It originally planned to discontinue the iPhone-only app.

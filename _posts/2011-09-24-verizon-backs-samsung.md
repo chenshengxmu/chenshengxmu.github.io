@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Verizon Backs Samsung, Asks US Court to Deny Apple's Injunction
+title: Verizon Backs Samsung, Asks US Court to Deny Apples Injunction
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/07/Verizon-Wireless-reactor-explosion-e1311887047581.png)
 * Apple and Samsung’s ongoing court battle has resulted in a temporary ban of Samsung products all over the globe. The Korean company has been blocked from selling its Galaxy tablet and other devices in Australia, Germany, and other countries.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video pits Apple's Touch ID against Samsung's Galaxy S5 fingerprint scanner
+title: Video pits Apples Touch ID against Samsungs Galaxy S5 fingerprint scanner
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/galaxy-s5-iphone-5s.png)
 * Following the debut of the iPhone 5s and its Touch ID fingerprint scanner in October last year, Samsung introduced the Galaxy S5 with its own fingerprint recognition tech. The handset was unveiled last month, and is slated to launch for major carriers on April 11.

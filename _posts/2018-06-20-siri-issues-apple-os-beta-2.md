@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Siri on Apple's latest OS betas is acting up
+title: Siri on Apples latest OS betas is acting up
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/06/Siri-beta-issues-iOS-12-beta-2.jpg)
 * According to numerous reports on Twitter and Reddit, iOS 12 beta 2 and other developer OS updates that Apple issued yesterday are causing intermittent availability issues with Siri.

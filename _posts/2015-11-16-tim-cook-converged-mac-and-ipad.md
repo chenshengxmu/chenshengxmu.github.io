@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook on why making converged Mac and iPad doesn't make sense
+title: Tim Cook on why making converged Mac and iPad doesnt make sense
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/11/iPad-Pro-in-hand-Jonathan-Morrison-image-001.jpg)
 * Apple CEO Tim Cook sat down with The Independent to talk the 12.9-inch iPad Pro, Apple’s latest addition to the iPad lineup.

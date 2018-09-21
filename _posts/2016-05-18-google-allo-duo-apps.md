@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Google apps at I/O 2016- 'Allo' for messaging and 'Duo' for video calling
+title: New Google apps at I/O 2016- Allo for messaging and Duo for video calling
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/Google-Duo-image-001.jpg)
 * Google’s annual pilgrimage for developers kicked off earlier this morning with a keynote which was streamed live on YouTube in both regular and full 360-degree VR modes.

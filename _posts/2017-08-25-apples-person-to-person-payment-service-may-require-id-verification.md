@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's person-to-person payments service may require ID verification
+title: Apples person-to-person payments service may require ID verification
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/WWDC-2017-apple-pay-person-to-person.jpg)
 * iOS 11 brings out support for person-to-person payments through iMessage. For security purposes, it looks like this handy new feature will require you to verify your identity by snapping a picture of your driver’s license or other photo ID with your iOS device’s camera.

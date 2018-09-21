@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Lightning to 3.5mm headphone jack adapter is only $9
+title: Apples Lightning to 3.5mm headphone jack adapter is only $9
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/Apple-Lightning-to-3.5mm-headphone-jack.png)
 * One of the things that sets the iPhone 7 and iPhone 7 Plus apart from the rest of the iPhone lineup is the exclusion of the 3.5mm headphone jack. Apple is now requiring headphones to either go wireless or utilize the Lightning port.

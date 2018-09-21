@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Add springiness to your iPhone's app-launching animation with Trampoline
+title: Add springiness to your iPhones app-launching animation with Trampoline
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/06/Trampoline-Featured.jpg)
 * Trampoline is a new free jailbreak tweak by iOS developer Patrick that gives your iOS device a revised app-launching/closing animation; and just as the name suggests, it’s quite springy.

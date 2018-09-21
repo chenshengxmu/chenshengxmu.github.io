@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jane Krakowski joins Apple's 'Dickinson' comedy series
+title: Jane Krakowski joins Apples Dickinson comedy series
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/jane-k-2.jpg)
 * Jane Krakowski has joined the cast of Apple’s upcoming half-hour comedy series, “Dickinson.” The series, based on the life of 1800s poet Emily Dickinson, stars Oscar-nominated actress Hailee Steinfeld (“Pitch Perfect 3,” “True Grit”) in the title role. Krakowski will play Emily’s mother, according to Variety.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You can now take 360-degree photos in Facebook's iOS app
+title: You can now take 360-degree photos in Facebooks iOS app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/FAcebook-for-iOS-360-degree-photos-teaser-001.jpg)
 * Facebook’s mainland mobile app for iPhone and iPad is being updated later today with the ability to take 360-degree photos, publish them on the service like you would regular images and even set panoramic shots as your profile’s cover photo, TechCrunch has learned.

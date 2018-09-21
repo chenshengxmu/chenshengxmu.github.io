@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New App Store section features "Apps for Health," a collection of apps that support HealthKit
+title: New App Store section features Apps for Health, a collection of apps that support HealthKit
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/HeatlhKit-App-Store-section-banner.png)
 * The App Store has been updated Saturday afternoon with an “Apps for Health” section in the Featured tab, which lists several apps that use iOS 8’s Health app to aggregate health and fitness data into a unified location for users.

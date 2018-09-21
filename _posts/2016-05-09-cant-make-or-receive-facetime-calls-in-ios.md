@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What to do if you can't make or receive FaceTime calls iPhone or iPad
+title: What to do if you cant make or receive FaceTime calls iPhone or iPad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/activation_error.jpg)
 * Have you ever received one of those annoying messages that basically tells you FaceTime is having problems on your iPhone, iPod touch, or iPad? They can be incredibly annoying, but usually they’re easy problems to fix.

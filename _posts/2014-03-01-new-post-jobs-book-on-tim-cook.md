@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook described as a 'machine' and 'riveting' in new book on post-Jobs Apple
+title: Tim Cook described as a machine and riveting in new book on post-Jobs Apple
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/Tim-Cook-holds-iPad-with-Katie-Cotton-Jacqui-Cheng.jpg)
 * When Tim Cook officially took over the CEO position for Steve Jobs in late 2011, he had some major shoes to fill. Jobs wasn’t just chief executive at Apple, he was also its co-founder, savior and visionary. And he was arguably one of the most famous leaders of our generation.

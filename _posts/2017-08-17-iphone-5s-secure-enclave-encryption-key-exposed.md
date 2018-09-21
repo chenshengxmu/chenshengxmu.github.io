@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Decryption key for iPhone 5s's Touch ID Secure Enclave coprocessor has been exposed
+title: Decryption key for iPhone 5ss Touch ID Secure Enclave coprocessor has been exposed
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/iPhone-5s-Touch-ID-closeup-002.jpg)
 * Ahead of this year’s Hack in the Box (HITB) conference in Singapore, security researcher who goes by the Twitter handle “xerub” has managed to expose the fully grown decryption key for the iPhone 5s’s cryptographic coprocessor that handles Touch ID, called Secure Enclave.

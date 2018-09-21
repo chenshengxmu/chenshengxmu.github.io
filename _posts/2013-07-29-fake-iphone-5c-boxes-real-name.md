@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Authenticity of leaked 'iPhone 5C' boxes questioned, but name said to be real
+title: Authenticity of leaked iPhone 5C boxes questioned, but name said to be real
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/iPhone5C.jpg)
 * Over the weekend, some photos of packaging allegedly belonging to Apple’s low-cost iPhone surfaced on the internet. Admittedly, the boxes looked fake, as there were a number of visible inconsistencies, but the ‘iPhone 5C’ branding on them was intriguing.

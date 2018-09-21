@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MG Siegler- major Apple TV hardware has been 'delayed a bit'
+title: MG Siegler- major Apple TV hardware has been delayed a bit
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/appletv_01102013.jpg)
 * MG Siegler, a well-known (and certainly well-connected) TechCrunch columnist, blogger, Google Ventures partner and Apple pundit, has gotten us pretty excited by tweeting a month ago that a new Apple TV hardware might be on tap for tomorrow’s iPad event.

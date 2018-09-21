@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EarthLockScreen places a rotating globe on your iPhone's Lock screen
+title: EarthLockScreen places a rotating globe on your iPhones Lock screen
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/EarthLockScreen.jpg)
 * With EarthLockScreen, a free new jailbreak tweak that recently landed on the Cydia store, you can have the world in your palm. Yes, that was a terrible attempt at a joke, but you get the point.

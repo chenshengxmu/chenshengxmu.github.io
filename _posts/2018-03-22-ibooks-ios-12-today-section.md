@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 12's completely overhauled iBooks app will reportedly include App Store-like Today section
+title: iOS 12s completely overhauled iBooks app will reportedly include App Store-like Today section
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/iBooks-Books-App-Icon.jpg)
 * Apple’s iBooks app for iOS 12 is said to feature a new Today tab.

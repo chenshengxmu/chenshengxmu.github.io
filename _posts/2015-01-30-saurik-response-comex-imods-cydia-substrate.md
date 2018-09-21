@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Saurik posts response to Comex's Cydia Substrate replacement, comments on new features coming to Cydia
+title: Saurik posts response to Comexs Cydia Substrate replacement, comments on new features coming to Cydia
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/Saurik-Interview-e1304046054105.png)
 * As expected, Jay “saurik” Freeman has posted a lengthy response to Comex’s Cydia Substrate replacement strategy. In the post, which appears on his personal blog, he outlines some of the history he’s had with Comex, why open source isn’t always best, and drops hints on several new upcoming Cydia features.

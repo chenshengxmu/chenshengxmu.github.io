@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A replay stream of today's event is now available on Apple's website
+title: A replay stream of todays event is now available on Apples website
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/Apple-September-2105-event-Tim-Cook-opening-004.jpg)
 * If you didn’t follow a live-stream of Apple’s keynote presentation this morning, you can now enjoy the event anyway as Apple has just posted the full replay stream of the event on its website. The press conference was packed with several announcements, including the iPhone 6s and iPhone 6s Plus, the iPad Pro, the Apple Pencil, the new Apple TV and more.

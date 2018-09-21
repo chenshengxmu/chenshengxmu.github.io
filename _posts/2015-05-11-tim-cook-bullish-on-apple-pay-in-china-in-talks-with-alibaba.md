@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook 'bullish on Apple Pay' in China, in talks with Alibaba
+title: Tim Cook bullish on Apple Pay in China, in talks with Alibaba
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/apple-pay-cards.jpg)
 * Amid rumors, Apple CEO Tim Cook acknowledged in an interview with Xinhua news agency on Monday that Apple is working to bring Apple Pay to China.

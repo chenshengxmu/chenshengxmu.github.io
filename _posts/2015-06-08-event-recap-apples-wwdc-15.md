@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Event recap- everything we learned from Apple's WWDC 2015 keynote
+title: Event recap- everything we learned from Apples WWDC 2015 keynote
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/Tim-Cook-waves-WWDC-2015.jpg)
 * Well, that’s all folks. Apple’s WWDC 2015 keynote has come and gone. We now have a good idea of what the future looks like for the company’s Mac OS, iOS and watchOS platforms, as well as what its plans are for the streaming music space.

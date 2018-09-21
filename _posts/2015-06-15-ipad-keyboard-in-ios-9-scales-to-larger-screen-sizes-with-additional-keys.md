@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hidden 'iPad Pro' like keyboard in iOS 9 scales to larger screen sizes with additional keys
+title: Hidden iPad Pro like keyboard in iOS 9 scales to larger screen sizes with additional keys
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/Keyboard-improvements.jpg)
 * In addition to an all-new predictive touch technology and two times better touch-to-display latency in iOS 9, another clue of a rumored ‘iPad Pro’ comes in the form of a hidden software keyboard in iOS 9.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Qualcomm exec says Apple's 64-Bit A7 chip is a 'marketing gimmick'
+title: Qualcomm exec says Apples 64-Bit A7 chip is a marketing gimmick
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/iPhone-5s-promo-A7-chip-closeup-002.jpg)
 * In a recent interview with Techworld, Qualcomm’s chief marketing officer Anand Chandrasekher told the publication that he thinks that Apple’s 64-bit A7 processor is just a ‘marketing gimmick’ and that it adds ‘zero benefit’ for the customer.

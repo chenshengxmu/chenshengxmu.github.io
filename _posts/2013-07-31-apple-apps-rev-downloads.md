@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's Play store passes App Store downloads, Apple rules revenues
+title: Googles Play store passes App Store downloads, Apple rules revenues
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/apple-app-downloads-v-rev.png)
 * It may not reach the importance of the ‘best-filling’ versus ‘tastes great’ soda debate, but new numbers add fuel to the ongoing question of what’s most important in measuring app store supremacy: downloads or revenue. Both those rooting for sheer demand as well as ultimate revenue figures found something to cheer about Wednesday.

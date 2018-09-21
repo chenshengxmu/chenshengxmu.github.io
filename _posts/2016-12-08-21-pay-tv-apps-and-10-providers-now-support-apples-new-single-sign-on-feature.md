@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 21 pay TV apps and 10 providers now support Apple's new Single Sign-On feature
+title: 21 pay TV apps and 10 providers now support Apples new Single Sign-On feature
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/12/iOS-10-Single-Sign-On-Settings-TV-Provider-iPhone-screenshot-001.jpg)
 * Single Sign-On, Apple’s new feature that permits compatible video-streaming apps to unlock additional content by using your saved cable credentials, became officially available yesterday. Just a day after launch, apps from ABC and Disney have now gained support for Single Sign-On on the iPhone, iPad and Apple TV, as well as Freeform, FXNOW and a few other apps, The Verge reported Thursday.

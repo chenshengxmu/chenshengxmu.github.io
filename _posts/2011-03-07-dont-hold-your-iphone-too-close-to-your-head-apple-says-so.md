@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't Hold Your iPhone Too Close to Your Head, Apple Says So
+title: Dont Hold Your iPhone Too Close to Your Head, Apple Says So
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/03/radiation.png)
 * I’m sure we have all, at some point, heard about the possible dangers of extensive cell phone use. But if you’re like me, you have continuously brushed off the claims, with an I’ll-believe-it-when-I-see-it mentality. Well, maybe it’s time we paid attention.

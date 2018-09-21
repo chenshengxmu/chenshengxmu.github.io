@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's native Calendar app picks up 7-day week view, Drive integration and more
+title: Googles native Calendar app picks up 7-day week view, Drive integration and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/Google-Calendar-for-iOS-The-Next-Web-screenshot-001.jpg)
 * Google’s native Calendar for iPhone with Material Design and other cool features made its App Store debut a little over three months ago. Tuesday, it has received its first feature-focused update.

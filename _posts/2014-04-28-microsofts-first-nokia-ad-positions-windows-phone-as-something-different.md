@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft's first Nokia ad positions Windows Phone as something different
+title: Microsofts first Nokia ad positions Windows Phone as something different
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/Microsoft-Nokia-ad-Not-Like-Everyone-Else-002.jpg)
 * Following Microsoft’s finalized acquisition of Nokia’s Devices and Services unit last week, 25,000 Nokia employees get to join the Windows giant today. To celebrate the merger, the Windows giant has just published its very first Nokia television commercial with Microsoft branding.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung unveils Note 9- 4,000mAh battery, 6.4" screen, S Pen with Bluetooth control, more
+title: Samsung unveils Note 9- 4,000mAh battery, 6.4 screen, S Pen with Bluetooth control, more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/Samsung-Unapcked-2018.jpeg)
 * Samsung Electronics today at the Unpacked 2018 press event announced a next-generation Galaxy Note 9 phablet alongside new smartwatch models. The new Note has a 6.4-inch 2960×1400 Super AMOLED-based Infinity Display, an all-day 4,000mAh battery, faster internals, more storage and an upgraded S Pen stylus with Bluetooth LE support for things like triggering photos, controlling slideshows and media playback and so forth.

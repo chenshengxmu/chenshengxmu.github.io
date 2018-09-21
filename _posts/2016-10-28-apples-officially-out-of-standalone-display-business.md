@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's officially out of standalone display business
+title: Apples officially out of standalone display business
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/Thunderbolt-Display-two-up-MacBook-Pro.jpg)
 * Nilay Patel, Editor-in-chief of The Verge, has confirmed with Apple that the company has officially exited the standalone display business, dashing any hope that we might see a standalone Apple-branded 5K Thunderbolt Display. If you own a Thunderbolt Display, don’t hope for a Retina-enabled upgrade.

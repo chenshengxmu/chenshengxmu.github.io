@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 6 cases- a look at Spigen's line up
+title: iPhone 6 cases- a look at Spigens line up
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/spigen-iPhone-6-cases-giveaway.jpg)
 * We are all anxiously waiting for the iPhone 6 launch on Friday, September 19. While some have been lined up for weeks, others constantly refresh their browsers in hopes of seeing their precious pre-ordered device move from one state to another. Currently, most people are simply worried about getting iPhone 6 into their little hands.

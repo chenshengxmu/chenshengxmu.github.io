@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Foxconn and TSMC joining together to bid for Toshiba's flash memory business
+title: Foxconn and TSMC joining together to bid for Toshibas flash memory business
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/07/Apple-MacBook-Air-NAND-Flash-image-001.jpg)
 * Aside from other firms, companies like storage maker Western Digital, iPhone manufacturer Foxconn and Apple mobile chip maker Taiwan Semiconductor Manufacturing Company (TSMC) have all been named as potential bidders seeking a stake in Toshiba’s memory business.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 9.7" iPad Pro 2 with A10X Fusion chip could launch next week
+title: 9.7 iPad Pro 2 with A10X Fusion chip could launch next week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/9.7-ipad-pro-and-pencil.jpg)
 * A second-generation iPad Pro model with a screen measuring 9.7 inches diagonally could launch as early as next week, according to a new report Wednesday by reliable Japanese blog Mac Otakara. The publication’s sources describe the forthcoming device as a modest upgrade over the current 9.7-inch iPad Pro, which released in March 2016 following the September 2015 introduction of the original 12.9-inch iPad Pro model.

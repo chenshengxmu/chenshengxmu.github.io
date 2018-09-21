@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook writes memo to employees reiterating Apple's stance on FBI request
+title: Tim Cook writes memo to employees reiterating Apples stance on FBI request
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/Tim-Cook-on-stage.jpg)
 * After issuing an open letter to Apple users regarding the FBI’s request to create an iPhone backdoor to help hack into the San Bernardino shooter’s locked iPhone 5c, CEO Tim Cook on Monday reinforced his company’s position in an internal memo to troops.

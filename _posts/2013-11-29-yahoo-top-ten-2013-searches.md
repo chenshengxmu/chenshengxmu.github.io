@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone tops Yahoo UK's 2013 tech searches
+title: iPhone tops Yahoo UKs 2013 tech searches
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/Gold-iPhone-5s-side-by-side.jpg)
 * Rivals often point to Apple’s sub-20 percent share of the global smartphone market as a proof of sorts that the iPhone has run its course. In reality, the device remains the most sought-after item in technology which people searched for most on the web throughout the year, at least among the British.

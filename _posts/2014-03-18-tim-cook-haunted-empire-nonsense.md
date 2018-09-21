@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cook on Yukari's anti-Apple book- 'nonsense' that fails to capture Apple or Steve Jobs
+title: Cook on Yukaris anti-Apple book- nonsense that fails to capture Apple or Steve Jobs
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/Haunted-Empire-book-cover-001.jpg)
 * There isn’t much to like about a new book on post-Jobs Apple by the former Wall Street Journal writer Yukari Iwatani Kane.

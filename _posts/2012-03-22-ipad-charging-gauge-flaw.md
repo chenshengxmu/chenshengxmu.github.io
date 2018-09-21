@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't stop charging your iPad when it says 100%
+title: Dont stop charging your iPad when it says 100%
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/iOS-5-battery-icon-full.jpg)
 * With all the hoopla around the new iPad getting a little bit toastier than its predecessor, Dr. Raymond Soneira is in high demand these days. Yesterday, he explained how the demanding Retina display and brightness levels affect the iPad’s run time. Today, he’s back at it, warning the device keeps charging even when it claims to have been filled.

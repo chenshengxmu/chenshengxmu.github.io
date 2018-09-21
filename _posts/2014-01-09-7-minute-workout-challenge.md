@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '7 Minute Workout Challenge' goes free in the Apple Store app
+title: 7 Minute Workout Challenge goes free in the Apple Store app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/apple-store.png)
 * A lot of folks were unhappy with the free download items Apple offered during its 12 Days of Gifts event. Many felt that the company,  which is worth some $140 billion, was a little cheap with the giveaway. But the good news is, it’s not done giving.

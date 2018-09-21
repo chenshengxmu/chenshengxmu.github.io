@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'StatusTab' lets you access the status bar from within full screen apps
+title: StatusTab lets you access the status bar from within full screen apps
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/StatusTab.png)
 * If you play a lot of games on your iPhone, then you’re probably used to the idea of full screen apps negating the presence of the status bar. If you find that to be annoying, then a new jailbreak tweak entitled StatusTab may interest you. It allows you to sneak a quick peek at the status bar by swiping on the area where the status bar normally resides.

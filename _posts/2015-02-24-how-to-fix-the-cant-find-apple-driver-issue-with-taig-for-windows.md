@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to fix the "Can't find Apple driver" issue with TaiG for Windows
+title: How to fix the Cant find Apple driver issue with TaiG for Windows
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/Cant-find-Apple-driver-please-download-and-install-iTunes.png)
 * If you’ve been trying to jailbreak iOS 8.2 beta 1 or 2 with TaiG 1.3.0 over the last couple of days, you may have encountered an issue. An error that says: “Can’t find Apple driver, please download and install iTunes” has been causing all sorts of problems for would be jailbreakers.

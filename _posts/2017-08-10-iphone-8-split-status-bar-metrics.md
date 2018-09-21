@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 8's split status bar metrics unearthed from HomePod firmware
+title: iPhone 8s split status bar metrics unearthed from HomePod firmware
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/iPhpne-8-split-status-bar-mockup-Olivier-Charavel.jpeg)
 * Aside from discovering that iPhone 8’s virtual Home button might be resizable, as well as automatically hide and show as needed, iOS developer Steven Troughton-Smith has uncovered alleged metrics for a split status bar at the top of the phone’s OLED display.

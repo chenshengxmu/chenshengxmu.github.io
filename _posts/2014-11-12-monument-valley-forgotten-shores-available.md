@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Monument Valley 'Forgotten Shores' expansion arrives with 8 new levels
+title: Monument Valley Forgotten Shores expansion arrives with 8 new levels
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/11/Monument-Valley-2.0-for-iOS-iPhone-screenshot-001.png)
 * As promised, a ‘Forgotten Shores’ expansion for the acclaimed puzzler Monument Valley, an Apple Design Award winner, is now available in the App Store, delivering eight brand new levels on top of the original ten levels.

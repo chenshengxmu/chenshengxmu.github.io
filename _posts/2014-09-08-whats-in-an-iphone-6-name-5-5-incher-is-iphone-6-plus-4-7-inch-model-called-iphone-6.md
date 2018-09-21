@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What's in a name? 5.5-incher is 'iPhone 6 Plus', 4.7-inch model called 'iPhone 6'
+title: Whats in a name? 5.5-incher is iPhone 6 Plus, 4.7-inch model called iPhone 6
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/iPhone-6-Martin-Hajek-010.jpg)
 * According to the Japanese blog MacOtakara [Google Translate] Monday morning, Apple will use ‘iPhone 6’ and ‘iPhone 6 Plus’ monikers with respect to a 4.7 and 5.5-inch edition of the upgraded smartphone.

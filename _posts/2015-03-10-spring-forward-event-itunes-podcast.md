@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's ‘Spring Forward’ keynote video posted to iTunes as downloadable podcast
+title: Apples ‘Spring Forward’ keynote video posted to iTunes as downloadable podcast
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/Apple-Spring-Forward-20150309-media-event-image-003.png)
 * Following yesterday’s “Spring Forward” media event which brought us new Apple Watch details and pricing, an exclusive HBO Now launch on the now-discounted Apple TV, some interesting medical research news and a Retina-enabled twelve-inch MacBook with USB-Type C, Force Touch trackpad and silver, space grey and gold finishes, now the whole presentation can be downloaded and kept on your computer in the form of a video podcast.

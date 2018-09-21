@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T Will Officially Support iOS 4.3's Personal Hotspot Feature
+title: AT&T Will Officially Support iOS 4.3s Personal Hotspot Feature
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/02/Personal-Hotspot-On.jpeg)
 * I think we all assumed that AT&T would support the iPhone’s Personal Hotspot feature that comes bundled with iOS 4.3, but its availability has been confirmed by an AT&T spokesperson.

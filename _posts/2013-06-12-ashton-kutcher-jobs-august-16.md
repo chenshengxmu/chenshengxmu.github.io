@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ashton Kutcher's Jobs flick to debut on August 16
+title: Ashton Kutchers Jobs flick to debut on August 16
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/Ashton-Kutcher-and-Josh-Gad-USA-Today-001.jpg)
 * Following Funny or Die’s awfully received iSteve flick, another Steve Jobs biopic is slated for release later this summer. Ashton Kutcher’s jOBS film, which debuted at the Sundance festival back in January, was originally slated for a worldwide release on April 19, but got delayed. According to the latest Hollywood chatter, the movie is now set to launch on August 16 in the United States…

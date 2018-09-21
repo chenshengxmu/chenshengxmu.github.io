@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dev Team Working on "Very Promising" iPhone 4S Unlock
+title: Dev Team Working on Very Promising iPhone 4S Unlock
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/Screen-Shot-2011-11-27-at-11.08.11-AM.jpg)
 * Dev Team frontman and unlock guru MuscleNerd has given an update on a new unlock for the newly-released iPhone 4S. According to MuscleNerd, a “very promising” unlock for the new handset is “in the works.”

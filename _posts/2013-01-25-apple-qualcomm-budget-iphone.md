@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple rumored to tap Qualcomm's low-end Snapdragon chip for budget iPhone
+title: Apple rumored to tap Qualcomms low-end Snapdragon chip for budget iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/01/Qualcomm-Chips-e1295674875370.jpg)
 * The less-pricey iPhone rumor just wouldn’t die. Today, Forbes reports that the Cupertino, California firm is likely to use Qualcomm’s less powerful lower-end Snapdragon processor for the rumored budget iPhone thought to be targeted to price-sensitive shoppers in emerging markets like China, Brazil and elsewhere where carriers rarely subsidize handsets.

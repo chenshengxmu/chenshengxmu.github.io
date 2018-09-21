@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple airs new iPhone 6s ad, 'Thank You Speech,' highlighting tetherless Siri mode
+title: Apple airs new iPhone 6s ad, Thank You Speech, highlighting tetherless Siri mode
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/iPhone-6s-ad-Thank-You-Speech-image-002.jpg)
 * Apple on Monday aired a new television commercial for the iPhone 6s and iPhone 6s Plus, titled ‘Thank You Speech’ and starring “How I Met Your Mother” star Patrick Neil Harris (he had a cameo on Apple’s recent ‘Onions’ ad).

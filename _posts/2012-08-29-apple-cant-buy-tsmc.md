@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's $1B can't buy exclusive TSMC chip deal
+title: Apples $1B cant buy exclusive TSMC chip deal
 ---
 * Nowadays, $1 billion doesn’t get as much as it used to. That’s what Apple reportedly discovered when it and Qualcomm each offered $1 billion for exclusive access to the production output of Taiwan Semiconductor Manufacturing Co., the world’s largest chip producer. TSMC turned both companies down flat, reports Bloomberg.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/Screen-shot-2011-10-07-at-1.48.29-PM-e1318013146676.png)

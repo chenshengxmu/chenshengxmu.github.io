@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vodafone too has Nano SIMs in stock ahead of tomorrow's iPhone 5 launch
+title: Vodafone too has Nano SIMs in stock ahead of tomorrows iPhone 5 launch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/Vodafone-Nano-SIM-iFun-001.jpg)
 * Right on time, Vodafone in Germany appears to be stockpiling the new 40 percent smaller Nano SIM cards, a German publication reveals. The carrier is one of Apple’s major iPhone distributors throughout Europe and in the United States, where UK’s multinational mobile network operator has a joint venture with the US telco Verizon Communications, called Verizon Wireless (Vodafone has a 45 percent ownership of the joint venture). Apple’s next iPhone is expected to file as the first phone to feature the recently ratified Nano SIM standard which allows for the creation of thinner and smaller mobile devices…

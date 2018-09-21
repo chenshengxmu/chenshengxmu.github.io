@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Motorola Wants 2.25% of Apple's Sales in Exchange for Patent License
+title: Motorola Wants 2.25% of Apples Sales in Exchange for Patent License
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/scale-apple-motorola.jpg)
 * The legal battle going on between Apple and Motorola in Germany’s Mannheim court is starting to get pretty intense. Just yesterday, Apple was forced to pull some of its 3G products from its German online store as the result of a temporary injunction.

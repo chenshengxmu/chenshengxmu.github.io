@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twitter confirms it'll stop counting media and @names within the 140-character limit
+title: Twitter confirms itll stop counting media and @names within the 140-character limit
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/New-tweet-structure-slide-001.png)
 * In perhaps the biggest change to its service since its inception, Twitter on Tuesday announced a bunch of changes meant to distance itself from the controversial 140-character-per-tweet rule.

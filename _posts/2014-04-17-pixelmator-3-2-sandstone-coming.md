@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pixelmator 3.2 'Sandstone' coming with Repair tool, app goes half price for entire week
+title: Pixelmator 3.2 Sandstone coming with Repair tool, app goes half price for entire week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/Pixelmator-3.0-for-Mac-screenshot-003.jpeg)
 * As Peter Cohen put it, Pixelmator is to Photoshop as Sketch 3 is to Adobe Illustrator and I couldn’t agree more.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's another iPhone 5s stock-checking web app with live availability updates
+title: Heres another iPhone 5s stock-checking web app with live availability updates
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/Screen-Shot-2013-10-14-at-14.55.22.png)
 * Jeff recently told you about a nice little web app which lets you quickly check iPhone 5s stock and now word comes of another stock-tracking software. Found at www.stock5s.com, this one monitors the handset’s availability from online vendors across the world, including the online Apple Store and a number of carrier stores. It’s updated live and offers an insight into what iPhone 5s models people in specific markets are searching for the most…

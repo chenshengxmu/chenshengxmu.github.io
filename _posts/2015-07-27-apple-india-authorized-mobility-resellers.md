@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's retail push in India bringing 500 'Authorized Mobility Resellers' locations to 12 cities
+title: Apples retail push in India bringing 500 Authorized Mobility Resellers locations to 12 cities
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/iPhone-6-gray-silver-gold-back-camera-e1422282932304.jpg)
 * India lacks official Apple Store presence as Apple doesn’t operate its own brick-and-mortar stores in the 1.25 billion people market. Instead, it’s relied on carriers and hand-picked resellers to market and push its products in the country.

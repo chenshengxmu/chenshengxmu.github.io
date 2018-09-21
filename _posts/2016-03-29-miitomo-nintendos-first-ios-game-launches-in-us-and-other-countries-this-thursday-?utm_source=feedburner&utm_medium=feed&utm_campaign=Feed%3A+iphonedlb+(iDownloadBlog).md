@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Miitomo, Nintendo's first iOS game, launches in US and other countries this Thursday
+title: Miitomo, Nintendos first iOS game, launches in US and other countries this Thursday
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/02/Nintendo-Miitomo-iPhone-screenshot-001.jpg)
 * Following its soft-launch in Japan, Nintendo’s first mobile game for iOS and Android, Miitomo, will be hitting the United States and other countries this coming Thursday, March 31, the Japanese gaming giant announced in a media release issued this morning. A free-to-start social experience, Miitomo lets users spark one-of-a-kind conversations with friends in a whole new way using Mii characters, which first appeared on Nintendo’s original Wii console.

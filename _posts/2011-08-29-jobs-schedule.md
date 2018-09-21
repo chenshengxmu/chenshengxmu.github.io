@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Look at Steve Jobs' Schedule After Resigning
+title: A Look at Steve Jobs Schedule After Resigning
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/steve-jobs-schedule-e1314640817174.png)
 * For the last 11 years, Steve Jobs has been one of the tech world’s most recognizable leaders in charge of one of its most powerful companies. So it’s not surprising that the news of him stepping down last week seemingly rocked the entire industry.

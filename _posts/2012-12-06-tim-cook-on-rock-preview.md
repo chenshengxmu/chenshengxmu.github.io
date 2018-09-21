@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook says he's 'ditched physical keyboards,' uses iPad 80% of the time
+title: Tim Cook says hes ditched physical keyboards, uses iPad 80% of the time
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/tim-cook-interview.jpeg)
 * Between his recent sit down with Bloomberg Businessweek, and his upcoming interview with NBC’s Brian Williams, Tim Cook has captured a lot of headlines today. And that will continue tonight, as Cook appears on TV for the first time.

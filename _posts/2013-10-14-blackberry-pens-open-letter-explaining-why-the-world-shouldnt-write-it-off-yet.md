@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BlackBerry pens open letter explaining why the world shouldn't write it off (yet)
+title: BlackBerry pens open letter explaining why the world shouldnt write it off (yet)
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/BlackBerry-RIP-image-001.png)
 * You can tell the end is nigh when a company buys full-page print ads to post an open letter making the case for its future. In the case of Canada’s BlackBerry, formerly Research In Motion, the writing has been on the wall ever since Steve Jobs took the stage at the January 2007 MacWorld Expo to introduce the world to the iPhone.

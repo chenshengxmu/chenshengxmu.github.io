@@ -1,6 +1,6 @@
 ---
 layout: post
-title: With 171 lawsuits in past 5 years, Apple is patent trolls' favorite target
+title: With 171 lawsuits in past 5 years, Apple is patent trolls favorite target
 ---
 * Apple is to patent trolls what Justin Bieber is to prepubescent girls. The iPhone maker has become the favorite target for companies whose sole product is lawsuits, according to a new study finding Apple has been sued 171 times by patent trolls over the past five years.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/07/patent_troll.jpeg)

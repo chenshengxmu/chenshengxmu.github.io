@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Apple Watch you can't have
+title: The Apple Watch you cant have
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/04/Karl-Lagerfeld-Apple-Watch-Edition.jpg)
 * If Apple Watch Edition is out of your league, don’t even start to think about how you could get your hands on this one, because you can’t! This Apple Watch Edition with gold Link bracelet was custom-made for fashion designer Karl Lagerfeld.

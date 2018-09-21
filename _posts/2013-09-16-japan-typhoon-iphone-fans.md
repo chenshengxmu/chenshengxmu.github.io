@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Japanese typhoon can't stop fans waiting for new iPhones
+title: Japanese typhoon cant stop fans waiting for new iPhones
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/apple-japan-typhoon-iphone.jpg)
 * Would you brave a tornado or hurricane to be first in line for Apple’s newest iPhones? That was the situation in Japan, where Tokyo consumers camped out in front of the local Apple Store ahead of Friday’s iPhone 5s/5c launch. Luckily, Apple employees let the fans inside just before a typhoon struck.

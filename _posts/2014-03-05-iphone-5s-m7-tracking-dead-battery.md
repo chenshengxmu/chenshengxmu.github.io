@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's M7 motion coprocessor caught tracking movement after battery dies
+title: Apples M7 motion coprocessor caught tracking movement after battery dies
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/iPhone-5s-keynote-M7-specs-slide.jpg)
 * Apple’s M7 motion tracking chip found inside the iPhone 5s, iPad Air and iPad mini with Retina display is apparently able to track a user’s motion activity even after the battery dies. According to a post by Reddit user Glarznak, his iPhone 5s was able to track his every movement even after the battery died on him. He was able to confirm this by using the Argus fitness app which showed a number of steps for the four days that his phone was dead…

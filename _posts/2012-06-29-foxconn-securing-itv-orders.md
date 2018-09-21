@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Former Chimei Innolux president says Foxconn's Sharp deal is for iTV
+title: Former Chimei Innolux president says Foxconns Sharp deal is for iTV
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/iTV-on-wall-mockup.jpeg)
 * According to a former executive from Taiwanese supply chain, Foxconn’s recent investments into the Japanese electronics giant Sharp and its cutting-edge display factory is in fact part of preparations for a large-scale manufacturing of a rumored Apple television set, dubbed by the media the iTV…

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple becomes world's first $700 billion company
+title: Apple becomes worlds first $700 billion company
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-20-at-11.44.34-AM.png)
 * Apple has just become the world’s first $700 billion company, after shares of AAPL closed at $122.02, a new split-adjusted all-time high for the iPhone giant.

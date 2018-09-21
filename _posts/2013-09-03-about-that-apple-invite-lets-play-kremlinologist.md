@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About that Apple invite- let's play Kremlinologist
+title: About that Apple invite- lets play Kremlinologist
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/2011-iPad-keynote-yerba-Buena-building.jpeg)
 * With Apple’s September 10 keynote now officially a go, die-hard fans and watchers alike are falling over each other as they scramble to unearth the subtlest of hints from the invite graphics in their never-ending quest of deciphering the meaning of life. For the most people, yours truly included, it’s just naturally assuming those colorful dots set against the white background tip off colorized iPhones.

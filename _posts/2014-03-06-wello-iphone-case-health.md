@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New 'Wello' iPhone case measures blood pressure, temperature and more
+title: New Wello iPhone case measures blood pressure, temperature and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/wello-1.png)
 * Rumor has it that Apple’s so-called iWatch will be capable of reading your blood pressure, heart rate and other vital signs. But you may not have to wait until its release to purchase such a device. Meet the ‘Wello,’ the all-in-one health-tracking iPhone case.

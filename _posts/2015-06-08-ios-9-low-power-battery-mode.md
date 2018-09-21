@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 9 includes new 'Low Power' battery mode
+title: iOS 9 includes new Low Power battery mode
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/ios-9-battery.jpg)
 * Among the many new features Apple announced today in iOS 9, is a new Low Power battery mode. Much like the feature of the same name on Apple Watch, the new iOS feature will help save precious battery life on your iPhone or iPad.

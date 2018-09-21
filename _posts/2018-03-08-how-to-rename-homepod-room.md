@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to rename the room your HomePod's in
+title: How to rename the room your HomePods in
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/03/HomePod-on-table.jpg)
 * As part of the Automatic Setup for HomePod, you select the room the speaker’s in by choosing from a pre-populated list of room names like “Living Room”, ”Bedroom”, ”Kitchen” and so forth.

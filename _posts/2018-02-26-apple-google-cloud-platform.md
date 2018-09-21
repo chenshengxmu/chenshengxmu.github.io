@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple publicly confirms it's using Google Cloud Platform to power iCloud services
+title: Apple publicly confirms its using Google Cloud Platform to power iCloud services
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/iCloud-Website.png)
 * Apple’s publicly confirmed for the first time that iCloud services run on Google Cloud Platform.

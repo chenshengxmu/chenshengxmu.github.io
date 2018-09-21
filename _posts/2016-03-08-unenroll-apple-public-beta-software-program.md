@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to unenroll from Apple's public Beta Software Program
+title: How to unenroll from Apples public Beta Software Program
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/Screen-Shot-2016-03-07-at-1.55.00-AM.png)
 * Many people sign up with Apple’s public Beta Software Program because they want to be able to install Apple’s latest updates, just like developers can, so they can have the cool new features on their Macs and iOS devices before everyone else does.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amazon's Prime Now app featuring one-hour delivery released for iPhone
+title: Amazons Prime Now app featuring one-hour delivery released for iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/Amazon-Prime-Now-1.0-for-iOS-iPhone-screenshot-001.png)
 * Online retailer Amazon today launched Prime Now, a shopping and ordering app for iOS and Android with one-hour delivery directly to a customer’s doorstep in select markets.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile's new coverage map uses crowdsourcing for near 'real-time' results
+title: T-Mobiles new coverage map uses crowdsourcing for near real-time results
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/11/johnlegere.jpg)
 * T-Mobile is trying to once again shake things up in the mobile industry with the announcement of a new, real-time coverage map for prospective customers.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's marketing head honcho Phil Schiller to appear on the witness stand again
+title: Apples marketing head honcho Phil Schiller to appear on the witness stand again
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/Phil-Schiller-iPad-mini-keynote-iMac-on-pedestal-001.jpg)
 * Phil Schiller, Apple’s Senior Vice President of Worldwide Marketing, will take the witness stand again in the second Apple v. Samsung trial due in March, a pair of court filings PCMag spotted on Thursday have revealed.

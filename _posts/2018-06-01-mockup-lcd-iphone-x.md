@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Renders- iPhone X with 6.1" LCD screen, notch, single-lens cam & more
+title: Renders- iPhone X with 6.1 LCD screen, notch, single-lens cam & more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/06/Budget-iPhone-X-render.jpg)
 * MySmartPrice and prolific smartphone leakster Steve Hemmerstoffer, who is behind the OnLeaks account on Twitter, have created renderings of Apple’s rumored budget iPhone X, a 6.1-inch handset with an LCD screen, an iPhone X-style notch and an aluminum frame.

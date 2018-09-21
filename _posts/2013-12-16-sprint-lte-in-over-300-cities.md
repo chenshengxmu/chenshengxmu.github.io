@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sprint's LTE network is now live in 300 cities
+title: Sprints LTE network is now live in 300 cities
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/sprint-store.jpg)
 * Good news for Sprint users with LTE-enabled devices today. The carrier announced this morning that it has flipped out the 4G tech for a handful of major new markets including San Diego and St. Louis, and several smaller ones.

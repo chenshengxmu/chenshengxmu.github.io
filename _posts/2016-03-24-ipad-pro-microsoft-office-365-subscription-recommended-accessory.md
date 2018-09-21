@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's recommended iPad Pro accessory- Microsoft Office 365 subscription
+title: Apples recommended iPad Pro accessory- Microsoft Office 365 subscription
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/Office-365-recommendation-for-iPad-Pro-on-Apple-Online-Store-web-screenshot.png)
 * Apple this morning started accepting pre-orders for the new iPhone SE and 9.7-inch iPad Pro in thirteen territories total. Surprisingly enough, the Apple Online Store offers iPad Pro shoppers Microsoft Office 365 subscriptions as a recommended iPad accessory.

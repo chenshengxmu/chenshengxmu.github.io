@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The line starts forming outside Apple's landmark Fifth Avenue glass cube store
+title: The line starts forming outside Apples landmark Fifth Avenue glass cube store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/Apple-Store-Fifth-Avenue-exterior-001.jpg)
 * Like every year, this year’s iPhone launch is expected to be the biggest ever for the Cupertino, California firm. Unlike past years, however, 2013 is the first time Apple gets to release two new iPhones simultaneously, one a so-called S-upgrade to the existing iPhone 5 and the other essentially an iPhone 5 with a less-pricey polycarbonate plastic case.

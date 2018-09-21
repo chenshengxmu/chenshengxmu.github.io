@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's $29 battery replacement for iPhone 6 Plus is currently unavailable
+title: Apples $29 battery replacement for iPhone 6 Plus is currently unavailable
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/iphone-6-plus-camera.jpg)
 * Apple’s discounted program lets iPhone 6/6s/SE owners replace their device’s battery for just $29 (limited to one repair per iPhone) instead of $79, regardless of its condition, but iPhone 6 Plus owners looking to take advantage of the lower fee will need to wait a few months.

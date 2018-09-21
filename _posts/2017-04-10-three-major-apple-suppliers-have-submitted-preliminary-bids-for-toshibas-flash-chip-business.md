@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Three major Apple suppliers have submitted preliminary bids for Toshiba's flash chip business
+title: Three major Apple suppliers have submitted preliminary bids for Toshibas flash chip business
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/iPhone-7-teardown-iFixit-016.jpeg)
 * In the coming weeks, Toshiba will unveil a final decision concerning selling a majority stake in its lucrative memory business. Bloomberg reported this morning that iPhone manufacturer Foxconn’s preliminary bid for Toshiba’s semiconductor unit is valued at a whopping $26.93 billion. According to Bloomberg’s sources, that amount is in part to force negotiations, using a bid that’s too high to ignore.

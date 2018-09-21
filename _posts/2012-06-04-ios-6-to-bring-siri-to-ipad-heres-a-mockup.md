@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 6 to bring Siri to iPad 3, here's a mockup
+title: iOS 6 to bring Siri to iPad 3, heres a mockup
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/Siri-on-iPad-9to5mac-mockup.jpg)
 * Much as it has been speculated, Apple is apparently working to enable Siri on iPad by way of iOS 6, according to the inevitable people familiar with the matter. We’re talking about full-blown voice assistant, not just the Dictation feature, and it will reportedly work just as you’d expect it to. Here’s a mockup based on the description provided by the source…

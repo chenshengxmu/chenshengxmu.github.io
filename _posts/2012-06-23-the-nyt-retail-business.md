@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The New York Times profiles Apple's retail business
+title: The New York Times profiles Apples retail business
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/apple-store-e1340491876604.jpeg)
 * The New York Times published a lengthy report today regarding Apple’s retail operations. The article covers a few aspects of the business, but most of it focuses on the employees.

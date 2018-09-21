@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First season of Apple's “Carpool Karaoke” show is now available for free in Apple's TV app
+title: First season of Apples “Carpool Karaoke” show is now available for free in Apples TV app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/Carpool-Karaoke-Will-Smith.jpg)
 * Apple’s first television show “Carpool Karaoke: The Series” is now available at no charge to folks without an Apple Music subscription on the stock TV app for iPhone, iPad and Apple TV.

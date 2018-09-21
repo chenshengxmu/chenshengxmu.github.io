@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple and AT&T Working Together to Get "4G" Indicator in iPhone 4S Status Bar
+title: Apple and AT&T Working Together to Get 4G Indicator in iPhone 4S Status Bar
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/4g-iphone-4s.png)
 * What is 4G? Other than the fact that it’s the wireless standard that comes after 3G, I’m not sure that a lot of people outside of the ITU (International Telecommunications Union) know the answer. It’s supposed to be a lot faster, right?

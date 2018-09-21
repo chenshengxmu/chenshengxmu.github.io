@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First impressions of MacBook Pro's Touch Bar
+title: First impressions of MacBook Pros Touch Bar
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/MacBook-Pro-with-Touch-Bar.png)
 * The newly launched MacBook Pros include a marquee new feature in the form of the Touch Bar, which is a marketing name for a wide, touch-enabled OLED display that runs alongside the top of the keyboard where the function keys row used to be located. Touch Bar is customizable, with shortcuts that change from one app to another, and developers can take full advantage of it with a set of new APIs.

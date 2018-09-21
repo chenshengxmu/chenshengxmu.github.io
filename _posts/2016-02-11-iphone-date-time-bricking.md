@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't try this at home- iPhones apparently getting bricked after date is set back to a specific time
+title: Dont try this at home- iPhones apparently getting bricked after date is set back to a specific time
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/iOS-9-Date-and-Time-iPhone-screenshot-001.jpg)
 * According to a post on Reddit and reports out of China, it is possible to brick an iPhone by setting the date back to a specific time.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 128GB iPhone apparently surfaces in German retailer's system
+title: 128GB iPhone apparently surfaces in German retailers system
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/128GB-iPhone-5-Media-Markt-Macerkopf.de-001.jpg)
 * It was yesterday that the reliable KGI Securities analyst Ming-Chi Kuo called for a new iPhone model sporting a whopping 128 gigabytes of built-in storage – twice as much as today’s high-end 64GB iPhone 5 – and already a brand new SKU (Stock-Keeping Unit) reference has been spotted in a German retailer’s sales system.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You can now download Microsoft's Cortana personal assistant to your iPhone
+title: You can now download Microsofts Cortana personal assistant to your iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/12/Cortana-1.2.1-for-iOS-iPhone-screenshot-001.png)
 * After rolling out a beta of Cortana for iOS to a limited number of beta testers in late-November, Microsoft today released the software to everyone via the App Store.

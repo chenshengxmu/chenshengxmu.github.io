@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cinamatic goes free as Apple's App of the Week
+title: Cinamatic goes free as Apples App of the Week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/cinamatic-2.png)
 * Apple has named Hipstamatic’s just-released video-capturing app Cinamatic its App of the Week for this week. This means that through next Thursday, you’ll be able to pick up the title for both your iPhone and iPad, for free—a modest savings of $1.

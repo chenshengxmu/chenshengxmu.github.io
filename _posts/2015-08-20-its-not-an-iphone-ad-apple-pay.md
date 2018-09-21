@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple posts new 'if it's not an iPhone' ad highlighting Apple Pay
+title: Apple posts new if its not an iPhone ad highlighting Apple Pay
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/08/apple-pay.png)
 * Apple on Thursday posted a new ad to its YouTube channel labeled “iPhone – Apple Pay.” The spot is the latest in the company’s ongoing “if it’s not an iPhone, it’s not an iPhone” campaign, and of course highlights its new mobile payment service.

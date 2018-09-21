@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sprint launching 'iPad for Life' lease plan tomorrow
+title: Sprint launching iPad for Life lease plan tomorrow
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/iPad-Air-2-apps.png)
 * After unveiling its ‘iPhone for Life’ annual upgrade plan last month, Sprint, the nation’s fourth-largest carrier on Thursday announced a similar ‘iPad for Life’ plan for the latest iPad Air 2 and iPad mini 3.

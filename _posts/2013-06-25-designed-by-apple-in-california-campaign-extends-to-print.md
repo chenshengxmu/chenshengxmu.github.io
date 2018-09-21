@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Designed by Apple in California' campaign extends to print
+title: Designed by Apple in California campaign extends to print
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/Designed-by-Apple-in-California.jpg)
 * Along with a host of software-related announcements at this year’s five-day developers conference, Apple cleverly used the WWDC venue to kick off a new brand awareness campaign entitled ‘Designed by Apple in California’ and created by the company’s long-time ad shop TBWA\Worldwide.

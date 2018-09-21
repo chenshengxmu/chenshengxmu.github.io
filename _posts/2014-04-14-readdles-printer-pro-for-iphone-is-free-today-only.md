@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Readdle's Printer Pro for iPhone is free today only
+title: Readdles Printer Pro for iPhone is free today only
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/Readdle-Printer-Pro-5.1-for-iOS-iPhone-screenshot-001.jpeg)
 * AirPrint, Apple’s wireless printing technology is great except when it is not. The problem with AirPrint: limited vendor support. Unless you own a printer that works with AirPrint, you’re out of luck.

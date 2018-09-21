@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Analyst Says Next iPhone Won't Be 4G
+title: Analyst Says Next iPhone Wont Be 4G
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/11/iPhone-4GS.jpg)
 * The notion of the next gen iPhone being a “4G” device has been debated for quite some time. Originally, it was thought to be a possibility that the next iPhone could bring 4G/LTE data speeds, but then Apple made a statement during its last earning’s call that 4G would “force a lot of design compromises” that the company “was not willing to make.”

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tip- disable auto-workout detection to prolong Apple Watch battery life
+title: How to disable Apple Watch auto-workout detection
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/01/Apple-Watch-Series-2-ad-Close-Your-Rings-teaser-001.jpg)
 * Your Apple Watch can remind you to start the correct workout or end the session, if you forget.

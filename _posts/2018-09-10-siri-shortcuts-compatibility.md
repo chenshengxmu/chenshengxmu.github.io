@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's iOS 12 Siri Shortcuts Suggestions won't work on older devices
+title: Apples iOS 12 Siri Shortcuts Suggestions wont work on older devices
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/09/siri-shortcuts.jpg)
 * Siri Shortcuts Suggestions are set to arrive on iOS 12 in just a few days. However, if you’re using an iPhone 6 or iPhone 6 Plus, you’re out of luck. The new capabilities won’t be available for iPhones produced in 2014 or earlier, according to Apple’s Craig Federighi (via Reddit).

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Manage Your Medication with 'Pillboxie' for iPhone [Review and Giveaway]
+title: Manage Your Medication with Pillboxie for iPhone [Review and Giveaway]
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/02/Pillboxie-e1298086663955.png)
 * If you take a lot of meds, you know how much of a pain it can be to manage all of your prescriptions. Unless you’ve got a steel trap for a memory, it can be difficult to remember when to take all of the different pills in your medical arsenal.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Remastered Sonic The Hedgehog 2 and Sega's 2013 winter iOS lineup announced
+title: Remastered Sonic The Hedgehog 2 and Segas 2013 winter iOS lineup announced
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/Sonic-the-Hedgehog-character-001.jpg)
 * Sega’s Sonic games for the iPhone and iPad are as popular as on any other platform and the games maker has certainly given its best issuing updates with new levels and discounting the Sonic games on the App Store.

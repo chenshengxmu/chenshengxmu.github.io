@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple names Forstall's new job title in year-end 10-K filing
+title: Apple names Forstalls new job title in year-end 10-K filing
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/asian-apple-store-e1325693319353.jpg)
 * Apple has filed its end of the year 10-K document, a performance report required of all companies by the SEC (Security Exchange Commission), and as you might expect, it contains some pretty interesting information about the iPad-makers.

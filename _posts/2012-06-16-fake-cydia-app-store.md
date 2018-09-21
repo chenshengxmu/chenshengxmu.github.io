@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cydia makes its way to the App Store, but it's not what you think
+title: Cydia makes its way to the App Store, but its not what you think
 ---
 * The App Store hasn’t had any shortage of knockoff apps since its creation a few years ago. When popular games such as Angry Birds or Cut the Rope make their way up the charts, you can expect a few unscrupulous developers to rush and try to get their copycat app approved and available in the App Store in order to make a quick buck.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/Fake-CYdia-App-Store.png)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Maps team calling businesses to verify user address corrections
+title: Apples Maps team calling businesses to verify user address corrections
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/OS-X-Mavericks-Maps-Send-to-iOS-teaser.jpg)
 * Continuing on with its efforts to refine its mapping software, Apple has apparently begun calling businesses looking to verify user-reported address corrections. In a recent Reddit post, a business owner said he had been contacted by someone with Apple Maps.

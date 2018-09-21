@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple tops JD Power's smartphone satisfaction survey again
+title: Apple tops JD Powers smartphone satisfaction survey again
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/iPhone-4S-white-Retina-glass.jpg)
 * For the eighth time in a row, Apple is ranked with the highest customer satisfaction. The iPhone received 849 points out of 1,000, according to J.D. Powers and Associates. HTC ranked second with 790 points and Samsung earned 782 points, below the 783-point survey average.

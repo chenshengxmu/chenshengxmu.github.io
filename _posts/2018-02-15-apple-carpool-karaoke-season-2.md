@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple renews 'Carpool Karaoke' for second season
+title: Apple renews Carpool Karaoke for second season
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/Carpool-Karaoke-Shaquille-O-Neal-and-John-Cena.jpg)
 * Apple has given the green light for a second season of Carpool Karaoke, CBS CEO Leslie Moonves announced on Thursday (via THR). During CBS’ earnings conference call with investors, Moonves pointed to the renewal as an example of how the popularity of the network’s late night hosts translated into new projects.

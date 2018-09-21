@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple airs new 'Hollywood' iPad ad (update- Samsung, too)
+title: Apple airs new Hollywood iPad ad (update- Samsung, too)
 ---
 * http://www.youtube.com/watch?v=H8pj3WQyOzY
 * Just in time for The Oscars, Apple on Sunday aired a new television commercial for the iPad during the Academy Awards broadcast. Conveniently titled “Hollywood”, the app via a “lights”, “camera” and “action” sequence takes us through a series of programs for filmmakers, as well as various movie and video editing applications from the App Store. And in line with the previous two ads, called “Alive” and “Together”, this one also has some interesting subliminal messages…

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple retail chief tells employees Apple Watch launching in 'spring'
+title: Apple retail chief tells employees Apple Watch launching in spring
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/Apple-Watch-Ariel-Adams-002.jpg)
 * Apple’s Angela Ahrendts has told staffers that the highly anticipated Apple Watch will be launching in the spring, according to a new report from 9to5Mac. The site says the company’s Senior Vice President of Retail and Online Stores recently sent out a video message to employees, where she noted the new timeframe.

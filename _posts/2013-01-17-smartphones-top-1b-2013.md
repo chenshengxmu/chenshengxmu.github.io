@@ -1,6 +1,6 @@
 ---
 layout: post
-title: There will be two billion smartphones by year's end
+title: There will be two billion smartphones by years end
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/smartphones1.jpeg)
 * Let’s file this prediction by uber accounting firm Deloitte under ‘been there, done that’: world smartphone shipments will top one billion during 2013, and near two billion by year’s end.

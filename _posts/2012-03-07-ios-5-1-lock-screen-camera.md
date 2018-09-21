@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's how the iOS 5.1 Lock screen camera works
+title: Heres how the iOS 5.1 Lock screen camera works
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/Lock-screen-Camera-iOS-5.1.jpg)
 * Arguably the biggest change to iOS 5.1 when compared with its predecessors is the Lock screen camera functionality.

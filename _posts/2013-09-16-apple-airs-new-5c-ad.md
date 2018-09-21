@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple airs new 'Plastic Perfected' iPhone 5c ad
+title: Apple airs new Plastic Perfected iPhone 5c ad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/iphone-5c-plastic.png)
 * Apple has aired a new ad tonight for its all-new iPhone 5c handset. The spot is entitled ‘Plastic Perfected,’ and it focuses on the device’s bright colors and the polycarbonate material used to make its outer casing.

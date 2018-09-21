@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twelve South's BookArc is a lightweight and stylish Apple notebook stand
+title: Twelve Souths BookArc is a lightweight and stylish Apple notebook stand
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/Twelvesouth-BookArc-Retina-MacBook-Pro-Stand.jpg)
 * I like me a good notebook stand for the simple fact that it helps clear unwanted clutter from my desk when I need it for something other than a computer. Plus, it kind of organizes things and makes everything look neater.

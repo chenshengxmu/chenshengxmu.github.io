@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NBC's 'Today' offers peek inside Apple's North Carolina data center
+title: NBCs Today offers peek inside Apples North Carolina data center
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/north-carolina-data.png)
 * Continuing with its recent ‘green’ marketing push, Apple offered folks a rare look inside its Maiden, North Carolina data center last night. The company paired up with NBC chief environmental correspondent Anne Thompson to do a spot on Thursday’s edition of the ‘Today’ show regarding its various environmental initiatives.

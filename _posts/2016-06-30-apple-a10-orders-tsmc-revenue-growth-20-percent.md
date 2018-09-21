@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 7 'A10' chip orders to help grow TSMC's quarterly revenue by 20 percent
+title: iPhone 7 A10 chip orders to help grow TSMCs quarterly revenue by 20 percent
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/iFixit-iPhone-6s-teardown-image-001-Battery.jpg)
 * Taiwan Semiconductor Manufacturing Company, the world’s top semiconductor foundry which Apple has commissioned to build ‘A10’ processors for the next iPhone alongside Samsung, is expected to grow its revenue substantially in the third quarter of this year thanks to these orders.

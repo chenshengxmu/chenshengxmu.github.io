@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Analyst- iPhone 6 design locked down, specs include 4.8" screen, 802.11ac Wi-Fi
+title: Analyst- iPhone 6 design locked down, specs include 4.8 screen, 802.11ac Wi-Fi
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/iPhone-6-Martin-Hajek-010.jpg)
 * Apple has apparently decided on the design of its next iPhone and specifications are said to include a 4.8-inch display, according to an analyst with Cowen and Company who must have been following our non-scientific poll which had the majority of respondents opt for a 4.7-inch form factor.

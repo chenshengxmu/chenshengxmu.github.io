@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dish puts $25B on table towards snagging Sprint from Japan's Softbank
+title: Dish puts $25B on table towards snagging Sprint from Japans Softbank
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/Dish-Network-logo-full-size.jpg)
 * Dish Network has launched a $25.5 billion cash and stock bid to snag carrier Sprint from Japan’s communications giant Softbank, according to reports Monday morning. Should Sprint accept the offer and regulators approve the deal, consumers will get a new service that could combine mobile, broadband and television.

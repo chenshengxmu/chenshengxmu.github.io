@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Adobe debuts 'Voice' story creation app for iPad
+title: Adobe debuts Voice story creation app for iPad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/Adobe-Voice-1.0-for-iOS-teaser-001.jpg)
 * Photoshop maker Adobe on Thurday released a brand new iPad application on the App Store. Named Voice and available for free, the iPad-only software makes it easy to pair your spoken words to any of the 25,000 included “beautiful iconic images” (or your own graphics) in order to “create stunning animated videos in minutes.”

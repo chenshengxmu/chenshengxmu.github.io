@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why you should wait until Luca Todesco's iOS 10 jailbreak is out of beta before using it
+title: Why you should wait until Luca Todescos iOS 10 jailbreak is out of beta before using it
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/Jailbreak-Cydia-Tweak-Icon.jpg)
 * I get asked every day whether or not someone should jailbreak their iOS 10 device right now with Luca Todesco’s beta tool or continue to wait a little longer for a more stable jailbreak release.

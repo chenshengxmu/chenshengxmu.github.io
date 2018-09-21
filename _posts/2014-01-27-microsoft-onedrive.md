@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft's SkyDrive is now OneDrive
+title: Microsofts SkyDrive is now OneDrive
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/skydrive-1.png)
 * Microsoft’s multi-platform cloud storage service SkyDrive has just been rechristened and shall be known henceforth as OneDrive. The rebranding comes following last June’s ruling in a trademark case involving Microsoft and British TV broadcaster BSkyB.

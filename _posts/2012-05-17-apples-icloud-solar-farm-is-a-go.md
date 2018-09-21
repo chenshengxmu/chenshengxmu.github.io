@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Take that, Greenpeace! Apple's iCloud solar farm is a go
+title: Take that, Greenpeace! Apples iCloud solar farm is a go
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/Solar_Farm-web.jpg)
 * Apple doesn’t run the cleanest of clouds, we all know this. Fortunately, the company’s strides to reduce reliance on “19th-century coal energy”, as Greenpeace put it, have received a boost from The North Carolina Utilities Commission which has now approved plans for a massive solar farm to power Apple’s $1 billion data center in Maiden, North Carolina.

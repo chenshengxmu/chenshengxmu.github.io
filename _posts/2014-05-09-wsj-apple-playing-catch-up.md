@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WSJ- Apple playing 'catch up' with Beats acquisition
+title: WSJ- Apple playing catch up with Beats acquisition
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/beats.jpg)
 * The disruptor has become the disrupted. Apple, the company that turned the music industry upside down with the launch of the iTunes Store in 2003, saw digital download sales drop for the first time ever last year. Why? Streaming music services.

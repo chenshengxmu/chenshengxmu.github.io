@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple bringing Broadcom's Gigabit Wi-Fi to 2013 Macs, AirDrop file sharing in iOS 7 next?
+title: Apple bringing Broadcoms Gigabit Wi-Fi to 2013 Macs, AirDrop file sharing in iOS 7 next?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/OS-X-Lion-introduction-AirDrop-Woman-in-Office-file-transfer-001.jpeg)
 * The inability to wirelessly share documents directly between Macs and iOS devices using Wi-Fi Direct, a feature Samsung’s Galaxy S III and some other devices supports, is one of the top complaints on the minds of folks of all stripes. Yes, it is possible to share files through the iTunes jukebox program.

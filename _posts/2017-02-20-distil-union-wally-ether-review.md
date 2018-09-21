@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Distil Union's Wally Ether wallet case provides credit card storage on a budget
+title: Distil Unions Wally Ether wallet case provides credit card storage on a budget
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/Distil-Union-Wally-Ether-Colors.png)
 * With leather wallet iPhone cases being a hot commodity, we’ve recently shown you several from brand names. Another little-known contender in the market is Distil Union, a company that integrates their unique quick-release technology into the card slot of their cases.

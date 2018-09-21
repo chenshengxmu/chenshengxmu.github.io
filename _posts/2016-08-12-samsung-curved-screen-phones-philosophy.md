@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's why Samsung's building curved-screen phones (it's not about the looks or info tickers)
+title: Heres why Samsungs building curved-screen phones (its not about the looks or info tickers)
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/Samsung-Galaxy-S7-Injustice-Edition-image-001.jpg)
 * Samsung started building phones with curved screens beginning with last year’s Galaxy S6, a risky move that has now paid off if Samsung’s reinvigorated sales are an indication. The current Galaxy S7 has perfected that design and the fact that the latest Note 7 phablet adopts the S7’s gorgeous wraparound screen signals Samsung’s confidence in the new industrial design which breaks away from the flimsy plastic the firm used just two short years ago.

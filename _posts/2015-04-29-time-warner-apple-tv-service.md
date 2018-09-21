@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Time Warner CEO 'pretty confident' Apple is launching a TV service
+title: Time Warner CEO pretty confident Apple is launching a TV service
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/apple-tv.png)
 * Time Warner’s Jeff Bewkes is “pretty confident” Apple is working on a subscription TV service. ABC’s Jon Erlichman reports on Medium today that during Time Warner’s quarterly earnings call, the CEO said that the Cupertino firm is “very forward thinking” on the future of television.

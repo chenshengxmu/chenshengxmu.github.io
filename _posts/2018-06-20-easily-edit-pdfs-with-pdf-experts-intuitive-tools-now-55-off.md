@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Easily edit PDFs with PDF Expert's intuitive tools (now 55% off)
+title: Easily edit PDFs with PDF Experts intuitive tools (now 55% off)
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/06/sale_15480_product_image_wide-1.jpg)
 * PDFs remain the international standard when it comes to sending and receiving files, but they also remain frustratingly difficult to work with and edit. PDF Expert for Mac makes it easy to manipulate PDF documents with just a few clicks, and it’s on sale for over 55% off at just $24.99.

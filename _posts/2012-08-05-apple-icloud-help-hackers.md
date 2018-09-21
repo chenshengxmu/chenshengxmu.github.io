@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple gave hackers access to user's iCloud account
+title: Apple gave hackers access to users iCloud account
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/icloud.jpg)
 * As we continue to upload more and more of our lives to the web, the dangers of being hacked multiply. Our credit card numbers, our home addresses — they’re all there for the taking. That’s why so many security experts preach using a complicated password.

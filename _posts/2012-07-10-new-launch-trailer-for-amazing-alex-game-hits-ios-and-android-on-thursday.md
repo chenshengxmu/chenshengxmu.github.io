@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amazing Alex hitting iOS, Android on Thursday, here's your launch trailer
+title: Amazing Alex hitting iOS, Android on Thursday, heres your launch trailer
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/Amazing-Alex-iPad-wallpaper-e1342082666974.jpg)
 * Rovio said last week it would launch its brand new puzzler Amazing Alex some time during this month. Today, the Finnish developer posted a new launch trailer and announced a release date: Amazing Alex will be landing on your iPhone, iPod touch and iPad on Thursday, July 12 (alongside Tiny Wings 2).

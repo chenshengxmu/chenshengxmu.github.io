@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Director of Worldwide Investigations departs for Facebook
+title: Apples Director of Worldwide Investigations departs for Facebook
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/Apple-September-2105-event-Tim-Cook-opening-003.jpg)
 * Chief leak investigator Lee Freedman has departed Apple for a similar role at Facebook.

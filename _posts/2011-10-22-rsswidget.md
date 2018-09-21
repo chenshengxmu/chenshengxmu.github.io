@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'RSSWidget' Brings Your Favorite RSS Feed to Notification Center
+title: RSSWidget Brings Your Favorite RSS Feed to Notification Center
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/RSSWidget1.png)
 * Notice I said favorite RSS feed, and not feeds. Yes, RSSWidget works great, but it’s ridiculously restrictive when it comes to the number of feeds you can have.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Randomize your iPhone's wallpaper image on demand with UnsplashWalls
+title: Randomize your iPhones wallpaper image on demand with UnsplashWalls
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/UnsplashWalls-Wallpapers.jpg)
 * The wallpaper is one of the first things you notice every time you use your device, whether you’re glancing at the Lock screen to view the time, or accessing the Home screen to launch an app. With that in mind, shouldn’t your wallpaper captivate your interest?

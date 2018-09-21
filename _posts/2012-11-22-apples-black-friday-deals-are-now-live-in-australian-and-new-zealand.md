@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Black Friday deals go live in Australia and New Zealand
+title: Apples Black Friday deals go live in Australia and New Zealand
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/Apple-Black-Friday-2012-teaser.jpg)
 * Apple’s online stores in New Zealand and Australia went offline earlier this morning in preparation of the previously teased Black Friday deals. The one-day shopping event offers a $100 discount on select MacBook Pro and Air models and various savings on the newest iOS devices and accessories like EarBuds and Smart Covers. The Black Friday deals page is now live on Apple’s online stores in New Zealand and Australia. We’re expecting the deals to go live on the US Apple Store soon and will updated this article accordingly…

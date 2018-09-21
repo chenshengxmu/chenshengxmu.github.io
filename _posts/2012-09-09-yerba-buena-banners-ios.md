@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stretched icons in Apple's Yerba Buena banners could hint at taller iPhone
+title: Stretched icons in Apples Yerba Buena banners could hint at taller iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/finalyerba.jpg)
 * Apple started prepping for its highly-anticipated iPhone event last week, hanging colorful banners outside of the Yerba Buena Center for the Arts in San Francisco.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video- Samsung's unbreakable OLED subjected to a beating with a rubber mallet
+title: Video- Samsungs unbreakable OLED subjected to a beating with a rubber mallet
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/Samsung-Display-unbrekable-oled-panel.jpg)
 * Samsung Display last week announced a new type of OLED panel that the South Korean display maker says is virtually “unbreakable”. To illustrate the point, they released an interesting video showing a sheet of flexible OLED panel withstanding some heavy hammering.

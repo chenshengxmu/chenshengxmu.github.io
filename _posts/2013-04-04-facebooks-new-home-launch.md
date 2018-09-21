@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Facebook introduces new 'Home' for Android devices
+title: Facebook introduces new Home for Android devices
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/facebook-home-1.jpg)
 * Facebook just finished up its media event, and to our surprise, most of the discussion was not about a new smartphone. Instead, it was about Facebook’s new ‘Home’ launcher for Android devices that promises to put “people first in an app first world.”

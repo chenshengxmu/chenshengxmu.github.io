@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brushstroke is Apple's new Free App of the Week
+title: Brushstroke is Apples new Free App of the Week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/Brushstroke-2.0-for-iOS-iPhone-screenshot-001.png)
 * It’s Thursday and those of you who frequent iDB know what that means: Apple’s editors get to discount and highlight another app as part of the App Store’s ongoing promotion marketed under the ‘Free App of the Week’ banner.

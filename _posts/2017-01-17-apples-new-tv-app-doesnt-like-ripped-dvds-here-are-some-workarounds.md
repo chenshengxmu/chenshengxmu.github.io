@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's new TV app doesn't like ripped DVDs, here are some workarounds
+title: Apples new TV app doesnt like ripped DVDs, here are some workarounds
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/01/TV-app-iPhone-screenshot-001.jpg)
 * Apple’s new TV app on iOS 10.2 struggles to play videos that have been ripped from DVDs and other sources and loaded into iTunes for Mac. It’s unclear whether this is a simple bug, but that didn’t stop people from flocking to Apple’s Support Communities forum to express their disdain for the app.

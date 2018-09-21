@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's helped Cochlear design an “MFi” hearing implant that doesn't require an app
+title: Apples helped Cochlear design an “MFi” hearing implant that doesnt require an app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/07/Cochelar-iPhone-hearing-implant.png)
 * Apple has reportedly partnered with Australian-based hearing implants maker Cochlear on their first iPhone-connected hearing implant accessory.

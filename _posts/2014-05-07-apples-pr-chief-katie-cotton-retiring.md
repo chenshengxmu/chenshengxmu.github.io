@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's PR chief Katie Cotton retiring
+title: Apples PR chief Katie Cotton retiring
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/Tim-Cook-holds-iPad-with-Katie-Cotton-Jacqui-Cheng.jpg)
 * Apple’s longtime PR boss, Katie Cotton, is set to retire after spending eighteen years with the company. As Apple’s Vice President of Worldwide Corporate Communications, Cotton managed Apple’s media relations and handled all public relations matters under both Apple co-founder Steve Jobs and current CEO Tim Cook.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SEC gives Spotify preliminary approval for a new kind of IPO that doesn't offer new shares
+title: SEC gives Spotify preliminary approval for a new kind of IPO that doesnt offer new shares
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/Spotify-for-iOS-teaser-003.jpg)
 * The US Securities and Exchange Commission (SEC) has given the #1 music-streaming service Spotify preliminary approval for a new type of “underwriter-less” initial public offering (IPO).

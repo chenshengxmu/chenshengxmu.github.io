@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iDB is ready for Apple's iPhone 6 event tomorrow, are you?
+title: iDB is ready for Apples iPhone 6 event tomorrow, are you?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/Apple-invite-September-9-event-20140909.jpg)
 * Apple’s iPhone event is now less than a day away, and anticipation couldn’t be higher. Two redesigned iPhones with larger displays and NFC, a new mobile payment service, and the iWatch, Apple’s first major product unveiling since the iPad, are just a few things on the menu.

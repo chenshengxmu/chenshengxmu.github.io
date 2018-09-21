@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shazam update brings support for iOS 9's enhanced Spotlight Search and more
+title: Shazam update brings support for iOS 9s enhanced Spotlight Search and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/Shazam-follow-artists-iPhone-screenshot-001.jpg)
 * Shazam, the popular music and media identification software, has rolled out a brand new 9.0 update to its iPhone and iPad application in the App Store, bringing out support for Spotlight Search on iOS 9, improved Bluetooth listening and other tidbits.

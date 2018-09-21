@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Launcher is back on App Store as Apple's stance on widget restrictions softens
+title: Launcher is back on App Store as Apples stance on widget restrictions softens
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/Launcher-1.1-for-iOS-iPhone-screenshot-001.png)
 * Launcher, a tremendously useful iOS application by Greg Gardner for creating app, web and contact shortcuts available from a widget inside the Notification Center, is now back on the App Store following a six-month hiatus. The update is still propagating and it should hit all App Stores worldwide in the coming hours.

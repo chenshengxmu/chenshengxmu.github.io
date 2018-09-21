@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Saurik- 18M devices running iOS 6 visited Cydia during evasi0n's 6 week run
+title: Saurik- 18M devices running iOS 6 visited Cydia during evasi0ns 6 week run
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/EvasionHeader-copy-RESIZE.jpeg)
 * Yesterday, we bid farewell to one of the most infamous jailbreaks of all time: evasi0n. Born on February 4, it lasted nearly 6 weeks before Apple finally disabled it by way of the iOS 6.1.3 software update it issued yesterday.

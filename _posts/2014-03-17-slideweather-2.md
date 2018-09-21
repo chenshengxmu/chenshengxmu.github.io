@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SlideWeather replaces "slide to unlock" with current weather conditions
+title: SlideWeather replaces slide to unlock with current weather conditions
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/SlideWeather-11.png)
 * As someone who lives in Canada, which has been experiencing one of the coldest winters on record, it is safe to say that I have been checking the forecast a little more often than usual. That is part of the reason why I am a big fan of weather-related jailbreak tweaks such as SlideWeather, a new iOS extension that replaces the default “slide to unlock” text on the Lock screen with the current temperature and conditions.

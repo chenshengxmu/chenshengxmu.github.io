@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amazon's Prime Video app breaks Apple TV record for first-week downloads
+title: Amazons Prime Video app breaks Apple TV record for first-week downloads
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/Apple-TV-4K-Amazon-Prime-Video-Marvelous-Mrs-Maisel.jpg)
 * Amazon’s Prime Video app, which hit tvOS App Store on December 6, was reportedly the most downloaded of any Apple TV app ever during its first seven days.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Android and iOS- Men Lie, Woman Lie, Numbers Don't
+title: Android and iOS- Men Lie, Woman Lie, Numbers Dont
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/iphone-vs-android.jpg)
 * The infamous Android versus iOS debate can get pretty intense. Both sides have avid fans that will seemingly defend their favorite mobile OS to the death. And one of the most popular subjects for the two sides to argue about are the numbers.

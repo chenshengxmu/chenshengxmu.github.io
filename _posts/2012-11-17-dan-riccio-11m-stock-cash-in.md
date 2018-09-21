@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why did Apple's recently-minted hardware boss cash in $11M in stock?
+title: Why did Apples recently-minted hardware boss cash in $11M in stock?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/Dan-Riccio-Apple-PR-headshots.jpg)
 * Dan Riccio, Apple’s recently promoted Senior Vice President of Hardware Engineering, sold 20,726 shares of stock in the last two days. The transaction netted him a cool $10.7 million, with a thousand shares worth approximately half a million going to an unnamed charity. That another SVP of Apple is unloading shares (though he didn’t touch his stock options) doesn’t mean he’s potentially being fired, as some critics have jokingly speculated…

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Passbook is now a registered trademark
+title: Apples Passbook is now a registered trademark
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/20120919-192752-600x450.jpg)
 * Passbook, Apple’s iOS app for collecting coupons, board passes and other digital cards, is now a registered trademark. The U.S. Patent and Trademark Office published the trademark registration Friday. This makes a clean sweep for the app, after its icon was trademarked by Apple earlier this month.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New MacBook Pro doesn't play classic startup chime when turned on
+title: New MacBook Pro doesnt play classic startup chime when turned on
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/Finder-App-Icon-e1424287696699.jpg)
 * As spotlighted by French blog MacGeneration.fr based on Pingie’s discovery, Apple’s latest MacBook Pro no longer plays the classic F-sharp major chime when the computer has been powered on (you can bring it back with a simple Terminal command).

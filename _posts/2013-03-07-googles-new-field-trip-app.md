@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google releases 'Field Trip,' a new location discovery app for iOS
+title: Google releases Field Trip, a new location discovery app for iOS
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/Field-Trip-ss.png)
 * Google has added another new app to its massive library of iOS offerings today. Previously reserved for Android users, Field Trip is a location discovery app, built to help you find local points of interest.

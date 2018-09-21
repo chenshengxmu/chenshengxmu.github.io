@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Two years later, DEA learns the government can't break into Apple’s iMessage
+title: Two years later, DEA learns the government cant break into Apple’s iMessage
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/WWDC-2011-keynote-Scott-Forstall-iMessage-logo-slide.jpg)
 * Apple’s iMessage platform has gone through its share of teething problems, ranging from issues related to iOS devices continuing to send and receive messages, even after being remotely wiped and having their SIM cards deactivated, to iOS saving deleted iMessage attachments to a recent exploit which involved denial of service attacks leading to a series of spam messages crashing the stock iOS Messages app. Although unpleasant and worrying, these problems are mostly localized.

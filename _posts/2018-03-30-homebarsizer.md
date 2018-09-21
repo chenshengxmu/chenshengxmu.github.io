@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HomeBarSizer lets you resize the iPhone X's Home Bar
+title: HomeBarSizer lets you resize the iPhone Xs Home Bar
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/03/HomeBarSizer.jpg)
 * Since the public release of the Electra jailbreak for iOS 11, we’ve seen a bevy of jailbreak tweaks explicitly designed for the iPhone X. Some of the most recent ones focus on the handset’s Home Bar – the bar at the bottom of the screen that you use to close apps, multitask, etc.

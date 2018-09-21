@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bloomberg- Japan's largest carrier wants iPhone 5S, iPhone 5C - but with strings
+title: Bloomberg- Japans largest carrier wants iPhone 5S, iPhone 5C - but with strings
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/nttdocomo-japan_6.jpg)
 * A new report gives a bit more hope to Apple’s push to widen its base of iPhone global carrier partners. The finance head of Japan’s largest carrier NTT DoCoMo hints Apple’s upcoming colorized iPhone 5S and iPhone 5C models could be sold in this tech-obsessed nation to its customers. However, if Apple wants this plum, it may have to play second fiddle to its Android rival, Samsung.

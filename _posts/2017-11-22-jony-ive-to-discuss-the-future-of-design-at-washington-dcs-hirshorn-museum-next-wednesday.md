@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jony Ive to discuss the future of design at Washington, DC's Hirshorn Museum
+title: Jony Ive to discuss the future of design at Washington, DCs Hirshorn Museum
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/Jony-Ive-headshot-005.jpeg)
 * Apple’s Chief Design Officer Jony Ive is scheduled to make an appearance at the Hirshorn Museum in Washington D.C. next Wednesday, November 29 at 3pm local time to hold a talk titled “The Future of Design” with Steve Jobs biography author Rick Tetzeli.

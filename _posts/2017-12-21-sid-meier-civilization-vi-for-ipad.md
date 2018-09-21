@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sid Meier's Civilization VI for iPad is here, free to try for the first 60 turns
+title: Sid Meiers Civilization VI for iPad is here, free to try for the first 60 turns
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/Civilization-VI-for-iPad-teaser.jpg)
 * Aspyr Media said today that Sid Meier’s Civilization VI for iPad is now available on App Store.

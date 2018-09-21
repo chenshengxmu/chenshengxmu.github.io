@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ImmediateSend' allows you to quickly reply to iMessages or SMS messages
+title: ImmediateSend allows you to quickly reply to iMessages or SMS messages
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/ImmediateSend.jpg)
 * ImmediateSend is a jailbreak tweak that allows you to send immediate replies to an ongoing text or iMessage conversation. The tweak assumes that you already know the context of the ongoing conversation, so it avoids opening the full body of the chat window to save time.

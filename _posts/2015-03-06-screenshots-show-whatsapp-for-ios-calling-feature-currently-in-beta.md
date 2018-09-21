@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Screenshots show WhatsApp for iOS' calling feature currently in beta
+title: Screenshots show WhatsApp for iOS calling feature currently in beta
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/whats-app-calling.jpg)
 * Italian blog iPhoneItalia has posted a series of screenshots showing the new calling feature currently in beta testing for WhatsApp, the hugely popular communications app owned by Facebook.

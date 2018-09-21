@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chrome's incognito mode is flawed in latest iOS 7 update
+title: Chromes incognito mode is flawed in latest iOS 7 update
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/Chrome-Incognito-Flaw-iOS.jpg)
 * For all of you folks buying gifts in secret for your loved ones, beware; Chrome’s incognito mode has a flaw that allows users to recover searches performed in private. A new video has surfaced showcasing the flaw in action, and iDB has independently verified, that indeed, Incognito mode on the iOS version of Chrome ain’t so incognito.

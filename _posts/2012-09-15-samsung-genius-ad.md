@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung's new Galaxy S III ad takes on the iPhone 5
+title: Samsungs new Galaxy S III ad takes on the iPhone 5
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/samsung-iphone-5-ad-header.jpg)
 * “It doesn’t take a genius,” according to Samsung’s new ad, to see that the Samsung Galaxy S III is a better handset than Apple’s new iPhone 5. “The next big thing is already here,” it says.

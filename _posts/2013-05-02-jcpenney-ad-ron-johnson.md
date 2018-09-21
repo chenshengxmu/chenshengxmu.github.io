@@ -1,6 +1,6 @@
 ---
 layout: post
-title: JCPenney airs TV ad apologizing for chickening out of Ron Johnson's vision
+title: JCPenney airs TV ad apologizing for chickening out of Ron Johnsons vision
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/JC-Penney-store-exterior-001.jpg)
 * Former Apple SVP of Retail, Ron Johnson, lasted barely a year on the job. After the struggling department store chain reported a $13 billion annual decline in revenue, the board ingloriously booted Johnson whose greatest sin was trying to change way too many things at the same time, namely insisting on his shop-in-shop concept.

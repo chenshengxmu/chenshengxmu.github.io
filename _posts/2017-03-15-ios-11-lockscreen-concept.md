@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This cool iOS 11 concept would bring more power to your iPhone's Lock screen
+title: This cool iOS 11 concept would bring more power to your iPhones Lock screen
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/03/Concept-iOS-11-Lock-screen-Matt-Birchler-teaser-001.png)
 * Various iPhone 8 and iOS 11 concepts have been proliferating lately, with app developer Matt Birchler jumping on the bandwagon with mockups of his own. We’re liking some of the smart ideas presented in his batch of thoughtfully done renderings that envision a much more useful Lock screen on iOS 11.

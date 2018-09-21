@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Toca Nature' goes free as Apple's App of the Week
+title: Toca Nature goes free as Apples App of the Week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/05/toca-1.jpeg)
 * Apple has just named “Toca Nature” its App of the Week for this week. This means that from now through next Thursday, you’ll be able to download the award-winning education software for both iPhone and iPad for free—a great savings of $2.99.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Homescreen Settings' Adds Settings App Shortcuts to Your Home Screen
+title: Homescreen Settings Adds Settings App Shortcuts to Your Home Screen
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/Homescreen-Settings-Feature.png)
 * Homescreen Settings is the type of innovative tweak that doesn’t come around too often, but when it does, you wonder, what took so long?

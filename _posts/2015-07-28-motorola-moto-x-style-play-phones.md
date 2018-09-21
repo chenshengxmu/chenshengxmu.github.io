@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Motorola takes on Apple's iPhone with a trio of new Moto handsets
+title: Motorola takes on Apples iPhone with a trio of new Moto handsets
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/07/Motorola-Moto-2015-Family-teaser-001.jpg)
 * At a press event earlier this morning, handset maker Motorola unveiled a pair of new would-be iPhone killers, the larger-screened Moto X Style and the Moto X Play.

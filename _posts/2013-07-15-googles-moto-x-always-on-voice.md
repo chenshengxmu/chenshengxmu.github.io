@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's Moto X to include always-on voice assistant and other innovative features
+title: Googles Moto X to include always-on voice assistant and other innovative features
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/eric-schmidt-moto-x-640x426.jpg)
 * When it comes to flagship smartphone sales, it’s essentially a two-horse race between Apple’s iPhone line and Samsung’s Galaxy S line. Both companies account for nearly all of the industry’s profits, and frequently trade-off the title of top-selling manufacturer.

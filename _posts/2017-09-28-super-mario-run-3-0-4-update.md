@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video- hands-on with Super Mario Run's major update bringing new levels & game modes
+title: Video- hands-on with Super Mario Runs major update bringing new levels & game modes
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/Super-Mario-Run-Update.jpg)
 * The anticipated update to Super Mario Run is now available on App Store with version number 3.0.4 and packing many enhancements such as a new Remix 10 game mode, new playable character, a whole new world of levels and more.

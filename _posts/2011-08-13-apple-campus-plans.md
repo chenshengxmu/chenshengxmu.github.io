@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cupertino Releases Plans for Apple's Awesome New Campus
+title: Cupertino Releases Plans for Apples Awesome New Campus
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/2-29f69b81b3-e1313221398968.jpg)
 * What do you do if you have $75 billion dollars in the bank, and your company is growing so fast that you can’t find a big enough area to house your operations?

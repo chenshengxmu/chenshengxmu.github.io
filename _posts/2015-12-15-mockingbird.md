@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mockingbird- a new App Switcher tweak that's not quite ready for prime time
+title: Mockingbird- a new App Switcher tweak thats not quite ready for prime time
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/12/mockingbird-jailbreak-tweak.png)
 * Mockingbird ($1.99 on Cydia) is a new jailbreak tweak that brings a completely redesigned App Switcher experience to jailbroken iPhones running iOS 9. The tweak merges App Switcher cards and Notification Center notifications for a unique app switching experience that’s truly original.

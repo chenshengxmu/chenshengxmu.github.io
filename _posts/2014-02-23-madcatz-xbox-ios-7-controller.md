@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mad Catz introduces new Xbox-inspired iOS 7 controller 'C.T.R.L.i'
+title: Mad Catz introduces new Xbox-inspired iOS 7 controller C.T.R.L.i
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/madcatz.jpg)
 * Mobile World Congress, which has just begun in Barcelona, is not known for churning out mobile peripherals like CES or other big conferences, but we’ve got one for you today. It’s a new MFi (made for iPhone) iOS 7-compatible game controller.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Alleged details for Apple's next-gen 12-inch MacBook Air surface
+title: Alleged details for Apples next-gen 12-inch MacBook Air surface
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/12-inch-MacBook-Air-render-2.png)
 * Details of the long-rumored 12-inch MacBook Air surfaced today, as 9to5mac broke specifics surrounding the device’s dimensions, edge-to-edge keyboard, and lack of traditional ports. Although the device’s screen size is larger and of a higher pixel density than that of the 11-inch MacBook Air, its dimensions are narrower than its smaller counterpart by approximately a one-fourth inch. It is, however, slightly taller due to the larger screen size, with an approximate one-fourth inch increase in height.

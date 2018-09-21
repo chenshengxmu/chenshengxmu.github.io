@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sharp's $7 billion US display plant may break ground before summer
+title: Sharps $7 billion US display plant may break ground before summer
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/iPhone-6-inside-view-retina-hd-display.png)
 * Japanese giant Sharp is “taking the lead” on a rumored $7 billion display manufacturing plant in the United States which its parent company Foxconn recently highlighted in response to U.S. President Donald Trump’s “Make in America” call. Citing a person with knowledge of the plan, Reuters is reporting that the forthcoming facility may break ground sometime in the first half of 2017.

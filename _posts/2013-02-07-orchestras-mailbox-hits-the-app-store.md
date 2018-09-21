@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Orchestra's Mailbox hits the iPhone, download now to reserve your spot
+title: Orchestras Mailbox hits the iPhone, download now to reserve your spot
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/mailbox-app.jpg)
 * Orchestra’s anticipated email client aptly named Mailbox has finally hit the App Store, following months of private beta testing. In between Google’s slow pace of adding necessary new features to its Gmail iOS client and Sparrow lingering with maintenance updates but no new stuff, Mailbox is Godsent. Not only is it arguably the best-looking iOS email client, Mailbox outsmarts Apple’s stock Mail, Gmail and Sparrow with its chat-like approach to email, crisp UI and the cool ‘snooze’ function…

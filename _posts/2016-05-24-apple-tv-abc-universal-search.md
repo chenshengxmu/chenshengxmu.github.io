@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple TV's universal search feature picks up support for NBC shows
+title: Apple TVs universal search feature picks up support for NBC shows
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/Apple-TV-universal-search-NBC.jpg)
 * After adding support for finding CBS television shows last month, owners of the fourth-generation Apple TV can now use tvOS’s universal search feature to find video content from NBC, like “The Tonight Show Starring Jimmy Fallon,” using Siri or Dictation.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's smaller A5 chip is still being fabbed by Samsung
+title: Apples smaller A5 chip is still being fabbed by Samsung
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/Apple-TV-A5-chip-Chipworks-001.jpg)
 * As we reported Monday, a retooled version of Apple’s $99 set-top box has been found to have a die-shrunk version of the iPad 2’s A5 chip rather than the A5X package, as previously speculated. Some market watchers even thought the new package is fabbed on Taiwan Semiconductor Manufacturing Company’s (TSMC) new 28-nanometer process. However, after conducting a thorough analysis of the silicon under sophisticated microscopes, chip wizards over at Chipworks and Silicon-IP have determined that the new A5 package is being fabbed on Samsung’s 32-nanometer process after all…

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Eddy Cue joins Ferrari's board
+title: Apples Eddy Cue joins Ferraris board
 ---
 * Apple’s SVP of Internet Software & Services, Eddy “The Fixer” Cue, has joined Ferrari’s Board of Directors. In one design leader complimenting another, Cue said he has long admired the Italian luxury auto manufacturer. However, does Wednesday’s action have any relevance to Apple fans likely owning something a bit less drenched in high-octane? Possibly.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/Eddy-Cue-headshot.jpg)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's “headset-like” AR device apparently coming no later than 2019
+title: Apples “headset-like” AR device apparently coming no later than 2019
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/Robert-Scoble-Google-Glass-shower.jpg)
 * Apple is thought to work on some kind of an augmented reality headset accessory and now a high-ranking official with one of Apple’s key Taiwanese suppliers claims that the rumored device will be coming no later than the year 2019.

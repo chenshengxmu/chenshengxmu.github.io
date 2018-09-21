@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Safari "Reading List" in Mac OS X Lion Will Wirelessly Sync Bookmarks with iOS Devices
+title: Safari Reading List in Mac OS X Lion Will Wirelessly Sync Bookmarks with iOS Devices
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/05/Safari-Reading-List-e1305687270941.png)
 * Apple’s next version of their desktop operating system, Mac OS X Lion, is nearing the final stages of developer beta testing. It is suspected that Apple will release the new OS to Mac users this summer.

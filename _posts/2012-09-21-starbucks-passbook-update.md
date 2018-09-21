@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Starbucks to update its iOS app for Passbook by month's end
+title: Starbucks to update its iOS app for Passbook by months end
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/Starbucks-store.jpg)
 * Been wondering when you would be able to take your shiny new iPhone into a Starbucks and use Passbook to pay for your grande skinny vanilla latte? Well, wonder no more.

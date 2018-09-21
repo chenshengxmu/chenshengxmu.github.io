@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's 200MB initial download limit for Apple TV can be a good thing for gamers if developers adapt
+title: Apples 200MB initial download limit for Apple TV can be a good thing for gamers if developers adapt
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/Apple-TV-4-top-view-remote.jpg)
 * Earlier this week, I discussed why Apple’s move to require developers to support the Apple TV remote in its games was actually a positive move for gamers. Today, I’d like to briefly touch on another controversial subject regarding the new Apple TV—the 200MB initial download limit for apps.

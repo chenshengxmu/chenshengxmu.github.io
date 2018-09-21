@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zuck says Steve Jobs inspired Facebook's new organ donor tool
+title: Zuck says Steve Jobs inspired Facebooks new organ donor tool
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Facebook-Timeline-organ-donor-status.jpg)
 * The internet went abuzz yesterday as Facebook’s Zuckerberg dropped hints of a new feature said to “save lives”.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PDF Printer for Safari' adds support for Maps, soon for any app
+title: PDF Printer for Safari adds support for Maps, soon for any app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/PDF-printer-print.jpg)
 * PDF Printer for Safari was a jailbreak tweak originally designed to allow users to ‘print’ from safari to PDF documents in order to neatly archive websites, but it seems the tweak has grown beyond its name.

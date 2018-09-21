@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's ARKit replicates A-ha’s “Take on Me” music video in real time
+title: Apples ARKit replicates A-ha’s “Take on Me” music video in real time
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/ARKit-A-ha-music-video.jpg)
 * ARKit, Apple’s new framework in iOS 11 for building augmented reality experiences for iPhone and iPad, has been used to recreate the music video for the 1980s hit song “Take on Me” by Norwegian band A-ha in real-time, highlighting ARKit’s potential for film-making.

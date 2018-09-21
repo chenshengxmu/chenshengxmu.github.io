@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 11's increased pairing security requires passcode for the “Trust This Computer” prompt
+title: iOS 11s increased pairing security requires passcode for the “Trust This Computer” prompt
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/04/Trust-This-Computer-alert-on-iPhone.png)
 * iOS 11 has introduced security-enhancing tweaks, including one that changes how trust is established between your computer and an iPhone, iPad or iPod touch connected to it.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'iTunes in the Cloud' goes live in Japan, iTunes Match to follow
+title: iTunes in the Cloud goes live in Japan, iTunes Match to follow
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/japan-itunes-in-the-cloud.jpg)
 * It’s been more than a month since Apple’s last iTunes Match roll out, but it looks like the company is getting ready to launch the popular music-mirroring service in Japan.

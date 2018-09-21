@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Apptivator' is the Perfect Addon to Activator
+title: Apptivator is the Perfect Addon to Activator
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/07/Apptivator-e1311613804322.png)
 * Apptivator…hmm, nice play on words there, if I must say so myself.

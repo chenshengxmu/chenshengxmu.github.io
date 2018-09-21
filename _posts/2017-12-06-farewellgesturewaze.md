@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Disable Waze's menu-based swipe gesture with FarewellGestureWaze
+title: Disable Wazes menu-based swipe gesture with FarewellGestureWaze
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/Waze.jpg)
 * Waze is one of the most popular third-party navigation apps for the iOS platform, but some users find that the interface isn’t without its quirks. For example, the swipe gesture you might use to access the app’s built-in menu could potentially clash with other gestures.

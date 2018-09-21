@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fitbit unveils new 'Blaze' fitness smartwatches
+title: Fitbit unveils new Blaze fitness smartwatches
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/FitBit-Blaze-lineup-image-001.jpg)
 * Wearable company Fitbit at CES 2016 in Las Vegas announced a brand new lineup of fitness-focused smartwatches, marketed under the Blaze moniker. Featuring a sleek design and easily interchangeable accessories, the Blaze lineup offers an enhanced fitness and workout experience with advanced coaching and other features.

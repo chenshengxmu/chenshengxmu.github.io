@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nike launches new 'SB' app with interactive trick guides and more
+title: Nike launches new SB app with interactive trick guides and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/nike-sb-ss.png)
 * Nike has launched a new iOS app this week called ‘Nike SB.’ The SB stands for skateboard, and the app offers up a number of features for those who love the sport including an interactive trick guide, the ability to share tips and tricks, and more.

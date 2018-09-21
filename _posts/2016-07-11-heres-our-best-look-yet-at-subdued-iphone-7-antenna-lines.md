@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's our best look yet at subdued iPhone 7 antenna lines
+title: Heres our best look yet at subdued iPhone 7 antenna lines
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/07/iPhone-7-backplate-NowhereElse-002.jpg)
 * French blog NowhereElse.fr on Monday posted a claimed image of an iPhone 7 backplate which offers the clearest look yet at the subdued antenna lines along with a larger single-lens camera on its back. The alleged photo claims to represent Apple’s 4.7-inch iPhone 7 model and is in line with earlier leaks showing antenna lines running around the top and bottom edges of the handset and a single camera on the back with a larger opening versus that on the iPhone 6s.

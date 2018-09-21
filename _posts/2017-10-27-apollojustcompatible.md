@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This tweak hides features in the Apollo Reddit client that don't work on jailbroken devices
+title: This tweak hides features in the Apollo Reddit client that dont work on jailbroken devices
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/ApolloJustCompatible-Bandaid.jpg)
 * A plethora of Redditors are already content with the new Apollo client released earlier this week, but jailbreakers are learning that not every feature included in the app works on their devices because some require iOS 10.3 or later.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: International Apple Stores going offline ahead of tomorrow's iPad Air launch
+title: International Apple Stores going offline ahead of tomorrows iPad Air launch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/Apple-Store-offline.png)
 * As retailers have now begun receiving large shipments of iPad Air units, Apple’s online stores in the Asia-Pacific region and elsewhere are now going down ahead of tomorrow’s launch. The online Apple Stores in China, Hong Kong, Japan, Macao, Singapore and Australia are all offline, with more going down as we speak.

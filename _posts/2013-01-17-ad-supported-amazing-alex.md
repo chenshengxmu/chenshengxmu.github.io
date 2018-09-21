@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Another freebie- Rovio's Amazing Alex is now available for $0 with some ads
+title: Another freebie- Rovios Amazing Alex is now available for $0 with some ads
 ---
 * Finnish developer Rovio made headlines earlier today announcing that the popular Angry Birds Rio and Angry Birds Rio HD have been made Apple’s Free App of the Week, meaning both titles are now free downloads for a limited time. As the iPhone version normally costs 99 cents and the high-definition iPad version is an additional $3, that’s a $4 saving for you right off the bat. But if you’ve grown tired of Angry Birds and think the series has long run its course, Rovio has another deal for you.
 * Today, the company released a free, ad-supported version of Amazing Alex for the iPhone and iPod touch and Amazing Alex HD for iPads. The game, one of the finest physics-based puzzlers available for iOS devices, is based on Casey’s Contraptions which Rovio licensed and challenges you with building contraptions by combining various objects to solve a bunch of levels…

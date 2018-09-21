@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Workers describe harsh conditions at Apple supplier Catcher's facilities
+title: Workers describe harsh conditions at Apple supplier Catchers facilities
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/Catcher-TEchnology-factory-002.jpg)
 * Apple supplier Catcher Technology has been accused of dire conditions for its employees who produce machined aluminum casings for iPhones and MacBooks at a manufacturing complex in the Chinese industrial city of Suqian, about six hours’ drive from Shanghai.

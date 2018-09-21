@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ask Jeff- Episode 06 - An Apple Fanboy's Perspective
+title: Ask Jeff- Episode 06 - An Apple Fanboys Perspective
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/Ask-Jeff-Episode-06.png)
 * Another week, and that can only mean one or two things; you just got paid, and/or it’s time for another episode of Ask Jeff.

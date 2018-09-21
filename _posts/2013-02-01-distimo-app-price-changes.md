@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It's true- app price drops positively affect revenue
+title: Its true- app price drops positively affect revenue
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/Distimo-app-price-changes-chart-001.jpg)
 * Price drops are the norm in app business. Developers are keen to slash prices of their digital warez, mostly for a limited time, in order to boost revenue. Some apps even go from paid to free permanently in the hope of raking in more revenue through in-app purchases. Just a few recent examples: Evernote has temporarily made the Penultimate handwriting app free and National Geographic’s World Atlas for the first time has gone free.

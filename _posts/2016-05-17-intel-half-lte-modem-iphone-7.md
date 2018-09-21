@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DigiTimes- Intel to supply at least half of iPhone 7's faster LTE cellular modems
+title: DigiTimes- Intel to supply at least half of iPhone 7s faster LTE cellular modems
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/Intel-logo-blue-white-background-full-size.jpg)
 * Rumors continue to swirl that Intel had been commissioned to build LTE modem chips for Apple’s upcoming smartphone refresh, a marquee win for the semiconductor giant.

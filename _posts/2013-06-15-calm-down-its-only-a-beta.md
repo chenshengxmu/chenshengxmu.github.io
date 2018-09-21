@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Calm down, it's only a beta
+title: Calm down, its only a beta
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/iOS-7-Messages-004.jpg)
 * Now that Apple’s iOS 7 is out of the bag, everyone seems to have an opinion on whether it hits the mark. If there was one word we would use to describe Apple’s latest version of its iPhone, iPad and iPod touch software it would probably be ‘polarizing‘ and with good reason. After all, iOS 7 is undoubtedly the biggest change to iOS since the iPhone was introduced all those years ago.

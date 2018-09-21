@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook says Apple tax avoidance talk is 'total political crap'
+title: Tim Cook says Apple tax avoidance talk is total political crap
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/12/cook-60.png)
 * 60 Minutes on Friday shared a one minute clip from its upcoming interview with Apple CEO Tim Cook. In the preview, Charlie Rose asks for Cook’s thoughts regarding Apple’s congressional tax hearing, which found the company to be engaged in a “sophisticated scheme” to avoid taxes on its $74 billion held overseas.

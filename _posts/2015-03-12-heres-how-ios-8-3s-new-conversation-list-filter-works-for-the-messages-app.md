@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's how iOS 8.3's new Conversation List Filter works for the Messages app
+title: Heres how iOS 8.3s new Conversation List Filter works for the Messages app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/Conversation-List-Filtering-Preferences.png)
 * iOS 8.3 brings a fairly significant new feature to the stock Messages app—Conversation List Filtering. This means that instead of just having one single “inbox” for conversations in the Messages app, you now have two, broken up via two tabs: Contacts & SMS and Filtered.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5 Things I'd Really Love to See From The Next iPhone
+title: 5 Things Id Really Love to See From The Next iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/iPhone-5-2-Concept-e1304179252530.jpeg)
 * There’s been all sorts of mutters, speculations, and guesses surrounding the next iPhone. Some of the ideas sound great, while others sound pretty terrible.

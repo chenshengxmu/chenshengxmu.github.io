@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Alleged internal slide reveals Amazon's upcoming smartphone
+title: Alleged internal slide reveals Amazons upcoming smartphone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/bgr-amazon-smartphone-kindle-fire-phone.jpg)
 * Amazon is expected to unveil its first smartphone in the not-so-distant future, and according to a new report from BGR, this is what it’s going to look like. The site says the image on the above slide was created for internal use by graphic designers at Amazon.

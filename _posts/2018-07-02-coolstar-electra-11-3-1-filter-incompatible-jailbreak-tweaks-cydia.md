@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CoolStar- Electra 11.3.1 to filter incompatible tweaks from Cydia's default repositories
+title: CoolStar- Electra 11.3.1 to filter incompatible tweaks from Cydias default repositories
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/06/Electra-iOS-1131.png)
 * While the Electra Team works hard to produce a working jailbreak tool for iOS 11.3.1 amid unexpected delays, team member CoolStar took to Twitter on Monday to announce a rather attention-grabbing update.

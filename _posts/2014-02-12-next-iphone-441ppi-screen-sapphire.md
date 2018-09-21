@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rumor- the next iPhones have sharper 4.7" and 5.5" Retina screens with sapphire protection
+title: Rumor- the next iPhones have sharper 4.7 and 5.5 Retina screens with sapphire protection
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/iPhone-6-concept-ConceptsPhone-001.jpg)
 * According to a new report by the South China Morning Post, Apple is reportedly gearing up to launch two new iPhones with bigger screens sporting sapphire crystal protection. The handsets are reportedly scheduled to launch in September 2014.

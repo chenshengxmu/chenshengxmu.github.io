@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ireland's High Court finally approves Apple's huge $1 billion data center
+title: Irelands High Court finally approves Apples huge $1 billion data center
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/Appel-data-center-Ireland-rendition-001.jpg)
 * More than two and a half years following Apple’s announcement, the company’s massive new data center in Ireland has finally been given permission by Ireland’s High Court.

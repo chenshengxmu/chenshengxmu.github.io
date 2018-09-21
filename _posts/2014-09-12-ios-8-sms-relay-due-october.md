@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple- iOS 8's SMS forwarding arriving in October
+title: Apple- iOS 8s SMS forwarding arriving in October
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/Messages-for-OS-X-Yosemite.jpg)
 * When iOS 8 launches for public consumption next Wednesday, text message relaying will not work immediately from day one because Apple plans to enable the feature in October, according to the just-refreshed iOS 8 webpage detailing the Continuity feature that was first spotted Friday morning by iLongue.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: That didn't take long- Passbook for Android lands
+title: That didnt take long- Passbook for Android lands
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/PassWallet-for-Android-teaser.jpg)
 * The brand new Passbook app in iOS 6 is garnering traction in both tech press and the real world with the likes of Starbucks, Target, theme park Accesso, airlines Delta, American Airlines, Virgin Australia and others all announcing they have or are implementing Passbook support.

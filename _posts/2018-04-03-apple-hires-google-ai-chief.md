@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple hires Google's chief of search and A.I.
+title: Apple hires Googles chief of search and A.I.
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/04/john.jpg)
 * Apple has hired Google’s chief of search and artificial intelligence John Giannandrea, reports The New York Times. The outlet has obtained an internal email from Tim Cook, who tells employees “John shares our commitment to privacy and our thoughtful approach as we make computers even smarter and more personal.”

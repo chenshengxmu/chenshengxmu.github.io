@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google shamelessly lifts Apple's patent illustration
+title: Google shamelessly lifts Apples patent illustration
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/Apple-logo-space-001.jpg)
 * I was shocked learning about the extent of Google’s copying this morning. Apparently one of Google’s patent filings with The United States Patent & Trademark Office (USPTO) uses a familiar-looking illustration to depict a generic computer.

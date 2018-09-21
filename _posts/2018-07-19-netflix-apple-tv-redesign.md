@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Netflix's overhauled Apple TV interface brings handy shortcuts to a sidebar menu
+title: Netflixs overhauled Apple TV interface brings handy shortcuts to a sidebar menu
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/Netflix-TV-app-redesign.jpeg)
 * Netflix has shown off its overhauled apps for set-top boxes, such as the fourth-generation Apple TV and Apple TV 4K, that revolves around a slide-out navigation menu on the lefthand side housing useful shortcuts such as Search, Home, Series, Movies, My List and New.

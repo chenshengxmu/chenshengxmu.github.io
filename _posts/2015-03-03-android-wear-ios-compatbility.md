@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google allegedly working on an iPhone app that'll bring iOS compatibility to Android Wear
+title: Google allegedly working on an iPhone app thatll bring iOS compatibility to Android Wear
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/Huawei-Watch-image-001.jpg)
 * Google is ostensibly working on an iPhone app that will bring iOS compatibility to all Android Wear-driven smartwatches on the market. Google’s Android-powered software platform for wearable devices launched a year ago without official support for the iPhone, iPod touch, iPad and Mac devices. Word of a possible solution came Tuesday via 01Net and was passed along to us by French blog iPhon.fr.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple working on "adaptive streaming" for audio
+title: Apple working on adaptive streaming for audio
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/itunes-match-e1321390106798.png)
 * Apple is currently working on a new file format for its iCloud service, according to reports.

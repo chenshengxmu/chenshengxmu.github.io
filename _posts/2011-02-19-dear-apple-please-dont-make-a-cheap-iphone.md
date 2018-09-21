@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dear Apple, Please Don't Make a Cheap iPhone
+title: Dear Apple, Please Dont Make a Cheap iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/02/Apple-Logo.jpg)
 * Last week a rumor started spreading around the interwebs saying that Apple was to unveil an iPhone Nano. That wasn’t a new rumor as we had already heard that before but the fact that the news came from the WSJ gave it street credentials.

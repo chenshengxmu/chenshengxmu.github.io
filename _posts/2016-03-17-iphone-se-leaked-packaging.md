@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Leaked packaging confirms 'iPhone SE' name, 16GB baseline model and NFC for Apple Pay
+title: Leaked packaging confirms iPhone SE name, 16GB baseline model and NFC for Apple Pay
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/iPhone-SE-packaging-leak.jpg)
 * Thursday, a photo of what appears to be Chinese packaging for Apple’s upcoming four-inch iPhone refresh was posted on Chinese social network Weibo.

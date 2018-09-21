@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung Galaxy S6 won't be using Qualcomm Snapdragon 810 chip due to overheating
+title: Samsung Galaxy S6 wont be using Qualcomm Snapdragon 810 chip due to overheating
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/Qualcomm-Snapdragon.png)
 * News broke today that Samsung’s upcoming flagship, the fabled Galaxy S6, won’t be using Qualcomm’s new mobile system-on-a-chip, the Snapdragon 810.

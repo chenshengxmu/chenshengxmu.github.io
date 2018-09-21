@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Automatic's software update just turned your car into an iBeacon
+title: Automatics software update just turned your car into an iBeacon
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/Automatic-iBeacon.jpg)
 * Automatic‘s app-enabled smart driving assistant is genius. The $99.95 accessory connects to the mobile app to not only give you driving feedback and crash alerts, but also help diagnose check engine codes and lots more – because “small changes in your driving behavior can lead to huge savings over time”.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to add any Apple Music album to your iPhone's Home screen
+title: How to add any Apple Music album to your iPhones Home screen
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/03/Apple-Music-icon-001.jpg)
 * iOS 12’s Shortcuts app lets music lovers easily add the album they’ve been listening to over and over to their Home screen on an iPhone or iPad, ready to be played with a tap of an icon.

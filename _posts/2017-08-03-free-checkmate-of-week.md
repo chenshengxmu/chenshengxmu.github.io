@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's free app of the week- Checkmate!
+title: Apples free app of the week- Checkmate!
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/check.png)
 * Apple on Thursday updated its App of the Week promotion with the game Checkmate! For the next 7 days, you can pick up the popular iMessage chessboard for free on both iPhone and iPad—saving you $1.

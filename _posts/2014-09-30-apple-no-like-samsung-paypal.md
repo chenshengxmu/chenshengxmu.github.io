@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PayPal's deal with Samsung ruined its chances of being an Apple Pay partner
+title: PayPals deal with Samsung ruined its chances of being an Apple Pay partner
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/iPhone-6-Apple-Pay.png)
 * Talks between Apple and PayPal regarding Apple Pay partnership soured following PayPal’s deal with Samsung, reports Bank Innovation. The outlet says that the two sides began negotiations early on in Apple Pay’s development, but when PayPal partnered with Samsung for Galaxy S5 payments, Apple backed out.

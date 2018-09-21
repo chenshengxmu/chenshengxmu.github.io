@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amazon launches survival horror game 'Lost Within' for iOS
+title: Amazon launches survival horror game Lost Within for iOS
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/04/lost-2.jpeg)
 * Amazon’s Game Studios made good on its promise today to bring mobile games to iOS, launching Lost Within in the App Store. The title falls in the ‘survival horror’ genre, costs $6.99, and supports both the iPhone and iPad.

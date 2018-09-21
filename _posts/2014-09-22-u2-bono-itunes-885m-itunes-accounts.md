@@ -1,6 +1,6 @@
 ---
 layout: post
-title: U2's Bono says Apple has 885 million iTunes accounts, talks new music format
+title: U2s Bono says Apple has 885 million iTunes accounts, talks new music format
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/Jony-Ive-and-Bono-NYT-001.jpg)
 * Paul David Hewson aka Bono Vox (also known by his stage name Bono), the frontman of the Dublin-based rock band U2, revealed that Apple now has an astounding 885 million iTunes accounts in an interview Monday with Dave Fanning on the Irish radio station 2FM.

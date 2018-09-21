@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Pulls "Gay Cure" App From the App Store
+title: Apple Pulls Gay Cure App From the App Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/03/apple-gay.jpg)
 * Five days and over 145,000 signatures later, Apple finally pulled the Exodus International app from the App Store. As harmless as it looked on the surface, the app dubbed as “Gay Cure” was terribly offensive, especially to the gay community.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project Titan- Apple's secret electric car
+title: Project Titan- Apples secret electric car
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/apple-car-concept.jpg)
 * Apple has several hundred employees secretly working on creating an electric vehicle, reported the Wall Street Journal on Friday, citing people familiar with the company’s plans. Code-named Titan, the project currently sports the design of a minivan.

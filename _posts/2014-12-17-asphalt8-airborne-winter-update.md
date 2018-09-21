@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Asphalt 8- Airborne 'Winter' update races into App Store, brings with it tons of goodies
+title: Asphalt 8- Airborne Winter update races into App Store, brings with it tons of goodies
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/Asphalt-8-1.1-for-iOS-iPhone-screenshot-001.jpeg)
 * Gameloft on Wednesday pushed a holiday-themed update to its freemium racing game for the iPhone and iPad, the insanely crazy, action-driven Asphalt 8: Airborne.

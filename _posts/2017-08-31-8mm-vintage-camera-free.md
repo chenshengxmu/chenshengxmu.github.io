@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's free app of the week- 8mm Vintage Camera
+title: Apples free app of the week- 8mm Vintage Camera
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/8mm.png)
 * Apple has updated its App of the Week promotion with 8mm Vintage Camera. For the next 7 days, you can grab the nostalgic video editor for free on both iPhone and iPad—a solid savings of $4.

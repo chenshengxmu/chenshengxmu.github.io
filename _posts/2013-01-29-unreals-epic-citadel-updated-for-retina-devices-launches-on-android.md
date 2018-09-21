@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Unreal's Epic Citadel updated for Retina devices, launches on Android
+title: Unreals Epic Citadel updated for Retina devices, launches on Android
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/Epic-Citadel-1.1-for-iOS-iPad-screenshot-001.jpg)
 * Remember the strikingly remarkable Epic Citadel demo? It knocked our panties off with jaw-dropping graphics! Not sure about you, but I’d never thought such detailed visuals would have been possible on mobile devices that early in the game. You can thank Epic’s Unreal Engine 3 for that, actually. Arguably the best game engine, it powers some of the best iOS games, including Epic’s own Infinity Blade series.

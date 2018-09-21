@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Surpasses Microsoft's Market Capitalization and Becomes World's Biggest Tech Company
+title: Apple Surpasses Microsofts Market Capitalization and Becomes Worlds Biggest Tech Company
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/05/microsoft-apple.png)
 * Apple finally surpassed Microsoft in terms of market capitalization to become the world’s largest tech company. Obviously, there are many criteria on which you can rate companies and my guess is that Microsoft still surpasses Apple on many of them (ie. market shares for the personal computer market).

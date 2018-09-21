@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple wins injunction against Motorola in Germany over 'slide to unlock' patent
+title: Apple wins injunction against Motorola in Germany over slide to unlock patent
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/Photo-Oct-25-3-44-39-PM.jpg)
 * When the USPTO (United States Patent and Trademark Office) awarded Apple a patent late last year regarding its ‘slide to unlock’ feature, we didn’t think it would be very long before we saw it pop up in Apple’s Android war. And it wasn’t.

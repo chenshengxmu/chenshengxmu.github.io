@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Consumer Reports won't recommend new MacBook Pros over inconsistent battery life
+title: Consumer Reports wont recommend new MacBook Pros over inconsistent battery life
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/hello-again-event-macbook-pro-battery.jpg)
 * Consumer Reports will not be recommending Apple’s latest MacBook Pro models due to inconsistent battery performance, the magazine said Thursday. After conducting a battery of tests, Consumer Reports discovered that battery life across all new Pros varied “dramatically” from one test to another.

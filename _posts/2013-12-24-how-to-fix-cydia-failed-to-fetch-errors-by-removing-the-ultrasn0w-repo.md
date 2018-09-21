@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to fix Cydia "failed to fetch" errors by removing the UltraSn0w repo
+title: How to fix Cydia failed to fetch errors by removing the UltraSn0w repo
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/UltraSn0w-Delete.png)
 * One of the more common error messages that new Cydia users will come across is the error that says Failed to fetch […] HTTP/1.1 404 Not Found. This is a typical 404 message that you get when you visit a webpage location that no longer exists. Normally, this wouldn’t be a big deal, but it causes an error message to appear in Cydia each time you refresh your list of packages and it attempts to pull data from the non-existent UltraSn0w repo.

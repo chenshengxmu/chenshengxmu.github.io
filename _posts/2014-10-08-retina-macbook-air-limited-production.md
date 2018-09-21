@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DigiTimes- 12" Retina MacBook Air in limited production now
+title: DigiTimes- 12 Retina MacBook Air in limited production now
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/macbook-air-ad.png)
 * Apple’s rumored MacBook Air with a twelve-inch Retina screen has allegedly entered limited production, according to sources with Apple’s supply chain Wednesday morning who spoke to DigiTimes, a Taiwanese trade publication.

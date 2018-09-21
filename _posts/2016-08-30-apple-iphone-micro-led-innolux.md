@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Report- iPhone's switch to AMOLED short-lived as Apple looks to adopt Micro-LED screens
+title: Report- iPhones switch to AMOLED short-lived as Apple looks to adopt Micro-LED screens
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/iPhone-6-Retina-HD.png)
 * Apple’s Tenth Anniversary iPhone due next year is widely expected to use the superior AMOLED display technology, but only for a short while as the Cupertino company looks to adopt the emerging Micro-LED screens in the long run, according to a report from Taiwanese trade publication DigiTimes.

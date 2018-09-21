@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Grab IKEA's furniture placement app and see for yourself why ARKit is such a big deal
+title: Grab IKEAs furniture placement app and see for yourself why ARKit is such a big deal
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/IKEA-Place-teaser-001.jpg)
 * IKEA’s ARKit-driven furniture placement app, aptly named Place, is now available to download from App Store free of charge, allowing you to virtually place furnishings in your space.

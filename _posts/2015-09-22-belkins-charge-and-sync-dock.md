@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Belkin's Charge and Sync dock has a small footprint and a large range of compatibility
+title: Belkins Charge and Sync dock has a small footprint and a large range of compatibility
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/Belkin-Lightning-Charger-iPhone-6.jpg)
 * Sure, you can plug your iPhone into any old USB adapter and throw it on the table (or couch arm or floor) and it won’t matter what position it is in while charging. But, if you want your iPhone on display while it charges, you’ll want to look into a dock.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Facebook releases a version of Messenger that's meant for the office
+title: Facebook releases a version of Messenger thats meant for the office
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/11/Facebook-Work-Chat-Androdi-teaser-001.jpg)
 * Facebook today launched a dedicated version of its mobile messaging software, Facebook Messenger, that’s meant to be used at work.

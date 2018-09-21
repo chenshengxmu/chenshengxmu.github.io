@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gruber- there's nothing punitive with Bob Mansfield’s role change
+title: Gruber- theres nothing punitive with Bob Mansfield’s role change
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/iPhone-5-promo-Bob-Mansfield-001.jpg)
 * Yesterday, a jarring change was discovered on Apple’s executive leadership page: the company’s SVP of Technologies Bob Mansfield had been completely removed. Apple later confirmed the news, saying that Bob would no longer be on Apple’s executive team.

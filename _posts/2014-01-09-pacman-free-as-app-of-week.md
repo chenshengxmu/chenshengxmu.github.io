@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PAC-MAN goes free as Apple's App of the Week
+title: PAC-MAN goes free as Apples App of the Week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/pacman-2.jpeg)
 * Apple has named Namco Bandai’s classic PAC-MAN game its App of the Week for this week. This means that through next Thursday, you’ll be able to pick up the application for both your iPhone and iPad, for free—a sizable savings of $7.

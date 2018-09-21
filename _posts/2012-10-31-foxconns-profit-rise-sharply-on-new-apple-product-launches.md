@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Foxconn's profits rise sharply on new Apple product launches
+title: Foxconns profits rise sharply on new Apple product launches
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/Foxconn-Workers.jpg)
 * Shares of Foxconn, the world’s largest contract manufacturer that assembles Apple’s iPhone, iPad and a number of products for other big names in tech, posted its third-quarter earnings yesterday. The results are stronger than expected and attributed to high demand for the iPhone 5, warm iPad mini reception and the incoming new iMac, which arrives in November and is already predicted to be in short supply.

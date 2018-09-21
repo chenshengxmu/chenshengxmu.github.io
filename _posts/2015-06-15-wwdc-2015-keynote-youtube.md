@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You can now watch Apple's WWDC 2015 keynote on YouTube
+title: You can now watch Apples WWDC 2015 keynote on YouTube
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/wwdc-2015.png)
 * It’s taken a week, but Apple has finally uploaded this year’s WWDC keynote to YouTube. The replay has been available as an embedded video on Apple’s website, but it required that you be on a device with QuickTime installed to watch it.

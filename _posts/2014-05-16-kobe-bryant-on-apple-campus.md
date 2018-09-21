@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LA Lakers' Kobe Bryant spotted on Apple's campus, reportedly meeting with Jony Ive
+title: LA Lakers Kobe Bryant spotted on Apples campus, reportedly meeting with Jony Ive
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/Kobe-Bryant-on-Apple-campus.jpg)
 * LA Lakers superstar Kobe Bryant has been photographed today along with his wife Vanessa on Apple’s 1 Infinite Loop campus in Cupertino, California. The two were reportedly meeting Apple’s design guru Jony Ive to talk upcoming new products. An image a tipster sent in clearly shows Bryant and Vanessa waiting for food.

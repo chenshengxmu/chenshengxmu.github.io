@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Photo surfaces of first 'Made for iPhone' game controller prototype
+title: Photo surfaces of first Made for iPhone game controller prototype
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/high-res-ios-7-gamepad.png)
 * We know that iOS 7 is going to offer developers an easy way to make their games compatible with physical controllers. After years of ignoring the space, Apple is finally going to officially support third-party gamepads, and both Logitech and MOGA are already onboard.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twitter shuts down Meerkat's access to its social graph
+title: Twitter shuts down Meerkats access to its social graph
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/Meerkat-Twitter-Beef.png)
 * A few days ago, we posted about Meerkat, a new live video streaming service that is currently enjoying a significant buzz amongst the tech industry. The primary reason for Meerkat’s success has to do with how easy it is to get up and running. You can literally go from installing the app to live steaming in mere seconds. Meerkat has Twitter to thank for much of this, because the app basically piggybacks on Twitter’s already existing account and social graph infrastructure.

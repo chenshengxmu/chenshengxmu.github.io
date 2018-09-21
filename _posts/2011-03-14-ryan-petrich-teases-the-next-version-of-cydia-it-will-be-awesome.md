@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ryan Petrich Teases the Next Version of Cydia, It Will Be "Awesome"
+title: Ryan Petrich Teases the Next Version of Cydia, It Will Be Awesome
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/03/Cydia-1.1.png)
 * Ryan Petrich, developer of jailbreak apps like SwitcherMod and Action Menu, is helping work on the next major version of Cydia with saurik and team. Cydia 1.1 is slated to bring significant updates, and will most likely focus heavily on graphics.

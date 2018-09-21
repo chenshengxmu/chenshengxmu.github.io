@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AppLocker' Password Protects Your Individual iOS Apps
+title: AppLocker Password Protects Your Individual iOS Apps
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/Applocker-iPhone.png)
 * Here’s a pretty useful little iOS tweak, especially if you’ve got kids who like to go tapping icons on your iPhone, with little regard for your saved game progress or super-important work document you’ve been editing.

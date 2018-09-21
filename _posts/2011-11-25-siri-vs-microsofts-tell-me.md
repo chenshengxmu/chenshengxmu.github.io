@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Siri vs. Microsoft's Tellme Voice Control Feature
+title: Siri vs. Microsofts Tellme Voice Control Feature
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/siri-vs-tellme.jpg)
 * Microsoft and its chief strategy and research officer Craig Mundie have been taking a lot of smack over the past couple of days. Mundie made some controversial comments regarding Apple’s new Siri feature during a recent interview with Forbes Magazine.

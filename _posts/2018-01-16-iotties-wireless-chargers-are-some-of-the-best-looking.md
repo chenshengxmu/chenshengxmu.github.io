@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOttie's wireless chargers are some of the best looking
+title: iOtties wireless chargers are some of the best looking
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/iOttie-Wireless-Charger-CES-2018.jpg)
 * Wireless chargers were all over the place at CES this year, and one of the few that stood out to me was iOttie’s new lineup. We went hands on with four of their new chargers ahead of their release.

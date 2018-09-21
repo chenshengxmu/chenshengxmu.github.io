@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IBM's new Garage initiative aims to accelerate development of iOS enterprise apps
+title: IBMs new Garage initiative aims to accelerate development of iOS enterprise apps
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/tim-cook-apple-ibm.jpg)
 * Building upon the Apple-IBM enterprise mobility partnership established three years ago, Big Blue (that’s a nickname for IBM) today announced a new initiative to help accelerate the development of MobileFirst enterprise apps for iPhone and iPad.

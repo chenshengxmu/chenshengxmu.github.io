@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Springboard Enhancer' Promises Cramped iPhone Home Screens
+title: Springboard Enhancer Promises Cramped iPhone Home Screens
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/03/Springboard-Enhancer-01.png)
 * It seems like we’ve been down this road before, doesn’t it? Springboard Enhancer is a tweak that promises springboard customization, and it generally focuses on adding 5 app icons on your springboard, in your folders, in your dock, and in your app switcher.

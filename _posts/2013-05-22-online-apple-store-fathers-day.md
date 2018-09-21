@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Online Apple Store gets Father's Day revamp
+title: Online Apple Store gets Fathers Day revamp
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/Apple-Online-Store-Father-Day-2013.jpg)
 * After being down for nearly four hours, Apple last night tweaked its online Apple Store with a cleaner look and Father’s Day gift promotion.

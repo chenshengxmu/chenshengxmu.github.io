@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile Explains Why It Doesn't Offer the iPhone
+title: T-Mobile Explains Why It Doesnt Offer the iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/t-mobile-iphone4s-e1326298354726.png)
 * T-Mobile CEO Philipp Humm recently explained why the iPhone is not capable of running on his 3G network, despite earlier claims that iPhone users were able to establish an intermittent 3G connection in certain areas of the United States.

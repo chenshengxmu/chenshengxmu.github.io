@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amazon's shopping app is now available for Apple TV with purchasing support for Prime members
+title: Amazons shopping app is now available for Apple TV with purchasing support for Prime members
 ---
 * Online retail giant Amazon today rolled out a tvOS version of its existing shopping app for iPhone, iPad, iPod touch and Apple Watch.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/12/Amazon-1.0-for-tvOS-Apple-TV-teaser-001.jpg)

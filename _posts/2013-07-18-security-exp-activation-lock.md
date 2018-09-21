@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Security experts contracted to attempt to bypass iOS 7's Activation Lock feature
+title: Security experts contracted to attempt to bypass iOS 7s Activation Lock feature
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/iOS-7-activation-lock.jpg)
 * Earlier this year, San Francisco’s district attorney George Gascón met with Apple’s government rep Michael Foulkes to discuss the rising number of iPhone thefts. He felt like the company could be doing more, on a technological level, to thwart these would-be thieves.

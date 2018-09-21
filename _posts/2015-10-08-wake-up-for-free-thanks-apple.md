@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wake Alarm Clock goes free as Apple's App of the Week
+title: Wake Alarm Clock goes free as Apples App of the Week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/10/wake-1.png)
 * Heads-up deal seekers. Apple has named Tiny Hearts Limited’s “Wake Alarm Clock” its App of the Week for this week. This means that from now through next Thursday, you’ll be able to pick up the popular alarm clock app for free for both iPhone and iPad—a solid savings of $4.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hands-on with Sid Meier's Civilization XI for iPad - Video
+title: Hands-on with Sid Meiers Civilization XI for iPad - Video
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/Civ-VI.jpg)
 * Launching as somewhat of a surprise, Civilization VI has made it onto the iPad. This wasn’t some early version of the Civilization series, it was actually the newest iteration, released only in 2016. I was a bit skeptical of such a big, and power hungry game coming to mobile so I took the plunge (you know, for science) to see how the tablet-centric version of this turn-based strategy game holds up.

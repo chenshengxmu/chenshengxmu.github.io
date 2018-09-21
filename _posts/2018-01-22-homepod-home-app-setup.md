@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Screenshots reveal how you’ll adjust HomePod settings in iOS 11's Home app
+title: Screenshots reveal how you’ll adjust HomePod settings in iOS 11s Home app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/WWDC-2017-homepod-new-siri-questions.jpg)
 * Now that HomePod has finally received a much-needed approval from the Federal Communications Commission, and given iOS impending 11.2.5’s launch later this week, first screenshots of the setup process for the wireless speaker have begun trickling out.

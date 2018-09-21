@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Motorola spotlights iOS 6 Map flaws in new "iLost" ad
+title: Motorola spotlights iOS 6 Map flaws in new iLost ad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iLost.jpg)
 * Apple has been taking a lot of heat over the past few days regarding its new Maps application. The company released iOS 6, the latest update to its mobile OS, to the public on Wednesday, which features the new Google Maps replacement.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Siri Eyes Free coming to Honda's 2013 Accord and Acura cars
+title: Siri Eyes Free coming to Hondas 2013 Accord and Acura cars
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/Honda-Acord-2013.jpg)
 * Car maker Honda announced Wednesday that some of its 2013 vehicles will feature integration with Apple’s Eyes Free, a voice-activated system that lets compatible Siri-enabled iOS devices running iOS 6 to interact with the driver. Honda joins a host of other car makers who announced support for Siri’s Eyes Free mode or are already supporting the feature in high-end vehicles.

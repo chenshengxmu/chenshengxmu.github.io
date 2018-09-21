@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Other' storage on your Mac explained
+title: Other storage on your Mac explained
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/07/Apple-MacBook-Air-NAND-Flash-image-001.jpg)
 * We recently detailed ‘Other’ iOS storage, an iTunes-reported section that includes various caches and temporary system files on you iPhone, iPod touch and iPad along with device settings, high-quality Siri and Voice Over voices and other system data.

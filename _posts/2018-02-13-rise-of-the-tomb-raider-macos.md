@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Rise of the Tomb Raider' coming to macOS this spring
+title: Rise of the Tomb Raider coming to macOS this spring
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/02/tomb.png)
 * Feral Interactive announced on Tuesday that it’s bringing ‘Rise of the Tomb Raider’ to macOS and Linux this spring. The game will be called ‘Rise of the Tomb Raider: 20 Year Celebration,’ and it will be a direct port of the game that launched on PS4 in 2016.

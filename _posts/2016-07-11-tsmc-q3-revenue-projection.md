@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TSMC's Q3 revenue expected to climb to a record high on strong iPhone 7 A10 chip orders
+title: TSMCs Q3 revenue expected to climb to a record high on strong iPhone 7 A10 chip orders
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/iPhone-6s-Plus-iFixit-teardown-image-002.jpg)
 * Citing market forecasts quoted by the Commercial Times newspaper, Taiwanese trade publication DigiTimes reported Monday that shares of Taiwan Semiconductor Manufacturing Company Limited (TSMC) could hit record levels thanks to orders for the Apple-designed ‘A10’ system-on-a-chip, the engine that will drive the next iPhone and iPad. TSMC just posted strong numbers for the second financial quarter.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Split screen multitasking tweak 'ReachApp' gets an app selector in big update
+title: Split screen multitasking tweak ReachApp gets an app selector in big update
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/ReachApp-0.0.1-649.jpg)
 * If you’re running the ReachApp beta—the jailbreak tweak that brings true split-screen multitasking to iOS—you likely noticed the update that just recently hit Cydia. The update adds a lot of new switches to the tweak’s preferences, and fleshes out the description of each switch.

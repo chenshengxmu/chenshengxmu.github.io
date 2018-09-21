@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Inside Apple- Apple's Dirty Little Secrets Now Available for Download
+title: Inside Apple- Apples Dirty Little Secrets Now Available for Download
 ---
 * Inside Apple is a new book by Adam Lashinsky that takes a shot at revealing how the Cupertino company works from the inside out. A few excerpts have been released within the last couple days, but now, the whole book is available to everyone.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/Inside-APple-Cover.jpg)

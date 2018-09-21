@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's free app of the week- Day One Journal
+title: Apples free app of the week- Day One Journal
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/day-one.png)
 * Apple on Thursday updated its App of the Week promotion with the app Day One Journal. For the next 7 days, you can snag the popular journaling app for free on both iPhone and iPad—a solid savings of $5.

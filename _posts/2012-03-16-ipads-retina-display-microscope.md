@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPad's Retina display put under a microscope
+title: iPads Retina display put under a microscope
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/iPad-3-apps-close.jpg)
 * Perhaps the highlight feature of the new iPad is its Retina display. And folks I’m not kidding, the Retina display is absolutely gorgeous. It features more pixels than your 1080p HDTV, leaving it to be clearest tablet display that is currently on the market. The Retina display boasts a 2048 x 1536 resolution, which contains a whopping 3.1 million pixels. The eye can’t even single the pixels out.

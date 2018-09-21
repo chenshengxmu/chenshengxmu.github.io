@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Free group video calling is coming to Skype's iPhone and iPad application
+title: Free group video calling is coming to Skypes iPhone and iPad application
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/Skype-6.0-for-iOS-teaser-001.jpg)
 * Skype is celebrating its tenth anniversary so the Microsoft-owned company yesterday announced that users of its mobile application will soon be able to take advantage of a free group video calling feature.

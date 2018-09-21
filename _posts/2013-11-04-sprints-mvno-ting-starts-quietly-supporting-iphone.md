@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sprint's MVNO Ting starts quietly supporting iPhone
+title: Sprints MVNO Ting starts quietly supporting iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/ting-sprint-iphone.png)
 * Sprint’s mobile virtual network operator (MVNO) Ting has recently started quietly supporting Apple’s iPhone, a new report has discovered. According to a help document posted on the carrier’s website, Ting customers can now activate the iPhone 4 and iPhone 4S on its network. Previously, the Tucows-owned telco would not allow users to bring their unlocked iPhone and use it with one of its no-contract wireless plans.

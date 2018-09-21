@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's the original iPad prototype next to an iPad 2
+title: Heres the original iPad prototype next to an iPad 2
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/ipad-prototype-color-1-e1342649797273.jpeg)
 * Earlier today, leaked images of the original iPad prototype started making their way around the internet. The ‘035 mockups’ depicted a significantly larger tablet that Apple is believed to have worked on between 2002 and 2004.

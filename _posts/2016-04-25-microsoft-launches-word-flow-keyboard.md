@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft's Word Flow keyboard launches with one-handed mode, gestures, themes and more
+title: Microsofts Word Flow keyboard launches with one-handed mode, gestures, themes and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/04/Microsoft-Word-Flow-1.0-for-iOS-iPhone-screenshot-001.png)
 * After releasing an iOS edition of its Hub Keyboard last month, Windows giant Microsoft on Monday launched an iOS port of its predictive text Windows Phone keyboard, called Word Flow. The free of charge iPhone app brings many advanced features that speed up typing, like a cool one-handed mode, gesture based typing, predictive text input, custom themes and more. The Word Flow keyboard is available at no charge in the App Store.

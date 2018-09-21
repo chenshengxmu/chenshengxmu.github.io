@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BadgeRemover' will clear every badge on your SpringBoard
+title: BadgeRemover will clear every badge on your SpringBoard
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/BadgeRemover-Screenshot.jpg)
 * If you’re looking for a way to remove your app notification badges in one fell swoop, there are many options to do so. Just search for “badges” in Cydia, and you’re bound to come up with a few options for suppressing those annoying badges.

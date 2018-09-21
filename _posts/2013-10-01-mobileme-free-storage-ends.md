@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Former MobileMe members lose 20GB free storage, here's what to know
+title: Former MobileMe members lose 20GB free storage, heres what to know
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/05/MobileMe-please-wait.png)
 * Apple gave former MobileMe members a complimentary twenty gigabytes of free cloud storage upgrade after moving to iCloud between October 12, 2011 and August 1, 2012. The company’s been sending email notices ahead of the cut-off deadline a few times now.

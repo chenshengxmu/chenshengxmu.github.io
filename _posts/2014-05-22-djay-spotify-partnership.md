@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You can now create mixes from Spotify tracks in Algoriddim's djay for iPhone and iPad
+title: You can now create mixes from Spotify tracks in Algoriddims djay for iPhone and iPad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/djay-and-Spotify-teaaser-001.jpg)
 * Germany-based Algoriddim – which develops the popular djay software for the iPhone [$1.99], iPad [$9.99] and Mac [$19.99] – today announced a major partnership with Swedish startup Spotify, which operates the world’s leading streaming-music service.

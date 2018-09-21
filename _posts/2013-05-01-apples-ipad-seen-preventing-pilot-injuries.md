@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's iPad seen preventing pilot injuries
+title: Apples iPad seen preventing pilot injuries
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/American-Airline-to-use-iPad.jpeg)
 * Lugging around all the charts and papers required by commercial pilots can be a pain – literally. Now comes word Apple’s iPad is taking a load off pilots of one airline, replacing 40-pound flight bags with a 1.5-pound tablet. By the end of May, 8,600 American Airlines pilots will swap the heavy bags of charts, maps and manuals for the iPad, easing one of the industry’s largest sources of injuries…

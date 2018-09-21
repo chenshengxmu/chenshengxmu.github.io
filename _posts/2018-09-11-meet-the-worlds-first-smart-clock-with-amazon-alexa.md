@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meet the world's first smart clock with Amazon Alexa
+title: Meet the worlds first smart clock with Amazon Alexa
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/09/sale_16189_primary_image_wide-1.jpg)
 * The smart-clock revolution has ushered in a wide range of intelligent and intuitive clocks that help us live healthier and more productive lives. As the world’s first smart clock with Amazon Alexa, Vobot is hands-down the most powerful and feature-laden smart clock around, and it’s currently available for over 20% off at $44.99.

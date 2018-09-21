@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yosemite's QuickTime cleans up iOS status bar when screencasting so you don't have to
+title: Yosemites QuickTime cleans up iOS status bar when screencasting so you dont have to
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/OS-X-Yosemite-QuickTime-iOS-device-screencast-001.jpg)
 * The vast majority of Apple bloggers who grab screenshots of iPhone and iPad applications don’t seem to be ashamed by the low or no cellular signal strength showing right in their status bar, or incomplete Wi-Fi or – worse of all – low battery.

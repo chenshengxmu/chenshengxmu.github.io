@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's generously made 8GB of RAM standard across all 13" MacBook Air configurations
+title: Apples generously made 8GB of RAM standard across all 13 MacBook Air configurations
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/11/MacBook-Air-stickers-ad-001.jpg)
 * In addition to updating its twelve-inch MacBook lineup around Intel’s latest SkyLake chips, a new Rose Gold finish and other perks, Apple also announced that all configurations of the 13-inch MacBook Air now ship with eight gigabytes of RAM.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The iPhone 4 Was Verizon and AT&T's Top Handset Last Month
+title: The iPhone 4 Was Verizon and AT&Ts Top Handset Last Month
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/iPhone-4-on-table1-e1316788519726.jpeg)
 * You would think that with an iPhone refresh on the horizon, sales for last year’s model would start to decline. Why would you buy an outdated handset, when you knew that a new one would be announced soon for the same price?

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The iPad mini doesn't have a widescreen display?
+title: The iPad mini doesnt have a widescreen display?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/iPad-mini-Martin-Hajek-005.jpg)
 * A pair of OEM leaks thought to depict the same display appear to strongly suggests that, despite the skinnier side bezels and a smaller form-factor, the iPad mini might still incorporate the display which has an aspect ratio of 4:3, just like prior iPads and iPhones (except for the iPhone 5, of course).

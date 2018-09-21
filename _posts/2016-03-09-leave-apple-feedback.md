@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let your voice be heard- here's how to give Apple feedback about their products and services
+title: Let your voice be heard- heres how to give Apple feedback about their products and services
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/Giving-feedback.jpg)
 * Apple has an online feedback system where the company’s users can tell Apple what they think about their products. The system allows users to leave comments and criticism about their products, such as features they like or dislike about it, and suggestions for improving them in the future.

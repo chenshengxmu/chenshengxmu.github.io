@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's iPhone trade-in program reportedly headed to the UK
+title: Apples iPhone trade-in program reportedly headed to the UK
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/iphone-user.jpg)
 * Following rumors and speculation, Apple officially launched its iPhone trade-in program on August 30. Available in all US Apple Stores, customers can use the program to turn their old iPhones into cash—up to $280.

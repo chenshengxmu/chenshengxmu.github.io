@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The iPhone Accounts for Over Half of the Entire Mobile Phone Industry's Profits
+title: The iPhone Accounts for Over Half of the Entire Mobile Phone Industrys Profits
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/iPhone-4S-on-table-e1318709694883.jpeg)
 * Apple’s iPhone accounts for 52% of the overall profits for the entire mobile phone industry, according to a new report by Cannacord Genuity analyst T. Michael Walkley. The iPhone consisted of more than half of the industry’s profits in the last business quarter.

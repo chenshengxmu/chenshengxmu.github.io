@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Analyst breaks down Samsung's marketing expenses
+title: Analyst breaks down Samsungs marketing expenses
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/samsung-iphone-5-ad-e1354483542920.jpg)
 * “Just chalk it up to marketing.” That’s how a lot of pundits have explained Apple’s success over the years, indicating that the company devotes a lot of its resources to, and greatly depends on, marketing to sell products.

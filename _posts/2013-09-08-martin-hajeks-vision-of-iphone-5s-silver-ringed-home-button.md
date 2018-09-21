@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Martin Hajek's vision of the Lord of the Rings iPhone 5S Home button
+title: Martin Hajeks vision of the Lord of the Rings iPhone 5S Home button
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/iPhone-5S-silver-rounded-Home-button-Martin-Hajek-001.jpg)
 * A pair of sketchy images posted Friday by the Chinese-language blog C Technology prompted quite a stir among technology denizens. If you haven’t seen them already, the purported photographs show an odd-looking iPhone 5S packaging (likely Photoshop’d) sporting device graphics on the box’s front. The most curious aspect of it: a redesigned Home button, without the square in the middle and with a silver ring around it.

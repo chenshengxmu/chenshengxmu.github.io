@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CES 2013- Griffin's new PowerDock charges five devices simultaneously
+title: CES 2013- Griffins new PowerDock charges five devices simultaneously
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/Griffin-PowerDock-5.jpg)
 * Griffin Technology is on a roll at CES 2013. Among the product announcements they made at the show is this ultimate charging station that I’d definitely make good use of, the PowerDock 5. As the name implies, the main advantage is its  design which makes possible charging of up to five iPhones, iPods or iPads at once, an indispensable feature for families that mostly use Apple’s mobile products (I know, filthy rich people).

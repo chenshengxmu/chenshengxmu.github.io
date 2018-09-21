@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ive and Forstall were 'rarely in the same room'
+title: Ive and Forstall were rarely in the same room
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/Overly-Attached-Scott-Forstall.jpg)
 * That SVP and iOS chief Scott Forstall fell out of favor with Apple CEO Tim Cook and other vice presidents because of his abrasive and divisive style is no secret. Forstall, 44, was Apple’s youngest vice president. He was also the brains behind OS X since 2006 and the architect of your iPhone’s software. The executive was especially at odds with Apple’s famed industrial design guru Jony Ive over software design. According to a new report by Bloomberg, bad blood ran so deep that Forstall wouldn’t even participate in Ive’s meetings where crucial software and hardware design aspects had been discussed…

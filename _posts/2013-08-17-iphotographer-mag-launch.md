@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhotographer Magazine launches on Apple's Newsstand, free issue available
+title: iPhotographer Magazine launches on Apples Newsstand, free issue available
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/iphoto-mag.png)
 * We love iPhone photography, sometimes referred to as iPhoneography, here at iDB. We love learning new methods to take better photos with our iPhones, and of course, sharing those methods with our awesome readers.

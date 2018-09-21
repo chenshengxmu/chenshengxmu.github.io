@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nokia files brief in support of Apple's bid to ban Samsung products
+title: Nokia files brief in support of Apples bid to ban Samsung products
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/courtroom-gavel.jpg)
 * Since Apple won its monumental case against Samsung in California last fall, things haven’t really been going its way. Its billion dollar settlement has been nearly cut in half, and its request to ban Samsung’s infringing products has been denied.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's risky retail gamble in China- one store per 216 million customers
+title: Apples risky retail gamble in China- one store per 216 million customers
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/07/iPhone-4S-launch-in-China-image-001.jpg)
 * In China, each of Apple’s retail stores serves on average 216 million customers. Therein lies the catch to its expansion in the 1.33 billion people market – Apple needs way more stores in this huge country than it can possibly build, and it needs them yesterday.

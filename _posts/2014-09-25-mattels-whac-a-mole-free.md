@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mattel's Whac A Mole goes free as Apple's App of the Week
+title: Mattels Whac A Mole goes free as Apples App of the Week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/mole-2.jpeg)
 * Apple has named Mattel’s ‘Whac A Mole’ its App of the Week for this week. This means that from now through next Thursday, you’ll be able to pick up the title for both your iPhone and iPad, for free—which will save you a buck.

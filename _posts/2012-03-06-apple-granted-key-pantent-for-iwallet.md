@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple granted key patent for 'iWallet'
+title: Apple granted key patent for iWallet
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/NFC-iPhone.jpeg)
 * Many Android device manufacturers have opted to include near field communication (NFC) technology inside of their devices. NFC allows customers to transmit data between two devices. The biggest use for NFC is for mobile payments – which Google has been actively pursuing with its Google Wallet technology.

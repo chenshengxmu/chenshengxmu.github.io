@@ -1,6 +1,6 @@
 ---
 layout: post
-title: USPTO publishes Apple's extensive Lightning connector patent
+title: USPTO publishes Apples extensive Lightning connector patent
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/Apple-Lightning-patent-image-001.png)
 * Much has been written about Apple’s new Lightning connector, introduced with the iPhone 5 to supercede the aging 30-pin Dock connection. Thursday, the United States Patent and Trademark Office published three Apple patent filings from 2012 detailing how the Lightning connector is built. Among the questions addressed: how did Apple create an “orientation agnostic” connector design while also ensuring stability and proper alignment?

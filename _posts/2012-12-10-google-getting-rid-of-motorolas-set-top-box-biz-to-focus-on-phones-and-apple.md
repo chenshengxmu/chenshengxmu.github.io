@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google getting rid of Motorola's set-top box biz to focus on phones and Apple
+title: Google getting rid of Motorolas set-top box biz to focus on phones and Apple
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/Google-TV-teaser-001.jpg)
 * It is no secret that no one has cracked the code to the perfect TV yet. As multiple vendors fight for the living room with no clear leader in sight, the search monster’s Google TV platform is floundering and Apple’s $99 Apple TV hockey puck is still deemed a hobby business, despite sales in the first six months of 2012 doubling to 2.7 million units, almost equalling the 2.8 million Apple TVs moved in the entire 2011.

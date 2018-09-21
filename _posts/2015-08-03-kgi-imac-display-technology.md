@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KGI- new iMacs in the pipeline feature faster CPUs and 'much better display quality'
+title: KGI- new iMacs in the pipeline feature faster CPUs and much better display quality
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/iMac-21.5-and-27-inch-teaer-001.jpg)
 * KGI Securities analyst Ming-Chi Kuo, who is arguably the most reliable Apple analyst out there, is out with a new analysis offering some new details regarding Apple’s upcoming refresh of the iMac lineup.

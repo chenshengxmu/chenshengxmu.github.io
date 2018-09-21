@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook, Turkish president to attend opening of Apple's Istanbul store on April 4
+title: Tim Cook, Turkish president to attend opening of Apples Istanbul store on April 4
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/Tim-Cook-and-Abdullah-Gul.jpg)
 * Earlier this year, Tim Cook traveled to Turkey to meet with the country’s president, to reportedly discuss the opening of a retail store in Istanbul, research and development and other matters. The store opening is of particular significance, as it would be Apple’s first in the region.

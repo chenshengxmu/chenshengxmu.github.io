@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple introduces limited-edition Beats 'Decade Collection' Headphones
+title: Apple introduces limited-edition Beats Decade Collection Headphones
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/05/beats-studio-3.jpg)
 * It’s been nearly 10 years since the first Beats by Dr. Dre headphones were first produced. To celebrate this anniversary, Apple has revealed a new Beats “Decade Collection,” which goes on sale on Friday, June 1. 

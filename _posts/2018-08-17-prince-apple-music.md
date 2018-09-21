@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Prince's estate brings his music to Apple Music, other streaming services
+title: Princes estate brings his music to Apple Music, other streaming services
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/prince-iOS.jpg)
 * Today, Aug. 17, Sony released 23 Prince albums that were first launched between 1995 and 2010. The music is being released across all major streaming services, including Apple Music and Spotify. The move comes just two months after the Prince estate and Sony’s Legacy Recordings announced an agreement to bring the late artist’s music to streaming platforms, many for the first time.

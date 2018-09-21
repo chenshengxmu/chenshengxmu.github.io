@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twitter puts Alex Jones' account in read-only mode for a week over an offending tweet
+title: Twitter puts Alex Jones account in read-only mode for a week over an offending tweet
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/Alex-Jones-screaming.jpg)
 * Twitter’s boss Jack Dorsey promised he would not ban “InfoWars” nor Alex Jones from the platform, but that didn’t stop his company from temporarily suspending Jones’ account for a period of seven days over a recent, now deleted, tweet that has violated its policy.

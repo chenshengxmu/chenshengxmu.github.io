@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hands-Free Control' Will Allow You to Invoke Siri By Voice
+title: Hands-Free Control Will Allow You to Invoke Siri By Voice
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/Hands-Free-Control.png)
 * Wouldn’t it be cool if you could invoke Siri without pressing and holding your Home button?

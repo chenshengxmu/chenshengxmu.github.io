@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Robert Broglia releases 'Snes9x EX+' SNES emulator to Cydia
+title: Robert Broglia releases Snes9x EX+ SNES emulator to Cydia
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/SNES9x-EX+-Snes-emulator-iOS.jpg)
 * Robert Broglia, the developer behind the free Snes9x EX jailbreak app, and a number of other commercial ‘.emu’ emulators for other consoles, just released Snes9x Ex+. Broglia’s latest branch of his popular iOS Super Nintendo emulator is based off of Snes9x version 1.53, which is the most recent available build of the PC software.

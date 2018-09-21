@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple reportedly still hasn't given up on its 100% fullscreen iPhone dream
+title: Apple reportedly still hasnt given up on its 100% fullscreen iPhone dream
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/Apple-Event-September-2017-TrueDepth-camera-003.jpg)
 * A new report out of Korea suggests that Apple’s next iPhone X update will feature a smaller TrueDepth camera resulting in a smaller notch, too, with 2019 models potentially removing the notch entirely.

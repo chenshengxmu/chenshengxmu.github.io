@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Teardown confirms both 13" and 15" Touch Bar MacBook Pros have non-removable SSDs
+title: Teardown confirms both 13 and 15 Touch Bar MacBook Pros have non-removable SSDs
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/11/15-inch-MacBook-Pro-with-Touch-Bar-iFixit-teardown-001.jpg)
 * iFixit on Friday published its teardown analysis of the 15-inch MacBook Pro with Touch Bar (model number A1707), just two days after taking a peek under the hood of the 13-inch MacBook Pro with Touch Bar. Comparing the two Touch Bar-equipped notebooks to the 13-inch MacBook Pro without Touch Bar, which iFixit also disassembled, the repair site has confirmed that only the baseline 13-incher with a standard row of function keys has a removable SSD.

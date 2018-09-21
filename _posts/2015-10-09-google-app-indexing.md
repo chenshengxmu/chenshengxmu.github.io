@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google launching deep integration between search and iOS 9 apps by month's end
+title: Google launching deep integration between search and iOS 9 apps by months end
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/10/Google-App-Indexing-iPhone-screenshot-001.png)
 * Google announced today that Apple fans who are running iOS 9 on their iPhone, iPod touch and iPad devices will soon start seeing app content in their search results in the Safari browser.

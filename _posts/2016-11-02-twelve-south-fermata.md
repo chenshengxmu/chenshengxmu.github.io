@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cut down on desktop clutter with Twelve South's new Fermata headphone charging stand
+title: Cut down on desktop clutter with Twelve Souths new Fermata headphone charging stand
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/11/Twelve-South-Fermata-headphone-charging-stand-019.jpg)
 * Premium accessory maker Twelve South today unveiled a brand new accessory, the Fermata.

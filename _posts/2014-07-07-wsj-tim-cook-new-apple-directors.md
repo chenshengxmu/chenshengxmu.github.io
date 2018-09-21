@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WSJ- iWatch due in Fall, Tim Cook actively looking to add fresh faces to Apple's board
+title: WSJ- iWatch due in Fall, Tim Cook actively looking to add fresh faces to Apples board
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/Apple-October-2013-event-Tim-Cook-Apple-logo-001.jpg)
 * Tim Cook’s recasting of Apple is in full bloom as the CEO pushes executives to be more collaborative while broadening the firm’s legendary laser focus, as per a new report by The Wall Street Journal. The story also mentions that Cook is very much looking to add new directors to Apple’s eight-person board.

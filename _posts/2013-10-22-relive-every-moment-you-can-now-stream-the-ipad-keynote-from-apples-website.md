@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Relive every moment- you can now stream the iPad keynote from Apple's website
+title: Relive every moment- you can now stream the iPad keynote from Apples website
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/Screen-Shot-2013-10-22-at-21.59.06.png)
 * Apple’s iPad keynote video is now available for streaming straight from its website. It works on mobile or desktop, and through a web browser, but you’ll need the QuickTime plug-in installed in order to enjoy the presentation on beige Windows boxes. If history is an indication, the clip should hit YouTube and iTunes in a couple days tops.

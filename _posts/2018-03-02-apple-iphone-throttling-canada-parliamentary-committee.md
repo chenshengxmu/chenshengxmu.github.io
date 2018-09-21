@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Read Apple's utterly unconvincing testimony regarding scandalous iPhone throttling practice
+title: Read Apples utterly unconvincing testimony regarding scandalous iPhone throttling practice
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/Geekbench-iPhone-6s-battery-performance-kernel-density.png)
 * Apple yesterday testified before Canada’s House of Commons committee on industry, science and technology, a parliamentary body which has been tasked with looking into how the Cupertino firm (mis)handled the scandalous iPhone throttling situation.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rumor- 12.2" MacBook Air entering mass production in the first quarter of 2015
+title: Rumor- 12.2 MacBook Air entering mass production in the first quarter of 2015
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/MacBook-Air-stickers-ad-001.jpg)
 * Apple’s rumored ultra-thin MacBook Air model with a 12.2-inch screen is reportedly entering mass production in the first quarter of 2015, Taiwanese trade publication DigiTimes reported Monday citing sources from the upstream supply chain.

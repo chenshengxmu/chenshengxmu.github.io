@@ -1,6 +1,6 @@
 ---
 layout: post
-title: App Percent displays a percentage for app downloads and alerts you when they're done
+title: App Percent displays a percentage for app downloads and alerts you when theyre done
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/App-Percent.png)
 * Some apps take longer to download from the App Store than others, and some take so long that you don’t have the patience to just sit there and watch them, you tend to start doing other things on your device until the download finishes.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hearthstone- Heroes of Warcraft' for iPad launches in select countries
+title: Hearthstone- Heroes of Warcraft for iPad launches in select countries
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/hearthstone.jpg)
 * Back in March, Blizzard launched its digital card trading game ‘Hearthstone: Heroes of Warcraft’ on the Mac, and as promised, it has brought the game to iOS. The title soft-launched for iPad last night, and is now available in Australia, Canada, and New Zealand App Stores.

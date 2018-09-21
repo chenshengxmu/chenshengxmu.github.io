@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Check out Home, Google's Amazon Echo killer
+title: Check out Home, Googles Amazon Echo killer
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/Google-Home-image-001.jpg)
 * During the keynote presentation this morning which kicked off Google I/O 2016, the Internet giant previewed its much-anticipated entry into the voice-activated home device market in the form of a new appliance, named Google Home.

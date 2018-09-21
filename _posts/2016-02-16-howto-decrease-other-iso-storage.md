@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to decrease 'Other' storage on iPhone or iPad
+title: How to decrease Other storage on iPhone or iPad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/11/iTunes-Other-iPhone-storage-Mac-screenshot-002.png)
 * The infamous ‘Other’ storage section displayed in iTunes after connecting an iPhone, iPod touch or iPad to a computer is definitely one of the pain points for users mainly because it keeps increasing on its own.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: For Samsung, Steve Jobs' death was 'the best opportunity' to unleash anti-iPhone ad blitz
+title: For Samsung, Steve Jobs death was the best opportunity to unleash anti-iPhone ad blitz
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/Samsung-Next-Big-Thing.jpg)
 * Apple’s second California trial against Samsung over smartphone patents has given us an unprecedented insight into Samsung’s obsession with beating Apple and Apple’s worries over losing the cool factor to Samsung due to the snarky ads that ridiculed the iPhone as an outdated and dull phone.

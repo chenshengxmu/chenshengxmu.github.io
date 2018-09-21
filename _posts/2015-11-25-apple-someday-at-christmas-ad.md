@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple releases 'Someday at Christmas' ad with Stevie Wonder and Andra Day
+title: Apple releases Someday at Christmas ad with Stevie Wonder and Andra Day
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/11/Apple-2015-Christmas-ad-image-002.jpg)
 * Apple today posted a nicely done television commercial featuring blind musician Stevie Wonder and soul, R&B, jazz and blues singer Andra Day. The holiday-themed ad cleverly promotes the Mac and VoiceOver and Accessibility features.

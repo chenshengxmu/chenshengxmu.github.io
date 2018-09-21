@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Video of Eddy Cue as he accepts Steve Jobs' Bay Area Business HOF award
+title: Video of Eddy Cue as he accepts Steve Jobs Bay Area Business HOF award
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/cue-award.png)
 * Apple’s VP of Internet software and services Eddy Cue tweeted out a link to a YouTube video last night, with the caption “an honor, a privilege and truly from my heart to Steve.” The video was of Cue giving a speech at a banquet.

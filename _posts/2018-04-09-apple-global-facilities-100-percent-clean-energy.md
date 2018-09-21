@@ -1,6 +1,6 @@
 ---
 layout: post
-title: All of Apple's global facilities are now powered with 100% clean energy
+title: All of Apples global facilities are now powered with 100% clean energy
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/03/Steve-Jobs-Theater-exterior.jpg)
 * Apple today shared an important milestone, saying all of its global offices, data centers, retail stores and co-located facilities in 43 countries, including the United States, the United Kingdom, China and India, are now powered with 100% clean energy.

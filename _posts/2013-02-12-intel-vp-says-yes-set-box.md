@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Intel VP confirms it's working on new set-top box and TV service
+title: Intel VP confirms its working on new set-top box and TV service
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/Erik-Huggers-intel-tv.jpg)
 * If Apple is really planning on revolutionizing the TV business, it may want to hurry up and do so before Intel beats it to the punch. Confirming rumors from earlier this year, the company’s Media VP Erik Huggers said today that it’s working on a set-top box.

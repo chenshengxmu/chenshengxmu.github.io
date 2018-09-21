@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twelve South's AirFly connects AirPods to in-flight entertainment systems or TVs at your gym
+title: Twelve Souths AirFly connects AirPods to in-flight entertainment systems or TVs at your gym
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/05/Twelve-Soith-AirFly-003.jpg)
 * Premium accessory maker Twelve South yesterday unveiled a new AirFly adapter that permits AirPods owners to use their earphones with in-flight entertainment systems.

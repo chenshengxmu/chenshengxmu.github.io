@@ -1,6 +1,6 @@
 ---
 layout: post
-title: German court finds Apple to infringe Samsung's 3G patent
+title: German court finds Apple to infringe Samsungs 3G patent
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/apple-vs-samsung.jpeg)
 * A court in Germany has ruled that Apple’s iPhone infringes upon Samsung’s patents related to 3G wireless technology and has issued an order to stay a German Samsung v. Apple lawsuit. Patent blogger Florian Müeller who follows tech litigation explains that the case will be adjudicated only after the validity of this patent. Apple, of course, is challenging the validity of Samsung’s patent, but that will likely take years to resolve…

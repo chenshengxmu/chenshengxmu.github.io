@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's WWDC conference keynote hits YouTube
+title: Apples WWDC conference keynote hits YouTube
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/applekeynote2012-e1339782328632.jpg)
 * Apple today finally posted its WWDC keynote talk to YouTube. The presentation saw CEO Tim Cook and other executives take the wraps off of iOS 6, unveil MacBook Pro with Retina display and more.

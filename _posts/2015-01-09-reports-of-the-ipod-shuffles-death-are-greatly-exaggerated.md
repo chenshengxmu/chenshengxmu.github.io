@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reports of the iPod shuffle's death are greatly exaggerated
+title: Reports of the iPod shuffles death are greatly exaggerated
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/iPod-shuffle-hand-image-001.png)
 * Apple is not killing off the iPod shuffle, according to a report from Billboard who cites sources with knowledge of the situation. Instead, the publication says that “Apple is actually going thorough component supplier changes that have interrupted production of the Shuffle.” If this report is to be believed, slipping iPod shuffle shipping times and unavailability in Apple Stores around the country could simply be explained by the fact that Apple is switching components supplier.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'SendAny' and 'ReceiveAny' lets you send and receive any file using iMessage
+title: SendAny and ReceiveAny lets you send and receive any file using iMessage
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/SendAny-Receive-Any-Screenshot.jpg)
 * Remember that little feature we showed you with the OS X Messages beta that let you send files to your iDevice straight from the desktop?

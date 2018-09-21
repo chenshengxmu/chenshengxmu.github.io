@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Qualcomm employee- Apple's 64-bit A7 chip 'set off panic in the industry'
+title: Qualcomm employee- Apples 64-bit A7 chip set off panic in the industry
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/iPad-Air-promo-A7-closeup-001.jpg)
 * In October, Qualcomm’s chief marketing officer Anand Chandrasekher made headlines when he commented in an interview that Apple’s new 64-bit A7 chip was just a ‘marketing gimmick’ that added ‘zero benefit’ for the customer.

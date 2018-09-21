@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CVS follows Rite Aid's lead and shuts down Apple Pay
+title: CVS follows Rite Aids lead and shuts down Apple Pay
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/Passbook-Apple-Pay-8-Limit.jpg)
 * CVS appears to be following Rite Aid’s stupidity, according to MacRumors, and has instructed its individual stores to shut down NFC access on its terminals, rendering Apple Pay unusable during checkout. The problem with this decision is that it not only shuts down Apple Pay, but any other contactless payment technology such as Google Wallet.

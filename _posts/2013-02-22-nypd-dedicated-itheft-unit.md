@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NYPD creates 'iTheft' unit for catching iPhone and iPad thieves
+title: NYPD creates iTheft unit for catching iPhone and iPad thieves
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/nypd-iphone.png)
 * We’ve reported on a number of stolen iPhone and iPad cases on iDB over the years. Apple’s gadgets are both popular and expensive, making them the perfect targets for thieves looking for a quick score.

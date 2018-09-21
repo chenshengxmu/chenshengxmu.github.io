@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to get ReachApp's split-screen multitasking on your iPhone right now
+title: How to get ReachApps split-screen multitasking on your iPhone right now
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/ReachApp-Landscape.png)
 * ReachApp is a groundbreaking new jailbreak tweak for iPhones and iPads that we covered earlier. Unfortunately, it’s not available on the default Cydia repos like ModMyi or BigBoss, so it wasn’t eligible for our 2014 tweak of the year awards. Despite that, ReachApp is definitely one of the best tweaks that I’ve used this year, and certainly one of the most practical depending on how you use your device. Although it’s not available on the default Cydia repos, you can get the beta version on your iOS device right now.

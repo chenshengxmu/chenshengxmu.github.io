@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Back to School launches with free $100 store credit on Mac purchases
+title: Apples Back to School launches with free $100 store credit on Mac purchases
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/Apple-2014-Back-to-School-teaser-002.png)
 * As predicted, Apple on Tuesday launched the 2015 Back to School promotion in the United States and in several countries around the globe, depending on their respective educational calendars.

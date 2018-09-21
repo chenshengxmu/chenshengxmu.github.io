@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google announces Android 'L' developer preview, coming later this year
+title: Google announces Android L developer preview, coming later this year
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/Android-L-Preview.png)
 * Google has just unveiled a developer preview of Android L, its latest software version for smartphones and tablets. Android L has several improvements to its design, graphics, notifications, multitasking, battery life and more. We’ve recapped the major new features in Android L ahead, ranging from Material Design and Project Volta to Android Extension Pack and Enhanced Notifications ahead… 

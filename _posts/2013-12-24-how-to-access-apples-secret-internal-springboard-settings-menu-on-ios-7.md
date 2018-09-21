@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to access Apple's secret internal SpringBoard settings menu on iOS 7
+title: How to access Apples secret internal SpringBoard settings menu on iOS 7
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/SpringBoard-Settings.jpg)
 * As predicted, the flood of new tweaks has started to pour in. The latest tweak, one called HiddenSettings7, allows users to access Apple’s hidden internal SpringBoard settings menu. This menu, which contains a plethora of settings to garner fine grained control over the look and feel of your device’s SpringBoard, is accessible via a shortcut found in Control Center.

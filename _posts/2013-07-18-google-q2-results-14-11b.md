@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's $14B quarter falls on deaf ears as Motorola continues bleeding money
+title: Googles $14B quarter falls on deaf ears as Motorola continues bleeding money
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/Google-Q213-revenues-by-geography.png)
 * In an earnings call nearly devoid of specifics, Google announced its Motorola Mobility unit continues to be in the red, while revenue from its search business fell six percent compared to a year ago. Search revenue fell four percent during the first quarter amid declining ad rates.

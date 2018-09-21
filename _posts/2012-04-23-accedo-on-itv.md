@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TV industry in 'crisis mode' should help iTV own premium segment
+title: TV industry in crisis mode should help iTV own premium segment
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/itv.jpg)
 * As the likes of Samsung, Panasonic and others cut costs in order to keep their struggling television-making operations in the black, Apple of California is believed to be interested in the high-end of the market, according to one industry executive.

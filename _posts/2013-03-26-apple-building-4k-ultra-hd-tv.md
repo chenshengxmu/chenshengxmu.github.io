@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Supply chain chatter claims Apple is building 4K 'Ultra HD' TV set
+title: Supply chain chatter claims Apple is building 4K Ultra HD TV set
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/iTV-mockup-Martin-Hajek-002.jpg)
 * It’s been a while since we’ve heard any new information regarding Apple’s rumored TV project. It seems ‘iTV’ speculation has been replaced by talk of Apple’s secret plans for the smartwatch space, and its expected entry into the budget handset market.

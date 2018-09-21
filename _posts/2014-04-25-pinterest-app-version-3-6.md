@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pinterest app updated with new 'Guided Search' feature
+title: Pinterest app updated with new Guided Search feature
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/pinterest.jpg)
 * Pinterest users may be interested to know that the photo-sharing site rolled out a major new feature to its mobile apps this morning. It’s called ‘Guided Search,’ and it comes via an App Store update, which brings both the iPhone and iPad client to version 3.6.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cydia gains a new "restart springboard" button and linking to packages on third-party repos
+title: Cydia gains a new restart springboard button and linking to packages on third-party repos
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/07/Restart-SpringBoard.png)
 * Cydia 1.1.19 was released last night, and it brought with it the ability for developers to tweak the Cydia UI and interface by means of themes and Cydia Substrate tweaks. But another change happened to Cydia as well, and it isn’t the result of a jailbreak tweak.

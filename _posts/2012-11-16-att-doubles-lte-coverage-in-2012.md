@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T's LTE coverage doubles in 2012
+title: AT&Ts LTE coverage doubles in 2012
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/Cell-Tower.jpeg)
 * Just in time for latest LTE iPads that Friday morning hit online and brick-and-mortar stores of AT&T, Verizon, Sprint and Best Buy, the nation’s #1 carrier AT&T announced its 4G LTE is now available in 24 new markets in the United States. More importantly, the company claims to have doubled its LTE coverage in 2012 versus the end of 2011.

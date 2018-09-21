@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple posts new 'Designed Together' ad showcasing iOS 7, iPhone 5c
+title: Apple posts new Designed Together ad showcasing iOS 7, iPhone 5c
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/designed-together-ad.png)
 * Following the release of iOS 7 this morning, Apple has posted a new advertisement showcasing the redesigned software alongside the all-new iPhone 5c.

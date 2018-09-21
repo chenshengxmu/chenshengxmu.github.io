@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LG's display division to start volume production of foldable displays for 2018 iPhones
+title: LGs display division to start volume production of foldable displays for 2018 iPhones
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/12/LG-Display-foldable-screen-AMOLED.jpg)
 * LG’s display-making arm is said to be gearing up to kick off volume production of foldable displays for future iPhones, said Korean news outlet ETNews. In addition to Apple, LG Display should supply foldable displays to Google and Microsoft in 2018. LG-developed foldable display prototypes were of sufficient quality for the company to secure global manufacturers as its partners.

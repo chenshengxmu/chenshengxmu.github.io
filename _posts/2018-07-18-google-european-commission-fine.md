@@ -1,6 +1,6 @@
 ---
 layout: post
-title: In blasting the EU, Google highlights Apple's closed iOS system
+title: In blasting the EU, Google highlights Apples closed iOS system
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/05/transfer-contacts-from-Android-to-Phone.jpg)
 * The European Commission on Wednesday slapped Google with a record $5 billion fine claiming that the internet giant is anticompetitive and abuses its power when it comes to Android. As it readies an appeal, the company is now wondering why Apple’s closed iOS system isn’t being more scrutinized. 

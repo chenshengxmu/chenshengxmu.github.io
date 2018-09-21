@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Razer's upcoming Kazuyo MFi iPhone game controller leaks
+title: Razers upcoming Kazuyo MFi iPhone game controller leaks
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/Razer-Kazuyo-image-002.jpg)
 * With Moga’s upcoming Ace Power iPhone game controller recently shown in leaked photos and Logitech now selling its $99 PowerShell controller, other accessory makers have taken notice and are now working on their own Made for iPhone (MFi) iOS 7 game controllers.

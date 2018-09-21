@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fight Breaks Out at Apple's Flagship Beijing Apple Store Over the iPhone 4S
+title: Fight Breaks Out at Apples Flagship Beijing Apple Store Over the iPhone 4S
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/iPhone4SChinafight.jpg)
 * Today the long awaited iPhone 4S was supposed to go on sale in China. A lot of people crowded Apple Stores hoping to get an iPhone.

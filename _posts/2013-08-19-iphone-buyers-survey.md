@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Survey- Apple's iPhone grabs 3 times as many Samsung owners
+title: Survey- Apples iPhone grabs 3 times as many Samsung owners
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/apple-cirp-buyers.png)
 * A new survey of iPhone and Samsung buyers includes both confirmation of what we suspected, as well as a few surprises. Topping the list: 20 percent of new iPhone owners previously used an Android smartphone, or one out of each five iPhone owners.

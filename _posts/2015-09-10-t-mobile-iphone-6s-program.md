@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile announces 'Lifetime Coverage Guarantee,' new iPhone 6s promo
+title: T-Mobile announces Lifetime Coverage Guarantee, new iPhone 6s promo
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/11/johnlegere.jpg)
 * Following Apple’s major iPhone 6s event yesterday, T-Mobile on Thursday made some big announcements of its own. In both a YouTube monologue and press release, company CEO John Legere introduced a new ‘Lifetime Coverage Guarantee’ and iPhone 6s program.

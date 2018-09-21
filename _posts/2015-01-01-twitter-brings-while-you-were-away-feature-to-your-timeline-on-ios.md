@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twitter brings 'While you were away' feature to your timeline on iOS
+title: Twitter brings While you were away feature to your timeline on iOS
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/Screen-Shot-2015-01-01-at-8.16.13-PM.png)
 * Twitter has expanded its “While you were away” recap feature to more users worldwide, in a greater attempt to boost user engagement within its Twitter for iOS app. The “While you were away” feature posts a recap of tweets you may have missed, and is the first time Twitter has brought non-chronological tweets to your timeline.

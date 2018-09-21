@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sony's Music Unlimited streaming app hits iOS, children run scared
+title: Sonys Music Unlimited streaming app hits iOS, children run scared
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Music-Unlimited-for-iOS-iPhone-screenshot-001.jpg)
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Music-Unlimited-for-iOS-iPhone-screenshot-003.jpg)

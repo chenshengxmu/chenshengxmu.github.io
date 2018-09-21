@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Have a look at Apple's new iPhone docks and cases
+title: Have a look at Apples new iPhone docks and cases
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/dock.png)
 * In addition to the new iPhone 6s and 6s Plus, Apple on Wednesday announced new accessories for its next-generation handsets. The products didn’t get much stage time, but listed on Apple’s website are a new Lightning dock, leather and silicon cases, in new colorways.

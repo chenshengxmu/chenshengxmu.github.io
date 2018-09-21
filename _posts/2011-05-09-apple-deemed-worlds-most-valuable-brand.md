@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Deemed World's Most Valuable Brand
+title: Apple Deemed Worlds Most Valuable Brand
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/05/Apple-Worlds-Most-Valuable-Brand.jpg)
 * The story of Apple has to be one of the most interesting stories in American business history.

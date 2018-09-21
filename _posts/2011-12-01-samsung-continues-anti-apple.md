@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung Continues Anti-Apple Campaign with "Old School" Facebook Ad
+title: Samsung Continues Anti-Apple Campaign with Old School Facebook Ad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/samsung-facebook.jpg)
 * Last week, Samsung started airing its latest TV ad which not-so-subtly poked fun at iPhone users. The commercial showed a group of young adults, waiting in what appeared to be a line for the new iPhone, drooling over a Galaxy S II handset.

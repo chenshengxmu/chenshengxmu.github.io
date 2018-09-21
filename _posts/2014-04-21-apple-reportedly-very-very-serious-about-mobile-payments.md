@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple reportedly 'very, very serious' about mobile payments
+title: Apple reportedly very, very serious about mobile payments
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/PayPal-for-iOS-Pay-at-Table.jpg)
 * Apple is ramping up internally to launch a mobile payments service, according to Recode. The publication reports Apple has been interviewing payment industry executives to fill two new senior positions at the company focused on mobile payments, as it plans to get into the industry.

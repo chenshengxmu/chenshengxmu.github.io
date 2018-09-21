@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Foxconn says it's planning a number of investments in America
+title: Foxconn says its planning a number of investments in America
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/11/Foxconn-headquarters-WSJ-001.jpg)
 * iPhone manufacturer Hon Hai Precision Industry Co, also known as Foxconn, is planning several investments in the United States, its Chairman Terry Gou said as he exited the White House on Friday.

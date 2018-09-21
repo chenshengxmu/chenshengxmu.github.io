@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Congress passes tax bill that'll let Apple repatriate its $252 billion foreign cash
+title: Congress passes tax bill thatll let Apple repatriate its $252 billion foreign cash
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/iPhone-8-launch-Apple-Regent-Street-London-interior-002.jpg)
 * Now that the United States Congress has passed the Republican tax overhaul, Apple is in a position to potentially bring back its $252.3 billion foreign cash pile without a major tax hit.

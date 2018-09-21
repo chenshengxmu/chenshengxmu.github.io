@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Pay's launch in Australia faces pushback as greedy banks balk at transaction fees
+title: Apple Pays launch in Australia faces pushback as greedy banks balk at transaction fees
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/Apple-Pay-reward-card.jpg)
 * Apple Pay certainly has a long way to go before it becomes ubiquitous. The service is currently available on a limited basis in the United States and the United Kingdom and is yet to hit major markets such as Canada, Japan, Germany, Italy and more.

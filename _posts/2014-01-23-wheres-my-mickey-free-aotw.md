@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Where's My Mickey?' goes free as Apple's App of the Week
+title: Wheres My Mickey? goes free as Apples App of the Week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/water-free.png)
 * Apple has named Disney’s popular ‘Where’s My Mickey’ game its App of the Week for this week. This means that through next Thursday, you’ll be able to pick up the application for both your iPhone and iPad, for free—saving you a buck.

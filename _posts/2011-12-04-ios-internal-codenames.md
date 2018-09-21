@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Developer Shares Apple's Internal Code Names For Every iOS Version Released So Far
+title: Developer Shares Apples Internal Code Names For Every iOS Version Released So Far
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/152940-ios.jpeg)
 * If you’ve ever wondered what Apple called its various releases of iOS when building them internally, then you’re in luck. Developer and general internet fiend Steve Troughton-Smith has shared the internal code names Apple gave to all of its iOS version, starting way back at iOS 1.0.

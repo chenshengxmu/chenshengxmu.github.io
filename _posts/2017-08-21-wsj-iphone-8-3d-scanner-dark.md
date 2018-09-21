@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WSJ- iPhone 8's deep-sensing 3D scanner works in complete darkness
+title: WSJ- iPhone 8s deep-sensing 3D scanner works in complete darkness
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/iPhone-8-concept-Quinton-Theron-001.jpg)
 * iPhone 8 is said to pack in sophisticated 3D sensors on its front and back capable of scanning a user’s face within “millionths of a second”. The Wall Street Journal has now learned that the phone’s deep-sensing scanners work in low-light situations, even in complete darkness.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A9X teardown showcases Apple's impressive strides in chip design
+title: A9X teardown showcases Apples impressive strides in chip design
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/11/A9X-teardown-Chipworks.png)
 * The fine folks over at Chipworks have provided the first up close and personal look at the A9X processor found inside of the recently launched iPad Pro. What it uncovered was yet another impressive design job, one that should, again, make Intel take notice.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nokia's Here Maps app hits the App Store
+title: Nokias Here Maps app hits the App Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/nokia-here-maps-ss.jpg)
 * Last week, Nokia’s CEO Stephen Elop told reporters at a San Francisco press conference that Nokia was rebranding their mapping service to Here Maps, and would be releasing a native iOS app for the service within a few weeks.

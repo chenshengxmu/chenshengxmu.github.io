@@ -1,6 +1,6 @@
 ---
 layout: post
-title: EA Mobile teases upcoming game "Need for Speed No Limits"
+title: EA Mobile teases upcoming game Need for Speed No Limits
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/11/need-for-speed.png)
 * EA Mobile has posted a new teaser trailer for its upcoming game “Need for Speed No Limits.” The game is being built by Firemonkeys, the combined teams of Firemint and IronMonkey Studios, who both have racing backgrounds.

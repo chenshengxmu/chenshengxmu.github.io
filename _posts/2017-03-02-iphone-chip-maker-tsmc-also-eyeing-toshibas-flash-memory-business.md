@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone chip maker TSMC also eyeing Toshiba's flash memory business
+title: iPhone chip maker TSMC also eyeing Toshibas flash memory business
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/07/Apple-MacBook-Air-NAND-Flash-image-001.jpg)
 * According to DigiTimes, Apple chip maker Taiwan Semiconductor Manufacturing Company (TSMC) is also interested in acquiring a stake in Japanese giant Toshiba’s memory business. The semiconductor foundry has been looking to expand into the lucrative 3D NAND memory sector.

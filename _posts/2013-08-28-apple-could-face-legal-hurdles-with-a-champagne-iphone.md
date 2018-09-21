@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple could face legal hurdles with a "Champagne" iPhone
+title: Apple could face legal hurdles with a Champagne iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/Champagne-glasses.jpg)
 * “Champagne is neither a colour, nor anything else than the name of wines from Champagne.” This is the tweet sent a few days ago by the Comité Champagne, a trade association that represents the interests of independent Champagne producers and Champagne Houses in France.

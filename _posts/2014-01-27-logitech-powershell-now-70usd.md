@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Logitech's PowerShell MFi controller drops to $70 until February 1
+title: Logitechs PowerShell MFi controller drops to $70 until February 1
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/logitech-powershell-hero.png)
 * Realizing rival accessory maker Stratus has shaved $20 off its ‘Made for iPhone’ (MFi) wireless iOS 7 controller dubbed SteelSeries, Logitech has decided to play along and bring its overpriced PowerShell down to $70. The Logitech accessory now undercuts Stratus by a cool $10 as the PowerShell is now $30 cheaper versus its original price of $99.

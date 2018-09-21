@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flappy Bird developer confirms he's bringing back the hit game
+title: Flappy Bird developer confirms hes bringing back the hit game
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/flappy_bird_screens.png)
 * Watch out Flappy Bird copycats, the original is making a comeback. Developer Dong Nguyen has confirmed with fans on Twitter that he is restoring his hit game to its rightful place in the App Store, although he hasn’t given a specific launch date.

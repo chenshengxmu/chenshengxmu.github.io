@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Problems with evasi0n7? Here's what to do
+title: Problems with evasi0n7? Heres what to do
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/evasi0n7-done.png)
 * So by now you’ve probably figured out that the evad3rs released a new untethered jailbreak this morning for iOS 7. It’s called evasi0n7, and it’s compatible with all iPhone, iPod touch, iPad and iPad mini models running iOS 7.0 through 7.0.4.

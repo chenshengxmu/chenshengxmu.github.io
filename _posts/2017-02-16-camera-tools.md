@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Camera Tools is an all-inclusive customization tweak for your iPhone's Camera app
+title: Camera Tools is an all-inclusive customization tweak for your iPhones Camera app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/Camera-Tools-Before-and-After.jpg)
 * The Camera app is something that a lot of iPhone users will open and use every single day, sometimes multiple times per day. The convenience of a point-and-shoot camera app at your fingertips, anywhere you go, is nothing short of a technological miracle that comes standard on today’s modern mobile devices.

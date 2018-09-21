@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's Talk iOS 256- iPhone event fantasy draft 2018
+title: Lets Talk iOS 256- iPhone event fantasy draft 2018
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/02/Lets-Talk-iOS-podcast-on-iPhone-X.jpg)
 * In this fantasy draft episode, Cody and Sebastien pick what they believe we are most likely to see unveiled at Apple’s ‘Gather Round’ event. Play along by making your own picks (see full list in show notes), or simply listen in. Either way, this is a fun episode.  

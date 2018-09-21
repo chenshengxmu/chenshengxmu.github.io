@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nomad's Horween leather case for iPhone crosses luxury with protection
+title: Nomads Horween leather case for iPhone crosses luxury with protection
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/01/Nomad-Horween-Leather-Case-Colors.png)
 * When it comes to choosing the right leather case for your iPhone, the market can be quite congested at times, making it a difficult choice in terms of what brand to go with. After all, you really don’t want to compromise on quality or features, but at the same time, you probably also don’t want to break the bank.

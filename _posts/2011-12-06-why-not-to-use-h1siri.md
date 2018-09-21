@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why You Shouldn't Use H1Siri
+title: Why You Shouldnt Use H1Siri
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/siri-control.jpg)
 * When we told you all about a new jailbreak app claiming to bring Siri to non-4S iDevices yesterday, we were deeply skeptical about its authenticity. We later received confirmation that, yes, the H1Siri app did use some of Apple’s own code and thus was indeed illegal.

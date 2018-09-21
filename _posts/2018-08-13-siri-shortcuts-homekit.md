@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Shortcuts app brings out limited HomeKit integration in latest update
+title: Apples Shortcuts app brings out limited HomeKit integration in latest update
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/Siri-Shortcuts-teaser.jpg)
 * An updated version of iOS 12’s new automation-focused Shortcuts app is now available for testing to registered developers, packing limited integration with Apple’s HomeKit framework.

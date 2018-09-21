@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Russia push slowed by pricey iPhones
+title: Apples Russia push slowed by pricey iPhones
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/Apple-iPhone-5s-5c-launch-video-image-001.jpg)
 * Although Apple today launched the iPhone in an additional 35 global markets (with more to come next Friday), including Russia, its flagship iPhone 5s remains too expensive for all but the most wealthiest. The iPhone 5c, costing just $99 in subsidized markets such as the U.S., can cost nearly $800 in Russia, unsubsidized.

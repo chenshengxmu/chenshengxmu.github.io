@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple vs the FBI- a recap of this week's events
+title: Apple vs the FBI- a recap of this weeks events
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/02/apple_vs_fbi.jpg)
 * When a federal judge in California ordered Apple to aid the FBI in an investigation earlier this week, she sparked what many believe is the most important privacy debate in recent memory. The FBI wants access to the passcode-locked iPhone of one of the shooters involved in last year’s San Bernardino massacre, and it wants Apple to help it break in.

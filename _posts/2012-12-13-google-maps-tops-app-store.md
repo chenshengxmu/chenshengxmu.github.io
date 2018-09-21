@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Maps becomes the App Store's top free iPhone app
+title: Google Maps becomes the App Stores top free iPhone app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/Google-Maps-1.0-for-iOS-iPhone-screenshot-005.jpg)
 * Google released its native Maps iOS app last night and, perhaps predictably, already the much-expected software has surged to become the top free iPhone app on the App Store. This just goes to illustrate that competition is a good thing and how eager people have been to have that native mapping experience from Google on their iPhones.

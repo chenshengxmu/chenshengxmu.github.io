@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's new Families webpage gathers all the parental tools for iOS and macOS in one place
+title: Apples new Families webpage gathers all the parental tools for iOS and macOS in one place
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/03/Apple-Families-webpage.jpg)
 * Apple yesterday published a new webpage that brings all of its parental controls in one place.

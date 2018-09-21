@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung wants to help make Apple's A13 iPhone chip in 2019
+title: Samsung wants to help make Apples A13 iPhone chip in 2019
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/06/samsunglogo-1.jpg)
 * It’s been years since Samsung grabbed any of Apple’s processor business. That could begin to change in 2019 as the company makes a play for some of Apple’s “A13” chip processor work, according to DigiTimes. 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yahoo updates 'Sportacular Pro' with iPad support and more
+title: Yahoo updates Sportacular Pro with iPad support and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/yahoo-sportacular.png)
 * Right now is a great time to be a sports fan. College and pro football are in full swing, and we’re on the verge of post-season Major League Baseball and the beginning of the 2013-14 basketball season.

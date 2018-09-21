@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 5.1 Beta 3 Brings Back "Enable 3G" Toggle
+title: iOS 5.1 Beta 3 Brings Back Enable 3G Toggle
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/ios-5.1-beta-3-enable-3g.jpg)
 * Earlier this morning, Apple seeded iOS 5.1 beta 3 to developers. At a glance, the update looked like your typical bug fix and maintenance release. But folks have already uncovered a new feature.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Teases Us With "Exciting Announcement From iTunes" Tomorrow
+title: Apple Teases Us With Exciting Announcement From iTunes Tomorrow
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/11/iTunes-Big-Event-e1289837449206.png)
 * If you go to Apple.com right now, you will be greeted with the image above. What can it be? Well, the rumors have been running around for a while that Apple is preparing a cloud version of iTunes which would allow you to stream your iTunes music from anywhere.

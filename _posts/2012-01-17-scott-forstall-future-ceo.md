@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Book About Apple Reveals Scott Forstall Might Be the Company's Future CEO
+title: New Book About Apple Reveals Scott Forstall Might Be the Companys Future CEO
 ---
 * Fortune’s editor Adam Lashinsky is about to release a new book about Apple next week titled Inside Apple. In the book, we learn that Scott Forstall, the head of iOS, might be in the best seat to become Apple’s CEO when Tim Cook steps down:
 * “He’s a sharp, down-to-earth, and talented engineer, and a more-than-decent presenter,” one entrepreneur told Adam Lashinsky. “He’s the total package.”

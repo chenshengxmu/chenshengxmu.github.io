@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SwiftKey previews upcoming 'Your Signature Emoji' feature in iPhone app
+title: SwiftKey previews upcoming Your Signature Emoji feature in iPhone app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/07/SwiftKey-Your-Signature-Emoji-iPhone-screenshot-001.png)
 * Have you ever wondered which emoji symbols you use the most as your unique writing style? Well, the popular smartphone keyboard, SwiftKey, is previewing a new feature called ‘Your Signature Emoji’ which was designed to help you find out precisely which emoji characters you use more than other people.

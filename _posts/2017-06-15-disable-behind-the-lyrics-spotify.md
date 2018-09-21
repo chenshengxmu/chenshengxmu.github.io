@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to disable 'Behind the Lyrics' pop-ups in Spotify
+title: How to disable Behind the Lyrics pop-ups in Spotify
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/IamNoGenius-for-Spotify-disable-behind-the-lyrics.jpg)
 * Spotify is perhaps one of the largest names in the music-streaming industry, and while Apple Music is indeed catching up, a large number of iPhone users are still using the third-party alternative.

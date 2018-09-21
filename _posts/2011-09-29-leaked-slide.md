@@ -1,6 +1,6 @@
 ---
 layout: post
-title: China Unicom Suggests Next iPhone Will Support HDSPA+ "4G" Technology
+title: China Unicom Suggests Next iPhone Will Support HDSPA+ 4G Technology
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/hdspa+.jpg)
 * With Apple’s iPhone event just 5 days away, everyone is trying to get in their last minute predictions. While it seems like pundits agree on most of the device’s features, there is one detail that still remains a mystery — data connectivity.

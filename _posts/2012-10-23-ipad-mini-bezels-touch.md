@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The iPad mini's skinnier side bezels had Apple refine multitouch
+title: The iPad minis skinnier side bezels had Apple refine multitouch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/iPad-mini-front-white-hand.jpg)
 * The iPad mini’s 7.9-inch display is packed inside what The Verge’s Joshua Topolsky deemed “an incredibly thin and light design”. Part of that design: the skinnier side bezels that we first caught a glimpse of in early mockups. The problem is, there’s no way your thumb could rest on the side bezels without touching the display.

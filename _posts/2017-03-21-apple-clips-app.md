@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Clips app lets you create expressive videos with voice-activated Live Titles & more
+title: Apples Clips app lets you create expressive videos with voice-activated Live Titles & more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/03/Clips-for-iOS-iPhone-screenshot-003.jpg)
 * Alongside announcing a new low-cost 9.7-inch iPad model with a brighter Retina display and the A9 chip, the iPhone 7/Plus (PRODUCT)RED Special Edition series in a vibrant red finish and new Spring-themed Apple Watch bands, Apple today also announced a brand new iOS app designed to allow users to create expressive videos on their iPhone, iPad or iPod touch. The app is coming soon to App Store so watch this space for further updates.

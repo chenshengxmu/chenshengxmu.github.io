@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple probably sold 50 million 'boring' iPhones during the holiday quarter
+title: Apple probably sold 50 million boring iPhones during the holiday quarter
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/evercore-iphone-sales-chart.jpg)
 * What should we expect to hear from Apple when it announces quarterly earnings later this month? One Wall Street observer Thursday forecasts a huge December quarter of 50 million iPhones and 24 million iPads sold. Although the company could report iPhone sales 86 percent higher than the previous quarter, an aggressive roll-out of the iPhone 5 may prompt Apple to reduce production by mid-year.

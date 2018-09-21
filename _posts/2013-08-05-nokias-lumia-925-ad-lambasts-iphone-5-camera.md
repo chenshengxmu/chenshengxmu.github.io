@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nokia's Lumia 925 ad lambasts iPhone 5 camera
+title: Nokias Lumia 925 ad lambasts iPhone 5 camera
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/Nokia-Lumia-925-three-up-front-right-angled.jpg)
 * Microsoft’s Apple-bashing in Surface commercials was just a start. Now the harsh criticism of Apple’s devices extends to Microsoft-backed Nokia, whose Lumia 925 television commercial takes aim squarely at the iPhone 5’s eight-megapixel iSight camera.

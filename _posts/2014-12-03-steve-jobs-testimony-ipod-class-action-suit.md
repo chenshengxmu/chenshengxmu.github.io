@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Snarky comments revealed by Steve Jobs' testimony in iPod class-action lawsuit
+title: Snarky comments revealed by Steve Jobs testimony in iPod class-action lawsuit
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/ipod_classic_views.jpg)
 * A decade-old class-action lawsuit over the iPod and Apple’s practice of locking the media player to its iTunes ecosystem is kicking off this week and with it comes a videotaped deposition of Steve Jobs, recorded in 2011 shortly before he died.

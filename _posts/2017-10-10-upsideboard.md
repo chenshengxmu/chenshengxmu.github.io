@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UpsideBoard enables 'upside-down' orientation on your iPhone's Home screen
+title: UpsideBoard enables upside-down orientation on your iPhones Home screen
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/UpsideBoard.jpg)
 * One of the minor details that set Plus-sized iPhones apart from the rest of Apple’s lineup is the extra support for landscape orientation throughout iOS, which extends to unexpected places like the Home screen.

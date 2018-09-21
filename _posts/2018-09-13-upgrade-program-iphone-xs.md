@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Upgrading to iPhone Xs via Apple's Upgrade Program? Here is what you need to know
+title: Upgrading to iPhone Xs via Apples Upgrade Program? Here is what you need to know
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/09/iPhone-Xs-gold-space-gray-silver-horizontal-001.jpg)
 * This will be my first year upgrading to the new iPhone as a member of Apple’s iPhone Upgrade Program. Say what you want about the poor economics of the ‘leasing’ model, but with no need to list my old phone on eBay or fork over $1,000+, this may be one of my most stress-free iPhone upgrades ever. That being said, there are a few things worth noting if you’re planning to upgrade to the new iPhone Xs or Xs Max using Apple’s Upgrade Program. 

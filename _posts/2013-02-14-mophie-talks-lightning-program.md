@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mophie offers insight on Apple's strict Lightning accessory program
+title: Mophie offers insight on Apples strict Lightning accessory program
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/apple-lightning-iphone-5.jpg)
 * When Apple introduced the iPhone 5 last fall, it turned the iOS accessory market upside down. In addition to the new handset, the company unveiled its new Lightning dock connector—a 9 pin port that instantly made millions of add-ons obsolete.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Announces iMessage. It's Like BBM, but for iOS Only
+title: Apple Announces iMessage. Its Like BBM, but for iOS Only
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/Apple-ioS-5-Notifications.png)
 * If you haven’t been excited much about the few features iOS 5 has already unveiled, here is one that should get you pumped. iMessage.

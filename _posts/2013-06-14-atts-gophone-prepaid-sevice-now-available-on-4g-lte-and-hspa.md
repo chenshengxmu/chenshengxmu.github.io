@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T's GoPhone prepaid sevice now available on 4G LTE and HSPA+
+title: AT&Ts GoPhone prepaid sevice now available on 4G LTE and HSPA+
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/ATT-Chicago-store-interior-001.jpg)
 * GoPhone, a prepaid wireless service from U.S. carrier AT&T, used to be a 3G-only affair. But not anymore.

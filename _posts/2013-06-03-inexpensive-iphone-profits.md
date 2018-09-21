@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why budget iPhone doesn't mean lower profits
+title: Why budget iPhone doesnt mean lower profits
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/Budget-iPhone-plastic-backplate-Apple.pro-001.jpg)
 * Android smartphone makers have been doing it for years: controlling a market using inexpensive handsets to outnumber the more expensive iPhone. But when the idea that Apple should also produce a more affordable and contract-free device first appeared, a hue-and-cry erupted as if the next MacBook was to be powered by Windows 8.

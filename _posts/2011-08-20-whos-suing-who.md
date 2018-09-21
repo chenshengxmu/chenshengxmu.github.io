@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Who's Suing Who in the Mobile Industry [Infographic]
+title: Whos Suing Who in the Mobile Industry [Infographic]
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/year-of-the-copycats.jpeg)
 * Here at iDB we’ve covered a lot of lawsuits involving Apple and their hit line of iDevices. Most, if not all, of the litigation has involved patents. You know, those little pieces of paper that tie an invention to its inventors.

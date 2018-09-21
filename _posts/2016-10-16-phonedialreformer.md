@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reshape the Phone app's dial pad buttons with PhoneDialReformer
+title: Reshape the Phone apps dial pad buttons with PhoneDialReformer
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/PhoneDialReformer-Before-and-After.png)
 * You can now change the look and feel of your iPhone‘s dial pad buttons inside the Phone app with a new free jailbreak tweak dubbed PhoneDialReformer.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Claimed “Sonora” and “Dos Palos” iPhone 7 code-names suggest no 'Pro' model
+title: Claimed “Sonora” and “Dos Palos” iPhone 7 code-names suggest no Pro model
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/hajek-space-black-3.jpg)
 * The rumor-mill briefly toyed with the idea of so-called ‘Pro’ model being added to this year’s iPhone 7 and iPhone 7 Plus lineup. We even saw claimed iPhone 7 Pro dummy case and an alleged detailed iPhone 7 Pro design schematics. On the other hand, lack of leaked iPhone 7 Pro parts casts doubt on that theory.

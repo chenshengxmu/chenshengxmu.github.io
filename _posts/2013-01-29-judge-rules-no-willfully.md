@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Judge rules that Samsung did not 'willfully' infringe on Apple's patents
+title: Judge rules that Samsung did not willfully infringe on Apples patents
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/conan-skit-ss.png)
 * Last August, a California jury found Samsung guilty of infringing on several Apple patents in a high-profile trial. The initial damages awarded to Apple totaled $1.05 billion, but since Samsung was found to have ‘willfully’ infringed, that amount was expected to multiply.

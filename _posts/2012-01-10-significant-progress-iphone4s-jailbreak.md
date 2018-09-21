@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hacker "Dream Team" Makes Significant Progress on iPhone 4S Jailbreak
+title: Hacker Dream Team Makes Significant Progress on iPhone 4S Jailbreak
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/Dream-Team.jpg)
 * The dream team of p0sixninja, MuscleNerd, planetbeing, and pod2g have made more progress on the iPhone 4S untether, according to a tweet from pod2g this morning. pod2g also extended out special thanks to saurik for his major contributions to the long-awaited project.

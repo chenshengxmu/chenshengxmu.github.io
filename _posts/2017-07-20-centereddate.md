@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Center the Today page's date indicator with this tweak
+title: Center the Today pages date indicator with this tweak
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/07/CenteredDate-Notification-Center.jpg)
 * The Today page, accessible in both Notification Center and Spotlight, typically displays the date above all the widgets you’ve enabled. On stock devices, the date is aligned to the right.

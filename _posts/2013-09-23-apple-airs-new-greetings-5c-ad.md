@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple airs new iPhone 5c ad 'Greetings'
+title: Apple airs new iPhone 5c ad Greetings
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/5c-greetings.png)
 * Apple posted a new commercial to its YouTube channel earlier this evening. It’s called ‘Greetings,’ and it depicts a number of people from various walks of life using the just-released iPhone 5c.

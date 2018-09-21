@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Galaxy S4 cleared for government use, iPhone and iPad to gain approval 'in the next few weeks'
+title: Galaxy S4 cleared for government use, iPhone and iPad to gain approval in the next few weeks
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/The-Pentagon-aerial-shot.jpg)
 * As Samsung and Apple are bringing the smartphone wars to the Pentagon, the Galaxy maker has drawn first blood as its Galaxy S4 flagship smartphone gets cleared for government use ahead of the iPhone. A security approval from the US Department of Defense (DoD) is a major recognition for Samsung and its new Knox security software as the S4 becomes the first Android smartphone to win a DoD approval.

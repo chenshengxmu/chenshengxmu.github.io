@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple launching iPads on Japan's NTT DoCoMo next month
+title: Apple launching iPads on Japans NTT DoCoMo next month
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/four-iPad-mini-retina-display.jpg)
 * Apple just issued a press release, announcing that it will begin offering NTT DoCoMo versions of its iPad Air and Retina iPad mini in Japan next month. The carrier, which is the largest in the country, began offering the iPhone for the first time last fall.

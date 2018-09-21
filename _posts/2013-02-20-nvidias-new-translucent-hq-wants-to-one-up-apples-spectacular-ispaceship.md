@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nvidia's new translucent HQ wants to one-up Apple’s spectacular iSpaceship
+title: Nvidias new translucent HQ wants to one-up Apple’s spectacular iSpaceship
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/iSpaceship-vs-new-Vidia-headquarters.jpg)
 * Nevermind that iSpaceship, Apple’s breathtaking curved-glass, circular-shaped research campus, won’t open until mid-2016 – in Silicon Valley, the race is on on who gets to build the most spectacular corporate structure first. Graphics powerhouse Nvidia has thrown down the gauntlet by announcing Wednesday a state of the art new HQ.

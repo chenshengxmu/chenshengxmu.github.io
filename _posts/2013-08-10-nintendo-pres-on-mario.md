@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nintendo president explains why we'll never see an official Mario game in the App Store
+title: Nintendo president explains why well never see an official Mario game in the App Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/nintendo.jpg)
 * Nintendo released their most recent financial results last week, and the numbers didn’t look good. As suspected, the Wii U is selling quite poorly (the company only sold 160,000 during the quarter) and overall sales are down 1.9% year-over-year.

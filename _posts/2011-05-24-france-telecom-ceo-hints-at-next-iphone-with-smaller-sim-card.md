@@ -1,6 +1,6 @@
 ---
 layout: post
-title: France Telecom CEO Hints at "Smaller and Thinner" iPhone with Smaller SIM Card
+title: France Telecom CEO Hints at Smaller and Thinner iPhone with Smaller SIM Card
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/05/Larger-and-Smaller-iPhone-e1306246616795.png)
 * In a recent interview, the CEO of French Telecom/Orange, Stephane Richard, dropped some hits towards a “smaller and thinner” iPhone 5 with a different SIM card design. Instead of the traditional method, Apple has apparently agreed with wireless carriers to support a smaller and more lightweight SIM for the next iPhone.

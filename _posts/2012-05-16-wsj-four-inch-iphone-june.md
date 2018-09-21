@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WSJ- Production of "at least 4-inch" screens for the next iPhone begins in June
+title: WSJ- Production of at least 4-inch screens for the next iPhone begins in June
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Four-inch-iPhone-5-next-to-iPhone-4S-Federico-Ciccarese-002.jpg)
 * Putting its credibility behind a flurry of rumors calling for a sixth-generation iPhone with a screen larger than the current 3.5-inch form factor, the usually well-informed Wall Street Journal reported that production of displays for the next iPhone that measure “at least four inches diagonally” is said to be commencing in June…

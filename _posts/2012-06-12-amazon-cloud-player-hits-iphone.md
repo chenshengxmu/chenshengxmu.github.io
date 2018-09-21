@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amazon's cloud-based music service finally hits iPhone
+title: Amazons cloud-based music service finally hits iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/Amazon-Cloud-Player-iPhone-screenshot-001.jpg)
 * Amazon launched its cloud-based music player and an accompanying Android app a little more than a year ago.

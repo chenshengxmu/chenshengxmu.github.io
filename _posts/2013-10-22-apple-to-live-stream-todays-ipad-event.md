@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple to live stream today's iPad event
+title: Apple to live stream todays iPad event
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/Apple-Events-October-2013-Apple-TV-002.jpg)
 * It looks like Apple will provide a live stream of today’s iPad event after all as Apple TV owners report that the Apple Events channel has been updated on their $99 set-top box to reflect Apple’s invitation graphics.

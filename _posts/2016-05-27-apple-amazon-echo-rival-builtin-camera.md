@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Amazon Echo rival could detect users via built-in camera and facial recognition
+title: Apples Amazon Echo rival could detect users via built-in camera and facial recognition
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/10/Apple-TV-4.png)
 * Apple’s rumored Amazon Echo rival, which we learned yesterday could actually be an upgraded Apple TV, will have a built-in camera and use facial recognition to detect users as they enter the room, said the people briefed on Apple’s plans who spoke to CNET on condition of anonymity.

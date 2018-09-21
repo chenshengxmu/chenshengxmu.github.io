@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple may be struggling with iPhone 8's rumored optical fingerprint reader
+title: Apple may be struggling with iPhone 8s rumored optical fingerprint reader
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/04/Touch-ID-teaser-001.jpg)
 * In a research note issued to clients Monday, a copy of which was obtained by MarketWatch, Pacific Crest analysts have cautioned that Apple might be having issues with iPhone 8’s rumored optical fingerprint sensing functionality.

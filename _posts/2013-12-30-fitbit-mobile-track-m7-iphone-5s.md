@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fitbit updated with MobileTrack feature via iPhone 5s's M7 motion coprocessor
+title: Fitbit updated with MobileTrack feature via iPhone 5ss M7 motion coprocessor
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/Fitbit-2.1-for-iOS-iPhone-screenshot-001.jpeg)
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/Fitbit-2.1-for-iOS-iPhone-screenshot-002.jpeg)

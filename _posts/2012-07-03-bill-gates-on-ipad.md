@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bill Gates on iPad, Surface and Microsoft's original tablet vision
+title: Bill Gates on iPad, Surface and Microsofts original tablet vision
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/iPad-3-promo-Woman-on-subway-001.jpg)
 * Bill Gates was on PBS’s Charlie Rose show tonight and he got peppered with questions concerning the iPad’s gigantic success and why Microsoft’s original tablet vision fell short. Now chairman of Microsoft and a philanthropist, Gates gave honest answers and didn’t seem jealous of Apple’s success with the iPad as his sidekick Steve Ballmer evidently had been when he laughed off the iPhone back in 2007. Here are your key takeaways…

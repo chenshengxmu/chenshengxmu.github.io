@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Judge punishes Apple for withholding documents in FTC's lawsuit against Qualcomm
+title: Judge punishes Apple for withholding documents in FTCs lawsuit against Qualcomm
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/Steve-Jobs-Theater-exterior-Apple-Event-September-2017-image-002.jpg)
 * US Magistrate Judge Nathanael Cousins has officially sanctioned Apple over withholding documents in the Federal Trade Commission’s (FTC) lawsuit against Qualcomm.

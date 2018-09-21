@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jawbone's new 'UP Coffee' app tracks how caffeine affects your sleep patterns
+title: Jawbones new UP Coffee app tracks how caffeine affects your sleep patterns
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/jawbone-coffee-2.png)
 * Popular accessory and wearables maker Jawbone has released an interesting new app for iPhone today. It’s called ‘UP Coffee,’ and it’s the first product from product from Jawbone Labs—an initiative that allows Jawbone employees get experimental with personal projects.

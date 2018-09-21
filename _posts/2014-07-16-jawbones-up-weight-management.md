@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jawbone's Up fitness band app gains weight management features
+title: Jawbones Up fitness band app gains weight management features
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/Jawbone-Up-3.2-for-iOS-teaser-001.jpg)
 * Jawbone, the maker of the Up fitness band, wireless Bluetooth headsets and a host of other mobile accessories, today pushed a major update to its iPhone and iPad app.

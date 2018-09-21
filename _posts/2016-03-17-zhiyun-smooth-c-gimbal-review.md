@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review- ZhiYun Z1 Smooth-C gimbal gives your iPhone all the video stabilization it'll ever need
+title: Review- ZhiYun Z1 Smooth-C gimbal gives your iPhone all the video stabilization itll ever need
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/dsc01757_1024.jpg)
 * If you use your iPhone for any kind of video production, then a gimbal should definitely be one of the top things on your wish-list if you don’t already have one.

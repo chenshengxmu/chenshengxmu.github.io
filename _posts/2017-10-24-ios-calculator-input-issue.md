@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 11's Calculator app suffers from input lag if you type too quickly
+title: iOS 11s Calculator app suffers from input lag if you type too quickly
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/iOS-11-Calculator-landscape-iPhone-screenshot-001.png)
 * Apple’s stock Calculator app that comes preloaded on iPhone and iPod touch is apparently plagued with an issue that causes input to be lost if you type too quickly.

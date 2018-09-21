@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4chan founder releases community-based iPad app 'DrawQuest'
+title: 4chan founder releases community-based iPad app DrawQuest
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/drawquest-ss.png)
 * Looking around the collection of image boards known as 4chan, it’s hard to believe that the same person responsible for creating that, also created the app you see above. But it’s true, this is 4chan founder Chris Poole’s latest project: DrawQuest.

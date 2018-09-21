@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MountainLionCenter brings OS X's Notification Center back to iOS
+title: MountainLionCenter brings OS Xs Notification Center back to iOS
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/MountainLionCenter-03.jpeg)
 * Apple’s initiative to bring several highly notable iOS features “back to the Mac” is one of the hallmarks of its upcoming release of OS X Mountain Lion. One of the most touted iOS features to make its way to Mountain Lion is Notification Center. Notification Center on the Mac works similar to the way it does on iOS, with a few noted differences.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Augment the About page in your iPhone's Settings app with System Info
+title: Augment the About page in your iPhones Settings app with System Info
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/11/iPhone-Settings-Icon-Banner.jpg)
 * If you didn’t already know, you could navigate to Settings → General → About on your iPhone or iPad to discover a plethora of statistics about your device. Nevertheless, Apple limits what you can see and do here.

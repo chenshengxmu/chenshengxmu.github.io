@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some people in UK, France and Germany are now apparently able to access Apple's TV app
+title: Some people in UK, France and Germany are now apparently able to access Apples TV app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/Apple-TV-app-teaser-008.jpg)
 * According to social media reports Friday, some users in the United Kingdom, France and Germany are now seeing Apple’s TV app on their iPhone, iPad, iPod touch and Apple TV.

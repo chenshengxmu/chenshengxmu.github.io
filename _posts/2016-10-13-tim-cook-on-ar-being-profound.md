@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook- augmented reality is 'profound,' will take time to get right
+title: Tim Cook- augmented reality is profound, will take time to get right
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/08/Tim-Cook-Joao-Canziani-photo-Fast-Company.jpg)
 * Apple CEO Tim Cook once again sings the praises of augmented reality in a new interview with BuzzFeed News. Cook tells the outlet that his team is “high on AR in the long run” and he believes the technology can be “huge.”

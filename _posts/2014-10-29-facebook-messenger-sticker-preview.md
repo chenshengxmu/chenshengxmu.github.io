@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You can now preview stickers in Facebook's latest Messenger update
+title: You can now preview stickers in Facebooks latest Messenger update
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/Facebook-Messenger-15-for-iOS-sticker-animations-003.jpg)
 * The social networking giant Facebook on Wednesday pushed a small update to its Messenger client for the iPhone and iPad which lets you preview sticker animations.

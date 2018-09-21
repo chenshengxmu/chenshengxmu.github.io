@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The iPad's A5X benchmarked against Nvidia's Tegra 3
+title: The iPads A5X benchmarked against Nvidias Tegra 3
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/apple-vs-nvidia.jpeg)
 * During the company’s new iPad announcement last week, Apple’s CEO Tim Cook and VP Phil Schiller made plenty of claims about both the new tablet and its competition. One claim to stand out was one that struck right at the heart of Nvidia, and it raised a few eyebrows at the same time.

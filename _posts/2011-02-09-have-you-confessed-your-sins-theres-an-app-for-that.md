@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Have You Confessed Your Sins? There's an App for That.
+title: Have You Confessed Your Sins? Theres an App for That.
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/02/Pope-Benedict-XVI.jpeg)
 * Have you gotten lazy with your confessions? Good news for you: the Catholic Church has approved an iPhone app that will help you confess your sins!

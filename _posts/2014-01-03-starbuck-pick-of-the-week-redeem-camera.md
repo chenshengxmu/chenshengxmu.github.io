@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Starbucks now lets you use your iPhone's camera to redeem Pick of the Week cards
+title: Starbucks now lets you use your iPhones camera to redeem Pick of the Week cards
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/Starbucks-iTunes-card-scanning-002.jpg)
 * Starbucks, a Seattle-based global coffee company and coffeehouse chain and Apple’s longtime marketing partner, started offering ‘Pick of the Week’ promotion via its recently Passbook-enabled App Store app back in 2011. The tie-in allows Starbucks customers to download paid iOS applications for free as they sip on their beverage of choice.

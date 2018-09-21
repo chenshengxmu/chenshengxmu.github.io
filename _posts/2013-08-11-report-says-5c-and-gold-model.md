@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New report reiterates '5C' name for budget iPhone, calls for a gold 5S colorway
+title: New report reiterates 5C name for budget iPhone, calls for a gold 5S colorway
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/gold-5S.png)
 * It’s been a big weekend for iPhone rumors. And now that we’ve all circled September 10 on our calendars as the likely date for Apple’s big smartphone event, it’s time to start trying to figure out just what exactly it’ll unveil.

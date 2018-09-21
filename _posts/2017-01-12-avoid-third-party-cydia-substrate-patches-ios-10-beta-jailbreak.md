@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why to avoid third-party Cydia Substrate "patches" for the iOS 10 beta jailbreak
+title: Why to avoid third-party Cydia Substrate patches for the iOS 10 beta jailbreak
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/01/cydia-home-screen.jpg)
 * Yesterday, we shared our fullest opinion of why you should avoid jailbreaking with Luca Todesco’s beta jailbreak for iOS 10 until it’s out of its beta stages, but for those who’ve went ahead with it anyway because nostalgia got the best of them, there’s another difficult choice to make…

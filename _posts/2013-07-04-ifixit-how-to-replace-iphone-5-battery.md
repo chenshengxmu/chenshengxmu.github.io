@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iFixit's video walkthrough details DIY iPhone 5 battery replacement process
+title: iFixits video walkthrough details DIY iPhone 5 battery replacement process
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/iPhone-5-battery-replacement-process-iFixit-001.jpeg)
 * Teardown experts over at iFixit know a thing or two about repairing consumer electronics and just yesterday they posted a nice video walkthrough explaining the process of replacing your iPhone 5’s battery. So, if your battery died on you and you’re eager to bring life back yourself to the device with a new one, block out your next hour, grab your screwdrivers and prying tools and arm yourself with patience and a steady hand…

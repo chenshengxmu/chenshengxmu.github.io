@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project Spartan - Facebook's Preparing to Take on the App Store
+title: Project Spartan - Facebooks Preparing to Take on the App Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/06/THIS-IS-FACEBOOK-e1308249673876.png)
 * TechCrunch has been spilling the beans on Facebook’s entire 2011 roadmap over the last few days. It appears that someone inside the social networking company has been sending the site information regarding top secret Facebook projects.

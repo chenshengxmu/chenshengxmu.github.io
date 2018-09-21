@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Square Enix- 'Final Fantasy VII' coming to iOS this year
+title: Square Enix- Final Fantasy VII coming to iOS this year
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/FF7logo.jpg)
 * Final Fantasy VII is coming to iOS this year, reports gaming publication IGN. The outlet was in attendance at Square Enix’s E3 press conference earlier today when company executive Shinji Hashimoto announced a mobile port for the title is in the works.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iFixit's internals-exposing wallpapers for the iPhone 5s/5c
+title: iFixits internals-exposing wallpapers for the iPhone 5s/5c
 ---
 * >
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/ifixit-5s-1.jpeg)

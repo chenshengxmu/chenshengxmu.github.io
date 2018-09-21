@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mario Kart Tour will be priced as 'free-to-start' when it launches on App Store
+title: Mario Kart Tour will be priced as free-to-start when it launches on App Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/Mario-Kart-Tour.jpg)
 * Nintendo announced just last week that their next upcoming mobile game will be Mario Kart Tour. While still not much is known, it looks like Nintendo will price the game as “free-to-start”.

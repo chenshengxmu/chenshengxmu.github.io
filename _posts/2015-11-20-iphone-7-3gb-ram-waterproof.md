@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rumor- 5.5" iPhone 7 has 3GB of RAM and waterproof chassis
+title: Rumor- 5.5 iPhone 7 has 3GB of RAM and waterproof chassis
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/iPhone-7-concept-Yasser-Farahi-001.jpg)
 * According to a recent TrendForce analyst Avril Wu, Apple will edge closer to Samsung in smartphone market share in 2016 by continuing to advance the iPhone by adding some of the features commonly found on high-end Android devices.

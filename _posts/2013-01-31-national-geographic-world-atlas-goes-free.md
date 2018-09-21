@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You don't wanna miss this- National Geographic World Atlas goes free
+title: You dont wanna miss this- National Geographic World Atlas goes free
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/National-Geographic-World-Atlas-3.0.1-for-iOS-iPad-screenshot-004.jpg)
 * National Geographic Society produces some of the most compelling, fact-checked content money can buy and their World Atlas iPad app has long been my go-to reference source, not just for checking out interesting facts and trivia but for doing serious research related to the world’s countries, their economies, demographics and so forth.

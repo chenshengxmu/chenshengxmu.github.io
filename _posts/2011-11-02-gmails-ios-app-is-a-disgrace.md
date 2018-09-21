@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gmail's New iOS App is a Disgrace
+title: Gmails New iOS App is a Disgrace
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/IMG_0132-e1320258944739.png)
 * Google recently released—and immediately pulled—its official app for the iPhone and iPad in the App Store. After a long time coming, Google finally got on the ball and released an App Store app for its popular email service, but not before realizing that there were several bugs that needed fixing.

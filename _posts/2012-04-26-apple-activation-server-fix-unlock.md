@@ -1,6 +1,6 @@
 ---
 layout: post
-title: If you haven't unlocked your iPhone with the SAM unlock, you better act fast before it's too late
+title: If you havent unlocked your iPhone with the SAM unlock, you better act fast before its too late
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/Unlock-any-iPhone-iOS-5-e1335089404410.jpg)
 * iPhone Dev Team member, MuscleNerd, just tweeted that Apple is currently working on fixing their activation servers.

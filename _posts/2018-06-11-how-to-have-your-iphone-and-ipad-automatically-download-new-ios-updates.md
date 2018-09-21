@@ -9,7 +9,7 @@ title: How to enable Automatic Updates for iOS releases on iPhone and iPad
 * Running the latest iOS edition helps protect your devices from malware and any known exploits that would put your private data at risk of being hijacked by malicious apps.
 * TUTORIAL: Disabling automatic software updates on Apple TV
 * On the other hand, Apple typically closes the signing window for older iOS releases within weeks of a major iOS software update release, meaning power users might want to refrain from using this option and instead decide for themselves when they would like to upgrade.
-* Automatic Updates for iOS releases is a feature that requires the iOS 12 software, so keep that in mind. Also important, this option is managed separately on every iOS device you own.
+* Automatic Updates for iOS releases is a feature that requires the iOS 12 software or above, so keep that in mind. Also important, this option is managed separately on every iOS device you own.
 * The option is off by default, here’s how to enable it:
 * 1) Open the Settings app on your iPhone or iPad with iOS 12 or newer.
 * 2) Tap General.

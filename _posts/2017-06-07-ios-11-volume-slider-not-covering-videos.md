@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 11's volume slider no longer covers fullscreen videos
+title: iOS 11s volume slider no longer covers fullscreen videos
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/iOS-11-video-player-Volume-slider-iPhone-screenshot-landscape.png)
 * One of the most interesting changes in iOS 11 that hasn’t been talked about at all during Monday’s WWDC 2017 keynote is going to make a lot of you happy: the volume indicator on iOS 11 no longer obstructs the center of the screen obnoxiously.

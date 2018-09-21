@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gameloft delivers truly massive Christmas update to Modern Combat 5- Blackout, here's what's new
+title: Gameloft delivers truly massive Christmas update to Modern Combat 5- Blackout, heres whats new
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/Modern-Combat-5-Blackout-update-1-teaser.png)
 * Gameloft, the prolific maker of mobile games hailing from France, on Wednesday launched the first content update to its award-winning Modern Combat 5: Blackout shooter for the iPhone and iPad and boy is it massive. Saying the update brings a whole bunch of rich content and goodies to the already well-rounded experience would be a gross understatement.

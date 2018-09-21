@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple TV series based on Asimov's Foundation science fiction novels confirmed
+title: Apple TV series based on Asimovs Foundation science fiction novels confirmed
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/foundation-series.jpg)
 * It’s official. Nearly five months after it was first reported that Apple was working on a television series based on Isaac Asimov’s Foundation science fiction novels comes word that a full series order has been placed. The series is being written by David Goyer (“The Dark Knight” and “Batman Begins”) and Josh Friedman (“Terminator: The Sarah Connor Chronicles.”) Asimov’s daughter, Robyn Asimov, will serve as an executive producer alongside Skydance Television’s David Ellison, Dana Goldberg, and Marcy Ross, according to Ars Technica.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: StripNumberPad gives your iPhone's dial pad a stylish new look
+title: StripNumberPad gives your iPhones dial pad a stylish new look
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/StripNumberPad-Before-and-After.jpg)
 * If you’re looking for a way to spice up that stock Phone app of yours, then you might find interest in a new free jailbreak tweak called StripNumberPad by iOS developer Squ1dd13.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hulu, Pocket, BBC iPlayer, MLB.com at Bat and more updated for iOS 9's Picture in Picture mode
+title: Hulu, Pocket, BBC iPlayer, MLB.com at Bat and more updated for iOS 9s Picture in Picture mode
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/Pocket-for-iOS-Picture-in-Picture.jpg)
 * Picture in Picture mode is one of the several productivity-focused enhancements on iPads with iOS 9. This handy feature allows you to watch a video while doing something else. The video plays in a small window overlaid on top of your apps so you can, for instance, browse the web while watching your favorite show at the same time.

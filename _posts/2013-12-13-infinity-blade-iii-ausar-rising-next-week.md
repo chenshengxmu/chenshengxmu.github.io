@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Biggest yet Infinity Blade III 'Ausar Rising' update launching next Thursday
+title: Biggest yet Infinity Blade III Ausar Rising update launching next Thursday
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/Infinity-Blade-III-iPhone-screenshot-004.jpeg)
 * Chair Entertainment’s Infinity Blade is an elegiac masterpiece, an iOS exclusive and a system seller that showcases what’s possible on Apple’s iOS platform better than any other game. Unbelievable console-quality graphics, great soundtrack and atmosphere, complex weapons and upgrade system with RPG elements to keep you coming back for more all contribute to it being one of the best iPhone and iPad games money can buy.

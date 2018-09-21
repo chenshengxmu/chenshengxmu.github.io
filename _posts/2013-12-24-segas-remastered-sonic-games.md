@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sega's remastered Sonic games on sale for a limited time
+title: Segas remastered Sonic games on sale for a limited time
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/sonic2.jpg)
 * Somewhere in the midsts of all of the iOS 7 jailbreak excitement, we forgot to mention that Sega has followed in the footsteps of other game publishers and developers and has placed a number of its popular iOS titles on sale for the holidays.

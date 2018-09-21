@@ -1,6 +1,6 @@
 ---
 layout: post
-title: China Mobile 'has all of the power' in iPhone talks as Apple makes concessions
+title: China Mobile has all of the power in iPhone talks as Apple makes concessions
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/china-mobile-e1375299063364.jpg)
 * Apple usually is in the cat-bird seat when it comes to negotiations. The brand’s allure, coupled with billions in cash and a handset responsible for rocketing smartphone sales has made the iPhone maker a brutal negotiator. Now comes word Apple may have made concessions in order to get the world’s largest carrier on its team.

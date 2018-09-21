@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Seoul court rules that iPhone 4s and iPad 2 don't infringe on Samsung’s patents
+title: Seoul court rules that iPhone 4s and iPad 2 dont infringe on Samsung’s patents
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/Apple-versus-Samsung-Joy-of-Tech-001.png)
 * Back in 2011, the legal spat between Apple and its frenemy and key supplier Samsung started to really escalate as the parties began filing a bunch of lawsuits around the world against each other. The Galaxy maker was hoping to gain the upper hand by filing a patent infringement lawsuit against Apple in its home turf over claimed short message display methods and messaging grouping features.

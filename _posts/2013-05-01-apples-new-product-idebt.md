@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's new Wall Street runaway hit- iDebt
+title: Apples new Wall Street runaway hit- iDebt
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/Apple-headquarters-Cupertino-Clifornia-exterior-001.jpg)
 * Wall Street is nothing if not fickle. Questions over Apple’s future profits sent the company’s stock into a tailspin for the past six months, then a recovery of sorts is now underway.

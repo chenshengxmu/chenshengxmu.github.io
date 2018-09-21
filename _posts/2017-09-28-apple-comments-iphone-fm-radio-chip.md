@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple- it's impossible to enable FM reception in iPhone 7 & iPhone 8
+title: Apple- its impossible to enable FM reception in iPhone 7 & iPhone 8
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/iOS-11-AMBER-Emergency-alerts-iPhone-screenshot-001.jpg)
 * Apple cannot magically flip a switch to turn on FM radio in your iPhone because latest iPhones lack FM radio chips in the first place and their antennas are not suited to support FM signals.

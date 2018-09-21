@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Saurik confirms that he's working on iOS 11 support for Cydia
+title: Saurik confirms that hes working on iOS 11 support for Cydia
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/12/Cydia-on-iOS-11.1.2.jpeg)
 * Ian Beer’s recently-publicized tfp0 exploit seems to be assisting eager jailbreak developers in their ongoing quest to create a working jailbreak tool for iOS 11.0-11.1.2.

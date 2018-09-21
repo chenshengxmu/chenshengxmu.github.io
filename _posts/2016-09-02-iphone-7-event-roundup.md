@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What we're expecting from Apple's September 7 event
+title: What were expecting from Apples September 7 event
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/08/iPhone-7-september-7-media-invite.jpeg)
 * Apple is hosting a special media event on September 7 at San Francisco’s Bill Graham Civic Auditorium at 10am PT. As always, we’ll be covering the latest in Apple’s big fall refresh thoroughly here at iDB. Of course, the iPhone 7 will be the event’s biggest story, but we’re also hoping to see other hardware refreshes, accessories and related products come into full view next Wednesday.

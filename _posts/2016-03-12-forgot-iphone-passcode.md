@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What to do if you've forgotten your iPhone passcode
+title: What to do if youve forgotten your iPhone passcode
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/iphone6-ios9-passcode-error-disabled.jpg)
 * So you’ve managed to forget your iPhone’s passcode. You might have even managed to put your iPhone into the disabled state. Tsk tsk tsk… Well, you’ve come to the right place.

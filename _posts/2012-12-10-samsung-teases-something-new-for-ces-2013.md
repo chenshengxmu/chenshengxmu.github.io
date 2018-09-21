@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung teases 'something new' for CES 2013
+title: Samsung teases something new for CES 2013
 ---
 * Samsung, the world’s largest maker of both cellphones and smartphones by volume, is gearing up for CES 2013, which runs January 8-11 in Las Vegas. A successor to the Galaxy S III is expected to debut at the show and the South Korean firm has put together a nice teaser suggesting “something new is coming”. There are some indications that Apple may be looking to unveil a seventh-generation iPhone during the first quarter of next year, but no credible evidence of a manufacturing ramp up has surfaced yet…
 * Reuters speculated the Galaxy S IV may come with “a breakthrough unbreakable screen” which can be folded. Other rumors have pointed to a 13-megapixel camera, a quad-core chip and a five-inch display likely sporting full HD 1,920-by-1,080 pixel resolution at 441 pixels per inch, a big improvement in pixel density from both the Galaxy S III’s 306 ppi and the iPhone 5′s 326 ppi screen.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to remove suggested "recent" and "other" email addresses from Mail app
+title: How to remove suggested recent and other email addresses from Mail app
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/08/delete-email-address-autocomplete.png)
 * Every time you receive or send an email to a new contact, the Mail app saves this contact’s email address as a “recent” or “other” address somewhere so that if you ever want to email this person again, you can start typing his email address, and the Mail app will offer some autocomplete suggestions.

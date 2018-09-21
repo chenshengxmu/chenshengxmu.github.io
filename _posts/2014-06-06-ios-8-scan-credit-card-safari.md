@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New in iOS 8 Safari- use your device's camera to scan in credit card info
+title: New in iOS 8 Safari- use your devices camera to scan in credit card info
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/ios-8-scanning.png)
 * As folks continue to comb through the recently released iOS 8 beta, a new feature has been discovered in mobile Safari. When the updated browser detects a credit card field within a webpage, it offers to let the user scan their card with their device’s camera.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's free app of the week- INKS.
+title: Apples free app of the week- INKS.
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/inks.png)
 * Apple on Thursday updated its App of the Week promotion with the game INKS. For the next 7 days, you can pick up the former Apple Design Award-winner for free on both iPhone and iPad—a solid savings of $3.

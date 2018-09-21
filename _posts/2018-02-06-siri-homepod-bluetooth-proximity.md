@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Which Siri? Here's how HomePod knows when it should respond to your Siri request
+title: Which Siri? Heres how HomePod knows when it should respond to your Siri request
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/02/HomePod-TechCrunch-002.jpg)
 * If you already are or are planning on becoming a proud owner of Apple’s Siri-powered wireless speaker launching this Friday, maybe you’ve been wondering how Apple’s personal assistant will respond to your request if you happen to own multiple Siri devices.

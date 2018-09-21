@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple sends out invites for October 22 iPad event- 'we still have a lot to cover'
+title: Apple sends out invites for October 22 iPad event- we still have a lot to cover
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/Apple-October-2013-media-event.jpg)
 * The Wall Street Journal-owned technology blog, AllThingsD, reported last week that Apple’s next media event will take place on October 22, that’s next Tuesday. Sure enough, the company just sent out invites for the October 22 event to select members of the press. The invitation-only press conference will be held at the Yerba Buena Center in San Francisco and will begin at 10am PDT / 1pm EDT, John Paczkowski of AllThingsD first reported and The Loop’s Jim Dalrymple subsequently confirmed.

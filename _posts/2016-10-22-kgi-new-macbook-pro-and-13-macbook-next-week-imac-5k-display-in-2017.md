@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KGI- new MacBook Pros and 13" MacBook next week, iMacs & 5K Cinema Display in 2017
+title: KGI- new MacBook Pros and 13 MacBook next week, iMacs & 5K Cinema Display in 2017
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/macbook-pro-oled-4.jpg)
 * According to revered Apple analyst Ming-Chi Kuo of KGI Securities, Apple’s media event next Thursday will serve as a launchpad for a long-awaited update to the aging MacBook Pro notebook lineup, which will see “many” noteworthy upgrades.

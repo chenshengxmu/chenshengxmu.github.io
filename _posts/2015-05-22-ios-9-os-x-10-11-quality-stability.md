@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New details surface of Apple's quality and stability focus with iOS 9 and OS X 10.11
+title: New details surface of Apples quality and stability focus with iOS 9 and OS X 10.11
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/OS-X-Yosemite-Desktop.jpg)
 * It’s been said before that the next major version of Apple’s mobile operating system will be a Snow Leopard style upgrade in that it won’t focus as much on new features as it would on optimizing code base for stability, performance and quality.

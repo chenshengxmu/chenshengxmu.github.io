@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here is everything that's new, improved and enhanced in iOS 9
+title: Here is everything thats new, improved and enhanced in iOS 9
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/iOS-9-teaser-iPhone-iPad-imagae-002.jpg)
 * Following Apple’s release of the free iOS 9 software update for the iPhone, iPod touch and iPad, the California firm has provided an exhaustive list of improvements, new features and other tidbits that will make your mobile computing life easier and allow your devices to run faster and last longer between charges.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BlurTouchClean removes the blur from your Home screen's 3D Touch menu backgrounds
+title: BlurTouchClean removes the blur from your Home screens 3D Touch menu backgrounds
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/BlurTouchClean-Before-and-After.jpg)
 * Anyone with a 3D Touch-enabled device is likely familiar with the bevy of menu options that can be revealed by imposing a simple 3D Touch gesture on apps from the Home screen.

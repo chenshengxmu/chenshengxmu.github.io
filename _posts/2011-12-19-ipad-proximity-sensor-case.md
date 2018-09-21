@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Improve Your 3G iPad's Battery Life With This New Case
+title: Improve Your 3G iPads Battery Life With This New Case
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/ipad2blackproducts.jpeg)
 * Interesting news from Ars Technica tells us that the iPad has a proximity sensor, just like the iPhone. The 36-equipped iPad’s sensor is there to tell the tablet when to dial back its cellular radio. Why, you ask? According to the report, Apple doesn’t want the radio running full tilt when it is close to a human.

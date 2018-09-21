@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft officially discontinues Xbox's motion-sensing Kinect add-on
+title: Microsoft officially discontinues Xboxs motion-sensing Kinect add-on
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/Xbox-and-Kinect-image-001.jpg)
 * In a rather astonishing turn of evens, Microsoft is officially discontinuing Kinect.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google using Apple's PrimeSense in 'Project Tango' smartphone, beating Apple to the punch
+title: Google using Apples PrimeSense in Project Tango smartphone, beating Apple to the punch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/tango-phones.jpg)
 * Google has beat Apple to the punch by using PrimeSense’s Capri PS1200 3D imaging system-on-a-chip in the Project Tango smartphone, before Apple could in its iPhone line-up, the teardown specialists over at iFixit found.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's new Babel chat platform includes 'first class iOS experience'
+title: Googles new Babel chat platform includes first class iOS experience
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/Google-Babel-TechRadar-001.jpg)
 * More details are trickling in on what to expect of Google’s upcoming unified messaging platform called Babel. Google’s internal documentation and code snippets discovered Wednesday indicate the Babel thing will support media transfers during chat sessions and group chatting ability. More importantly, the service will be available as a native app on both Apple’s iOS and Google’s own Android platform.

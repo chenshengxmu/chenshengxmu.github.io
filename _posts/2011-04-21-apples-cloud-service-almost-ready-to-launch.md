@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Cloud Service Almost Ready to Launch
+title: Apples Cloud Service Almost Ready to Launch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/cloudy-apple-e1303418958186.jpg)
 * We’ve heard a lot of talk regarding this cloud thing Apple’s been working on. It’s supposed to allow iTunes customers to store their media on a remote server, and then access it from anywhere they have an internet connection.

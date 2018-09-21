@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Steve Jobs to Adobe- "I Told You So"
+title: Steve Jobs to Adobe- I Told You So
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/steve-jobs-points.jpg)
 * With Adobe’s recent announcement on the discontinuation of its mobile Flash plug-in, we are reminded of an open letter Steve Jobs wrote last year regarding the topic. The letter was in response to Adobe’s public criticism of Apple for omitting the technology from its products.

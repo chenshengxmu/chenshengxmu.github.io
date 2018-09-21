@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HTC Announces It's Completed Patent Workaround
+title: HTC Announces Its Completed Patent Workaround
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/htc-logo.png)
 * Apple received its first big win earlier this week in its ongoing patent war with Android manufacturers. The International Trade Commission ruled in favor of the iPhone-makers in its patent infringement lawsuit against HTC.

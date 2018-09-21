@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 8 adds always-on 'Hey, Siri' feature, Shazam integration
+title: iOS 8 adds always-on Hey, Siri feature, Shazam integration
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/siri-ios-8.png)
 * Adding to the long list of new features in iOS 8 is a handful of Siri improvements. The digital assistant didn’t get a ton of stage time, but iOS/OS X chief Craig Federighi did take a moment to run down some of its new capabilities.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spigen's case renderings suggest iPhone SE may be nearly indistinguishable from iPhone 5s
+title: Spigens case renderings suggest iPhone SE may be nearly indistinguishable from iPhone 5s
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/iPhone-5s-iSight-camera-closeup-002.jpg)
 * Accessory vendor Spigen has created renderings of a work-in-progress case that it designed for Apple’s upcoming ‘iPhone SE’. Spigen often has some of the first cases available for new iOS devices so assuming they know what they’re doing here, it could be concluded that the upcoming iPhone SE might be virtually indistinguishable from the iPhone 5s.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's Talk iOS 011- Seven years of iPhone
+title: Lets Talk iOS 011- Seven years of iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/Lets-Talk-iOS-podcast-cover-no-matrix-effect.png)
 * Episode 011: It’s been seven years since the original iPhone was unveiled; Sebastien, Jeff and Cody relive their memories of that momentous occasion. The trio also discusses the new iPad television ad, T-Mobile’s latest big idea, and the most notable apps of the week.

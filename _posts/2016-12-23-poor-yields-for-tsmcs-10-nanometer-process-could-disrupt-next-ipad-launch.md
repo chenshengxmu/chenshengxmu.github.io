@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Poor yields for TSMC's 10-nanometer process could disrupt next iPad launch
+title: Poor yields for TSMCs 10-nanometer process could disrupt next iPad launch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/08/SurfacePad-for-iPad-Pro-with-Smart-Keyboard-teaser-001.jpeg)
 * Trade publication DigiTimes said Friday that Taiwan Semiconductor Manufacturing Company (TSMC) has received orders to kick off volume production of Apple-designed A10X Fusion chips for the next iPad. However, unsatisfactory yields for TSMC’s 10-nanometer process technology could disrupt planned March 2017 launch of the next iPad series.

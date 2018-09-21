@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LA school security gets an 'F' as teens quickly bypass iPad restrictions
+title: LA school security gets an F as teens quickly bypass iPad restrictions
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/07/ipad-classroom-e1312055976233.jpg)
 * You just had to see this coming. Los Angeles is temporarily pulling the plug on plans to let students take home iPads issued by the school district. In a surprise move, tech-savvy teens cut through district security like a hot knife through butter, allowing them to check out websites, chat on Twitter or stream music, rather than stick to just school work.

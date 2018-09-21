@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The iPad isn't a true desktop alternative for me until it has this feature
+title: The iPad isnt a true desktop alternative for me until it has this feature
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/iPad-MultiLayer-Teaser.jpg)
 * Make no mistake about it, the iPad is a wonderful desktop alternative for some. I know plenty of people who use it as their main computing device, which makes it live up to Apple’s Post-PC billing.

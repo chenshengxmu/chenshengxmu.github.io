@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 6 of Apple’s 12 Days of Gifts- 'New Year's Eve Mix' by Avicii
+title: Day 6 of Apple’s 12 Days of Gifts- New Years Eve Mix by Avicii
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/12-days-1.png)
 * We are now on day 6 of the big 12 Days of Gifts event, meaning the company has removed the Hugo movie and has posted a new free item for download. Today’s gift is the song ‘New Year’s Eve Mix’ by popular Swedish producer Avicii.

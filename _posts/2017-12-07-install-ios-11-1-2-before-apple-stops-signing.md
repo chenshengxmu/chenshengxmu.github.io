@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to downgrade your device to iOS 11.1.2 before Apple's signing window closes
+title: How to downgrade your device to iOS 11.1.2 before Apples signing window closes
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/iTunes-Icon.jpg)
 * If you’ve been keeping up to date on your jailbreak news recently, then you might already know about the new exploit that could potentially open some doors to an iOS 11 jailbreak (or a semi-jailbreak at the least).

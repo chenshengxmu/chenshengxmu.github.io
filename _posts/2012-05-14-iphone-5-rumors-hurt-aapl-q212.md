@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Analysts warn- swirling iPhone 5 rumors will hurt Apple's second-quarter sales
+title: Analysts warn- swirling iPhone 5 rumors will hurt Apples second-quarter sales
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/iPhone-5-Liquidmetal-concept-image-002.jpg)
 * Remember when Apple announced sales of 17.07 million iPhones during the September quarter of last year? The company was dealing with a rare loss at the time for it had failed to meet analysts’ audacious expectations.

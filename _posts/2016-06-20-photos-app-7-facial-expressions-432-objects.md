@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's updated Photos app recognizes 7 facial expressions, 4,432 objects and scenes
+title: Apples updated Photos app recognizes 7 facial expressions, 4,432 objects and scenes
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/wwdc-2016-photos-face-recognition.jpg)
 * During the WWDC keynote a week ago, Apple announced that iOS 10 and macOS Sierra will bring facial recognition features alongside a brand new Memories tab and other improvements in Photos for iOS 10 and macOS Sierra.

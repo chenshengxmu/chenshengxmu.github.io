@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple working to form 'strategic partnerships' with Indian carriers ahead of 4G expansion
+title: Apple working to form strategic partnerships with Indian carriers ahead of 4G expansion
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/Tim-Cook-on-stage.jpg)
 * Shortly after his pre-dawn spiritual experience at the Shree Siddhivinayak Temple at Prabhadevi in Mumbai, Apple CEO Tim Cook met the country’s top wireless carriers in an effort to strike a “strategic partnership” ahead of a wide-scale LTE expansion in the country.

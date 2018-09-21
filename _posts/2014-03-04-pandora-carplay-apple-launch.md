@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's new CarPlay feature will not support Pandora at launch
+title: Apples new CarPlay feature will not support Pandora at launch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/carplay-2.png)
 * When Apple officially announced CarPlay, its highly anticipated vehicle integration project, yesterday, it noted the feature would support third-party music apps. The list it provided, however, was rather short including just iTunes Radio, Beats, Spotify, Stitcher Radio and iHeartRadio.

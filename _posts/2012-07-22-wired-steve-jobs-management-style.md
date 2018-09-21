@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Wired cover- how Steve Jobs' management style affects industry leaders
+title: On Wired cover- how Steve Jobs management style affects industry leaders
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/sjobs1.jpg)
 * Wired in its August issue runs an interesting (albeit premature?) cover story about Apple’s late co-founder titled Am I Steve Jobs which seeks to explore how the mercurial CEO’s unconventional management style has affected and continues to inspire industry executives. The feature mostly draws from the authorized bio book by Walter Isaacson, but is also spiced up with interviews from today’s business and tech leaders…

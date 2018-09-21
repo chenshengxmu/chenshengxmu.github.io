@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's how to use AT&T's online chat to unlock your iPhone
+title: Heres how to use AT&Ts online chat to unlock your iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/iPhone-Unlock-ATT.jpg)
 * So yeah, I was lazy. Unlike Cody, I don’t have the patience to wait on hold, or be placed in a revolving door of automated prompts. It was either head directly to the store, or give AT&T’s technical support chat a try.

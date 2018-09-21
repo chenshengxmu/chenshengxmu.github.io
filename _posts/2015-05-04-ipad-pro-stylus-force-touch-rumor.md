@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 12.9" iPad Pro rumored to feature stylus, NFC, Force Touch input, USB-C connector and more
+title: 12.9 iPad Pro rumored to feature stylus, NFC, Force Touch input, USB-C connector and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/Apple-stylus-concept-Martin-Hajek-009.jpg)
 * Apple’s rumored 12.9-inch iPad Pro is understood to include a number of interesting hardware features, including a Bluetooth stylus accessory, support for Force Touch input and a USB-C connector, AppleInsider has ostensibly learned from a person familiar with Apple’s future product plans.

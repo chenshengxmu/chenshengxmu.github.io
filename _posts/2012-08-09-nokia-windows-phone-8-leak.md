@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nokia's inaugural Windows Phone 8 has some familiar design
+title: Nokias inaugural Windows Phone 8 has some familiar design
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/Nokia-Windows-Phone-8-leak.jpeg)
 * One of the most common complaints I keep hearing about the yet-unreleased next iPhone is a sense of dissapointment over its overly unchanged appearance, even if from the design standpoint the iPhone 5 is much more than a rehash of the existing iPhone 4/4S design.

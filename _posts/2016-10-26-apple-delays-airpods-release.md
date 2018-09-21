@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple says AirPods aren't ready yet, pushes back release date
+title: Apple says AirPods arent ready yet, pushes back release date
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/Apple-AirPods.jpg)
 * Bad news for folks hoping to snag a pair of Apple’s cool new wireless AirPod headphones this month. TechCrunch has received a statement from Apple saying that they aren’t quite ready yet, so don’t expect them to hit their original ‘late October’ rollout date.

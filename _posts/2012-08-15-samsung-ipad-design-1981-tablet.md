@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung says Apple lifted the iPad's design from a 1981 tablet, other prior art claims
+title: Samsung says Apple lifted the iPads design from a 1981 tablet, other prior art claims
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/07/one-finger-on-ipad-display-e1311731613180.jpeg)
 * It’s the third week of the Apple v. Samsung mega-suit and Samsung is on the offensive with some interesting assertions meant to invalidate some of Apple’s key patents. For example, the Galaxy maker, whom Apple accuses of ripping off its iPad and iPhone wholesale, now counterclaims that Apple stole its patents related to things like e-mail, photo albums and playing music in the background.

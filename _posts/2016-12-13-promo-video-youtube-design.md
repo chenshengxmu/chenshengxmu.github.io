@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's 'Designed by Apple in California' promo video now on YouTube
+title: Apples Designed by Apple in California promo video now on YouTube
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/12/ive.png)
 * In November Apple debuted a hardbound photo book chronicling 20 years of product designs. The book is titled “Designed by Apple in California,” and it comes in two sizes: small and large, priced at $199 and $299 respectively.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Waze for iOS picks up 'Planned Drives' feature
+title: Waze for iOS picks up Planned Drives feature
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/Waze-Planned-Drive-teaser-001.png)
 * Waze, a Google-owned community-based traffic and navigation app, today rolled out a new feature called Planned Drives which lets you schedule a drive and get a reminder to leave on time, based on live traffic conditions.

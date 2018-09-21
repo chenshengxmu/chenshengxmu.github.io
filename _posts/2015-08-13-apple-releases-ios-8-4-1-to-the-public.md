@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple releases iOS 8.4.1- here is what's new
+title: Apple releases iOS 8.4.1- here is whats new
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/08/iOS-8.4.1-update.png)
 * Apple just released iOS 8.4.1 to the public. If you’re jailbroken, it’s highly recommended that you stay away from this update. We’ll post an update once we have details of what the iOS 8.4.1 release contains, but rumors have swirled for weeks that it may fix the exploits used for the latest iOS 8.3 and iOS 8.4 jailbreak.

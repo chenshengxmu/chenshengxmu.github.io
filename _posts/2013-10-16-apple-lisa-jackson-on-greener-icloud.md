@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's environment lady discusses greener iCloud and Apple Earth
+title: Apples environment lady discusses greener iCloud and Apple Earth
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/Apple-data-center-Maiden-North-Carolina-exterior-001.jpg)
 * In his efforts to help Apple’s stalling green initiatives hit the ground running, CEO Tim Cook looked for some outside help and in May hired Lisa Jackson. Formerly the Administrator of the Environmental Protection Agency (EPA), Jackson is charged with overseeing iCloud data centers and Apple’s other environmental projects and reports directly to Cook.

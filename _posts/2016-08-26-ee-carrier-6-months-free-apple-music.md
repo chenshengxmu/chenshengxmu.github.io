@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UK's carrier EE to offer free six-month Apple Music subscriptions beginning September 1
+title: UKs carrier EE to offer free six-month Apple Music subscriptions beginning September 1
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/08/EE-Apple-Music-ad-Kevin-Bacon-Britney-Spears.jpg)
 * Not to be outdone by Australia’s Telstra and Germany’s Deutsche Telekom, British telecommunications operator EE (formerly Everything Everywhere) confirmed that it, too, would soon be treating its customers to six free months of music-streaming via Apple Music and Beats 1 Radio.

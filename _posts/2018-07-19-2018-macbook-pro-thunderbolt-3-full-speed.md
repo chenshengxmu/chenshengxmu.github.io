@@ -1,6 +1,6 @@
 ---
 layout: post
-title: All four Thunderbolt 3 ports on 2018's 13-inch MacBook Pro are full speed
+title: All four Thunderbolt 3 ports on 2018s 13-inch MacBook Pro are full speed
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/2018-MacBook-Pro-ports.jpg)
 * Are you in the market for a brand new notebook? If so, you’ll be pleased to learn that the flagship $1,799 13-inch model in Apple’s refreshed MacBook Pro lineup for 2018 permits customers to plug high-speed accessories into any of its four Thunderbolt 3 ports without experiencing bandwidth reduction on the two ports located on the righthand side.

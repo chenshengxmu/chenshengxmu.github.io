@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Decoding Apple's iPad 3 event invitation
+title: Decoding Apples iPad 3 event invitation
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/ipad-3-event-invites.jpg)
 * Apple finally sent out invitations for its iPad 3 media event this morning. The invites included the date, March 7th, the place, San Francisco, and a brief message: “We have something you really have to see. And touch.”

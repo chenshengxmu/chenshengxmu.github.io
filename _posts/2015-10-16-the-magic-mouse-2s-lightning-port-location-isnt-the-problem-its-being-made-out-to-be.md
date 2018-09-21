@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Magic Mouse 2's Lightning port location isn't the problem it's being made out to be
+title: The Magic Mouse 2s Lightning port location isnt the problem its being made out to be
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/10/Magic-Mouse-2.png)
 * As soon as I saw the location of the Lightning port for recharging Apple’s new Magic Mouse 2, I knew that a mini outrage was imminent. It took a while, but I guess everyone’s Magic Mouse 2 finally arrived in the mail. Thus, let the outrage commence!

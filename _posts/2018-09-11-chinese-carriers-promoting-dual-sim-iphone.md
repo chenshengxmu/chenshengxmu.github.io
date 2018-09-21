@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ahead of tomorrow's keynote, Chinese carriers are hyping dual-SIM support for 2018 iPhones
+title: Ahead of tomorrows keynote, Chinese carriers are hyping dual-SIM support for 2018 iPhones
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/09/China-Mobile-dual-sim-iphone-promotion.jpg)
 * Wireless carriers China Telecom and China Unicom have begun promoting a rumored dual-SIM feature for new iPhones ahead of tomorrow’s “Gather round” iPhone Xs event keynote.

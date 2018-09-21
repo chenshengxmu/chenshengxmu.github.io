@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to reorganize your favorite Instagram filters and hide the ones you don't need
+title: How to reorganize your favorite Instagram filters and hide the ones you dont need
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/Instagram-how-to-manage-filters-iPhone-screenshot-001.jpg)
 * With 40+ filters to choose from, Instagram’s gone a long way since its humble beginnings.

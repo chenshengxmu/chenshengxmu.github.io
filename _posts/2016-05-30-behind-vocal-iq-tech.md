@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Apple's advanced self-learning technologies could make Siri a lot smarter
+title: How Apples advanced self-learning technologies could make Siri a lot smarter
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/Siri-can-i-help-you-with.png)
 * The assistant wars are in full swing, with Google Assistant and Viv entering the fray and existing players such as Apple’s Siri, Microsoft’s Cortana, Hound and Google’s Now all stepping up fight for consumers’ hearts and minds.

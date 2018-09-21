@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung could acquire Nuance, the company behind Siri's speech recognition engine
+title: Samsung could acquire Nuance, the company behind Siris speech recognition engine
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/06/Nuance.png)
 * The Wall Street Journal reported on Monday that Nuance Communications has been in talks with Samsung and private-equity firms about a possible sale of the company. The report, which cites sources with knowledge on the matter, claims it is unclear where sales talks currently stand, or whether these talks will actually materialize into a sale…

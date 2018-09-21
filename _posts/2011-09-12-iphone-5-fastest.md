@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 5 Will Likely Take Samsung Galaxy S II's Fastest GPU Trophy
+title: iPhone 5 Will Likely Take Samsung Galaxy S IIs Fastest GPU Trophy
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/anandtech-gl-benchmark.png)
 * In the ever-changing world of Android handsets, there has been one device that has consistently stood out among the crowd — The Samsung Galaxy S II. The phone has been dominating European sales charts for several months, and has recently landed stateside.

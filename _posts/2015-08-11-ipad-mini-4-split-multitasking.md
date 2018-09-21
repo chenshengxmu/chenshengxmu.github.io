@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPad mini 4 expected to support iOS 9's Split View multitasking feature
+title: iPad mini 4 expected to support iOS 9s Split View multitasking feature
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/08/ipad-mini-split-view.jpg)
 * The upcoming iPad mini 4 will likely be powerful enough to support the Split View multitasking feature in iOS 9. 9to5Mac points to a resource file discovered by developer Hamza Sood in OS X El Capitan that depicts an iPad mini with two apps running side-by-side.

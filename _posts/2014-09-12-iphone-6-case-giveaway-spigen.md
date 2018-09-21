@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You don't have an iPhone 6 yet, but you can already win a case for it [winners announced]
+title: You dont have an iPhone 6 yet, but you can already win a case for it [winners announced]
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/spigen-iPhone-6-cases-giveaway.jpg)
 * You were barely able to pre-order  your new iPhone 6 Friday morning, but don’t stop that from entering our iPhone 6 case giveaway, brought to you by the fine folks over at Spigen. Unlike Apple and the carriers, iDB’s servers will most definitely be able to handle the traffic of this special giveaway, so if you have a couple minutes to spare, and want a chance to win a case for your yet-to-be-delivered iPhone 6, you’ve come to the right place.

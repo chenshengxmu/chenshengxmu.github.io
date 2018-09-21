@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sid Meier's Civilization VI for Mac hits Steam, Mac App Store version due soon
+title: Sid Meiers Civilization VI for Mac hits Steam, Mac App Store version due soon
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/10/Civilization-Vi-for-Mac-teaser-002.jpg)
 * Developer Aspyr Media announced yesterday that Sid Meier’s Civilization VI for Mac is now available on Steam, just three days after its PC release. The game will be hitting the Mac App Store at a later stage, Aspyr has confirmed. Civilization VI was created by the same team that made Civilization expansions.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HTC Executive Says Kids Don't Want the iPhone "Because Dad Has One"
+title: HTC Executive Says Kids Dont Want the iPhone Because Dad Has One
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/HTC.png)
 * Why is it that people in the most visible positions in the tech industry sometimes say the dumbest things? First there was Nokia’s U.S. president, Chris Weber, who claimed that Apple’s focus on apps in iOS was “out-dated.”

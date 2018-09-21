@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T unveils 5G roadmap, says it'll be 10-100 times faster than 4G
+title: AT&T unveils 5G roadmap, says itll be 10-100 times faster than 4G
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/08/ATT-Logo-Chicago-store.jpg)
 * AT&T on Friday issued a press release detailing its 5G network roadmap. The carrier says it is partnering with Ericsson and Intel to work on 5G solutions in its labs starting in Q2 of this year, and it hopes to be ready for outdoor tests and trials by early summer.

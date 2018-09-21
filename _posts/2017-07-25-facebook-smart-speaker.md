@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Facebook working on HomePod rival with 15" screen for early 2018 launch
+title: Facebook working on HomePod rival with 15 screen for early 2018 launch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/HomePod-Internal-Hardware.jpg)
 * Facebook is apparently jumping on the smart speaker bandwagon, with a new report Tuesday out of Taiwan claiming that the social networking giant is looking to take on Amazon’s Echo, Google’s Home and Apple’s HomePod smart speakers.

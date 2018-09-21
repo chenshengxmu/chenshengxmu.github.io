@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Photos of alleged 'iPhone 5C' volume buttons hit the web
+title: Photos of alleged iPhone 5C volume buttons hit the web
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/5c-volumebuttons2.jpg)
 * Though we’re fairly confident that Apple will be holding an event on Tuesday, September 10 to unveil a new iPhone, we’re still not exactly sure what it will present. Safe money is on a new iPhone model, the iPhone 5S, but what else?

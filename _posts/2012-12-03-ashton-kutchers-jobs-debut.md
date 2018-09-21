@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ashton Kutcher's jOBS film set to debut at Sundance in January
+title: Ashton Kutchers jOBS film set to debut at Sundance in January
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/kutcher-steve-jobs-wow.png)
 * As most of you know, there are currently two Steve Jobs-based movies in the works. One is an indie film that has been in production for several months now and stars Ashton Kutcher. And the other, a Sony project, is being penned by Aaron Sorkin.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ProCam 2' goes free as Apple's App of the Week
+title: ProCam 2 goes free as Apples App of the Week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/01/procam-2-2.png)
 * Apple has just named Samer Azzam’s ‘‘ProCam 2” its App of the Week for this week. This means that from now through next Thursday, you’ll be able to download the popular photo and video editor for iPhone and iPad for free—a solid savings of $1.99.

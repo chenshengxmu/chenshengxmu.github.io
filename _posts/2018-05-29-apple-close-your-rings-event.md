@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's hosting 'Close Your Rings' WWDC18 event for developers
+title: Apples hosting Close Your Rings WWDC18 event for developers
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/05/close-your-rings-apple.jpg)
 * During next week’s Worldwide Developers Conference (WWDC), Apple’s holding a “Close Your Rings Challenge” for developers while they are in San Jose, California. It’s designed to motivate developers to close the three Apple Watch activity rings each day beginning on Sunday, June 3 through Thursday, June 7.

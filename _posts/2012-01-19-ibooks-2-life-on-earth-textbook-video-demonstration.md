@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iBooks 2 'Life on Earth' Textbook Video Demonstration
+title: iBooks 2 Life on Earth Textbook Video Demonstration
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/iBooks-2-Life-on-Earth-e1326994378729.jpg)
 * We just got the chance to go hands-on with one of the first textbooks to appear in Apple’s textbook section of the iBookstore, and we were very impressed by what we saw.

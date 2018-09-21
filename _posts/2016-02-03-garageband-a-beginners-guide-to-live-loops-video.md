@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GarageBand- a beginner's guide to Live Loops [video]
+title: GarageBand- a beginners guide to Live Loops [video]
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/02/Looped-vs-non-looped.png)
 * In addition to the iPad Pro support brought forth in the GarageBand 2.1 update, the app comes with a new killer feature called Live Loops. Live Loops makes music creation accessible to anyone. Creating songs using Live Loops features a low barrier to entry, but a high ceiling and virtually endless possibilities.

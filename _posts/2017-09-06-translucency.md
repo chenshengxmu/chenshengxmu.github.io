@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Translucency lets your wallpaper bleed slightly through the Cydia app's background
+title: Translucency lets your wallpaper bleed slightly through the Cydia apps background
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/Translucency-Before-and-After.jpg)
 * Cydia typically exhibits a white background, much like most other apps that come bundled with iOS, but a new free jailbreak tweak dubbed Translucency by iOS developer EthanRDoesMC gives the app a makeover.

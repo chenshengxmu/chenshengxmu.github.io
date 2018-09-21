@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Double At- Insert Your Email Adress by Double Tapping the "@" Key
+title: Double At- Insert Your Email Adress by Double Tapping the @ Key
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/Photo-Aug-14-4-14-46-PM-e1313358522657.png)
 * And the onslaught of jailbreak utilities continues, with this new release from iSam. The package will allow you to automatically insert your email address into a text field upon double tapping the “@” key.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Climb 3,000 feet up Yosemite’s El Capitan in Google Maps' first-ever vertical Street View
+title: Climb 3,000 feet up Yosemite’s El Capitan in Google Maps first-ever vertical Street View
 ---
 * Yosemite National Park’s El Capitan isn’t just the world’s most famous rock wall, but the official name of Apple’s latest desktop operating system, too. Coincidentally or not, Google Maps has teamed up with legendary climbers Lynn Hill, Alex Honnold and Tommy Caldwell to capture an awesome panorama tour of El Capitan’s epic 3,000 feet climb.
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/Google-Maps-El-Capitan-climb-image-002.jpg)

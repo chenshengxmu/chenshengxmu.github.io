@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple fighting Samsung adverts on its website, here's Joy of Tech's funny take
+title: Apple fighting Samsung adverts on its website, heres Joy of Techs funny take
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/galaxy-tab-10-1-vs-ipad-2-2-e1313507692994.jpeg)
 * Apple is going to appeal a U.K. court ruling from earlier this week which mandates that Cupertino post a public apology on both its website and in British newspapers, basically free advertisement telling the public that Samsung did not copy the iPad’s design, per the court’s ruling. As this legal mess is being sorted out, Joy of Tech has an excellent take on what this notice could be like, included right below…

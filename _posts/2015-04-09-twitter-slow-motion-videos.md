@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twitter now supports iPhone's slow motion videos
+title: Twitter now supports iPhones slow motion videos
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/04/Twitter-slow-motion-videos.jpg)
 * As of today, it’s now possible to share slow-motion videos using Twitter’s iPhone and iPad app, the micro-blogging service announced in a tweet. The feature has been enabled via a silent backend update so there’s no need to update Twitter’s iOS app.

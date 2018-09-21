@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FTC issues app privacy guidelines, proposes 'Do Not Track' for mobile
+title: FTC issues app privacy guidelines, proposes Do Not Track for mobile
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/Mobile-Privacy-Disclosures-logo.jpg)
 * A patchwork of online privacy measures should be standardized to form a ‘Do Not Track’ list for mobile app users. In guidelines issued Friday, the U.S. Federal Trade Commission says mobile devices such as Apple’s iPhone “facilitate unprecedented amounts of data collection.”

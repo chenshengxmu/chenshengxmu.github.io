@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cydia for Macs to Go Live "Within Weeks"
+title: Cydia for Macs to Go Live Within Weeks
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/12/Mac-Cydia-e1292033603921.png)
 * With the recently announced Mac App store on the horizon — which brings an iOS-esque store to Mac OS X platforms — Cydia creator Jay “Saurik” Freeman plans to strike while the iron is hot.

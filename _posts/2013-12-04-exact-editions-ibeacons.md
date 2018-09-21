@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's iBeacon used to push content to iOS Newsstand publications
+title: Apples iBeacon used to push content to iOS Newsstand publications
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/bar-kick-over.png)
 * As Apple continues work on implementing the iOS 7 iBeacon technology inside its own retail outlets, third-parties are taking notice.

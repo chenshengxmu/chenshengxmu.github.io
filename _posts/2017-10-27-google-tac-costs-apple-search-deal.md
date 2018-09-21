@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's traffic acquisition costs rise, likely due to the Apple search deal
+title: Googles traffic acquisition costs rise, likely due to the Apple search deal
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/iOS-10-Settings-Safari-Search-Engine-iPHone-screenshot-001.png)
 * A long-running deal with Apple that makes Google the default search engine in the mobile and desktop Safari browser is becoming more and more expensive for the search giant.

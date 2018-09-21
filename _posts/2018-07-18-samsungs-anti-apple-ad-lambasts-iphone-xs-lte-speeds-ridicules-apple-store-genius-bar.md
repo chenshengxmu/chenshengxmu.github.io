@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung's anti-Apple ad lambasts iPhone X's LTE speeds, ridicules Apple Store & Genius Bar
+title: Samsungs anti-Apple ad lambasts iPhone Xs LTE speeds, ridicules Apple Store & Genius Bar
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/Samsung-ad-iPhone-X-LTE-speeds.jpg)
 * Samsung’s anti-Apple advertising campaign continues as the company mounts another effort to highlight the difference between iPhone X and Galaxy S9, this time in LTE speeds, while ridiculing the concept of Genius Bar that Apple successfully pioneered with its retail stores.

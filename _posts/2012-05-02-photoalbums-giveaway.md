@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We're giving away 10 copies of PhotoAlbums+
+title: Were giving away 10 copies of PhotoAlbums+
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/photoalbums.jpg)
 * We’ve talked about PhotoAlbums+ a couple of times here on iDB over the past two years. The tweak adds a host of features to the stock Photos app like the ability to create password-protected albums on the fly.

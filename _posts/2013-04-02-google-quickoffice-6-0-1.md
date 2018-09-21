@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's Quickoffice app updated with iPhone support
+title: Googles Quickoffice app updated with iPhone support
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/quickoffice-app.png)
 * Google acquired Quickoffice, a mobile software suite that includes word processor, spreadsheet and presentation apps—all compatible with MS Office, last summer. And in December it released a free Quickoffice iPad app for its Google Apps for Business customers.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Power Menu lets you add powerful actions and customizable workflows to your Mac's Finder
+title: Power Menu lets you add powerful actions and customizable workflows to your Macs Finder
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/04/Pwoer-Menu-for-Finder-002.png)
 * macOS includes a super-handy Automator feature to automate the tasks you do on your Mac. Even though Automator takes advantage of ready-made actions for easy creation of complex workflows without programming, most people are unaware of its existence or what it can do.

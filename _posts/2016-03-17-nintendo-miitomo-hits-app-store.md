@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Miitomo, Nintendo's first smartphone game, soft-launches in the App Store
+title: Miitomo, Nintendos first smartphone game, soft-launches in the App Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/03/Nintendo-Miitomo-for-iOS-iPhone-screenshot.jpg)
 * As promised, Miitomo, Nintendo’s very first smartphone game, on Thursday released on the Japanese App Store ahead of its worldwide debut.

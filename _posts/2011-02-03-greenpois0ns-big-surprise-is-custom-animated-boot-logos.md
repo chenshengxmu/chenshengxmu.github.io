@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GreenPois0n's Big Surprise is Custom Animated Boot Logos
+title: GreenPois0ns Big Surprise is Custom Animated Boot Logos
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/09/GreenPois0n.png)
 * A few days ago we reported about a “big surprise” to come in the next version of GreenPois0n. At the time, we speculated it could be a baseband downgrade that would allow for an easier unlock.

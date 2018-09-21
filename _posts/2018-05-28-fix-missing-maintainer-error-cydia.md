@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to fix the "missing maintainer" error in Cydia
+title: How to fix the missing maintainer error in Cydia
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/05/missing-maintainer-thumb.jpg)
 * This guide will show you how to remove the following pesky error, which can crop up in your Cydia output from time to time:

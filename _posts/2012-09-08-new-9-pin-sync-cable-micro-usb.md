@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Photos show Apple's new dock connector compared to micro USB
+title: Photos show Apples new dock connector compared to micro USB
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/new-dock-connector-micro-usb.jpg)
 * Among the many changes we’re expecting to see in the next-generation iPhone, the new dock connector is one of the most interesting. This will be the first time Apple has changed up the handset’s port since its inception.

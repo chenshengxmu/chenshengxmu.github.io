@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 5c approved for China Mobile, to cost 'significantly more' than expected
+title: iPhone 5c approved for China Mobile, to cost significantly more than expected
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/white-iPhone-5c.jpg)
 * Recall how the iPhone 5c was thought to be Apple’s answer to China’s smartphone market dominated by inexpensive handsets? Turns out, the handset costs “significantly more” than expected and nearly as much as the full-featured iPhone 5s, also unveiled Tuesday. At $733 without a subsidy (in China), the iPhone 5C may not be so cheap after all.

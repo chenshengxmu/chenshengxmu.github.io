@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's your math behind a budget iPhone
+title: Heres your math behind a budget iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/iPhone-5-mini-Martin-uit-Utrecht-001.jpg)
 * After meeting with Apple CFO Peter Oppenheimer recently, Morgan Stanley analyst Katy Huberty issued a report proclaiming so-called budget iPhone a no-brainer. Huberty joins what is now a growing list of analysts calling for such a device so Apple could better target emerging markets where cash-strapped folks mostly buy unlocked sub-$200 handsets – unlike the United States where carriers subsidize smartphones handsomely.

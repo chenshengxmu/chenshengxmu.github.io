@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New report sheds light on Apple's ambitious music plans
+title: New report sheds light on Apples ambitious music plans
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/cook-iovine-grammy-party.jpg)
 * Apple doesn’t just want to compete in the music business, it wants to be the music business, according to a new report from Billboard. Citing sources with knowledge of the matter, the outlet has shed some light on the company’s ambitious plans for the record industry.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's Eric Schmidt has the nerve to shoot down Amazon's drones over privacy worries
+title: Googles Eric Schmidt has the nerve to shoot down Amazons drones over privacy worries
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/Amazon-Prime-Air-promo-video-002.png)
 * Google chairman Erich Schmidt is definitely on a roll these days. He first posted a guide on how to convert from iPhone to Android which draw much ridicule in suggesting that the latest high-end phones from Samsung, Motorola and Google represent “a great Christmas present to an iPhone user” because these devices have “better screens, are faster and have a much more intuitive interface”.

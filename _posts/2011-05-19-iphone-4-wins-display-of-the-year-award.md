@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone 4 Wins "Display of the Year" Award
+title: iPhone 4 Wins Display of the Year Award
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/retina-e1301683901759.jpg)
 * We all love the iPhone 4’s brilliant retina display. When Apple introduced their ground-breaking, 640×960 display during the iPhone 4’s launch event, the rest of the mobile display market was left in the dust. After all, how can you compete with a screen that matches the same pixel density perceivable by the human eye?

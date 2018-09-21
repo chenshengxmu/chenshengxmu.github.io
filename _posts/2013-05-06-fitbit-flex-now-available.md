@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fitbit's new activity-tracking Flex wristband now available for $100
+title: Fitbits new activity-tracking Flex wristband now available for $100
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/Fitbit-Flex.jpg)
 * At CES this year, fitness accessory startup Fitbit announced the final missing piece of its highly-regarded activity-tracking line: a wristband. Dubbed the ‘Flex,’ it offers all of the durability and accuracy of its clip-on products, in a more wearable solution.

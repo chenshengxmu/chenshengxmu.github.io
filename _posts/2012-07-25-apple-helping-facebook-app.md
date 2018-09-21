@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ex-Apple talent helping rebuild Facebook's iPhone app, broader overhaul in 2013
+title: Ex-Apple talent helping rebuild Facebooks iPhone app, broader overhaul in 2013
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/leadFacebookiPad1-e1318277600122.jpeg)
 * A little less than a month ago, The New York Times reported that Facebook was working on a brand new version of its sluggish iOS client, re-writing it completely with speed in mind from the ground up in Objective-C, the preferred programming language for modern iOS applications.

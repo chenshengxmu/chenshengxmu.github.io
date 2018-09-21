@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple along with other tech giants working on a letter opposing Trump's travel ban
+title: Apple along with other tech giants working on a letter opposing Trumps travel ban
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/Donald-Trump-vetting-executive-order-travel-ban.jpg)
 * Apple, Google, Microsoft, Facebook, Uber and other technology giants, along with an unidentified consumer goods and manufacturing company, are working on a letter to formally oppose U.S. President Donald Trump’s travel ban which has barred Syrian refuges and travelers from Iran, Iraq, Libya, Somalia, Sudan, Syria and Yemen from entering the country.

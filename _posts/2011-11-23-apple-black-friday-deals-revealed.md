@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Black Friday Deals Revealed
+title: Apples Black Friday Deals Revealed
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/11/christmas-ipads1.jpg)
 * Yesterday, we started seeing Black Friday banners pop up on Apple.com. The top of the image read “Every gift list has its day,” and was followed by a request for customers to return to Apple’s online store on November 25th for a special one-day shopping event.

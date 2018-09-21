@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't want your free bumper case? Claim your $15 Antennagate settlement now
+title: Dont want your free bumper case? Claim your $15 Antennagate settlement now
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/iPhone-4-introduction-201006-antenna-design.jpg)
 * Remember Antennagate? As you know, a settlement was reached in the class-action lawsuit concerning the signal attenuation issue stemming from the iPhone 4 antenna design. The settlement includes Apple issuing a free iPhone bumper case or $15 to eligible iPhone 4 owners in the United States.

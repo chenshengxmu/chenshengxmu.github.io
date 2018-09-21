@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cydia Substrate has been updated for iOS 9, but many jailbreak tweaks still won't work yet
+title: Cydia Substrate has been updated for iOS 9, but many jailbreak tweaks still wont work yet
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/10/iOS-9-jailbreak-Cydia-Substrate.png)
 * It looks like saurik must have been in the know about the iOS 9 jailbreak, because it comes updated to work with iOS 9 post-jailbreak. As saurik states in the Cydia Substrate change log, version 0.9.6000 brings about significant changes to the package to make it play nice with iOS 9.

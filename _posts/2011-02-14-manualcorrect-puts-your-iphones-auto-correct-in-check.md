@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ManualCorrect Puts Your iPhone's Auto Correct in Check
+title: ManualCorrect Puts Your iPhones Auto Correct in Check
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/02/ManualCorrect-01-e1297661703903.png)
 * I don’t believe there’s one feature on the iPhone that angers me as much as auto correct. It’s always misinterpreting what I’m trying to type, usually with ridiculous results.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beats' Jimmy Iovine in talks to join Apple as 'special adviser' to Tim Cook
+title: Beats Jimmy Iovine in talks to join Apple as special adviser to Tim Cook
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/beats-audio-jimmy.jpg)
 * Following up news this afternoon that Apple is in serious talks to acquire Beats, the New York Post is reporting that co-founder Jimmy Iovine may soon be joining the company. The Post says Iovine would serve as a ‘special adviser,’ and would report to Tim Cook on ‘creative matters.’

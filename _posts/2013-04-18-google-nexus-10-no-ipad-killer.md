@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google's Nexus 10 no threat to iPad sales
+title: Googles Nexus 10 no threat to iPad sales
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/Nexus-10-front-right-angled-Chrome.jpg)
 * Here’s an interesting tidbit we found this morning: Microsoft’s Surface tablets could actually be outselling Google’s latest Nexus 10. We understand every scuffle between Google and Apple is actually a proxy for the battle between Android and iOS, so the statement by blogger Benedict Evans caught our eyes. According to Evans, the Samsung-made Nexus 10 likely sold around 1.01 million of the Google tablets by the end of March.

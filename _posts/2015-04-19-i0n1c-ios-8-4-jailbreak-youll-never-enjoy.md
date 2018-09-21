@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Have a look at the iOS 8.4 jailbreak you'll never enjoy
+title: Have a look at the iOS 8.4 jailbreak youll never enjoy
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/04/Cydia-iOS-8.4.png)
 * Well-known hacker Stefan Esser, also known as i0n1c, has posted a new proof of concept video showing an iOS 8.4 beta 1 jailbreak running on an iPhone 6. In the video, which shows Cydia prominently showcased on the Home screen, he shows off the Apple Watch companion app, and the newly redesigned Music app to prove he’s on iOS 8.4 beta 1.

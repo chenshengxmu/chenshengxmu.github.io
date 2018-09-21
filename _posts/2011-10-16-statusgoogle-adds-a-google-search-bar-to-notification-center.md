@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'StatusGoogle' Adds a Google Search Bar to Notification Center
+title: StatusGoogle Adds a Google Search Bar to Notification Center
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/StatusGoogle.png)
 * Itching for a new way to perform Google searches? Well, sure, you could use Spotlight, but that’s so 2009. iOS 5’s new Notification Center is all the rage these days, and that’s where StatusGoogle resides.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Angered Android fans vent their frustration at Apple in 'Move to iOS' reviews on Play Store
+title: Angered Android fans vent their frustration at Apple in Move to iOS reviews on Play Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/Move-to-iOS-app-teaser-001.jpg)
 * Apple’s new ‘Move to iOS’ app is now available on Android and a lot of fans of Google’s mobile platform have already posted hate-spewing reviews on the Play Store. The app lets people switch over from Android to iOS by wirelessly migrating their data, settings and personal information to an iPhone.

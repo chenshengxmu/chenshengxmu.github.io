@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "It's almost here"- Apple sends out invites for September 12 media event
+title: Its almost here- Apple sends out invites for September 12 media event
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/iPhone-5-render-NowhereElse-002.jpg)
 * Apple just issued invites for its long-anticipated media event related to the next iPhone and scheduled to take place on next Wednesday, September 12, at the Yerba Buena Center for the Arts at 10:00 am.

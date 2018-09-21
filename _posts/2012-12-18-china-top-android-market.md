@@ -1,6 +1,6 @@
 ---
 layout: post
-title: China is now the world's largest Android smartphone market
+title: China is now the worlds largest Android smartphone market
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/China-flag-map.jpg)
 * Just how important is China to the top two smartphone platforms: Google’s Android and Apple’s iOS? The Asian nation is now the largest single market for Android, with the United States a distant second. What’s more, half of the smartphones sold in America next year could be Android-powered unless Apple “makes radical changes to its aging iOS”, one research firm warns Tuesday.

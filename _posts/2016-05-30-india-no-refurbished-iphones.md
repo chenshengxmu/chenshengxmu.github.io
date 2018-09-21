@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Indian government formally rejects Apple's plan to sell used iPhones
+title: Indian government formally rejects Apples plan to sell used iPhones
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/Tim-Cook-in-India.png)
 * The government of India has said ‘no’ to Apple’s request to import used iPhones into the country, LiveMint reported today. The move comes hot on the heels of the finance ministry’s decision to rejecte a recommendation from the commerce ministry to waive the 30 percent local sourcing norm for Apple to sell refurbished iPhones in its own branded stores in India.

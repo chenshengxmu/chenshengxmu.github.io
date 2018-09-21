@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's free app of the week- klocki
+title: Apples free app of the week- klocki
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/05/klocki.png)
 * Apple on Thursday updated its App of the Week promotion with the game klocki. For the next 7 days, you can pick up the popular puzzler for free on both iPhone and iPad—saving you a buck.

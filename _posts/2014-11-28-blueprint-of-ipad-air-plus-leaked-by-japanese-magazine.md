@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blueprint of "iPad Air Plus" leaked by Japanese magazine
+title: Blueprint of iPad Air Plus leaked by Japanese magazine
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/11/iPad-Air-Plus-blueprints.jpg)
 * Japanese magazine Mac Fan has leaked what appears to be the blueprint of what is referred to as the 12.2 inch iPad Air Plus, reports Macotakara. According to the January 2015 edition of the magazine, iPad Air Plus, as it is referred to, will be 305.31 mm x 220.8 mm x 7 mm and will be powered by the A9 processor. The device which has now long been rumored could be scheduled to ship between April and June 2015.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'F.lux' Helps Prevent Eyestrain When Using Your iPhone at Night
+title: F.lux Helps Prevent Eyestrain When Using Your iPhone at Night
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/f.lux_.jpg)
 * It’s been a long time coming, but one of my favorite OS X utilities has made its way to iOS. Indeed, f.lux just appeared on the iPhone, but not via the conventional App Store method.

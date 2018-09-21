@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ballmer qualifies Surface sales as 'modest', but there's a huge opportunity
+title: Ballmer qualifies Surface sales as modest, but theres a huge opportunity
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/Surface-table-left-angled-red-cover.jpg)
 * For all the talk about the Surface – and we’ve said some nice things about it – Microsoft’s foray into big league tablet computing has been marred with teething problems and lackluster sales. Arriving in a crowded tablet market on October 26, the Surface was praised for its industrial design and build quality as it was panned for its resource-hungry and buggy OS and insufficient third-party software.

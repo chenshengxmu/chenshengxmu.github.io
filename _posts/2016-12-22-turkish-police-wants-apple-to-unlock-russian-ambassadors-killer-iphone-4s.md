@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Turkish police wants Apple to unlock Russian ambassador killer's iPhone 4s
+title: Turkish police wants Apple to unlock Russian ambassador killers iPhone 4s
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/12/Mevlut-Mert-Altıntasan.jpg)
 * Andrei Karlov, the ambassador to Turkey, was killed while giving a speech at an art gallery in Ankara three days ago by 22-year-old off-duty police officer Mevlut Mert Altintas. According to MacReports, Turkish police approached Apple about unlocking an iPhone 4s that was recovered from the shooter.

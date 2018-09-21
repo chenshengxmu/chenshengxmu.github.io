@@ -1,6 +1,6 @@
 ---
 layout: post
-title: European carriers not impressed with the iPad's 4G branding
+title: European carriers not impressed with the iPads 4G branding
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/ipad-4g.jpeg)
 * Apple may be an American company, but at times it forgets that it also deals in markets that are outside the United States. Australia, the whole of Europe and plenty of other countries and continents are represented in Apple’s list of release territories for new devices, and the new iPad was no different.

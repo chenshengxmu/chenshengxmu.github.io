@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The iPhone 5's new design could spell trouble for custom back panels
+title: The iPhone 5s new design could spell trouble for custom back panels
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iPhone-5-introduction-video-white-perspective-001.jpg)
 * The iPhone 5, though some will argue that it looks similar, is a major departure from its predecessor. It has a larger screen, upgraded internals, and a new unibody design.

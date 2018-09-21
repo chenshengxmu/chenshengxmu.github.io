@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing Assistant, Google's conversational AI helper
+title: Introducing Assistant, Googles conversational AI helper
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/10/Google-app-icon-small.png)
 * In addition to announcing a pair of new iPhone apps for messaging and video calling and a preview of its Amazon Echo-killer, the Google I/O 2016 keynote saw some pretty exciting news regarding the search giant’s all-new two-way conversational assistant, coming soon to all your devices.

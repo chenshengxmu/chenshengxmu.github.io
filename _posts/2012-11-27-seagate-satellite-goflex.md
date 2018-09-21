@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Seagate's GoFlex Satellite touts 500GB of mobile wireless storage [review and giveaway]
+title: Seagates GoFlex Satellite touts 500GB of mobile wireless storage [review and giveaway]
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/Satellite-WiFi.jpg)
 * Moving toward a more connected world, we need our digital stuff more frequently and certainly when we are on the go. Whether you are a jet setter that hops around the world or a family man that needs to share the family pictures with dear old mom, size and portability matter greatly. Combine that digital need with the post-PC era, where the jet setter sized down to an iPad for space, convenience, and weight, and dear old mom just cannot figure out how to use a computer. Shake that up and you get a USB-less conundrum and, oh yeah, optical drives are out now too – check out Christian’s article to approve it.

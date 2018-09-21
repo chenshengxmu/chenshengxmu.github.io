@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Eddy Cue cashes in $9 million in company shares
+title: Apples Eddy Cue cashes in $9 million in company shares
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/eddy-cue.jpg)
 * Following in the footsteps of Bob Mansfield and other executives, Apple’s SVP of Internet Software and Services, and new head of Maps, Eddy Cue sold 15,000 shares of company stock last week. The selloff, which netted Cue nearly $9 million, was detailed in a filing published by the US Securities and Exchange Commission yesterday…

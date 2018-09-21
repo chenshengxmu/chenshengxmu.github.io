@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to add a round dock to the iPhone's Home screen
+title: How to add a round dock to the iPhones Home screen
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/RoundDock-Featured.png)
 * Interested in rounding off the look of your iPhone’s dock? If so, there’s a new jailbreak tweak that you should check out, which is aptly entitled RoundDock. RoundDock is a brand new jailbreak tweak available on the BigBoss repo that will round the corners of your Home screen dock at the bottom of the SpringBoard.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 9 is now powering two-thirds of Apple's mobile devices in the wild
+title: iOS 9 is now powering two-thirds of Apples mobile devices in the wild
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/iOS-9-teaser-iPhone-iPad-imagae-002.jpg)
 * Apple’s iOS 9 mobile operating system is now installed on two out of each three iPhone, iPod touch and iPad devices in the wild just a little over a month and a half following its September 16, 2015 release.

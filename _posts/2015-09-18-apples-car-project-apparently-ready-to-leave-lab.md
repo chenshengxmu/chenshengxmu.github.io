@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's car project apparently 'ready to leave lab'
+title: Apples car project apparently ready to leave lab
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/Apple-Car-rendering-001.jpg)
 * The Guardian is reporting today that Apple’s rumored electric (driverless?) car developed under the code-name Project Titan is “ready to leave the lab.” As the project now has an official Engineering Program Manager, Apple is reportedly moving to “coordinate the work of teams of hardware and software engineers.”

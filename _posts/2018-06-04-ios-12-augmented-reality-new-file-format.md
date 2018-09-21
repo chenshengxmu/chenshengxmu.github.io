@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 12's ARKit 2.0- face tracking, object detection, USDZ format, Measure app & more
+title: iOS 12s ARKit 2.0- face tracking, object detection, USDZ format, Measure app & more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/iOS-11.3-ARkit.jpg)
 * Apple kicked off its its annual developer conference with a keynote presentation during which CEO Tim Cook and other high-profile executives announced that augmented reality (AR) experiences in iOS 12 will benefit from a new file format and many other enhancements.

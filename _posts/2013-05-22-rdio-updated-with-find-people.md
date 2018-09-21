@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rdio 2.2 is out with new 'Find People' feature, improved UI and more
+title: Rdio 2.2 is out with new Find People feature, improved UI and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/05/rdio-update.png)
 * Hot on the heels of this morning’s update from Pandora comes a new version of the Rdio app for iOS. The update brings the music client to version 2.2, and includes a number of new features and improvements.

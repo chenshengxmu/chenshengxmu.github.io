@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iCloud Photo Sharing- one of Apple's best kept secrets
+title: iCloud Photo Sharing- one of Apples best kept secrets
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/iCloud-Photo-Sharing.png)
 * If you’re a frequent reader then you may remember my thoughts on Apple’s iCloud Photo Library beta and my lack of faith in Apple and its ability to keep my photos safe. Nobody wants to lose photographs of their kids or loved ones because Apple’s cloud solution had a meltdown one day.

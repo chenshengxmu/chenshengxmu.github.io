@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to disable 'Shake to Undo'
+title: How to disable Shake to Undo
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/01/Shaek-to-Undo-iPhone-screenshot-003.jpeg)
 * “Shake to Undo”, a motion-sensing feature that lets you undo and redo typing and other actions on your iPhone, iPod touch and iPad, used to be very popular back when iOS gained copy and paste commands. It was, in many ways, the iPhone equivalent to the Command (⌘) – Z keystroke on Mac.

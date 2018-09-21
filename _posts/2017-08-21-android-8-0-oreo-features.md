@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google makes Android 8.0 Oreo official, here's everything new
+title: Google makes Android 8.0 Oreo official, heres everything new
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/08/Android-Oreo-teaser-002.jpg)
 * Released as a developer-only preview at Google’s annual conference back in March, the latest version of the Android operating system for smartphones, tablets and watches—officially called Android 8.0 Oreo—is now available through the Android Open Source Project.

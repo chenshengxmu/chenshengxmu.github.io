@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's longtime PR chief Katie Cotton retires
+title: Apples longtime PR chief Katie Cotton retires
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/Katie-Cotton-headshot-001.jpg)
 * As Apple announced earlier this month, its vice president of worldwide corporate communications Katie Cotton has left the company. According to a report from Recode, today was the last day of her 18-year tenure in Cupertino.

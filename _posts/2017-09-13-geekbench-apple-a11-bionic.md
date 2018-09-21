@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Geekbench- A11 Bionic smokes past Android rivals, beats iPad Pro, on par with 13" MBP
+title: Geekbench- A11 Bionic smokes past Android rivals, beats iPad Pro, on par with 13 MBP
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/Geekbench-A11-Bionic-image-001.png)
 * Almost a year has passed following iPhone 7’s debut and the Apple-designed A10 Fusion system-on-a-chip powering it has only recently been marginally outperformed by a few rival devices. However, Apple is already out with a game-changing A11 Bionic chip in the new iPhone X, iPhone 8 and iPhone 8 Plus, now ranked as by far the fastest mobile chip out there.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why the iPhone doesn't have audible turn-by-turn directions
+title: Why the iPhone doesnt have audible turn-by-turn directions
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/iOS-6-Maps-teaser.jpg)
 * Thanks to my years in wireless sales, I can honestly say I’ve tried out more than my fair share of smartphones. The carrier I worked for made us try a new handset every 90 days to ensure that we were all well-versed in our craft.

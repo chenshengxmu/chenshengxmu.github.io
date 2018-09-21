@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to create "blank" icons on the Home screen without jailbreaking
+title: How to create blank icons on the Home screen without jailbreaking
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/Blank-App-Icons.jpg)
 * The fact that we’ve been unable to jailbreak the iPhone 5 thus far means that it’s difficult to customize the iPhone like we want to, but that doesn’t mean that it’s totally impossible.

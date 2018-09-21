@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This tweak adds more bounce to your iPhone' Reachability interface
+title: This tweak adds more bounce to your iPhone Reachability interface
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/BounceReachability.jpg)
 * Reachability is a convenient way to make one-handed usage easier on Apple’s larger handsets; regrettably, the interface lacks any exciting characteristics.

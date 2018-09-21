@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Add a standalone calendar widget to Notification Center with 'CalendarX'
+title: Add a standalone calendar widget to Notification Center with CalendarX
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/CalendarX-Featured.png)
 * CalendarX is a recently released jailbreak tweak that serves as a widget for Notification Center. It’s a very interesting tweak that can be enabled by using the standard Notifications panel in the stock Settings app. The thing that makes CalendarX so unique is that it is a standalone self contained calendar app that doesn’t rely on any outside functionality. In fact, none of the calendars or events that you setup within CalendarX will be displayed in the stock Calendar app or vice versa. Again, think standalone here. Depending on your outlook, that could be perceived as either a positive or a negative. Have a look past the break as I go more in-depth with CalendarX on video.

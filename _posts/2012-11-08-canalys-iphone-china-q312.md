@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The iPhone drops out of China's top 5 list
+title: The iPhone drops out of Chinas top 5 list
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/iPhone-4-China.jpg)
 * More than ever before, Apple’s iPhone faces relentless competition, namely in markets where Android cheapos are all the rage. China, home to 1.33 billion people, is Apple’s fastest-growing market, amounting to an ever-growing portion of its fortunes. But Apple’s China problem is two-fold. First, the company’s retail presence in such hugely important market leaves a lot to be desired, even with new flagship stores such as the recently introduced massive Beijing outlet. And second, China’s buyers have always been price-sensitive. Outside the elite, folks are picking up inexpensive phones in droves, with local Chinese vendors happily providing low-cost handsets…

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple 'surprised' by GT Advanced bankruptcy filing, company spokesperson says
+title: Apple surprised by GT Advanced bankruptcy filing, company spokesperson says
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/GT-Advanced-teaser-001.png)
 * In its first public comment Wednesday following a totally unepxected bankruptcy filing of its supplier GT Advanced Technology earlier this week, Apple now says it was taken aback by such turn of events while confirming its priority going forward will be preserving jobs at the Mesa, Arizona plant that GT had agreed to run on Apple’s behalf.

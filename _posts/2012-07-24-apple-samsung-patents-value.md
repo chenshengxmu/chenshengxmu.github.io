@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's generous offer to Samsung- half a cent per device
+title: Apples generous offer to Samsung- half a cent per device
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/apple-vs-samsung.jpeg)
 * We told you yesterday that court-mediated talks between Apple CEO Tim Cook and his Samsung counterparts fell apart as the two frenemies are scheduled to duke it out in a high-profile U.S. lawsuit next Monday, July 30 that could easily have serious ramifications for both firms.

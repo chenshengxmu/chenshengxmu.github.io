@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple again named 'World's most valuable brand' by Forbes
+title: Apple again named Worlds most valuable brand by Forbes
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/iOS-7-teaser-iPhone-5s-ad-009.jpg)
 * Despite all of the ‘doomed’ talk, and its share price being down nearly $200 from a year ago, Apple is still the world’s most valuable brand. In fact, according to Forbes Magazine, its brand is worth nearly twice that of its closest competitor.

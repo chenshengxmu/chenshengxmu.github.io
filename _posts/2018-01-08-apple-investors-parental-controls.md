@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Investors ask Apple to dramatically improve iOS's parental control features
+title: Investors ask Apple to dramatically improve iOSs parental control features
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/parent_icon.png)
 * Two major investors on Monday issued an open letter to Apple, titled “Think Differently About Kids,” to urge the Cupertino company to do more to protect children from smartphone addiction and potentially improve the parental control features on iPhone and iPads.

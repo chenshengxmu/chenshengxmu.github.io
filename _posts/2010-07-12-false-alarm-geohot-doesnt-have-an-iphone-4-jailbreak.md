@@ -1,6 +1,6 @@
 ---
 layout: post
-title: False Alarm- GeoHot Doesn't Have An iPhone 4 Jailbreak
+title: False Alarm- GeoHot Doesnt Have An iPhone 4 Jailbreak
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/07/geohot-pausing-for-the-cameras.jpg)
 * A few days ago we talked about GeoHot and the amazing fact that he seemed to have a jailbreak for iPhone 4. It turns out the picture he gave us was actually a fake. Bummer!

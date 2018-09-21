@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to save storage space by deleting Safari's Offline Reading List cache
+title: How to save storage space by deleting Safaris Offline Reading List cache
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/Safari-Reading-List-teaser-001-e1404318988332.png)
 * Whenever a new iPhone, iPod touch or iPad comes along, I always go for maximum storage.

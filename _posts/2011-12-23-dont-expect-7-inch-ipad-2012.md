@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't Expect a 7-inch iPad in 2012
+title: Dont Expect a 7-inch iPad in 2012
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/ipad-2-under-iphone-4-e1324657444599.jpeg)
 * With the success of Amazon’s Kindle Fire, 7-inch tablets have become all the rage these days. Rumors and analysts have suggested over the last few months that Apple is looking to introduce its own 7-inch iPad in 2012 to compete with the new tablets on the market.

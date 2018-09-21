@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Japan sets "Lucky Bag" New Year promotion for January 2nd
+title: Apple Japan sets Lucky Bag New Year promotion for January 2nd
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/luck-bag-2.jpg)
 * The Japan arm of Apple announced on Friday that it’s once again bringing back its “Lucky Bags” promotion on January 2nd, 2015. A “Lucky Bag” is a Japanese New Year tradition, and also known as a Fukubukuro.

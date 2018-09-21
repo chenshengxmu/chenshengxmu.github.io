@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hands on with what's new in watchOS 3.2
+title: Hands on with whats new in watchOS 3.2
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/01/watchOS-3.2-Theater-Mode-teaser-001.jpg)
 * Two days ago, Apple released watchOS 3.2 for all Apple Watch models with two newsworthy improvements: Siri in apps and a new Theater Mode toggle in Control Center. With watchOS 3.2, Apple’s SiriKit framework that debuted alongside iOS 10 is now available to watchOS developers.

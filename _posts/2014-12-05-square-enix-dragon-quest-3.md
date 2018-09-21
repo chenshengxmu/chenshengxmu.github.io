@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Square Enix's Dragon Quest III launches worldwide
+title: Square Enixs Dragon Quest III launches worldwide
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/dq-3-1.jpeg)
 * Fans of the classic RPG ‘Dragon Quest III’ will be happy to hear that Square Enix has delivered on its promise to launch an English version of the game. After spending a few months in Japan, the title is now available in the US App Store.

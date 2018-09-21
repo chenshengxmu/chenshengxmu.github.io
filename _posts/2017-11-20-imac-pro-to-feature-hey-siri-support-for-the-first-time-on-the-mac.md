@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iMac Pro to feature 'Hey, Siri' support for the first time on the Mac
+title: iMac Pro to feature Hey, Siri support for the first time on the Mac
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/06/SiriKit-icon-small.png)
 * It appears that iOS developer Guilherme Rambo has been able to confirm the upcoming always on “Hey, Siri” feature on the new iMac pro. He was able to dig into the BridgeOS 2.0 package from Apple and find the setup process that will guide users through the initial voice enrollment process.

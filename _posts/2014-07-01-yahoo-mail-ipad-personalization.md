@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yahoo's Mail for iPad picks up mail filters and personalized web features
+title: Yahoos Mail for iPad picks up mail filters and personalized web features
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/Yahoo-Mail-3.1-for-iOS-iPad-screenshot-001.png)
 * Yahoo’s Mail for iPad debuted in April of 2013 and has since been gradually picking up new features like multiple personal and Business Mail accounts, folder management, message swiping, support for Apple’s VoiceOver feature and much more.

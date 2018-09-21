@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ITC judge says Apple's devices don't infringe on Samsung's patents
+title: ITC judge says Apples devices dont infringe on Samsungs patents
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/courtroom-gavel.jpg)
 * US ITC Judge James Gildea has ruled today that Apple’s products did not violate Samsung’s patents. This is the second US victory for Apple over Samsung in the last month.

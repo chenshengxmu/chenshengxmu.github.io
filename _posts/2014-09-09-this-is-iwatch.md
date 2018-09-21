@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This is the Apple Watch, Apple's first foray into wearables
+title: This is the Apple Watch, Apples first foray into wearables
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/Apple-Watch1.png)
 * In addition to the new iPhones, Apple’s finally taken the wraps off its highly-anticipated wearable device during the invite-only press event held Tuesday morning at the Flint Center for the Performing Arts in its hometown of Cupertino, California.

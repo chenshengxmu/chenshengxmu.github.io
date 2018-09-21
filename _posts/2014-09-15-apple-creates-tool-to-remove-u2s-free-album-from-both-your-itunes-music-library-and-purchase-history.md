@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple creates tool to remove U2's free album from both your iTunes music library and purchase history
+title: Apple creates tool to remove U2s free album from both your iTunes music library and purchase history
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/u2.png)
 * After taking some heat over its decision to force the free U2 album, “Songs of Innocence”, onto users’ devices last Tuesday, Apple today published a support document and released a tool which removes the album from users’ iTunes music library, as well as from their iCloud purchase history.

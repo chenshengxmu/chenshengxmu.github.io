@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iH8sn0w and winocm release "drama free" untethered jailbreak for iOS 6.1.3-6.1.5
+title: iH8sn0w and winocm release drama free untethered jailbreak for iOS 6.1.3-6.1.5
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/iOS-6-Jailbreak.jpg)
 * If you have an older device running older firmware, you may have felt left out of yesterday’s iOS 7 jailbreak festivities. But, worry not, because there is a release that just dropped in Cydia that allows you to enjoy an untethered jailbreak on your iPhone 4, iPod touch 4th generation, and iPhone 3GS if you’re running iOS 6.1.3 through 6.1.5.

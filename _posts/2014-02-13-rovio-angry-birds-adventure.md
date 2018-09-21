@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rovio teases new Angry Birds 'adventure' game
+title: Rovio teases new Angry Birds adventure game
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/angrybirds.png)
 * Rovio has started teasing a new Angry Birds game, tweeting the above image out from its official Twitter account yesterday. Along with the photo, the game-maker says that a “big adventure with new birds” is coming soon and added the hashtag #NewAngryBirds.

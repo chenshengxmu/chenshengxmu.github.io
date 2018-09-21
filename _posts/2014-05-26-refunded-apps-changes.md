@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple now makes it clear you're not allowed to update or redownload refunded apps
+title: Apple now makes it clear youre not allowed to update or redownload refunded apps
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/Bn8PVnaIMAA67-Y.png-large.png)
 * If you’ve ever asked for a refund on a Mac, iPhone, iPod touch or iPad app you purchased in the Mac App Store or the App Store, Apple somewhat unexpectedly did allow you to update your existing installations – even reinstall previously refunded apps.

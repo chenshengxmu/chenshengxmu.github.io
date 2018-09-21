@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's how to add a WWDC 2016 countdown widget to your Mac
+title: Heres how to add a WWDC 2016 countdown widget to your Mac
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/04/Screen-Shot-2016-04-20-at-5.56.07-PM.png)
 * If you’re waiting patiently for WWDC 2016 to see what Apple has in store for iOS and OS X this year, then you’ve probably marked your calendars, or you may even be attending the event in person.

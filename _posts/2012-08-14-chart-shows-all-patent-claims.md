@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chart shows all of Apple's patent claims against Samsung
+title: Chart shows all of Apples patent claims against Samsung
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/conan-skit-ss.png)
 * On the surface, Apple’s beef with Samsung is fairly easy to understand. Apple feels that Samsung has intentionally copied the design of its smartphones and tablets, and it wants justice (along with compensation).

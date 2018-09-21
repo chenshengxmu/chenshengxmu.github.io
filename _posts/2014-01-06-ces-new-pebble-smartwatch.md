@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CES 2014- Pebble announces next-generation 'Pebble Steel' smartwatch
+title: CES 2014- Pebble announces next-generation Pebble Steel smartwatch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/pebblepricing.jpg)
 * For weeks, Pebble has been hinting that it had a big announcement coming up at CES, and today it finally let the cat out of the bag. The smartwatch-maker unveiled its next generation wearable, the Pebble Steel, with an all-new band and face design.

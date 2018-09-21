@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review- Twelve South's PencilSnap keeps your Apple Pencil safe and secure
+title: Review- Twelve Souths PencilSnap keeps your Apple Pencil safe and secure
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/01/Apple-Pencil-PencilSnap-Smart-Cover.jpg)
 * Every once in a while I find these accessories that seemingly should have existed for a while. PencilSnap is just that. A simple sheath for your Apple Pencil that magnetically affixes it to the front of your Smart Cover, SmartKeyboard, or SurfacePad.

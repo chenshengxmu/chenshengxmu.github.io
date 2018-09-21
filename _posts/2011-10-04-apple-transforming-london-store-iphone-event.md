@@ -1,6 +1,6 @@
 ---
 layout: post
-title: London's Covent Garden Apple Store Gets Transformed for Today's iPhone Event
+title: Londons Covent Garden Apple Store Gets Transformed for Todays iPhone Event
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/tumblr_lsjj8d3ATd1qzvh8oo8_r1_1280-e1317735323627.jpeg)
 * The world’s biggest Apple store in London has been transformed into a live streaming hall for the UK press to watch Apple’s iPhone event today. Apple announced yesterday that it will not be streaming its event for the public, but a private video feed of today’s event will be streamed to press members across the pond that are gathered in the Covent Garden retail store.

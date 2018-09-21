@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Get Your James Bond on With 'Stealth Cam' For the iPhone
+title: Get Your James Bond on With Stealth Cam For the iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/01/Stealth-Cam.png)
 * Have you ever wanted to shoot video or take pictures with your iPhone, while the screen appeared to be off? Me neither, but if you have, then Stealth Cam is the jailbreak tweak for you.

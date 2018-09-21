@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's CarPlay is powered by BlackBerry's QNX
+title: Apples CarPlay is powered by BlackBerrys QNX
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/Mercedes-Benz-CarPlay-002.jpg)
 * Monday, at the Geneva Motor Show, Apple’s in-car system previously known under the ‘iOS in the Car’ moniker got formally announced and rebranded as CarPlay. Launch partners Volvo, Ferrari, and Mercedez-Benz backed the feature as dozens of vendors pledged to support CarPlay in their upcoming vehicles later this year.

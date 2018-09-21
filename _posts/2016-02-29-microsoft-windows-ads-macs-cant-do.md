@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Microsoft ads for Windows 10 focus on things Macs can't do
+title: New Microsoft ads for Windows 10 focus on things Macs cant do
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/02/Windows-10-ads-Macs-cant-do-that-image-001.jpg)
 * Microsoft this weekend published four new commercials for its Windows 10 operating system that showcase things “Macs can’t do”. The ads feature Kristie and Jess, AKA The Bug Chicks, the two women who are apparently trying to change the way kids think about bugs.

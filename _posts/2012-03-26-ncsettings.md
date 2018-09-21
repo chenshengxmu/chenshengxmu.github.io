@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'NCSettings' adds SBSettings inspired toggles to Notification Center
+title: NCSettings adds SBSettings inspired toggles to Notification Center
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/NCSettings.jpeg)
 * NCSettings is a free jailbreak tweak that adds an SBSettings inspired set of toggles to iOS 5’s Notification Center.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple introduces new mobile payment service "Apple Pay"
+title: Apple introduces new mobile payment service Apple Pay
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/Apple-Pay-benefits-2.png)
 * It turns out the rumors were true, Apple has been putting together a new mobile payment service, and it introduced it on stage today as “Apple Pay.” The service involves adding your credit cards to Passbook, and waiving your iPhone in front of what looks like an NFC reader to pay for goods and services in-store.

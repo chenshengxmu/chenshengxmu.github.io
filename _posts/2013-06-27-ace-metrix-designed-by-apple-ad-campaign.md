@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Designed by Apple' ads fail to impress viewers
+title: Designed by Apple ads fail to impress viewers
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/Apple-ad-Designed-by-Apple-in-California-001.jpg)
 * Apple’s new mission-statement ad campaign is epitomized in a television commercial which highlights Apple’s California roots and celebrates the firm’s famous ‘Designed by Apple in California’ tagline etched on the back of its products. It’s unfortunately not testing very well with viewers.

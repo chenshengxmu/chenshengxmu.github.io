@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google announces new 'Photos' cloud service with free unlimited storage
+title: Google announces new Photos cloud service with free unlimited storage
 ---
 ![img]()
 * Google hosted its annual developer conference this morning where it talked about Android M, Android Pay and other initiatives. It also announced a new cloud-based storage service for your photos and videos called Google Photos, and it’s available on iOS today.

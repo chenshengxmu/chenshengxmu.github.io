@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First reviews of Kutcher's 'jOBS' film hit the web
+title: First reviews of Kutchers jOBS film hit the web
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/kutcher-steve-jobs-wow.png)
 * Ashton Kutcher’s long-awaited jOBS, a biopic on the late Steve Jobs, debuted for the first time ever last night at the Sundance Film Festival in Park City, Utah. And as you can imagine, the screening was chock-full of critics and tech bloggers.

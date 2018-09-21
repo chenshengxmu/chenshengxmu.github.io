@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Activator' Update For iOS 5 Brings Native Twitter And Notification Center Actions
+title: Activator Update For iOS 5 Brings Native Twitter And Notification Center Actions
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/Activator-iOS-5-e1318369659435.png)
 * No less than a few minutes after I posted about TwitterTask, iDB viewers and readers were on it like white on rice.

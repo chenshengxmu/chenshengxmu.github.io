@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple wins injunction on U.S. sales of Samsung's Galaxy Tab
+title: Apple wins injunction on U.S. sales of Samsungs Galaxy Tab
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/samsung-galaxy-tab.jpg)
 * Apple’s legal team sure has been busy this week. First there was the Motorola patent case. Then there was the letter to the ITC regarding an old HTC case. And now this.

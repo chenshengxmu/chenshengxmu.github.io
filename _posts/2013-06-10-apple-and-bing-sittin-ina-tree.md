@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple makes Bing Siri's default search engine
+title: Apple makes Bing Siris default search engine
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/Siri-iOS-7-1.png)
 * “The enemy of my enemy, is my friend.” That proverb seems fitting for the new Bing partnership Apple announced today, which sees Microsoft’s lackluster search engine tapped as the default search engine for the snarky digital assistant Siri.

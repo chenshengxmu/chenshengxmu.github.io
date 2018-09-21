@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to create Siri Shortcuts and make your life easier
+title: A quick look at Siri Shortcuts
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/06/siri-shortcuts-1.jpg)
 * In iOS 12, Apple introduces Siri Shortcuts, which lets you pair your daily routines with third-party apps. Better still, Siri learns your habits and make suggestions based on that knowledge.

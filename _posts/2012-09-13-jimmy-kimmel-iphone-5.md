@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The iPhone 5- It's all in your head
+title: The iPhone 5- Its all in your head
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/Jimmy-Kimmel-Guy-cheecking-out-iPhone-4.jpg)
 * “How will people know that I upgrade?”, asked rhetorically a guy standing in the line for a new iPhone in Samsung’s anti-Apple ad from last November. Breathing new life into the “iPhone is boring” meme, ABC’s Jimmy Kimmel sent the camera out on the street to ask people to check out the new iPhone 5 whereas in reality they were looking at the current iPhone 4S. Apparently, a lot of people are willing to believe that an iPhone 4S is the iPhone 5…

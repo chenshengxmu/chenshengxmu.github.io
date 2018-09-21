@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's free app of the week- Zip-Zap
+title: Apples free app of the week- Zip-Zap
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/05/zip.png)
 * Apple on Thursday updated its App of the Week promotion with the game Zip-Zap. For the next 7 days, you can download the popular title for free on both iPhone and iPad—a solid savings of $2.

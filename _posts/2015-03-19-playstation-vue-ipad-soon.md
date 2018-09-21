@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sony's new PlayStation Vue streaming TV service coming to iPad soon
+title: Sonys new PlayStation Vue streaming TV service coming to iPad soon
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/Sony-PlayStation-Vue-screeenshot-002.jpg)
 * Yesterday, Sony launched its long-anticipated streaming television service called PlayStation Vue in select markets like Chicago, New York City and Philadelphia. The online video subscription service doesn’t require a cable or satellite subscription.

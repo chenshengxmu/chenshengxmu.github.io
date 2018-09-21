@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Report- Apple's $329 iPad mini is an 'absolute home run'
+title: Report- Apples $329 iPad mini is an absolute home run
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/iPad-mini-front-white-hand.jpg)
 * Analysts are fawning over Apple’s new iPad mini, one describing the smaller tablet as “an absolute home run.” Although investors concerned over the $329 price tag briefly sent shares of the Cupertino, Calif. firm down, Wall Street dismissed the worries.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Augment iOS' notification experience with NotificationsUnleashedXI
+title: Augment iOS notification experience with NotificationsUnleashedXI
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/NotificationsUnleashedXI.jpg)
 * If you own an iPhone or iPad, then incoming notifications likely play an instrumental role in your daily workflow. That said, streamlining the incoming notification experience should be considered a crucial step after jailbreaking your iOS 11-equipped handset with Electra.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple airs new 'Gamers' and 'Reservations' iPhone 6 ads
+title: Apple airs new Gamers and Reservations iPhone 6 ads
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/11/iphone-6-.png)
 * Apple tonight posted two new TV commercials to its YouTube channel showcasing the recently-launched iPhone 6 and 6 Plus. The spots are entitled ‘Gamers’ and ‘Reservations,’ and the first demonstrates the gaming power of the new A8 processor, while the latter shows off the new Continuity feature in iOS 8.

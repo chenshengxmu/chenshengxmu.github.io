@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's how Passbook works in iOS 6
+title: Heres how Passbook works in iOS 6
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/Passbook-10.png)
 * If you’ve been using iOS 6 beta, they you’re probably pretty familiar with the default Passbook screen that prompts you to open the App Store. Prior to iOS 6’s release just a few hours ago, the App Store page wouldn’t load, or at the very most remained blank.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Judge denies Apple's injunction request, throws out Samsung's misconduct claims
+title: Judge denies Apples injunction request, throws out Samsungs misconduct claims
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/conan-skit-ss.png)
 * While the high profile Samsung-Apple trial technically ended back in August, with Apple winning a staggering $1 billion judgement, the fallout is far from over. The two companies must still endure countless post-trial hearings and their subsequent appeals.

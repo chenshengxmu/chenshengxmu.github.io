@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What's On My iDevice? July 2011 Edition
+title: Whats On My iDevice? July 2011 Edition
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/Whats-on-my-idevice-july-2011-e1312207933846.png)
 * So I’m a bit late with the July 2011 edition of What’s On My iPhone, but better late than never, right?

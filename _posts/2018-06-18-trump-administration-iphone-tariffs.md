@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Despite Trump's pledge, Apple's still worried about Chinese tariffs
+title: Despite Trumps pledge, Apples still worried about Chinese tariffs
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/06/tim-cook-china.jpg)
 * Apple CEO Tim Cook has been assured by the Trump Administration that there won’t be tariffs placed on iPhones. The news comes just days after the United States put tariffs on $50 billion worth of Chinese products. Despite this, Apple’s still worried about the eroding relationship between the U.S. and its largest trading partner. 

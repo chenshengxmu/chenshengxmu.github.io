@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ABC interview with Tim Cook for Mac's 30th anniversary to air tomorrow
+title: ABC interview with Tim Cook for Macs 30th anniversary to air tomorrow
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/01/mac-abc.jpg)
 * Continuing with the festivities for the Macintosh’s 30th anniversary, ABC News is set to air an interview with Apple CEO Tim Cook on its World News program with Diane Sawyer tomorrow evening.

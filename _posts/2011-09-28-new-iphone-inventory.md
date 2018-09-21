@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New iPhone and iPod Touch Models Show Up in Apple's Inventory
+title: New iPhone and iPod Touch Models Show Up in Apples Inventory
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/09/iPhone-4-on-table1-e1316788519726.jpeg)
 * We are still trying to piece together some sort of picture of what Apple will be unveiling next week. The Cupertino company has done a pretty good job so far of keeping its Fall plans a secret. The stuff we think we know at this point is only based on speculation.

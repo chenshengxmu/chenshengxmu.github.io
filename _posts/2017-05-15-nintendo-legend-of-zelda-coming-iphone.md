@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nintendo's next big franchise coming to iPhone will be The Legend of Zelda
+title: Nintendos next big franchise coming to iPhone will be The Legend of Zelda
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/05/legend-of-zelda-breath-of-the-wild-teaser.jpg)
 * Nintendo’s next big franchise coming to iPhone and other smartphones will be The Legend of Zelda, a high-fantasy action-adventure RPG video game series created by the legendary Japanese game designers Shigeru Miyamoto and Takashi Tezuka.

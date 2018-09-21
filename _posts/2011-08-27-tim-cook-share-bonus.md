@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's New CEO to Receive $380,000,000+ Bonus
+title: Apples New CEO to Receive $380,000,000+ Bonus
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/tim-cook-apple-ceo-e1314287735337.png)
 * We always assumed the top dogs at Apple received a decent wage, but MacRumors has dug up some information on just what kind of bonus new CEO Tim Cook will receive.

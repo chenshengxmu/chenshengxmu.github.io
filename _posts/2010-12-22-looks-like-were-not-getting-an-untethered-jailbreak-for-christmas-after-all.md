@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Looks Like We're Not Getting an Untethered Jailbreak for Christmas After All
+title: Looks Like Were Not Getting an Untethered Jailbreak for Christmas After All
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/12/Comex-Misses-Deadline.png)
 * Did MuscleNerd spoke too fast when he said last week that we’d get an untethered jailbreak for Christmas? It sure looks like it when reading this tweet Comex sent out a few minutes ago saying that he was going to miss his Christmas deadline..

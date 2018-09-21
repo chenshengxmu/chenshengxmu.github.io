@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Apple shouldn't pass on the rumored Jet White iPhone 7
+title: Why Apple shouldnt pass on the rumored Jet White iPhone 7
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/12/jetwhiteiphone7mockup.jpg)
 * On Tuesday, Apple afficionados were treated to a new wave of white shell iPhone 7 mock-ups and purported leaks hitting the internet, advancing the notion that the Cupertino-based company could plan to release a white counterpart to their Jet Black coating some time around March 2017.

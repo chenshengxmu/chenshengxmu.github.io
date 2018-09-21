@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shift to OLED screens said to necessitate thin film solution for iPhone 8's 3D Touch
+title: Shift to OLED screens said to necessitate thin film solution for iPhone 8s 3D Touch
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/iPhone-6s-3D-Touch-technology-001.jpg)
 * Without mentioning sources, DigiTimes reported Wednesday that the widely expected shift from LCD to OLED screens will necessitate a thin-film solution for iPhone 8’s 3D Touch module instead of the older glass solution adopted for 3D Touch on the iPhone 6s/7 series. Suppliers behind the new 3D Touch modules are dropping big bucks on advanced factories to retain the precision that Apple demands.

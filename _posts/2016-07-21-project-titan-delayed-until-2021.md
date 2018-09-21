@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Report- Apple's rumored electric car project faces internal launch delay until 2021
+title: Report- Apples rumored electric car project faces internal launch delay until 2021
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/Apple-CarPlay-Honda-Apple-Maps-001.jpg)
 * Former Wall Street Journal reporter Jessia Lessin’s outlet, The Information, this morning ran a story behind a paywall claiming that Apple’s tentative 2020 launch target for a rumored autonomous electric vehicle may have slipped until 2021. Project Titan, as it’s code-named, “has run into challenges” after its top executive left in January, as per sources.

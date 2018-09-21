@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why The iPhone 4 Siri Port Hasn't Been Released Yet
+title: Why The iPhone 4 Siri Port Hasnt Been Released Yet
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/siri_hero.jpg)
 * It’s the hot button topic on the internet right now, but nobody really knows the answer to the burning question: where is the hack that will get Siri working on an iPhone 4?

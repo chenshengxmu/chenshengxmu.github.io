@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KGI- OLED iPhone to boast 5.1" or 5.2" active display area
+title: KGI- OLED iPhone to boast 5.1 or 5.2 active display area
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/iPhone-7-Plus-Piano-and-Dark-Black-AppleArab-concept-001.jpg)
 * KGI Securities analyst Ming-Chi Kuo is out with a new report this morning. In his note to clients, a copy of which was obtained by AppleInsider, the revered analyst predicts that a brand new premium iPhone model will be joining the lineup next year alongside 4.7 and 5.5-inch models.

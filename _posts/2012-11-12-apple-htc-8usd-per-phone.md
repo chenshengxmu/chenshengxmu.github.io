@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Android settlement with HTC could be worth at least $3 billion
+title: Apples Android settlement with HTC could be worth at least $3 billion
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/htc_apple.jpeg)
 * Apple and HTC last Saturday announced a global settlement in their long-standing Android dispute. The agreement dismissed all patent-related lawsuits between the two firms and put forth a 10 year cross-licensing deal for all current and future patents. While the terms of the settlement are confidential, one analyst thinks that Apple gets up to eight bucks per every Android-based HTC phone sold. With 30-35 million Android-based HTC smartphones sold annually, Apple could pocket a cool $280 million annually on this patenting pact…

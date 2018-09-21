@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Following Apple's lead, Twitter permanently bans Alex Jones and Infowars
+title: Following Apples lead, Twitter permanently bans Alex Jones and Infowars
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/08/Alex-Jones-screaming.jpg)
 * Twitter has now banned Alex Jones and Infowars for its service. The decision comes one month after other companies prohibited the conspiracy theorist from their outlets, including Apple, Facebook, Spotify, and YouTube. The decision came after Twitter determined Jones was in violation of its “abusive behavior” rules, according to Twitter, via the Associated Press.

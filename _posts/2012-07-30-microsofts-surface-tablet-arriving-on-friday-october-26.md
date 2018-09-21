@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft's Surface tablet arriving on Friday, October 26
+title: Microsofts Surface tablet arriving on Friday, October 26
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/surface.jpg)
 * Microsoft revealed in its filing with the Security and Exchange Commission that come October 26 it will launch both Windows 8 operating system for consumers and the Surface tablet which was announced a month and half ago. Apple, of course, is expected to unveil a rumored cheaper, smaller iPad at a media event this fall (iLounge says in November) and launch a fourth-generation iPad some time during the first quarter of next year…

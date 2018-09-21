@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Generating PDF files from your Mac's printing menu
+title: Generating PDF files from your Macs printing menu
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/04/52ff0e80b07d28b590bbc4b30befde52.png)
 * Lots of times you may want to print something, only to find that you have no printer ink or that you aren’t near a printer. Your Mac comes with a useful function in OS X‘s printing menu that lets you save anything you want to print as a PDF file to print or share later. We’ll show you how you can make a PDF out of anything you intend to print in this tutorial.

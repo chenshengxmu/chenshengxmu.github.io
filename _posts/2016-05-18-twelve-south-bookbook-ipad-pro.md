@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twelve South's BookBook vintage-style case now available for iPad Pro
+title: Twelve Souths BookBook vintage-style case now available for iPad Pro
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/Twelve-South-BookBook-for-iPad-Pro-image-003.jpg)
 * Twelve South’s BookBook vintage leather case series is now available in iPad Pro sizes, the company announced today. The new BookBook for iPad Pro has a built-in kickstand that tilts the device to the sketcher’s angle for effortless drawing, painting and sketching. Plus, it folds easily into upright mode so that you can present more easily.

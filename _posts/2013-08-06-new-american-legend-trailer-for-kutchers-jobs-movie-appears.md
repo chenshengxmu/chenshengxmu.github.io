@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New 'American Legend' trailer for Kutcher's Jobs movie arrives
+title: New American Legend trailer for Kutchers Jobs movie arrives
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/first-jobs-trailer.png)
 * Jobs movie producers Open Road Films have been promoting the upcoming flick left and right ahead of its nationwide premiere scheduled for later this month. Ashton Kutcher, who plays Apple’s co-founder Steve Jobs, and Josh Gad who channels Steve Wozniak, are tasked with depicting how the two Steves built the most valuable company in the world from Jobs parent’s garage.

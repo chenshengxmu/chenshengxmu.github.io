@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Twitter's iPhone app gains interactive notifications on iOS 8, revamps profile pages
+title: Twitters iPhone app gains interactive notifications on iOS 8, revamps profile pages
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/Twitter-for-iPhone-revamped-profiles-002.png)
 * Twitter, the popular micro-blogging service, is rolling out a brand new profile experience on Twitter for iPhone, in addition to another cool new feature — support for interactive notifications for incoming tweets on iOS 8 devices — the startup announced in a blog post Thursday.

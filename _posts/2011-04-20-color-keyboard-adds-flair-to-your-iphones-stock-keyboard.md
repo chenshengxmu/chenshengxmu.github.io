@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Color Keyboard' Adds Flair to Your iPhone's Stock Keyboard
+title: Color Keyboard Adds Flair to Your iPhones Stock Keyboard
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/Color-Keyboard-05.png)
 * Color Keyboard is a recently released jailbreak tweak that potentially allows you to customize your iPhone’s keyboard using whatever color scheme you deem worthy.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bad news- this morning's Apple TV update broke PlexConnect hack
+title: Bad news- this mornings Apple TV update broke PlexConnect hack
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/PlexConnect-on-Apple-TV-MacRumors-001.jpg)
 * Apple this morning has issued an update making its popular $99 Apple TV gadget a whole lot more useful by enabling an additional five content channels: 24/7 music video streaming via Vevo TV, in addition to on-demand and live video feeds from Weather Channel, Disney Channel, Disney XD and Smithsonian Channel.

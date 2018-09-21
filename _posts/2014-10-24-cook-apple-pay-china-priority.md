@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook- bringing Apple Pay to China 'is on the top of our list'
+title: Tim Cook- bringing Apple Pay to China is on the top of our list
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/tim-cook-stage.png)
 * Repeating his favorite line that China, home to 1.33 billion people, is a key market to Apple, CEO Tim Cook said bringing Apple’s revolutionary mobile payments system to the country “is on the top of the list”.

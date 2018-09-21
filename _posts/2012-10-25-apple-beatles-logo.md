@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Beatles' Granny Smith apple logo is now a registered trademark of Apple Inc.
+title: The Beatles Granny Smith apple logo is now a registered trademark of Apple Inc.
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/Apple-Corps-logo.png)
 * UK-based Apple Corps, which handles business dealings of the legendary Liverpool-based pop group The Beatles, has finally ended its dispute with Apple, Inc. of Cupertino, California over use of the Apple Corps’ Granny Smith logo, which was originally owned by The Beatles. According to a new report, Apple for an undisclosed sum has secured rights to use the Apple Corps logo in association with music, computers, entertainment, multimedia and more. Matter of fact, Apple, Inc. has actually gained entire ownership over all trademarks which included or are related to the word “Apple”…

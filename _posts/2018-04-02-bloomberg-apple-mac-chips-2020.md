@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's reportedly approved “Kalamata” project to ditch Intel for custom Mac chips from 2020
+title: Apples reportedly approved “Kalamata” project to ditch Intel for custom Mac chips from 2020
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/Gold-Space-Gray-MacBook.png)
 * According to people familiar with Apple’s research, they’ll start using custom chips in Mac models starting in 2020, replacing processors from longtime partner and industry leader Intel.

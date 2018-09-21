@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Afterlight review- an urban smartphone photographer's dream setup
+title: Afterlight review- an urban smartphone photographers dream setup
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/07/afterlight-review.jpg)
 * After moving to the city from the suburbs, I’ve become a total sucker for photography apps. It seems like every time I unlock my bike at a coffee shop, there’s a new photo opportunity awaiting my iPhone’s tiny sensor — an opportunity that would look even better with a filter applied to it.

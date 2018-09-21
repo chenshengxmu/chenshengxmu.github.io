@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Further proof a dual-SIM is coming to this year's iPhone X Plus
+title: Further proof a dual-SIM is coming to this years iPhone X Plus
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/iphone-x-sim.jpg)
 * The iOS 12 beta 5 update released earlier this week has offered further proof Apple plans on providing a dual-SIM on this year’s so-called iPhone X Plus. This same news was first teased by Apple analyst Ming-Chi Kuo in November 2017. The latest details were first discovered by 9to5Mac. 

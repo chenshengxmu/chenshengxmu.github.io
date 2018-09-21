@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Microsoft's Surface is here, high-tech ad proclaims
+title: Microsofts Surface is here, high-tech ad proclaims
 ---
 * Look what just surfaced on Microsoft Surface team’s YouTube channel. This television commercial could be equally confusing to those who deemed the previous Movement ad too childish to begin with and perhaps over-the-top. One thing is certain: Microsoft is determined to make as much noise as possible about this tablet. The company today officially launched Windows 8 and will begin selling the Surface on Friday.
 * Apple the same day is scheduled to put its iPad mini on sale across 34 countries worldwide. Armchair estimates peg advertising expenditure for Windows 8 and Surface launches anywhere in the ballpark of $1-$2 billion.  I’ve also included a new making-of video for the Movement ad right below…

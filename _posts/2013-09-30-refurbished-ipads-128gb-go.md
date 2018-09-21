@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Refurbished 128GB iPads now available in Apple's web store
+title: Refurbished 128GB iPads now available in Apples web store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/iPad-3-white-flat-finger-on-Safari.jpg)
 * Folks in the market for a high capacity-model iPad will be happy to hear that Apple has begun offering refurbished versions of its 128GB tablet in its web store at a nice discount.

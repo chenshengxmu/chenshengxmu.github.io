@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meet Pebble- the iPhone-connected wristwatch you've been waiting for
+title: Meet Pebble- the iPhone-connected wristwatch youve been waiting for
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/04/pebble.jpg)
 * The iPhone-connected wristwatch has been the unicorn of iOS accessories for the past few years. Folks have been asking for one, but manufacturers have yet to produce one that appeals to the masses. Then came the Pebble.

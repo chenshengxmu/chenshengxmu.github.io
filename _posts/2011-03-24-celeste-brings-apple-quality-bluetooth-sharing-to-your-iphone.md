@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Celeste' Brings Apple Quality Bluetooth Sharing to Your iPhone
+title: Celeste Brings Apple Quality Bluetooth Sharing to Your iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/03/Celeste-05.png)
 * They say good things are worth waiting for, so maybe that’s why it seems like the wait for Celeste has been forever.

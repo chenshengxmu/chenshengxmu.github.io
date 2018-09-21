@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'MT Gestures' is an Easy Way to Add Multi-Touch Gestures to iPhones Running iOS 4.3.1
+title: MT Gestures is an Easy Way to Add Multi-Touch Gestures to iPhones Running iOS 4.3.1
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/04/MT-Gestures-02.png)
 * Well perhaps I should have restated that. MT Gestures will (hopefully soon) be an easy way to add multi-touch gestures to your iPhone 4 running iOS 4.3.1. That’s because the developer, although they tout iPhone 4 compatibility within Cydia alongside the iPod touch G4, has admitted that the iPhone 4 compatibility isn’t exactly working yet.

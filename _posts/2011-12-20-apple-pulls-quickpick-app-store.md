@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Pulls System Shortcuts App 'QuickPick' From the App Store
+title: Apple Pulls System Shortcuts App QuickPick From the App Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/quickpick-ss.jpg)
 * Apple has pulled QuickPick from the App Store after the application was discovered over the weekend as a means of displaying system shortcuts in the iOS 5 Notification Center. We showed you QuickPick in action on video, and the $0.99 app was available for both the iPhone and iPad.

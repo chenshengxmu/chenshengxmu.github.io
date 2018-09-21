@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tap to Widgets' brings shortcuts for Notes, Reminders, and Calendar to Notification Center
+title: Tap to Widgets brings shortcuts for Notes, Reminders, and Calendar to Notification Center
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/Tap-to-Widgets-Final-BIG.jpg)
 * Tap to Widgets is a jailbreak tweak, which brings Reminders, Notes, and Calendar shortcuts to iOS’ Notification Center. Tap to Widgets allows you to easily add an item to any of these apps without having to fully open the app in question.

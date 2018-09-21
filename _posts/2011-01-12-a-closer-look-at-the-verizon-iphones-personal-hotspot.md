@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Closer Look at The Verizon iPhone's 'Personal Hotspot'
+title: A Closer Look at The Verizon iPhones Personal Hotspot
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/01/Verizon-iPhones-Personal-Hotspot-Feature.jpeg)
 * Yesterday, the Verizon iPhone was announced. Not much is different; there is a new CDMA antenna and mobile hotspot feature coined as “Personal Hotspot.” This new (currently) Verizon-specific iPhone feature mimics popular jailbreak utilities like MyWi.

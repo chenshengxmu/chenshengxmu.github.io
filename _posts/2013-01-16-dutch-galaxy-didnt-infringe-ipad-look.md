@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Galaxy tablets didn't copy Apple's design, Dutch court rules
+title: Galaxy tablets didnt copy Apples design, Dutch court rules
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/01/samsung-galaxy-tab-101-1.jpeg)
 * Apple isn’t having as much litigation success in Europe as it’s had over in the United States, where the jury hit Samsung with a massive $1.05 billion fine in the high-stake Apple v. Samsung trial. Courts in The Netherlands, for example, aren’t nearly as sympathetic to Apple’s infringement claims.

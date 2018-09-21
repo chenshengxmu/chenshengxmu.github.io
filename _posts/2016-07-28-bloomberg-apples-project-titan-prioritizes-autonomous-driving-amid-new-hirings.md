@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bloomberg- Apple's Project Titan prioritizes autonomous driving amid new hirings
+title: Bloomberg- Apples Project Titan prioritizes autonomous driving amid new hirings
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/Mercedes-Benz-CarPlay-002.jpg)
 * Apple’s rumored electric vehicle project has shifted its focus towards autonomous driving systems although that shouldn’t be interpreted as Apple abandoning efforts to design its own vehicle, Bloomberg reported today.

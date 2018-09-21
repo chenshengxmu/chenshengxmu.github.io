@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why the new iPad gets hotter and how it's being blown out of proportion
+title: Why the new iPad gets hotter and how its being blown out of proportion
 ---
 * Image courtesy of GSM Arena
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/iPad-on-fire.jpg)

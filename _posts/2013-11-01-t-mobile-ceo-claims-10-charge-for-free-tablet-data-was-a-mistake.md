@@ -1,6 +1,6 @@
 ---
 layout: post
-title: T-Mobile CEO claims $10 charge for "free" tablet data was a mistake
+title: T-Mobile CEO claims $10 charge for free tablet data was a mistake
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/04/T-Mobile-Uncarrier-001.jpg)
 * I gave T-Mobile a lot of props this past week for truly trying to break the mold and do something that no other carrier has done — offering free data to iPad users. I probably should have just kept my mouth shut until I was able to put its claims to the test.

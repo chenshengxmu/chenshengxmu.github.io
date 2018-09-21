@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple patent links iDevice cameras for 'social flash'
+title: Apple patent links iDevice cameras for social flash
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/09/iPhone-5-camera.jpeg)
 * The iPhone is quickly becoming (or already has) the hottest digital camera on the planet. Not only does it have terrific imaging power, but with its screen is able to easily compose attractive shots. Knowing the power of the iPhone and other iDevices, Apple continually tweaks its photo-imaging capabilities.

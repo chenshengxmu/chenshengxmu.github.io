@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SemiRestore11 'un-jailbreaking' tool for Electra1131 to be released "at any time"
+title: SemiRestore11 un-jailbreaking tool for Electra1131 to be released at any time
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/06/Electra-iOS-1131.png)
 * Several years ago, Saurik released an un-jailbreaking tool known as Cydia Eraser so that jailbreakers could revert their pwned devices to a stock state any time they wished. But it hasn’t received any updates for some of the latest jailbreakable firmware versions, leaving much of the community in a state of confusion.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Open-world survival adventure Radiation Island named IGN's Free Game of the Month
+title: Open-world survival adventure Radiation Island named IGNs Free Game of the Month
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/Radiation-Island-1.0-for-iOS-teaser-001.jpg)
 * If you’re on the lookout for a not-to-be-missed freebie for your iPhone and iPad, look no further than IGN’s latest Free Game of the Month, Radiation Island by Atypical Games.

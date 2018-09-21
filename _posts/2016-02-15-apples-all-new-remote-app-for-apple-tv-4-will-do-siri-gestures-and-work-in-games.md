@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's all-new Remote app for Apple TV 4 will do Siri, gestures and work in games
+title: Apples all-new Remote app for Apple TV 4 will do Siri, gestures and work in games
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/Apple-TV-4-top-view-remote.jpg)
 * Apple is working on a brand new Remote app for the fourth-generation Apple TV that will be a full replacement for the functions provided by the included Siri Remote, said Eddy Cue, Senior Vice President of Internet Software and Services, who was joined on The Talk Show podcast with Daring Fireball’s John Gruber by Craig Federighi, Apple’s Senior Vice President of Software Engineering.

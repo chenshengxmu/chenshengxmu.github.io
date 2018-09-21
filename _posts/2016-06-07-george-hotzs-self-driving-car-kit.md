@@ -1,6 +1,6 @@
 ---
 layout: post
-title: George Hotz's $1,000 kit will transform your car into a self-driving one
+title: George Hotzs $1,000 kit will transform your car into a self-driving one
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/06/George-Hotz-self-driving-car-image-001.jpg)
 * George Hotz aka “GeoHot” is one of the pioneers of the early jailbreak scene. In December 2015, Bloomberg Businessweek ran a lengthy profile focused on Hotz’s new project: a self-driving car kit. He’s since secured funding for the project, Forbes reported, and now the kit that promises to transform your car into a self-driving vehicle for just $1,000 seems to be becoming a reality, as The Verge reports.

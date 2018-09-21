@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's Remote app gains iTunes 11 support, Up Next, revamped iPad UI and more
+title: Apples Remote app gains iTunes 11 support, Up Next, revamped iPad UI and more
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/Remote-3.0-for-iOS-iPad-screenshot-002.jpeg)
 * Following the official release of iTunes 11 for Mac and Windows and an incremental Apple TV firmware update, today’s update bonanza continues with the release of a minor update to Apple’s Remote iOS app. It now plays nice with iTunes 11, of course, and includes a redesigned interface on iPad tablets that takes design cues from the new iTunes, just as the previous version was reminiscent of desktop iTunes. As for iTunes 11 support, the updated Remote app now includes overhauled library views, an expanded view for your media, improved search results, the new UpNext feature and more…

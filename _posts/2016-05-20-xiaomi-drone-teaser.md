@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Xiaomi's first drone to take off next Wednesday
+title: Xiaomis first drone to take off next Wednesday
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/Xiaomi-drone-teaser-002.jpg)
 * Xiaomi, the ambitious consumer electronics maker from China, is about to release a consumer drone of its own at a media event scheduled for next week.

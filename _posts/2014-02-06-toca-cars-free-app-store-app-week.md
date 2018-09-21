@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kids driving game Toca Cars is Apple's new Free App of the Week
+title: Kids driving game Toca Cars is Apples new Free App of the Week
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/Toca-Cars-1.0-for-iOS-iPhone-screenshot-001.jpeg)
 * I hope you have downloaded the excellent Spark Camera which was made temporarily free thanks to Apple’s ongoing Free App of the Week promotion. Every Thursday a new paid app picked by Apple’s editors goes free for a limited time in the App Store as Apple’s way of thanking fans for their loyalty.

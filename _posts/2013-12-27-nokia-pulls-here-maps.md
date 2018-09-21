@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nokia pulls Here Maps because iOS 7 changes 'harm user experience'
+title: Nokia pulls Here Maps because iOS 7 changes harm user experience
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/11/nokia-here-maps-ss-2.jpg)
 * Nokia’s long-standing mapping service rebranded as Here got announced in November 2012, with the native iPhone and iPad application arriving soon after with maps for around 200 countries, voice-guided walking navigation, public transportation directions and offline capability.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's rumored 6.1" budget LCD iPhone may use a single-lens camera to keep prices down
+title: Apples rumored 6.1 budget LCD iPhone may use a single-lens camera to keep prices down
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/07/iPhone-X-Plus-dummy-unit-leak-001.jpg)
 * Smartphone leakster Benjamin Geskin yesterday tweeted out images of alleged iPhone dummies depicting size difference between Apple’s rumored 6.5-inch iPhone X Plus and a new budget model, suggesting two major tradeoffs for the latter: the lack of a dual-lens camera in addition to the use of power-hungrier LCD screen technology.

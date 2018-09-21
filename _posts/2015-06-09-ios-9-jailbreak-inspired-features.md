@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A look at iOS 9's jailbreak-inspired features
+title: A look at iOS 9s jailbreak-inspired features
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/06/iOS-9-jailbreak-inspired.jpg)
 * iOS 9 has brought a lot of new features to the table, and many of those features have been borrowed, whether by coincidence or not, from already existing jailbreak tweaks. In this post, I summarize some of the tweaks that have been natively added to iOS 9 beta 1. Did your favorite tweak make the cut?

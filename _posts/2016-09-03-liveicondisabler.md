@@ -1,6 +1,6 @@
 ---
 layout: post
-title: LiveIconDisabler disables the Clock app's icon animation
+title: LiveIconDisabler disables the Clock apps icon animation
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/LiveIconDisabler-Featured-Image.jpg)
 * Starting with iOS 7, Apple officially brought animated hour, minute, and second hands to the Clock app’s icon that reflect upon the actual time.

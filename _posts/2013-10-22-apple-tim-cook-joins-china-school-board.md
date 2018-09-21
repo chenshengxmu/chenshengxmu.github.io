@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tim Cook joins board of China's top Beijing university
+title: Tim Cook joins board of Chinas top Beijing university
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/07/cook_china_2.jpg)
 * As China becomes more important to Apple’s bottom line, the iPhone maker will need to grease the wheels to ensure products are timely approved. In a step in that direction, Apple CEO Tim Cook has joined the advisory board of a prestigious engineering university – which also happens to include a number of prominent Chinese politicians.

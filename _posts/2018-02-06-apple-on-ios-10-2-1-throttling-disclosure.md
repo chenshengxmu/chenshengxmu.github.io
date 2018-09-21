@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's explanation for why it didn't immediately disclose CPU throttling isn't very convincing
+title: Apples explanation for why it didnt immediately disclose CPU throttling isnt very convincing
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/iPhone-6s-promotional-videoi-battery-001.jpg)
 * Apple’s lack of transparency around iPhone throttling has backfired spectacularly as the firm finds itself in an uncomfortable position of having to explain why the original iOS 10.2.1 changelog didn’t immediately disclose the controversial performance management feature.

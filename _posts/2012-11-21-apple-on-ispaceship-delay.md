@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blame Apple's crazy attention to detail for the iSpaceship delay
+title: Blame Apples crazy attention to detail for the iSpaceship delay
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/Apple-Campus-2-Rendering-001-Retina-optimized.jpg)
 * Apple engineers agonize over every imaginable aspect of the company’s products. Their attention to detail is legendary and all-encompassing, from packaging and unboxing experience to press releases and TV commercials to screws, wires and the specific snow white paint for the home button of the white iPhone. No detail is too small, no stone is left unturned.

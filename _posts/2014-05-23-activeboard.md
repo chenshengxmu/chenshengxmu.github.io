@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ActiveBoard' helps you easily identify running applications
+title: ActiveBoard helps you easily identify running applications
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/ActiveBoard-01.png)
 * The just released ActiveBoard is the successor to iOS 6’s ActiveDock jailbreak tweak. It allows you to quickly identify active applications without opening the App Switcher.

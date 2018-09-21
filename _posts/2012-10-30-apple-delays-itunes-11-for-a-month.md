@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple delays iTunes 11 for a month to 'get it right'
+title: Apple delays iTunes 11 for a month to get it right
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/iTunes-11-Albums.jpg)
 * That’s right, no new iTunes on Halloween for you! As you know, Apple promised to release iTunes 11, a major overhaul, by the end of October. Now it seems yesterday’s management re-shuffling has affected the release schedule a bit as the company said today that iTunes is “is taking longer than expected”.

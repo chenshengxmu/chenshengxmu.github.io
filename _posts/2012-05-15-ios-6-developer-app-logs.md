@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 6 evidence pops up in developer's app log
+title: iOS 6 evidence pops up in developers app log
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/05/ios-61.jpg)
 * According to a new report from 9to5Mac, developers are starting to see iOS 6 code strings in their app logs, signaling that Apple is currently testing the software’s compatibility with App Store applications.

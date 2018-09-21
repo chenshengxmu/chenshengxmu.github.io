@@ -1,6 +1,6 @@
 ---
 layout: post
-title: All of Rovio's iPad titles on sale for $0.99
+title: All of Rovios iPad titles on sale for $0.99
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/12/Rovio-teaser-001.jpg)
 * Looking for something to do this weekend? Well if you own an iPad, you’re in luck. Rovio, the studio behind the wildly popular Angry Birds franchise, has just put all of its iPad titles on sale.

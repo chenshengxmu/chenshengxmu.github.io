@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Translucency- a big part of OS X Yosemite's new visual style
+title: Translucency- a big part of OS X Yosemites new visual style
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/10/Translucency-OS-X-Yosemite.png)
 * Translucency is everywhere in OS X Yosemite. In Safari, you can see the subtle colorful translucent glow of a website behind its toolbar. In the Finder, you’ll see apps and wallpaper glow behind your list of favorites, and in the Dock, you’ll see the translucent visuals of any apps that are moved behind it.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's op-chief will reportedly meet Foxconn's boss amid reports of iPhone X production woes
+title: Apples op-chief will reportedly meet Foxconns boss amid reports of iPhone X production woes
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/03/Jeff-Williams.png)
 * Jeff Williams, Apple’s Chief Operating Officer since December 2015, will reportedly take a previously scheduled trip to Taiwan later this month, where he is also expected to meet Terry Gou, the chairman of key iPhone X contract manufacturer Foxconn.

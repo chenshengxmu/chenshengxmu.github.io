@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Here's Tim Cook's message to Apple community regarding massive Irish tax bill
+title: Heres Tim Cooks message to Apple community regarding massive Irish tax bill
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/Tim-Cook-angry-pissed-upset.jpg)
 * The European Commission has ruled that Apple is on the hook for €13 billion ($14.5 billion) in back taxes as its “sweetheart deal” to pay a lower tax rate in Ireland has been characterized as “illegal state aid”.

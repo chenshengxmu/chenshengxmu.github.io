@@ -1,6 +1,6 @@
 ---
 layout: post
-title: KGI- the next Apple Watch won't look much different from previous models
+title: KGI- the next Apple Watch wont look much different from previous models
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/04/Apple-Watch-NikeLab-Highsnobiety-image-005.jpg)
 * Respected Apple analyst Ming-Chi Kuo of KGI Securities wrote in a new report to clients today that Apple Watch Series 3 won’t have any obvious form factor changes from existing models, saying LTE cellular connectivity will be its main selling point.

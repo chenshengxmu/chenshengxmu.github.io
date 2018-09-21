@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's inaugural iPad Air ad - 'Pencil' - hits YouTube
+title: Apples inaugural iPad Air ad - Pencil - hits YouTube
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/10/iPad-Air-Facetime.jpg)
 * You’ve read all there is to know about Apple’s iPad Air, watched Jony Ive talk enthusiastically about the crazy attention to detail that had gone into designing the product – perhaps streamed or even downloaded the entire keynote to your computer – and now you can appreciate Apple’s inaugural, feel-good, mission-statement iPad Air ad.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why the new iPad is called "iPad"
+title: Why the new iPad is called iPad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/03/the-new-ipad.jpg)
 * iPad HD, iPad 3. Those were a couple names the tech world speculated about before today’s announcement. All of them were wrong as we quickly realized when Tim Cook unveiled “the new iPad” earlier today.

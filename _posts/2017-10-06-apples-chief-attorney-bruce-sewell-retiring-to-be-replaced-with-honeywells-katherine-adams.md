@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's chief attorney Bruce Sewell retiring, to be replaced with Honeywell's Katherine Adams
+title: Apples chief attorney Bruce Sewell retiring, to be replaced with Honeywells Katherine Adams
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/10/Apple-Kate-Adams-headshot-001.jpg)
 * Bruce Sewell is retiring at the end of the year after eight years in the role of Apple’s chief attorney, the company announced Friday.

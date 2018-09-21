@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Grab Pursuit of Light, Apple's new Free App of the Week on the App Store
+title: Grab Pursuit of Light, Apples new Free App of the Week on the App Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/04/Pursuit-of-Light-1.0-for-iOS-iPhone-screenshot-004.jpeg)
 * It’s Thursday and you know what that means, no? That’s right, another previously paid app has gone free for a week as part of Apple’s ongoing Free App of the Week promotion.

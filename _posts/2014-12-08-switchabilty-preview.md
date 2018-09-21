@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Switchability- an upcoming tweak that combines Reachability, the App Switcher, and Safari's 3D tab view
+title: Switchability- an upcoming tweak that combines Reachability, the App Switcher, and Safaris 3D tab view
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/12/Switchability.jpg)
 * A new upcoming jailbreak tweak promises to combine multiple iOS features into a cool new app switching interface called Switchability. The tweak, which is previewed inside on video, combines the iPhone 6 and 6 Plus’ Reachability mode along with the App Switcher and Safari’s 3D tab view. The result of such a combination may seem like it would be a mess, but after seeing it demonstrated in the preview video, I think it might just work.

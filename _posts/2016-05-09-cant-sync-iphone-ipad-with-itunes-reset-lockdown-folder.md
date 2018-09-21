@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Can't sync your iPhone or iPad with iTunes? Try resetting your Lockdown folder
+title: Cant sync your iPhone or iPad with iTunes? Try resetting your Lockdown folder
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/iTunes-problem.png)
 * Those who use iTunes on a regular basis to keep their iOS devices in sync with one another are probably familiar with the problems that can arise from using the software, whether it’s on a Mac or a PC.

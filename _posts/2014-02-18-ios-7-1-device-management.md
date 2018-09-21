@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iOS 7.1 said to be launching 'around March 15' with improved device management
+title: iOS 7.1 said to be launching around March 15 with improved device management
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/02/ios-7-mdm-appleinsider.png)
 * Apple has seeded 5 developer betas of iOS 7.1, and it’s expected to push it to the public within the next month. It’ll be the largest update to the mobile operating system since iOS 7 landed last fall, and will feature a number of improvements.

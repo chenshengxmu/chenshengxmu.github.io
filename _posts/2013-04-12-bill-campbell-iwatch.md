@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Corporate coach alludes to Apple's next breakthrough- wearable
+title: Corporate coach alludes to Apples next breakthrough- wearable
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/02/iwatch-header.gif)
 * Bill Campbell, Chairman of the Intuit board, has been a member of Apple’s board of directors since Steve Jobs’s return in 1997. Simply known as the “coach,” Campbell sat down with the Intuit CEO and dropped a few notable hints regarding Apple’s direction in the post-Jobs Tim Cook era. Although he wouldn’t discuss specifics of Apple’s pipeline, reading between the lines subtly suggests that something incorporating wearable technology might soon become Apple’s latest and greatest creation. We have a vide right past the fold…

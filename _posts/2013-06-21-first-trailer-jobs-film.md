@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First full trailer for Ashton Kutcher's 'Jobs' film released
+title: First full trailer for Ashton Kutchers Jobs film released
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/06/first-jobs-trailer.png)
 * The first official trailer for Ashton Kutcher’s ‘Jobs’ was finally released today, giving the general public its first glimpse at the movie. We saw a snippet of the film earlier this year, when it debuted at the Sundance Film Festival, but it never really made it beyond the tech world.

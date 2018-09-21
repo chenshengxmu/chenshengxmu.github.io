@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Samsung-built A9 chip in iPhone 6s found to drain battery faster than TSMC one, Apple doesn't really agree
+title: Samsung-built A9 chip in iPhone 6s found to drain battery faster than TSMC one, Apple doesnt really agree
 ---
 * Does your iPhone 6s or iPhone 6s Plus come outfitted with Samsung or TSMC-built A9 processor? The answer to that question could determine how long your device will run before its battery needs recharging.
 * Your key takeaway is this: while the dual-sourced chips perform identically in synthetic Geekbench tests in terms of sheer CPU compute power and GPU performance, there’s a marked difference in observed battery life ranging from six to eleven percent.

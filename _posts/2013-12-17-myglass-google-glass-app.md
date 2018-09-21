@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Glass companion app 'MyGlass' launches in the App Store
+title: Google Glass companion app MyGlass launches in the App Store
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/12/myglass-1.png)
 * Good news for Google Glass owners in Apple’s ecosystem this morning. Google has launched MyGlass, its official companion app for its $1,500 computerized glasses, for iOS that will allow you to configure and manage them from your iPhone.

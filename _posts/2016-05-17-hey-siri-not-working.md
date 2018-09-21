@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hey Siri' not working? Try these steps
+title: Hey Siri not working? Try these steps
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/05/Set-Up-Hey-Siri.png)
 * Hey Siri is an invaluable feature of Apple’s iOS devices that lets you invoke Siri without having to press any buttons.

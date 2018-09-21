@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Australia Maps snafu was the government's fault
+title: Australia Maps snafu was the governments fault
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/3D-Maps-icon.png)
 * When the town of Mildura was showing up inside iOS Maps in the middle of Australia’s Murray Sunset National Park, users were quick to point out that Apple’s data was 43 miles off the town’s actual location. It was already too late: the police issued a public warning as some iPhone-totting travelers had gotten lost in the Park’s maze-like roadways. That the area has poor cell reception and lacks water supply didn’t help either.

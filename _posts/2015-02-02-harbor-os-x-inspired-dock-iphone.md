@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Harbor' brings an OS X-inspired dock to the iPhone
+title: Harbor brings an OS X-inspired dock to the iPhone
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/02/Harbor1.jpg)
 * Imagine having 30+ app icons in your iPhone dock, and being able to view them all at the same time and easily launch them all with no issues. This is what life is like while using Harbor—a new jailbreak tweak that brings one of the best OS X-inspired dock experiences that I’ve seen thus far on jailbroken iPhones.

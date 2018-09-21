@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why I Picked the iPhone 4S- It's All About Sacrifices
+title: Why I Picked the iPhone 4S- Its All About Sacrifices
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/4S-5173_575px-e1322084550252.jpg)
 * I’m the son of a former Nokia employee, an ex cell phone salesman, and current connoisseur. So I guess you can say that I’ve played with my fair share of smartphones.

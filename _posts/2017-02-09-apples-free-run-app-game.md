@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's free app of the week- Chameleon Run
+title: Apples free app of the week- Chameleon Run
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/02/run.png)
 * Apple on Thursday updated its App of the Week promotion with the game Chameleon Run. This means that for the next 7 days, you’ll be able to grab the popular autorunner for free on both iPhone and iPad—a solid savings of $2.

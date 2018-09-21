@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You can now drag and drop files on iPad between Readdle's productivity apps
+title: You can now drag and drop files on iPad between Readdles productivity apps
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/05/Readdle-drag-and-drop-image-001.jpg)
 * Readdle, Ukrainian makers of fine productivity software for iPhone, iPad and Mac, today announced that, for the first time ever, they’re making it possible to drag and drop items in the split screen mode on iPad between its most popular productivity apps: Documents, PDF Expert, Scanner Pro and Spark.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Watch Series 0 does not support watchOS 4's cool new heart rate analytics
+title: Apple Watch Series 0 does not support watchOS 4s cool new heart rate analytics
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/09/Original-Apple-Watch-Heart-rate-watchOS-4.jpg)
 * Even though watchOS 4 supports all watch models, the original device (also called Apple Watch Series 0) featuring Apple’s S1 chip does not support any of the expanded heart rate analytics provided by the new software.

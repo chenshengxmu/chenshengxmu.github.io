@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone "Spy Shots" Are Easier to Fake Than You Think
+title: iPhone Spy Shots Are Easier to Fake Than You Think
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/08/Screen-Shot-2011-08-04-at-5.52.21-PM-e1312498387296.png)
 * It’s no secret that posting a purposed “spy shot” of Apple’s upcoming smartphone will bring all of the skeptics out of the woodwork. Perhaps it has something to do with the fact that the photos have a tendency to be a little on the fake side.

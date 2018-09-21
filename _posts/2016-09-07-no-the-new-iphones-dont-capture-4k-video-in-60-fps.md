@@ -1,6 +1,6 @@
 ---
 layout: post
-title: No, the new iPhones don't capture 4K video in 60 FPS as was rumored
+title: No, the new iPhones dont capture 4K video in 60 FPS as was rumored
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2016/09/Apple-This-is-iPhone-7-banner.png)
 * We now know that a Vietnamese site which said it had used a real iPhone 7 and made claims that the device would be capable of shooting 4K video at a silky smooth 60 FPS, was lying to us.

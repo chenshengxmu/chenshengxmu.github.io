@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Adds 'Find My Friends' to Upcoming iOS 5
+title: Apple Adds Find My Friends to Upcoming iOS 5
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/10/gdgt-iphone-5-event_029.jpg)
 * It’s Apple event time, and the team in Cupertino just announced a new addition to iOS 5 – Find My Friends.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New video compares nearly-assembled 4.7" iPhone 6 to iPhone 5s
+title: New video compares nearly-assembled 4.7 iPhone 6 to iPhone 5s
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/09/Partially-assembled-iPhone-6-Rozetked-001.jpg)
 * Yesterday evening, a new video surfaced on the web providing yet another glimpse at Apple’s upcoming iPhone 6, which will be officially announced at a media event next Tuesday.

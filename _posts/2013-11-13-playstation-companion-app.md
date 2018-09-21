@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sony launches new 'PlayStation App' companion app for PS4
+title: Sony launches new PlayStation App companion app for PS4
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/11/sony-1.png)
 * Ahead of its big PlayStation 4 launch later this week, Sony has released a new companion app for the console, aptly named ‘PlayStation App.’ Sony says that the app will allow you to “take your PlayStation experience with you on your mobile device.”

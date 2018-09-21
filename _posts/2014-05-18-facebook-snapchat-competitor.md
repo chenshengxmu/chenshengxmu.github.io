@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Facebook reportedly working on Snapchat competitor codenamed 'Slingshot'
+title: Facebook reportedly working on Snapchat competitor codenamed Slingshot
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/05/Facebook-iOS-7.jpg)
 * Facebook is working on a new mobile application for video and ephemeral messaging, according to a report from the Financial Times. The outlet says the app is being referred to as ‘Slingshot’ internally, and is intended to go head-to-head with Snapchat.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: U.S. Senators respond to Apple’s tax avoidance strategy ahead of tomorrow's hearing
+title: U.S. Senators respond to Apple’s tax avoidance strategy ahead of tomorrows hearing
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/06/WWDC-2012-keynote-Tim-Cook-001.jpg)
 * Tomorrow will be a pretty big day for Apple CEO Tim Cook, finance boss Peter Oppenheimer and Tax Operations head Phillip Bullock as the three men are scheduled to appear in front of the United States Senate Permanent Subcommittee on Investigation and give testimony regarding the company’s creative approach to tax avoidance.

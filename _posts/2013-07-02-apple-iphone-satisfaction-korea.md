@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone leads customer satisfaction in Samsung's home turf of South Korea
+title: iPhone leads customer satisfaction in Samsungs home turf of South Korea
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/Tim-Cook-holds-iPad-with-Katie-Cotton-Jacqui-Cheng.jpg)
 * There’s nothing like winning over your competitor’s hometown audience. Apple, accustomed to topping nearly every customer satisfaction survey, must take particular pleasure in being named best by smartphone owners in South Korea, home of rival Samsung.

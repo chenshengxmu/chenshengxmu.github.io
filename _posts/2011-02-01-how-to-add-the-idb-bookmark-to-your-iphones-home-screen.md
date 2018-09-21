@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Add the iDB Bookmark to Your iPhone's Home Screen
+title: How to Add the iDB Bookmark to Your iPhones Home Screen
 ---
 * Not a day passes when I’m not asked, “Where can I download the iDB app?” This is usually in response to a video, or a screenshot that showcases my Home screen.
 * Indeed, plopped squarely on my Home screen is an icon that does in-fact look like an official app for iPhoneDownloadBlog; however, it’s not an app. It’s just a bookmark saved to my Home screen.

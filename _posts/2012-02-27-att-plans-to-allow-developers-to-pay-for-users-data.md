@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AT&T plans to allow developers to pay for users' data
+title: AT&T plans to allow developers to pay for users data
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/02/donovan-ATT.jpg)
 * In an interesting move, AT&T plans to allow developers to pay for users’ data, when users are using the developer’s app, reports the WSJ. AT&T’s network and technology head John Donovan told the WSJ in an interview at MWC 2012 that the service will be similar to a toll-free 1-800 number.

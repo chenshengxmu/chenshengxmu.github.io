@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple posts new 'FaceTime Every Day' ad
+title: Apple posts new FaceTime Every Day ad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/facetime-every-day.png)
 * Apple has posted a new TV spot to its YouTube channel and website tonight called ‘FaceTime Every Day.’ It’s the third in a series of advertisements, and like the others—Music Every Day and Photos Every Day—it focuses on a single feature.

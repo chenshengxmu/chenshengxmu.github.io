@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Want to Use AirPlay But Don't Have An Apple TV 2?
+title: Want to Use AirPlay But Dont Have An Apple TV 2?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2010/12/AirPlayer-02-e1292390149489.png)
 * AirPlay is awesome because it allows you to instantly stream video that you’re watching on your iPhone to your television utilizing a $99 Apple TV 2. But let’s say you don’t have an Apple TV 2, but you do have a Mac mini hooked up to your TV. What to do then?

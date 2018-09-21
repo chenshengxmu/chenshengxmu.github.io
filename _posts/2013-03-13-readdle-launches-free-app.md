@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Readdle releases free version of 'Calendars' for iOS
+title: Readdle releases free version of Calendars for iOS
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/03/calendars-ss.png)
 * If you’ve ever perused through the Productivity section of the App Store, chances are you’ve come across one of Readdle’s apps. Titles like Documents, Scanner Pro and Printer Pro are staples in the category.

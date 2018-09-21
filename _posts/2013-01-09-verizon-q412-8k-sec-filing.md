@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Verizon activates 9.8M smartphones in Q4 amid a 'higher mix' of iPhones
+title: Verizon activates 9.8M smartphones in Q4 amid a higher mix of iPhones
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/12/verizon-iphone.jpg)
 * Verizon announced it activated 9.8 million smartphones during the holiday 2012 fourth quarter. In a statement to federal regulators, the nation’s largest carrier said there was a “higher mix of smartphones”, causing some observers to believe the wireless provider sold more than 5.3 million iPhones during the three-month period.

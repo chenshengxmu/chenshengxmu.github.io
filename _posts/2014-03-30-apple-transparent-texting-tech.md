@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple's 'transparent texting' tech aims to make it safer to walk and text
+title: Apples transparent texting tech aims to make it safer to walk and text
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/03/walk-n-text.jpg)
 * Last week, the United States Patent and Trademark Office published a patent application entitled ‘Transparent Texting’ that Apple filed in late 2012. In it, the company proposes to replace the background image of messaging applications with a live video feed from the device’s camera.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BetterPowerDown' adds iOS 7.1 power-down slider to iOS 7.0
+title: BetterPowerDown adds iOS 7.1 power-down slider to iOS 7.0
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/BetterPowerDown-02.jpg)
 * BetterPowerDown is a brand-new jailbreak tweak that allows you to add additional power-off options to iOS 7.0.x. The tweak, which is available for download on Cydia’s BigBoss repo for $0.99, allows you to add the iOS 7.1 and iOS 6.x power-down sliders to your device.

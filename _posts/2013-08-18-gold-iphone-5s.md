@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It looks like there's really a golden iPhone on the way
+title: It looks like theres really a golden iPhone on the way
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/08/gold-iphone-5.jpg)
 * The next iPhone is definitely going to come in gold, according to a new report from TechCrunch this evening. The news follows several weeks of reports and purported part leaks suggesting that the iPhone 5S will be offered in the new color.

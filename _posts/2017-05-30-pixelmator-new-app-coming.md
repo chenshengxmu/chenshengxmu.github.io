@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pixelmator teases a new app it's been secretly working on for five years
+title: Pixelmator teases a new app its been secretly working on for five years
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2017/05/Pixelmator-Graphique-teaser-001.jpg)
 * Pixelmator, the makers of perhaps the best Photoshop alternative for macOS, teased a brand new app in a blog post today that they’ve been secretly working on for five whole years.

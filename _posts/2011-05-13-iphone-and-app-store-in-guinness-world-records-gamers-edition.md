@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iPhone and App Store in Guinness World Records Gamer's Edition
+title: iPhone and App Store in Guinness World Records Gamers Edition
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2011/05/iOS-games-e1305299475134.png)
 * We’ve seen that the iPhone isn’t just a popular smartphone, it’s also an extremely popular camera. But apparently those aren’t the only categories that Apple’s Swiss Army Knife-of-a-device ranks highly in.

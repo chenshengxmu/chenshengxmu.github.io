@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Poll- is Samsung's F700 an iPhone copy?
+title: Poll- is Samsungs F700 an iPhone copy?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/08/Samsung-F700-vs-iPhone.jpg)
 * An interesting argument arose in the Apple-Samsung litigation related to Samsung’s F700 handset. As you know, Samsung sought to present this and other handsets – but the F700 in particular – as trial evidence of prior art that they were designing handsets akin to the iPhone before Apple got to announce its phone in January of 2007.

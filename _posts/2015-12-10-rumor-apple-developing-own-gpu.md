@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sketchy rumor claims Apple's been secretly working on its own GPU for years
+title: Sketchy rumor claims Apples been secretly working on its own GPU for years
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2015/09/ipad-pro-a9x.png)
 * Apple is making its own GPU to cut the cord from Imagination Technologies and has been secretly developing its own GPU in-house for a few years now. That’s what a sketchy rumor published Thursday by Fudzilla contends, citing sources in the graphics industry.

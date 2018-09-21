@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple lists apps from new iPhone 5s 'Powerful' ad
+title: Apple lists apps from new iPhone 5s Powerful ad
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2014/04/iPhone-5s-ad-Powerful-teaser-001.jpg)
 * Want to know what apps Apple featured in its latest iPhone 5s ad titled ‘Powerful’, which started airing last evening? The 30-second commercial suggests that “with the power of iPhone 5s, you’re more powerful than you think” by highlighting a number of content creation use cases involving a bunch of third-party apps found on the App Store.

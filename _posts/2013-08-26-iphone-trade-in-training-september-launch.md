@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flurry of details about Apple's upcoming iPhone trade-in program emerge
+title: Flurry of details about Apples upcoming iPhone trade-in program emerge
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/01/iPhone-5-Apple-Store-window-UTC-la-jolla.jpg)
 * Bloomberg in June asserted that Apple was gearing up to launch a trade-in program for iPhones at its own retail stores. While the company has been accepting trade-ins through its Reuse and Recycle program for quite some time, this would mark the first time it’s made trade-in offers first hand, via its rumored partnership with the recycling firm Brightstar.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's Talk iOS 242- WWDC 2018 overview
+title: Lets Talk iOS 242- WWDC 2018 overview
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2018/02/Lets-Talk-iOS-podcast-on-iPhone-X.jpg)
 * After announcing the winner of the fantasy draft, Cody and Sebastien share their overview of the WWDC 2018 keynote and all the announcements made for iOS, watchOS, tvOS, and macOS. 

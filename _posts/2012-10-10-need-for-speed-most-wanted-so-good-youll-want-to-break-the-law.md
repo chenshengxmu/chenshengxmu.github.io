@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Need for Speed Most Wanted- so good you'll want to break the law
+title: Need for Speed Most Wanted- so good youll want to break the law
 ---
 * EA Mobile just tweeted their first trailer for the upcoming racing game for the iOS and Android platform, aptly named Need For Speed Most Wanted. Prior Need for Speed games all looked great, always raising the bar when it comes to graphics and gameplay. If this trailer is anything to go by, Need for Speed Most Wanted won’t disappoint.
 * The game features dynamic physics-based collisions for realistic visual damage, cop takedowns, high speed chases and what not. You’ll have a chance to drive such cars as the Dodge Challenger SRT8 392, the Maserati GranTurismo MC Stradale, the Porsche 911 Carrera S and many more. It’s coming on October 30 so stay tuned…

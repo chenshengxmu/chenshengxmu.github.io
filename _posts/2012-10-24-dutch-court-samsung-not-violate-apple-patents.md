@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dutch court rules Samsung did not violate Apple's prized multitouch gesture patents
+title: Dutch court rules Samsung did not violate Apples prized multitouch gesture patents
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2012/10/January-2007-iPhone-introduction-Steve-Jobs-multitouch-patented-slide.jpg)
 * A court in The Netherlands let Samsung off the hook, ruling that some of the South Korean conglomerate’s many Galaxy smartphones and tablets did not infringe upon Apple’s prized patents related to multitouch gestures on iPhones and iPads. As you know, Apple took Samsung and other handset makers to court, arguing they copied the zoom to pinch feature and other multi-finger gestures on iOS devices.

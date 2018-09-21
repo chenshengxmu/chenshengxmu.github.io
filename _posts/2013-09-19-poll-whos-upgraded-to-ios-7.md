@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Poll- who's upgraded to iOS 7?
+title: Poll- whos upgraded to iOS 7?
 ---
 ![img](http://media.idownloadblog.com/wp-content/uploads/2013/09/white-iPhone-5s-front.jpg)
 * We now know nearly one out of each three iOS users has upgraded to iOS 7 in the first sixteen hours of its availability. Have you? We’re only asking you to tell us whether or not you upgraded by now, in order to get a better understanding of the iOS 7 adoption rates thus far.
