@@ -4,7 +4,7 @@ title: Check for balanced parentheses in an expression
 ---
 * Given an expression string exp , write a program to examine whether the pairs and the orders of “{“,”}”,”(“,”)”,”[“,”]” are correct in exp. For example, the program should print true for exp = “[()]{}{[()()]()}” and false for exp = “[(])”
 
-* ![img](https://www.geeksforgeeks.org/wp-content/uploads/Check-for-balanced-parentheses-in-an-expression-1.png)<-
+* ![img](https://www.geeksforgeeks.org/wp-content/uploads/Check-for-balanced-parentheses-in-an-expression-1.png)
 
 * Algorithm: 
   1. Declare a character stack S. 
