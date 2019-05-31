@@ -2,7 +2,7 @@
 layout: post
 title: Check for balanced parentheses in an expression
 ---
-```
+```java
     static boolean areParenthesisBalanced(char exp[])
     {
 
