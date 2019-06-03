@@ -60,7 +60,7 @@ paginate_path: 'page:num'
 collections:
   ci-ke:
     output: true
-  cheng-yu:
+  zhan-guo-che:
     output: true
 
 # The release of Jekyll Now that you're using
