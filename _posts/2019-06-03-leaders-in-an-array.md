@@ -1,6 +1,6 @@
 ---
 layout: post
-title: leaders-in-an-array
+title: Leaders-in-an-array
 ---
 ```java
     void printLeaders(int arr[], int size)
