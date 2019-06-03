@@ -2,11 +2,9 @@
 layout: post
 title: Check for balanced parentheses in an expression
 ---
-code
 ```java
-    static boolean areParenthesisBalanced(char exp[])
+    boolean areParenthesisBalanced(char exp[])
     {
-
         Stack<Character> st = new Stack<Character>();
 
         for (int i = 0; i < exp.length; i++)
@@ -21,7 +19,8 @@ code
                 if (st.isEmpty())
                 {
                     return false;
-                } else if (!isMatchingPair(st.pop(), exp[i]))
+                } 
+                else if (!isMatchingPair(st.pop(), exp[i]))
                 {
                     return false;
                 }
@@ -37,7 +36,7 @@ code
         }
     }
 
-    static boolean isMatchingPair(char character1, char character2)
+    boolean isMatchingPair(char character1, char character2)
     {
         if (character1 == '(' && character2 == ')')
         {
