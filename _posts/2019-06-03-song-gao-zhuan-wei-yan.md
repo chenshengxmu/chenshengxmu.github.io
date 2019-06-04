@@ -2,6 +2,7 @@
 layout: post
 title: 宋高僧传-唐朗州药山惟俨
 ---
+![](https://gss3.bdstatic.com/7Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=62616ac4b2fb43160e12722841cd2d46/5d6034a85edf8db1941f766b0923dd54564e748f.jpg)
 释惟俨，俗姓寒，绛县人也。童齓慷恺，敏俊逸羣。年十七，从南康事潮阳西山惠照禅师。大历八年，纳戎于衡岳寺希澡律师所，乃曰：
 > 大丈夫当离法自净，焉能屑屑事细行于布巾邪?
 
