@@ -1,6 +1,6 @@
 ---
 layout: post
-title: count-strictly-increasing-subarrays
+title: Count-strictly-increasing-subarrays
 ---
 ```java
 int countIncreasing(int n)

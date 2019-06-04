@@ -1,6 +1,6 @@
 ---
 layout: post
-title: find-a-fixed-point-in-a-given-array
+title: Find-a-fixed-point-in-a-given-array
 ---
 ```java
 int binarySearch(int arr[], int low, int high)
