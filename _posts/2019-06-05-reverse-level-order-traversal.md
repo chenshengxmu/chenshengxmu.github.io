@@ -1,6 +1,6 @@
 ---
 layout: post
-title: reverse-level-order-traversal
+title: Reverse Level Order Traversal
 ---
 ```java
 void reverseLevelOrder(Node node) 
