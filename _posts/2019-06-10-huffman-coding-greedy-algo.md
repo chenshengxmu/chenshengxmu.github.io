@@ -1,6 +1,5 @@
 ---
 layout: post
-title: 
 ---
 ![](https://upload.wikimedia.org/wikipedia/commons/8/82/Huffman_tree_2.svg)
 ```java
