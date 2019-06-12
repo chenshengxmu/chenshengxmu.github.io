@@ -34,7 +34,7 @@ layout: default
   {% endif %}
 
 {% for page in (1..paginator.total_pages) %}
-	{% assign v = page | modulo: 100 %}
+	{% assign v = page | modulo: 2 %}
 	{% if page == paginator.page %}
 		<em>{{ page }}</em>
 	{% elsif v == 0 %}
