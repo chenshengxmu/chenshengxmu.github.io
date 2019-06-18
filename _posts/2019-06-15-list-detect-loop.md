@@ -2,6 +2,7 @@
 layout: post
 ---
 ```java
+// Java program to detect loop in a linked list 
 
 int detectLoop() 
 { 
@@ -16,5 +17,6 @@ int detectLoop()
 	} 
 	return 0; 
 } 
+
 
 ```
