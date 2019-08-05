@@ -1,28 +1,10 @@
 ---
 layout: default
 ---
-
 {% include mathjax.html %}
 
-<article class="post">
-  <h1><center>{{ page.title }}</center></h1>
-
-  <div class="entry">
-    {{ content }}
-  </div>
-
-  {% include disqus.html %}
+<article>
+  <h2>{{ page.title }}</h2>
+  <time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
+  {{ content }}
 </article>
-
-<br>
-<div class="pagination">  
-<center>
-  {% if page.next.url %}  
-    <a class="prev" href="{{page.next.url}}">&laquo; {{page.next.title}}</a>  
-  {% endif %}  
-<br>
-  {% if page.previous.url %}  
-    <a class="next" href="{{page.previous.url}}">{{page.previous.title}} &raquo;</a>  
-  {% endif %}  
-</center>
-</div>  
