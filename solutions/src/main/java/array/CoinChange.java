@@ -10,14 +10,14 @@ public class CoinChange
         Arrays.fill(dp, amount + 1);
 
         dp[0] = 0;
-        for (int i = 1; i < amount; i++)
+        for (int i = 1; i <= amount; i++)
         {
-            int min = 0;
+            int min = amount + 1;
             for (int j = 0; j < coins.length; j++)
             {
-                if (coins[j] <= amount)
+                if (coins[j] <= i)
                 {
-                    min = Math.min(min, dp[amount - coins[j]]);
+                    min = Math.min(min, dp[i - coins[j]]+1);
                 }
             }
             dp[i] = min;
