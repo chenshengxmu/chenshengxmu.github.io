@@ -15,5 +15,8 @@ public class Test
         int low = 0;
         int high = 0;
         int mid = (low + high) >>> 1;
+
+        HashMap<Integer, Integer> map = new HashMap<>();
+
     }
 }
