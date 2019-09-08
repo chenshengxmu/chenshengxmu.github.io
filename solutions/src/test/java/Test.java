@@ -17,6 +17,9 @@ public class Test
         int mid = (low + high) >>> 1;
 
         HashMap<Integer, Integer> map = new HashMap<>();
+        StringBuilder sb = new StringBuilder();
+        String substring = sb.substring(0, -1);
+        System.out.println(substring);
 
     }
 }

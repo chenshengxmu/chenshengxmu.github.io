@@ -1,3 +1,5 @@
+package design;
+
 public class Trie
 {
     TrieNode root = new TrieNode();

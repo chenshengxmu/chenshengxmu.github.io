@@ -49,107 +49,108 @@ public class LRUCache<K, V>
         }
 
     }
-}
 
-class Node<K, V>
-{
-    K key;
-    V value;
-    Node<K, V> pre;
-    Node<K, V> next;
-
-    Node(K key, V value)
+    class Node<K, V>
     {
-        this.key = key;
-        this.value = value;
-    }
-}
+        K key;
+        V value;
+        Node<K, V> pre;
+        Node<K, V> next;
 
-class Queue<K, V>
-{
-    private int capacity;
-    private int size;
-    private Node<K, V> head;
-    private Node<K, V> tail;
-
-    Queue(int capacity)
-    {
-        this.capacity = capacity;
+        Node(K key, V value)
+        {
+            this.key = key;
+            this.value = value;
+        }
     }
 
-    Node<K, V> addToHead(Node<K, V> node)
+    class Queue<K, V>
     {
-        Node<K, V> nodeDeleted = null;
-        if (isFull())
-        {
-            nodeDeleted = removeLastNode();
+        private int capacity;
+        private int size;
+        private Node<K, V> head;
+        private Node<K, V> tail;
 
+        Queue(int capacity)
+        {
+            this.capacity = capacity;
         }
 
-        if (isEmpty())
+        Node<K, V> addToHead(Node<K, V> node)
         {
-            head = node;
-            tail = node;
+            Node<K, V> nodeDeleted = null;
+            if (isFull())
+            {
+                nodeDeleted = removeLastNode();
+
+            }
+
+            if (isEmpty())
+            {
+                head = node;
+                tail = node;
+            }
+            else
+            {
+                node.next = head;
+                head.pre = node;
+                head = node;
+            }
+
+            size++;
+
+            return nodeDeleted;
         }
-        else
+
+        void moveToHead(Node<K, V> node)
         {
+            if (node == head)
+            {
+                return;
+            }
+
+            if (node == tail)
+            {
+
+                node.pre.next = null;
+                tail = node.pre;
+
+            }
+            else
+            {
+                node.pre.next = node.next;
+                node.next.pre = node.pre;
+            }
+
             node.next = head;
+            node.pre = null;
             head.pre = node;
             head = node;
+
         }
 
-        size++;
-
-        return nodeDeleted;
-    }
-
-    void moveToHead(Node<K, V> node)
-    {
-        if (node == head)
+        private boolean isEmpty()
         {
-            return;
+            return size == 0;
         }
 
-        if (node == tail)
+        private Node<K, V> removeLastNode()
         {
+            Node<K, V> nodeToDelete = tail;
+            tail.pre.next = null;
+            tail = tail.pre;
 
-            node.pre.next = null;
-            tail = node.pre;
+            size--;
 
+            return nodeToDelete;
         }
-        else
+
+        private boolean isFull()
         {
-            node.pre.next = node.next;
-            node.next.pre = node.pre;
+            return size == capacity;
         }
 
-        node.next = head;
-        node.pre = null;
-        head.pre = node;
-        head = node;
 
     }
-
-    private boolean isEmpty()
-    {
-        return size == 0;
-    }
-
-    private Node<K, V> removeLastNode()
-    {
-        Node<K, V> nodeToDelete = tail;
-        tail.pre.next = null;
-        tail = tail.pre;
-
-        size--;
-
-        return nodeToDelete;
-    }
-
-    private boolean isFull()
-    {
-        return size == capacity;
-    }
-
-
 }
+
